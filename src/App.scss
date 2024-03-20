@@ -1,0 +1,147 @@
+#root {
+  max-width: 1900px;
+  width: 100%;
+  margin: 0 auto;
+  // padding: 1rem;
+}
+
+#app {
+  padding: 1rem;
+}
+
+h1 {
+  margin-bottom: 1rem;
+  margin-top: 0;
+  font-size: calc(1.2rem + 1.2vw);
+}
+
+#story-contain {
+  width: 100%;
+  display: block;
+  position: relative;
+
+  #story {
+    font-size: calc(0.8rem + 0.1vw);
+    transform-origin: 0 0;
+
+    .faded {
+      &.location-group,
+      &.character-square,
+      .character-square,
+      &.legend-item {
+        opacity: 0.3;
+      }
+
+      &.path-group {
+        stroke-opacity: 0.3;
+      }
+    }
+
+    .character-path.faded {
+      .character-name {
+        fill-opacity: 0.3;
+      }
+    }
+
+    .location-name,
+    .scene-name {
+      font-weight: 500;
+      transition: 0.3s;
+    }
+
+    .scene-name.faded {
+      fill-opacity: 0.3;
+    }
+
+    .character-name,
+    .time-label,
+    .quote-text,
+    #legend {
+      font-size: calc(0.7rem + 0.05vw);
+    }
+
+    .quote-text.bold {
+      font-weight: 600;
+    }
+
+    .scene-box {
+      transition: 0.3s;
+      &:hover,
+      &.highlight {
+        stroke-opacity: 1;
+      }
+    }
+
+    .legend-item {
+      cursor: pointer;
+      transition: 0.3s;
+      &:hover {
+        opacity: 0.7;
+      }
+      &.faded:hover {
+        opacity: 0.5;
+      }
+    }
+
+    .character-path {
+      transition: 0.3s;
+      &.hidden {
+        fill-opacity: 0;
+        stroke-opacity: 0;
+      }
+
+      .path-group,
+      .location-group,
+      .character-name,
+      .character-square,
+      .char-name-label {
+        transition: 0.3s;
+      }
+    }
+
+    .location-group,
+    .quote-box {
+      transition: 0.3s;
+    }
+
+    .quote-box {
+      pointer-events: none;
+      visibility: hidden;
+
+      .character-image {
+        opacity: 0;
+        transition: 0.3s;
+      }
+
+      &.highlight {
+        stroke-opacity: 1;
+        fill-opacity: 1;
+        visibility: visible;
+
+        .character-image {
+          opacity: 1;
+        }
+      }
+    }
+
+    .quote-box.character {
+      &.highlight {
+        stroke-opacity: 0.3;
+      }
+    }
+  }
+}
+
+@media (max-width: 1200px) {
+  #story-contain {
+    #story {
+      font-size: 14px;
+      .character-name,
+      .time-label,
+      .quote-text,
+      #legend {
+        font-size: 12px;
+      }
+    }
+  }
+}
