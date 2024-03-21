@@ -169,10 +169,17 @@ export const character_quotes = character_data.map((character: any) => {
   };
 });
 
+// create dictionary with importance, conflict, and emotion ratings, each containing a list of ratings by scene
+const ratings = ["importance", "conflict", "emotion"];
+export const ratingDict = {} as any;
+for (let rating of ratings) {
+  ratingDict[rating] = data.map((scene: any) => scene.ratings[rating]);
+}
+
 // adapted from https://codepen.io/francoisromain/pen/dzoZZj
 
 // The smoothing ratio
-const smoothing = 0.5;
+const smoothing = 0.4;
 
 // Properties of a line
 // I:  - pointA (array) [x,y]: coordinates

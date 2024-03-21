@@ -13,6 +13,7 @@ import {
   colors,
   sceneLocations,
   sceneCharacters,
+  ratingDict,
   svgPath,
   bezierCommand,
 } from "../data";
@@ -387,6 +388,7 @@ const scene_summary_texts = scenes.map((_, i) => {
   };
 });
 
+// color bar positions
 const color_bar_pos = Object.keys(color_dict).map((_, i) => {
   const width = (plot_width - 2 * location_offset) / 2 + 2;
   const gap = 2;
@@ -405,6 +407,49 @@ const color_bar_pos = Object.keys(color_dict).map((_, i) => {
   };
 });
 
+// compute conflict curve positions based on conflict rating of each scene
+const min_conflict_y = scenePos[0].y - 0.75 * location_offset;
+const conflict_points = scene_data.map((scene, i) => {
+  // for each scene, compute the x and y coordinates for the curve
+  const x = scenePos[i].x;
+  // y should be between min_conflict_y and 0 (max conflict)
+  const conflict = normalizeRating(scene.ratings.conflict);
+  const y = min_conflict_y - conflict * min_conflict_y;
+  return { x: x, y: y };
+});
+
+// compute conflict curve
+const conflictPath = (() => {
+  const conflict_coords = conflict_points.map((point: any) => [
+    point.x + character_height / 2 - 5,
+    point.y + character_height / 2,
+  ]);
+
+  // add point to the character's path at the start of the story
+  // conflict_coords.unshift([
+  //   conflict_coords[0][0] - scene_width / 2,
+  //   conflict_coords[0][1],
+  // ]);
+
+  // // add point to the character's path at the end of the story
+  // conflict_coords.push([
+  //   conflict_coords[conflict_coords.length - 1][0] + scene_width / 2,
+  //   conflict_coords[conflict_coords.length - 1][1],
+  // ]);
+
+  const path = svgPath(conflict_coords, bezierCommand);
+
+  // add a point at the beginning and end of the curve to close it off
+  const start = [conflict_coords[0][0], scenePos[0].y - 0.75 * location_offset];
+  const end = [
+    conflict_coords[conflict_coords.length - 1][0],
+    scenePos[scenePos.length - 1].y - 0.75 * location_offset,
+  ];
+
+  const edited_path = path.replace("M", "M" + start[0] + "," + start[1] + " L");
+  return edited_path + " L " + end[0] + "," + end[1];
+})();
+
 function StoryVis() {
   // Initialize hidden array with useState
   const [hidden, setHidden] = useState<string[]>([]);
@@ -415,6 +460,8 @@ function StoryVis() {
     setCharacterHover,
     sceneHover,
     setSceneHover,
+    showConflict,
+    colorBy,
   } = storyStore();
 
   const updateHidden = (name: string) => {
@@ -485,6 +532,74 @@ function StoryVis() {
             </linearGradient>
           );
         })}
+        {/* create gradient for each set of ratings */}
+        {Object.keys(ratingDict).map((rating_type: any) => (
+          <linearGradient
+            id={"rating" + rating_type}
+            x1="0%"
+            y1="0%"
+            x2="100%"
+            y2="0%"
+            key={"rating gradient" + rating_type}
+          >
+            {ratingDict[rating_type].map((rating: number, j: number) => {
+              const last_ind = ratingDict[rating_type].length - 1;
+              let percent = (j / last_ind) * 100;
+              if (j > 0 && j < last_ind) {
+                percent -= 0.3;
+              }
+              return (
+                <stop
+                  offset={`${percent}%`}
+                  stopColor={
+                    rating_type === "emotion"
+                      ? emotionColor(rating)
+                      : rating_type === "conflict"
+                      ? conflictColor(normalizeRating(rating))
+                      : importanceColor(rating)
+                  }
+                  key={"rating stop" + rating_type + j}
+                />
+              );
+            })}
+          </linearGradient>
+        ))}
+        {/* white gradient for overlay */}
+        <linearGradient id="white-gradient" x1="0" y1="0%" x2="100%" y2="0%">
+          <stop
+            offset={
+              sceneHover === ""
+                ? "90%"
+                : 100 -
+                  (scene_width / scenePos[scenes.indexOf(sceneHover)].x) * 100 +
+                  "%"
+            }
+            stopColor="white"
+          />
+          <stop offset="100%" stopColor="rgb(255,255,255,0)" />
+        </linearGradient>
+        <linearGradient
+          id="white-gradient-right"
+          x1="100%"
+          y1="0%"
+          x2="0%"
+          y2="0%"
+        >
+          <stop
+            offset={
+              sceneHover === ""
+                ? "90%"
+                : 100 -
+                  ((1.5 * scene_width) /
+                    ((scenes.length - scenes.indexOf(sceneHover) - 1) *
+                      scene_width)) *
+                    100 +
+                  "%"
+            }
+            stopColor="white"
+          />
+          <stop offset="100%" stopColor="rgb(255,255,255,0)" />
+        </linearGradient>
         {/* adapted from: https://jsfiddle.net/jxtfeqag/ */}
         <marker
           id="head"
@@ -548,6 +663,57 @@ function StoryVis() {
           </g>
         ))}
       </g>
+
+      {/* add conflict curve */}
+      <path
+        id="conflict-curve"
+        d={conflictPath}
+        fillOpacity={0}
+        fill={"url(#rating" + colorBy + ")"}
+        strokeWidth={2}
+        className={
+          (showConflict ? "highlight" : "") +
+          (showConflict && (locationHover !== "" || characterHover !== "")
+            ? " faded"
+            : "")
+        }
+      />
+      <g
+        id="overlays"
+        fillOpacity={!showConflict || sceneHover === "" ? 0 : 0.7}
+      >
+        <rect
+          id="left-overlay"
+          className="white-overlay"
+          fill="url(#white-gradient)"
+          x={scenePos[0].x}
+          y={0}
+          width={
+            !showConflict || sceneHover === ""
+              ? 0
+              : scene_width * scenes.indexOf(sceneHover) - character_height
+          }
+          height={scenePos[0].y - 0.75 * location_offset}
+        />
+        <rect
+          id="right-overlay"
+          className="white-overlay"
+          fill="url(#white-gradient-right)"
+          x={
+            !showConflict || sceneHover === ""
+              ? scenePos[scenePos.length - 1].x
+              : scenePos[scenes.indexOf(sceneHover)].x
+          }
+          y={0}
+          width={
+            !showConflict || sceneHover === ""
+              ? 0
+              : (scenes.length - scenes.indexOf(sceneHover) - 1) * scene_width
+          }
+          height={scenePos[0].y - 0.75 * location_offset}
+        />
+      </g>
+
       <g id="x-axis">
         {/* add scene names to x axis */}
         <g id="scenes">
@@ -615,7 +781,10 @@ function StoryVis() {
       {/* add rectangular bar across bottom of plot to serve as legend */}
       {Object.keys(color_dict).map((scale, i) => (
         <g
-          className={"color-legend " + (sceneHover !== "" ? "highlight" : "")}
+          className={
+            "color-legend " +
+            (sceneHover !== "" || showConflict ? "highlight" : "")
+          }
           key={"color legend bar" + scale}
           opacity={0}
         >
@@ -740,7 +909,7 @@ function StoryVis() {
               height={whiteBoxes[i].height}
               fill="white"
               opacity={0.8}
-              className="name-box"
+              className={"name-box " + (showConflict ? "faded" : "")}
             />
             {/* add character name to the first scene they show up in */}
             <text
@@ -832,8 +1001,8 @@ function StoryVis() {
           y={legend_box_pos.y}
           width={legend_box_pos.width}
           height={legend_box_pos.height}
-          //   fill="white"
-          fillOpacity={0}
+          fill="white"
+          // fillOpacity={0}
           stroke="#eee"
           strokeWidth={2}
           opacity={0.8}

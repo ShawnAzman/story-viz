@@ -4,11 +4,15 @@ import App from "./App.tsx";
 import "./index.scss";
 import "@mantine/core/styles.css";
 
-import { MantineProvider } from "@mantine/core";
+import { MantineProvider, createTheme } from "@mantine/core";
+
+const theme = createTheme({
+  primaryColor: "dark",
+});
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
-    <MantineProvider>
+    <MantineProvider theme={theme}>
       <App />
     </MantineProvider>
   </React.StrictMode>

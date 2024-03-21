@@ -1,18 +1,13 @@
-import { useEffect, useState } from "react";
 import "./App.scss";
 import StoryVis from "./components/StoryVis";
 import { title } from "./data";
 
 import { Select, Switch } from "@mantine/core";
+import { storyStore } from "./store";
 
 function App() {
-  const [showConflict, setShowConflict] = useState(false);
-  const [colorBy, setColorBy] = useState("emotion");
-  const colorByOptions = ["emotion", "importance"];
-
-  useEffect(() => {
-    console.log("colorBy", colorBy);
-  }, [colorBy]);
+  const { showConflict, setShowConflict, colorBy, setColorBy } = storyStore();
+  const colorByOptions = ["conflict", "emotion", "importance"];
 
   return (
     <div id="app">

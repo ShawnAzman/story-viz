@@ -64,6 +64,10 @@ h1 {
       &.path-group {
         stroke-opacity: 0.3;
       }
+
+      .name-box.faded {
+        opacity: 0.3;
+      }
     }
 
     .character-path.faded,
@@ -126,7 +130,8 @@ h1 {
       .location-group,
       .character-name,
       .character-square,
-      .char-name-label {
+      .char-name-label,
+      .name-box {
         transition: 0.3s;
       }
     }
@@ -179,6 +184,22 @@ h1 {
       &.highlight {
         opacity: 1;
       }
+    }
+
+    #conflict-curve {
+      transition: 0.3s;
+
+      &.highlight {
+        fill-opacity: 0.8;
+      }
+
+      &.faded {
+        fill-opacity: 0.3;
+      }
+    }
+
+    .white-overlay {
+      transition: 0.3s;
     }
   }
 }
