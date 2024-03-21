@@ -1,6 +1,7 @@
 // read in data from data folder
 import gatsby_data from "./data/great_gatsby_scene_analysis.json";
 
+export const title = gatsby_data["title"];
 export const data = gatsby_data["scenes"];
 export const location_data = gatsby_data["locations"];
 export const character_data = gatsby_data["characters"];

@@ -18,6 +18,7 @@ import {
 } from "../data";
 
 import * as d3 from "d3";
+import { storyStore } from "../store";
 
 /* HELPERS */
 // color scales
@@ -407,9 +408,14 @@ const color_bar_pos = Object.keys(color_dict).map((_, i) => {
 function StoryVis() {
   // Initialize hidden array with useState
   const [hidden, setHidden] = useState<string[]>([]);
-  const [locationHover, setLocationHover] = useState<string>("");
-  const [characterHover, setCharacterHover] = useState<string>("");
-  const [sceneHover, setSceneHover] = useState<string>("");
+  const {
+    locationHover,
+    setLocationHover,
+    characterHover,
+    setCharacterHover,
+    sceneHover,
+    setSceneHover,
+  } = storyStore();
 
   const updateHidden = (name: string) => {
     setHidden((currentHidden) => {
@@ -470,7 +476,11 @@ function StoryVis() {
               key={"legend" + scale}
             >
               {color_incs.map((val, j) => (
-                <stop offset={`${vals[j]}%`} stopColor={d3scale(val)} />
+                <stop
+                  offset={`${vals[j]}%`}
+                  stopColor={d3scale(val)}
+                  key={"legend stop" + scale + j}
+                />
               ))}
             </linearGradient>
           );
@@ -521,7 +531,6 @@ function StoryVis() {
               width={location_height * 0.75}
               height={location_height * 0.75}
               href={"/locations/location_" + (i + 1) + ".png"}
-              key={"location image" + i}
             />
             <g className="location-name-group">
               {location_chunks[i].map((chunk, j) => (
@@ -616,7 +625,6 @@ function StoryVis() {
             textAnchor="end"
             fill="black"
             className="legend-label"
-            key={"legend-label left" + i}
           >
             {scale === "emotion" ? -1 : 0}
           </text>
@@ -645,7 +653,6 @@ function StoryVis() {
             textAnchor="start"
             fill="black"
             className="legend-label"
-            key={"legend-label right" + i}
           >
             1
           </text>
@@ -733,7 +740,6 @@ function StoryVis() {
               height={whiteBoxes[i].height}
               fill="white"
               opacity={0.8}
-              key={"namebox" + i}
               className="name-box"
             />
             {/* add character name to the first scene they show up in */}
@@ -930,7 +936,6 @@ function StoryVis() {
               }
               width={location_height * 0.5}
               height={location_height * 0.5}
-              key={"character image" + i}
               href={
                 "/characters/" +
                 character.character.split(" ")[0].toLowerCase() +
@@ -996,7 +1001,6 @@ function StoryVis() {
                       }
                     ></rect>
                     <text
-                      key={"scene rating" + 0 + j}
                       x={
                         j % 3 === 0
                           ? scene_summary_texts[i].x +
@@ -1068,7 +1072,6 @@ function StoryVis() {
                 x={scene_summary_texts[i].x}
                 y={scene_summary_texts[i].character_y}
                 className="bold"
-                key={"scene characters" + i}
               >
                 Characters:
               </text>
@@ -1079,9 +1082,8 @@ function StoryVis() {
                 const emotion = character.emotions[0].emotion;
                 const rating = character.emotions[0].rating;
                 return (
-                  <g>
+                  <g key={"scene character" + i + j}>
                     <text
-                      key={"scene character" + i + j}
                       x={scene_summary_texts[i].x}
                       y={
                         scene_summary_texts[i].character_list_y +
@@ -1112,7 +1114,6 @@ function StoryVis() {
                         width={character_height * 4}
                         height={character_height * 1.8}
                         fill={emotionColor(rating)}
-                        key={"scene character rating sq" + i + j}
                       ></rect>
                       <text
                         x={scene_summary_texts[i].end_x - 2 * character_height}
@@ -1124,7 +1125,6 @@ function StoryVis() {
                         textAnchor={"middle"}
                         className="scene-rating"
                         fill={textColor(rating, true)}
-                        key={"scene character rating text" + i + j}
                       >
                         {rating.toFixed(2)}
                       </text>
@@ -1141,7 +1141,6 @@ function StoryVis() {
                         }
                         textAnchor={"end"}
                         className="scene-rating"
-                        key={"scene character rating number" + i + j}
                       >
                         <tspan className="bold">{emotion}:</tspan>
                       </text>
