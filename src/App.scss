@@ -35,7 +35,7 @@ header {
 h1 {
   margin: 0;
   font-size: calc(1.2rem + 1.2vw);
-  font-style: italic;
+  // font-style: italic;
   text-transform: lowercase;
   letter-spacing: 0.6px;
 }
@@ -89,6 +89,7 @@ h1 {
 
     .character-name,
     .time-label,
+    .conflict-label,
     .quote-text:not(.scene),
     #legend,
     .scene-rating,
@@ -108,7 +109,7 @@ h1 {
       }
     }
 
-    .scene-box-outline {
+    .scene-box-fill {
       transition: 0.3s;
       &.highlight {
         fill-opacity: 0.7;
@@ -161,7 +162,9 @@ h1 {
 
     .location-group,
     .quote-box,
-    .color-legend {
+    .color-legend,
+    .white-overlay,
+    #y-arrow {
       transition: 0.3s;
     }
 
@@ -221,8 +224,11 @@ h1 {
       }
     }
 
-    .white-overlay {
-      transition: 0.3s;
+    #y-arrow {
+      &.highlight {
+        fill-opacity: 1;
+        stroke-opacity: 1;
+      }
     }
   }
 }
@@ -233,6 +239,7 @@ h1 {
       font-size: 14px;
       .character-name,
       .time-label,
+      .conflict-label,
       .quote-text:not(.scene),
       #legend,
       .scene-rating,

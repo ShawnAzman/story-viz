@@ -6,7 +6,14 @@ import { Select, Switch } from "@mantine/core";
 import { storyStore } from "./store";
 
 function App() {
-  const { showConflict, setShowConflict, colorBy, setColorBy } = storyStore();
+  const {
+    showCharacterEmotions,
+    setShowCharacterEmotions,
+    showConflict,
+    setShowConflict,
+    colorBy,
+    setColorBy,
+  } = storyStore();
   const colorByOptions = ["conflict", "emotion", "importance"];
 
   return (
@@ -14,6 +21,15 @@ function App() {
       <header>
         <h1>{title}</h1>
         <div id="options">
+          <Switch
+            size="xs"
+            label="Show character emotions"
+            labelPosition="left"
+            checked={showCharacterEmotions}
+            onChange={(event) =>
+              setShowCharacterEmotions(event.currentTarget.checked)
+            }
+          />
           <Switch
             size="xs"
             label="Show conflict overlay"
