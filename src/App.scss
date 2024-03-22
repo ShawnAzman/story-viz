@@ -142,6 +142,7 @@ h1 {
         .char-name-label {
           .character-name {
             fill-opacity: 0;
+            filter: blur(10px);
 
             .name-box {
               opacity: 0;

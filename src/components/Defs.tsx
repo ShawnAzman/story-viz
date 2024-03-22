@@ -145,6 +145,10 @@ function Defs() {
       >
         <path d="M0,0 V6 L4.5,3 Z" fill="#000000" />
       </marker>
+
+      <filter id="blur">
+        <feGaussianBlur stdDeviation="10" />
+      </filter>
     </defs>
   );
 }

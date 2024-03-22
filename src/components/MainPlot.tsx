@@ -1,0 +1,189 @@
+import { storyStore } from "../store";
+import {
+  sceneCharacters,
+  sceneLocations,
+  characterScenes,
+  data as scene_data,
+  scenes,
+} from "../utils/data";
+import { colors, emotionColor } from "../utils/colors";
+import {
+  sceneBoxes,
+  characterPaths,
+  characterPos,
+  whiteBoxes,
+} from "../utils/positions";
+import { character_height } from "../utils/consts";
+
+function MainPlot() {
+  const {
+    showConflict,
+    sceneHover,
+    setSceneHover,
+    locationHover,
+    characterHover,
+    setCharacterHover,
+    showCharacterEmotions,
+    hidden,
+  } = storyStore();
+  return (
+    <g id="main-plot">
+      {/* white boxes behind each scene */}
+      <g id="scene-box-fills">
+        {sceneCharacters.map((scene, i) => (
+          <rect
+            className={
+              "scene-box-fill " +
+              (showConflict &&
+              (locationHover === sceneLocations[i] ||
+                sceneHover === scene.scene ||
+                scene.characters.includes(characterHover))
+                ? "highlight"
+                : "")
+            }
+            x={sceneBoxes[i].x}
+            y={sceneBoxes[i].y}
+            width={sceneBoxes[i].width}
+            height={sceneBoxes[i].height}
+            fillOpacity={0}
+            fill="white"
+            key={"scenegroup fill" + i}
+          />
+        ))}
+      </g>
+      {/* add characters to each scene */}
+      <g id="character-paths">
+        {characterScenes.map((character, i) => (
+          <g
+            key={"chargroup" + i}
+            className={
+              "character-path " +
+              character.character +
+              " " +
+              (hidden.includes(character.character) ? "hidden" : "") +
+              " " +
+              (characterHover !== "" && characterHover !== character.character
+                ? "faded"
+                : "")
+            }
+          >
+            {/* add paths between scenes */}
+            <g
+              className={
+                "path-group " +
+                (locationHover !== "" ||
+                sceneHover !== "" ||
+                (characterHover !== "" &&
+                  characterHover !== character.character)
+                  ? "faded"
+                  : "")
+              }
+            >
+              {characterPaths[i].map((path, j) => (
+                <path
+                  d={path}
+                  fill="none"
+                  stroke={"url(#linear" + i + ")"}
+                  //   stroke={colors[i]}
+                  key={"charpath" + j}
+                  strokeWidth={2}
+                  onMouseEnter={() => setCharacterHover(character.character)}
+                  onMouseLeave={() => setCharacterHover("")}
+                />
+              ))}
+            </g>
+            {/* add squares at each scene the character appears in */}
+            <g className="character-squares">
+              {character.scenes.map((scene, j) => {
+                const emotion_val = scene_data[scene].characters.find(
+                  (c) => c.name === character.character
+                )?.emotions[0].rating as number;
+                const color = emotionColor(emotion_val);
+
+                return (
+                  <rect
+                    x={characterPos[i][j].x}
+                    y={characterPos[i][j].y}
+                    width={character_height}
+                    height={character_height}
+                    fill={showCharacterEmotions ? color : colors[i]}
+                    key={"charsq" + j}
+                    className={
+                      "character-square " +
+                      ((locationHover === "" && sceneHover === "") ||
+                      locationHover === sceneLocations[scene] ||
+                      scenes.indexOf(sceneHover) === scene
+                        ? ""
+                        : "faded")
+                    }
+                  />
+                );
+              })}
+            </g>
+            {/* add white rect behind character name */}
+            <g
+              className={
+                "char-name-label " +
+                ((sceneHover !== "" &&
+                  !character.scenes.includes(scenes.indexOf(sceneHover))) ||
+                (locationHover !== "" &&
+                  !character.locations.includes(locationHover))
+                  ? "faded"
+                  : "")
+              }
+              onMouseEnter={() => setCharacterHover(character.character)}
+              onMouseLeave={() => setCharacterHover("")}
+            >
+              <rect
+                x={whiteBoxes[i].x}
+                y={whiteBoxes[i].y}
+                width={whiteBoxes[i].width}
+                height={whiteBoxes[i].height}
+                fill="white"
+                opacity={0.8}
+                className={"name-box " + (showConflict ? "faded" : "")}
+              />
+              {/* add character name to the first scene they show up in */}
+              <text
+                x={characterPos[i][0].x - character_height / 2}
+                y={characterPos[i][0].y + character_height}
+                textAnchor="end"
+                fill={colors[i]}
+                className="character-name"
+              >
+                {character.character}
+              </text>
+            </g>
+          </g>
+        ))}
+      </g>
+      {/* add box outline for characters in each scene */}
+      <g id="scene-boxes">
+        {sceneCharacters.map((scene, i) => (
+          <rect
+            className={
+              "scene-box " +
+              (locationHover === sceneLocations[i] ||
+              sceneHover === scene.scene ||
+              scene.characters.includes(characterHover)
+                ? "highlight"
+                : "")
+            }
+            x={sceneBoxes[i].x}
+            y={sceneBoxes[i].y}
+            width={sceneBoxes[i].width}
+            height={sceneBoxes[i].height}
+            fillOpacity={0}
+            strokeOpacity={0}
+            stroke={"rgb(0,0,0,0.7)"}
+            strokeWidth={2}
+            key={"scenegroup" + i}
+            onMouseEnter={() => setSceneHover(scene.scene)}
+            onMouseLeave={() => setSceneHover("")}
+          />
+        ))}
+      </g>
+    </g>
+  );
+}
+export default MainPlot;

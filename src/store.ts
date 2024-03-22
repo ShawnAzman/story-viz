@@ -15,6 +15,8 @@ export interface IStore {
   setCharacterHover: (val: string) => void;
   sceneHover: string;
   setSceneHover: (val: string) => void;
+  hidden: string[];
+  setHidden: (val: string[]) => void;
 }
 
 const initialState = {
@@ -25,6 +27,7 @@ const initialState = {
   locationHover: "",
   characterHover: "",
   sceneHover: "",
+  hidden: [],
 };
 
 export const storyStore = create<IStore>()((set) => ({
@@ -37,4 +40,5 @@ export const storyStore = create<IStore>()((set) => ({
   setLocationHover: (val: string) => set({ locationHover: val }),
   setCharacterHover: (val: string) => set({ characterHover: val }),
   setSceneHover: (val: string) => set({ sceneHover: val }),
+  setHidden: (val: string[]) => set({ hidden: val }),
 }));
