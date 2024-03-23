@@ -176,18 +176,6 @@ export const sceneBoxes = sceneCharacters.map((scene, i) => {
   };
 });
 
-// compute white rect positions behind text
-export const whiteBoxes = characterScenes.map((character, i) => {
-  return {
-    x:
-      characterPos[i][0].x -
-      character.character.length * character_height * 0.68,
-    y: characterPos[i][0].y,
-    width: character.character.length * 0.65 * character_height,
-    height: character_height * 1.25,
-  };
-});
-
 // compute pos of legend items
 // put in 2 rows
 let legend_offset =

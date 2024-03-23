@@ -36,7 +36,7 @@ h1 {
   margin: 0;
   font-size: calc(1.2rem + 1.2vw);
   // font-style: italic;
-  text-transform: lowercase;
+  // text-transform: lowercase;
   letter-spacing: 0.6px;
 }
 
@@ -74,6 +74,7 @@ h1 {
     .char-name-label.faded {
       .character-name {
         fill-opacity: 0.3;
+        stroke-opacity: 0.3;
       }
     }
 
@@ -142,7 +143,7 @@ h1 {
         .char-name-label {
           .character-name {
             fill-opacity: 0;
-            filter: blur(10px);
+            stroke-opacity: 0;
 
             .name-box {
               opacity: 0;

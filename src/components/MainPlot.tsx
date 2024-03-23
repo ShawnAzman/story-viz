@@ -7,12 +7,7 @@ import {
   scenes,
 } from "../utils/data";
 import { colors, emotionColor } from "../utils/colors";
-import {
-  sceneBoxes,
-  characterPaths,
-  characterPos,
-  whiteBoxes,
-} from "../utils/positions";
+import { sceneBoxes, characterPaths, characterPos } from "../utils/positions";
 import { character_height } from "../utils/consts";
 
 function MainPlot() {
@@ -134,21 +129,15 @@ function MainPlot() {
               onMouseEnter={() => setCharacterHover(character.character)}
               onMouseLeave={() => setCharacterHover("")}
             >
-              <rect
-                x={whiteBoxes[i].x}
-                y={whiteBoxes[i].y}
-                width={whiteBoxes[i].width}
-                height={whiteBoxes[i].height}
-                fill="white"
-                opacity={0.8}
-                className={"name-box " + (showConflict ? "faded" : "")}
-              />
               {/* add character name to the first scene they show up in */}
               <text
                 x={characterPos[i][0].x - character_height / 2}
                 y={characterPos[i][0].y + character_height}
                 textAnchor="end"
                 fill={colors[i]}
+                paint-order="stroke"
+                stroke="rgb(255,255,255,0.8)"
+                strokeWidth={4}
                 className="character-name"
               >
                 {character.character}
