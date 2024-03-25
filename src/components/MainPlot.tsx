@@ -140,7 +140,7 @@ function MainPlot() {
                 y={characterPos[i][0].y + 0.8 * character_height}
                 textAnchor="end"
                 fill={colors[i]}
-                paint-order="stroke"
+                paintOrder="stroke"
                 stroke="rgb(255,255,255,0.8)"
                 strokeWidth={4}
                 className="character-name"

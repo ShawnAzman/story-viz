@@ -18,10 +18,29 @@ header {
   #options {
     display: flex;
     align-items: center;
-    gap: 20px;
+    gap: 30px;
+
+    .options-contain {
+      font-size: calc(0.65rem + 0.05vw);
+      transition: 0.3s;
+
+      b {
+        margin-bottom: 15px;
+      }
+
+      .options-inner {
+        display: flex;
+        gap: 20px;
+        align-items: center;
+      }
+    }
 
     .mantine-Switch-label {
       font-weight: 500;
+    }
+
+    .mantine-Switch-body {
+      padding: 6px 0;
     }
 
     .mantine-Select-root {
@@ -29,7 +48,19 @@ header {
       align-items: center;
       gap: 10px;
     }
+
+    .mantine-Select-input {
+      width: 110px;
+    }
   }
+}
+
+.mantine-Switch-label,
+.mantine-Select-label,
+.mantine-Select-input,
+.mantine-Select-option span {
+  font-size: calc(0.65rem + 0.05vw) !important;
+  transition: 0.3s;
 }
 
 h1 {
@@ -39,7 +70,6 @@ h1 {
   // text-transform: lowercase;
   letter-spacing: 0.6px;
 }
-
 #story-contain {
   width: 100%;
   display: block;
@@ -86,6 +116,10 @@ h1 {
 
     .scene-name.faded {
       fill-opacity: 0.3;
+    }
+
+    .scene-name-text {
+      transition: 0.3s;
     }
 
     .character-name,
@@ -257,5 +291,13 @@ h1 {
         font-size: 12px;
       }
     }
+  }
+
+  .options-contain,
+  .mantine-Switch-label,
+  .mantine-Select-label,
+  .mantine-Select-input,
+  .mantine-Select-option span {
+    font-size: 10.5px !important;
   }
 }

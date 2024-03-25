@@ -12,7 +12,7 @@ import {
 } from "./data";
 import { color_dict } from "./colors";
 import { bezierCommand, svgPath } from "./curve";
-import { normalizeRating, normalizeValue } from "./helpers";
+import { normalizeRating, normalizeMarkerSize } from "./helpers";
 
 import {
   location_height,
@@ -54,16 +54,14 @@ export const characterPos = characterScenes.map((character) => {
 });
 
 // compute character square positions
-export const characterSquares = characterScenes.map((character, i) => {
-  return character.scenes.map((scene, j) => {
+export const characterSquares = characterScenes.map((character) => {
+  return character.scenes.map((scene) => {
     const importance = scene_data[scene].characters.find(
       (c) => c.name === character.character
     )?.importance as number;
 
-    const normalized_importance = normalizeValue(
-      character_height * importance,
-      0,
-      10
+    const normalized_importance = normalizeMarkerSize(
+      character_height * importance
     );
     return {
       x: initialScenePos[scene].x - 0.5 * normalized_importance,

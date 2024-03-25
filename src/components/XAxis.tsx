@@ -1,16 +1,30 @@
 import { storyStore } from "../store";
 import {
   scenes,
+  data,
   sceneLocations,
   sceneCharacters,
   sceneChunks,
 } from "../utils/data";
 import { character_offset, location_offset } from "../utils/consts";
 import { scenePos } from "../utils/positions";
+import { conflictColor, emotionColor, importanceColor } from "../utils/colors";
+import {
+  normalizeFontSize,
+  normalizeRating,
+  normalizeTextOffset,
+} from "../utils/helpers";
 
 function XAxis() {
-  const { locationHover, sceneHover, characterHover, setSceneHover } =
-    storyStore();
+  const {
+    locationHover,
+    sceneHover,
+    characterHover,
+    setSceneHover,
+    sizeBy,
+    colorBy,
+    stylize,
+  } = storyStore();
   return (
     <g id="x-axis">
       {/* add scene names to x axis */}
@@ -30,25 +44,48 @@ function XAxis() {
                 : "faded")
             }
           >
-            {sceneChunks[i].map((chunk, j) => (
-              <text
-                x={scenePos[i].x + j * character_offset * 1.5}
-                y={scenePos[i].y}
-                textAnchor="end"
-                key={"scene" + i + j}
-                transform={
-                  "rotate(-45," +
-                  (scenePos[i].x + j * character_offset * 1.5) +
-                  ", " +
-                  scenePos[i].y +
-                  ")"
-                }
-                onMouseEnter={() => setSceneHover(scene)}
-                onMouseLeave={() => setSceneHover("")}
-              >
-                {chunk}
-              </text>
-            ))}
+            {sceneChunks[i].map((chunk, j) => {
+              const ratings = data[i].ratings;
+              const textOffset = !stylize
+                ? 1.5
+                : sizeBy === "conflict"
+                ? normalizeTextOffset(ratings.conflict)
+                : normalizeTextOffset(ratings.importance);
+              const fontSize = !stylize
+                ? 0.8
+                : sizeBy === "conflict"
+                ? normalizeFontSize(ratings.conflict)
+                : normalizeFontSize(ratings.importance);
+              const color = !stylize
+                ? "black"
+                : colorBy === "emotion"
+                ? emotionColor(ratings.emotion)
+                : colorBy === "conflict"
+                ? conflictColor(normalizeRating(ratings.conflict))
+                : importanceColor(ratings.importance);
+              return (
+                <text
+                  x={scenePos[i].x + j * character_offset * textOffset}
+                  y={scenePos[i].y}
+                  textAnchor="end"
+                  key={"scene" + i + j}
+                  fill={color}
+                  className="scene-name-text"
+                  fontSize={"calc(" + fontSize + "rem + 0.1vw)"}
+                  transform={
+                    "rotate(-45," +
+                    (scenePos[i].x + j * character_offset * textOffset) +
+                    ", " +
+                    scenePos[i].y +
+                    ")"
+                  }
+                  onMouseEnter={() => setSceneHover(scene)}
+                  onMouseLeave={() => setSceneHover("")}
+                >
+                  {chunk}
+                </text>
+              );
+            })}
           </g>
         ))}
       </g>
@@ -58,7 +95,6 @@ function XAxis() {
           id="arrow-line"
           markerEnd="url(#head)"
           strokeWidth="2"
-          fill="none"
           stroke="black"
           d={`M${scenePos[0].x},${scenePos[0].y - 0.75 * location_offset}, ${
             scenePos[scenePos.length - 1].x

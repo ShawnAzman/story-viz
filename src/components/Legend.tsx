@@ -10,6 +10,7 @@ function Legend() {
     sceneHover,
     showConflict,
     showCharacterEmotions,
+    stylize,
     hidden,
     setHidden,
   } = storyStore();
@@ -81,7 +82,10 @@ function Legend() {
           <g
             className={
               "color-legend " +
-              (sceneHover !== "" || showConflict || showCharacterEmotions
+              (sceneHover !== "" ||
+              stylize ||
+              showConflict ||
+              showCharacterEmotions
                 ? "highlight"
                 : "")
             }
