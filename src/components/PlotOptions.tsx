@@ -65,16 +65,20 @@ function PlotOptions() {
       </div>
       <Divider orientation="vertical" />
       <div className="options-contain">
-        <b>Character Squares</b>
-        <Select
-          size="xs"
-          label="Color by"
-          data={characterColorOptions}
-          value={characterColor}
-          onChange={(value) => {
-            if (value) setCharacterColor(value);
-          }}
-        />
+        <span>
+          <b>Character Squares</b> (size = importance)
+        </span>
+        <div className="options-inner">
+          <Select
+            size="xs"
+            label="Color by"
+            data={characterColorOptions}
+            value={characterColor}
+            onChange={(value) => {
+              if (value) setCharacterColor(value);
+            }}
+          />
+        </div>
       </div>
     </div>
   );
