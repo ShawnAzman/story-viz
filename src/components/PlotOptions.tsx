@@ -14,8 +14,8 @@ function PlotOptions() {
     stylize,
     setStylize,
   } = storyStore();
-  const colorByOptions = ["conflict", "emotion", "importance"];
-  const sizeByOptions = ["conflict", "importance"];
+  const colorByOptions = ["conflict", "emotion", "importance", "none"];
+  const sizeByOptions = ["conflict", "importance", "none"];
   return (
     <div id="options">
       <div className="options-contain">
