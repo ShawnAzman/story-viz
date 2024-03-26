@@ -12,20 +12,17 @@
       },
       "location": {
         "name": "Nick's Childhood Home",
-        "group": "Nick's Childhood Home",
-        "quote": "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since."
+        "group": "Nick's Childhood Home"
       },
       "characters": [
         {
           "name": "Nick",
           "importance": 1,
-          "emotions": [
-            {
-              "emotion": "Reflective and Contemplative",
-              "quote": "I've been turning over in my mind ever since.",
-              "rating": 0.3
-            }
-          ]
+          "emotion": {
+            "description": "Reflective and Contemplative",
+            "quote": "I've been turning over in my mind ever since.",
+            "rating": 0.3
+          }
         }
       ]
     },
@@ -40,20 +37,17 @@
       },
       "location": {
         "name": "West Egg, Nick's New Home",
-        "group": "West Egg - Nick's Home",
-        "quote": "I had just left a country of wide lawns and friendly trees, so when a young man at the office suggested that we take a house together in a commuting town, it sounded like a great idea."
+        "group": "West Egg - Nick's Home"
       },
       "characters": [
         {
           "name": "Nick",
           "importance": 1,
-          "emotions": [
-            {
-              "emotion": "Optimistic yet Isolated",
-              "quote": "It was lonely for a day or so until one morning some man, more recently arrived than I, stopped me on the road.",
-              "rating": 0.1
-            }
-          ]
+          "emotion": {
+            "description": "Optimistic yet Isolated",
+            "quote": "It was lonely for a day or so until one morning some man, more recently arrived than I, stopped me on the road.",
+            "rating": 0.1
+          }
         }
       ]
     },
@@ -68,42 +62,44 @@
       },
       "location": {
         "name": "Buchanan's Home, East Egg",
-        "group": "East Egg",
-        "quote": "Their house was even more elaborate than I expected, a cheerful red-and-white Georgian Colonial mansion, overlooking the bay."
+        "group": "East Egg"
       },
       "characters": [
         {
           "name": "Nick",
           "importance": 0.8,
-          "emotions": [
-            {
-              "emotion": "Out of place",
-              "quote": "I was a guide, a pathfinder, an original settler.",
-              "rating": -0.2
-            }
-          ]
+          "emotion": {
+            "description": "Out of place",
+            "quote": "I was a guide, a pathfinder, an original settler.",
+            "rating": -0.2
+          }
         },
         {
           "name": "Daisy",
           "importance": 0.9,
-          "emotions": [
-            {
-              "emotion": "Superficially cheerful",
-              "quote": "I'm p-paralysed with happiness.",
-              "rating": 0.4
-            }
-          ]
+          "emotion": {
+            "description": "Superficially cheerful",
+            "quote": "I'm p-paralysed with happiness.",
+            "rating": 0.4
+          }
         },
         {
           "name": "Tom Buchanan",
           "importance": 0.9,
-          "emotions": [
-            {
-              "emotion": "Dominant and arrogant",
-              "quote": "Two shining arrogant eyes had established dominance over his face.",
-              "rating": -0.8
-            }
-          ]
+          "emotion": {
+            "description": "Dominant and arrogant",
+            "quote": "Two shining arrogant eyes had established dominance over his face.",
+            "rating": -0.8
+          }
+        },
+        {
+          "name": "Jordan Baker",
+          "importance": 0.7,
+          "emotion": {
+            "description": "Bored and indifferent",
+            "quote": "Absolutely! I haven't heard a word.",
+            "rating": -0.4
+          }
         }
       ]
     },
@@ -118,42 +114,35 @@
       },
       "location": {
         "name": "The Buchanan's Home",
-        "group": "East Egg",
-        "quote": "The telephone rang inside, startlingly, and as Daisy shook her head decisively at Tom the subject of the stables, in fact all subjects, vanished into air."
+        "group": "East Egg"
       },
       "characters": [
         {
           "name": "Tom Buchanan",
           "importance": 0.9,
-          "emotions": [
-            {
-              "emotion": "Defensive",
-              "quote": "What you doing, Nick?",
-              "rating": -0.6
-            }
-          ]
+          "emotion": {
+            "description": "Defensive",
+            "quote": "What you doing, Nick?",
+            "rating": -0.6
+          }
         },
         {
           "name": "Daisy",
           "importance": 0.8,
-          "emotions": [
-            {
-              "emotion": "Annoyed and upset",
-              "quote": "You did it, Tom, she said accusingly. I know you didn't mean to, but you did do it.",
-              "rating": -0.7
-            }
-          ]
+          "emotion": {
+            "description": "Annoyed and upset",
+            "quote": "You did it, Tom, she said accusingly. I know you didn't mean to, but you did do it.",
+            "rating": -0.7
+          }
         },
         {
           "name": "Nick",
           "importance": 0.7,
-          "emotions": [
-            {
-              "emotion": "Uncomfortable and observant",
-              "quote": "I couldn't guess what Daisy and Tom were thinking, but I doubt if even Miss Baker, who seemed to have mastered a certain hardy scepticism, was able utterly to put this fifth guest's shrill metallic urgency out of mind.",
-              "rating": -0.4
-            }
-          ]
+          "emotion": {
+            "description": "Uncomfortable and observant",
+            "quote": "I couldn't guess what Daisy and Tom were thinking, but I doubt if even Miss Baker, who seemed to have mastered a certain hardy scepticism, was able utterly to put this fifth guest's shrill metallic urgency out of mind.",
+            "rating": -0.4
+          }
         }
       ]
     },
@@ -168,42 +157,35 @@
       },
       "location": {
         "name": "Valley of Ashes, Wilson's Garage",
-        "group": "Valley of Ashes",
-        "quote": "The only building in sight was a small block of yellow brick sitting on the edge of the waste land."
+        "group": "Valley of Ashes"
       },
       "characters": [
         {
           "name": "Tom Buchanan",
           "importance": 1,
-          "emotions": [
-            {
-              "emotion": "Dominant and possessive",
-              "quote": "We're getting off, he insisted. I want you to meet my girl.",
-              "rating": -0.8
-            }
-          ]
+          "emotion": {
+            "description": "Dominant and possessive",
+            "quote": "We're getting off, he insisted. I want you to meet my girl.",
+            "rating": -0.8
+          }
         },
         {
           "name": "Myrtle Wilson",
           "importance": 1,
-          "emotions": [
-            {
-              "emotion": "Eager and ambitious",
-              "quote": "I want to get one of those dogs, she said earnestly.",
-              "rating": 0.5
-            }
-          ]
+          "emotion": {
+            "description": "Eager and ambitious",
+            "quote": "I want to get one of those dogs, she said earnestly.",
+            "rating": 0.5
+          }
         },
         {
           "name": "George Wilson",
           "importance": 0.8,
-          "emotions": [
-            {
-              "emotion": "Hopeful yet resigned",
-              "quote": "I can't complain, answered Wilson unconvincingly.",
-              "rating": -0.5
-            }
-          ]
+          "emotion": {
+            "description": "Hopeful yet resigned",
+            "quote": "I can't complain, answered Wilson unconvincingly.",
+            "rating": -0.5
+          }
         }
       ]
     },
@@ -218,42 +200,35 @@
       },
       "location": {
         "name": "Myrtle's Apartment in New York",
-        "group": "New York",
-        "quote": "The apartment was on the top floor—a small living-room, a small dining-room, a small bedroom, and a bath."
+        "group": "New York"
       },
       "characters": [
         {
           "name": "Nick",
           "importance": 0.7,
-          "emotions": [
-            {
-              "emotion": "Bewildered and intoxicated",
-              "quote": "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.",
-              "rating": 0
-            }
-          ]
+          "emotion": {
+            "description": "Bewildered and intoxicated",
+            "quote": "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.",
+            "rating": 0
+          }
         },
         {
           "name": "Myrtle Wilson",
           "importance": 0.9,
-          "emotions": [
-            {
-              "emotion": "Transformed and haughty",
-              "quote": "With the influence of the dress her personality had also undergone a change.",
-              "rating": 0.4
-            }
-          ]
+          "emotion": {
+            "description": "Transformed and haughty",
+            "quote": "With the influence of the dress her personality had also undergone a change.",
+            "rating": 0.4
+          }
         },
         {
           "name": "Tom Buchanan",
           "importance": 0.8,
-          "emotions": [
-            {
-              "emotion": "Aggressive and authoritative",
-              "quote": "Daisy! Daisy! Daisy! shouted Mrs. Wilson. I'll say it whenever I want to! Daisy! Dai— Making a short deft movement, Tom Buchanan broke her nose with his open hand.",
-              "rating": -1
-            }
-          ]
+          "emotion": {
+            "description": "Aggressive and authoritative",
+            "quote": "Daisy! Daisy! Daisy! shouted Mrs. Wilson. I'll say it whenever I want to! Daisy! Dai— Making a short deft movement, Tom Buchanan broke her nose with his open hand.",
+            "rating": -1
+          }
         }
       ]
     },
@@ -268,42 +243,44 @@
       },
       "location": {
         "name": "Gatsby's Mansion",
-        "group": "West Egg - Gatsby's Mansion",
-        "quote": "There was music from my neighbour's house through the summer nights. In his blue gardens men and girls came and went like moths among the whisperings and the champagne and the stars."
+        "group": "West Egg - Gatsby's Mansion"
       },
       "characters": [
         {
           "name": "Gatsby",
           "importance": 0.7,
-          "emotions": [
-            {
-              "emotion": "Enigmatic and hospitable",
-              "quote": "The honour would be entirely Gatsby's, it said, if I would attend his ‘little party' that night.",
-              "rating": 0.8
-            }
-          ]
+          "emotion": {
+            "description": "Enigmatic and hospitable",
+            "quote": "The honour would be entirely Gatsby's, it said, if I would attend his 'little party' that night.",
+            "rating": 0.8
+          }
         },
         {
           "name": "Nick",
           "importance": 0.6,
-          "emotions": [
-            {
-              "emotion": "Curious and observant",
-              "quote": "I was one of the few guests who had actually been invited.",
-              "rating": 0.4
-            }
-          ]
+          "emotion": {
+            "description": "Curious and observant",
+            "quote": "I was one of the few guests who had actually been invited.",
+            "rating": 0.4
+          }
+        },
+        {
+          "name": "Daisy",
+          "importance": 0.8,
+          "emotion": {
+            "description": "Superficial fascination combined with a deeper discontent",
+            "quote": "I've never met so many celebrities. I liked that man—what was his name?—with the sort of blue nose.",
+            "rating": 0.1
+          }
         },
         {
           "name": "Jordan Baker",
           "importance": 0.5,
-          "emotions": [
-            {
-              "emotion": "Amused and social",
-              "quote": "Hello! I roared, advancing toward her. My voice seemed unnaturally loud across the garden.",
-              "rating": 0.5
-            }
-          ]
+          "emotion": {
+            "description": "Amused and social",
+            "quote": "Hello! I roared, advancing toward her. My voice seemed unnaturally loud across the garden.",
+            "rating": 0.5
+          }
         }
       ]
     },
@@ -318,31 +295,26 @@
       },
       "location": {
         "name": "Gatsby's Party",
-        "group": "West Egg - Gatsby's Mansion",
-        "quote": "‘Somebody told me they thought he killed a man once.' A thrill passed over all of us."
+        "group": "West Egg - Gatsby's Mansion"
       },
       "characters": [
         {
           "name": "Party Guests",
           "importance": 0.6,
-          "emotions": [
-            {
-              "emotion": "Intrigued and speculative",
-              "quote": "‘Somebody told me they thought he killed a man once.'",
-              "rating": 0.6
-            }
-          ]
+          "emotion": {
+            "description": "Intrigued and speculative",
+            "quote": "'Somebody told me they thought he killed a man once.'",
+            "rating": 0.6
+          }
         },
         {
           "name": "Nick",
           "importance": 0.5,
-          "emotions": [
-            {
-              "emotion": "Skeptical and curious",
-              "quote": "I hadn't heard it and I doubted if there was any foundation for it.",
-              "rating": 0.2
-            }
-          ]
+          "emotion": {
+            "description": "Skeptical and curious",
+            "quote": "I hadn't heard it and I doubted if there was any foundation for it.",
+            "rating": 0.2
+          }
         }
       ]
     },
@@ -357,31 +329,35 @@
       },
       "location": {
         "name": "Gatsby's Garden",
-        "group": "West Egg - Gatsby's Mansion",
-        "quote": "He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it."
+        "group": "West Egg - Gatsby's Mansion"
       },
       "characters": [
         {
           "name": "Gatsby",
           "importance": 1,
-          "emotions": [
-            {
-              "emotion": "Charming and gracious",
-              "quote": "He smiled understandingly—much more than understandingly.",
-              "rating": 0.9
-            }
-          ]
+          "emotion": {
+            "description": "Charming and gracious",
+            "quote": "He smiled understandingly—much more than understandingly.",
+            "rating": 0.9
+          }
         },
         {
           "name": "Nick",
           "importance": 0.7,
-          "emotions": [
-            {
-              "emotion": "Impressed and intrigued",
-              "quote": "It was one of those rare smiles with a quality of eternal reassurance in it.",
-              "rating": 0.8
-            }
-          ]
+          "emotion": {
+            "description": "Impressed and intrigued",
+            "quote": "It was one of those rare smiles with a quality of eternal reassurance in it.",
+            "rating": 0.8
+          }
+        },
+        {
+          "name": "Jordan Baker",
+          "importance": 0.6,
+          "emotion": {
+            "description": "Intrigued and secretive",
+            "quote": "I've just heard the most amazing thing... and here I am tantalizing you.",
+            "rating": 0.3
+          }
         }
       ]
     },
@@ -396,31 +372,26 @@
       },
       "location": {
         "name": "Gatsby's Mansion",
-        "group": "West Egg - Gatsby's Mansion",
-        "quote": "I was looking at an elegant young rough-neck, a year or two over thirty, whose elaborate formality of speech just missed being absurd."
+        "group": "West Egg - Gatsby's Mansion"
       },
       "characters": [
         {
           "name": "Gatsby",
           "importance": 0.8,
-          "emotions": [
-            {
-              "emotion": "Proud and slightly aloof",
-              "quote": "He was looking at an elegant young rough-neck, a year or two over thirty.",
-              "rating": 0.7
-            }
-          ]
+          "emotion": {
+            "description": "Proud and slightly aloof",
+            "quote": "He was looking at an elegant young rough-neck, a year or two over thirty.",
+            "rating": 0.7
+          }
         },
         {
           "name": "Nick",
           "importance": 0.6,
-          "emotions": [
-            {
-              "emotion": "Reflective and a bit bewildered",
-              "quote": "Somehow it seemed a great deal of effort to begin an intrusion into Gatsby's life.",
-              "rating": -0.3
-            }
-          ]
+          "emotion": {
+            "description": "Reflective and a bit bewildered",
+            "quote": "Somehow it seemed a great deal of effort to begin an intrusion into Gatsby's life.",
+            "rating": -0.3
+          }
         }
       ]
     },
@@ -435,31 +406,26 @@
       },
       "location": {
         "name": "Gatsby's Yellow Car",
-        "group": "New York",
-        "quote": "He saw me looking with admiration at his car. 'It's pretty, isn't it, old sport?' He jumped off to give me a better view."
+        "group": "New York"
       },
       "characters": [
         {
           "name": "Gatsby",
           "importance": 1,
-          "emotions": [
-            {
-              "emotion": "Proud and Eager to Impress",
-              "quote": "'It's pretty, isn't it, old sport?'",
-              "rating": 0.7
-            }
-          ]
+          "emotion": {
+            "description": "Proud and Eager to Impress",
+            "quote": "'It's pretty, isn't it, old sport?'",
+            "rating": 0.7
+          }
         },
         {
           "name": "Nick",
           "importance": 0.7,
-          "emotions": [
-            {
-              "emotion": "Impressed and Curious",
-              "quote": "He saw me looking with admiration at his car.",
-              "rating": 0.6
-            }
-          ]
+          "emotion": {
+            "description": "Impressed and Curious",
+            "quote": "He saw me looking with admiration at his car.",
+            "rating": 0.6
+          }
         }
       ]
     },
@@ -474,31 +440,26 @@
       },
       "location": {
         "name": "New York Restaurant",
-        "group": "New York",
-        "quote": "'We're going to lunch,' said Gatsby. 'I thought we'd be here at the restaurant.'"
+        "group": "New York"
       },
       "characters": [
         {
           "name": "Gatsby",
           "importance": 1,
-          "emotions": [
-            {
-              "emotion": "Confident and Mysterious",
-              "quote": "'We're going to lunch,' said Gatsby.",
-              "rating": 0.8
-            }
-          ]
+          "emotion": {
+            "description": "Confident and Mysterious",
+            "quote": "'We're going to lunch,' said Gatsby.",
+            "rating": 0.8
+          }
         },
         {
           "name": "Nick",
           "importance": 0.7,
-          "emotions": [
-            {
-              "emotion": "Intrigued and a bit Bewildered",
-              "quote": "'I thought we'd be here at the restaurant.'",
-              "rating": 0.4
-            }
-          ]
+          "emotion": {
+            "description": "Intrigued and a bit Bewildered",
+            "quote": "'I thought we'd be here at the restaurant.'",
+            "rating": 0.4
+          }
         }
       ]
     },
@@ -513,42 +474,35 @@
       },
       "location": {
         "name": "Gatsby's Mansion, Library",
-        "group": "West Egg - Gatsby's Mansion",
-        "quote": "He opened up one of the books; 'Look here, this is a bona fide piece of printed matter.'"
+        "group": "West Egg - Gatsby's Mansion"
       },
       "characters": [
         {
           "name": "Gatsby",
           "importance": 0.8,
-          "emotions": [
-            {
-              "emotion": "Defensive and Proud",
-              "quote": "'Look here, this is a bona fide piece of printed matter.'",
-              "rating": 0.5
-            }
-          ]
+          "emotion": {
+            "description": "Defensive and Proud",
+            "quote": "'Look here, this is a bona fide piece of printed matter.'",
+            "rating": 0.5
+          }
         },
         {
           "name": "Owl Eyes",
           "importance": 0.6,
-          "emotions": [
-            {
-              "emotion": "Surprised and Amused",
-              "quote": "'This fella's a regular Belasco. It's a triumph. What thoroughness! What realism!'",
-              "rating": 0.7
-            }
-          ]
+          "emotion": {
+            "description": "Surprised and Amused",
+            "quote": "'This fella's a regular Belasco. It's a triumph. What thoroughness! What realism!'",
+            "rating": 0.7
+          }
         },
         {
           "name": "Nick",
           "importance": 0.7,
-          "emotions": [
-            {
-              "emotion": "Amazed and Skeptical",
-              "quote": "I was amazed to find that I had no idea at all.",
-              "rating": 0.3
-            }
-          ]
+          "emotion": {
+            "description": "Amazed and Skeptical",
+            "quote": "I was amazed to find that I had no idea at all.",
+            "rating": 0.3
+          }
         }
       ]
     },
@@ -563,42 +517,35 @@
       },
       "location": {
         "name": "Gatsby's Garden",
-        "group": "West Egg - Gatsby's Mansion",
-        "quote": "The moon had risen higher, and floating in the Sound was a triangle of silver scales, trembling a little to the stiff, tinny drip of the banjoes on the lawn."
+        "group": "West Egg - Gatsby's Mansion"
       },
       "characters": [
         {
           "name": "Gatsby",
           "importance": 0.7,
-          "emotions": [
-            {
-              "emotion": "Attentive and Gracious Host",
-              "quote": "Gatsby, his hands still in his pockets, was reclining against the mantelpiece in a strained counterfeit of perfect ease, even of boredom.",
-              "rating": 0.4
-            }
-          ]
+          "emotion": {
+            "description": "Attentive and Gracious Host",
+            "quote": "Gatsby, his hands still in his pockets, was reclining against the mantelpiece in a strained counterfeit of perfect ease, even of boredom.",
+            "rating": 0.4
+          }
         },
         {
           "name": "Party Guests",
           "importance": 0.6,
-          "emotions": [
-            {
-              "emotion": "Enthralled and Cheerful",
-              "quote": "Voices were singing and the sound of a vast tambourine shuttered through the air.",
-              "rating": 0.8
-            }
-          ]
+          "emotion": {
+            "description": "Enthralled and Cheerful",
+            "quote": "Voices were singing and the sound of a vast tambourine shuttered through the air.",
+            "rating": 0.8
+          }
         },
         {
           "name": "Nick",
           "importance": 0.5,
-          "emotions": [
-            {
-              "emotion": "Captivated yet Detached",
-              "quote": "I found myself on Gatsby's side, and alone.",
-              "rating": 0.2
-            }
-          ]
+          "emotion": {
+            "description": "Captivated yet Detached",
+            "quote": "I found myself on Gatsby's side, and alone.",
+            "rating": 0.2
+          }
         }
       ]
     },
@@ -613,31 +560,26 @@
       },
       "location": {
         "name": "Gatsby's Mansion, Post-party",
-        "group": "West Egg - Gatsby's Mansion",
-        "quote": "The party had ended, and the moonlight lay over everything in a fluid veil of silver sheen."
+        "group": "West Egg - Gatsby's Mansion"
       },
       "characters": [
         {
           "name": "Gatsby",
           "importance": 0.9,
-          "emotions": [
-            {
-              "emotion": "Reflective and Somewhat Lonely",
-              "quote": "Gatsby was standing alone on the marble steps, looking over the party's remnants.",
-              "rating": -0.3
-            }
-          ]
+          "emotion": {
+            "description": "Reflective and Somewhat Lonely",
+            "quote": "Gatsby was standing alone on the marble steps, looking over the party's remnants.",
+            "rating": -0.3
+          }
         },
         {
           "name": "Nick",
           "importance": 0.8,
-          "emotions": [
-            {
-              "emotion": "Contemplative and Concerned",
-              "quote": "I couldn't help but wonder what Gatsby was thinking as he stood there alone.",
-              "rating": 0.2
-            }
-          ]
+          "emotion": {
+            "description": "Contemplative and Concerned",
+            "quote": "I couldn't help but wonder what Gatsby was thinking as he stood there alone.",
+            "rating": 0.2
+          }
         }
       ]
     },
@@ -652,31 +594,26 @@
       },
       "location": {
         "name": "Gatsby's Car, Driving",
-        "group": "New York",
-        "quote": "As we drove he told me about his past and I was surprised to hear his story unfold."
+        "group": "New York"
       },
       "characters": [
         {
           "name": "Gatsby",
           "importance": 1,
-          "emotions": [
-            {
-              "emotion": "Honest and Vulnerable",
-              "quote": "He spoke earnestly and I could see a hint of vulnerability in his eyes.",
-              "rating": 0.5
-            }
-          ]
+          "emotion": {
+            "description": "Honest and Vulnerable",
+            "quote": "He spoke earnestly and I could see a hint of vulnerability in his eyes.",
+            "rating": 0.5
+          }
         },
         {
           "name": "Nick",
           "importance": 0.9,
-          "emotions": [
-            {
-              "emotion": "Sympathetic and Intrigued",
-              "quote": "His story was unlike anything I'd expected, and I found myself drawn in, wanting to understand more.",
-              "rating": 0.6
-            }
-          ]
+          "emotion": {
+            "description": "Sympathetic and Intrigued",
+            "quote": "His story was unlike anything I'd expected, and I found myself drawn in, wanting to understand more.",
+            "rating": 0.6
+          }
         }
       ]
     },
@@ -691,53 +628,44 @@
       },
       "location": {
         "name": "The Plaza Hotel, New York",
-        "group": "New York",
-        "quote": "The heat was oppressive, and an argument between Tom and Gatsby escalated in a suite at the Plaza Hotel."
+        "group": "New York"
       },
       "characters": [
         {
           "name": "Gatsby",
           "importance": 1,
-          "emotions": [
-            {
-              "emotion": "Angry and Determined",
-              "quote": "His voice was firm and filled with tension as he demanded Tom to acknowledge his relationship with Daisy.",
-              "rating": -0.7
-            }
-          ]
+          "emotion": {
+            "description": "Angry and Determined",
+            "quote": "His voice was firm and filled with tension as he demanded Tom to acknowledge his relationship with Daisy.",
+            "rating": -0.7
+          }
         },
         {
           "name": "Tom Buchanan",
           "importance": 1,
-          "emotions": [
-            {
-              "emotion": "Defensive and Aggressive",
-              "quote": "Tom's face reddened with anger as he denied Gatsby's accusations and attacked his character.",
-              "rating": -0.8
-            }
-          ]
+          "emotion": {
+            "description": "Defensive and Aggressive",
+            "quote": "Tom's face reddened with anger as he denied Gatsby's accusations and attacked his character.",
+            "rating": -0.8
+          }
         },
         {
           "name": "Daisy",
           "importance": 1,
-          "emotions": [
-            {
-              "emotion": "Torn and Distressed",
-              "quote": "She looked from Tom to Gatsby, and then back at Tom again, her expression filled with distress and indecision.",
-              "rating": -0.6
-            }
-          ]
+          "emotion": {
+            "description": "Torn and Distressed",
+            "quote": "She looked from Tom to Gatsby, and then back at Tom again, her expression filled with distress and indecision.",
+            "rating": -0.6
+          }
         },
         {
           "name": "Nick",
           "importance": 0.8,
-          "emotions": [
-            {
-              "emotion": "Uncomfortable and Concerned",
-              "quote": "I felt caught in the middle of a deeply personal conflict, unsure of my place or how to alleviate the tension.",
-              "rating": -0.5
-            }
-          ]
+          "emotion": {
+            "description": "Uncomfortable and Concerned",
+            "quote": "I felt caught in the middle of a deeply personal conflict, unsure of my place or how to alleviate the tension.",
+            "rating": -0.5
+          }
         }
       ]
     },
@@ -752,42 +680,35 @@
       },
       "location": {
         "name": "Valley of Ashes",
-        "group": "Valley of Ashes",
-        "quote": "A terrible accident had occurred near George Wilson's garage, casting a shadow over everyone involved."
+        "group": "Valley of Ashes"
       },
       "characters": [
         {
           "name": "George Wilson",
           "importance": 1,
-          "emotions": [
-            {
-              "emotion": "Devastated and Desperate",
-              "quote": "Wilson's grief was palpable, his eyes hollow with the shock of his loss.",
-              "rating": -1.0
-            }
-          ]
+          "emotion": {
+            "description": "Devastated and Desperate",
+            "quote": "Wilson's grief was palpable, his eyes hollow with the shock of his loss.",
+            "rating": -1
+          }
         },
         {
           "name": "Nick",
           "importance": 0.7,
-          "emotions": [
-            {
-              "emotion": "Horrified and Sympathetic",
-              "quote": "The gravity of the situation was overwhelming, leaving me feeling helpless and deeply saddened.",
-              "rating": -0.9
-            }
-          ]
+          "emotion": {
+            "description": "Horrified and Sympathetic",
+            "quote": "The gravity of the situation was overwhelming, leaving me feeling helpless and deeply saddened.",
+            "rating": -0.9
+          }
         },
         {
           "name": "Gatsby",
           "importance": 0.9,
-          "emotions": [
-            {
-              "emotion": "Guilty and Protective",
-              "quote": "Despite not being his fault, Gatsby's concern was for Daisy's involvement and the potential consequences for her.",
-              "rating": -0.6
-            }
-          ]
+          "emotion": {
+            "description": "Guilty and Protective",
+            "quote": "Despite not being his fault, Gatsby's concern was for Daisy's involvement and the potential consequences for her.",
+            "rating": -0.6
+          }
         }
       ]
     },
@@ -802,31 +723,26 @@
       },
       "location": {
         "name": "Gatsby's Mansion",
-        "group": "West Egg - Gatsby's Mansion",
-        "quote": "The next day, Gatsby is found floating lifelessly in his pool, his dreams of a future with Daisy shattered."
+        "group": "West Egg - Gatsby's Mansion"
       },
       "characters": [
         {
           "name": "Nick",
           "importance": 0.9,
-          "emotions": [
-            {
-              "emotion": "Grief-stricken and Reflective",
-              "quote": "Seeing Gatsby's lifeless body, I couldn't help but reflect on the hollowness of his pursuit and the price he paid.",
-              "rating": -1.0
-            }
-          ]
+          "emotion": {
+            "description": "Grief-stricken and Reflective",
+            "quote": "Seeing Gatsby's lifeless body, I couldn't help but reflect on the hollowness of his pursuit and the price he paid.",
+            "rating": -1
+          }
         },
         {
           "name": "Gatsby",
           "importance": 0.8,
-          "emotions": [
-            {
-              "emotion": "Hopeful to the End",
-              "quote": "Even to the end, Gatsby believed in the green light, the orgastic future that year by year recedes before us.",
-              "rating": 0.4
-            }
-          ]
+          "emotion": {
+            "description": "Hopeful to the End",
+            "quote": "Even to the end, Gatsby believed in the green light, the orgastic future that year by year recedes before us.",
+            "rating": 0.4
+          }
         }
       ]
     },
@@ -841,31 +757,35 @@
       },
       "location": {
         "name": "Gatsby's Funeral",
-        "group": "New York",
-        "quote": "Very few of the hundreds of people who had partied at Gatsby's house weeks before attended his funeral."
+        "group": "New York"
       },
       "characters": [
         {
           "name": "Nick",
           "importance": 1,
-          "emotions": [
-            {
-              "emotion": "Disillusioned and Mournful",
-              "quote": "It was an empty, solemn event, reflecting the transient nature of Gatsby's relationships and the superficiality of the world he had sought to belong to.",
-              "rating": -0.8
-            }
-          ]
+          "emotion": {
+            "description": "Disillusioned and Mournful",
+            "quote": "It was an empty, solemn event, reflecting the transient nature of Gatsby's relationships and the superficiality of the world he had sought to belong to.",
+            "rating": -0.8
+          }
         },
         {
           "name": "Owl Eyes",
           "importance": 0.6,
-          "emotions": [
-            {
-              "emotion": "Surprised and Somber",
-              "quote": "'The poor son-of-a-bitch,' he muttered. There was genuine sorrow in his voice, a rare moment of humanity in the midst of widespread indifference.",
-              "rating": -0.6
-            }
-          ]
+          "emotion": {
+            "description": "Surprised and Somber",
+            "quote": "'The poor son-of-a-bitch,' he muttered. There was genuine sorrow in his voice, a rare moment of humanity in the midst of widespread indifference.",
+            "rating": -0.6
+          }
+        },
+        {
+          "name": "Jordan Baker",
+          "importance": 0.4,
+          "emotion": {
+            "description": "Disappointed and aloof",
+            "quote": "I thought you were rather an honest, straightforward person. I thought it was your secret pride.",
+            "rating": -0.5
+          }
         }
       ]
     },
@@ -880,20 +800,17 @@
       },
       "location": {
         "name": "West Egg",
-        "group": "West Egg - Nick's Home",
-        "quote": "After Gatsby's death, Nick is disillusioned with the East and decides to return to the Midwest."
+        "group": "West Egg - Nick's Home"
       },
       "characters": [
         {
           "name": "Nick",
           "importance": 1,
-          "emotions": [
-            {
-              "emotion": "Disenchanted and Decisive",
-              "quote": "I saw the East as a grotesque, distorted place, far removed from the ideals I once held. It was time to go home.",
-              "rating": -0.7
-            }
-          ]
+          "emotion": {
+            "description": "Disenchanted and Decisive",
+            "quote": "I saw the East as a grotesque, distorted place, far removed from the ideals I once held. It was time to go home.",
+            "rating": -0.7
+          }
         }
       ]
     }

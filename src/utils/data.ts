@@ -86,13 +86,26 @@ export const characterScenes = characters
 export const reverseCharacterNames = characterScenes.slice().reverse();
 
 // for each quote in character-data, split quote into chunk_size character chunks, making sure to keep full words
-export const character_quotes = character_data.map((character: any) => {
-  const chunked = chunkQuote('"' + character.quote + '"', 80);
-  return {
-    character: character.name,
-    quote: chunked,
-  };
-});
+export const character_quotes = character_data
+  .map((character: any) => {
+    const chunked = chunkQuote('"' + character.quote + '"', 80);
+    return {
+      character: character.character,
+      quote: chunked,
+    };
+  })
+  .sort((a: any, b: any) => {
+    // sort by the order in characterScenes
+    const aIndex = characterScenes.findIndex(
+      (charScene: any) =>
+        charScene.character.toLowerCase() === a.character.toLowerCase()
+    );
+    const bIndex = characterScenes.findIndex(
+      (charScene: any) =>
+        charScene.character.toLowerCase() === b.character.toLowerCase()
+    );
+    return aIndex - bIndex;
+  });
 
 /* SCENE DATA */
 // get all scene names using 'name' attribute in each scene object
@@ -134,10 +147,7 @@ export const sceneSummaries = data.map((scene: any) => {
   // save in a dictionary with character name as key
   const chunk_size = 105;
   const chunkedEmotions = scene.characters.map((character: any) => {
-    const chunked = chunkQuote(
-      '"' + character.emotions[0].quote + '"',
-      chunk_size
-    );
+    const chunked = chunkQuote('"' + character.emotion.quote + '"', chunk_size);
     return { character: character.name, emotion_quote: chunked };
   });
 

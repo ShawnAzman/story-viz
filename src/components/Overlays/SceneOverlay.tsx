@@ -152,8 +152,8 @@ function SceneOverlay() {
               const character = scene.characters.find(
                 (c) => c.name === char.character
               ) as any;
-              const emotion = character.emotions[0].emotion;
-              const rating = character.emotions[0].rating;
+              const emotion = character.emotion.description;
+              const rating = character.emotion.rating;
               return (
                 <g key={"scene character" + i + j}>
                   <text

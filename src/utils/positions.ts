@@ -78,8 +78,30 @@ export const characterSquares = characterScenes.map((character) => {
 });
 
 // compute character paths
-let max_y = 0;
-export const characterPaths = characterScenes.map((character, c) => {
+
+// track max_y at each x value corresponding to a scene using characterPos
+// get max y value for each scene by using characterScenes to filter characterPos
+let max_y_per_scene = scenes.map((_, sceneIndex) => {
+  // For each scene, find the max y value across all character positions that meet the condition
+  return Math.max(
+    ...characterPos
+      .map(
+        (
+          characterPositions // Iterate over each character's positions array
+        ) =>
+          characterPositions
+            .filter(
+              (pos) =>
+                pos.x + 0.5 * character_height === initialScenePos[sceneIndex].x // Filter condition
+            )
+            .map((pos) => pos.y) // Extract y values
+      )
+      .flat() // Flatten the array of arrays of y values into a single array
+      .concat(-Infinity) // Ensure the array is not empty to avoid -Infinity result from Math.max
+  );
+});
+
+export const characterPaths = characterScenes.map((character) => {
   const paths = [];
 
   const character_coords = characterPos[characterScenes.indexOf(character)];
@@ -108,6 +130,14 @@ export const characterPaths = characterScenes.map((character, c) => {
     const cur_y = character_coords_arr[i][1];
     const prev_y = character_coords_arr[i - 1][1];
 
+    const scene_index = Math.floor((cur_x - scene_offset) / scene_width);
+    const prev_scene_index =
+      Math.floor((prev_x - scene_offset) / scene_width) + 1;
+    // find max_y for all scenes between prev_scene_index and scene_index
+    const cur_max_y = Math.max(
+      ...max_y_per_scene.slice(prev_scene_index, scene_index)
+    );
+
     if (cur_x - prev_x > scene_width) {
       if (cur_x - prev_x > scene_width * 2) {
         const max_cur_y =
@@ -124,22 +154,44 @@ export const characterPaths = characterScenes.map((character, c) => {
           ) *
             location_height;
 
-        const new_y = Math.max(max_cur_y, max_prev_y) + c * character_offset;
+        const new_y =
+          Math.max(max_cur_y, max_prev_y, cur_max_y) + character_offset;
 
         // big gap so add two points
         character_coords_arr.splice(i, 0, [prev_x + scene_width, new_y]);
         character_coords_arr.splice(i + 1, 0, [cur_x - scene_width, new_y]);
-        i += 3;
+
+        // update max_y_per_scene between prev_scene_index and scene_index
+        for (let j = prev_scene_index; j < scene_index; j++) {
+          max_y_per_scene[j] = new_y;
+        }
+
+        i += 2;
       } else {
-        if (cur_y > prev_y) {
+        if (cur_y > prev_y && cur_y - prev_y > location_height) {
           // if character is moving down
+          // if (cur_y - prev_y < location_height) {
+          //   character_coords_arr.splice(i, 0, [
+          //     prev_x + 0.5 * scene_width,
+          //     cur_y,
+          //   ]);
+          // } else {
           character_coords_arr.splice(i, 0, [cur_x - scene_width, prev_y]);
-          i += 2;
-        } else if (cur_y < prev_y) {
+          // }
+          i += 1;
+        } else if (cur_y < prev_y && prev_y - cur_y > location_height) {
           // if character is moving up
+          // if (prev_y - cur_y < location_height) {
+          //   character_coords_arr.splice(i, 0, [
+          //     cur_x - 0.5 * scene_width,
+          //     prev_y,
+          //   ]);
+          // } else {
           character_coords_arr.splice(i, 0, [prev_x + scene_width, cur_y]);
-          i += 2;
+          // }
+          i += 1;
         } else {
+          // if character is moving horizontally
           const max_cur_y =
             cur_y +
             Math.ceil(
@@ -155,29 +207,33 @@ export const characterPaths = characterScenes.map((character, c) => {
             ) *
               location_height;
 
-          const new_y = Math.max(max_cur_y, max_prev_y) + c * character_offset;
+          const new_y =
+            Math.max(max_cur_y, max_prev_y, cur_max_y) + character_offset;
 
-          // big gap so add two points
+          // add two points
           character_coords_arr.splice(i, 0, [prev_x + scene_width / 2, new_y]);
           character_coords_arr.splice(i + 1, 0, [
             cur_x - scene_width / 2,
             new_y,
           ]);
-          i += 3;
+
+          // update max_y_per_scene
+          // update max_y_per_scene between prev_scene_index and scene_index
+          for (let j = prev_scene_index; j < scene_index; j++) {
+            max_y_per_scene[j] = new_y;
+          }
+
+          i += 2;
         }
       }
     }
   }
-  // update max_y based on character_coords_arr
-  max_y = Math.max(
-    max_y,
-    ...character_coords_arr.map((pos) => {
-      return pos[1];
-    })
-  );
   paths.push(svgPath(character_coords_arr, bezierCommand));
   return paths;
 });
+
+// compute max y value of characterPos
+let max_y = Math.max(...max_y_per_scene);
 
 // update scenePos y coords if max_y is greater than the current max
 if (max_y >= initialScenePos[0].y - 1.25 * location_offset) {
@@ -203,9 +259,10 @@ export const sceneBoxes = sceneCharacters.map((scene, i) => {
 // compute pos of legend items
 // put in 2 rows
 let legend_offset =
-  3.5 *
-  character_height *
-  reverseCharacterNames[reverseCharacterNames.length - 1].character.length;
+  2 *
+    character_height *
+    reverseCharacterNames[reverseCharacterNames.length - 1].character.length +
+  character_offset;
 export const legendPos = reverseCharacterNames.map((character, i) => {
   let y_offset = location_offset * 0.6;
 
@@ -213,8 +270,15 @@ export const legendPos = reverseCharacterNames.map((character, i) => {
   if (i % 2 === 1) {
     y_offset += character_height * 2;
   } else {
-    legend_offset +=
-      character_height * character.character.length + character_offset;
+    let length = character.character.length;
+    if (i > 0) {
+      length = Math.max(
+        character.character.length,
+        reverseCharacterNames[i - 1].character.length
+      );
+    }
+    const factor = i == 0 ? 1.5 : 1;
+    legend_offset += factor * character_height * length + character_offset;
   }
 
   return {
@@ -225,9 +289,9 @@ export const legendPos = reverseCharacterNames.map((character, i) => {
 
 // legend box pos
 export const legend_box_pos = {
-  x: plot_width - legend_offset + 1.5 * location_offset,
+  x: plot_width - legend_offset + 2.25 * location_offset,
   y: 0,
-  width: legend_offset - 2.25 * location_offset,
+  width: legend_offset - 2.5 * location_offset,
   height: character_height * 6,
 };
 
