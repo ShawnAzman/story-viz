@@ -144,6 +144,14 @@ export const characterPaths = characterScenes.map((character) => {
     const charInd = sceneChars.indexOf(character.character);
     const nextChar = sceneChars[charInd + 1];
 
+    const real_prev_ind = prev_scene_index - 1;
+    const prevSceneChars =
+      real_prev_ind > -1 && real_prev_ind < scenes.length - 1
+        ? sceneCharacters[real_prev_ind].characters
+        : [];
+    const prevCharInd = prevSceneChars.indexOf(character.character);
+    const prevChar = prevSceneChars[prevCharInd + 1];
+
     if (cur_x - prev_x > scene_width) {
       if (cur_x - prev_x > scene_width * 2) {
         const max_cur_y =
@@ -160,6 +168,9 @@ export const characterPaths = characterScenes.map((character) => {
           ) *
             location_height;
 
+        const gap_size = Math.ceil((cur_x - prev_x) / scene_width);
+        const offset = gap_size > 4 ? 0.5 : 1;
+
         const new_y =
           Math.max(
             max_cur_y - character_offset,
@@ -167,15 +178,28 @@ export const characterPaths = characterScenes.map((character) => {
             cur_max_y
           ) + character_offset;
 
-        character_coords_arr.splice(i, 0, [prev_x + scene_width, new_y]);
+        if (prevChar) {
+          character_coords_arr.splice(i, 0, [
+            prev_x + scene_width * offset + character_offset / offset,
+            new_y,
+          ]);
+        } else {
+          character_coords_arr.splice(i, 0, [
+            prev_x + scene_width * offset,
+            new_y,
+          ]);
+        }
         if (nextChar) {
           character_coords_arr.splice(i + 1, 0, [
-            cur_x - scene_width - character_offset,
+            cur_x - scene_width * offset - character_offset / offset,
             new_y,
           ]);
         } else {
           // big gap so add two points
-          character_coords_arr.splice(i + 1, 0, [cur_x - scene_width, new_y]);
+          character_coords_arr.splice(i + 1, 0, [
+            cur_x - scene_width * offset,
+            new_y,
+          ]);
         }
         // update max_y_per_scene between prev_scene_index and scene_index
         for (let j = prev_scene_index; j < scene_index; j++) {

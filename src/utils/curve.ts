@@ -43,15 +43,12 @@ const controlPoint = (
   if (secondLast && reverse && current[1] > previous[1]) {
     // adjust angle for second last point
     angle /= 2;
-  } else if (secondLast && reverse && current[1] < previous[1]) {
-    // angle = Math.PI * 0.75;
   }
+
   let length = o.length * smoothing;
   if (secondLast && reverse && current[1] > previous[1]) {
     // adjust length for second last point
     length *= 2;
-  } else if (secondLast && reverse && current[1] < previous[1]) {
-    // length *= 1.5;
   }
 
   // The control point position is relative to the current point
