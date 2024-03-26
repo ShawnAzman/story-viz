@@ -84,7 +84,6 @@ function MainPlot() {
                   d={path}
                   fill="none"
                   stroke={"url(#linear" + i + ")"}
-                  //   stroke={colors[i]}
                   key={"charpath" + j}
                   strokeWidth={2}
                   onMouseEnter={() => setCharacterHover(character.character)}
