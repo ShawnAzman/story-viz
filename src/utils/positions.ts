@@ -169,7 +169,7 @@ export const characterPaths = characterScenes.map((character) => {
             location_height;
 
         const gap_size = Math.ceil((cur_x - prev_x) / scene_width);
-        const offset = gap_size > 4 ? 0.5 : 1;
+        const offset = gap_size > 4 ? 0.5 : 0.75;
 
         const new_y =
           Math.max(
@@ -210,11 +210,17 @@ export const characterPaths = characterScenes.map((character) => {
       } else {
         if (cur_y > prev_y && cur_y - prev_y > location_height) {
           // if character is moving down
-          character_coords_arr.splice(i, 0, [cur_x - scene_width, prev_y]);
+          character_coords_arr.splice(i, 0, [
+            cur_x - scene_width * 0.75,
+            prev_y,
+          ]);
           i += 1;
         } else if (cur_y < prev_y && prev_y - cur_y > location_height) {
           // if character is moving up
-          character_coords_arr.splice(i, 0, [prev_x + scene_width, cur_y]);
+          character_coords_arr.splice(i, 0, [
+            prev_x + scene_width * 0.75,
+            cur_y,
+          ]);
           i += 1;
         } else {
           // if character is moving horizontally
@@ -241,9 +247,12 @@ export const characterPaths = characterScenes.map((character) => {
             ) + character_offset;
 
           // add two points
-          character_coords_arr.splice(i, 0, [prev_x + scene_width / 2, new_y]);
+          character_coords_arr.splice(i, 0, [
+            prev_x + scene_width * 0.5,
+            new_y,
+          ]);
           character_coords_arr.splice(i + 1, 0, [
-            cur_x - scene_width / 2,
+            cur_x - scene_width * 0.5,
             new_y,
           ]);
 
