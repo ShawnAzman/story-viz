@@ -1,7 +1,7 @@
 // adapted from https://codepen.io/francoisromain/pen/dzoZZj
 
 // The smoothing ratio
-const smoothing = 0.5;
+const smoothing = 0.4;
 
 // Properties of a line
 // I:  - pointA (array) [x,y]: coordinates

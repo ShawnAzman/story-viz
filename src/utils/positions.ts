@@ -170,25 +170,11 @@ export const characterPaths = characterScenes.map((character) => {
       } else {
         if (cur_y > prev_y && cur_y - prev_y > location_height) {
           // if character is moving down
-          // if (cur_y - prev_y < location_height) {
-          //   character_coords_arr.splice(i, 0, [
-          //     prev_x + 0.5 * scene_width,
-          //     cur_y,
-          //   ]);
-          // } else {
           character_coords_arr.splice(i, 0, [cur_x - scene_width, prev_y]);
-          // }
           i += 1;
         } else if (cur_y < prev_y && prev_y - cur_y > location_height) {
           // if character is moving up
-          // if (prev_y - cur_y < location_height) {
-          //   character_coords_arr.splice(i, 0, [
-          //     cur_x - 0.5 * scene_width,
-          //     prev_y,
-          //   ]);
-          // } else {
           character_coords_arr.splice(i, 0, [prev_x + scene_width, cur_y]);
-          // }
           i += 1;
         } else {
           // if character is moving horizontally
@@ -217,7 +203,6 @@ export const characterPaths = characterScenes.map((character) => {
             new_y,
           ]);
 
-          // update max_y_per_scene
           // update max_y_per_scene between prev_scene_index and scene_index
           for (let j = prev_scene_index; j < scene_index; j++) {
             max_y_per_scene[j] = new_y;
