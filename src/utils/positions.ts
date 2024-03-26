@@ -238,13 +238,30 @@ export const scenePos = initialScenePos;
 
 // compute scene box positions
 export const sceneBoxes = sceneCharacters.map((scene, i) => {
+  const characters = scene.characters;
+  const firstChar = characterScenes.findIndex(
+    (c) => c.character === characters[0]
+  );
+  const firstCharScene = characterScenes[firstChar].scenes.findIndex(
+    (s) => s === i
+  );
+  const lastChar = characterScenes.findIndex(
+    (c) => c.character === characters[characters.length - 1]
+  );
+  const lastCharScene = characterScenes[lastChar].scenes.findIndex(
+    (s) => s === i
+  );
+
+  const top = characterSquares[firstChar][firstCharScene].y;
+  const bottom =
+    characterSquares[lastChar][lastCharScene].y +
+    characterSquares[lastChar][lastCharScene].height;
+
   return {
     x: scenePos[i].x - scene_width / character_height,
-    y:
-      location_height * locations.indexOf(sceneLocations[i]) +
-      character_height * (1 / (2 * scene.characters.length)),
+    y: top - 0.75 * character_height,
     width: 2 * character_height,
-    height: character_height * scene.characters.length * 2,
+    height: bottom - top + 1.5 * character_height,
   };
 });
 
