@@ -1,10 +1,11 @@
 import { storyStore } from "../stores/store";
 import { colors, color_dict } from "../utils/colors";
 import { character_height, character_offset } from "../utils/consts";
-import { reverseCharacterNames } from "../utils/data";
+import { dataStore } from "../stores/dataStore";
 import { legend_box_pos, legendPos, color_bar_pos } from "../utils/positions";
 
 function Legend() {
+  const { reverseCharacterNames } = dataStore();
   const {
     setCharacterHover,
     sceneHover,
@@ -37,7 +38,7 @@ function Legend() {
           strokeWidth={2}
           opacity={0.8}
         />
-        {reverseCharacterNames.map((character, i) => (
+        {reverseCharacterNames.map((character: any, i: number) => (
           <g
             key={"legendbox" + i}
             transform={`translate(${legendPos[i].x}, ${legendPos[i].y})`}

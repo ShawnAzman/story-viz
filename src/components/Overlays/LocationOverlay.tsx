@@ -1,6 +1,6 @@
 import { storyStore } from "../../stores/store";
 import { character_offset } from "../../utils/consts";
-import { location_quotes, locations } from "../../utils/data";
+import { dataStore } from "../../stores/dataStore";
 import {
   location_quote_boxes,
   location_quote_texts,
@@ -8,10 +8,11 @@ import {
 
 function LocationOverlay() {
   const { locationHover } = storyStore();
+  const { locations, location_quotes } = dataStore();
   return (
     <g id="location-quotes">
       {/* add box with quote from each location */}
-      {locations.map((location, i) => (
+      {locations.map((location: any, i: number) => (
         <g
           key={"location quotebox" + i}
           className={
@@ -38,7 +39,7 @@ function LocationOverlay() {
           >
             {location}
           </text>
-          {location_quotes[i].quote.map((quote, j) => (
+          {location_quotes[i].quote.map((quote: any, j: number) => (
             <text
               key={"location quote" + i + j}
               x={location_quote_texts[i][j].x}

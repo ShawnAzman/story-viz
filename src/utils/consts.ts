@@ -1,4 +1,4 @@
-import { scenes, locations } from "./data";
+import { scenes, locations } from "./data_orig";
 
 /* CONSTS */
 export const location_height = 100;

@@ -1,7 +1,7 @@
 import { Switch, Select, Divider } from "@mantine/core";
 import { storyStore } from "../stores/store";
 import { dataStore } from "../stores/dataStore";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 
 function PlotOptions() {
   const {
@@ -13,29 +13,27 @@ function PlotOptions() {
     setColorBy,
     sizeBy,
     setSizeBy,
-    story,
-    setStory,
   } = storyStore();
 
-  const { data, setData } = dataStore();
+  const { setData } = dataStore();
   const colorByOptions = ["conflict", "emotion", "importance", "default"];
   const characterColorOptions = ["default", "emotion", "importance"];
   const sizeByOptions = ["conflict", "importance", "default"];
   const storyOptions = ["gatsby", "gatsby2"];
 
-  const handleStoryChange = async (value: string) => {
+  const [story, setStory] = useState("gatsby");
+
+  const handleStoryChange = async (story: string) => {
     // change story
-    setStory(value);
-    const newData = await import(`../data/${value}.json`);
-    setData(newData);
+    setStory(story);
+    const data = await import(`../data/${story}.json`);
+    // update data once story is loaded
+    setData(data.default);
   };
 
   useEffect(() => {
-    if (data) {
-      const title = data["title"];
-      console.log(title);
-    }
-  }, [data]); // Reacts to changes in storyData
+    handleStoryChange(story);
+  }, [story]);
 
   return (
     <div id="options">
@@ -44,11 +42,10 @@ function PlotOptions() {
         <div className="options-inner">
           <Select
             size="xs"
-            // label="View"
             data={storyOptions}
             value={story}
             onChange={(value) => {
-              if (value) handleStoryChange(value);
+              if (value) setStory(value);
             }}
           />
         </div>

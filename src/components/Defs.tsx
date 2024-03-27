@@ -7,16 +7,17 @@ import {
   importanceColor,
 } from "../utils/colors";
 import { scene_width } from "../utils/consts";
-import { characterScenes, ratingDict, scenes } from "../utils/data";
+import { dataStore } from "../stores/dataStore";
 import { normalizeRating } from "../utils/helpers";
 import { scenePos } from "../utils/positions";
 
 function Defs() {
   const { sceneHover } = storyStore();
+  const { characterScenes, ratingDict, scenes } = dataStore();
   return (
     <defs>
       <g id="gradients">
-        {characterScenes.map((char, i) => {
+        {characterScenes.map((char: any, i: number) => {
           // get first and last scene indices for this character
           const charScenes = char.scenes;
           const first_scene = charScenes[0];
@@ -42,8 +43,8 @@ function Defs() {
               <stop offset={fade_in_percent + "%"} stopColor={colors[i]} />
 
               {charScenes
-                .filter((_, j) => j < charScenes.length - 1)
-                .flatMap((scene, j) => {
+                .filter((_: any, j: number) => j < charScenes.length - 1)
+                .flatMap((scene: any, j: number) => {
                   const next_scene = charScenes[j + 1];
                   if (next_scene - scene > 2) {
                     const start_gap =

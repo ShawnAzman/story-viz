@@ -1,16 +1,86 @@
 import { create } from "zustand";
+import { getAllData } from "../utils/data";
+import init_data from "../data/gatsby.json";
+
+/* INITIAL VALUES */
+const init_data_values = getAllData(init_data);
 
 // values that don't need to persist across sessions
-export interface IStore {
+
+interface IStore {
   data: any;
+  title: string;
+  scene_data: any;
+  location_data: any;
+  character_data: any;
+  locations: any;
+  location_quotes: any;
+  location_chunks: any;
+  characters: any;
+  characterScenes: any;
+  reverseCharacterNames: any;
+  character_quotes: any;
+  scenes: any;
+  sceneLocations: any;
+  sceneChunks: any;
+  sceneCharacters: any;
+  sceneSummaries: any;
+  ratingDict: any;
   setData: (val: any) => void;
 }
 
 const initialState = {
-  data: await import(`../data/gatsby.json`),
+  data: init_data,
+  title: init_data_values.title,
+  scene_data: init_data_values.scene_data,
+  location_data: init_data_values.location_data,
+  character_data: init_data_values.character_data,
+
+  locations: init_data_values.locations,
+  location_quotes: init_data_values.location_quotes,
+  location_chunks: init_data_values.location_chunks,
+
+  characters: init_data_values.characters,
+  characterScenes: init_data_values.characterScenes,
+  reverseCharacterNames: init_data_values.reverseCharacterNames,
+  character_quotes: init_data_values.character_quotes,
+
+  scenes: init_data_values.scenes,
+  sceneLocations: init_data_values.sceneLocations,
+  sceneChunks: init_data_values.sceneChunks,
+  sceneCharacters: init_data_values.sceneCharacters,
+  sceneSummaries: init_data_values.sceneSummaries,
+
+  ratingDict: init_data_values.ratingDict,
 };
 
-export const dataStore = create<IStore>()((set) => ({
+export const dataStore = create<IStore>((set) => ({
   ...initialState,
-  setData: (val: any) => set({ data: val }),
+  setData: (init_data: any) => {
+    const newData = getAllData(init_data);
+    set({
+      data: init_data,
+      title: newData.title,
+      scene_data: newData.scene_data,
+      location_data: newData.location_data,
+      character_data: newData.character_data,
+
+      locations: newData.locations,
+      location_quotes: newData.location_quotes,
+      location_chunks: newData.location_chunks,
+
+      characters: newData.characters,
+      characterScenes: newData.characterScenes,
+      reverseCharacterNames: newData.reverseCharacterNames,
+      character_quotes: newData.character_quotes,
+
+      scenes: newData.scenes,
+      sceneLocations: newData.sceneLocations,
+      sceneChunks: newData.sceneChunks,
+      sceneCharacters: newData.sceneCharacters,
+      sceneSummaries: newData.sceneSummaries,
+
+      ratingDict: newData.ratingDict,
+    });
+  },
 }));

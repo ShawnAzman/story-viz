@@ -1,7 +1,7 @@
 import { storyStore } from "../../stores/store";
 import { colors } from "../../utils/colors";
 import { character_offset, location_height } from "../../utils/consts";
-import { characterScenes, character_quotes } from "../../utils/data";
+import { dataStore } from "../../stores/dataStore";
 import {
   character_quote_boxes,
   character_quote_texts,
@@ -9,10 +9,11 @@ import {
 
 function CharacterOverlay() {
   const { characterHover } = storyStore();
+  const { characterScenes, character_quotes } = dataStore();
   return (
     <g id="character-quotes">
       {/* add box with quote from each character */}
-      {characterScenes.map((character, i) => (
+      {characterScenes.map((character: any, i: number) => (
         <g
           key={"character quotebox" + i}
           className={
@@ -48,7 +49,7 @@ function CharacterOverlay() {
             >
               {character.character}
             </text>
-            {character_quotes[i].quote.map((quote, j) => (
+            {character_quotes[i].quote.map((quote: any, j: number) => (
               <text
                 key={"character quote" + i + j}
                 x={character_quote_texts[i][j].x}

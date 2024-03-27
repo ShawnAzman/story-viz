@@ -1,20 +1,14 @@
 import "./App.scss";
 import PlotOptions from "./components/PlotOptions";
 import StoryVis from "./components/StoryVis";
-import { storyStore } from "./stores/store";
-
-// map story variable to title
-const titleMap = {
-  gatsby: "The Great Gatsby",
-  gatsby2: "The Great Gatsby 2",
-} as { [key: string]: string };
+import { dataStore } from "./stores/dataStore";
 
 function App() {
-  const { story } = storyStore();
+  const { title } = dataStore();
   return (
     <div id="app">
       <header>
-        <h1>{titleMap[story]}</h1>
+        <h1>{title}</h1>
         <PlotOptions />
       </header>
       <div id="story-contain">

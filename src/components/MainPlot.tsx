@@ -1,11 +1,5 @@
 import { storyStore } from "../stores/store";
-import {
-  sceneCharacters,
-  sceneLocations,
-  characterScenes,
-  data as scene_data,
-  scenes,
-} from "../utils/data";
+import { dataStore } from "../stores/dataStore";
 import { colors, emotionColor, importanceColor } from "../utils/colors";
 import {
   sceneBoxes,
@@ -26,11 +20,18 @@ function MainPlot() {
     characterColor,
     hidden,
   } = storyStore();
+  const {
+    scene_data,
+    sceneCharacters,
+    sceneLocations,
+    characterScenes,
+    scenes,
+  } = dataStore();
   return (
     <g id="main-plot">
       {/* white boxes behind each scene */}
       <g id="scene-box-fills">
-        {sceneCharacters.map((scene, i) => (
+        {sceneCharacters.map((scene: any, i: number) => (
           <rect
             className={
               "scene-box-fill " +
@@ -53,7 +54,7 @@ function MainPlot() {
       </g>
       {/* add characters to each scene */}
       <g id="character-paths">
-        {characterScenes.map((character, i) => (
+        {characterScenes.map((character: any, i: number) => (
           <g
             key={"chargroup" + i}
             className={
@@ -79,7 +80,7 @@ function MainPlot() {
                   : "")
               }
             >
-              {characterPaths[i].map((path, j) => (
+              {characterPaths[i].map((path: any, j: number) => (
                 <path
                   d={path}
                   fill="none"
@@ -93,9 +94,9 @@ function MainPlot() {
             </g>
             {/* add squares at each scene the character appears in */}
             <g className="character-squares">
-              {character.scenes.map((scene, j) => {
+              {character.scenes.map((scene: any, j: number) => {
                 const char_data = scene_data[scene].characters.find(
-                  (c) => c.name === character.character
+                  (c: any) => c.name === character.character
                 ) as any;
                 const emotion_val = char_data.emotion.rating as number;
                 const importance_val = char_data.importance;
@@ -161,7 +162,7 @@ function MainPlot() {
       </g>
       {/* add box outline for characters in each scene */}
       <g id="scene-boxes">
-        {sceneCharacters.map((scene, i) => (
+        {sceneCharacters.map((scene: any, i: number) => (
           <rect
             className={
               "scene-box " +

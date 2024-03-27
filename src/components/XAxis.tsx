@@ -1,11 +1,5 @@
 import { storyStore } from "../stores/store";
-import {
-  scenes,
-  data,
-  sceneLocations,
-  sceneCharacters,
-  sceneChunks,
-} from "../utils/data";
+import { dataStore } from "../stores/dataStore";
 import { character_offset, location_offset } from "../utils/consts";
 import { scenePos } from "../utils/positions";
 import { conflictColor, emotionColor, importanceColor } from "../utils/colors";
@@ -16,6 +10,8 @@ import {
 } from "../utils/helpers";
 
 function XAxis() {
+  const { scenes, sceneLocations, sceneCharacters, scene_data, sceneChunks } =
+    dataStore();
   const {
     locationHover,
     sceneHover,
@@ -28,7 +24,7 @@ function XAxis() {
     <g id="x-axis">
       {/* add scene names to x axis */}
       <g id="scenes">
-        {scenes.map((scene, i) => (
+        {scenes.map((scene: any, i: number) => (
           <g
             key={"scene-group" + i}
             className={
@@ -43,8 +39,8 @@ function XAxis() {
                 : "faded")
             }
           >
-            {sceneChunks[i].map((chunk, j) => {
-              const ratings = data[i].ratings;
+            {sceneChunks[i].map((chunk: any, j: number) => {
+              const ratings = scene_data[i].ratings;
               const textOffset =
                 sizeBy === "default"
                   ? 1.5

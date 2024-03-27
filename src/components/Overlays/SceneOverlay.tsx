@@ -7,11 +7,7 @@ import {
   colors,
 } from "../../utils/colors";
 import { character_offset, character_height } from "../../utils/consts";
-import {
-  data as scene_data,
-  sceneSummaries,
-  characterScenes,
-} from "../../utils/data";
+import { dataStore } from "../../stores/dataStore";
 import { normalizeRating, capitalize } from "../../utils/helpers";
 import {
   scene_summary_boxes,
@@ -19,10 +15,11 @@ import {
 } from "../../utils/positions";
 function SceneOverlay() {
   const { sceneHover } = storyStore();
+  const { scene_data, characterScenes, sceneSummaries } = dataStore();
   return (
     <g id="scene-info">
       {/* add box with info about each scene */}
-      {scene_data.map((scene, i) => (
+      {scene_data.map((scene: any, i: number) => (
         <g
           key={"scene info" + i}
           className={
@@ -109,7 +106,7 @@ function SceneOverlay() {
           >
             Scene {scene.number}: {scene.name}
           </text>
-          {sceneSummaries[i].summary.map((summary, j) => (
+          {sceneSummaries[i].summary.map((summary: any, j: number) => (
             <text
               key={"scene summary" + i + j}
               x={scene_summary_texts[i].x}
@@ -150,7 +147,7 @@ function SceneOverlay() {
             </text>
             {sceneSummaries[i].emotions.map((char: any, j: number) => {
               const character = scene.characters.find(
-                (c) => c.name === char.character
+                (c: any) => c.name === char.character
               ) as any;
               const emotion = character.emotion.description;
               const rating = character.emotion.rating;
@@ -168,7 +165,7 @@ function SceneOverlay() {
                     fill={
                       colors[
                         characterScenes.findIndex(
-                          (c) => c.character === char.character
+                          (c: any) => c.character === char.character
                         )
                       ]
                     }
@@ -177,7 +174,7 @@ function SceneOverlay() {
                     <tspan className="emphasis">
                       (importance:{" "}
                       {scene.characters
-                        .find((c) => c.name === char.character)
+                        .find((c: any) => c.name === char.character)
                         ?.importance.toFixed(2)}
                       )
                     </tspan>

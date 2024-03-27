@@ -17,7 +17,7 @@
       "characters": [
         {
           "name": "Nick",
-          "importance": 1,
+          "importance": 0.5,
           "emotion": {
             "description": "Reflective and Contemplative",
             "quote": "I've been turning over in my mind ever since.",

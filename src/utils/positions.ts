@@ -9,7 +9,7 @@ import {
   sceneSummaries,
   character_quotes,
   reverseCharacterNames,
-} from "./data";
+} from "./data_orig";
 import { color_dict } from "./colors";
 import { bezierCommand, svgPath } from "./curve";
 import { normalizeRating, normalizeMarkerSize } from "./helpers";

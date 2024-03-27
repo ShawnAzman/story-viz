@@ -10,8 +10,6 @@ interface IStore {
   setSizeBy: (val: string) => void;
   characterColor: string;
   setCharacterColor: (val: string) => void;
-  story: string;
-  setStory: (val: string) => void;
 
   locationHover: string;
   setLocationHover: (val: string) => void;
@@ -28,7 +26,6 @@ const initialState = {
   colorBy: "default",
   sizeBy: "default",
   characterColor: "default",
-  story: "gatsby",
 
   locationHover: "",
   characterHover: "",
@@ -42,7 +39,6 @@ export const storyStore = create<IStore>()((set) => ({
   setColorBy: (val: string) => set({ colorBy: val }),
   setSizeBy: (val: string) => set({ sizeBy: val }),
   setCharacterColor: (val: string) => set({ characterColor: val }),
-  setStory: (val: string) => set({ story: val }),
 
   setLocationHover: (val: string) => set({ locationHover: val }),
   setCharacterHover: (val: string) => set({ characterHover: val }),

@@ -1,11 +1,5 @@
 import { storyStore } from "../stores/store";
-import {
-  locations,
-  location_chunks,
-  sceneLocations,
-  characterScenes,
-  scenes,
-} from "../utils/data";
+import { dataStore } from "../stores/dataStore";
 import {
   location_height,
   character_offset,
@@ -21,10 +15,17 @@ function YAxis() {
     characterHover,
     showConflict,
   } = storyStore();
+  const {
+    sceneLocations,
+    scenes,
+    characterScenes,
+    locations,
+    location_chunks,
+  } = dataStore();
   return (
     <g id="y-axis">
       {/* add locations to y axis */}
-      {locations.map((location, i) => (
+      {locations.map((location: any, i: number) => (
         <g
           key={"location-group " + i}
           className={
@@ -36,7 +37,7 @@ function YAxis() {
             sceneLocations[scenes.indexOf(sceneHover)] === location ||
             // check if character is in location
             characterScenes.find(
-              (char) =>
+              (char: any) =>
                 char.locations.includes(location) &&
                 char.character === characterHover
             )
@@ -58,7 +59,7 @@ function YAxis() {
             href={"/locations/location_" + (i + 1) + ".png"}
           />
           <g className="location-name-group">
-            {location_chunks[i].map((chunk, j) => (
+            {location_chunks[i].map((chunk: any, j: number) => (
               <text
                 className="location-name"
                 x={location_height * 1.75}

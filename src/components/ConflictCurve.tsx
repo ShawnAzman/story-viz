@@ -6,11 +6,12 @@ import {
   character_height,
 } from "../utils/consts";
 import { conflictPath, scenePos } from "../utils/positions";
-import { scenes } from "../utils/data";
+import { dataStore } from "../stores/dataStore";
 
 function ConflictCurve() {
   const { showConflict, sceneHover, locationHover, characterHover, colorBy } =
     storyStore();
+  const { scenes } = dataStore();
   return (
     <g id="conflict-container">
       {/* add conflict curve */}
