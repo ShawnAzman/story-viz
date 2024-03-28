@@ -81,7 +81,7 @@
           }
         },
         {
-          "name": "The Mouse",
+          "name": "Mouse",
           "importance": 0.8,
           "emotion": {
             "description": "Annoyed and offended",
@@ -90,7 +90,7 @@
           }
         },
         {
-          "name": "The Dodo",
+          "name": "Dodo",
           "importance": 0.5,
           "emotion": {
             "description": "Inventive and authoritative",
@@ -189,7 +189,7 @@
           }
         },
         {
-          "name": "The Duchess",
+          "name": "Duchess",
           "importance": 0.7,
           "emotion": {
             "description": "Rude and careless",
@@ -198,7 +198,7 @@
           }
         },
         {
-          "name": "The Cheshire Cat",
+          "name": "Cheshire Cat",
           "importance": 0.6,
           "emotion": {
             "description": "Amused and cryptic",
@@ -207,7 +207,7 @@
           }
         },
         {
-          "name": "The Baby",
+          "name": "Baby",
           "importance": 0.5,
           "emotion": {
             "description": "Transformative and surprised",
@@ -240,7 +240,7 @@
           }
         },
         {
-          "name": "The Mad Hatter",
+          "name": "Mad Hatter",
           "importance": 0.9,
           "emotion": {
             "description": "Eccentric and nonsensical",
@@ -249,7 +249,7 @@
           }
         },
         {
-          "name": "The March Hare",
+          "name": "March Hare",
           "importance": 0.8,
           "emotion": {
             "description": "Rude and absurd",
@@ -258,7 +258,7 @@
           }
         },
         {
-          "name": "The Dormouse",
+          "name": "Dormouse",
           "importance": 0.5,
           "emotion": {
             "description": "Sleepy and confused",
@@ -291,7 +291,7 @@
           }
         },
         {
-          "name": "The Queen of Hearts",
+          "name": "Queen of Hearts",
           "importance": 1,
           "emotion": {
             "description": "Angry and authoritative",
@@ -300,7 +300,7 @@
           }
         },
         {
-          "name": "The King of Hearts",
+          "name": "King of Hearts",
           "importance": 0.6,
           "emotion": {
             "description": "Timid and conciliatory",
@@ -333,7 +333,7 @@
           }
         },
         {
-          "name": "The Mock Turtle",
+          "name": "Mock Turtle",
           "importance": 0.9,
           "emotion": {
             "description": "Melancholic and nostalgic",
@@ -342,7 +342,7 @@
           }
         },
         {
-          "name": "The Gryphon",
+          "name": "Gryphon",
           "importance": 0.8,
           "emotion": {
             "description": "Amused and mocking",
@@ -375,7 +375,7 @@
           }
         },
         {
-          "name": "The Mock Turtle",
+          "name": "Mock Turtle",
           "importance": 0.8,
           "emotion": {
             "description": "Proud and nostalgic",
@@ -384,7 +384,7 @@
           }
         },
         {
-          "name": "The Gryphon",
+          "name": "Gryphon",
           "importance": 0.8,
           "emotion": {
             "description": "Energetic and encouraging",
@@ -417,7 +417,7 @@
           }
         },
         {
-          "name": "The Queen of Hearts",
+          "name": "Queen of Hearts",
           "importance": 0.9,
           "emotion": {
             "description": "Irate and accusatory",
@@ -426,7 +426,7 @@
           }
         },
         {
-          "name": "The King of Hearts",
+          "name": "King of Hearts",
           "importance": 0.7,
           "emotion": {
             "description": "Bumbling and formal",
@@ -435,7 +435,7 @@
           }
         },
         {
-          "name": "The Knave of Hearts",
+          "name": "Knave of Hearts",
           "importance": 0.8,
           "emotion": {
             "description": "Nervous and falsely accused",
@@ -468,7 +468,7 @@
           }
         },
         {
-          "name": "The Queen of Hearts",
+          "name": "Queen of Hearts",
           "importance": 0.9,
           "emotion": {
             "description": "Angry and authoritarian",
@@ -477,7 +477,7 @@
           }
         },
         {
-          "name": "The King of Hearts",
+          "name": "King of Hearts",
           "importance": 0.5,
           "emotion": {
             "description": "Attempting to maintain order",
@@ -486,7 +486,7 @@
           }
         },
         {
-          "name": "The Jury",
+          "name": "Jury",
           "importance": 0.6,
           "emotion": {
             "description": "Confused and pressured",
@@ -545,27 +545,19 @@
       "quote": "suddenly a White Rabbit with pink eyes ran close by her."
     },
     {
-      "character": "The Mouse",
+      "character": "Mouse",
       "quote": "'Mine is a long and sad tale!' said the Mouse."
     },
     {
-      "character": "The Dodo",
+      "character": "Dodo",
       "quote": "'The best way to explain it is to do it.'"
     },
     {
-      "character": "The Lory",
-      "quote": "'I am older than you, and must know better.'"
+      "character": "Baby",
+      "quote": "'If it had grown up,' she said to herself, 'it would have made a dreadfully ugly child: but it makes rather a handsome pig, I think.'"
     },
     {
-      "character": "The Eaglet",
-      "quote": "'Speak English! I don't know the meaning of half those long words.'"
-    },
-    {
-      "character": "The Duck",
-      "quote": "'It's generally a frog or a worm. The question is, what did the archbishop find?'"
-    },
-    {
-      "character": "The Duchess",
+      "character": "Duchess",
       "quote": "The Duchess was sitting on a three-legged stool in the middle, nursing a baby."
     },
     {
@@ -573,43 +565,43 @@
       "quote": "'It's a Cheshire cat,' said the Duchess, 'and that's why. Pig!'"
     },
     {
-      "character": "The Caterpillar",
+      "character": "Caterpillar",
       "quote": "'Who are _you_?' said the Caterpillar."
     },
     {
-      "character": "The March Hare",
+      "character": "March Hare",
       "quote": "'Have some wine,' the March Hare said in an encouraging tone."
     },
     {
-      "character": "The Mad Hatter",
+      "character": "Mad Hatter",
       "quote": "'Your hair wants cutting,' said the Hatter."
     },
     {
-      "character": "The Dormouse",
+      "character": "Dormouse",
       "quote": "'I wasn't asleep,' he said in a hoarse, feeble voice: 'I heard every word you fellows were saying.'"
     },
     {
-      "character": "The Queen of Hearts",
+      "character": "Queen of Hearts",
       "quote": "'Off with his head!' she said, without even looking round."
     },
     {
-      "character": "The King of Hearts",
+      "character": "King of Hearts",
       "quote": "'Consider my dear: she is only a child!' the King said."
     },
     {
-      "character": "The Gryphon",
+      "character": "Gryphon",
       "quote": "'Will you, won't you, will you, won't you, will you join the dance?'"
     },
     {
-      "character": "The Mock Turtle",
+      "character": "Mock Turtle",
       "quote": "'When we were little,' the Mock Turtle went on at last, more calmly, though still sobbing a little now and then, 'we went to school in the sea.'"
     },
     {
-      "character": "The Knave of Hearts",
+      "character": "Knave of Hearts",
       "quote": "'I haven't done anything wrong,' said the Knave of Hearts, 'and I don't deserve to be punished.'"
     },
     {
-      "character": "The Jury",
+      "character": "Jury",
       "quote": "The jury all wrote down on their slates, 'She doesn't believe there's an atom of meaning in it.'"
     }
   ]
