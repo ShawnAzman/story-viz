@@ -100,21 +100,39 @@ const locations = (data: Scene[]): string[] =>
   Array.from(new Set(data.map((scene) => scene.location)));
 
 // for each quote in location_data, split quote into chunk_size character chunks, making sure to keep full words
-const location_quotes = (location_data: LocationData[]): LocationQuote[] =>
-  location_data.map((location) => {
-    const chunked = chunkQuote('"' + location.quote + '"', 75);
-    return {
-      location: location.name,
-      quote: chunked,
-    };
-  });
-
+const location_quotes = (
+  locations: string[],
+  location_data: LocationData[]
+): LocationQuote[] =>
+  location_data
+    .map((location) => {
+      const chunked = chunkQuote('"' + location.quote + '"', 75);
+      return {
+        location: location.name,
+        quote: chunked,
+      };
+    })
+    // now sort by the order of 'locations'
+    .sort((a, b) => {
+      const aIndex = locations.findIndex((loc) => loc === a.location);
+      const bIndex = locations.findIndex((loc) => loc === b.location);
+      return aIndex - bIndex;
+    });
 // also chunk the location names
-const location_chunks = (location_data: LocationData[]): string[][] =>
-  location_data.map((location) => {
-    return chunkQuote(location.name, 24);
-  });
-
+const location_chunks = (
+  locations: string[],
+  location_data: LocationData[]
+): string[][] =>
+  location_data
+    .sort((a, b) => {
+      // sort by the order of 'locations'
+      const aIndex = locations.findIndex((loc) => loc === a.name);
+      const bIndex = locations.findIndex((loc) => loc === b.name);
+      return aIndex - bIndex;
+    })
+    .map((location) => {
+      return chunkQuote(location.name, 24);
+    });
 /* CHARACTER DATA */
 // get all characters by finding unique 'name' values in characters object
 const characters = (data: Scene[]): string[] =>
@@ -232,7 +250,7 @@ const sceneSummaries = (
   data.map((scene) => {
     // also chunk each character's quote for the first emotion in their emotions list
     // save in a dictionary with character name as key
-    const chunk_size = 105;
+    const chunk_size = 115;
     const chunkedEmotions = scene.characters.map((character) => {
       const chunked = chunkQuote(
         '"' + character.emotion.quote + '"',
@@ -281,8 +299,14 @@ export const getAllData = (init_data: any) => {
   const init_character_data = character_data(init_data);
 
   const init_locations = locations(init_scene_data);
-  const init_location_quotes = location_quotes(init_location_data);
-  const init_location_chunks = location_chunks(init_location_data);
+  const init_location_quotes = location_quotes(
+    init_locations,
+    init_location_data
+  );
+  const init_location_chunks = location_chunks(
+    init_locations,
+    init_location_data
+  );
 
   const init_characters = characters(init_scene_data);
   const init_characterScenes = characterScenes(

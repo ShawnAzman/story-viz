@@ -338,9 +338,20 @@ const characterPaths = (
       }
     }
 
+    // check if all points have same y value; if so, move 1st point up by 0.001
+    const same_y = character_coords_arr.every(
+      (val, _, arr) => val[1] === arr[0][1]
+    );
+    if (same_y) {
+      character_coords_arr[0][1] -= 0.0001;
+      // move last point up by 0.001
+      character_coords_arr[character_coords_arr.length - 1][1] -= 0.0001;
+    }
+
     paths.push(svgPath(character_coords_arr, bezierCommand));
     return paths;
   });
+
   return {
     paths: allPaths,
     max_y_per_scene: max_y_per_scene,
@@ -500,22 +511,19 @@ const character_quote_texts = (
   });
 
 // scene quote box positions
-const scene_summary_boxes = (scene_width: number) => {
-  return {
-    x: scene_width * 5 + scene_offset,
-    y: 0,
-    width: scene_width * 8,
-  } as SceneSummaryBox;
-};
+const scene_summary_boxes = {
+  x: scene_base * 4 + scene_offset,
+  y: 0,
+  width: scene_base * 8.25,
+} as SceneSummaryBox;
 
 const scene_summary_texts = (
-  scene_width: number,
   scene_summary_boxes: SceneSummaryBox,
   scenes: string[],
   sceneSummaries: SceneSummary[]
 ) =>
   scenes.map((_, i) => {
-    const start_x = scene_width * 5 + scene_offset + 0.75 * location_offset;
+    const start_x = scene_base * 4 + scene_offset + 0.75 * location_offset;
     const end_x = start_x + scene_summary_boxes.width - 1.5 * location_offset;
     const third = (end_x - start_x) / 3 - 0.8 * character_offset;
 
@@ -725,10 +733,9 @@ export const getAllPositions = (
     character_quotes
   );
 
-  const initSceneSummaryBoxes = scene_summary_boxes(sceneWidth);
+  const initSceneSummaryBoxes = scene_summary_boxes;
 
   const initSceneSummaryTexts = scene_summary_texts(
-    sceneWidth,
     initSceneSummaryBoxes,
     scenes,
     sceneSummaries

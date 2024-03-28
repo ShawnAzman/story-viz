@@ -356,7 +356,7 @@
       "number": 10,
       "name": "The Lobster Quadrille",
       "summary": "The Mock Turtle and Gryphon perform a dance for Alice, leading into a whimsical explanation of a sea dance.",
-      "location": "Near The Queen's Croquet Ground",
+      "location": "The Queen's Croquet Ground",
       "firstLine": "The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes.",
       "lastLine": "'Thank you, it's a very interesting dance to watch,' said Alice, feeling very glad that it was over at last.",
       "ratings": {
@@ -507,10 +507,6 @@
       "quote": "However, she soon made out that she was in the pool of tears which she had wept when she was nine feet high."
     },
     {
-      "name": "A Long, Low Hall",
-      "quote": "she found herself in a long, low hall, which was lit up by a row of lamps hanging from the roof."
-    },
-    {
       "name": "The Garden",
       "quote": "Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw."
     },
@@ -525,14 +521,6 @@
     {
       "name": "The Queen's Croquet Ground",
       "quote": "The Queen's Croquet-Ground was a very curious sight."
-    },
-    {
-      "name": "The Mock Turtle's Shore",
-      "quote": "They found themselves at the edge of a large pool, with the Mock Turtle in the distance, sitting sad and lonely on a little ledge of rock."
-    },
-    {
-      "name": "The Courtroom",
-      "quote": "The King and Queen of Hearts were seated on their throne when they arrived, with a great crowd assembled about them—all sorts of little birds and beasts, as well as the whole pack of cards."
     }
   ],
   "characters": [
