@@ -1,0 +1,616 @@
+{
+  "title": "Alice's Adventures in Wonderland",
+  "scenes": [
+    {
+      "number": 1,
+      "name": "Down the Rabbit Hole",
+      "summary": "Alice spots a hurried rabbit and follows it down a deep rabbit hole, beginning her adventures.",
+      "location": "The Rabbit Hole",
+      "firstLine": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do.",
+      "lastLine": "In another moment down went Alice after it, never once considering how in the world she was to get out again.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.5,
+        "emotion": 0
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": {
+            "description": "Curious and slightly anxious",
+            "quote": "what is the use of a book, thought Alice, without pictures or conversation?",
+            "rating": 0.5
+          }
+        },
+        {
+          "name": "White Rabbit",
+          "importance": 0.8,
+          "emotion": {
+            "description": "Rushed and worried",
+            "quote": "Oh dear! Oh dear! I shall be late!",
+            "rating": -0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "The Pool of Tears",
+      "summary": "After growing too large and then too small, Alice cries a pool of tears which she later falls into.",
+      "location": "The Pool of Tears",
+      "firstLine": "The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down.",
+      "lastLine": "I wish I hadn't cried so much!",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.8,
+        "emotion": -0.5
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": {
+            "description": "Frustrated and sad",
+            "quote": "I wish I hadn't cried so much!",
+            "rating": -0.5
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "A Caucus-Race and a Long Tale",
+      "summary": "Alice encounters various creatures who have also been affected by the pool of tears, and they participate in a Caucus-Race to get dry.",
+      "location": "The Pool of Tears",
+      "firstLine": "The first question was, how to get dry again.",
+      "lastLine": "'I shall do nothing of the sort,' said the Mouse, getting up and walking away.",
+      "ratings": {
+        "importance": 0.8,
+        "conflict": 0.4,
+        "emotion": 0.1
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": {
+            "description": "Confused and eager to help",
+            "quote": "Oh, I beg your pardon!",
+            "rating": 0
+          }
+        },
+        {
+          "name": "The Mouse",
+          "importance": 0.8,
+          "emotion": {
+            "description": "Annoyed and offended",
+            "quote": "'I shall do nothing of the sort,' said the Mouse, getting up and walking away.",
+            "rating": -0.7
+          }
+        },
+        {
+          "name": "The Dodo",
+          "importance": 0.5,
+          "emotion": {
+            "description": "Inventive and authoritative",
+            "quote": "'The best thing to get us dry would be a Caucus-race.'",
+            "rating": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "The Rabbit Sends in a Little Bill",
+      "summary": "Alice enters the White Rabbit's house, grows too large, and causes chaos.",
+      "location": "The Duchess's Kitchen",
+      "firstLine": "It was the White Rabbit, trotting slowly back again, and looking anxiously about as it went, as if it had lost something.",
+      "lastLine": "'And yet what a dear little puppy it was!' said Alice.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "emotion": -0.5
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": {
+            "description": "Frustrated and panicked",
+            "quote": "'Oh dear, what nonsense I'm talking!'",
+            "rating": -0.5
+          }
+        },
+        {
+          "name": "White Rabbit",
+          "importance": 0.8,
+          "emotion": {
+            "description": "Distressed and hurried",
+            "quote": "'Oh my ears and whiskers, how late it's getting!'",
+            "rating": -0.6
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Advice from a Caterpillar",
+      "summary": "Alice meets a caterpillar who gives her advice on changing size and tells her about the mushroom.",
+      "location": "The Garden",
+      "firstLine": "The Caterpillar and Alice looked at each other for some time in silence.",
+      "lastLine": "'One side will make you grow taller, and the other side will make you grow shorter.'",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.3,
+        "emotion": -0.1
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": {
+            "description": "Curious and slightly frustrated",
+            "quote": "'Who are _you_?' said the Caterpillar.",
+            "rating": 0
+          }
+        },
+        {
+          "name": "Caterpillar",
+          "importance": 1,
+          "emotion": {
+            "description": "Indifferent and wise",
+            "quote": "'Keep your temper,' said the Caterpillar.",
+            "rating": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Pig and Pepper",
+      "summary": "Alice witnesses the chaos at the Duchess's house, including a baby turning into a pig.",
+      "location": "The Duchess's Kitchen",
+      "firstLine": "For a minute or two she stood looking at the house, and wondering what to do next.",
+      "lastLine": "'If it had grown up,' she said to herself, 'it would have made a dreadfully ugly child: but it makes rather a handsome pig, I think.'",
+      "ratings": {
+        "importance": 0.8,
+        "conflict": 1,
+        "emotion": -0.8
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": {
+            "description": "Shocked and thoughtful",
+            "quote": "'If it had grown up,' she said to herself, 'it would have made a dreadfully ugly child: but it makes rather a handsome pig, I think.'",
+            "rating": -0.2
+          }
+        },
+        {
+          "name": "The Duchess",
+          "importance": 0.7,
+          "emotion": {
+            "description": "Rude and careless",
+            "quote": "The Duchess was sitting on a three-legged stool in the middle, nursing a baby; the cook was leaning over the fire, stirring a large cauldron which seemed to be full of soup.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "The Cheshire Cat",
+          "importance": 0.6,
+          "emotion": {
+            "description": "Amused and cryptic",
+            "quote": "'It's a Cheshire cat,' said the Duchess, 'and that's why. Pig!'",
+            "rating": 0.5
+          }
+        },
+        {
+          "name": "The Baby",
+          "importance": 0.5,
+          "emotion": {
+            "description": "Transformative and surprised",
+            "quote": "and the baby was howling so much already, that it was quite impossible to say whether the blows hurt it or not.",
+            "rating": -0.8
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "A Mad Tea-Party",
+      "summary": "Alice encounters the Mad Hatter, the March Hare, and the Dormouse, who are having a never-ending tea party.",
+      "location": "The March Hare's House",
+      "firstLine": "There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it.",
+      "lastLine": "'At any rate I'll never go _there_ again!' said Alice as she picked her way through the wood.",
+      "ratings": {
+        "importance": 1,
+        "conflict": 0.7,
+        "emotion": -0.4
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": {
+            "description": "Frustrated and confused",
+            "quote": "'This is the stupidest tea party I've ever been to in all my life!'",
+            "rating": -0.7
+          }
+        },
+        {
+          "name": "The Mad Hatter",
+          "importance": 0.9,
+          "emotion": {
+            "description": "Eccentric and nonsensical",
+            "quote": "'Why is a raven like a writing-desk?'",
+            "rating": 0.2
+          }
+        },
+        {
+          "name": "The March Hare",
+          "importance": 0.8,
+          "emotion": {
+            "description": "Rude and absurd",
+            "quote": "'Have some wine,' the March Hare said in an encouraging tone.",
+            "rating": -0.1
+          }
+        },
+        {
+          "name": "The Dormouse",
+          "importance": 0.5,
+          "emotion": {
+            "description": "Sleepy and confused",
+            "quote": "'I wasn't asleep,' he said in a hoarse, feeble voice: 'I heard every word you fellows were saying.'",
+            "rating": -0.5
+          }
+        },
+        {
+          "number": 8,
+          "name": "The Queen's Croquet Ground",
+          "summary": "Alice is introduced to the Queen of Hearts and participates in a croquet game with living equipment.",
+          "location": "The Queen's Croquet Ground",
+          "firstLine": "The Queen! The Queen!",
+          "lastLine": "'Who are _you_?' said the Caterpillar.",
+          "ratings": {
+            "importance": 1,
+            "conflict": 1,
+            "emotion": -1
+          },
+          "characters": [
+            {
+              "name": "Alice",
+              "importance": 1,
+              "emotion": {
+                "description": "Intimidated and curious",
+                "quote": "'It's—it's a very fine day!' said Alice.",
+                "rating": -0.3
+              }
+            },
+            {
+              "name": "The Queen of Hearts",
+              "importance": 1,
+              "emotion": {
+                "description": "Angry and authoritative",
+                "quote": "'Off with his head!'",
+                "rating": -1
+              }
+            },
+            {
+              "name": "The King of Hearts",
+              "importance": 0.6,
+              "emotion": {
+                "description": "Timid and conciliatory",
+                "quote": "'Consider, my dear: she is only a child!'",
+                "rating": 0.2
+              }
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "name": "The Mock Turtle's Story",
+          "summary": "Alice meets the Mock Turtle and the Gryphon, who share stories about their education under the sea.",
+          "location": "The Queen's Croquet Ground",
+          "firstLine": "'Come on, then,' said the Queen, 'and he shall tell you his history,'",
+          "lastLine": "'That's the reason they're called lessons,' the Gryphon remarked: 'because they lessen from day to day.'",
+          "ratings": {
+            "importance": 0.7,
+            "conflict": 0.2,
+            "emotion": -0.3
+          },
+          "characters": [
+            {
+              "name": "Alice",
+              "importance": 1,
+              "emotion": {
+                "description": "Intrigued and compassionate",
+                "quote": "And how many hours a day did you do lessons?' said Alice, in a hurry to change the subject.",
+                "rating": 0.2
+              }
+            },
+            {
+              "name": "The Mock Turtle",
+              "importance": 0.9,
+              "emotion": {
+                "description": "Melancholic and nostalgic",
+                "quote": "'When we were little,' the Mock Turtle went on at last, more calmly, though still sobbing a little now and then, 'we went to school in the sea.'",
+                "rating": -0.7
+              }
+            },
+            {
+              "name": "The Gryphon",
+              "importance": 0.8,
+              "emotion": {
+                "description": "Amused and mocking",
+                "quote": "'That's the reason they're called lessons,' the Gryphon remarked: 'because they lessen from day to day.'",
+                "rating": 0.1
+              }
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "name": "The Lobster Quadrille",
+          "summary": "The Mock Turtle and Gryphon perform a dance for Alice, leading into a whimsical explanation of a sea dance.",
+          "location": "Near The Queen's Croquet Ground",
+          "firstLine": "The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes.",
+          "lastLine": "'Thank you, it's a very interesting dance to watch,' said Alice, feeling very glad that it was over at last.",
+          "ratings": {
+            "importance": 0.5,
+            "conflict": 0.1,
+            "emotion": 0.4
+          },
+          "characters": [
+            {
+              "name": "Alice",
+              "importance": 1,
+              "emotion": {
+                "description": "Polite and slightly bored",
+                "quote": "'Thank you, it's a very interesting dance to watch,' said Alice, feeling very glad that it was over at last.",
+                "rating": 0.3
+              }
+            },
+            {
+              "name": "The Mock Turtle",
+              "importance": 0.8,
+              "emotion": {
+                "description": "Proud and nostalgic",
+                "quote": "'You may not have lived much under the sea—' ('I haven't,' said Alice)—'and perhaps you were never even introduced to a lobster—' (Alice began to say 'I once tasted—' but checked herself hastily).",
+                "rating": 0.5
+              }
+            },
+            {
+              "name": "The Gryphon",
+              "importance": 0.8,
+              "emotion": {
+                "description": "Energetic and encouraging",
+                "quote": "'Will you, won't you, will you, won't you, will you join the dance?'",
+                "rating": 0.6
+              }
+            }
+          ]
+        },
+        {
+          "number": 11,
+          "name": "Who Stole the Tarts?",
+          "summary": "Alice attends a trial where the Knave of Hearts is accused of stealing the Queen's tarts.",
+          "location": "The Queen's Croquet Ground",
+          "firstLine": "The King and Queen of Hearts were seated on their throne when they arrived, with a great crowd assembled about them.",
+          "lastLine": "'Call the first witness,' said the King; and the White Rabbit blew three blasts on the trumpet.",
+          "ratings": {
+            "importance": 1,
+            "conflict": 1,
+            "emotion": -0.5
+          },
+          "characters": [
+            {
+              "name": "Alice",
+              "importance": 1,
+              "emotion": {
+                "description": "Curious and critical",
+                "quote": "Alice had never been in a court of justice before, but she had read about them in books, and she was quite pleased to find that she knew the name of nearly everything there.",
+                "rating": 0.1
+              }
+            },
+            {
+              "name": "The Queen of Hearts",
+              "importance": 0.9,
+              "emotion": {
+                "description": "Irate and accusatory",
+                "quote": "'Silence!' screamed the Queen. 'Off with his head! Off—'",
+                "rating": -1
+              }
+            },
+            {
+              "name": "The King of Hearts",
+              "importance": 0.7,
+              "emotion": {
+                "description": "Bumbling and formal",
+                "quote": "'—and just take his head off outside,' the Queen added to one of the officers: but the White Rabbit interrupted, 'Unimportant, your Majesty means, of course,' he said in a very respectful tone, but frowning and making faces at him as he spoke.'",
+                "rating": -0.2
+              }
+            },
+            {
+              "name": "The Knave of Hearts",
+              "importance": 0.8,
+              "emotion": {
+                "description": "Nervous and falsely accused",
+                "quote": "The Knave shook his head sadly. 'Do I look like it?' he said. (Which he certainly did NOT, being made entirely of cardboard.)",
+                "rating": -0.7
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Alice's Evidence",
+      "summary": "Alice is called to the stand at the trial, but her growing confusion and size disrupt the proceedings.",
+      "location": "The Queen's Croquet Ground",
+      "firstLine": "'Here!' cried Alice, quite forgetting in the flurry of the moment how large she had grown in the last few minutes.",
+      "lastLine": "'Who cares for you?' said Alice, (she had grown to her full size by this time.) 'You're nothing but a pack of cards!'",
+      "ratings": {
+        "importance": 1,
+        "conflict": 1,
+        "emotion": -0.4
+      },
+      "characters": [
+        {
+          "name": "Alice",
+          "importance": 1,
+          "emotion": {
+            "description": "Empowered and defiant",
+            "quote": "'Who cares for you?' said Alice, 'You're nothing but a pack of cards!'",
+            "rating": 0.8
+          }
+        },
+        {
+          "name": "The Queen of Hearts",
+          "importance": 0.9,
+          "emotion": {
+            "description": "Angry and authoritarian",
+            "quote": "'Silence!' screamed the Queen.",
+            "rating": -1
+          }
+        },
+        {
+          "name": "The King of Hearts",
+          "importance": 0.5,
+          "emotion": {
+            "description": "Attempting to maintain order",
+            "quote": "'Consider your verdict,' the King said to the jury.",
+            "rating": -0.2
+          }
+        },
+        {
+          "name": "The Jury",
+          "importance": 0.6,
+          "emotion": {
+            "description": "Confused and pressured",
+            "quote": "The jury all wrote down on their slates, 'She doesn't believe there's an atom of meaning in it.'",
+            "rating": -0.5
+          }
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "name": "The Rabbit Hole",
+      "quote": "In another moment down went Alice after it, never once considering how in the world she was to get out again."
+    },
+    {
+      "name": "The Pool of Tears",
+      "quote": "However, she soon made out that she was in the pool of tears which she had wept when she was nine feet high."
+    },
+    {
+      "name": "A Long, Low Hall",
+      "quote": "she found herself in a long, low hall, which was lit up by a row of lamps hanging from the roof."
+    },
+    {
+      "name": "The Garden",
+      "quote": "Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw."
+    },
+    {
+      "name": "The Duchess's Kitchen",
+      "quote": "The door led right into a large kitchen, which was full of smoke from one end to the other: the Duchess was sitting on a three-legged stool in the middle, nursing a baby."
+    },
+    {
+      "name": "The March Hare's House",
+      "quote": "There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it."
+    },
+    {
+      "name": "The Queen's Croquet Ground",
+      "quote": "The Queen's Croquet-Ground was a very curious sight."
+    },
+    {
+      "name": "The Mock Turtle's Shore",
+      "quote": "They found themselves at the edge of a large pool, with the Mock Turtle in the distance, sitting sad and lonely on a little ledge of rock."
+    },
+    {
+      "name": "The Courtroom",
+      "quote": "The King and Queen of Hearts were seated on their throne when they arrived, with a great crowd assembled about them—all sorts of little birds and beasts, as well as the whole pack of cards."
+    }
+  ],
+  "characters": [
+    {
+      "character": "Alice",
+      "quote": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do."
+    },
+    {
+      "character": "White Rabbit",
+      "quote": "suddenly a White Rabbit with pink eyes ran close by her."
+    },
+    {
+      "character": "The Mouse",
+      "quote": "'Mine is a long and sad tale!' said the Mouse."
+    },
+    {
+      "character": "The Dodo",
+      "quote": "'The best way to explain it is to do it.'"
+    },
+    {
+      "character": "The Lory",
+      "quote": "'I am older than you, and must know better.'"
+    },
+    {
+      "character": "The Eaglet",
+      "quote": "'Speak English! I don't know the meaning of half those long words.'"
+    },
+    {
+      "character": "The Duck",
+      "quote": "'It's generally a frog or a worm. The question is, what did the archbishop find?'"
+    },
+    {
+      "character": "The Duchess",
+      "quote": "The Duchess was sitting on a three-legged stool in the middle, nursing a baby."
+    },
+    {
+      "character": "Cheshire Cat",
+      "quote": "'It's a Cheshire cat,' said the Duchess, 'and that's why. Pig!'"
+    },
+    {
+      "character": "The Caterpillar",
+      "quote": "'Who are _you_?' said the Caterpillar."
+    },
+    {
+      "character": "The March Hare",
+      "quote": "'Have some wine,' the March Hare said in an encouraging tone."
+    },
+    {
+      "character": "The Mad Hatter",
+      "quote": "'Your hair wants cutting,' said the Hatter."
+    },
+    {
+      "character": "The Dormouse",
+      "quote": "'I wasn't asleep,' he said in a hoarse, feeble voice: 'I heard every word you fellows were saying.'"
+    },
+    {
+      "character": "The Queen of Hearts",
+      "quote": "'Off with his head!' she said, without even looking round."
+    },
+    {
+      "character": "The King of Hearts",
+      "quote": "'Consider my dear: she is only a child!' the King said."
+    },
+    {
+      "character": "The Gryphon",
+      "quote": "'Will you, won't you, will you, won't you, will you join the dance?'"
+    },
+    {
+      "character": "The Mock Turtle",
+      "quote": "'When we were little,' the Mock Turtle went on at last, more calmly, though still sobbing a little now and then, 'we went to school in the sea.'"
+    },
+    {
+      "character": "The Knave of Hearts",
+      "quote": "'I haven't done anything wrong,' said the Knave of Hearts, 'and I don't deserve to be punished.'"
+    },
+    {
+      "character": "The Jury",
+      "quote": "The jury all wrote down on their slates, 'She doesn't believe there's an atom of meaning in it.'"
+    }
+  ]
+}

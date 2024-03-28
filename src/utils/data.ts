@@ -47,7 +47,7 @@ export interface Scene {
 }
 
 export interface LocationData {
-  group: string;
+  name: string;
   quote: string;
 }
 
@@ -109,7 +109,7 @@ const location_quotes = (location_data: LocationData[]): LocationQuote[] =>
   location_data.map((location) => {
     const chunked = chunkQuote('"' + location.quote + '"', 80);
     return {
-      location: location.group,
+      location: location.name,
       quote: chunked,
     };
   });
@@ -117,7 +117,7 @@ const location_quotes = (location_data: LocationData[]): LocationQuote[] =>
 // also chunk the location names
 const location_chunks = (location_data: LocationData[]): string[][] =>
   location_data.map((location) => {
-    return chunkQuote(location.group, 24);
+    return chunkQuote(location.name, 24);
   });
 
 /* CHARACTER DATA */
