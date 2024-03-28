@@ -22,7 +22,6 @@ const chunkQuote = (quote: string, chunk_size: number) => {
 /* INTERFACES */
 export interface Character {
   name: string;
-  quote: string;
   importance: number;
   emotion: {
     quote: string;
@@ -94,22 +93,19 @@ export interface RatingDict {
 }
 
 /* DATA */
-export const title = (all_data: any): string => all_data["title"];
-export const scene_data = (all_data: any): Scene[] => all_data["scenes"];
-export const location_data = (all_data: any): LocationData[] =>
-  all_data["locations"];
-export const character_data = (all_data: any): CharacterData[] =>
+const title = (all_data: any): string => all_data["title"];
+const scene_data = (all_data: any): Scene[] => all_data["scenes"];
+const location_data = (all_data: any): LocationData[] => all_data["locations"];
+const character_data = (all_data: any): CharacterData[] =>
   all_data["characters"];
 
 /* LOCATION DATA */
 // get all locations by finding unique 'group' values in location object
-export const locations = (data: Scene[]): string[] =>
+const locations = (data: Scene[]): string[] =>
   Array.from(new Set(data.map((scene) => scene.location.group)));
 
 // for each quote in location_data, split quote into chunk_size character chunks, making sure to keep full words
-export const location_quotes = (
-  location_data: LocationData[]
-): LocationQuote[] =>
+const location_quotes = (location_data: LocationData[]): LocationQuote[] =>
   location_data.map((location) => {
     const chunked = chunkQuote('"' + location.quote + '"', 80);
     return {
@@ -119,14 +115,14 @@ export const location_quotes = (
   });
 
 // also chunk the location names
-export const location_chunks = (location_data: LocationData[]): string[][] =>
+const location_chunks = (location_data: LocationData[]): string[][] =>
   location_data.map((location) => {
     return chunkQuote(location.group, 24);
   });
 
 /* CHARACTER DATA */
 // get all characters by finding unique 'name' values in characters object
-export const characters = (data: Scene[]): string[] =>
+const characters = (data: Scene[]): string[] =>
   Array.from(
     new Set(
       data.flatMap((scene) =>
@@ -137,7 +133,7 @@ export const characters = (data: Scene[]): string[] =>
 
 // for each character, get all scenes they appear in
 // sort by number of scenes they appear in (descending order)
-export const characterScenes = (
+const characterScenes = (
   characters: string[],
   data: Scene[]
 ): CharacterScene[] =>
@@ -164,12 +160,12 @@ export const characterScenes = (
     })
     .sort((a, b) => b.scenes.length - a.scenes.length);
 
-export const reverseCharacterNames = (
+const reverseCharacterNames = (
   characterScenes: CharacterScene[]
 ): CharacterScene[] => characterScenes.slice().reverse();
 
 // for each quote in character-data, split quote into chunk_size character chunks, making sure to keep full words
-export const character_quotes = (
+const character_quotes = (
   character_data: CharacterData[],
   characterScenes: CharacterScene[]
 ): CharacterQuote[] =>
@@ -197,19 +193,18 @@ export const character_quotes = (
 /* SCENE DATA */
 // get all scene names using 'name' attribute in each scene object
 // index corresponds to scene number
-export const scenes = (data: Scene[]): string[] =>
-  data.map((scene) => scene.name);
+const scenes = (data: Scene[]): string[] => data.map((scene) => scene.name);
 
 // map each scene to location
-export const sceneLocations = (data: Scene[]): string[] =>
+const sceneLocations = (data: Scene[]): string[] =>
   data.map((scene) => scene.location.group);
 
 // split scene names into chunks of 30 characters
-export const sceneChunks = (scenes: string[]): string[][] =>
+const sceneChunks = (scenes: string[]): string[][] =>
   scenes.map((scene) => chunkQuote(scene, 24));
 
 // list characters in each scene, sorted by their number of scenes
-export const sceneCharacters = (
+const sceneCharacters = (
   scenes: string[],
   data: Scene[],
   characterScenes: CharacterScene[]
@@ -235,7 +230,7 @@ export const sceneCharacters = (
   });
 
 // split scene summaries into chunks of 105 characters
-export const sceneSummaries = (
+const sceneSummaries = (
   data: Scene[],
   characterScenes: CharacterScene[]
 ): SceneSummary[] =>
@@ -274,7 +269,7 @@ export const sceneSummaries = (
 
 // create dictionary with importance, conflict, and emotion ratings, each containing a list of ratings by scene
 const ratings = ["importance", "conflict", "emotion"];
-export const createRatingDict = (data: Scene[]): RatingDict => {
+const createRatingDict = (data: Scene[]): RatingDict => {
   const ratingDict: RatingDict = {} as any;
   for (let rating of ratings) {
     const key = rating as keyof RatingDict;
@@ -285,7 +280,7 @@ export const createRatingDict = (data: Scene[]): RatingDict => {
 
 // generate all data and return
 export const getAllData = (init_data: any) => {
-  const init_title = init_data.title;
+  const init_title = title(init_data);
   const init_scene_data = scene_data(init_data);
   const init_location_data = location_data(init_data);
   const init_character_data = character_data(init_data);

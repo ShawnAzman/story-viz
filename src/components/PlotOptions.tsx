@@ -2,6 +2,7 @@ import { Switch, Select, Divider } from "@mantine/core";
 import { storyStore } from "../stores/store";
 import { dataStore } from "../stores/dataStore";
 import { useEffect, useState } from "react";
+import { positionStore } from "../stores/positionStore";
 
 function PlotOptions() {
   const {
@@ -15,7 +16,23 @@ function PlotOptions() {
     setSizeBy,
   } = storyStore();
 
-  const { setData } = dataStore();
+  const {
+    data,
+    setData,
+    plot_width,
+    plot_height,
+    scene_data,
+    scenes,
+    locations,
+    characterScenes,
+    sceneLocations,
+    sceneCharacters,
+    location_quotes,
+    sceneSummaries,
+    character_quotes,
+    reverseCharacterNames,
+  } = dataStore();
+  const { setPositions } = positionStore();
   const colorByOptions = ["conflict", "emotion", "importance", "default"];
   const characterColorOptions = ["default", "emotion", "importance"];
   const sizeByOptions = ["conflict", "importance", "default"];
@@ -26,14 +43,32 @@ function PlotOptions() {
   const handleStoryChange = async (story: string) => {
     // change story
     setStory(story);
-    const data = await import(`../data/${story}.json`);
+    const new_data = await import(`../data/${story}.json`);
     // update data once story is loaded
-    setData(data.default);
+    setData(new_data.default);
   };
 
   useEffect(() => {
     handleStoryChange(story);
   }, [story]);
+
+  useEffect(() => {
+    //  update positions if data changes
+    setPositions(
+      plot_width,
+      plot_height,
+      scene_data,
+      scenes,
+      locations,
+      characterScenes,
+      sceneLocations,
+      sceneCharacters,
+      location_quotes,
+      sceneSummaries,
+      character_quotes,
+      reverseCharacterNames
+    );
+  }, [data]);
 
   return (
     <div id="options">
