@@ -272,6 +272,19 @@ h1 {
   }
 }
 
+@media (max-width: 1750px) {
+  #options {
+    .options-contain {
+      .options-inner {
+        align-items: end !important;
+      }
+      .mantine-Select-root {
+        display: block;
+      }
+    }
+  }
+}
+
 @media (max-width: 1200px) {
   #story-contain {
     #story {
