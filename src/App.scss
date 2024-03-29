@@ -57,7 +57,8 @@ header {
 .mantine-Switch-label,
 .mantine-Select-label,
 .mantine-Select-input,
-.mantine-Select-option span {
+.mantine-Select-option span,
+.mantine-Button-label {
   font-size: calc(0.65rem + 0.05vw) !important;
   transition: 0.3s;
 }
@@ -291,7 +292,8 @@ h1 {
   .mantine-Switch-label,
   .mantine-Select-label,
   .mantine-Select-input,
-  .mantine-Select-option span {
+  .mantine-Select-option span,
+  .mantine-Button-label {
     font-size: 10.5px !important;
   }
 }
