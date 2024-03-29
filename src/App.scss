@@ -79,8 +79,8 @@ h1 {
     transform-origin: 0 0;
 
     .faded {
-      &.location-group,
-      &.legend-item {
+      &.legend-item,
+      .location-img {
         opacity: 0.3;
       }
 
@@ -92,10 +92,6 @@ h1 {
 
       &.path-group {
         stroke-opacity: 0.3;
-      }
-
-      .name-box.faded {
-        opacity: 0.3;
       }
     }
 
@@ -113,11 +109,13 @@ h1 {
       transition: 0.3s;
     }
 
-    .scene-name.faded .scene-name-text {
+    .scene-name.faded .scene-name-text,
+    .location-group.faded .location-name {
       fill-opacity: 0.3;
     }
 
-    .scene-name-text {
+    .scene-name-text,
+    .location-img {
       transition: 0.3s;
     }
 
@@ -185,10 +183,6 @@ h1 {
           .character-name {
             fill-opacity: 0;
             stroke-opacity: 0;
-
-            .name-box {
-              opacity: 0;
-            }
           }
         }
       }
@@ -197,8 +191,7 @@ h1 {
       .location-group,
       .character-name,
       .character-square,
-      .char-name-label,
-      .name-box {
+      .char-name-label {
         transition: 0.3s;
       }
     }

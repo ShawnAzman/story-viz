@@ -74,6 +74,7 @@ function CharacterOverlay() {
               </g>
               <image
                 className="character-image"
+                clipPath="inset(0% round 100%)"
                 x={characterQuoteTexts[i][0].x - 0.6 * location_height}
                 y={
                   characterQuoteTexts[i][0].y -

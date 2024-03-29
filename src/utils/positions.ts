@@ -538,11 +538,14 @@ const character_quote_texts = (
   });
 
 // scene quote box positions
-const scene_summary_boxes = {
-  x: scene_base * 4 + scene_offset,
-  y: 0,
-  width: scene_base * 8.25,
-} as SceneSummaryBox;
+const scene_summary_boxes = (legendBoxPos: Box) => {
+  const width = scene_base * 8.25;
+  return {
+    x: legendBoxPos.x - width - 3 * character_height,
+    y: 0,
+    width: width,
+  } as SceneSummaryBox;
+};
 
 const scene_summary_texts = (
   scene_summary_boxes: SceneSummaryBox,
@@ -550,7 +553,7 @@ const scene_summary_texts = (
   sceneSummaries: SceneSummary[]
 ) =>
   scenes.map((_, i) => {
-    const start_x = scene_base * 4 + scene_offset + 0.75 * location_offset;
+    const start_x = scene_summary_boxes.x + 1.2 * character_offset;
     const end_x = start_x + scene_summary_boxes.width - 1.5 * location_offset;
     const third = (end_x - start_x) / 3 - 0.8 * character_offset;
 
@@ -751,7 +754,7 @@ export const getAllPositions = (
     character_quotes
   );
 
-  const initSceneSummaryBoxes = scene_summary_boxes;
+  const initSceneSummaryBoxes = scene_summary_boxes(initLegendBoxPos);
 
   const initSceneSummaryTexts = scene_summary_texts(
     initSceneSummaryBoxes,

@@ -67,6 +67,7 @@ function YAxis() {
             width={location_height * 0.75}
             height={location_height * 0.75}
             href={"/locations/" + story + "/location_" + (i + 1) + ".png"}
+            className="location-img"
           />
           <g className="location-name-group">
             {location_chunks[i].map((chunk, j) => (
