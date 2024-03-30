@@ -663,6 +663,7 @@ const update_scene_summaries = (
   plotWidth: number,
   scenePos: Position[],
   baseBox: SceneSummaryBox,
+  characterScenes: CharacterScene[],
   sceneCharacters: SceneCharacter[],
   characterPos: Position[][],
   sceneSummaryTexts: SceneSummaryText[],
@@ -671,7 +672,10 @@ const update_scene_summaries = (
   // find scenes that will overlap with the scene overlay using scenePos, save their indices
   const potentialOverlappingScenes = scenePos.reduce(
     (acc: number[], pos, i) => {
-      if (pos.x > baseBox.x && pos.x < baseBox.x + baseBox.width) {
+      if (
+        pos.x > baseBox.x &&
+        pos.x < baseBox.x + baseBox.width + character_offset
+      ) {
         acc.push(i);
       }
       return acc;
@@ -685,8 +689,17 @@ const update_scene_summaries = (
       const characters = sceneCharacters[sceneIndex].characters;
 
       // see if any characters' y pos will overlap with the scene overlay
-      characters.some((_, i) => {
-        const charPos = characterPos[i][sceneIndex];
+      characters.some((char, i) => {
+        // find index of character in characterScenes
+        const charIndex = characterScenes.findIndex(
+          (c) => c.character === char
+        );
+        // find index of scene
+        const charSceneIndex = characterScenes[charIndex].scenes.findIndex(
+          (s) => s === sceneIndex
+        );
+
+        const charPos = characterPos[charIndex][charSceneIndex];
         if (
           charPos &&
           charPos.y < sceneSummaryTexts[sceneIndex].height + character_offset
@@ -717,19 +730,52 @@ const update_scene_summaries = (
 
     const new_text = { ...text };
     if (overlappingScenes.includes(i)) {
-      const x_translate = new_box.x - new_text.x + 0.9 * character_offset;
+      // also check if there is still any overlap with the character squares
+
+      const characters = sceneCharacters[i].characters;
+
+      let x_translate = new_box.x - new_text.x + 0.9 * character_offset;
+      let y_translate = new_box.y - new_text.y + 1.75 * character_offset;
+
+      // see if any characters' y pos will overlap with the scene overlay
+      console.log("scene", i);
+      const still_overlap = characters.some((char, j) => {
+        // find index in characterScenes of this scene
+        const charIndex = characterScenes.findIndex(
+          (c) => c.character === char
+        );
+        // find index of scene
+        const charSceneIndex = characterScenes[charIndex].scenes.findIndex(
+          (s) => s === i
+        );
+        const charPos = characterPos[charIndex][charSceneIndex];
+        console.log(charPos, new_box.x, new_text.x, new_text.y, y_translate);
+        return (
+          charPos &&
+          charPos.x > new_box.x - character_offset &&
+          charPos.y <
+            sceneSummaryTexts[i].height + y_translate + character_offset
+        );
+      });
+
+      if (still_overlap) {
+        // move the text to the left of the plot
+        x_translate = -1 * (new_text.x - scene_offset);
+        new_box.x = scene_offset - 0.9 * character_offset;
+        new_box.y = 0;
+      } else {
+        new_text.y += y_translate;
+        new_text.title_y += y_translate;
+        new_text.summary_y += y_translate;
+        new_text.location_y += y_translate;
+        new_text.divider_y += y_translate;
+        new_text.character_y += y_translate;
+        new_text.character_list_y += y_translate;
+      }
+
       new_text.x += x_translate;
       new_text.end_x += x_translate;
       new_text.mid_x += x_translate;
-
-      const y_translate = new_box.y - new_text.y + 1.75 * character_offset;
-      new_text.y += y_translate;
-      new_text.title_y += y_translate;
-      new_text.summary_y += y_translate;
-      new_text.location_y += y_translate;
-      new_text.divider_y += y_translate;
-      new_text.character_y += y_translate;
-      new_text.character_list_y += y_translate;
     }
     new_scene_summary_texts.push(new_text);
   });
@@ -901,6 +947,7 @@ export const getAllPositions = (
     plotWidth,
     initScenePos,
     initSceneSummaryBox,
+    characterScenes,
     sceneCharacters,
     initCharacterPos,
     initSceneSummaryTexts,
