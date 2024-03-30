@@ -11,6 +11,8 @@ interface IStore {
   setColorBy: (val: string) => void;
   sizeBy: string;
   setSizeBy: (val: string) => void;
+  weightBy: string;
+  setWeightBy: (val: string) => void;
   characterColor: string;
   setCharacterColor: (val: string) => void;
 
@@ -22,13 +24,14 @@ interface IStore {
   setSceneHover: (val: string) => void;
   hidden: string[];
   setHidden: (val: string[]) => void;
+  resetAll: () => void;
 }
 
 const initialState = {
-  story: "gatsby",
   showConflict: false,
-  colorBy: "default",
-  sizeBy: "default",
+  colorBy: "sentiment",
+  sizeBy: "conflict",
+  weightBy: "importance",
   characterColor: "default",
 
   locationHover: "",
@@ -38,15 +41,18 @@ const initialState = {
 };
 
 export const storyStore = create<IStore>()((set) => ({
+  story: "gatsby",
   ...initialState,
   setStory: (val: string) => set({ story: val }),
   setShowConflict: (val: boolean) => set({ showConflict: val }),
   setColorBy: (val: string) => set({ colorBy: val }),
   setSizeBy: (val: string) => set({ sizeBy: val }),
+  setWeightBy: (val: string) => set({ weightBy: val }),
   setCharacterColor: (val: string) => set({ characterColor: val }),
 
   setLocationHover: (val: string) => set({ locationHover: val }),
   setCharacterHover: (val: string) => set({ characterHover: val }),
   setSceneHover: (val: string) => set({ sceneHover: val }),
   setHidden: (val: string[]) => set({ hidden: val }),
+  resetAll: () => set({ ...initialState }),
 }));

@@ -244,7 +244,7 @@ const characterPaths = (
 
       // gap (1+ scene)
       if (cur_x - prev_x > scene_buffer) {
-        // big gap (2+ scenes)
+        // big gap (2+ scenes) -- add two points
         if (cur_x - prev_x > scene_buffer * 2) {
           const max_cur_y =
             cur_y +
@@ -311,7 +311,6 @@ const characterPaths = (
               new_y,
             ]);
           } else {
-            // big gap so add two points
             character_coords_arr.splice(i + 1, 0, [
               cur_x - next_multiplier,
               new_y,

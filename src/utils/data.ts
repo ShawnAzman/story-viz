@@ -212,7 +212,7 @@ const sceneLocations = (data: Scene[]): string[] =>
 
 // split scene names into chunks of 30 characters
 const sceneChunks = (scenes: string[]): string[][] =>
-  scenes.map((scene) => chunkQuote(scene, 24));
+  scenes.map((scene) => chunkQuote(scene, 20));
 
 // list characters in each scene, sorted by their number of scenes
 const sceneCharacters = (

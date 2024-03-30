@@ -1,4 +1,7 @@
 /* CONSTS */
+export const med_conflict_font = '"Advent Pro", sans-serif';
+export const high_conflict_font = "'Shantell Sans', cursive";
+
 export const location_height = 110;
 export const location_offset = location_height / 5;
 export const scene_base = 100;

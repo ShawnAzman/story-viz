@@ -1,3 +1,13 @@
+::-moz-selection {
+  background: #ddd;
+  color: #222;
+}
+
+::selection {
+  background: #ddd;
+  color: #222;
+}
+
 #root {
   max-width: 1900px;
   width: 100%;
@@ -35,6 +45,10 @@ header {
       .annotation {
         font-size: smaller;
         margin-top: 2px;
+
+        span {
+          letter-spacing: 0.3px;
+        }
       }
     }
 
@@ -269,15 +283,18 @@ h1 {
     }
 
     #y-arrow {
+      visibility: hidden;
+
       &.highlight {
         fill-opacity: 1;
         stroke-opacity: 1;
+        visibility: visible;
       }
     }
   }
 }
 
-@media (max-width: 1750px) {
+@media (max-width: 1900px) {
   #options {
     .options-contain {
       .options-inner {

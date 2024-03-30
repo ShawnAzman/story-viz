@@ -3,6 +3,8 @@ import { dataStore } from "../stores/dataStore";
 import { character_offset, location_offset } from "../utils/consts";
 import { conflictColor, emotionColor, importanceColor } from "../utils/colors";
 import {
+  getFontFamily,
+  getFontWeight,
   normalizeFontSize,
   normalizeRating,
   normalizeTextOffset,
@@ -19,6 +21,7 @@ function XAxis() {
     setSceneHover,
     sizeBy,
     colorBy,
+    weightBy,
   } = storyStore();
   const { scenePos } = positionStore();
   return (
@@ -72,6 +75,21 @@ function XAxis() {
                     fill={color}
                     className="scene-name-text"
                     fontSize={"calc(" + fontSize + "rem + 0.1vw)"}
+                    fontWeight={
+                      weightBy === "importance"
+                        ? getFontWeight(ratings.importance)
+                        : weightBy === "conflict"
+                        ? getFontWeight(ratings.conflict)
+                        : "500"
+                    }
+                    // paintOrder="stroke"
+                    // stroke={
+                    //   textColor(ratings.sentiment, true) === "black"
+                    //     ? "rgb(0,0,0,0.8)"
+                    //     : "none"
+                    // }
+                    // strokeWidth={4}
+                    fontFamily={getFontFamily(ratings.conflict)}
                     transform={
                       "rotate(-45," +
                       (scenePos[i].x + j * character_offset * textOffset) +

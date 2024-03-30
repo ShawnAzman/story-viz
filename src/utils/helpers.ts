@@ -1,4 +1,8 @@
-import { character_height } from "./consts";
+import {
+  character_height,
+  high_conflict_font,
+  med_conflict_font,
+} from "./consts";
 
 // capitalize first letter of string
 export const capitalize = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
@@ -20,10 +24,51 @@ export const normalizeMarkerSize = (value: number) =>
   normalize(value, 0, character_height, 2, 14);
 
 export const normalizeFontSize = (value: number) =>
-  normalize(value, 0, 1, 0.7, 1.5);
+  normalize(value, 0, 1, 0.7, 1.4);
 
 export const normalizeTextOffset = (value: number) =>
-  normalize(value, 0, 1, 1.2, 2.4);
+  normalize(value, 0, 1, 1.2, 2.2);
+
+export const getFontFamily = (value: number) =>
+  // value ranges from 0 to 1
+  // assign font family based on value (lowest values should be assigned to `inherit`; middle values to `"Shantell Sans", cursive`; highest values to `"Gluten", cursive`)
+
+  // if value is less than 0.33, return 'inherit'
+  value < 0.33
+    ? "inherit"
+    : // if value is less than 0.66, return 'Shantell Sans, cursive'
+    value < 0.66
+    ? med_conflict_font
+    : // if value is less than 1, return 'Gluten, cursive'
+      high_conflict_font;
+
+export const getFontWeight = (value: number) =>
+  // value ranges from 0 to 1
+  // assign font weight based on value between 100-800 (100, 200, 300, 400, 500, 600, 700, 800)
+
+  // if value is less than 0.125, return 100
+  value < 0.125
+    ? 100
+    : // if value is less than 0.25, return 200
+    value < 0.25
+    ? 200
+    : // if value is less than 0.375, return 300
+    value < 0.375
+    ? 300
+    : // if value is less than 0.5, return 400
+    value < 0.5
+    ? 400
+    : // if value is less than 0.625, return 500
+    value < 0.625
+    ? 500
+    : // if value is less than 0.75, return 600
+    value < 0.75
+    ? 600
+    : // if value is less than 0.875, return 700
+    value < 0.875
+    ? 700
+    : // if value is less than 1, return 800
+      800;
 
 const characterWidths: { [char: string]: number } = {
   // Narrow characters

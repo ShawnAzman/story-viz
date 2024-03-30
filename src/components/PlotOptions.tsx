@@ -3,6 +3,7 @@ import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
 import { useEffect } from "react";
 import { positionStore } from "../stores/positionStore";
+import { high_conflict_font, med_conflict_font } from "../utils/consts";
 
 function PlotOptions() {
   const {
@@ -16,6 +17,9 @@ function PlotOptions() {
     setSizeBy,
     story,
     setStory,
+    weightBy,
+    setWeightBy,
+    resetAll,
   } = storyStore();
 
   const {
@@ -35,7 +39,7 @@ function PlotOptions() {
   const colorByOptions = ["conflict", "sentiment", "importance", "default"];
   const characterColorOptions = ["default", "sentiment", "importance"];
   const sizeByOptions = ["conflict", "importance", "default"];
-  const storyOptions = ["gatsby", "alice"];
+  const storyOptions = ["gatsby", "gatsby2", "alice"];
 
   const handleStoryChange = async (story: string) => {
     try {
@@ -52,13 +56,6 @@ function PlotOptions() {
   useEffect(() => {
     handleStoryChange(story);
   }, [story]);
-
-  const resetAll = () => {
-    setShowConflict(false);
-    setColorBy("default");
-    setSizeBy("default");
-    setCharacterColor("default");
-  };
 
   useEffect(() => {
     if (data) {
@@ -109,7 +106,7 @@ function PlotOptions() {
           <Select
             disabled={!showConflict}
             size="xs"
-            label="Color by"
+            label="Color"
             data={colorByOptions}
             value={colorBy}
             onChange={(value) => {
@@ -124,7 +121,7 @@ function PlotOptions() {
         <div className="options-inner">
           <Select
             size="xs"
-            label="Size by"
+            label="Size"
             data={sizeByOptions}
             value={sizeBy}
             onChange={(value) => {
@@ -133,7 +130,16 @@ function PlotOptions() {
           />
           <Select
             size="xs"
-            label="Color by"
+            label="Weight"
+            data={sizeByOptions}
+            value={weightBy}
+            onChange={(value) => {
+              if (value) setWeightBy(value);
+            }}
+          />
+          <Select
+            size="xs"
+            label="Color"
             data={colorByOptions}
             value={colorBy}
             onChange={(value) => {
@@ -141,6 +147,17 @@ function PlotOptions() {
             }}
           />
         </div>
+        <i className="annotation">
+          Font = <span>low</span> -{" "}
+          <span style={{ fontFamily: med_conflict_font, fontWeight: 600 }}>
+            medium
+          </span>{" "}
+          -{" "}
+          <span style={{ fontFamily: high_conflict_font, fontWeight: 500 }}>
+            high
+          </span>{" "}
+          conflict in scene
+        </i>
       </div>
       <Divider orientation="vertical" />
       <div className="options-contain">
@@ -150,7 +167,7 @@ function PlotOptions() {
         <div className="options-inner">
           <Select
             size="xs"
-            label="Color by"
+            label="Color"
             data={characterColorOptions}
             value={characterColor}
             onChange={(value) => {
@@ -158,7 +175,6 @@ function PlotOptions() {
             }}
           />
         </div>
-
         <i className="annotation">Size = relative importance in scene</i>
       </div>
     </div>
