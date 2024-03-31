@@ -28,6 +28,7 @@ header {
   #options {
     display: flex;
     gap: 20px;
+    overflow-x: auto;
 
     .options-contain {
       font-size: calc(0.65rem + 0.05vw);
@@ -295,14 +296,28 @@ h1 {
 }
 
 @media (max-width: 1900px) {
-  #options {
-    .options-contain {
-      .options-inner {
-        align-items: end !important;
+  header {
+    align-items: baseline;
+
+    #options {
+      .options-contain {
+        .options-inner {
+          align-items: end !important;
+        }
+        .mantine-Select-root {
+          display: block;
+        }
       }
-      .mantine-Select-root {
-        display: block;
-      }
+    }
+  }
+}
+
+@media (max-width: 1330px) {
+  header {
+    display: block;
+
+    h1 {
+      margin-bottom: 8px;
     }
   }
 }
