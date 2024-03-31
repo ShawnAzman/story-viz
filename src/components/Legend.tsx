@@ -1,5 +1,5 @@
 import { storyStore } from "../stores/storyStore";
-import { characterColor, color_dict, getColorIndex } from "../utils/colors";
+import { color_dict, getColor } from "../utils/colors";
 import { character_height, character_offset } from "../utils/consts";
 import { dataStore } from "../stores/dataStore";
 import { positionStore } from "../stores/positionStore";
@@ -59,10 +59,7 @@ function Legend() {
                   y={0}
                   width={character_height}
                   height={character_height}
-                  fill={characterColor(
-                    getColorIndex(character.character, sortedCharacters) /
-                      (sortedCharacters.length - 1)
-                  )}
+                  fill={getColor(character.character, sortedCharacters)}
                 />
                 <text
                   x={character_offset}

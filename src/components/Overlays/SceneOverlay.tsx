@@ -4,8 +4,7 @@ import {
   conflictColor,
   importanceColor,
   textColor,
-  characterColor,
-  getColorIndex,
+  getColor,
 } from "../../utils/colors";
 import { character_offset, character_height } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
@@ -14,8 +13,7 @@ import { positionStore } from "../../stores/positionStore";
 
 function SceneOverlay() {
   const { sceneHover } = storyStore();
-  const { scene_data, characterScenes, sceneSummaries, sortedCharacters } =
-    dataStore();
+  const { scene_data, sceneSummaries, sortedCharacters } = dataStore();
   const { sceneSummaryBoxes, sceneSummaryTexts } = positionStore();
 
   return (
@@ -169,10 +167,7 @@ function SceneOverlay() {
                         }
                         textAnchor="start"
                         className="scene-character"
-                        fill={characterColor(
-                          getColorIndex(char.character, sortedCharacters) /
-                            (characterScenes.length - 1)
-                        )}
+                        fill={getColor(char.character, sortedCharacters)}
                       >
                         <tspan className="bold">{char.character} </tspan>
                         <tspan className="emphasis">

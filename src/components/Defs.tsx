@@ -4,8 +4,7 @@ import {
   emotionColor,
   conflictColor,
   importanceColor,
-  characterColor,
-  getColorIndex,
+  getColor,
 } from "../utils/colors";
 import { dataStore } from "../stores/dataStore";
 import { normalizeRating } from "../utils/helpers";
@@ -33,7 +32,8 @@ function Defs() {
           const fade_in_percent = fade_in * 100;
           const fade_out_percent = 100 - fade_in_percent;
 
-          const colorIndex = getColorIndex(char.character, sortedCharacters);
+          // const colorIndex = getColor(char.character, sortedCharacters);
+          const charColor = getColor(char.character, sortedCharacters);
 
           return (
             <linearGradient
@@ -45,12 +45,7 @@ function Defs() {
               key={"linear" + i}
             >
               <stop offset="0%" stopColor="rgb(255,255,255,0)" />
-              <stop
-                offset={fade_in_percent + "%"}
-                stopColor={characterColor(
-                  colorIndex / (characterScenes.length - 1)
-                )}
-              />
+              <stop offset={fade_in_percent + "%"} stopColor={charColor} />
 
               {charScenes
                 .filter((_, j) => j < charScenes.length - 1)
@@ -68,41 +63,31 @@ function Defs() {
                       <stop
                         key={`full-opacity-before-gap-${i}-${j}`}
                         offset={`${start_gap_percent - fade_in_percent}%`}
-                        stopColor={characterColor(
-                          colorIndex / (characterScenes.length - 1)
-                        )}
+                        stopColor={charColor}
                       />,
                       // Start fading to transparent just before the gap
                       <stop
                         key={`start-gap-${i}-${j}`}
                         offset={`${start_gap_percent}%`}
-                        stopColor={characterColor(
-                          colorIndex / (characterScenes.length - 1)
-                        ).replace(")", ",0.5)")}
+                        stopColor={charColor.replace(")", ",0.5)")}
                       />,
                       // Fully transparent in the middle of the gap
                       <stop
                         key={`mid-gap-${i}-${j}`}
                         offset={`${(start_gap_percent + end_gap_percent) / 2}%`}
-                        stopColor={characterColor(
-                          colorIndex / (characterScenes.length - 1)
-                        ).replace(")", ",0.2)")}
+                        stopColor={charColor.replace(")", ",0.2)")}
                       />,
                       // Start fading back to full opacity just before the end of the gap
                       <stop
                         key={`end-gap-${i}-${j}`}
                         offset={`${end_gap_percent}%`}
-                        stopColor={characterColor(
-                          colorIndex / (characterScenes.length - 1)
-                        ).replace(")", ",0.5)")}
+                        stopColor={charColor.replace(")", ",0.5)")}
                       />,
                       // Return to full opacity after the gap
                       <stop
                         key={`full-opacity-after-gap-${i}-${j}`}
                         offset={`${end_gap_percent + fade_in_percent}%`}
-                        stopColor={characterColor(
-                          colorIndex / (characterScenes.length - 1)
-                        )}
+                        stopColor={charColor}
                       />,
                     ];
                   }
@@ -110,12 +95,7 @@ function Defs() {
                   return [];
                 })}
 
-              <stop
-                offset={fade_out_percent + "%"}
-                stopColor={characterColor(
-                  colorIndex / (characterScenes.length - 1)
-                )}
-              />
+              <stop offset={fade_out_percent + "%"} stopColor={charColor} />
               <stop offset="100%" stopColor="rgb(255,255,255,0)" />
             </linearGradient>
           );

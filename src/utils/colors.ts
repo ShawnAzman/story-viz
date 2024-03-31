@@ -1,5 +1,6 @@
 import * as d3 from "d3";
 import { CharacterData } from "./data";
+import { normalize } from "./helpers";
 
 // original colors
 // const colors = [
@@ -38,6 +39,15 @@ export const emotionColor = d3
 export const conflictColor = d3.scaleSequential(d3.interpolateGreens);
 export const importanceColor = d3.scaleSequential(d3.interpolatePurples);
 
+export const groupColors = [
+  d3.scaleSequential(d3.interpolateReds),
+  d3.scaleSequential(d3.interpolatePurples),
+  d3.scaleSequential(d3.interpolateBlues),
+  d3.scaleSequential(d3.interpolateGreens),
+  d3.scaleSequential(d3.interpolateOranges),
+  d3.scaleSequential(d3.interpolateGreys),
+];
+
 // see if color is too dark --> if so, return white, else return black
 export const textColor = (val: number, diverging: boolean) => {
   if (diverging) {
@@ -70,19 +80,40 @@ export const color_dict = {
 };
 
 // compute colorIndex
-export const getColorIndex = (
+export const getColor = (
   character: string,
   sortedCharacters: CharacterData[]
 ) => {
-  // const characters = sortedCharacters.map((d) => d.character);
+  const characters = sortedCharacters.map((d) => d.character);
+  const charIndex = characters.indexOf(character);
+
+  // VARIATION 3
+  // const allGroups = Array.from(new Set(sortedCharacters.map((d) => d.group)));
+  // const groupNumber = sortedCharacters[charIndex].group;
+  // const group = sortedCharacters.filter((d) => d.group === groupNumber);
+  // const groupSize = group.length;
+  // const groupIndex = allGroups.indexOf(groupNumber);
+  // const charIndexInGroup = group.findIndex((d) => d.character === character);
+
+  // const colorScale = groupColors[groupIndex];
+  // const fracInGroup =
+  //   groupSize === 1 ? 0.5 : charIndexInGroup / (groupSize - 1);
+  // const mappedIndex = normalize(fracInGroup, 0, 1, 1, 0.3);
+
+  // const finalColor = colorScale(mappedIndex);
+
+  // VARIATION 2
   // const numRows = Math.round(sortedCharacters.length / 5);
   // const numCharsPerRow = Math.round(sortedCharacters.length / numRows);
-  // const charIndex = characters.indexOf(character);
   // const colorIndex =
-  //   (charIndex % numRows) * numCharsPerRow + charIndex / numRows;
+  //   ((charIndex % numRows) * numCharsPerRow + charIndex / numRows) /
+  //   (sortedCharacters.length - 1);
 
-  const colorIndex = sortedCharacters.findIndex(
-    (d) => d.character === character
-  );
-  return colorIndex;
+  // VARIATION 1
+  const colorIndex =
+    sortedCharacters.findIndex((d) => d.character === character) /
+    (sortedCharacters.length - 1);
+
+  const finalColor = characterColor(colorIndex);
+  return finalColor;
 };
