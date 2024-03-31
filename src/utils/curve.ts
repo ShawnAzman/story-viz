@@ -1,6 +1,6 @@
 // adapted from https://codepen.io/francoisromain/pen/dzoZZj
 
-import { character_height, character_offset, location_height } from "./consts";
+import { character_offset, location_buffer } from "./consts";
 
 // The smoothing ratio
 const smoothing = 0.4;
@@ -65,8 +65,7 @@ const controlPoint = (
       // moving down
       if (!reverse && next_adjustment === -1 * adjustment) {
         if (
-          (next &&
-            current[1] - next[1] > location_height + 2 * character_height) ||
+          (next && current[1] - next[1] > location_buffer) ||
           prev_adjustment === 0
         ) {
           x += adjustment * 2 * character_offset;
@@ -74,16 +73,9 @@ const controlPoint = (
       }
     } else if (adjustment < 0) {
       // moving up
-      if (
-        reverse &&
-        previous &&
-        current[1] - previous[1] > location_height + 2 * character_height
-      ) {
+      if (reverse && previous && current[1] - previous[1] > location_buffer) {
         x += adjustment * 2 * character_offset;
-      } else if (
-        previous &&
-        previous[1] - current[1] > location_height + 2 * character_height
-      ) {
+      } else if (previous && previous[1] - current[1] > location_buffer) {
         x += (adjustment + 1) * 0.5 * character_offset;
       }
     }

@@ -15,6 +15,7 @@ import {
   scene_base,
   plot_width,
   scene_width,
+  location_buffer,
 } from "./consts";
 import {
   CharacterQuote,
@@ -186,6 +187,8 @@ const characterPaths = (
     const paths = [];
     const adjustments = {} as Record<number, number>;
 
+    console.log(character.character);
+
     const character_coords = characterPos[characterScenes.indexOf(character)];
     // convert to array of arrays, adjust for character height
     const character_coords_arr = character_coords.map((pos: any) => [
@@ -216,9 +219,18 @@ const characterPaths = (
       const prev_scene_index =
         Math.floor((prev_x - scene_offset) / scene_width) + 1;
       // find max_y for all scenes between prev_scene_index and scene_index
-      const cur_max_y = Math.max(
-        ...max_y_per_scene.slice(prev_scene_index, scene_index)
-      );
+      const cur_max_y =
+        scene_index === prev_scene_index
+          ? max_y_per_scene[scene_index]
+          : Math.max(...max_y_per_scene.slice(prev_scene_index, scene_index));
+
+      if (character.character === "Jordan Baker") {
+        console.log(i);
+        console.log(prev_scene_index);
+        console.log(scene_index);
+        console.log(max_y_per_scene);
+        console.log(cur_max_y);
+      }
 
       // see if there's a character below this character in the same scene
       // using sceneCharacters
@@ -247,40 +259,50 @@ const characterPaths = (
       if (cur_x - prev_x > scene_buffer) {
         // big gap (2+ scenes) -- add two points
         if (cur_x - prev_x > scene_buffer * 2) {
-          const max_cur_y =
-            cur_y +
-            Math.ceil(
-              (location_height * (locations.length - 1) - cur_y) /
-                location_height
-            ) *
-              location_height;
-          const max_prev_y =
-            prev_y +
-            Math.ceil(
-              (location_height * (locations.length - 1) - prev_y) /
-                location_height
-            ) *
-              location_height;
+          if (character.character === "Jordan Baker") {
+            console.log("big gap");
+          }
+          // const max_cur_y =
+          //   cur_y +
+          //   Math.ceil(
+          //     (location_height * (locations.length - 1) - cur_y) /
+          //       location_height
+          //   ) *
+          //     location_height;
+          // const max_prev_y =
+          //   prev_y +
+          //   Math.ceil(
+          //     (location_height * (locations.length - 1) - prev_y) /
+          //       location_height
+          //   ) *
+          //     location_height;
+
+          const new_max_y = cur_max_y;
 
           const gap_size = Math.ceil((cur_x - prev_x) / scene_width);
           const offset = gap_size > 4 ? 0.5 : 0.75;
           let prev_multiplier = scene_width * offset;
           let next_multiplier = prev_multiplier;
 
-          const max_y_of_cur_and_prev = Math.max(cur_y, prev_y);
+          // const max_y_of_cur_and_prev = Math.max(cur_y, prev_y);
 
-          let new_y;
-          if (max_y_of_cur_and_prev > cur_max_y) {
-            // don't go all the way down if nothing in the way
-            new_y = max_y_of_cur_and_prev;
-          } else {
-            new_y =
-              Math.max(
-                max_cur_y - character_offset,
-                max_prev_y - character_offset,
-                cur_max_y
-              ) + character_offset;
+          let new_y = Math.max(new_max_y + character_offset, cur_y, prev_y);
+
+          if (cur_y - prev_y > location_buffer && numNextChars === 0) {
+            new_y = Math.max(cur_y, prev_y);
           }
+
+          // if (max_y_of_cur_and_prev > cur_max_y) {
+          //   // don't go all the way down if nothing in the way
+          //   new_y = max_y_of_cur_and_prev;
+          // } else {
+          //   new_y =
+          //     Math.max(
+          //       max_cur_y - character_offset,
+          //       max_prev_y - character_offset,
+          //       cur_max_y
+          //     ) + character_offset;
+          // }
 
           if (numPrevChars > 0) {
             if (
@@ -324,7 +346,15 @@ const characterPaths = (
 
           i += 2;
         } else {
-          if (cur_y > prev_y && cur_y - prev_y > location_height) {
+          // small gap (1 scene) -- add one point
+          if (character.character === "Jordan Baker") {
+            console.log("small gap");
+          }
+          if (
+            cur_y - prev_y > location_buffer ||
+            (prev_y - cur_y < location_buffer &&
+              prev_y - cur_y > 2 * character_height)
+          ) {
             let next_multiplier = scene_width * 0.75;
             // if character is moving down
             character_coords_arr.splice(i, 0, [
@@ -332,7 +362,11 @@ const characterPaths = (
               prev_y,
             ]);
             i += 1;
-          } else if (cur_y < prev_y && prev_y - cur_y > location_height) {
+          } else if (
+            prev_y - cur_y > location_buffer ||
+            (cur_y - prev_y < location_buffer &&
+              cur_y - prev_y > 2 * character_height)
+          ) {
             // if character is moving up
             let prev_multiplier = scene_width * 0.75;
             character_coords_arr.splice(i, 0, [
