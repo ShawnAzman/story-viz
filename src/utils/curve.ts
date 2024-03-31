@@ -79,6 +79,7 @@ const controlPoint = (
         x += (adjustment + 1) * 0.5 * character_offset;
       }
     } else {
+      // adjustment === 0 (big gap)
       if (
         (previous && Math.abs(current[1] - previous[1]) > location_buffer) ||
         (next && Math.abs(current[1] - next[1]) > location_buffer)
