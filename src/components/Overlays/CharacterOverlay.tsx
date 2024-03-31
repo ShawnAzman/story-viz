@@ -8,13 +8,16 @@ import Image from "../Image";
 
 function CharacterOverlay() {
   const { characterHover, story } = storyStore();
-  const { characterScenes, character_quotes } = dataStore();
+  const { characterScenes, character_quotes, sortedCharacters } = dataStore();
   const { characterQuoteBoxes, characterQuoteTexts } = positionStore();
   return (
     <g id="character-quotes">
       {/* add box with quote from each character */}
-      {characterScenes.map(
-        (character, i) =>
+      {characterScenes.map((character, i) => {
+        const colorIndex = sortedCharacters.findIndex(
+          (c) => c.character === character.character
+        );
+        return (
           characterQuoteTexts[i] && (
             <g
               key={"character quotebox" + i}
@@ -34,7 +37,9 @@ function CharacterOverlay() {
                     height={characterQuoteBoxes[i].height}
                     fill="white"
                     strokeWidth={2}
-                    stroke={characterColor(i / (characterScenes.length - 1))}
+                    stroke={characterColor(
+                      colorIndex / (sortedCharacters.length - 1)
+                    )}
                     opacity={0.8}
                   />
                 )}
@@ -49,7 +54,9 @@ function CharacterOverlay() {
                   }
                   textAnchor="start"
                   className="quote-text"
-                  fill={characterColor(i / (characterScenes.length - 1))}
+                  fill={characterColor(
+                    colorIndex / (sortedCharacters.length - 1)
+                  )}
                 >
                   <tspan className="bold">{character.character}</tspan>{" "}
                   <tspan className="emphasis">
@@ -102,7 +109,8 @@ function CharacterOverlay() {
               />
             </g>
           )
-      )}
+        );
+      })}
     </g>
   );
 }

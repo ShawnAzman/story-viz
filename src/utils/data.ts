@@ -156,6 +156,7 @@ const sortCharactersByGroup = (
   const sorted = groups.map((group) =>
     data.filter((char) => char.group === group)
   );
+
   // order characters in each group by order they appear in characterScenes
   sorted.forEach((group) => {
     group.sort((a, b) => {
@@ -169,6 +170,19 @@ const sortCharactersByGroup = (
       );
       return aIndex - bIndex;
     });
+  });
+
+  // sort groups by the order of the first character in each group
+  sorted.sort((a, b) => {
+    const aIndex = characterScenes.findIndex(
+      (charScene) =>
+        charScene.character.toLowerCase() === a[0].character.toLowerCase()
+    );
+    const bIndex = characterScenes.findIndex(
+      (charScene) =>
+        charScene.character.toLowerCase() === b[0].character.toLowerCase()
+    );
+    return aIndex - bIndex;
   });
 
   // recombine into a single array
@@ -203,7 +217,13 @@ const characterScenes = (
           .map((scene) => scene.location),
       };
     })
-    .sort((a, b) => b.scenes.length - a.scenes.length);
+    .sort((a, b) => {
+      const diff = b.scenes.length - a.scenes.length;
+      if (diff !== 0) {
+        return diff;
+      }
+      return a.character.localeCompare(b.character);
+    });
 
 // for each quote in character-data, split quote into chunk_size character chunks, making sure to keep full words
 const character_quotes = (
