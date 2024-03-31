@@ -15,7 +15,7 @@ import { scene_base } from "../utils/consts";
 function Defs() {
   const { sceneHover } = storyStore();
   const { scenePos, sceneWidth } = positionStore();
-  const { characterScenes, ratingDict, scenes } = dataStore();
+  const { characterScenes, ratingDict, scenes, sortedCharacters } = dataStore();
   return (
     <defs>
       <g id="gradients">
@@ -32,6 +32,10 @@ function Defs() {
           const fade_in_percent = fade_in * 100;
           const fade_out_percent = 100 - fade_in_percent;
 
+          const colorIndex = sortedCharacters.findIndex(
+            (c) => c.character === char.character
+          );
+
           return (
             <linearGradient
               id={"linear" + i}
@@ -44,7 +48,9 @@ function Defs() {
               <stop offset="0%" stopColor="rgb(255,255,255,0)" />
               <stop
                 offset={fade_in_percent + "%"}
-                stopColor={characterColor(i / (characterScenes.length - 1))}
+                stopColor={characterColor(
+                  colorIndex / (characterScenes.length - 1)
+                )}
               />
 
               {charScenes
@@ -64,7 +70,7 @@ function Defs() {
                         key={`full-opacity-before-gap-${i}-${j}`}
                         offset={`${start_gap_percent - fade_in_percent}%`}
                         stopColor={characterColor(
-                          i / (characterScenes.length - 1)
+                          colorIndex / (characterScenes.length - 1)
                         )}
                       />,
                       // Start fading to transparent just before the gap
@@ -72,7 +78,7 @@ function Defs() {
                         key={`start-gap-${i}-${j}`}
                         offset={`${start_gap_percent}%`}
                         stopColor={characterColor(
-                          i / (characterScenes.length - 1)
+                          colorIndex / (characterScenes.length - 1)
                         ).replace(")", ",0.5)")}
                       />,
                       // Fully transparent in the middle of the gap
@@ -80,7 +86,7 @@ function Defs() {
                         key={`mid-gap-${i}-${j}`}
                         offset={`${(start_gap_percent + end_gap_percent) / 2}%`}
                         stopColor={characterColor(
-                          i / (characterScenes.length - 1)
+                          colorIndex / (characterScenes.length - 1)
                         ).replace(")", ",0.2)")}
                       />,
                       // Start fading back to full opacity just before the end of the gap
@@ -88,7 +94,7 @@ function Defs() {
                         key={`end-gap-${i}-${j}`}
                         offset={`${end_gap_percent}%`}
                         stopColor={characterColor(
-                          i / (characterScenes.length - 1)
+                          colorIndex / (characterScenes.length - 1)
                         ).replace(")", ",0.5)")}
                       />,
                       // Return to full opacity after the gap
@@ -96,7 +102,7 @@ function Defs() {
                         key={`full-opacity-after-gap-${i}-${j}`}
                         offset={`${end_gap_percent + fade_in_percent}%`}
                         stopColor={characterColor(
-                          i / (characterScenes.length - 1)
+                          colorIndex / (characterScenes.length - 1)
                         )}
                       />,
                     ];
@@ -107,7 +113,9 @@ function Defs() {
 
               <stop
                 offset={fade_out_percent + "%"}
-                stopColor={characterColor(i / (characterScenes.length - 1))}
+                stopColor={characterColor(
+                  colorIndex / (characterScenes.length - 1)
+                )}
               />
               <stop offset="100%" stopColor="rgb(255,255,255,0)" />
             </linearGradient>

@@ -33,6 +33,7 @@ interface IStore {
   characters: string[];
   characterScenes: CharacterScene[];
   character_quotes: CharacterQuote[];
+  sortedCharacters: CharacterData[];
 
   scenes: string[];
   sceneLocations: string[];
@@ -60,6 +61,7 @@ const initialState = {
   characters: init_data_values.characters,
   characterScenes: init_data_values.characterScenes,
   character_quotes: init_data_values.character_quotes,
+  sortedCharacters: init_data_values.sortedCharacters,
 
   scenes: init_data_values.scenes,
   sceneLocations: init_data_values.sceneLocations,
@@ -89,6 +91,7 @@ export const dataStore = create<IStore>((set) => ({
       characters: newData.characters,
       characterScenes: newData.characterScenes,
       character_quotes: newData.character_quotes,
+      sortedCharacters: newData.sortedCharacters,
 
       scenes: newData.scenes,
       sceneLocations: newData.sceneLocations,

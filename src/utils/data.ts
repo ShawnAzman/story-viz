@@ -148,6 +148,34 @@ const characters = (data: Scene[]): string[] =>
     )
   );
 
+const sortCharactersByGroup = (
+  data: CharacterData[],
+  characterScenes: CharacterScene[]
+): CharacterData[] => {
+  const groups = Array.from(new Set(data.map((char) => char.group)));
+  const sorted = groups.map((group) =>
+    data.filter((char) => char.group === group)
+  );
+  // order characters in each group by order they appear in characterScenes
+  sorted.forEach((group) => {
+    group.sort((a, b) => {
+      const aIndex = characterScenes.findIndex(
+        (charScene) =>
+          charScene.character.toLowerCase() === a.character.toLowerCase()
+      );
+      const bIndex = characterScenes.findIndex(
+        (charScene) =>
+          charScene.character.toLowerCase() === b.character.toLowerCase()
+      );
+      return aIndex - bIndex;
+    });
+  });
+
+  // recombine into a single array
+  const flatSorted = sorted.flat();
+  return flatSorted;
+};
+
 // for each character, get all scenes they appear in
 // sort by number of scenes they appear in (descending order)
 const characterScenes = (
@@ -318,6 +346,10 @@ export const getAllData = (init_data: any) => {
     init_character_data,
     init_characterScenes
   );
+  const init_sorted_characters = sortCharactersByGroup(
+    init_character_data,
+    init_characterScenes
+  );
 
   const init_scenes = scenes(init_scene_data);
   const init_sceneLocations = sceneLocations(init_scene_data);
@@ -344,6 +376,7 @@ export const getAllData = (init_data: any) => {
     characters: init_characters,
     characterScenes: init_characterScenes,
     character_quotes: init_character_quotes,
+    sortedCharacters: init_sorted_characters,
     scenes: init_scenes,
     sceneLocations: init_sceneLocations,
     sceneChunks: init_sceneChunks,

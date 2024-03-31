@@ -5,7 +5,7 @@ import { dataStore } from "../stores/dataStore";
 import { positionStore } from "../stores/positionStore";
 
 function Legend() {
-  const { characterScenes } = dataStore();
+  const { sortedCharacters } = dataStore();
   const { legendBoxPos, legendPos, colorBarPos } = positionStore();
   const {
     setCharacterHover,
@@ -40,7 +40,7 @@ function Legend() {
           strokeWidth={2}
           opacity={0.8}
         />
-        {characterScenes.map(
+        {sortedCharacters.map(
           (character, i) =>
             legendPos[i] && (
               <g
@@ -59,7 +59,7 @@ function Legend() {
                   y={0}
                   width={character_height}
                   height={character_height}
-                  fill={characterColor(i / (characterScenes.length - 1))}
+                  fill={characterColor(i / (sortedCharacters.length - 1))}
                 />
                 <text
                   x={character_offset}

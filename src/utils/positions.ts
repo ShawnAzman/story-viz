@@ -23,6 +23,7 @@ import {
   Scene,
   SceneCharacter,
   SceneSummary,
+  CharacterData,
 } from "./data";
 
 /* INTERFACES */
@@ -461,9 +462,9 @@ const sceneBoxes = (
   });
 
 // compute pos of legend items
-const legendPos = (characterScenes: CharacterScene[], plotWidth: number) => {
+const legendPos = (plotWidth: number, sortedCharacters: CharacterData[]) => {
   // get characterNames from characterScenes
-  const characters = characterScenes.map((char) => char.character);
+  const characters = sortedCharacters.map((char) => char.character);
 
   const numRows = Math.round(characters.length / 5);
 
@@ -849,7 +850,8 @@ export const getAllPositions = (
   sceneCharacters: SceneCharacter[],
   location_quotes: LocationQuote[],
   sceneSummaries: SceneSummary[],
-  character_quotes: CharacterQuote[]
+  character_quotes: CharacterQuote[],
+  sortedCharacters: CharacterData[]
 ) => {
   const sceneWidth = scene_width(locations, scenes);
   const plotWidth = plot_width(scenes, sceneWidth);
@@ -905,7 +907,7 @@ export const getAllPositions = (
     characterScenes
   );
 
-  const initLegendPos = legendPos(characterScenes, plotWidth);
+  const initLegendPos = legendPos(plotWidth, sortedCharacters);
   const initLegendBoxPos = legend_box_pos(plotWidth, initLegendPos);
 
   const initLocationQuoteBoxes = location_quote_boxes(

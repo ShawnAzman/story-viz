@@ -23,6 +23,7 @@ function MainPlot() {
     sceneLocations,
     characterScenes,
     scenes,
+    sortedCharacters,
   } = dataStore();
   return (
     <g id="main-plot">
@@ -56,6 +57,9 @@ function MainPlot() {
       <g id="character-paths">
         {characterScenes.map((character, i) => {
           const firstScene = character.scenes[0];
+          const colorIndex = sortedCharacters.findIndex(
+            (c) => c.character === character.character
+          );
           return (
             <g
               key={"chargroup" + i}
@@ -118,7 +122,9 @@ function MainPlot() {
                           height={characterSquares[i][j].height}
                           fill={
                             characterColorBy === "default"
-                              ? characterColor(i / (characterScenes.length - 1))
+                              ? characterColor(
+                                  colorIndex / (characterScenes.length - 1)
+                                )
                               : characterColorBy === "sentiment"
                               ? emotion_color
                               : importance_color
@@ -165,7 +171,9 @@ function MainPlot() {
                         : characterPos[i][0].y + 0.8 * character_height
                     }
                     textAnchor={firstScene === 0 ? "start" : "end"}
-                    fill={characterColor(i / (characterScenes.length - 1))}
+                    fill={characterColor(
+                      colorIndex / (characterScenes.length - 1)
+                    )}
                     paintOrder="stroke"
                     stroke="rgb(255,255,255,0.8)"
                     strokeWidth={4}

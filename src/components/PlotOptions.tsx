@@ -34,6 +34,7 @@ function PlotOptions() {
     location_quotes,
     sceneSummaries,
     character_quotes,
+    sortedCharacters,
   } = dataStore();
   const { setPositions } = positionStore();
   const colorByOptions = ["conflict", "sentiment", "importance", "default"];
@@ -68,7 +69,8 @@ function PlotOptions() {
         sceneCharacters,
         location_quotes,
         sceneSummaries,
-        character_quotes
+        character_quotes,
+        sortedCharacters
       );
     }
   }, [data]);
