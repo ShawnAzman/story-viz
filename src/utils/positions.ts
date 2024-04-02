@@ -672,6 +672,55 @@ const scene_summary_texts = (
     };
   });
 
+export const findPotentialOverlappingScenes = (
+  scenePos: Position[],
+  baseBox: SceneSummaryBox
+) =>
+  scenePos.reduce((acc: number[], pos, i) => {
+    if (
+      pos.x > baseBox.x - character_offset &&
+      pos.x < baseBox.x + baseBox.width + character_offset
+    ) {
+      acc.push(i);
+    }
+    return acc;
+  }, []);
+
+export const findOverlappingScenes = (
+  potentialOverlappingScenes: number[],
+  sceneCharacters: SceneCharacter[],
+  characterScenes: CharacterScene[],
+  characterPos: Position[][],
+  sceneSummaryTexts: any
+) =>
+  potentialOverlappingScenes.reduce((acc: number[], sceneIndex) => {
+    const characters = sceneCharacters[sceneIndex]
+      ? sceneCharacters[sceneIndex].characters
+      : [];
+
+    // see if any characters' y pos will overlap with the scene overlay
+    characters.some((char) => {
+      // find index of character in characterScenes
+      const charIndex = characterScenes.findIndex((c) => c.character === char);
+      // find index of scene
+      const charSceneIndex = characterScenes[charIndex].scenes.findIndex(
+        (s) => s === sceneIndex
+      );
+
+      const charPos = characterPos[charIndex][charSceneIndex];
+      const height = sceneSummaryTexts[sceneIndex]
+        ? sceneSummaryTexts[sceneIndex].height
+        : sceneSummaryTexts.height;
+      if (charPos && charPos.y < height + character_offset) {
+        acc.push(sceneIndex);
+        return true;
+      }
+      return false;
+    });
+
+    return acc;
+  }, []);
+
 // update scene summary box and text positions
 const update_scene_summaries = (
   plotWidth: number,
@@ -684,49 +733,18 @@ const update_scene_summaries = (
   characterQuoteBoxes: Box[]
 ) => {
   // find scenes that will overlap with the scene overlay using scenePos, save their indices
-  const potentialOverlappingScenes = scenePos.reduce(
-    (acc: number[], pos, i) => {
-      if (
-        pos.x > baseBox.x &&
-        pos.x < baseBox.x + baseBox.width + character_offset
-      ) {
-        acc.push(i);
-      }
-      return acc;
-    },
-    []
+  const potentialOverlappingScenes = findPotentialOverlappingScenes(
+    scenePos,
+    baseBox
   );
 
   // iterating over overlappingScenes, check if any character squares will overlap with the scene overlay using characterPos
-  const overlappingScenes = potentialOverlappingScenes.reduce(
-    (acc: number[], sceneIndex) => {
-      const characters = sceneCharacters[sceneIndex].characters;
-
-      // see if any characters' y pos will overlap with the scene overlay
-      characters.some((char) => {
-        // find index of character in characterScenes
-        const charIndex = characterScenes.findIndex(
-          (c) => c.character === char
-        );
-        // find index of scene
-        const charSceneIndex = characterScenes[charIndex].scenes.findIndex(
-          (s) => s === sceneIndex
-        );
-
-        const charPos = characterPos[charIndex][charSceneIndex];
-        if (
-          charPos &&
-          charPos.y < sceneSummaryTexts[sceneIndex].height + character_offset
-        ) {
-          acc.push(sceneIndex);
-          return true;
-        }
-        return false;
-      });
-
-      return acc;
-    },
-    []
+  const overlappingScenes = findOverlappingScenes(
+    potentialOverlappingScenes,
+    sceneCharacters,
+    characterScenes,
+    characterPos,
+    sceneSummaryTexts
   );
 
   // update scene summary box and text positions

@@ -6,9 +6,9 @@ import { positionStore } from "../../stores/positionStore";
 function LocationOverlay() {
   const { locationHover } = storyStore();
   const { locations, location_quotes } = dataStore();
-  const { locationQuoteBoxes, locationQuoteTexts } = positionStore();
+  const { locationQuoteBoxes, locationQuoteTexts, yShift } = positionStore();
   return (
-    <g id="location-quotes">
+    <g id="location-quotes" transform={"translate(0 " + yShift + ")"}>
       {/* add box with quote from each location */}
       {locations.map((location, i) => (
         <g

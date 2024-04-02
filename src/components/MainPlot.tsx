@@ -15,7 +15,7 @@ function MainPlot() {
     characterColor: characterColorBy,
     hidden,
   } = storyStore();
-  const { sceneBoxes, characterPaths, characterPos, characterSquares } =
+  const { sceneBoxes, characterPaths, characterPos, characterSquares, yShift } =
     positionStore();
   const {
     scene_data,
@@ -26,7 +26,7 @@ function MainPlot() {
     sortedCharacters,
   } = dataStore();
   return (
-    <g id="main-plot">
+    <g id="main-plot" transform={"translate(0 " + yShift + ")"}>
       {/* white boxes behind each scene */}
       <g id="scene-box-fills">
         {sceneCharacters.map(

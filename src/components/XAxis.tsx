@@ -23,9 +23,9 @@ function XAxis() {
     colorBy,
     weightBy,
   } = storyStore();
-  const { scenePos } = positionStore();
+  const { scenePos, yShift } = positionStore();
   return (
-    <g id="x-axis">
+    <g id="x-axis" transform={"translate(0 " + yShift + ")"}>
       {/* add scene names to x axis */}
       <g id="scenes">
         {scenes.map((scene, i) => (

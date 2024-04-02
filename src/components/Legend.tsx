@@ -6,7 +6,7 @@ import { positionStore } from "../stores/positionStore";
 
 function Legend() {
   const { sortedCharacters } = dataStore();
-  const { legendBoxPos, legendPos, colorBarPos } = positionStore();
+  const { legendBoxPos, legendPos, colorBarPos, yShift } = positionStore();
   const {
     setCharacterHover,
     sceneHover,
@@ -74,7 +74,7 @@ function Legend() {
         )}
       </g>
       {/* add rectangular bar across bottom of plot to serve as legend */}
-      <g id="color-legends">
+      <g id="color-legends" transform={"translate(0 " + yShift + ")"}>
         {Object.keys(color_dict).map((scale, i) => (
           <g
             className={

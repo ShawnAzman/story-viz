@@ -28,7 +28,7 @@ function YAxis() {
     sceneCharacters,
     location_data,
   } = dataStore();
-  const { locationPos, scenePos, characterPos } = positionStore();
+  const { locationPos, scenePos, characterPos, yShift } = positionStore();
   const charactersInFirstScene = sceneCharacters[0].characters;
   const lastCharacter =
     charactersInFirstScene[charactersInFirstScene.length - 1];
@@ -37,7 +37,7 @@ function YAxis() {
   );
   const lastCharacterYPos = characterPos[lastCharacterIndex][0].y;
   return (
-    <g id="y-axis">
+    <g id="y-axis" transform={"translate(0 " + yShift + ")"}>
       {/* add locations to y axis */}
       {locations.map((location, i) => (
         <g
