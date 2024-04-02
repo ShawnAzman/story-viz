@@ -56,12 +56,7 @@ interface IStore {
   colorBarPos: Box[];
   conflictPoints: Position[];
   conflictPath: string;
-
-  legendOverlap: boolean;
-  setLegendOverlap: (overlap: boolean) => void;
-
   yShift: number;
-  setYShift: (yShift: number) => void;
 
   setPositions: (
     scene_data: Scene[],
@@ -98,9 +93,7 @@ const initialState = {
   colorBarPos: init_pos_values.colorBarPos,
   conflictPoints: init_pos_values.conflictPoints,
   conflictPath: init_pos_values.conflictPath,
-
-  legendOverlap: false,
-  yShift: 0,
+  yShift: init_pos_values.yShift,
 };
 
 export const positionStore = create<IStore>((set) => ({
@@ -150,8 +143,7 @@ export const positionStore = create<IStore>((set) => ({
       colorBarPos: newPositions.colorBarPos,
       conflictPoints: newPositions.conflictPoints,
       conflictPath: newPositions.conflictPath,
+      yShift: newPositions.yShift,
     });
   },
-  setLegendOverlap: (overlap: boolean) => set({ legendOverlap: overlap }),
-  setYShift: (yShift: number) => set({ yShift: yShift }),
 }));

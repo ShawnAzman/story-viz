@@ -691,7 +691,8 @@ export const findOverlappingScenes = (
   sceneCharacters: SceneCharacter[],
   characterScenes: CharacterScene[],
   characterPos: Position[][],
-  sceneSummaryTexts: any
+  sceneSummaryTexts: any,
+  yShift: number
 ) =>
   potentialOverlappingScenes.reduce((acc: number[], sceneIndex) => {
     const characters = sceneCharacters[sceneIndex]
@@ -711,7 +712,7 @@ export const findOverlappingScenes = (
       const height = sceneSummaryTexts[sceneIndex]
         ? sceneSummaryTexts[sceneIndex].height
         : sceneSummaryTexts.height;
-      if (charPos && charPos.y < height + character_offset) {
+      if (charPos && charPos.y < height - yShift + character_offset) {
         acc.push(sceneIndex);
         return true;
       }
@@ -730,7 +731,8 @@ const update_scene_summaries = (
   sceneCharacters: SceneCharacter[],
   characterPos: Position[][],
   sceneSummaryTexts: SceneSummaryText[],
-  characterQuoteBoxes: Box[]
+  characterQuoteBoxes: Box[],
+  yShift: number
 ) => {
   // find scenes that will overlap with the scene overlay using scenePos, save their indices
   const potentialOverlappingScenes = findPotentialOverlappingScenes(
@@ -744,7 +746,8 @@ const update_scene_summaries = (
     sceneCharacters,
     characterScenes,
     characterPos,
-    sceneSummaryTexts
+    sceneSummaryTexts,
+    yShift
   );
 
   // update scene summary box and text positions
@@ -871,6 +874,32 @@ const conflictPath = (conflict_points: Position[], scenePos: Position[]) => {
   return edited_path + " L " + end[0] + "," + end[1];
 };
 
+const getLegenedOverlap = (
+  scenePos: Position[],
+  legendBoxPos: Box,
+  sceneCharacters: SceneCharacter[],
+  characterScenes: CharacterScene[],
+  characterPos: Position[][]
+) => {
+  const potentialOverlappingScenes = findPotentialOverlappingScenes(
+    scenePos,
+    legendBoxPos
+  );
+
+  const overlappingScenes = findOverlappingScenes(
+    potentialOverlappingScenes,
+    sceneCharacters,
+    characterScenes,
+    characterPos,
+    legendBoxPos,
+    0
+  );
+
+  return overlappingScenes.length > 0
+    ? legendBoxPos.height + character_offset
+    : 0;
+};
+
 // get all positions
 export const getAllPositions = (
   scene_data: Scene[],
@@ -973,6 +1002,14 @@ export const getAllPositions = (
     sceneSummaries
   );
 
+  const yShift = getLegenedOverlap(
+    initScenePos,
+    initLegendBoxPos,
+    sceneCharacters,
+    characterScenes,
+    initCharacterPos
+  );
+
   const updatedSceneSummaryPos = update_scene_summaries(
     plotWidth,
     initScenePos,
@@ -981,7 +1018,8 @@ export const getAllPositions = (
     sceneCharacters,
     initCharacterPos,
     initSceneSummaryTexts,
-    initCharacterQuoteBoxes
+    initCharacterQuoteBoxes,
+    yShift
   );
 
   const initSceneSummaryBoxes = updatedSceneSummaryPos.scene_summary_boxes;
@@ -1022,5 +1060,6 @@ export const getAllPositions = (
     colorBarPos: initColorBarPos,
     conflictPoints: initConflictPoints,
     conflictPath: initConflictPath,
+    yShift: yShift,
   };
 };

@@ -3,15 +3,7 @@ import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
 import { useEffect } from "react";
 import { positionStore } from "../stores/positionStore";
-import {
-  character_offset,
-  high_conflict_font,
-  med_conflict_font,
-} from "../utils/consts";
-import {
-  findOverlappingScenes,
-  findPotentialOverlappingScenes,
-} from "../utils/positions";
+import { high_conflict_font, med_conflict_font } from "../utils/consts";
 
 function PlotOptions() {
   const {
@@ -44,14 +36,7 @@ function PlotOptions() {
     character_quotes,
     sortedCharacters,
   } = dataStore();
-  const {
-    setPositions,
-    scenePos,
-    legendBoxPos,
-    characterPos,
-    setLegendOverlap,
-    setYShift,
-  } = positionStore();
+  const { setPositions } = positionStore();
   const colorByOptions = ["conflict", "sentiment", "importance", "default"];
   const characterColorOptions = ["default", "sentiment", "importance"];
   const sizeByOptions = ["conflict", "importance", "default"];
@@ -68,33 +53,6 @@ function PlotOptions() {
       console.log("Error loading story data", error);
     }
   };
-
-  const checkLegendOverlap = () => {
-    const potentialOverlappingScenes = findPotentialOverlappingScenes(
-      scenePos,
-      legendBoxPos
-    );
-
-    const overlappingScenes = findOverlappingScenes(
-      potentialOverlappingScenes,
-      sceneCharacters,
-      characterScenes,
-      characterPos,
-      legendBoxPos
-    );
-
-    if (overlappingScenes.length > 0) {
-      setLegendOverlap(true);
-      setYShift(legendBoxPos.height + character_offset);
-    } else {
-      setLegendOverlap(false);
-      setYShift(0);
-    }
-  };
-
-  useEffect(() => {
-    checkLegendOverlap();
-  }, [legendBoxPos]);
 
   useEffect(() => {
     handleStoryChange(story);
