@@ -107,14 +107,11 @@ h1 {
       }
 
       &.character-square,
-      .character-square {
-        stroke-opacity: 0.3;
-        fill-opacity: 0.3;
-      }
-
+      .character-square,
       &.path-group,
       .path-group {
         stroke-opacity: 0.3;
+        fill-opacity: 0.3;
       }
     }
 
@@ -194,11 +191,9 @@ h1 {
 
     .character-path {
       transition: 0.3s;
-      &.hidden {
-        .path-group {
-          stroke-opacity: 0;
-        }
 
+      &.hidden {
+        .path-group,
         .character-square {
           stroke-opacity: 0;
           fill-opacity: 0;

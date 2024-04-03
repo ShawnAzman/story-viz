@@ -3,6 +3,7 @@ import { dataStore } from "../stores/dataStore";
 import { emotionColor, getColor, importanceColor } from "../utils/colors";
 import { character_height } from "../utils/consts";
 import { positionStore } from "../stores/positionStore";
+import { normalizeMarkerSize } from "../utils/helpers";
 
 function MainPlot() {
   const {
@@ -74,6 +75,7 @@ function MainPlot() {
             >
               {/* add paths between scenes */}
               <g
+                fillOpacity={0.7}
                 className={
                   "path-group " +
                   (locationHover !== "" ||
@@ -88,10 +90,10 @@ function MainPlot() {
                   characterPaths[i].map((path, j) => (
                     <path
                       d={path}
-                      fill="none"
-                      stroke={"url(#linear" + i + ")"}
+                      fill={"url(#linear" + i + ")"}
+                      // stroke={"url(#linear" + i + ")"}
                       key={"charpath" + j}
-                      strokeWidth={2}
+                      // strokeWidth={2}
                       onMouseEnter={() =>
                         setCharacterHover(character.character)
                       }
@@ -99,6 +101,7 @@ function MainPlot() {
                     />
                   ))}
               </g>
+
               {/* add squares at each scene the character appears in */}
               <g className="character-squares">
                 {characterSquares[i] &&
@@ -118,6 +121,13 @@ function MainPlot() {
                           y={characterSquares[i][j].y}
                           width={characterSquares[i][j].width}
                           height={characterSquares[i][j].height}
+                          stroke={"white"}
+                          strokeWidth={
+                            normalizeMarkerSize(
+                              importance_val * character_height
+                            ) / 2.5
+                          }
+                          paintOrder={"stroke"}
                           fill={
                             characterColorBy === "default"
                               ? charColor
@@ -139,7 +149,7 @@ function MainPlot() {
                     );
                   })}
               </g>
-              {/* add white rect behind character name */}
+              {/* add character name to the first scene they show up in */}
               <g
                 className={
                   "char-name-label " +
@@ -153,7 +163,6 @@ function MainPlot() {
                 onMouseEnter={() => setCharacterHover(character.character)}
                 onMouseLeave={() => setCharacterHover("")}
               >
-                {/* add character name to the first scene they show up in */}
                 {characterPos[i] && (
                   <text
                     x={

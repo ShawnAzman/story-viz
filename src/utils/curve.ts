@@ -158,7 +158,6 @@ export const bezierCommand = (
     true,
     secondLast
   );
-  //   return `C ${cps[0]},${cps[1]} ${cpe[0]},${cpe[1]} ${point[0]},${point[1]}`;
   return `C ${cps[0]},${cps[1]} ${cpe[0]},${cpe[1]} ${point[0]},${point[1]}`;
 };
 

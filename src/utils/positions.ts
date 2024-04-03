@@ -174,258 +174,410 @@ let max_y_per_scene = (
     );
   });
 
+const getPath = (
+  character: CharacterScene,
+  character_coords_arr: number[][],
+  scene_width: number,
+  og_max_y_per_scene: number[],
+  old_max_y_per_scene: number[],
+  sceneCharacters: SceneCharacter[],
+  scenes: string[],
+  scene_buffer: number
+) => {
+  const adjustments = {} as Record<number, number>;
+  const max_y_per_scene = [...old_max_y_per_scene];
+  const og_indices = [] as number[];
+  // add point to the character's path at the start of the story
+  character_coords_arr.unshift([
+    character_coords_arr[0][0] - scene_base / 2,
+    character_coords_arr[0][1],
+  ]);
+
+  // add point to the character's path at the end of the story
+  character_coords_arr.push([
+    character_coords_arr[character_coords_arr.length - 1][0] + scene_base / 2,
+    character_coords_arr[character_coords_arr.length - 1][1],
+  ]);
+  // add intermediate points if there is a gap in characters' appearance
+  for (let i = 1; i < character_coords_arr.length; i++) {
+    const cur_x = character_coords_arr[i][0];
+    const prev_x = character_coords_arr[i - 1][0];
+    const cur_y = character_coords_arr[i][1];
+    const prev_y = character_coords_arr[i - 1][1];
+
+    const scene_index = Math.floor((cur_x - scene_offset) / scene_width);
+    const prev_scene_index =
+      Math.floor((prev_x - scene_offset) / scene_width) + 1;
+    // find max_y for all scenes between prev_scene_index and scene_index
+    const cur_max_y =
+      scene_index === prev_scene_index
+        ? max_y_per_scene[scene_index]
+        : Math.max(...max_y_per_scene.slice(prev_scene_index, scene_index));
+    const cur_max_indices = max_y_per_scene
+      .filter((val) => val === cur_max_y)
+      .map((_, i) => i);
+
+    const og_cur_max_y = Math.max(
+      ...og_max_y_per_scene.slice(prev_scene_index, scene_index)
+    );
+
+    // see if there's a character below this character in the same scene
+    // using sceneCharacters
+    const sceneChars = sceneCharacters[scene_index].characters;
+    const charInd = sceneChars.indexOf(character.character);
+    const numNextChars = sceneChars.length - charInd - 1;
+
+    const real_prev_ind = prev_scene_index - 1;
+    const prevSceneChars =
+      real_prev_ind > -1 && real_prev_ind < scenes.length - 1
+        ? sceneCharacters[real_prev_ind].characters
+        : [];
+    const prevCharInd = prevSceneChars.indexOf(character.character);
+    const numPrevChars = prevSceneChars.length - prevCharInd - 1;
+
+    const locationInd = Math.ceil((cur_y - location_offset) / location_height);
+    const prevLocationInd = Math.ceil(
+      (prev_y - location_offset) / location_height
+    );
+
+    // gap (1+ scene)
+    if (cur_x - prev_x > scene_buffer) {
+      // big gap (2+ scenes) -- add two points
+      if (cur_x - prev_x > scene_buffer * 2) {
+        const new_max_y = cur_max_y;
+
+        const gap_size = Math.ceil((cur_x - prev_x) / scene_width);
+        const offset = gap_size > 4 ? 0.5 : 0.75;
+        let prev_multiplier = scene_width * offset;
+        let next_multiplier = prev_multiplier;
+
+        let new_y = Math.max(new_max_y + character_offset, cur_y, prev_y);
+
+        if (cur_y - prev_y > location_buffer) {
+          if (cur_y > og_cur_max_y) {
+            // don't need to go all the way down
+            new_y = cur_y;
+          } else {
+            const max_of_maxes =
+              cur_max_y - og_cur_max_y > location_buffer
+                ? og_cur_max_y + character_height
+                : cur_max_y;
+            new_y = max_of_maxes + character_offset;
+          }
+        }
+
+        if (numPrevChars > 0) {
+          if (
+            locationInd != prevLocationInd &&
+            Math.abs(new_y - prev_y) > location_buffer
+          ) {
+            prev_multiplier *= numPrevChars;
+            prev_multiplier = Math.min(prev_multiplier, scene_width);
+          }
+
+          const extra_multiplier =
+            numNextChars === 0 && Math.abs(new_y - prev_y) > location_buffer
+              ? 1 + numPrevChars * 0.5
+              : 1;
+          character_coords_arr.splice(i, 0, [
+            prev_x +
+              extra_multiplier * prev_multiplier +
+              character_offset / offset,
+            new_y,
+          ]);
+        } else {
+          character_coords_arr.splice(i, 0, [prev_x + prev_multiplier, new_y]);
+        }
+        if (numNextChars > 0) {
+          if (
+            locationInd != prevLocationInd &&
+            Math.abs(new_y - cur_y) > location_buffer
+          ) {
+            next_multiplier *= numNextChars;
+            next_multiplier = Math.min(next_multiplier, scene_width);
+
+            if (numPrevChars === 0) {
+              next_multiplier += numNextChars * 0.5;
+            }
+          }
+
+          const extra_multiplier =
+            numPrevChars === 0 && Math.abs(new_y - cur_y) > location_buffer
+              ? 1 + numNextChars * 0.5
+              : 1;
+          character_coords_arr.splice(i + 1, 0, [
+            cur_x -
+              extra_multiplier * next_multiplier -
+              character_offset / offset,
+            new_y,
+          ]);
+        } else {
+          character_coords_arr.splice(i + 1, 0, [
+            cur_x - next_multiplier,
+            new_y,
+          ]);
+        }
+        // update max_y_per_scene between prev_scene_index and scene_index
+        for (let j = prev_scene_index; j < scene_index; j++) {
+          max_y_per_scene[j] = new_y;
+        }
+
+        i += 2;
+      } else {
+        // small gap (1 scene) -- add one point
+        if (
+          numPrevChars > 0 &&
+          (cur_y - prev_y > location_buffer ||
+            (prev_y - cur_y < location_buffer &&
+              prev_y - cur_y > 2 * character_height &&
+              prev_y > og_cur_max_y))
+        ) {
+          let next_multiplier = scene_width * 0.75;
+          // if character is moving down or small up gap
+          character_coords_arr.splice(i, 0, [
+            cur_x - next_multiplier - prevCharInd * character_offset,
+            prev_y,
+          ]);
+          i += 1;
+        } else if (
+          numPrevChars > 0 &&
+          (prev_y - cur_y > location_buffer ||
+            (cur_y - prev_y < location_buffer &&
+              cur_y - prev_y > 2 * character_height &&
+              cur_y > og_cur_max_y))
+        ) {
+          // if character is moving up or small down gap
+          let prev_multiplier = scene_width * 0.75;
+          character_coords_arr.splice(i, 0, [
+            prev_x + prev_multiplier + charInd * character_offset,
+            cur_y,
+          ]);
+          i += 1;
+        } else {
+          // if character is moving horizontally or really small gap
+
+          // don't need to go all the way down
+          let new_y = cur_max_y + character_offset;
+          if (prev_y > cur_y && prev_y > og_cur_max_y) {
+            new_y = prev_y;
+          } else if (cur_y > prev_y && cur_y > og_cur_max_y) {
+            new_y = cur_y;
+          }
+
+          // add two points
+          character_coords_arr.splice(i, 0, [
+            prev_x + scene_width * 0.5,
+            new_y,
+          ]);
+          character_coords_arr.splice(i + 1, 0, [
+            cur_x - scene_width * 0.5,
+            new_y,
+          ]);
+
+          // update max_y_per_scene between prev_scene_index and scene_index
+          cur_max_indices.forEach((j) => {
+            max_y_per_scene[j] = new_y;
+          });
+
+          i += 2;
+        }
+      }
+      adjustments[i] = 0;
+    } else {
+      if (cur_y > prev_y) {
+        // if character is moving up
+        adjustments[i] = -1 * prevCharInd;
+      } else {
+        // if character is moving down
+        adjustments[i] = prevCharInd;
+      }
+    }
+
+    og_indices.push(i);
+  }
+
+  // check if all points have same y value; if so, move 1st point up by 0.001
+  const same_y = character_coords_arr.every(
+    (val, _, arr) => val[1] === arr[0][1]
+  );
+  if (same_y) {
+    character_coords_arr[0][1] -= 0.0001;
+    // move last point up by 0.001
+    character_coords_arr[character_coords_arr.length - 1][1] -= 0.0001;
+  }
+
+  return {
+    coords: character_coords_arr,
+    max_y_per_scene: max_y_per_scene,
+    adjustments: adjustments,
+    og_indices: og_indices,
+  };
+};
+
+function reverseSvgPath(path: string): string {
+  const pathArr = path.split(" C ");
+
+  pathArr[0] = pathArr[0].replace("M", "").trim();
+
+  const posStr = pathArr.join(" ");
+
+  const posStr_split = posStr.split(" ").reverse();
+
+  let new_path = "M " + posStr_split[0];
+
+  posStr_split.shift();
+  posStr_split.forEach((pos, i) => {
+    if (i % 3 === 0) {
+      new_path += " C " + pos;
+    } else {
+      new_path += " " + pos;
+    }
+  });
+
+  return new_path;
+}
+
 const characterPaths = (
   scene_width: number,
   characterScenes: CharacterScene[],
   characterPos: Position[][],
   max_y_per_scene: number[],
   scenes: string[],
-  sceneCharacters: SceneCharacter[]
+  sceneCharacters: SceneCharacter[],
+  scene_data: Scene[]
 ) => {
   const og_max_y_per_scene = [...max_y_per_scene];
+  let updated_max_y_per_scene = [...max_y_per_scene];
+
+  const scene_buffer = scene_width + character_offset;
+
   const allPaths = characterScenes.map((character) => {
     const paths = [];
-    const adjustments = {} as Record<number, number>;
 
     const character_coords = characterPos[characterScenes.indexOf(character)];
-    // convert to array of arrays, adjust for character height
-    const character_coords_arr = character_coords.map((pos: any) => [
+
+    const importance_weights = character.scenes.map((scene) => {
+      const importance = scene_data[scene].characters.find(
+        (c) => c.name === character.character
+      )?.importance as number;
+
+      return normalizeMarkerSize(character_height * importance) / 2;
+    });
+
+    let character_coords_arr = character_coords.map((pos) => [
       pos.x + character_height / 2,
       pos.y + character_height / 2,
     ]);
 
-    // add point to the character's path at the start of the story
-    character_coords_arr.unshift([
-      character_coords_arr[0][0] - scene_base / 2,
-      character_coords_arr[0][1],
-    ]);
-
-    // add point to the character's path at the end of the story
-    character_coords_arr.push([
-      character_coords_arr[character_coords_arr.length - 1][0] + scene_base / 2,
-      character_coords_arr[character_coords_arr.length - 1][1],
-    ]);
-
-    // add intermediate points if there is a gap in characters' appearance
-    for (let i = 1; i < character_coords_arr.length; i++) {
-      const cur_x = character_coords_arr[i][0];
-      const prev_x = character_coords_arr[i - 1][0];
-      const cur_y = character_coords_arr[i][1];
-      const prev_y = character_coords_arr[i - 1][1];
-
-      const scene_index = Math.floor((cur_x - scene_offset) / scene_width);
-      const prev_scene_index =
-        Math.floor((prev_x - scene_offset) / scene_width) + 1;
-      // find max_y for all scenes between prev_scene_index and scene_index
-      const cur_max_y =
-        scene_index === prev_scene_index
-          ? max_y_per_scene[scene_index]
-          : Math.max(...max_y_per_scene.slice(prev_scene_index, scene_index));
-      const cur_max_indices = max_y_per_scene
-        .filter((val) => val === cur_max_y)
-        .map((_, i) => i);
-
-      const og_cur_max_y = Math.max(
-        ...og_max_y_per_scene.slice(prev_scene_index, scene_index)
-      );
-
-      // see if there's a character below this character in the same scene
-      // using sceneCharacters
-      const sceneChars = sceneCharacters[scene_index].characters;
-      const charInd = sceneChars.indexOf(character.character);
-      const numNextChars = sceneChars.length - charInd - 1;
-
-      const real_prev_ind = prev_scene_index - 1;
-      const prevSceneChars =
-        real_prev_ind > -1 && real_prev_ind < scenes.length - 1
-          ? sceneCharacters[real_prev_ind].characters
-          : [];
-      const prevCharInd = prevSceneChars.indexOf(character.character);
-      const numPrevChars = prevSceneChars.length - prevCharInd - 1;
-
-      const locationInd = Math.ceil(
-        (cur_y - location_offset) / location_height
-      );
-      const prevLocationInd = Math.ceil(
-        (prev_y - location_offset) / location_height
-      );
-
-      const scene_buffer = scene_width + character_offset;
-
-      // gap (1+ scene)
-      if (cur_x - prev_x > scene_buffer) {
-        // big gap (2+ scenes) -- add two points
-        if (cur_x - prev_x > scene_buffer * 2) {
-          const new_max_y = cur_max_y;
-
-          const gap_size = Math.ceil((cur_x - prev_x) / scene_width);
-          const offset = gap_size > 4 ? 0.5 : 0.75;
-          let prev_multiplier = scene_width * offset;
-          let next_multiplier = prev_multiplier;
-
-          let new_y = Math.max(new_max_y + character_offset, cur_y, prev_y);
-
-          if (cur_y - prev_y > location_buffer) {
-            if (cur_y > og_cur_max_y) {
-              // don't need to go all the way down
-              new_y = cur_y;
-            } else {
-              const max_of_maxes =
-                cur_max_y - og_cur_max_y > location_buffer
-                  ? og_cur_max_y + character_height
-                  : cur_max_y;
-              new_y = max_of_maxes + character_offset;
-            }
-          }
-
-          if (numPrevChars > 0) {
-            if (
-              locationInd != prevLocationInd &&
-              Math.abs(new_y - prev_y) > location_buffer
-            ) {
-              prev_multiplier *= numPrevChars;
-              prev_multiplier = Math.min(prev_multiplier, scene_width);
-            }
-
-            const extra_multiplier =
-              numNextChars === 0 && Math.abs(new_y - prev_y) > location_buffer
-                ? 1 + numPrevChars * 0.5
-                : 1;
-            character_coords_arr.splice(i, 0, [
-              prev_x +
-                extra_multiplier * prev_multiplier +
-                character_offset / offset,
-              new_y,
-            ]);
-          } else {
-            character_coords_arr.splice(i, 0, [
-              prev_x + prev_multiplier,
-              new_y,
-            ]);
-          }
-          if (numNextChars > 0) {
-            if (
-              locationInd != prevLocationInd &&
-              Math.abs(new_y - cur_y) > location_buffer
-            ) {
-              next_multiplier *= numNextChars;
-              next_multiplier = Math.min(next_multiplier, scene_width);
-
-              if (numPrevChars === 0) {
-                next_multiplier += numNextChars * 0.5;
-              }
-            }
-
-            const extra_multiplier =
-              numPrevChars === 0 && Math.abs(new_y - cur_y) > location_buffer
-                ? 1 + numNextChars * 0.5
-                : 1;
-            character_coords_arr.splice(i + 1, 0, [
-              cur_x -
-                extra_multiplier * next_multiplier -
-                character_offset / offset,
-              new_y,
-            ]);
-          } else {
-            character_coords_arr.splice(i + 1, 0, [
-              cur_x - next_multiplier,
-              new_y,
-            ]);
-          }
-          // update max_y_per_scene between prev_scene_index and scene_index
-          for (let j = prev_scene_index; j < scene_index; j++) {
-            max_y_per_scene[j] = new_y;
-          }
-
-          i += 2;
-        } else {
-          // small gap (1 scene) -- add one point
-          if (
-            numPrevChars > 0 &&
-            (cur_y - prev_y > location_buffer ||
-              (prev_y - cur_y < location_buffer &&
-                prev_y - cur_y > 2 * character_height &&
-                prev_y > og_cur_max_y))
-          ) {
-            let next_multiplier = scene_width * 0.75;
-            // if character is moving down or small up gap
-            character_coords_arr.splice(i, 0, [
-              cur_x - next_multiplier - prevCharInd * character_offset,
-              prev_y,
-            ]);
-            i += 1;
-          } else if (
-            numPrevChars > 0 &&
-            (prev_y - cur_y > location_buffer ||
-              (cur_y - prev_y < location_buffer &&
-                cur_y - prev_y > 2 * character_height &&
-                cur_y > og_cur_max_y))
-          ) {
-            // if character is moving up or small down gap
-            let prev_multiplier = scene_width * 0.75;
-            character_coords_arr.splice(i, 0, [
-              prev_x + prev_multiplier + charInd * character_offset,
-              cur_y,
-            ]);
-            i += 1;
-          } else {
-            // if character is moving horizontally or really small gap
-
-            // don't need to go all the way down
-            let new_y = cur_max_y + character_offset;
-            if (prev_y > cur_y && prev_y > og_cur_max_y) {
-              new_y = prev_y;
-            } else if (cur_y > prev_y && cur_y > og_cur_max_y) {
-              new_y = cur_y;
-            }
-
-            // add two points
-            character_coords_arr.splice(i, 0, [
-              prev_x + scene_width * 0.5,
-              new_y,
-            ]);
-            character_coords_arr.splice(i + 1, 0, [
-              cur_x - scene_width * 0.5,
-              new_y,
-            ]);
-
-            // update max_y_per_scene between prev_scene_index and scene_index
-            cur_max_indices.forEach((j) => {
-              max_y_per_scene[j] = new_y;
-            });
-
-            i += 2;
-          }
-        }
-        adjustments[i] = 0;
-      } else {
-        if (cur_y > prev_y) {
-          // if character is moving up
-          adjustments[i] = -1 * prevCharInd;
-        } else {
-          // if character is moving down
-          adjustments[i] = prevCharInd;
-        }
-      }
-    }
-
-    // check if all points have same y value; if so, move 1st point up by 0.001
-    const same_y = character_coords_arr.every(
-      (val, _, arr) => val[1] === arr[0][1]
+    const coord_info = getPath(
+      character,
+      character_coords_arr,
+      scene_width,
+      og_max_y_per_scene,
+      updated_max_y_per_scene,
+      sceneCharacters,
+      scenes,
+      scene_buffer
     );
-    if (same_y) {
-      character_coords_arr[0][1] -= 0.0001;
-      // move last point up by 0.001
-      character_coords_arr[character_coords_arr.length - 1][1] -= 0.0001;
-    }
+    updated_max_y_per_scene = coord_info.max_y_per_scene;
+    const og_indices = coord_info.og_indices;
+    const adjustments = coord_info.adjustments;
 
-    paths.push(svgPath(character_coords_arr, adjustments, bezierCommand));
+    const character_coords_top = character_coords_arr.map((point, i) => {
+      if (i === 0) {
+        return [point[0], point[1] - importance_weights[0]];
+      } else if (i === character_coords_arr.length - 1) {
+        return [
+          point[0],
+          point[1] - importance_weights[importance_weights.length - 1],
+        ];
+      } else if (!og_indices.includes(i)) {
+        const prev_y = character_coords_arr[i - 1][1];
+        const cur_y = character_coords_arr[i][1];
+        const next_y = character_coords_arr[i + 1][1];
+        if (cur_y === prev_y && cur_y < next_y) {
+          // moving down
+          // find the index in importance_weights that is closest to the current index rounded down
+          const ind = Math.floor(
+            i / (character_coords_arr.length / importance_weights.length)
+          );
+          return [point[0], point[1] - importance_weights[ind]];
+        } else if (cur_y === next_y && cur_y < prev_y) {
+          // moving up
+          // find the index in importance_weights that is closest to the current index rounded up
+          const ind = Math.ceil(
+            i / (character_coords_arr.length / importance_weights.length)
+          );
+          return [point[0], point[1] - importance_weights[ind]];
+        }
+        return [point[0], point[1] - 1];
+      }
+      const ind = og_indices.findIndex((val) => val === i);
+      return [point[0], point[1] - importance_weights[ind]];
+    });
+    const character_coords_bottom = character_coords_arr.map((point, i) => {
+      if (i === 0) {
+        return [point[0], point[1] + importance_weights[0]];
+      } else if (i === character_coords_arr.length - 1) {
+        return [
+          point[0],
+          point[1] + importance_weights[importance_weights.length - 1],
+        ];
+      } else if (!og_indices.includes(i)) {
+        const prev_y = character_coords_arr[i - 1][1];
+        const cur_y = character_coords_arr[i][1];
+        const next_y = character_coords_arr[i + 1][1];
+        if (cur_y === prev_y && cur_y < next_y) {
+          // moving down
+          // find the index in importance_weights that is closest to the current index rounded down
+          const ind = Math.floor(
+            i / (character_coords_arr.length / importance_weights.length)
+          );
+          return [point[0], point[1] + importance_weights[ind]];
+        } else if (cur_y === next_y && cur_y < prev_y) {
+          // moving up
+          // find the index in importance_weights that is closest to the current index rounded up
+          const ind = Math.ceil(
+            i / (character_coords_arr.length / importance_weights.length)
+          );
+          return [point[0], point[1] + importance_weights[ind]];
+        }
+        return [point[0], point[1] + 1];
+      }
+      const ind = og_indices.findIndex((val) => val === i);
+      return [point[0], point[1] + importance_weights[ind]];
+    });
+
+    let top_path = svgPath(character_coords_top, adjustments, bezierCommand);
+    let bottom_path = svgPath(
+      character_coords_bottom,
+      adjustments,
+      bezierCommand
+    );
+
+    let bottom_path_reversed = reverseSvgPath(bottom_path);
+
+    const right_join_point = bottom_path_reversed.split(" C ")[0].split(",")[1];
+
+    const left_join_point = top_path.split(" C ")[0].split(",")[1];
+
+    const full_path =
+      top_path +
+      " V " +
+      right_join_point +
+      " " +
+      bottom_path_reversed +
+      " V " +
+      left_join_point;
+
+    paths.push(full_path);
+
     return paths;
   });
 
   return {
     paths: allPaths,
-    max_y_per_scene: max_y_per_scene,
+    max_y_per_scene: updated_max_y_per_scene,
   };
 };
 
@@ -948,7 +1100,8 @@ export const getAllPositions = (
     initCharacterPos,
     initMaxYPerScene,
     scenes,
-    sceneCharacters
+    sceneCharacters,
+    scene_data
   );
 
   const initCharacterPaths = pathInfo.paths;
