@@ -20,7 +20,6 @@ const init_data_values = getAllData(init_data);
 
 interface IStore {
   data: any;
-  title: string;
 
   scene_data: Scene[];
   location_data: LocationData[];
@@ -48,7 +47,6 @@ interface IStore {
 
 const initialState = {
   data: init_data,
-  title: init_data_values.title,
 
   scene_data: init_data_values.scene_data,
   location_data: init_data_values.location_data,
@@ -78,8 +76,6 @@ export const dataStore = create<IStore>((set) => ({
     const newData = getAllData(init_data);
     set({
       data: init_data,
-      title: newData.title,
-
       scene_data: newData.scene_data,
       location_data: newData.location_data,
       character_data: newData.character_data,

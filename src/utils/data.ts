@@ -94,7 +94,6 @@ export interface RatingDict {
 }
 
 /* DATA */
-const title = (all_data: any): string => all_data["title"];
 const scene_data = (all_data: any): Scene[] => all_data["scenes"];
 const location_data = (all_data: any): LocationData[] => all_data["locations"];
 const character_data = (all_data: any): CharacterData[] =>
@@ -344,7 +343,6 @@ const createRatingDict = (data: Scene[]): RatingDict => {
 
 // generate all data and return
 export const getAllData = (init_data: any) => {
-  const init_title = title(init_data);
   const init_scene_data = scene_data(init_data);
   const init_location_data = location_data(init_data);
   const init_character_data = character_data(init_data);
@@ -388,7 +386,6 @@ export const getAllData = (init_data: any) => {
   const init_ratingDict = createRatingDict(init_scene_data);
 
   return {
-    title: init_title,
     scene_data: init_scene_data,
     location_data: init_location_data,
     character_data: init_character_data,

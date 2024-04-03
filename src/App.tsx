@@ -2,13 +2,31 @@ import "./App.scss";
 import PlotOptions from "./components/PlotOptions";
 import StoryVis from "./components/StoryVis";
 import { dataStore } from "./stores/dataStore";
+import { Button, Divider } from "@mantine/core";
+import { FiFileText } from "react-icons/fi";
 
 function App() {
-  const { title } = dataStore();
+  const { data } = dataStore();
   return (
     <div id="app">
       <header>
-        <h1>{title}</h1>
+        <div id="story-info">
+          <h1>{data["title"]}</h1>
+          <span>
+            {data["author"]} <Divider orientation="vertical" /> {data["year"]}{" "}
+            <Divider orientation="vertical" />{" "}
+            <a href={data["url"]} target="_blank" title={data["title"]}>
+              <Button
+                size="xs compact"
+                variant="light"
+                id="info-button"
+                leftSection={<FiFileText />}
+              >
+                Full Text
+              </Button>
+            </a>
+          </span>
+        </div>
         <PlotOptions />
       </header>
       <div id="story-contain">

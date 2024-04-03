@@ -25,6 +25,28 @@ header {
   margin-bottom: 1.2rem;
   gap: 20px;
 
+  #story-info {
+    span {
+      font-size: smaller;
+      color: #222;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-family: "Shantell Sans";
+    }
+
+    #info-button {
+      padding: 0.3rem 0.5rem;
+      span {
+        font-family: var(--mantine-font-family);
+      }
+
+      .mantine-Button-section {
+        margin-right: 0;
+      }
+    }
+  }
+
   #options {
     display: flex;
     gap: 20px;
@@ -312,8 +334,11 @@ h1 {
     align-items: baseline;
     display: block;
 
-    h1 {
+    #story-info {
       margin-bottom: 8px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
     }
   }
 }

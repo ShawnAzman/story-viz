@@ -1,5 +1,8 @@
 {
   "title": "Alice's Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "year": 1865,
+  "url": "https://www.gutenberg.org/ebooks/11",
   "scenes": [
     {
       "number": 1,
