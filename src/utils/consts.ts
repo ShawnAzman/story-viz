@@ -2,7 +2,7 @@
 export const med_conflict_font = '"Advent Pro", sans-serif';
 export const high_conflict_font = "'Shantell Sans', cursive";
 
-export const location_height = 110;
+export const location_height = 100;
 export const location_offset = location_height / 5;
 export const scene_base = 100;
 export const scene_offset = 2.75 * scene_base - 1.75 * location_offset;

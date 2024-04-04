@@ -91,11 +91,11 @@ function CharacterOverlay() {
                 x={characterQuoteTexts[i][0].x - 0.6 * location_height}
                 y={
                   characterQuoteTexts[i][0].y -
-                  2 * character_offset +
+                  1.75 * character_offset +
                   (characterQuoteTexts[i].length <= 2
                     ? 0
                     : characterQuoteBoxes[i].height / 2 -
-                      2.5 * character_offset)
+                      2.3 * character_offset)
                 }
                 width={location_height * 0.5}
                 height={location_height * 0.5}

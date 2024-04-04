@@ -709,7 +709,7 @@ const location_quote_boxes = (
       x: scene_offset - 1.25 * location_offset,
       y: locationPos[locationPos.length - 2] - location_offset,
       width: scene_base * 5.5 - 2 * character_offset,
-      height: (cur_quote.quote.length + 2.4) * character_offset,
+      height: (cur_quote.quote.length + 2.5) * character_offset,
     };
   });
 };
@@ -727,7 +727,7 @@ const location_quote_texts = (
     return cur_quote.quote.map((_, j) => {
       return {
         x: scene_offset - 0.5 * location_offset,
-        y: locationPos[locationPos.length - 2] + (j + 1.25) * character_offset,
+        y: locationPos[locationPos.length - 2] + (j + 1.45) * character_offset,
       };
     });
   });
@@ -746,7 +746,7 @@ const character_quote_boxes = (
       x: legend_box_pos.x,
       y: legend_box_pos.y + legend_box_pos.height + 1.75 * character_offset,
       width: scene_base * 5.5 + character_offset,
-      height: (Math.max(cur_quote.quote.length, 2) + 3) * character_offset,
+      height: (Math.max(cur_quote.quote.length, 2) + 2.5) * character_offset,
     };
   });
 };
@@ -764,8 +764,8 @@ const character_quote_texts = (
       character_quotes[i];
     return cur_quote.quote.map((_, j) => {
       return {
-        x: legend_box_pos.x + 0.75 * location_offset + 0.55 * location_height,
-        y: character_quote_boxes[i].y + (j + 2.8) * character_offset,
+        x: legend_box_pos.x + 0.75 * location_offset + 0.6 * location_height,
+        y: character_quote_boxes[i].y + (j + 2.55) * character_offset,
       };
     });
   });
@@ -1257,7 +1257,7 @@ export const getAllPositions = (
   const initColorBarPos = color_bar_pos(plotWidth, initScenePos);
 
   const plotHeight =
-    initColorBarPos[0].y + initColorBarPos[0].height + 6 * character_height;
+    initColorBarPos[0].y + initColorBarPos[0].height + 8 * character_height;
 
   const min_conflict_y = initScenePos[0].y - 0.75 * location_offset;
   const initConflictPoints = conflict_points(

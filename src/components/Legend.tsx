@@ -93,7 +93,7 @@ function Legend() {
               y={
                 sizeBy === "default"
                   ? colorBarPos[i].y + character_height
-                  : colorBarPos[i].y + character_height + 3 * character_offset
+                  : colorBarPos[i].y + character_height + 4 * character_offset
               }
               textAnchor="end"
               fill="black"
@@ -107,7 +107,7 @@ function Legend() {
               y={
                 sizeBy === "default"
                   ? colorBarPos[i].y
-                  : colorBarPos[i].y + 3 * character_offset
+                  : colorBarPos[i].y + 4 * character_offset
               }
               width={colorBarPos[i].width}
               height={colorBarPos[i].height}
@@ -120,7 +120,7 @@ function Legend() {
                   ? colorBarPos[i].y + 2.4 * character_height
                   : colorBarPos[i].y +
                     2.4 * character_height +
-                    3 * character_offset
+                    4 * character_offset
               }
               textAnchor="middle"
             >
@@ -135,7 +135,7 @@ function Legend() {
               y={
                 sizeBy === "default"
                   ? colorBarPos[i].y + character_height
-                  : colorBarPos[i].y + character_height + 3 * character_offset
+                  : colorBarPos[i].y + character_height + 4 * character_offset
               }
               textAnchor="start"
               fill="black"
