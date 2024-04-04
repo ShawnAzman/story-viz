@@ -47,7 +47,6 @@ function Legend() {
           width={legendBoxPos.width}
           height={legendBoxPos.height}
           fill="white"
-          // fillOpacity={0}
           stroke="#eee"
           strokeWidth={2}
           opacity={0.8}

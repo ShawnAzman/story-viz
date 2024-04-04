@@ -97,13 +97,6 @@ function XAxis() {
                         ? getFontWeight(ratings.conflict)
                         : "500"
                     }
-                    // paintOrder="stroke"
-                    // stroke={
-                    //   textColor(ratings.sentiment, true) === "black"
-                    //     ? "rgb(0,0,0,0.8)"
-                    //     : "none"
-                    // }
-                    // strokeWidth={4}
                     fontFamily={getFontFamily(ratings.conflict)}
                     transform={
                       "rotate(-45," +
