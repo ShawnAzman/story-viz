@@ -13,7 +13,7 @@
       "firstLine": "When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side.",
       "lastLine": "Then a strange thing happened. The house whirled around two or three times and rose slowly through the air.",
       "ratings": {
-        "importance": 1,
+        "importance": 19,
         "conflict": 1,
         "sentiment": -1
       },
@@ -29,7 +29,7 @@
         },
         {
           "name": "Toto",
-          "importance": 0.5,
+          "importance": 2,
           "sentiment": {
             "emotion": "Confusion and Fear",
             "quote": "Toto did not like it. He ran about the room, now here, now there, barking loudly;",
@@ -46,7 +46,7 @@
       "firstLine": "She was awakened by a shock, so sudden and severe that if Dorothy had not been lying on the soft bed she might have been hurt.",
       "lastLine": "Dorothy listened to this speech with wonder. What could the little woman possibly mean by calling her a sorceress, and saying she had killed the Wicked Witch of the East?",
       "ratings": {
-        "importance": 1,
+        "importance": 18,
         "conflict": 0,
         "sentiment": 0.5
       },
@@ -62,7 +62,7 @@
         },
         {
           "name": "Wicked Witch of the East",
-          "importance": 0.5,
+          "importance": 2,
           "sentiment": {
             "emotion": "Absent Presence",
             "quote": "There are her two feet, still sticking out from under a block of wood.",
@@ -79,7 +79,7 @@
       "firstLine": "She sprang from her bed and with Toto at her heels ran and opened the door.",
       "lastLine": "So she took hold of his arm and managed to get along fairly well.",
       "ratings": {
-        "importance": 1,
+        "importance": 17,
         "conflict": 0,
         "sentiment": 1
       },
@@ -95,7 +95,7 @@
         },
         {
           "name": "Scarecrow",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Hope and Eagerness",
             "quote": "If Oz will not give you any brains you will be no worse off than you are now.",
@@ -112,7 +112,7 @@
       "firstLine": "So she oiled it, and as it was quite badly rusted the Scarecrow took hold of the tin head and moved it gently from side to side until it worked freely, and then the man could turn it himself.",
       "lastLine": "This adventure made the travelers more anxious than ever to get out of the forest, and they walked so fast that Dorothy became tired, and had to ride on the Lion's back.",
       "ratings": {
-        "importance": 1,
+        "importance": 16,
         "conflict": 0,
         "sentiment": 1
       },
@@ -128,7 +128,7 @@
         },
         {
           "name": "Scarecrow",
-          "importance": 0.5,
+          "importance": 3,
           "sentiment": {
             "emotion": "Helpfulness",
             "quote": "the Scarecrow took hold of the tin head",
@@ -137,7 +137,7 @@
         },
         {
           "name": "Tin Woodman",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Gratefulness",
             "quote": "Thank you very much,",
@@ -154,7 +154,7 @@
       "firstLine": "They were walking through the forest when suddenly they heard a terrible roar, and the next moment a great Lion bounded into the road.",
       "lastLine": "But Dorothy, knowing her to be a witch, had expected her to disappear in just that way, and was not surprised in the least.",
       "ratings": {
-        "importance": 1,
+        "importance": 15,
         "conflict": 1,
         "sentiment": -0.5
       },
@@ -170,7 +170,7 @@
         },
         {
           "name": "Cowardly Lion",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Fear and Shame",
             "quote": "I've always known it. But how can I help it?",
@@ -179,7 +179,7 @@
         },
         {
           "name": "Scarecrow",
-          "importance": 0.5,
+          "importance": 3,
           "sentiment": {
             "emotion": "Concern",
             "quote": "This is a great comfort.",
@@ -188,7 +188,7 @@
         },
         {
           "name": "Tin Woodman",
-          "importance": 0.5,
+          "importance": 4,
           "sentiment": {
             "emotion": "Sympathy",
             "quote": "she only nodded and went on eating her bread.",
@@ -205,7 +205,7 @@
       "firstLine": "Once, indeed, the Tin Woodman stepped upon a beetle that was crawling along the road, and killed the poor little thing.",
       "lastLine": "And now the Scarecrow and the Tin Woodman carried the sleeping girl to a comfortable place in the forest and laid her gently down to rest.",
       "ratings": {
-        "importance": 1,
+        "importance": 14,
         "conflict": 1,
         "sentiment": -1
       },
@@ -221,7 +221,7 @@
         },
         {
           "name": "Cowardly Lion",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Lethargy",
             "quote": "But before they could cover his eyes he had fallen fast asleep.",
@@ -230,7 +230,7 @@
         },
         {
           "name": "Scarecrow",
-          "importance": 0.5,
+          "importance": 3,
           "sentiment": {
             "emotion": "Worry",
             "quote": "We cannot leave her here in the power of the Wicked Witch.",
@@ -239,7 +239,7 @@
         },
         {
           "name": "Tin Woodman",
-          "importance": 0.5,
+          "importance": 4,
           "sentiment": {
             "emotion": "Determination",
             "quote": "I will carry Dorothy myself.",
@@ -256,7 +256,7 @@
       "firstLine": "The Scarecrow and the Tin Woodman stood up in another corner and waited patiently until morning came.",
       "lastLine": "She ate a hearty breakfast, and watched a wee Munchkin baby, who played with Toto and pulled his tail and crowed and laughed in a way that greatly amused Dorothy.",
       "ratings": {
-        "importance": 1,
+        "importance": 13,
         "conflict": 0.5,
         "sentiment": 1
       },
@@ -272,7 +272,7 @@
         },
         {
           "name": "Tin Woodman",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Relief",
             "quote": "It was a good idea to ask the field mice for help.",
@@ -281,7 +281,7 @@
         },
         {
           "name": "Cowardly Lion",
-          "importance": 0.5,
+          "importance": 3,
           "sentiment": {
             "emotion": "Unconsciousness",
             "quote": "And now the Scarecrow and the Tin Woodman carried the sleeping girl to a comfortable place in the forest and laid her gently down to rest.",
@@ -298,7 +298,7 @@
       "firstLine": "So once more the little company set off upon the journey, the Lion walking with stately strides at Dorothy's side.",
       "lastLine": "So the Tin Woodman shouldered his axe and they all passed through the forest until they came to the road that was paved with yellow brick.",
       "ratings": {
-        "importance": 1,
+        "importance": 12,
         "conflict": 0,
         "sentiment": 1
       },
@@ -314,7 +314,7 @@
         },
         {
           "name": "Scarecrow",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Optimism",
             "quote": "The Emerald City is at the other end of the road.",
@@ -323,7 +323,7 @@
         },
         {
           "name": "Tin Woodman",
-          "importance": 1,
+          "importance": 3,
           "sentiment": {
             "emotion": "Determination",
             "quote": "So the Tin Woodman took his axe and began to chop down small trees to make a raft.",
@@ -332,7 +332,7 @@
         },
         {
           "name": "Cowardly Lion",
-          "importance": 1,
+          "importance": 4,
           "sentiment": {
             "emotion": "Courage",
             "quote": "I would carry you all over the river, one by one.",
@@ -349,7 +349,7 @@
       "firstLine": "They found the forest very thick on this side, and it looked dark and gloomy.",
       "lastLine": "Every one looked with wonder upon the strange and beautiful sights.",
       "ratings": {
-        "importance": 1,
+        "importance": 11,
         "conflict": 0,
         "sentiment": 1
       },
@@ -365,7 +365,7 @@
         },
         {
           "name": "Scarecrow",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Curiosity",
             "quote": "So she took hold of his arm and managed to get along fairly well.",
@@ -374,7 +374,7 @@
         },
         {
           "name": "Tin Woodman",
-          "importance": 1,
+          "importance": 3,
           "sentiment": {
             "emotion": "Hope",
             "quote": "This will serve me a lesson,",
@@ -383,7 +383,7 @@
         },
         {
           "name": "Cowardly Lion",
-          "importance": 1,
+          "importance": 4,
           "sentiment": {
             "emotion": "Nervousness",
             "quote": "But the Lion went away into the forest and found his own supper,",
@@ -400,7 +400,7 @@
       "firstLine": "She was awakened by a shock, so sudden and severe that if Dorothy had not been lying on the soft bed she might have been hurt.",
       "lastLine": "I am Oz, the Great and Terrible,",
       "ratings": {
-        "importance": 1,
+        "importance": 10,
         "conflict": 1,
         "sentiment": -1
       },
@@ -416,7 +416,7 @@
         },
         {
           "name": "Scarecrow",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Anxiety",
             "quote": "If you will please take away the pole I shall be greatly obliged to you.",
@@ -425,7 +425,7 @@
         },
         {
           "name": "Tin Woodman",
-          "importance": 1,
+          "importance": 3,
           "sentiment": {
             "emotion": "Apprehension",
             "quote": "My life has been so short that I really know nothing whatever.",
@@ -434,7 +434,7 @@
         },
         {
           "name": "Cowardly Lion",
-          "importance": 1,
+          "importance": 4,
           "sentiment": {
             "emotion": "Terror",
             "quote": "I shall now be able to proceed to the Emerald City.",
@@ -443,7 +443,7 @@
         },
         {
           "name": "The Wizard",
-          "importance": 1,
+          "importance": 5,
           "sentiment": {
             "emotion": "Mysterious and Powerful",
             "quote": "I am Oz, the Great and Terrible. Who are you, and why do you seek me?",
@@ -460,7 +460,7 @@
       "firstLine": "So the Tin Woodman shouldered his axe and they all passed through the forest until they came to the road that was paved with yellow brick.",
       "lastLine": "They were all greatly pleased to see how easily he did it, and after the Scarecrow had got down from his back the Lion sprang across the ditch again.",
       "ratings": {
-        "importance": 1,
+        "importance": 9,
         "conflict": 1,
         "sentiment": -0.5
       },
@@ -476,7 +476,7 @@
         },
         {
           "name": "Scarecrow",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Concern",
             "quote": "It is a long journey, through a country that is sometimes pleasant and sometimes dark and terrible.",
@@ -485,7 +485,7 @@
         },
         {
           "name": "Tin Woodman",
-          "importance": 1,
+          "importance": 3,
           "sentiment": {
             "emotion": "Determination",
             "quote": "Whenever I've met a man I've been awfully scared; but I just roared at him,",
@@ -494,7 +494,7 @@
         },
         {
           "name": "Cowardly Lion",
-          "importance": 1,
+          "importance": 4,
           "sentiment": {
             "emotion": "Reluctance",
             "quote": "Then, if you don't mind, I'll go with you.",
@@ -511,7 +511,7 @@
       "firstLine": "You see, I am stuffed, so I have no brains at all, he answered sadly.",
       "lastLine": "Toto did not approve of this new comrade at first, for he could not forget how nearly he had been crushed between the Lion's great jaws.",
       "ratings": {
-        "importance": 1,
+        "importance": 8,
         "conflict": 1,
         "sentiment": 0.5
       },
@@ -527,7 +527,7 @@
         },
         {
           "name": "Scarecrow",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Supportiveness",
             "quote": "It never hurt him, however, and Dorothy would pick him up and set him upon his feet again,",
@@ -536,7 +536,7 @@
         },
         {
           "name": "Tin Woodman",
-          "importance": 1,
+          "importance": 3,
           "sentiment": {
             "emotion": "Courage",
             "quote": "This adventure made the travelers more anxious than ever to get out of the forest,",
@@ -545,7 +545,7 @@
         },
         {
           "name": "Cowardly Lion",
-          "importance": 1,
+          "importance": 4,
           "sentiment": {
             "emotion": "Fear turned to Courage",
             "quote": "But stand close behind me, and I will fight them as long as I am alive.",
@@ -554,7 +554,7 @@
         },
         {
           "name": "Wicked Witch of the West",
-          "importance": 1,
+          "importance": 5,
           "sentiment": {
             "emotion": "Malevolence and Defeat",
             "quote": "The Wicked Witch had only one eye, but it was as powerful as a telescope, and could see everywhere.",
@@ -571,7 +571,7 @@
       "firstLine": "So the Tin Woodman shouldered his axe and they all passed through the forest until they came to the road that was paved with yellow brick.",
       "lastLine": "And now the Scarecrow and the Tin Woodman carried the sleeping girl to a comfortable place in the forest and laid her gently down to rest.",
       "ratings": {
-        "importance": 1,
+        "importance": 7,
         "conflict": 0.5,
         "sentiment": 0.5
       },
@@ -587,7 +587,7 @@
         },
         {
           "name": "Scarecrow",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Optimism",
             "quote": "It never hurt him, however, and Dorothy would pick him up and set him upon his feet again,",
@@ -596,7 +596,7 @@
         },
         {
           "name": "Tin Woodman",
-          "importance": 1,
+          "importance": 3,
           "sentiment": {
             "emotion": "Hopefulness",
             "quote": "This adventure made the travelers more anxious than ever to get out of the forest,",
@@ -605,7 +605,7 @@
         },
         {
           "name": "Cowardly Lion",
-          "importance": 1,
+          "importance": 4,
           "sentiment": {
             "emotion": "Courage",
             "quote": "But stand close behind me, and I will fight them as long as I am alive.",
@@ -622,7 +622,7 @@
       "firstLine": "I am Oz, the Great and Terrible,",
       "lastLine": "I shall now be able to proceed to the Emerald City.",
       "ratings": {
-        "importance": 1,
+        "importance": 6,
         "conflict": 1,
         "sentiment": -0.5
       },
@@ -638,7 +638,7 @@
         },
         {
           "name": "Scarecrow",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Skepticism",
             "quote": "Do you not see? He is a humbug!",
@@ -647,7 +647,7 @@
         },
         {
           "name": "Tin Woodman",
-          "importance": 1,
+          "importance": 3,
           "sentiment": {
             "emotion": "Disillusionment",
             "quote": "I might have stood there always if you had not come along.",
@@ -656,7 +656,7 @@
         },
         {
           "name": "Cowardly Lion",
-          "importance": 1,
+          "importance": 4,
           "sentiment": {
             "emotion": "Anger and Disappointment",
             "quote": "Then, if you don't mind, I'll go with you.",
@@ -665,7 +665,7 @@
         },
         {
           "name": "The Wizard",
-          "importance": 1,
+          "importance": 5,
           "sentiment": {
             "emotion": "Regret and Admission",
             "quote": "I am really a very good man, but I am a very bad Wizard, I must admit.",
@@ -682,7 +682,7 @@
       "firstLine": "But the Scarecrow said, 'We cannot fly, that is certain. Neither can we climb down into this great ditch.'",
       "lastLine": "'I cannot tell,' she returned, 'but you may come with me, if you like. If Oz will not give you any brains you will be no worse off than you are now.'",
       "ratings": {
-        "importance": 1,
+        "importance": 20,
         "conflict": 0,
         "sentiment": 1
       },
@@ -706,7 +706,7 @@
       "firstLine": "'If you please, I will tell you where to find her,' replied the man. 'She is in the poppy field.'",
       "lastLine": "'Whenever I should feel it beating,' answered the Tin Woodman.",
       "ratings": {
-        "importance": 1,
+        "importance": 21,
         "conflict": 0,
         "sentiment": 1
       },
@@ -730,7 +730,7 @@
       "firstLine": "The Cowardly Lion was always looking for the courage that he was promised by Oz.",
       "lastLine": "'How do you feel?' asked Dorothy. 'Full of courage,' replied the Lion, who had not understood the joke, but was ready to believe anything that made him feel better.",
       "ratings": {
-        "importance": 1,
+        "importance": 22,
         "conflict": 0,
         "sentiment": 1
       },
@@ -754,7 +754,7 @@
       "firstLine": "“Sit down, my dear; I think I have found the way to get you out of this country.”",
       "lastLine": "“Well, I'll tell you what I think,” said the little man. “You see, when I came to this country it was in a balloon. You also came through the air, being carried by a cyclone. So I believe the best way to get across the desert will be through the air.”",
       "ratings": {
-        "importance": 1,
+        "importance": 5,
         "conflict": 1,
         "sentiment": -1
       },
@@ -770,7 +770,7 @@
         },
         {
           "name": "The Wizard",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Apologetic and Helpless",
             "quote": "“Well, I'll tell you what I think,” said the little man. “You see, when I came to this country it was in a balloon. You also came through the air, being carried by a cyclone. So I believe the best way to get across the desert will be through the air.”",
@@ -787,7 +787,7 @@
       "firstLine": "“Come, Dorothy!” cried the Wizard. “Hurry up, or the balloon will fly away.”",
       "lastLine": "“Good-bye!” shouted everyone, and all eyes were turned upward to where the Wizard was riding in the basket, rising every moment farther and farther into the sky.",
       "ratings": {
-        "importance": 1,
+        "importance": 4,
         "conflict": 1,
         "sentiment": -0.5
       },
@@ -811,7 +811,7 @@
       "firstLine": "Dorothy wept bitterly at the passing of her hope to get home to Kansas again; but when she thought it all over she was glad she had not gone up in a balloon.",
       "lastLine": "The road is straight to the South, he answered, but it is said to be full of dangers to travelers.",
       "ratings": {
-        "importance": 1,
+        "importance": 3,
         "conflict": 0.5,
         "sentiment": 0.5
       },
@@ -835,7 +835,7 @@
       "firstLine": "“Bless your dear heart,” she said, “I am sure I can tell you of a way to get back to Kansas.”",
       "lastLine": "“Take me home to Aunt Em!”",
       "ratings": {
-        "importance": 1,
+        "importance": 2,
         "conflict": 0,
         "sentiment": 1
       },
@@ -851,7 +851,7 @@
         },
         {
           "name": "Glinda the Good Witch",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Kindness and Helpfulness",
             "quote": "“Your Silver Shoes will carry you over the desert,” replied Glinda.",
@@ -892,7 +892,7 @@
       "firstLine": "The Silver Shoes took but three steps, and then she stopped so suddenly that she rolled over upon the grass several times before she knew where she was.",
       "lastLine": "“From the Land of Oz,” said Dorothy gravely. “And here is Toto, too. And oh, Aunt Em! I'm so glad to be at home again!”",
       "ratings": {
-        "importance": 1,
+        "importance": 23,
         "conflict": 0,
         "sentiment": 1
       },

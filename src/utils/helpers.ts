@@ -24,10 +24,10 @@ export const normalizeMarkerSize = (value: number) =>
   normalize(value, 0, character_height, 2, 14);
 
 export const normalizeFontSize = (value: number) =>
-  normalize(value, 0, 1, 0.7, 1.4);
+  normalize(value, 0, 1, 0.6, 1.4);
 
 export const normalizeTextOffset = (value: number) =>
-  normalize(value, 0, 1, 1.2, 2.2);
+  normalize(value, 0, 1, 1, 2.2);
 
 export const getFontFamily = (value: number) =>
   // value ranges from 0 to 1

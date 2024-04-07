@@ -10,7 +10,7 @@
       "name": "Nick's Reflections and Advice from His Father",
       "summary": "Nick Carraway contemplates the life lessons imparted by his father, setting the tone for his reflective and nonjudgmental narrative perspective.",
       "ratings": {
-        "importance": 0.3,
+        "importance": 21,
         "conflict": 0.25,
         "sentiment": 0.3
       },
@@ -32,7 +32,7 @@
       "name": "Nick's Arrival in West Egg",
       "summary": "Nick moves to West Egg, expressing optimism yet feeling a sense of isolation in his new surroundings.",
       "ratings": {
-        "importance": 0.2,
+        "importance": 18,
         "conflict": 0.4,
         "sentiment": 0.1
       },
@@ -54,7 +54,7 @@
       "name": "Dinner at the Buchanans",
       "summary": "An awkward dinner at the Buchanans' introduces Nick to Daisy's superficial happiness and Tom's domineering arrogance, foreshadowing conflicts to come.",
       "ratings": {
-        "importance": 0.5,
+        "importance": 8,
         "conflict": 0.7,
         "sentiment": 0.2
       },
@@ -62,7 +62,7 @@
       "characters": [
         {
           "name": "Nick",
-          "importance": 0.8,
+          "importance": 3,
           "sentiment": {
             "emotion": "Out of place",
             "quote": "I was a guide, a pathfinder, an original settler.",
@@ -71,7 +71,7 @@
         },
         {
           "name": "Daisy",
-          "importance": 0.9,
+          "importance": 1,
           "sentiment": {
             "emotion": "Superficially cheerful",
             "quote": "I'm p-paralysed with happiness.",
@@ -80,7 +80,7 @@
         },
         {
           "name": "Tom Buchanan",
-          "importance": 0.9,
+          "importance": 2,
           "sentiment": {
             "emotion": "Dominant and arrogant",
             "quote": "Two shining arrogant eyes had established dominance over his face.",
@@ -89,7 +89,7 @@
         },
         {
           "name": "Jordan Baker",
-          "importance": 0.7,
+          "importance": 4,
           "sentiment": {
             "emotion": "Bored and indifferent",
             "quote": "Absolutely! I haven't heard a word.",
@@ -103,7 +103,7 @@
       "name": "The Revelation of Tom's Affair",
       "summary": "A tense moment reveals Tom Buchanan's affair, illustrating the underlying conflicts and the moral ambiguity of the characters involved.",
       "ratings": {
-        "importance": 0.6,
+        "importance": 7,
         "conflict": 0.85,
         "sentiment": -0.6
       },
@@ -111,7 +111,7 @@
       "characters": [
         {
           "name": "Tom Buchanan",
-          "importance": 0.9,
+          "importance": 1,
           "sentiment": {
             "emotion": "Defensive",
             "quote": "What you doing, Nick?",
@@ -120,7 +120,7 @@
         },
         {
           "name": "Daisy",
-          "importance": 0.8,
+          "importance": 2,
           "sentiment": {
             "emotion": "Annoyed and upset",
             "quote": "You did it, Tom, she said accusingly. I know you didn't mean to, but you did do it.",
@@ -129,7 +129,7 @@
         },
         {
           "name": "Nick",
-          "importance": 0.7,
+          "importance": 3,
           "sentiment": {
             "emotion": "Uncomfortable and observant",
             "quote": "I couldn't guess what Daisy and Tom were thinking, but I doubt if even Miss Baker, who seemed to have mastered a certain hardy scepticism, was able utterly to put this fifth guest's shrill metallic urgency out of mind.",
@@ -143,7 +143,7 @@
       "name": "Encounter with Myrtle Wilson",
       "summary": "Tom Buchanan displays his dominance and possessiveness during an encounter with his mistress, Myrtle Wilson, in the Valley of Ashes.",
       "ratings": {
-        "importance": 0.4,
+        "importance": 16,
         "conflict": 0.65,
         "sentiment": 0.2
       },
@@ -160,7 +160,7 @@
         },
         {
           "name": "Myrtle Wilson",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Eager and ambitious",
             "quote": "I want to get one of those dogs, she said earnestly.",
@@ -169,7 +169,7 @@
         },
         {
           "name": "George Wilson",
-          "importance": 0.8,
+          "importance": 3,
           "sentiment": {
             "emotion": "Hopeful yet resigned",
             "quote": "I can't complain, answered Wilson unconvincingly.",
@@ -183,7 +183,7 @@
       "name": "The Party in the Apartment",
       "summary": "A chaotic party in Myrtle's New York apartment ends violently, highlighting the destructive nature of Tom and Myrtle's relationship.",
       "ratings": {
-        "importance": 0.7,
+        "importance": 5,
         "conflict": 0.9,
         "sentiment": -0.7
       },
@@ -191,7 +191,7 @@
       "characters": [
         {
           "name": "Nick",
-          "importance": 0.7,
+          "importance": 3,
           "sentiment": {
             "emotion": "Bewildered and intoxicated",
             "quote": "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.",
@@ -200,7 +200,7 @@
         },
         {
           "name": "Myrtle Wilson",
-          "importance": 0.9,
+          "importance": 1,
           "sentiment": {
             "emotion": "Transformed and haughty",
             "quote": "With the influence of the dress her personality had also undergone a change.",
@@ -209,7 +209,7 @@
         },
         {
           "name": "Tom Buchanan",
-          "importance": 0.8,
+          "importance": 2,
           "sentiment": {
             "emotion": "Aggressive and authoritative",
             "quote": "Daisy! Daisy! Daisy! shouted Mrs. Wilson. I'll say it whenever I want to! Daisy! Dai— Making a short deft movement, Tom Buchanan broke her nose with his open hand.",
@@ -223,7 +223,7 @@
       "name": "Gatsby's Lavish Party",
       "summary": "Nick attends one of Gatsby's extravagant parties, capturing the opulence and enigmatic aura of his neighbor's lifestyle.",
       "ratings": {
-        "importance": 0.8,
+        "importance": 4,
         "conflict": 0.45,
         "sentiment": 0.6
       },
@@ -231,7 +231,7 @@
       "characters": [
         {
           "name": "Gatsby",
-          "importance": 0.7,
+          "importance": 1,
           "sentiment": {
             "emotion": "Enigmatic and hospitable",
             "quote": "The honour would be entirely Gatsby's, it said, if I would attend his 'little party' that night.",
@@ -240,7 +240,7 @@
         },
         {
           "name": "Nick",
-          "importance": 0.6,
+          "importance": 3,
           "sentiment": {
             "emotion": "Curious and observant",
             "quote": "I was one of the few guests who had actually been invited.",
@@ -249,7 +249,7 @@
         },
         {
           "name": "Daisy",
-          "importance": 0.8,
+          "importance": 2,
           "sentiment": {
             "emotion": "Superficial fascination combined with a deeper discontent",
             "quote": "I've never met so many celebrities. I liked that man—what was his name?—with the sort of blue nose.",
@@ -258,7 +258,7 @@
         },
         {
           "name": "Jordan Baker",
-          "importance": 0.5,
+          "importance": 4,
           "sentiment": {
             "emotion": "Amused and social",
             "quote": "Hello! I roared, advancing toward her. My voice seemed unnaturally loud across the garden.",
@@ -272,7 +272,7 @@
       "name": "Rumors About Gatsby",
       "summary": "Gatsby's party guests speculate wildly about their host's mysterious past, demonstrating the rampant gossip and intrigue surrounding Gatsby.",
       "ratings": {
-        "importance": 0.5,
+        "importance": 10,
         "conflict": 0.65,
         "sentiment": 0.4
       },
@@ -280,7 +280,7 @@
       "characters": [
         {
           "name": "Party Guests",
-          "importance": 0.6,
+          "importance": 1,
           "sentiment": {
             "emotion": "Intrigued and speculative",
             "quote": "'Somebody told me they thought he killed a man once.'",
@@ -289,7 +289,7 @@
         },
         {
           "name": "Nick",
-          "importance": 0.5,
+          "importance": 2,
           "sentiment": {
             "emotion": "Skeptical and curious",
             "quote": "I hadn't heard it and I doubted if there was any foundation for it.",
@@ -303,7 +303,7 @@
       "name": "Nick's Encounter with Gatsby",
       "summary": "Nick meets Gatsby, finding him to be gracious and charming, yet surrounded by an air of mystery.",
       "ratings": {
-        "importance": 0.7,
+        "importance": 9,
         "conflict": 0.4,
         "sentiment": 0.8
       },
@@ -320,7 +320,7 @@
         },
         {
           "name": "Nick",
-          "importance": 0.7,
+          "importance": 2,
           "sentiment": {
             "emotion": "Impressed and intrigued",
             "quote": "It was one of those rare smiles with a quality of eternal reassurance in it.",
@@ -329,7 +329,7 @@
         },
         {
           "name": "Jordan Baker",
-          "importance": 0.6,
+          "importance": 3,
           "sentiment": {
             "emotion": "Intrigued and secretive",
             "quote": "I've just heard the most amazing thing... and here I am tantalizing you.",
@@ -343,7 +343,7 @@
       "name": "After the Party",
       "summary": "Gatsby shares moments of pride and aloofness with Nick after the party, revealing his complex character.",
       "ratings": {
-        "importance": 0.4,
+        "importance": 17,
         "conflict": 0.5,
         "sentiment": 0.2
       },
@@ -351,7 +351,7 @@
       "characters": [
         {
           "name": "Gatsby",
-          "importance": 0.8,
+          "importance": 1,
           "sentiment": {
             "emotion": "Proud and slightly aloof",
             "quote": "He was looking at an elegant young rough-neck, a year or two over thirty.",
@@ -360,7 +360,7 @@
         },
         {
           "name": "Nick",
-          "importance": 0.6,
+          "importance": 2,
           "sentiment": {
             "emotion": "Reflective and a bit bewildered",
             "quote": "Somehow it seemed a great deal of effort to begin an intrusion into Gatsby's life.",
@@ -374,7 +374,7 @@
       "name": "A Drive with Gatsby",
       "summary": "Gatsby attempts to impress Nick with his luxurious car and hints at his affluent but mysterious lifestyle during a drive together.",
       "ratings": {
-        "importance": 0.6,
+        "importance": 14,
         "conflict": 0.6,
         "sentiment": 0.7
       },
@@ -391,7 +391,7 @@
         },
         {
           "name": "Nick",
-          "importance": 0.7,
+          "importance": 2,
           "sentiment": {
             "emotion": "Impressed and Curious",
             "quote": "He saw me looking with admiration at his car.",
@@ -405,7 +405,7 @@
       "name": "Lunch in New York",
       "summary": "Gatsby introduces Nick to his enigmatic world during a lunch in New York, filled with hints of mystery and intrigue.",
       "ratings": {
-        "importance": 0.5,
+        "importance": 15,
         "conflict": 0.55,
         "sentiment": 0.5
       },
@@ -422,7 +422,7 @@
         },
         {
           "name": "Nick",
-          "importance": 0.7,
+          "importance": 2,
           "sentiment": {
             "emotion": "Intrigued and a bit Bewildered",
             "quote": "'I thought we'd be here at the restaurant.'",
@@ -436,7 +436,7 @@
       "name": "Revelation of Gatsby's Past",
       "summary": "Gatsby's attempts to legitimize his past to Nick in his mansion, amidst doubts and curiosities.",
       "ratings": {
-        "importance": 0.6,
+        "importance": 11,
         "conflict": 0.75,
         "sentiment": 0.4
       },
@@ -444,7 +444,7 @@
       "characters": [
         {
           "name": "Gatsby",
-          "importance": 0.8,
+          "importance": 1,
           "sentiment": {
             "emotion": "Defensive and Proud",
             "quote": "'Look here, this is a bona fide piece of printed matter.'",
@@ -453,7 +453,7 @@
         },
         {
           "name": "Owl Eyes",
-          "importance": 0.6,
+          "importance": 2,
           "sentiment": {
             "emotion": "Surprised and Amused",
             "quote": "'This fella's a regular Belasco. It's a triumph. What thoroughness! What realism!'",
@@ -462,7 +462,7 @@
         },
         {
           "name": "Nick",
-          "importance": 0.7,
+          "importance": 3,
           "sentiment": {
             "emotion": "Amazed and Skeptical",
             "quote": "I was amazed to find that I had no idea at all.",
@@ -476,7 +476,7 @@
       "name": "The Party Continues",
       "summary": "The lively atmosphere at Gatsby's party continues, with Gatsby playing the gracious host amidst his quest for Daisy's affection.",
       "ratings": {
-        "importance": 0.7,
+        "importance": 12,
         "conflict": 0.6,
         "sentiment": 0.6
       },
@@ -484,7 +484,7 @@
       "characters": [
         {
           "name": "Gatsby",
-          "importance": 0.7,
+          "importance": 1,
           "sentiment": {
             "emotion": "Attentive and Gracious Host",
             "quote": "Gatsby, his hands still in his pockets, was reclining against the mantelpiece in a strained counterfeit of perfect ease, even of boredom.",
@@ -493,7 +493,7 @@
         },
         {
           "name": "Party Guests",
-          "importance": 0.6,
+          "importance": 2,
           "sentiment": {
             "emotion": "Enthralled and Cheerful",
             "quote": "Voices were singing and the sound of a vast tambourine shuttered through the air.",
@@ -502,7 +502,7 @@
         },
         {
           "name": "Nick",
-          "importance": 0.5,
+          "importance": 3,
           "sentiment": {
             "emotion": "Captivated yet Detached",
             "quote": "I found myself on Gatsby's side, and alone.",
@@ -516,7 +516,7 @@
       "name": "Aftermath of the Party",
       "summary": "In the quiet aftermath of the party, Gatsby's solitary reflection reveals his deep-seated loneliness and unfulfilled desires.",
       "ratings": {
-        "importance": 0.7,
+        "importance": 13,
         "conflict": 0.55,
         "sentiment": 0.5
       },
@@ -524,7 +524,7 @@
       "characters": [
         {
           "name": "Gatsby",
-          "importance": 0.9,
+          "importance": 1,
           "sentiment": {
             "emotion": "Reflective and Somewhat Lonely",
             "quote": "Gatsby was standing alone on the marble steps, looking over the party's remnants.",
@@ -533,7 +533,7 @@
         },
         {
           "name": "Nick",
-          "importance": 0.8,
+          "importance": 2,
           "sentiment": {
             "emotion": "Contemplative and Concerned",
             "quote": "I couldn't help but wonder what Gatsby was thinking as he stood there alone.",
@@ -547,7 +547,7 @@
       "name": "Gatsby Opens Up to Nick",
       "summary": "During a drive, Gatsby confides in Nick, revealing more about his past and vulnerabilities in a bid for understanding.",
       "ratings": {
-        "importance": 0.8,
+        "importance": 6,
         "conflict": 0.7,
         "sentiment": 0.6
       },
@@ -564,7 +564,7 @@
         },
         {
           "name": "Nick",
-          "importance": 0.9,
+          "importance": 2,
           "sentiment": {
             "emotion": "Sympathetic and Intrigued",
             "quote": "His story was unlike anything I'd expected, and I found myself drawn in, wanting to understand more.",
@@ -595,7 +595,7 @@
         },
         {
           "name": "Tom Buchanan",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Defensive and Aggressive",
             "quote": "Tom's face reddened with anger as he denied Gatsby's accusations and attacked his character.",
@@ -604,7 +604,7 @@
         },
         {
           "name": "Daisy",
-          "importance": 1,
+          "importance": 3,
           "sentiment": {
             "emotion": "Torn and Distressed",
             "quote": "She looked from Tom to Gatsby, and then back at Tom again, her expression filled with distress and indecision.",
@@ -613,7 +613,7 @@
         },
         {
           "name": "Nick",
-          "importance": 0.8,
+          "importance": 4,
           "sentiment": {
             "emotion": "Uncomfortable and Concerned",
             "quote": "I felt caught in the middle of a deeply personal conflict, unsure of my place or how to alleviate the tension.",
@@ -627,7 +627,7 @@
       "name": "The Tragic Climax",
       "summary": "A fatal accident in the Valley of Ashes sets off a chain of events that culminate in tragedy, underscoring the novel's themes of loss and consequence.",
       "ratings": {
-        "importance": 0.9,
+        "importance": 2,
         "conflict": 0.95,
         "sentiment": -1
       },
@@ -644,7 +644,7 @@
         },
         {
           "name": "Nick",
-          "importance": 0.7,
+          "importance": 3,
           "sentiment": {
             "emotion": "Horrified and Sympathetic",
             "quote": "The gravity of the situation was overwhelming, leaving me feeling helpless and deeply saddened.",
@@ -653,7 +653,7 @@
         },
         {
           "name": "Gatsby",
-          "importance": 0.9,
+          "importance": 2,
           "sentiment": {
             "emotion": "Guilty and Protective",
             "quote": "Despite not being his fault, Gatsby's concern was for Daisy's involvement and the potential consequences for her.",
@@ -667,7 +667,7 @@
       "name": "The Aftermath and Gatsby's Resolve",
       "summary": "Gatsby's tragic end in his pool reflects the ultimate failure of his dreams and the hollowness of his pursuit of Daisy.",
       "ratings": {
-        "importance": 0.8,
+        "importance": 3,
         "conflict": 0.65,
         "sentiment": -0.7
       },
@@ -675,7 +675,7 @@
       "characters": [
         {
           "name": "Nick",
-          "importance": 0.9,
+          "importance": 1,
           "sentiment": {
             "emotion": "Grief-stricken and Reflective",
             "quote": "Seeing Gatsby's lifeless body, I couldn't help but reflect on the hollowness of his pursuit and the price he paid.",
@@ -684,7 +684,7 @@
         },
         {
           "name": "Gatsby",
-          "importance": 0.8,
+          "importance": 2,
           "sentiment": {
             "emotion": "Hopeful to the End",
             "quote": "Even to the end, Gatsby believed in the green light, the orgastic future that year by year recedes before us.",
@@ -698,7 +698,7 @@
       "name": "Nick's Lament and Farewell to Gatsby",
       "summary": "Gatsby's poorly attended funeral leads Nick to lament the ephemeral nature of Gatsby's life and relationships.",
       "ratings": {
-        "importance": 0.5,
+        "importance": 19,
         "conflict": 0.25,
         "sentiment": -0.6
       },
@@ -715,7 +715,7 @@
         },
         {
           "name": "Owl Eyes",
-          "importance": 0.6,
+          "importance": 2,
           "sentiment": {
             "emotion": "Surprised and Somber",
             "quote": "'The poor son-of-a-bitch,' he muttered. There was genuine sorrow in his voice, a rare moment of humanity in the midst of widespread indifference.",
@@ -724,7 +724,7 @@
         },
         {
           "name": "Jordan Baker",
-          "importance": 0.4,
+          "importance": 3,
           "sentiment": {
             "emotion": "Disappointed and aloof",
             "quote": "I thought you were rather an honest, straightforward person. I thought it was your secret pride.",
@@ -738,7 +738,7 @@
       "name": "Nick's Reflection and Departure",
       "summary": "Disillusioned with the East, Nick decides to return to the Midwest, reflecting on the lessons learned from his experiences.",
       "ratings": {
-        "importance": 0.4,
+        "importance": 20,
         "conflict": 0.3,
         "sentiment": -0.5
       },

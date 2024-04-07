@@ -1,6 +1,6 @@
 // adapted from https://codepen.io/francoisromain/pen/dzoZZj
 
-import { character_offset, location_buffer } from "./consts";
+import { character_offset, location_buffer, scene_base } from "./consts";
 
 // The smoothing ratio
 // const smoothing = 0.4;
@@ -72,7 +72,12 @@ const controlPoint = (
         ) {
           // console.log("1.1: here");
           // console.log(prev_adjustment, adjustment, next_adjustment);
-          const factor = next && current[1] - next[1] < location_buffer ? 1 : 2;
+          const factor =
+            next && current[1] - next[1] < location_buffer
+              ? next[0] - current[0] < 1.2 * scene_base
+                ? 0.25
+                : 1
+              : 2;
           x += factor * adjustment * character_offset;
         }
       } else if (
@@ -101,12 +106,37 @@ const controlPoint = (
       ) {
         // console.log("here", prev_adjustment, adjustment, next_adjustment);
         x -= 0.75 * adjustment * character_offset;
+      } else if (
+        reverse &&
+        adjustment === 1 &&
+        adjustment === prev_adjustment * -1 &&
+        prev_adjustment === next_adjustment &&
+        previous &&
+        previous[1] - current[1] > location_buffer
+      ) {
+        // console.log("here 2a", prev_adjustment, adjustment, next_adjustment);
+        x -= 0.5 * adjustment * character_offset;
       }
     } else if (adjustment < 0) {
       // moving up
-      if (reverse && previous && current[1] - previous[1] > location_buffer) {
-        x += adjustment * 2 * character_offset;
+      if (previous && current[1] - previous[1] > location_buffer) {
+        if (
+          next_adjustment === undefined &&
+          prev_adjustment !== 0 &&
+          current[1] - previous[1] < 2 * location_buffer
+        ) {
+          // console.log("2: here");
+          // console.log(prev_adjustment, adjustment, next_adjustment);
+          x += adjustment * character_offset;
+        } else {
+          // console.log("2b: here");
+          // console.log(prev_adjustment, adjustment, next_adjustment);
+          x += 2 * adjustment * character_offset;
+        }
       } else if (previous && previous[1] - current[1] > location_buffer) {
+        // console.log("3: here");
+        // console.log(prev_adjustment, adjustment, next_adjustment);
+
         x += (adjustment + 1) * 0.5 * character_offset;
       } else if (
         !reverse &&
@@ -114,6 +144,9 @@ const controlPoint = (
         next &&
         next[1] - current[1] < location_buffer
       ) {
+        // console.log("4: here");
+        // console.log(prev_adjustment, adjustment, next_adjustment);
+
         x -= adjustment * 0.5 * character_offset;
       }
 
@@ -126,7 +159,32 @@ const controlPoint = (
         next[1] - current[1] > location_buffer
       ) {
         // console.log("here 2", prev_adjustment, adjustment, next_adjustment);
-        x -= 0.75 * adjustment * character_offset;
+        x -= 0.5 * adjustment * character_offset;
+      } else if (prev_adjustment === 0 && next_adjustment === adjustment * -1) {
+        // console.log("here 3", prev_adjustment, adjustment, next_adjustment);
+        if (!reverse) {
+          // console.log("here 3.1", prev_adjustment, adjustment, next_adjustment);
+          if (next && next[1] - current[1] > location_buffer) {
+            // console.log(
+            //   "here 3.1.1",
+            //   prev_adjustment,
+            //   adjustment,
+            //   next_adjustment
+            // );
+            x += 0.1 * adjustment * character_offset;
+          } else if (adjustment == -1) {
+            // console.log(
+            //   "here 3.1.2",
+            //   prev_adjustment,
+            //   adjustment,
+            //   next_adjustment
+            // );
+            x -= adjustment * character_offset;
+          }
+        } else {
+          // console.log("here 3.2", prev_adjustment, adjustment, next_adjustment);
+          x += 0.25 * adjustment * character_offset;
+        }
       }
     } else {
       // adjustment === 0 (big gap)
@@ -138,6 +196,7 @@ const controlPoint = (
           // console.log("1: here adj=0");
           // console.log(prev_adjustment, adjustment, next_adjustment);
           x += 0.5 * adjustment * character_offset;
+
           if (prev_adjustment === 0 && next_adjustment > 0) {
             // console.log("1.5: here");
             // console.log(prev_adjustment, adjustment, next_adjustment);

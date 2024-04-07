@@ -13,7 +13,7 @@
       "firstLine": "Oh I come from a land, from a faraway place where the caravan camels roam.",
       "lastLine": "Perhaps you would like to hear the tale?",
       "ratings": {
-        "importance": 1,
+        "importance": 21,
         "conflict": 0,
         "sentiment": 1
       },
@@ -37,7 +37,7 @@
       "firstLine": "You...are late.",
       "lastLine": "Seek thee out the diamond in the rough.",
       "ratings": {
-        "importance": 1,
+        "importance": 16,
         "conflict": 1,
         "sentiment": -1
       },
@@ -53,7 +53,7 @@
         },
         {
           "name": "Iago",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Sarcastic and loyal",
             "quote": "Oh there's a big surprise!",
@@ -62,7 +62,7 @@
         },
         {
           "name": "Cave of Wonders",
-          "importance": 1,
+          "importance": 3,
           "sentiment": {
             "emotion": "Ominous and selective",
             "quote": "Who disturbs my slumber?",
@@ -79,7 +79,7 @@
       "firstLine": "Stop thief! I'll have your hands for a trophy street rat!",
       "lastLine": "All I gotta do is jump!",
       "ratings": {
-        "importance": 0.7,
+        "importance": 20,
         "conflict": 1,
         "sentiment": 0.5
       },
@@ -95,7 +95,7 @@
         },
         {
           "name": "Abu",
-          "importance": 0.8,
+          "importance": 2,
           "sentiment": {
             "emotion": "Supportive and mischievous",
             "quote": "Hello!",
@@ -112,7 +112,7 @@
       "firstLine": "Pretty lady buy a pot. No finer pot in brass or silver.",
       "lastLine": "No no please!",
       "ratings": {
-        "importance": 1,
+        "importance": 18,
         "conflict": 1,
         "sentiment": -0.5
       },
@@ -128,7 +128,7 @@
         },
         {
           "name": "Aladdin",
-          "importance": 0.5,
+          "importance": 2,
           "sentiment": {
             "emotion": "Enamored and protective",
             "quote": "Wow!",
@@ -145,7 +145,7 @@
       "firstLine": "Thank you kind sir. I'm so glad you've found her.",
       "lastLine": "Then jump!",
       "ratings": {
-        "importance": 1,
+        "importance": 19,
         "conflict": 1,
         "sentiment": 0.5
       },
@@ -161,7 +161,7 @@
         },
         {
           "name": "Jasmine",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Surprised and grateful",
             "quote": "What are you doing?",
@@ -178,7 +178,7 @@
       "firstLine": "Jafar, this is an outrage.",
       "lastLine": "Kersplat!",
       "ratings": {
-        "importance": 1,
+        "importance": 17,
         "conflict": 1,
         "sentiment": -1
       },
@@ -194,7 +194,7 @@
         },
         {
           "name": "Iago",
-          "importance": 0.8,
+          "importance": 2,
           "sentiment": {
             "emotion": "Scheming and supportive",
             "quote": "Jafar? What if you were the chump husband?",
@@ -203,7 +203,7 @@
         },
         {
           "name": "Sultan",
-          "importance": 0.5,
+          "importance": 3,
           "sentiment": {
             "emotion": "Oblivious and well-meaning",
             "quote": "Jasmine, Jafar now let's put this whole messy business behind us.",
@@ -212,7 +212,7 @@
         },
         {
           "name": "Jasmine",
-          "importance": 0.7,
+          "importance": 4,
           "sentiment": {
             "emotion": "Defiant and assertive",
             "quote": "When I am queen, I will have the power to get rid of you.",
@@ -229,14 +229,14 @@
       "firstLine": "Ah almost. There are a few provisos, a couple of quid pro quos.",
       "lastLine": "You ain't never had a friend like me!",
       "ratings": {
-        "importance": 1,
+        "importance": 4,
         "conflict": 0.5,
         "sentiment": 1
       },
       "characters": [
         {
           "name": "Aladdin",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Astonished and curious",
             "quote": "You're gonna grant me any three wishes I want?",
@@ -254,7 +254,7 @@
         },
         {
           "name": "Abu",
-          "importance": 0.5,
+          "importance": 3,
           "sentiment": {
             "emotion": "Bewildered and cautious",
             "quote": "Oh oh. Aladdin? Wake up. Aladdin.",
@@ -271,7 +271,7 @@
       "firstLine": "Excuse me? Are you lookin' at me? Did you rub my lamp?",
       "lastLine": "Weeee'rrrrrreee...outta here!",
       "ratings": {
-        "importance": 1,
+        "importance": 10,
         "conflict": 0.5,
         "sentiment": 0.5
       },
@@ -287,7 +287,7 @@
         },
         {
           "name": "Genie",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Defensive and playful",
             "quote": "You're gettin' your wishes so siddown!",
@@ -304,7 +304,7 @@
       "firstLine": "Now that I'm out of the cave, I can show Jasmine I'm worth something.",
       "lastLine": "I'll need Genie's help to make me a prince.",
       "ratings": {
-        "importance": 1,
+        "importance": 13,
         "conflict": 0.3,
         "sentiment": 0.5
       },
@@ -320,7 +320,7 @@
         },
         {
           "name": "Genie",
-          "importance": 0.5,
+          "importance": 2,
           "sentiment": {
             "emotion": "Supportive and intrigued",
             "quote": "You really gonna try to win the princess's heart?",
@@ -337,7 +337,7 @@
       "firstLine": "There's a lot we're gonna have to change.",
       "lastLine": "Prince Ali! Fabulous he! Ali Ababwa!",
       "ratings": {
-        "importance": 1,
+        "importance": 7,
         "conflict": 0,
         "sentiment": 1
       },
@@ -353,7 +353,7 @@
         },
         {
           "name": "Genie",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Creative and supportive",
             "quote": "You're gonna be fabulous.",
@@ -370,7 +370,7 @@
       "firstLine": "Make way for Prince Ali!",
       "lastLine": "I hope Jasmine is watching.",
       "ratings": {
-        "importance": 1,
+        "importance": 11,
         "conflict": 0.2,
         "sentiment": 1
       },
@@ -386,7 +386,7 @@
         },
         {
           "name": "Jasmine",
-          "importance": 0.5,
+          "importance": 2,
           "sentiment": {
             "emotion": "Curious and skeptical",
             "quote": "Another suitor for the princess.",
@@ -403,7 +403,7 @@
       "firstLine": "I am not a prize to be won!",
       "lastLine": "You're all the same, shallow and self-absorbed.",
       "ratings": {
-        "importance": 1,
+        "importance": 12,
         "conflict": 1,
         "sentiment": -1
       },
@@ -419,7 +419,7 @@
         },
         {
           "name": "Aladdin",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Disheartened and persistent",
             "quote": "Please, Princess, give me a chance.",
@@ -436,7 +436,7 @@
       "firstLine": "She'll never like me as I really am.",
       "lastLine": "I need to keep up the act if I'm going to impress her.",
       "ratings": {
-        "importance": 1,
+        "importance": 14,
         "conflict": 1,
         "sentiment": -0.5
       },
@@ -452,7 +452,7 @@
         },
         {
           "name": "Genie",
-          "importance": 0.5,
+          "importance": 2,
           "sentiment": {
             "emotion": "Concerned and advising",
             "quote": "You just gotta be yourself.",
@@ -469,7 +469,7 @@
       "firstLine": "Do you trust me?",
       "lastLine": "It's a whole new world.",
       "ratings": {
-        "importance": 1,
+        "importance": 8,
         "conflict": 0.3,
         "sentiment": 1
       },
@@ -485,7 +485,7 @@
         },
         {
           "name": "Jasmine",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Surprised and delighted",
             "quote": "I've never seen anything like it!",
@@ -502,7 +502,7 @@
       "firstLine": "That street rat was actually a diamond in the rough.",
       "lastLine": "The lamp will be mine.",
       "ratings": {
-        "importance": 1,
+        "importance": 9,
         "conflict": 1,
         "sentiment": -1
       },
@@ -518,7 +518,7 @@
         },
         {
           "name": "Iago",
-          "importance": 0.5,
+          "importance": 2,
           "sentiment": {
             "emotion": "Conspiring and eager",
             "quote": "Let's snatch it and make you sultan.",
@@ -535,7 +535,7 @@
       "firstLine": "I'll take that, my boy.",
       "lastLine": "I am now the most powerful being on Earth.",
       "ratings": {
-        "importance": 1,
+        "importance": 2,
         "conflict": 1,
         "sentiment": -1
       },
@@ -551,7 +551,7 @@
         },
         {
           "name": "Aladdin",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Defeated and desperate",
             "quote": "He's got the lamp.",
@@ -568,7 +568,7 @@
       "firstLine": "I wish to be sultan of Agrabah!",
       "lastLine": "And now, to get rid of you.",
       "ratings": {
-        "importance": 1,
+        "importance": 6,
         "conflict": 1,
         "sentiment": -1
       },
@@ -584,7 +584,7 @@
         },
         {
           "name": "Jasmine",
-          "importance": 0.5,
+          "importance": 2,
           "sentiment": {
             "emotion": "Anguished and resistant",
             "quote": "You're a monster, Jafar.",
@@ -593,7 +593,7 @@
         },
         {
           "name": "Sultan",
-          "importance": 0.5,
+          "importance": 3,
           "sentiment": {
             "emotion": "Subdued and powerless",
             "quote": "Jafar, what have you done?",
@@ -610,7 +610,7 @@
       "firstLine": "I can't let Jafar destroy Agrabah.",
       "lastLine": "It's time to show Jafar who I really am.",
       "ratings": {
-        "importance": 1,
+        "importance": 5,
         "conflict": 1,
         "sentiment": 0.5
       },
@@ -626,7 +626,7 @@
         },
         {
           "name": "Jasmine",
-          "importance": 0.5,
+          "importance": 2,
           "sentiment": {
             "emotion": "Hopeful and supportive",
             "quote": "Aladdin, you've come back.",
@@ -659,7 +659,7 @@
         },
         {
           "name": "Jafar",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Greedy and overconfident",
             "quote": "I wish to be the most powerful genie!",
@@ -668,7 +668,7 @@
         },
         {
           "name": "Genie",
-          "importance": 0.8,
+          "importance": 3,
           "sentiment": {
             "emotion": "Relieved and supportive",
             "quote": "Your wish is my command.",
@@ -685,7 +685,7 @@
       "firstLine": "I wish for your freedom, Genie.",
       "lastLine": "You are free.",
       "ratings": {
-        "importance": 1,
+        "importance": 3,
         "conflict": 0,
         "sentiment": 1
       },
@@ -701,7 +701,7 @@
         },
         {
           "name": "Genie",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Joyful and liberated",
             "quote": "You really mean that, Al?",
@@ -718,7 +718,7 @@
       "firstLine": "So, what are you going to do next?",
       "lastLine": "A whole new world, with new horizons to pursue.",
       "ratings": {
-        "importance": 1,
+        "importance": 15,
         "conflict": 0,
         "sentiment": 1
       },
@@ -734,7 +734,7 @@
         },
         {
           "name": "Jasmine",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Happy and in love",
             "quote": "We'll be free to live our own lives.",
@@ -743,7 +743,7 @@
         },
         {
           "name": "Genie",
-          "importance": 0.5,
+          "importance": 3,
           "sentiment": {
             "emotion": "Excited and supportive",
             "quote": "I'm off to see the world!",

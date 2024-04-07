@@ -13,7 +13,7 @@
       "firstLine": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do.",
       "lastLine": "In another moment down went Alice after it, never once considering how in the world she was to get out again.",
       "ratings": {
-        "importance": 1,
+        "importance": 7,
         "conflict": 0.5,
         "sentiment": 0
       },
@@ -29,7 +29,7 @@
         },
         {
           "name": "White Rabbit",
-          "importance": 0.8,
+          "importance": 2,
           "sentiment": {
             "emotion": "Rushed and worried",
             "quote": "Oh dear! Oh dear! I shall be late!",
@@ -46,7 +46,7 @@
       "firstLine": "The rabbit-hole went straight on like a tunnel for some way, and then dipped suddenly down.",
       "lastLine": "I wish I hadn't cried so much!",
       "ratings": {
-        "importance": 1,
+        "importance": 8,
         "conflict": 0.8,
         "sentiment": -0.5
       },
@@ -70,7 +70,7 @@
       "firstLine": "The first question was, how to get dry again.",
       "lastLine": "'I shall do nothing of the sort,' said the Mouse, getting up and walking away.",
       "ratings": {
-        "importance": 0.8,
+        "importance": 10,
         "conflict": 0.4,
         "sentiment": 0.1
       },
@@ -86,7 +86,7 @@
         },
         {
           "name": "Mouse",
-          "importance": 0.8,
+          "importance": 2,
           "sentiment": {
             "emotion": "Annoyed and offended",
             "quote": "'I shall do nothing of the sort,' said the Mouse, getting up and walking away.",
@@ -95,7 +95,7 @@
         },
         {
           "name": "Dodo",
-          "importance": 0.5,
+          "importance": 3,
           "sentiment": {
             "emotion": "Inventive and authoritative",
             "quote": "'The best thing to get us dry would be a Caucus-race.'",
@@ -112,7 +112,7 @@
       "firstLine": "It was the White Rabbit, trotting slowly back again, and looking anxiously about as it went, as if it had lost something.",
       "lastLine": "'And yet what a dear little puppy it was!' said Alice.",
       "ratings": {
-        "importance": 1,
+        "importance": 4,
         "conflict": 1,
         "sentiment": -0.5
       },
@@ -128,7 +128,7 @@
         },
         {
           "name": "White Rabbit",
-          "importance": 0.8,
+          "importance": 2,
           "sentiment": {
             "emotion": "Distressed and hurried",
             "quote": "'Oh my ears and whiskers, how late it's getting!'",
@@ -145,7 +145,7 @@
       "firstLine": "The Caterpillar and Alice looked at each other for some time in silence.",
       "lastLine": "'One side will make you grow taller, and the other side will make you grow shorter.'",
       "ratings": {
-        "importance": 1,
+        "importance": 9,
         "conflict": 0.3,
         "sentiment": -0.1
       },
@@ -161,7 +161,7 @@
         },
         {
           "name": "Caterpillar",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Indifferent and wise",
             "quote": "'Keep your temper,' said the Caterpillar.",
@@ -178,7 +178,7 @@
       "firstLine": "For a minute or two she stood looking at the house, and wondering what to do next.",
       "lastLine": "'If it had grown up,' she said to herself, 'it would have made a dreadfully ugly child: but it makes rather a handsome pig, I think.'",
       "ratings": {
-        "importance": 0.8,
+        "importance": 5,
         "conflict": 1,
         "sentiment": -0.8
       },
@@ -194,7 +194,7 @@
         },
         {
           "name": "Duchess",
-          "importance": 0.7,
+          "importance": 2,
           "sentiment": {
             "emotion": "Rude and careless",
             "quote": "The Duchess was sitting on a three-legged stool in the middle, nursing a baby; the cook was leaning over the fire, stirring a large cauldron which seemed to be full of soup.",
@@ -203,7 +203,7 @@
         },
         {
           "name": "Cheshire Cat",
-          "importance": 0.6,
+          "importance": 3,
           "sentiment": {
             "emotion": "Amused and cryptic",
             "quote": "'It's a Cheshire cat,' said the Duchess, 'and that's why. Pig!'",
@@ -212,7 +212,7 @@
         },
         {
           "name": "Baby",
-          "importance": 0.5,
+          "importance": 4,
           "sentiment": {
             "emotion": "Transformative and surprised",
             "quote": "and the baby was howling so much already, that it was quite impossible to say whether the blows hurt it or not.",
@@ -229,7 +229,7 @@
       "firstLine": "There was a table set out under a tree in front of the house, and the March Hare and the Hatter were having tea at it.",
       "lastLine": "'At any rate I'll never go _there_ again!' said Alice as she picked her way through the wood.",
       "ratings": {
-        "importance": 1,
+        "importance": 6,
         "conflict": 0.7,
         "sentiment": -0.4
       },
@@ -245,7 +245,7 @@
         },
         {
           "name": "Mad Hatter",
-          "importance": 0.9,
+          "importance": 2,
           "sentiment": {
             "emotion": "Eccentric and nonsensical",
             "quote": "'Why is a raven like a writing-desk?'",
@@ -254,7 +254,7 @@
         },
         {
           "name": "March Hare",
-          "importance": 0.8,
+          "importance": 3,
           "sentiment": {
             "emotion": "Rude and absurd",
             "quote": "'Have some wine,' the March Hare said in an encouraging tone.",
@@ -263,7 +263,7 @@
         },
         {
           "name": "Dormouse",
-          "importance": 0.5,
+          "importance": 4,
           "sentiment": {
             "emotion": "Sleepy and confused",
             "quote": "'I wasn't asleep,' he said in a hoarse, feeble voice: 'I heard every word you fellows were saying.'",
@@ -280,7 +280,7 @@
       "firstLine": "The Queen! The Queen!",
       "lastLine": "'Who are _you_?' said the Caterpillar.",
       "ratings": {
-        "importance": 1,
+        "importance": 3,
         "conflict": 1,
         "sentiment": -1
       },
@@ -296,7 +296,7 @@
         },
         {
           "name": "Queen of Hearts",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Angry and authoritative",
             "quote": "'Off with his head!'",
@@ -305,7 +305,7 @@
         },
         {
           "name": "King of Hearts",
-          "importance": 0.6,
+          "importance": 3,
           "sentiment": {
             "emotion": "Timid and conciliatory",
             "quote": "'Consider, my dear: she is only a child!'",
@@ -322,7 +322,7 @@
       "firstLine": "'Come on, then,' said the Queen, 'and he shall tell you his history,'",
       "lastLine": "'That's the reason they're called lessons,' the Gryphon remarked: 'because they lessen from day to day.'",
       "ratings": {
-        "importance": 0.7,
+        "importance": 11,
         "conflict": 0.2,
         "sentiment": -0.3
       },
@@ -338,7 +338,7 @@
         },
         {
           "name": "Mock Turtle",
-          "importance": 0.9,
+          "importance": 2,
           "sentiment": {
             "emotion": "Melancholic and nostalgic",
             "quote": "'When we were little,' the Mock Turtle went on at last, more calmly, though still sobbing a little now and then, 'we went to school in the sea.'",
@@ -347,7 +347,7 @@
         },
         {
           "name": "Gryphon",
-          "importance": 0.8,
+          "importance": 3,
           "sentiment": {
             "emotion": "Amused and mocking",
             "quote": "'That's the reason they're called lessons,' the Gryphon remarked: 'because they lessen from day to day.'",
@@ -364,7 +364,7 @@
       "firstLine": "The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes.",
       "lastLine": "'Thank you, it's a very interesting dance to watch,' said Alice, feeling very glad that it was over at last.",
       "ratings": {
-        "importance": 0.5,
+        "importance": 12,
         "conflict": 0.1,
         "sentiment": 0.4
       },
@@ -380,7 +380,7 @@
         },
         {
           "name": "Mock Turtle",
-          "importance": 0.8,
+          "importance": 2,
           "sentiment": {
             "emotion": "Proud and nostalgic",
             "quote": "'You may not have lived much under the sea—' ('I haven't,' said Alice)—'and perhaps you were never even introduced to a lobster—' (Alice began to say 'I once tasted—' but checked herself hastily).",
@@ -389,7 +389,7 @@
         },
         {
           "name": "Gryphon",
-          "importance": 0.8,
+          "importance": 3,
           "sentiment": {
             "emotion": "Energetic and encouraging",
             "quote": "'Will you, won't you, will you, won't you, will you join the dance?'",
@@ -406,7 +406,7 @@
       "firstLine": "The King and Queen of Hearts were seated on their throne when they arrived, with a great crowd assembled about them.",
       "lastLine": "'Call the first witness,' said the King; and the White Rabbit blew three blasts on the trumpet.",
       "ratings": {
-        "importance": 1,
+        "importance": 2,
         "conflict": 1,
         "sentiment": -0.5
       },
@@ -422,7 +422,7 @@
         },
         {
           "name": "Queen of Hearts",
-          "importance": 0.9,
+          "importance": 2,
           "sentiment": {
             "emotion": "Irate and accusatory",
             "quote": "'Silence!' screamed the Queen. 'Off with his head! Off—'",
@@ -431,7 +431,7 @@
         },
         {
           "name": "King of Hearts",
-          "importance": 0.7,
+          "importance": 3,
           "sentiment": {
             "emotion": "Bumbling and formal",
             "quote": "'—and just take his head off outside,' the Queen added to one of the officers: but the White Rabbit interrupted, 'Unimportant, your Majesty means, of course,' he said in a very respectful tone, but frowning and making faces at him as he spoke.'",
@@ -440,7 +440,7 @@
         },
         {
           "name": "Knave of Hearts",
-          "importance": 0.8,
+          "importance": 4,
           "sentiment": {
             "emotion": "Nervous and falsely accused",
             "quote": "The Knave shook his head sadly. 'Do I look like it?' he said. (Which he certainly did NOT, being made entirely of cardboard.)",
@@ -473,7 +473,7 @@
         },
         {
           "name": "Queen of Hearts",
-          "importance": 0.9,
+          "importance": 2,
           "sentiment": {
             "emotion": "Angry and authoritarian",
             "quote": "'Silence!' screamed the Queen.",
@@ -482,7 +482,7 @@
         },
         {
           "name": "King of Hearts",
-          "importance": 0.5,
+          "importance": 3,
           "sentiment": {
             "emotion": "Attempting to maintain order",
             "quote": "'Consider your verdict,' the King said to the jury.",
@@ -491,7 +491,7 @@
         },
         {
           "name": "Jury",
-          "importance": 0.6,
+          "importance": 4,
           "sentiment": {
             "emotion": "Confused and pressured",
             "quote": "The jury all wrote down on their slates, 'She doesn't believe there's an atom of meaning in it.'",

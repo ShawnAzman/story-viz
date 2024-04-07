@@ -95,7 +95,29 @@ export interface RatingDict {
 }
 
 /* DATA */
-const scene_data = (all_data: any): Scene[] => all_data["scenes"];
+const scene_data = (all_data: any): Scene[] => {
+  const data = all_data["scenes"];
+
+  // replace importance rating for each scene in scene_data with 1 / rating
+  data.forEach((scene: Scene) => {
+    if (scene.ratings.importance > 1) {
+      scene.ratings.importance =
+        (data.length + 1 - scene.ratings.importance) / data.length;
+    }
+
+    scene.characters.forEach((character: Character) => {
+      // replace importance rating for each character in scene.characters with 1 / rating
+      if (character.importance > 1) {
+        character.importance =
+          (scene.characters.length + 1 - character.importance) /
+          scene.characters.length;
+      }
+    });
+  });
+
+  return data;
+};
+
 const location_data = (all_data: any): LocationData[] => all_data["locations"];
 const character_data = (all_data: any): CharacterData[] =>
   all_data["characters"];

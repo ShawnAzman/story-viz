@@ -71,6 +71,7 @@ function XAxis() {
                   : sizeBy === "conflict"
                   ? normalizeTextOffset(ratings.conflict)
                   : normalizeTextOffset(ratings.importance);
+
               const fontSize =
                 sizeBy === "default"
                   ? 0.8
@@ -79,6 +80,7 @@ function XAxis() {
                     (ratings.conflict >= 0.66 ? 0.2 : 0)
                   : normalizeFontSize(ratings.importance) +
                     (ratings.conflict >= 0.66 ? 0.2 : 0);
+
               const color =
                 colorBy === "default"
                   ? "black"
@@ -88,12 +90,22 @@ function XAxis() {
                   ? conflictColor(ratings.conflict)
                   : importanceColor(ratings.importance);
 
+              const weight =
+                weightBy === "importance"
+                  ? getFontWeight(ratings.importance)
+                  : weightBy === "conflict"
+                  ? getFontWeight(ratings.conflict)
+                  : 500;
+
               const letterSpacing =
                 ratings.conflict >= 0.66
-                  ? ratings.conflict > 0.88
+                  ? fontSize > 1.2 && weight > 600
+                    ? 4.5
+                    : fontSize > 1 && weight > 400
                     ? 3
                     : 1.5
                   : 0;
+
               return (
                 scenePos[i] && (
                   <text
@@ -105,13 +117,7 @@ function XAxis() {
                     className="scene-name-text"
                     fontSize={"calc(" + fontSize + "rem + 0.1vw)"}
                     letterSpacing={letterSpacing}
-                    fontWeight={
-                      weightBy === "importance"
-                        ? getFontWeight(ratings.importance)
-                        : weightBy === "conflict"
-                        ? getFontWeight(ratings.conflict)
-                        : "500"
-                    }
+                    fontWeight={weight}
                     fontFamily={getFontFamily(ratings.conflict)}
                     transform={
                       "rotate(-45," +

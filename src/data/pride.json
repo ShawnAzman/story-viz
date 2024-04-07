@@ -13,7 +13,7 @@
       "firstLine": "'My dear Mr. Bennet,' said his lady to him one day, 'have you heard that Netherfield Park is let at last?'",
       "lastLine": "'You want to tell me, and I have no objection to hearing it.'",
       "ratings": {
-        "importance": 1,
+        "importance": 15,
         "conflict": 0,
         "sentiment": 0.5
       },
@@ -29,7 +29,7 @@
         },
         {
           "name": "Mr. Bennet",
-          "importance": 0.5,
+          "importance": 2,
           "sentiment": {
             "emotion": "Indifferent and Teasing",
             "quote": "'You want to tell me, and I have no objection to hearing it.'",
@@ -46,14 +46,14 @@
       "firstLine": "The Meryton assembly was always productive of the most interesting intelligence.",
       "lastLine": "'Which do you mean?' and turning round he looked for a moment at Elizabeth, till catching her eye, he withdrew his own and coldly said: 'She is tolerable, but not handsome enough to tempt me.'",
       "ratings": {
-        "importance": 1,
+        "importance": 8,
         "conflict": 1,
         "sentiment": -0.5
       },
       "characters": [
         {
           "name": "Jane Bennet",
-          "importance": 1,
+          "importance": 3,
           "sentiment": {
             "emotion": "Pleased and Grateful",
             "quote": "'He is just what a young man ought to be,'",
@@ -71,7 +71,7 @@
         },
         {
           "name": "Mr. Bingley",
-          "importance": 1,
+          "importance": 4,
           "sentiment": {
             "emotion": "Charmed and Enthusiastic",
             "quote": "'Oh! She is the most beautiful creature I ever beheld!'",
@@ -80,7 +80,7 @@
         },
         {
           "name": "Mr. Darcy",
-          "importance": 0.8,
+          "importance": 2,
           "sentiment": {
             "emotion": "Disinterested and Proud",
             "quote": "'She is tolerable, but not handsome enough to tempt me.'",
@@ -97,7 +97,7 @@
       "firstLine": "'My dear, you must indeed go and see Mr. Bingley when he comes into the neighbourhood.'",
       "lastLine": "'...and bring back a supply of clothes.'",
       "ratings": {
-        "importance": 1,
+        "importance": 12,
         "conflict": 0.5,
         "sentiment": -0.5
       },
@@ -113,7 +113,7 @@
         },
         {
           "name": "Elizabeth Bennet",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Concerned and Determined",
             "quote": "'Elizabeth was glad to be taken to her immediately;'",
@@ -122,7 +122,7 @@
         },
         {
           "name": "Mr. Bingley",
-          "importance": 0.8,
+          "importance": 3,
           "sentiment": {
             "emotion": "Worried and Hospitable",
             "quote": "'Bingley urged Mr. Jones's being sent for immediately;'",
@@ -139,7 +139,7 @@
       "firstLine": "'Miss Eliza Bennet,' said Miss Bingley, 'despises cards. She is a great reader and has no pleasure in anything else.'",
       "lastLine": "'He immediately offered to fetch her others; all that his library afforded.'",
       "ratings": {
-        "importance": 1,
+        "importance": 11,
         "conflict": 1,
         "sentiment": -0.2
       },
@@ -155,7 +155,7 @@
         },
         {
           "name": "Mr. Darcy",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Intrigued and Challenged",
             "quote": "'Mr. Darcy replied with great intrepidity,'",
@@ -164,7 +164,7 @@
         },
         {
           "name": "Miss Bingley",
-          "importance": 0.8,
+          "importance": 3,
           "sentiment": {
             "emotion": "Jealous and Disparaging",
             "quote": "'She has nothing, in short, to recommend her, but being an excellent walker.'",
@@ -181,7 +181,7 @@
       "firstLine": "'My reasons for marrying are, first...'",
       "lastLine": "'...and I am convinced that my chance of happiness with him is as fair as most people can boast on entering the marriage state.'",
       "ratings": {
-        "importance": 1,
+        "importance": 10,
         "conflict": 1,
         "sentiment": -0.7
       },
@@ -197,7 +197,7 @@
         },
         {
           "name": "Mr. Collins",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Pompous and Presumptuous",
             "quote": "'My reasons for marrying are, first...'",
@@ -214,7 +214,7 @@
       "firstLine": "The Netherfield ball was, at last, to be a reality.",
       "lastLine": "'Mr. Darcy, you must allow me to present this young lady to you as a very desirable partner.'",
       "ratings": {
-        "importance": 1,
+        "importance": 4,
         "conflict": 1,
         "sentiment": -0.5
       },
@@ -230,7 +230,7 @@
         },
         {
           "name": "Mr. Darcy",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Conflicted and Attracted",
             "quote": "'In vain I have struggled. It will not do. My feelings will not be repressed. You must allow me to tell you how ardently I admire and love you.'",
@@ -239,7 +239,7 @@
         },
         {
           "name": "Mrs. Bennet",
-          "importance": 0.5,
+          "importance": 3,
           "sentiment": {
             "emotion": "Proud and Unaware",
             "quote": "'Oh! my dear Mr. Bennet,' she cried, 'we have had a most delightful evening, a most excellent ball. I wish you had been there.'",
@@ -256,7 +256,7 @@
       "firstLine": "'In vain I have struggled. It will not do. My feelings will not be repressed.'",
       "lastLine": "'You have said quite enough, madam. I perfectly comprehend your feelings, and have now only to be ashamed of what my own have been.'",
       "ratings": {
-        "importance": 1,
+        "importance": 3,
         "conflict": 1,
         "sentiment": -1
       },
@@ -272,7 +272,7 @@
         },
         {
           "name": "Mr. Darcy",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Surprised and Humiliated",
             "quote": "'You have said quite enough, madam. I perfectly comprehend your feelings.'",
@@ -289,7 +289,7 @@
       "firstLine": "Elizabeth, with a slight bow, turned again into the plantation, and was soon out of sight.",
       "lastLine": "'I have no reason, therefore, to be dissatisfied with my view of the present state of our affairs.'",
       "ratings": {
-        "importance": 1,
+        "importance": 7,
         "conflict": 0.5,
         "sentiment": 0
       },
@@ -305,7 +305,7 @@
         },
         {
           "name": "Mr. Darcy",
-          "importance": 0.5,
+          "importance": 2,
           "sentiment": {
             "emotion": "Anxious and Hopeful",
             "quote": "'I write without any intention of paining you, or humbling myself, by dwelling on wishes which, for the happiness of both, cannot be too soon forgotten.'",
@@ -322,7 +322,7 @@
       "firstLine": "'Lydia left a note for Colonel Forster, to be delivered to me in case of his absence,'",
       "lastLine": "'We shall be off in half an hour.'",
       "ratings": {
-        "importance": 1,
+        "importance": 2,
         "conflict": 1,
         "sentiment": -1
       },
@@ -338,7 +338,7 @@
         },
         {
           "name": "Lydia Bennet",
-          "importance": 0.8,
+          "importance": 2,
           "sentiment": {
             "emotion": "Reckless and Unaware",
             "quote": "'Lydia declared herself satisfied.'",
@@ -347,7 +347,7 @@
         },
         {
           "name": "Mr. Wickham",
-          "importance": 0.8,
+          "importance": 3,
           "sentiment": {
             "emotion": "Deceptive and Calculating",
             "quote": "'Wickham will never marry a woman without some money.'",
@@ -364,7 +364,7 @@
       "firstLine": "'I have just received your letter, and shall devote this whole morning to answering it,'",
       "lastLine": "'I am, dear sir, etc., etc.'",
       "ratings": {
-        "importance": 1,
+        "importance": 5,
         "conflict": 0,
         "sentiment": 0.5
       },
@@ -380,7 +380,7 @@
         },
         {
           "name": "Mr. Darcy",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Generous and Reserved",
             "quote": "'Mr. Darcy was writing, and Miss Bingley, seated near him, was watching the progress of his letter.'",
@@ -397,7 +397,7 @@
       "firstLine": "'They gradually ascended for half a mile, and then found themselves at the top of a considerable eminence,'",
       "lastLine": "'And at that moment, she felt that to be mistress of Pemberley might be something!'",
       "ratings": {
-        "importance": 0.8,
+        "importance": 9,
         "conflict": 0,
         "sentiment": 1
       },
@@ -413,7 +413,7 @@
         },
         {
           "name": "Mr. Darcy",
-          "importance": 0,
+          "importance": 2,
           "sentiment": {
             "emotion": "Absent but Influential",
             "quote": "'Elizabeth was delighted. He had never been so kind, so very kind, as he was on this occasion.'",
@@ -446,7 +446,7 @@
         },
         {
           "name": "Mr. Darcy",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Hopeful and Affectionate",
             "quote": "'My affections and wishes are unchanged, but one word from you will silence me on this subject forever.'",
@@ -463,7 +463,7 @@
       "firstLine": "'Miss Bennet, I insist on being satisfied. Has he, has my nephew, made you an offer of marriage?'",
       "lastLine": "'I am not to be intimidated into anything so wholly unreasonable.'",
       "ratings": {
-        "importance": 1,
+        "importance": 6,
         "conflict": 1,
         "sentiment": -1
       },
@@ -479,7 +479,7 @@
         },
         {
           "name": "Lady Catherine",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Outraged and Imperious",
             "quote": "'Are the shades of Pemberley to be thus polluted?'",
@@ -496,7 +496,7 @@
       "firstLine": "'My dear, dear Lizzy, I would - I do congratulate you - but are you certain? Forgive the question - are you quite certain that you can be happy with him?'",
       "lastLine": "'And so, all was settled, and Elizabeth, with the lively, playful disposition which delighted in anything ridiculous, was ready to embrace her future with Mr. Darcy.'",
       "ratings": {
-        "importance": 1,
+        "importance": 13,
         "conflict": 0.2,
         "sentiment": 1
       },
@@ -512,7 +512,7 @@
         },
         {
           "name": "Mr. Darcy",
-          "importance": 0.8,
+          "importance": 2,
           "sentiment": {
             "emotion": "Content and Accepted",
             "quote": "'I thank you, sir, for your warm acceptance of me.'",
@@ -521,7 +521,7 @@
         },
         {
           "name": "Mr. Bennet",
-          "importance": 1,
+          "importance": 3,
           "sentiment": {
             "emotion": "Surprised and Reflective",
             "quote": "'If this be the case, he deserves you. I could not have parted with you, my Lizzy, to anyone less worthy.'",
@@ -538,7 +538,7 @@
       "firstLine": "Elizabeth, as they drove along, watched for the first appearance of Pemberley Woods with some perturbation;",
       "lastLine": "With the Gardiners, they were always on the most intimate terms.",
       "ratings": {
-        "importance": 0.8,
+        "importance": 14,
         "conflict": 0,
         "sentiment": 1
       },
@@ -554,7 +554,7 @@
         },
         {
           "name": "Mr. Darcy",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Gratified and Affectionate",
             "quote": "Darcy was delighted with their engagement; his affection for Elizabeth most forcibly struck him.",

@@ -13,7 +13,7 @@
       "firstLine": "Gregory, on my word, we'll not carry coals.",
       "lastLine": "If ever you disturb our streets again, Your lives shall pay the forfeit of the peace.",
       "ratings": {
-        "importance": 1,
+        "importance": 9,
         "conflict": 1,
         "sentiment": -1
       },
@@ -29,7 +29,7 @@
         },
         {
           "name": "Tybalt",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Aggressive and Hostile",
             "quote": "What, drawn, and talk of peace? I hate the word, As I hate hell, all Montagues, and thee.",
@@ -46,7 +46,7 @@
       "firstLine": "Welcome, gentlemen! Ladies that have their toes Unplagu'd with corns will have a bout with you.",
       "lastLine": "My only love sprung from my only hate! Too early seen unknown, and known too late!",
       "ratings": {
-        "importance": 1,
+        "importance": 8,
         "conflict": 0.5,
         "sentiment": 1
       },
@@ -62,7 +62,7 @@
         },
         {
           "name": "Juliet",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Intrigued and Smitten",
             "quote": "My only love sprung from my only hate! Too early seen unknown, and known too late!",
@@ -79,7 +79,7 @@
       "firstLine": "But, soft! what light through yonder window breaks? It is the east, and Juliet is the sun.",
       "lastLine": "Sleep dwell upon thine eyes, peace in thy breast! Would I were sleep and peace, so sweet to rest!",
       "ratings": {
-        "importance": 1,
+        "importance": 12,
         "conflict": 0,
         "sentiment": 1
       },
@@ -95,7 +95,7 @@
         },
         {
           "name": "Juliet",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Determined and Loving",
             "quote": "And all my fortunes at thy foot I'll lay And follow thee my lord throughout the world.",
@@ -112,7 +112,7 @@
       "firstLine": "The grey-ey'd morn smiles on the frowning night, Check'ring the Eastern clouds with streaks of light;",
       "lastLine": "Wisely and slow. They stumble that run fast.",
       "ratings": {
-        "importance": 1,
+        "importance": 14,
         "conflict": 0,
         "sentiment": 0.5
       },
@@ -128,7 +128,7 @@
         },
         {
           "name": "Friar Laurence",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Concerned yet Hopeful",
             "quote": "In one respect I'll thy assistant be; For this alliance may so happy prove, To turn your households' rancour to pure love.",
@@ -145,7 +145,7 @@
       "firstLine": "But I can give thee more; For I will raise her statue in pure gold,",
       "lastLine": "For never was a story of more woe Than this of Juliet and her Romeo.",
       "ratings": {
-        "importance": 1,
+        "importance": 13,
         "conflict": 1,
         "sentiment": -1
       },
@@ -161,7 +161,7 @@
         },
         {
           "name": "Benvolio",
-          "importance": 0.5,
+          "importance": 2,
           "sentiment": {
             "emotion": "Worried",
             "quote": "Tybalt, the kinsman to old Capulet, Hath sent a letter to his father's house.",
@@ -178,7 +178,7 @@
       "firstLine": "So smile the heavens upon this holy act, That after-hours with sorrow chide us not!",
       "lastLine": "These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.",
       "ratings": {
-        "importance": 1,
+        "importance": 5,
         "conflict": 0,
         "sentiment": 1
       },
@@ -194,7 +194,7 @@
         },
         {
           "name": "Juliet",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Blissful and Loving",
             "quote": "Conceit, more rich in matter than in words, Brags of his substance, not of ornament. They are but beggars that can count their worth; But my true love is grown to such excess, I cannot sum up sum of half my wealth.",
@@ -203,7 +203,7 @@
         },
         {
           "name": "Friar Laurence",
-          "importance": 1,
+          "importance": 3,
           "sentiment": {
             "emotion": "Hopeful yet Cautious",
             "quote": "These violent delights have violent ends And in their triumph die, like fire and powder, Which, as they kiss, consume.",
@@ -220,7 +220,7 @@
       "firstLine": "I am hurt. A plague o' both your houses! I am sped.",
       "lastLine": "Help me into some house, Benvolio, Or I shall faint. A plague o' both your houses!",
       "ratings": {
-        "importance": 1,
+        "importance": 7,
         "conflict": 1,
         "sentiment": -1
       },
@@ -236,7 +236,7 @@
         },
         {
           "name": "Tybalt",
-          "importance": 0.8,
+          "importance": 2,
           "sentiment": {
             "emotion": "Hostile and Provoking",
             "quote": "Mercutio, thou consort'st with Romeo.",
@@ -245,7 +245,7 @@
         },
         {
           "name": "Romeo",
-          "importance": 1,
+          "importance": 3,
           "sentiment": {
             "emotion": "Anguished and Vengeful",
             "quote": "This day's black fate on more days doth depend; This but begins the woe others must end.",
@@ -262,7 +262,7 @@
       "firstLine": "Alive in triumph, and Mercutio slain! Away to heaven respective lenity, And fire-ey'd fury be my conduct now!",
       "lastLine": "O, I am fortune's fool!",
       "ratings": {
-        "importance": 1,
+        "importance": 3,
         "conflict": 1,
         "sentiment": -1
       },
@@ -286,7 +286,7 @@
       "firstLine": "Immediately we do exile him hence. I have an interest in your hate's proceeding, My blood for your rude brawls doth lie a-bleeding;",
       "lastLine": "Mercy but murders, pardoning those that kill.",
       "ratings": {
-        "importance": 1,
+        "importance": 2,
         "conflict": 0.5,
         "sentiment": -1
       },
@@ -310,7 +310,7 @@
       "firstLine": "Gallop apace, you fiery-footed steeds, Towards Phoebus' lodging!",
       "lastLine": "O serpent heart, hid with a flow'ring face!",
       "ratings": {
-        "importance": 0.8,
+        "importance": 15,
         "conflict": 0.5,
         "sentiment": -1
       },
@@ -334,7 +334,7 @@
       "firstLine": "Hold, daughter. I do spy a kind of hope, Which craves as desperate an execution As that is desperate which we would prevent.",
       "lastLine": "Give me, give me! O, tell not me of fear!",
       "ratings": {
-        "importance": 1,
+        "importance": 11,
         "conflict": 0.5,
         "sentiment": 0
       },
@@ -350,7 +350,7 @@
         },
         {
           "name": "Juliet",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Desperate and Determined",
             "quote": "Give me, give me! O, tell not me of fear!",
@@ -367,7 +367,7 @@
       "firstLine": "Farewell! God knows when we shall meet again.",
       "lastLine": "Romeo, Romeo, Romeo! Here's drink. I drink to thee.",
       "ratings": {
-        "importance": 1,
+        "importance": 4,
         "conflict": 0,
         "sentiment": -0.5
       },
@@ -391,7 +391,7 @@
       "firstLine": "News from Verona!- How now, Balthasar! Dost thou not bring me letters from the friar?",
       "lastLine": "Well, Juliet, I will lie with thee to-night. Let's see for means.",
       "ratings": {
-        "importance": 1,
+        "importance": 6,
         "conflict": 0.5,
         "sentiment": -1
       },
@@ -415,7 +415,7 @@
       "firstLine": "Give me that mattock and the wrenching iron.",
       "lastLine": "Here's to my love! [Drinks.] O true apothecary! Thy drugs are quick. Thus with a kiss I die.",
       "ratings": {
-        "importance": 1,
+        "importance": 10,
         "conflict": 1,
         "sentiment": -1
       },
@@ -431,7 +431,7 @@
         },
         {
           "name": "Juliet",
-          "importance": 0.5,
+          "importance": 2,
           "sentiment": {
             "emotion": "Unconscious",
             "quote": "",
@@ -472,7 +472,7 @@
       "firstLine": "What's here? A cup, closed in my true love's hand?",
       "lastLine": "For never was a story of more woe than this of Juliet and her Romeo.",
       "ratings": {
-        "importance": 1,
+        "importance": 16,
         "conflict": 0,
         "sentiment": -1
       },
@@ -488,7 +488,7 @@
         },
         {
           "name": "Capulet",
-          "importance": 1,
+          "importance": 2,
           "sentiment": {
             "emotion": "Grieving and Regretful",
             "quote": "O brother Montague, give me thy hand.",
@@ -497,7 +497,7 @@
         },
         {
           "name": "Montague",
-          "importance": 1,
+          "importance": 3,
           "sentiment": {
             "emotion": "Grieving and Reflective",
             "quote": "I will raise her statue in pure gold;",
