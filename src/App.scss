@@ -106,8 +106,9 @@ header {
 }
 
 h1 {
-  margin: 0;
+  margin: 0 0 6px;
   font-size: calc(1.2rem + 0.8vw);
+  line-height: calc(2rem + 0.4vw);
   font-family: "PT Serif";
   font-style: italic;
   font-weight: 700;
@@ -345,6 +346,10 @@ h1 {
   header {
     align-items: baseline;
     display: block;
+
+    h1 {
+      margin-bottom: 0;
+    }
 
     #story-info {
       margin-bottom: 8px;
