@@ -169,15 +169,13 @@ function PlotOptions() {
         </div>
         <i className="annotation">
           Font = <span>low</span> -{" "}
-          <span style={{ fontFamily: med_conflict_font, fontWeight: 600 }}>
-            medium
-          </span>{" "}
-          -{" "}
+          <span style={{ fontFamily: med_conflict_font }}>medium</span> -{" "}
           <span
             style={{
               fontFamily: high_conflict_font,
-              fontWeight: 500,
               letterSpacing: 1,
+              transform: "skewX(-10deg)",
+              display: "inline-block",
             }}
           >
             high
