@@ -3,8 +3,6 @@
 // I:  - quote (string): quote to be split into chunks
 //     - chunk_size (number): maximum number of characters in each chunk
 
-import { normalize } from "./helpers";
-
 // O:  - (array): array of chunks
 const chunkQuote = (quote: string, chunk_size: number) => {
   const quoteChunks = [];
@@ -104,34 +102,8 @@ export interface RatingDict {
 }
 
 /* DATA */
-export const setNumLines = (data: any, evenSpacing: boolean): Scene[] => {
-  const scene_data = data.scenes;
-  // console.log(scene_data);
-  const all_num_lines = scene_data.map((scene: Scene) => scene.numLines);
-  const min_lines = Math.min(...all_num_lines);
-  const max_lines = Math.max(...all_num_lines);
-
-  // console.log(evenSpacing);
-
-  scene_data.forEach((scene: Scene) => {
-    if (!evenSpacing) {
-      scene.numLines = normalize(
-        scene.numLines,
-        min_lines,
-        max_lines,
-        0.5,
-        1.5
-      );
-    } else {
-      scene.numLines = 1;
-    }
-  });
-
-  return scene_data;
-};
-
 const scene_data = (all_data: any): Scene[] => {
-  let data = setNumLines(all_data, true);
+  const data = all_data["scenes"];
 
   // replace importance rating for each scene in scene_data with 1 / rating
   data.forEach((scene: Scene) => {
@@ -419,8 +391,6 @@ export const getAllData = (init_data: any) => {
   const init_scene_data = scene_data(init_data);
   const init_location_data = location_data(init_data);
   const init_character_data = character_data(init_data);
-
-  console.log(init_character_data);
 
   const init_locations = locations(init_scene_data);
   const init_location_quotes = location_quotes(

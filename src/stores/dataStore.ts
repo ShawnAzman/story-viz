@@ -43,7 +43,6 @@ interface IStore {
   ratingDict: RatingDict;
 
   setData: (val: any) => void;
-  setSceneData: (val: Scene[]) => void;
 }
 
 const initialState = {
@@ -99,5 +98,4 @@ export const dataStore = create<IStore>((set) => ({
       ratingDict: newData.ratingDict,
     });
   },
-  setSceneData: (val: Scene[]) => set({ scene_data: val }),
 }));

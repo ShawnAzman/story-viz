@@ -1,10 +1,9 @@
 import { Select, Divider, Button, Switch } from "@mantine/core";
 import { storyStore } from "../stores/storyStore";
 import { dataStore } from "../stores/dataStore";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { positionStore } from "../stores/positionStore";
 import { high_conflict_font, med_conflict_font } from "../utils/consts";
-import { setNumLines } from "../utils/data";
 
 function PlotOptions() {
   const {
@@ -21,13 +20,11 @@ function PlotOptions() {
     weightBy,
     setWeightBy,
     resetAll,
-    evenSpacing,
-    setEvenSpacing,
   } = storyStore();
 
   const {
+    data,
     setData,
-    setSceneData,
     scene_data,
     scenes,
     locations,
@@ -54,23 +51,9 @@ function PlotOptions() {
     "romeo",
   ];
 
-  const handleStoryChange = async (story: string) => {
-    try {
-      // change story
-      setStory(story);
-      const new_data = await import(`../data/${story}.json`);
-      // update data once story is loaded
-      setData(new_data.default);
-    } catch (error) {
-      console.log("Error loading story data", error);
-    }
-  };
+  const [evenSpacing, setEvenSpacing] = useState(true);
 
-  useEffect(() => {
-    handleStoryChange(story);
-  }, [story]);
-
-  useEffect(() => {
+  const set_pos = () => {
     if (scene_data) {
       setPositions(
         scene_data,
@@ -82,20 +65,31 @@ function PlotOptions() {
         location_quotes,
         sceneSummaries,
         character_quotes,
-        sortedCharacters
+        sortedCharacters,
+        evenSpacing
       );
     }
-  }, [scene_data]);
+  };
 
-  // useEffect(() => {
-  //   if (scene_data) {
-  //     console.log(scene_data);
-  //     console.log("evenSpacing", evenSpacing);
-  //     const new_scene_data = setNumLines(scene_data, evenSpacing);
-  //     console.log(new_scene_data);
-  //     setSceneData(new_scene_data);
-  //   }
-  // }, [evenSpacing]);
+  const handleStoryChange = async () => {
+    try {
+      const new_data = await import(`../data/${story}.json`);
+      // update data once story is loaded
+      if (data !== new_data.default) {
+        setData(new_data.default);
+      }
+    } catch (error) {
+      console.log("Error loading story data", error);
+    }
+  };
+
+  useEffect(() => {
+    handleStoryChange();
+  }, [story]);
+
+  useEffect(() => {
+    set_pos();
+  }, [scene_data, evenSpacing]);
 
   return (
     <div id="options">

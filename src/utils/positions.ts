@@ -70,13 +70,24 @@ const initialScenePos = (
   scene_width: number,
   scenes: string[],
   scene_data: Scene[],
-  locations: string[]
+  locations: string[],
+  evenSpacing: boolean
 ) => {
   let cur_offset = scene_offset;
+
+  const og_plot_width = scene_width * (scenes.length - 1);
+  const totalLines = scene_data.reduce((acc, scene, i) => {
+    return acc + (i === scene_data.length - 1 ? 0 : scene.numLines);
+  }, 0);
+  // adjust space between scenes based on number of lines in each scene if !evenSpacing
+  const line_increment = evenSpacing ? scene_width : og_plot_width / totalLines;
+
   return scenes.map((_, i) => {
-    const num_lines = i === 0 ? 0 : scene_data[i - 1].numLines;
-    const next_offset = scene_width * num_lines;
+    const num_lines =
+      i === 0 ? 0 : evenSpacing ? 1 : scene_data[i - 1].numLines;
+    const next_offset = line_increment * num_lines;
     cur_offset += next_offset;
+
     return {
       x: cur_offset,
       y: location_height * (locations.length + 0.25),
@@ -1247,12 +1258,19 @@ export const getAllPositions = (
   location_quotes: LocationQuote[],
   sceneSummaries: SceneSummary[],
   character_quotes: CharacterQuote[],
-  sortedCharacters: CharacterData[]
+  sortedCharacters: CharacterData[],
+  evenSpacing: boolean
 ) => {
   const sceneWidth = scene_width(locations, scenes);
 
   const initLocationPos = locationPos(locations);
-  let initScenePos = initialScenePos(sceneWidth, scenes, scene_data, locations);
+  let initScenePos = initialScenePos(
+    sceneWidth,
+    scenes,
+    scene_data,
+    locations,
+    evenSpacing
+  );
 
   const plotWidth = plot_width(initScenePos);
 

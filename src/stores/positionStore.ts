@@ -30,7 +30,8 @@ const init_pos_values = getAllPositions(
   init_data_values.location_quotes,
   init_data_values.sceneSummaries,
   init_data_values.character_quotes,
-  init_data_values.sortedCharacters
+  init_data_values.sortedCharacters,
+  true
 );
 
 // values that don't need to persist across sessions
@@ -71,7 +72,8 @@ interface IStore {
     location_quotes: LocationQuote[],
     sceneSummaries: SceneSummary[],
     character_quotes: CharacterQuote[],
-    sortedCharacters: CharacterData[]
+    sortedCharacters: CharacterData[],
+    evenSpacing: boolean
   ) => void;
 }
 
@@ -102,7 +104,7 @@ const initialState = {
   minConflictY: init_pos_values.minConflictY,
 };
 
-export const positionStore = create<IStore>((set) => ({
+export const positionStore = create<IStore>((set, get) => ({
   ...initialState,
   setPositions: (
     scene_data: Scene[],
@@ -114,7 +116,8 @@ export const positionStore = create<IStore>((set) => ({
     location_quotes: LocationQuote[],
     sceneSummaries: SceneSummary[],
     character_quotes: CharacterQuote[],
-    sortedCharacters: CharacterData[]
+    sortedCharacters: CharacterData[],
+    evenSpacing: boolean
   ) => {
     const newPositions = getAllPositions(
       scene_data,
@@ -126,8 +129,16 @@ export const positionStore = create<IStore>((set) => ({
       location_quotes,
       sceneSummaries,
       character_quotes,
-      sortedCharacters
+      sortedCharacters,
+      evenSpacing
     );
+
+    const { locationPos } = get();
+    if (locationPos === newPositions.locationPos) {
+      // no need to update if the locationPos is the same
+      return;
+    }
+
     set({
       sceneWidth: newPositions.sceneWidth,
       plotWidth: newPositions.plotWidth,
