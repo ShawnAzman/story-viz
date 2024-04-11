@@ -62,7 +62,8 @@ header {
       .options-inner {
         display: flex;
         gap: 20px;
-        align-items: center;
+        align-items: end;
+        width: max-content;
       }
 
       .annotation {
@@ -81,11 +82,13 @@ header {
     }
 
     .mantine-Switch-body {
-      padding: 6px 0;
+      padding: 0 0 6px;
+      flex-direction: column;
+      gap: 8px;
     }
 
     .mantine-Select-root {
-      display: flex;
+      display: block;
       align-items: center;
       gap: 10px;
     }
@@ -330,27 +333,6 @@ h1 {
 
     .color-quote {
       font-style: italic;
-    }
-  }
-}
-
-@media (max-width: 1960px) {
-  header {
-    #options {
-      .options-contain {
-        .options-inner {
-          align-items: end !important;
-        }
-        .mantine-Select-root {
-          display: block;
-        }
-
-        .mantine-Switch-body {
-          padding-top: 0;
-          flex-direction: column;
-          gap: 8px;
-        }
-      }
     }
   }
 }
