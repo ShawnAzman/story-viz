@@ -5,6 +5,7 @@ import {
   conflictColor,
   importanceColor,
   getColor,
+  getLLMColor,
 } from "../utils/colors";
 import { dataStore } from "../stores/dataStore";
 import { RatingDict } from "../utils/data";
@@ -33,6 +34,8 @@ function Defs() {
           const fade_out_percent = 100 - fade_in_percent;
 
           const charColor = getColor(char.character, sortedCharacters);
+          const llmColor =
+            getLLMColor(char.character, sortedCharacters) || charColor;
 
           const firstScene = scene_data[first_scene].characters.find(
             (c) => c.name === char.character
@@ -55,6 +58,8 @@ function Defs() {
                 stopColor={
                   characterColor === "default"
                     ? charColor
+                    : characterColor === "llm"
+                    ? llmColor
                     : characterColor === "sentiment"
                     ? emotionColor(firstScene.sentiment.rating)
                     : importanceColor(firstScene.importance)
@@ -84,12 +89,16 @@ function Defs() {
                 const start_color =
                   characterColor === "default"
                     ? charColor
+                    : characterColor === "llm"
+                    ? llmColor
                     : characterColor === "sentiment"
                     ? emotion_color
                     : importance_color;
                 const end_color =
                   characterColor === "default"
                     ? charColor
+                    : characterColor === "llm"
+                    ? llmColor
                     : characterColor === "sentiment"
                     ? next_emotion_color
                     : next_importance_color;
@@ -151,6 +160,8 @@ function Defs() {
                 stopColor={
                   characterColor === "default"
                     ? charColor
+                    : characterColor === "llm"
+                    ? llmColor
                     : characterColor === "sentiment"
                     ? emotionColor(lastScene.sentiment.rating)
                     : importanceColor(lastScene.importance)

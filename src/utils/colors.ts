@@ -58,7 +58,7 @@ export const color_dict = {
   sentiment: emotion_increments,
 };
 
-// compute colorIndex
+// get color for character
 export const getColor = (
   character: string,
   sortedCharacters: CharacterData[]
@@ -69,4 +69,13 @@ export const getColor = (
   let finalColor = chroma(allColors(colorIndex)).css();
 
   return finalColor;
+};
+
+// get llm color for character
+export const getLLMColor = (
+  character: string,
+  sortedCharacters: CharacterData[]
+) => {
+  const char = sortedCharacters.find((c) => c.character === character);
+  return char?.color;
 };

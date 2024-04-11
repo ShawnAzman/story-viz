@@ -1,5 +1,5 @@
 import { storyStore } from "../../stores/storyStore";
-import { getColor } from "../../utils/colors";
+import { getColor, getLLMColor } from "../../utils/colors";
 import { character_offset, location_height } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
@@ -8,7 +8,7 @@ import Image from "../Image";
 import { onlyLetters } from "../../utils/helpers";
 
 function CharacterOverlay() {
-  const { characterHover, story } = storyStore();
+  const { characterHover, story, characterColor } = storyStore();
   const {
     characterScenes,
     character_quotes,
@@ -21,6 +21,9 @@ function CharacterOverlay() {
       {/* add box with quote from each character */}
       {characterScenes.map((character, i) => {
         const charColor = getColor(character.character, sortedCharacters);
+        const llmColor =
+          getLLMColor(character.character, sortedCharacters) || charColor;
+
         return (
           characterQuoteTexts[i] &&
           character_quotes[i] && (
@@ -42,7 +45,7 @@ function CharacterOverlay() {
                     height={characterQuoteBoxes[i].height}
                     fill="white"
                     strokeWidth={2}
-                    stroke={charColor}
+                    stroke={characterColor === "llm" ? llmColor : charColor}
                     opacity={0.8}
                   />
                 )}
@@ -57,7 +60,7 @@ function CharacterOverlay() {
                   }
                   textAnchor="start"
                   className="quote-text"
-                  fill={charColor}
+                  fill={characterColor === "llm" ? llmColor : charColor}
                 >
                   <tspan className="bold">{character.character}</tspan>{" "}
                   <tspan className="emphasis">

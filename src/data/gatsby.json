@@ -856,55 +856,64 @@
       "character": "Nick",
       "key": "nick",
       "quote": "Everyone suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known.",
-      "group": "Upper Class"
+      "group": "Upper Class",
+      "color": "rgb(118, 185, 71)"
     },
     {
       "character": "Gatsby",
       "key": "gatsby",
       "quote": "He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it.",
-      "group": "Upper Class"
+      "group": "Upper Class",
+      "color": "rgb(30, 144, 255)"
     },
     {
       "character": "Tom Buchanan",
       "key": "tom",
       "quote": "Two shining arrogant eyes had established dominance over his face.",
-      "group": "Upper Class"
+      "group": "Upper Class",
+      "color": "rgb(196, 30, 58)"
     },
     {
       "character": "Daisy",
       "key": "daisy",
       "quote": "Daisy and Jordan lay upon an enormous couch, like silver idols weighing down their own white dresses against the singing breeze of the fans.",
-      "group": "Upper Class"
+      "group": "Upper Class",
+      "color": "rgb(255, 215, 0)"
     },
     {
       "character": "Myrtle Wilson",
       "key": "myrtle",
       "quote": "'I married him because I thought he was a gentleman,' she said finally. 'I thought he knew something about breeding, but he wasn't fit to lick my shoe... The only crazy I was was when I married him. I knew right away I made a mistake.'",
-      "group": "Lower Class"
+      "group": "Lower Class",
+      "color": "rgb(217, 1, 122)"
     },
     {
       "character": "George Wilson",
       "key": "george",
       "quote": "He was a blond, spiritless man, anaemic, and faintly handsome. When he saw us a damp gleam of hope sprang into his light blue eyes.",
-      "group": "Lower Class"
+      "group": "Lower Class",
+      "color": "rgb(154, 156, 205)"
     },
     {
       "character": "Party Guests",
       "key": "party-guests",
       "quote": "I believe that on the first night I went to Gatsby's house I was one of the few guests who had actually been invited. People were not invited—they went there.",
-      "group": "Outsiders/Observers"
+      "group": "Outsiders/Observers",
+      "color": "rgb(255, 165, 0)"
     },
     {
       "character": "Owl Eyes",
       "key": "owl-eyes",
       "quote": "I looked around. It was the man with owl-eyed glasses whom I had found marvelling over Gatsby's books in the library one night three months before... 'The poor son-of-a-bitch,' he said.",
-      "group": "Outsiders/Observers"
+      "group": "Outsiders/Observers",
+      "color": "rgb(0, 128, 128)"
     },
     {
       "character": "Jordan Baker",
       "key": "jordan",
       "quote": "For a while I lost sight of Jordan Baker, and then in midsummer I found her again. At first I was flattered to go places with her, because she was a golf champion, and everyone knew her name. Then it was something more. I wasn't actually in love, but I felt a sort of tender curiosity.",
-      "group": "Upper Class"
+      "group": "Upper Class",
+      "color": "rgb(192, 192, 192)"
     }
   ]
 }

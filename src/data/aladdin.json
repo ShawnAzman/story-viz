@@ -801,56 +801,65 @@
       "character": "Peddler",
       "key": "peddler",
       "quote": "I come from a land, from a faraway place where the caravan camels roam. It's barbaric, but hey--it's home.",
-      "group": "Others"
+      "group": "Others",
+      "color": "rgb(218,165,32)"
     },
     {
       "character": "Jafar",
       "key": "jafar",
       "quote": "Trust me my pungent friend. You'll get what's coming to you.",
-      "group": "Antagonists"
+      "group": "Antagonists",
+      "color": "rgb(139,0,0)"
     },
     {
       "character": "Iago",
       "key": "iago",
       "quote": "Oh, there's a big surprise! That's an incred--I think I'm gonna have a heart attack and die from not surprise!",
-      "group": "Antagonists"
+      "group": "Antagonists",
+      "color": "rgb(255,140,0)"
     },
     {
       "character": "Aladdin",
       "key": "aladdin",
       "quote": "All this for a loaf of bread?",
-      "group": "Protagonists"
+      "group": "Protagonists",
+      "color": "rgb(135,206,235)"
     },
     {
       "character": "Abu",
       "key": "abu",
       "quote": "Hello!",
-      "group": "Protagonists"
+      "group": "Protagonists",
+      "color": "rgb(255,195,0)"
     },
     {
       "character": "Jasmine",
       "key": "jasmine",
       "quote": "Father, I hate being forced into this. If I do marry, I want it to be for love.",
-      "group": "Protagonists"
+      "group": "Protagonists",
+      "color": "rgb(153,50,204)"
     },
     {
       "character": "Sultan",
       "key": "sultan",
       "quote": "Jasmine, you're a princess.",
-      "group": "Protagonists"
+      "group": "Protagonists",
+      "color": "rgb(107,142,35)"
     },
     {
       "character": "Genie",
       "key": "genie",
       "quote": "Ten-thousand years will give ya such a crick in the neck!",
-      "group": "Protagonists"
+      "group": "Protagonists",
+      "color": "rgb(0,255,255)"
     },
     {
       "character": "Cave of Wonders",
       "short": "Cave",
       "key": "cave",
       "quote": "Who disturbs my slumber?",
-      "group": "Others"
+      "group": "Others",
+      "color": "rgb(8,37,103)"
     }
   ]
 }

@@ -616,67 +616,78 @@
       "character": "Elizabeth Bennet",
       "key": "elizabeth",
       "quote": "Elizabeth, as they drove along, watched for the first appearance of Pemberley Woods with some perturbation;",
-      "group": "Bennet Family"
+      "group": "Bennet Family",
+      "color": "rgb(78, 105, 76)"
     },
     {
       "character": "Mr. Darcy",
       "key": "darcy",
       "quote": "Darcy was delighted with their engagement; his affection for Elizabeth most forcibly struck him.",
-      "group": "Pemberley Residents"
+      "group": "Pemberley Residents",
+      "color": "rgb(34, 49, 63)"
     },
     {
       "character": "Miss Bingley",
       "key": "missbingley",
       "quote": "His sisters were fine women, with an air of decided fashion.",
-      "group": "Netherfield Park Residents"
+      "group": "Netherfield Park Residents",
+      "color": "rgb(183, 31, 95)"
     },
     {
       "character": "Jane Bennet",
       "key": "jane",
       "quote": "She was a sweet girl, and I wish with all my heart she were well settled.",
-      "group": "Bennet Family"
+      "group": "Bennet Family",
+      "color": "rgb(241, 233, 218)"
     },
     {
       "character": "Mr. Bingley",
       "key": "bingley",
       "quote": "He is just what a young man ought to be.",
-      "group": "Netherfield Park Residents"
+      "group": "Netherfield Park Residents",
+      "color": "rgb(135, 206, 235)"
     },
     {
       "character": "Mrs. Bennet",
       "key": "mrsbennet",
       "quote": "The business of her life was to get her daughters married.",
-      "group": "Bennet Family"
+      "group": "Bennet Family",
+      "color": "rgb(255, 105, 180)"
     },
     {
       "character": "Mr. Bennet",
       "key": "mrbennet",
       "quote": "Mr. Bennet was so odd a mixture of quick parts, sarcastic humour, reserve, and caprice.",
-      "group": "Bennet Family"
+      "group": "Bennet Family",
+      "color": "rgb(112, 128, 144)"
     },
     {
       "character": "Lydia Bennet",
       "key": "lydia",
       "quote": "Lydia, with perfect indifference, continued to express her admiration of Captain Carter.",
-      "group": "Bennet Family"
+      "group": "Bennet Family",
+      "color": "rgb(255, 127, 80)"
     },
     {
       "character": "Lady Catherine",
       "key": "ladycatherine",
       "quote": "Are the shades of Pemberley to be thus polluted?",
-      "group": "Rosings Park Residents"
+      "group": "Rosings Park Residents",
+      "color": "rgb(75, 0, 130)"
     },
     {
       "character": "Mr. Wickham",
       "key": "wickham",
       "quote": "Wickham will never marry a woman without some money.",
-      "group": "Meryton Residents"
+      "group": "Meryton Residents",
+      "color": "rgb(212, 175, 55)"
     },
     {
       "character": "Mr. Collins",
       "key": "collins",
       "quote": "'My dear Miss Elizabeth, I have the highest opinion in the world of your excellent judgment in all matters within the scope of your understanding,'",
-      "group": "Hunsford Residents"
+      "group": "Hunsford Residents",
+      "color": "rgb(128, 128, 0)"
     }
   ]
 }

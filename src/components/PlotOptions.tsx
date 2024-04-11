@@ -41,7 +41,7 @@ function PlotOptions() {
   } = dataStore();
   const { setPositions } = positionStore();
   const colorByOptions = ["conflict", "sentiment", "importance", "default"];
-  const characterColorOptions = ["default", "sentiment", "importance"];
+  const characterColorOptions = ["default", "llm", "sentiment", "importance"];
   const sizeByOptions = ["conflict", "importance", "default"];
   const overlayOptions = ["conflict", "importance", "none"];
   const storyOptions = [
@@ -120,13 +120,6 @@ function PlotOptions() {
       <div className="options-contain">
         <b>Scene Overlay</b>
         <div className="options-inner">
-          {/* <Switch
-            size="xs"
-            label="Show"
-            labelPosition="left"
-            checked={showConflict}
-            onChange={(event) => setShowConflict(event.currentTarget.checked)}
-          /> */}
           <Select
             size="xs"
             label="Show"

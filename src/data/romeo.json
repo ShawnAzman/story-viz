@@ -560,55 +560,64 @@
       "character": "Romeo",
       "key": "romeo",
       "quote": "O, I am fortune's fool!",
-      "group": "Main Characters"
+      "group": "Main Characters",
+      "color": "rgb(207, 0, 15)"
     },
     {
       "character": "Juliet",
       "key": "juliet",
       "quote": "O happy dagger! This is thy sheath; there rust, and let me die.",
-      "group": "Main Characters"
+      "group": "Main Characters",
+      "color": "rgb(233, 30, 99)"
     },
     {
       "character": "Mercutio",
       "key": "mercutio",
       "quote": "A plague o' both your houses!",
-      "group": "Supporting Characters"
+      "group": "Supporting Characters",
+      "color": "rgb(255, 87, 34)"
     },
     {
       "character": "Tybalt",
       "key": "tybalt",
       "quote": "Mercutio, thou consort'st with Romeo.",
-      "group": "Supporting Characters"
+      "group": "Supporting Characters",
+      "color": "rgb(123, 31, 162)"
     },
     {
       "character": "Friar Laurence",
       "key": "friar-laurence",
       "quote": "Hold, daughter. I do spy a kind of hope, Which craves as desperate an execution As that is desperate which we would prevent.",
-      "group": "Supporting Characters"
+      "group": "Supporting Characters",
+      "color": "rgb(56, 142, 60)"
     },
     {
       "character": "Benvolio",
       "key": "benvolio",
       "quote": "Tybalt, the kinsman to old Capulet, Hath sent a letter to his father's house.",
-      "group": "Supporting Characters"
+      "group": "Supporting Characters",
+      "color": "rgb(3, 169, 244)"
     },
     {
       "character": "Prince Escalus",
       "key": "prince-escalus",
       "quote": "Immediately we do exile him hence.",
-      "group": "Supporting Characters"
+      "group": "Supporting Characters",
+      "color": "rgb(13, 71, 161)"
     },
     {
       "character": "Capulet",
       "key": "capulet",
       "quote": "O brother Montague, give me thy hand.",
-      "group": "Family Heads"
+      "group": "Family Heads",
+      "color": "rgb(173, 20, 87)"
     },
     {
       "character": "Montague",
       "key": "montague",
       "quote": "Alas, my liege, my wife is dead to-night; Grief of my son's exile hath stopp'd her breath.",
-      "group": "Family Heads"
+      "group": "Family Heads",
+      "color": "rgb(96, 125, 139)"
     }
   ]
 }

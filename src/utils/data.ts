@@ -59,6 +59,7 @@ export interface CharacterData {
   key: string;
   quote: string;
   group: string;
+  color: string;
 }
 
 export interface LocationQuote {

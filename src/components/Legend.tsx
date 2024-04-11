@@ -70,7 +70,11 @@ function Legend() {
                   y={1}
                   width={character_height}
                   height={character_height}
-                  fill={getColor(character.character, sortedCharacters)}
+                  fill={
+                    characterColorBy === "llm" && character.color
+                      ? character.color
+                      : getColor(character.character, sortedCharacters)
+                  }
                 />
                 <text
                   x={character_offset}
@@ -100,7 +104,7 @@ function Legend() {
               "color-legend " +
               (sceneHover !== "" ||
               colorBy !== "default" ||
-              characterColorBy !== "default"
+              (characterColorBy !== "default" && characterColorBy !== "llm")
                 ? "highlight"
                 : "")
             }

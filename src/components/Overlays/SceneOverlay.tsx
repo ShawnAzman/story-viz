@@ -5,6 +5,7 @@ import {
   importanceColor,
   textColor,
   getColor,
+  getLLMColor,
 } from "../../utils/colors";
 import { character_offset, character_height } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
@@ -12,7 +13,7 @@ import { capitalize } from "../../utils/helpers";
 import { positionStore } from "../../stores/positionStore";
 
 function SceneOverlay() {
-  const { sceneHover } = storyStore();
+  const { sceneHover, characterColor } = storyStore();
   const { scene_data, sceneSummaries, sortedCharacters } = dataStore();
   const { sceneSummaryBoxes, sceneSummaryTexts } = positionStore();
 
@@ -153,6 +154,10 @@ function SceneOverlay() {
                   ) as any;
                   const emotion = character.sentiment.emotion;
                   const rating = character.sentiment.rating;
+                  const llmColor = getLLMColor(
+                    char.character,
+                    sortedCharacters
+                  );
                   return (
                     <g key={"scene character" + i + j}>
                       <text
@@ -164,7 +169,11 @@ function SceneOverlay() {
                         }
                         textAnchor="start"
                         className="scene-character"
-                        fill={getColor(char.character, sortedCharacters)}
+                        fill={
+                          characterColor === "llm" && llmColor
+                            ? llmColor
+                            : getColor(char.character, sortedCharacters)
+                        }
                       >
                         <tspan className="bold">{char.character} </tspan>
                         <tspan className="emphasis">

@@ -741,55 +741,64 @@
       "character": "Nick Carraway",
       "key": "nick",
       "quote": "In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.",
-      "group": "The Main Trio"
+      "group": "The Main Trio",
+      "color": "rgb(118, 185, 71)"
     },
     {
       "character": "Jay Gatsby",
       "key": "gatsby",
       "quote": "He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it.",
-      "group": "The Main Trio"
+      "group": "The Main Trio",
+      "color": "rgb(30, 144, 255)"
     },
     {
       "character": "Daisy Buchanan",
       "key": "daisy",
       "quote": "Her face was sad and lovely with bright things in it, bright eyes and a bright passionate mouth.",
-      "group": "The Main Trio"
+      "group": "The Main Trio",
+      "color": "rgb(255, 215, 0)"
     },
     {
       "character": "Tom Buchanan",
       "key": "tom",
       "quote": "Two shining arrogant eyes had established dominance over his face and gave him the appearance of always leaning aggressively forward.",
-      "group": "The Social Circle"
+      "group": "The Social Circle",
+      "color": "rgb(196, 30, 58)"
     },
     {
       "character": "Jordan Baker",
       "key": "jordan",
       "quote": "She was a slender, small-breasted girl, with an erect carriage which she accentuated by throwing her body backward at the shoulders like a young cadet.",
-      "group": "The Social Circle"
+      "group": "The Social Circle",
+      "color": "rgb(192, 192, 192)"
     },
     {
       "character": "Myrtle Wilson",
       "key": "myrtle",
       "quote": "Her face, above a spotted dress of dark blue crepe-de-chine, contained no facet or gleam of beauty, but there was an immediately perceptible vitality about her.",
-      "group": "The Outsiders"
+      "group": "The Outsiders",
+      "color": "rgb(217, 1, 122)"
     },
     {
       "character": "George Wilson",
       "key": "george",
       "quote": "He was a blond, spiritless man, anaemic, and faintly handsome.",
-      "group": "The Outsiders"
+      "group": "The Outsiders",
+      "color": "rgb(154, 156, 205)"
     },
     {
       "character": "Meyer Wolfsheim",
       "key": "wolfsheim",
       "quote": "A small, flat-nosed Jew raised his large head and regarded me with two fine growths of hair which luxuriated in either nostril.",
-      "group": "The Background Influence"
+      "group": "The Background Influence",
+      "color": "rgb(0, 100, 0)"
     },
     {
       "character": "Mr. Gatz",
       "key": "mr-gatz",
       "quote": "He was clutching at some last hope and I couldn't bear to shake him free.",
-      "group": "The Background Influence"
+      "group": "The Background Influence",
+      "color": "rgb(176, 196, 222)"
     }
   ]
 }

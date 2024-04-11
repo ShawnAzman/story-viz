@@ -550,103 +550,120 @@
       "character": "Alice",
       "key": "alice",
       "quote": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do.",
-      "group": "Main Characters"
+      "group": "Main Characters",
+      "color": "rgb(120, 186, 232)"
     },
     {
       "character": "White Rabbit",
       "key": "white-rabbit",
       "quote": "suddenly a White Rabbit with pink eyes ran close by her.",
-      "group": "Eccentric Characters"
+      "group": "Eccentric Characters",
+      "color": "rgb(233, 221, 198)"
     },
     {
       "character": "Mouse",
       "key": "mouse",
       "quote": "'Mine is a long and sad tale!' said the Mouse.",
-      "group": "Creatures of Wisdom or Mystique"
+      "group": "Creatures of Wisdom or Mystique",
+      "color": "rgb(153, 153, 153)"
     },
     {
       "character": "Dodo",
       "key": "dodo",
       "quote": "'The best way to explain it is to do it.'",
-      "group": "Eccentric Characters"
+      "group": "Eccentric Characters",
+      "color": "rgb(189, 183, 107)"
     },
     {
       "character": "Baby",
       "key": "baby",
       "quote": "'If it had grown up,' she said to herself, 'it would have made a dreadfully ugly child: but it makes rather a handsome pig, I think.'",
-      "group": "Innocents or Victims"
+      "group": "Innocents or Victims",
+      "color": "rgb(255, 182, 193)"
     },
     {
       "character": "Duchess",
       "key": "duchess",
       "quote": "The Duchess was sitting on a three-legged stool in the middle, nursing a baby.",
-      "group": "Authority Figures"
+      "group": "Authority Figures",
+      "color": "rgb(102, 51, 153)"
     },
     {
       "character": "Cheshire Cat",
       "key": "cheshire-cat",
       "quote": "'It's a Cheshire cat,' said the Duchess, 'and that's why. Pig!'",
-      "group": "Eccentric Characters"
+      "group": "Eccentric Characters",
+      "color": "rgb(255, 105, 180)"
     },
     {
       "character": "Caterpillar",
       "key": "caterpillar",
       "quote": "'Who are _you_?' said the Caterpillar.",
-      "group": "Creatures of Wisdom or Mystique"
+      "group": "Creatures of Wisdom or Mystique",
+      "color": "rgb(75, 0, 130)"
     },
     {
       "character": "March Hare",
       "key": "march-hare",
       "quote": "'Have some wine,' the March Hare said in an encouraging tone.",
-      "group": "Eccentric Characters"
+      "group": "Eccentric Characters",
+      "color": "rgb(184, 134, 11)"
     },
     {
       "character": "Mad Hatter",
       "key": "mad-hatter",
       "quote": "'Your hair wants cutting,' said the Hatter.",
-      "group": "Eccentric Characters"
+      "group": "Eccentric Characters",
+      "color": "rgb(139, 69, 19)"
     },
     {
       "character": "Dormouse",
       "key": "dormouse",
       "quote": "'I wasn't asleep,' he said in a hoarse, feeble voice: 'I heard every word you fellows were saying.'",
-      "group": "Eccentric Characters"
+      "group": "Eccentric Characters",
+      "color": "rgb(205, 133, 63)"
     },
     {
       "character": "Queen of Hearts",
       "key": "queen-of-hearts",
       "quote": "'Off with his head!' she said, without even looking round.",
-      "group": "Authority Figures"
+      "group": "Authority Figures",
+      "color": "rgb(220, 20, 60)"
     },
     {
       "character": "King of Hearts",
       "key": "king-of-hearts",
       "quote": "'Consider my dear: she is only a child!' the King said.",
-      "group": "Authority Figures"
+      "group": "Authority Figures",
+      "color": "rgb(255, 215, 0)"
     },
     {
       "character": "Gryphon",
       "key": "gryphon",
       "quote": "'Will you, won't you, will you, won't you, will you join the dance?'",
-      "group": "Eccentric Characters"
+      "group": "Eccentric Characters",
+      "color": "rgb(255, 140, 0)"
     },
     {
       "character": "Mock Turtle",
       "key": "mock-turtle",
       "quote": "'When we were little,' the Mock Turtle went on at last, more calmly, though still sobbing a little now and then, 'we went to school in the sea.'",
-      "group": "Creatures of Wisdom or Mystique"
+      "group": "Creatures of Wisdom or Mystique",
+      "color": "rgb(70, 130, 180)"
     },
     {
       "character": "Knave of Hearts",
       "key": "knave-of-hearts",
       "quote": "'I haven't done anything wrong,' said the Knave of Hearts, 'and I don't deserve to be punished.'",
-      "group": "Innocents or Victims"
+      "group": "Innocents or Victims",
+      "color": "rgb(240, 128, 128)"
     },
     {
       "character": "Jury",
       "key": "jury",
       "quote": "The jury all wrote down on their slates, 'She doesn't believe there's an atom of meaning in it.'",
-      "group": "Authority Figures"
+      "group": "Authority Figures",
+      "color": "rgb(112, 128, 144)"
     }
   ]
 }

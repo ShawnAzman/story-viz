@@ -979,58 +979,67 @@
       "character": "Dorothy",
       "key": "dorothy",
       "quote": "Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer's wife.",
-      "group": "Main Characters"
+      "group": "Main Characters",
+      "color": "rgb(135,206,235)"
     },
     {
       "character": "Toto",
       "key": "toto",
       "quote": "It was Toto that made Dorothy laugh, and saved her from growing as gray as her other surroundings. Toto was not gray; he was a little black dog, with long silky hair and small black eyes that twinkled merrily on either side of his funny, wee nose.",
-      "group": "Main Characters"
+      "group": "Main Characters",
+      "color": "rgb(54,69,79)"
     },
     {
       "character": "Scarecrow",
       "key": "scarecrow",
       "quote": "“Oh, yes; I am anxious,” returned the Scarecrow. “It is such an uncomfortable feeling to know one is a fool.”",
-      "group": "Main Characters"
+      "group": "Main Characters",
+      "color": "rgb(238,232,170)"
     },
     {
       "character": "Tin Woodman",
       "key": "tin-woodman",
       "quote": "Once more the tinsmith came to my help and made me a body of tin, fastening my tin arms and legs and head to it, by means of joints, so that I could move around as well as ever.",
-      "group": "Main Characters"
+      "group": "Main Characters",
+      "color": "rgb(192,192,192)"
     },
     {
       "character": "Cowardly Lion",
       "key": "cowardly-lion",
       "quote": "“They really are,” said the Lion, “but that doesn't make me any braver, and as long as I know myself to be a coward I shall be unhappy.”",
-      "group": "Main Characters"
+      "group": "Main Characters",
+      "color": "rgb(205,133,63)"
     },
     {
       "character": "The Wizard",
       "key": "wizard",
       "quote": "“I am Oz, the Great and Terrible,” said the little man, in a trembling voice. “But don't strike me—please don't—and I'll do anything you want me to.”",
-      "group": "Other Key Characters"
+      "group": "Other Key Characters",
+      "color": "rgb(124,252,0)"
     },
     {
       "character": "Glinda the Good Witch",
       "short": "Glinda the Good",
       "key": "glinda",
       "quote": "“Bless your dear heart,” she said, “I am sure I can tell you of a way to get back to Kansas.”",
-      "group": "Other Key Characters"
+      "group": "Other Key Characters",
+      "color": "rgb(255,182,193)"
     },
     {
       "character": "Wicked Witch of the East",
       "short": "Witch of the East",
       "key": "wicked-witch-of-the-east",
       "quote": "“She was the Wicked Witch of the East, as I said,” answered the little woman. “She has held all the Munchkins in bondage for many years, making them slave for her night and day. Now they are all set free, and are grateful to you for the favor.”",
-      "group": "Antagonists"
+      "group": "Antagonists",
+      "color": "rgb(75,0,130)"
     },
     {
       "character": "Wicked Witch of the West",
       "short": "Witch of the West",
       "key": "wicked-witch-of-the-west",
       "quote": "But now that you have killed one of them, there is but one Wicked Witch in all the Land of Oz—the one who lives in the West.",
-      "group": "Antagonists"
+      "group": "Antagonists",
+      "color": "rgb(34,139,34)"
     }
   ]
 }
