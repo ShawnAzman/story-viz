@@ -21,6 +21,7 @@ import {
   SceneCharacter,
   SceneSummary,
   CharacterData,
+  RatingDict,
 } from "./data";
 
 /* INTERFACES */
@@ -44,9 +45,8 @@ export interface SceneSummaryBox {
 
 export interface SceneSummaryText {
   x: number;
-  mid_x: number;
   end_x: number;
-  third: number;
+  section: number;
   y: number;
   title_y: number;
   summary_y: number;
@@ -920,12 +920,15 @@ const base_scene_summary_box = (legendBoxPos: Box) => {
 const scene_summary_texts = (
   scene_summary_boxes: SceneSummaryBox,
   scenes: string[],
-  sceneSummaries: SceneSummary[]
+  sceneSummaries: SceneSummary[],
+  numRatings: number
 ) =>
   scenes.map((_, i) => {
     const start_x = scene_summary_boxes.x + 0.9 * character_offset;
-    const end_x = start_x + scene_summary_boxes.width - 1.5 * location_offset;
-    const third = (end_x - start_x) / 3 - 0.8 * character_offset;
+    const end_x = start_x + scene_summary_boxes.width - 1.7 * location_offset;
+    const section =
+      (end_x - start_x) / numRatings -
+      (1 - 0.05 * (numRatings + 1)) * character_offset;
 
     let start_y = 1.75 * character_offset;
     const title_y = start_y + 2.4 * character_offset;
@@ -960,9 +963,8 @@ const scene_summary_texts = (
 
     return {
       x: start_x,
-      mid_x: (start_x + end_x) / 2,
       end_x: end_x,
-      third: third,
+      section: section,
       y: start_y,
       title_y: title_y,
       summary_y: summary_y,
@@ -1129,7 +1131,6 @@ const update_scene_summaries = (
 
       new_text.x += x_translate;
       new_text.end_x += x_translate;
-      new_text.mid_x += x_translate;
     }
     new_scene_summary_texts.push(new_text);
   });
@@ -1141,24 +1142,26 @@ const update_scene_summaries = (
 };
 
 // color bar positions
-const color_bar_pos = (plotWidth: number, scenePos: Position[]) =>
-  Object.keys(color_dict).map((_, i) => {
-    const width = (plotWidth - 2 * location_offset) / 2 + 2;
-    const gap = 2;
-    const third = width / 3 - gap * 2 * character_offset;
+const color_bar_pos = (plotWidth: number, scenePos: Position[]) => {
+  const num_bars = Object.keys(color_dict).length;
+  return Object.keys(color_dict).map((_, i) => {
+    const width = (plotWidth - 2 * location_offset) / 2 + 1;
+    const gap = 6 / num_bars;
+    const section = width / num_bars - gap * 2 * character_offset;
     const y = scenePos[0].y + location_height + 2 * location_offset;
     return {
       x:
-        width / 2 +
-        2 +
-        i * third +
-        i * gap * 3 * character_offset +
+        width / (2 + 0.2 * Math.max(0, num_bars - 3)) +
+        1 +
+        i * section +
+        i * gap * num_bars * character_offset +
         location_offset,
       y: y,
-      width: third,
+      width: section,
       height: character_height,
     };
   });
+};
 
 // compute conflict curve positions based on conflict rating of each scene
 const conflict_points = (
@@ -1276,7 +1279,8 @@ export const getAllPositions = (
   sceneSummaries: SceneSummary[],
   character_quotes: CharacterQuote[],
   sortedCharacters: CharacterData[],
-  evenSpacing: boolean
+  evenSpacing: boolean,
+  ratingDict: RatingDict
 ) => {
   const sceneWidth = scene_width(locations, scenes);
 
@@ -1399,7 +1403,8 @@ export const getAllPositions = (
   let initSceneSummaryTexts = scene_summary_texts(
     initSceneSummaryBox,
     scenes,
-    sceneSummaries
+    sceneSummaries,
+    Object.keys(ratingDict).length
   );
 
   const updatedSceneSummaryPos = update_scene_summaries(

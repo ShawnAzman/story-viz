@@ -41,6 +41,8 @@ interface IStore {
   sceneSummaries: SceneSummary[];
 
   ratingDict: RatingDict;
+  minLines: number;
+  maxLines: number;
 
   setData: (val: any) => void;
 }
@@ -68,6 +70,8 @@ const initialState = {
   sceneSummaries: init_data_values.sceneSummaries,
 
   ratingDict: init_data_values.ratingDict,
+  minLines: init_data_values.minLines,
+  maxLines: init_data_values.maxLines,
 };
 
 export const dataStore = create<IStore>((set) => ({
@@ -96,6 +100,8 @@ export const dataStore = create<IStore>((set) => ({
       sceneSummaries: newData.sceneSummaries,
 
       ratingDict: newData.ratingDict,
+      minLines: newData.minLines,
+      maxLines: newData.maxLines,
     });
   },
 }));

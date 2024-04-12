@@ -3,6 +3,8 @@
 // I:  - quote (string): quote to be split into chunks
 //     - chunk_size (number): maximum number of characters in each chunk
 
+import { normalize } from "./helpers";
+
 // O:  - (array): array of chunks
 const chunkQuote = (quote: string, chunk_size: number) => {
   const quoteChunks = [];
@@ -99,6 +101,7 @@ export interface RatingDict {
   importance: number[];
   conflict: number[];
   sentiment: number[];
+  length: number[];
 }
 
 /* DATA */
@@ -375,15 +378,38 @@ const sceneSummaries = (
     };
   });
 
+// get min and max in numLines
+const getMinMaxLines = (data: Scene[]) => {
+  const minLines = Math.min(...data.map((scene) => scene.numLines));
+  const maxLines = Math.max(...data.map((scene) => scene.numLines));
+
+  return [minLines, maxLines];
+};
+
 // create dictionary with importance, conflict, and sentiment ratings, each containing a list of ratings by scene
-const ratings = ["importance", "conflict", "sentiment"];
-const createRatingDict = (data: Scene[]): RatingDict => {
+const ratings = ["importance", "conflict", "sentiment", "length"];
+const createRatingDict = (data: Scene[]): any => {
   const ratingDict: RatingDict = {} as any;
+
+  const minMax = getMinMaxLines(data);
+  const minLines = minMax[0];
+  const maxLines = minMax[1];
+
   for (let rating of ratings) {
     const key = rating as keyof RatingDict;
-    ratingDict[key] = data.map((scene) => scene.ratings[key]);
+    if (key === "length") {
+      ratingDict[key] = data.map((scene) =>
+        normalize(scene.numLines, minLines, maxLines, 0, 1)
+      );
+    } else {
+      ratingDict[key] = data.map((scene) => scene.ratings[key]);
+    }
   }
-  return ratingDict;
+  return {
+    ratingDict: ratingDict,
+    minLines: minLines,
+    maxLines: maxLines,
+  };
 };
 
 // generate all data and return
@@ -428,7 +454,11 @@ export const getAllData = (init_data: any) => {
     init_scene_data,
     init_characterScenes
   );
-  const init_ratingDict = createRatingDict(init_scene_data);
+
+  const rating_info = createRatingDict(init_scene_data);
+  const init_ratingDict = rating_info.ratingDict;
+  const minLines = rating_info.minLines;
+  const maxLines = rating_info.maxLines;
 
   return {
     scene_data: init_scene_data,
@@ -447,5 +477,7 @@ export const getAllData = (init_data: any) => {
     sceneCharacters: init_sceneCharacters,
     sceneSummaries: init_sceneSummaries,
     ratingDict: init_ratingDict,
+    minLines: minLines,
+    maxLines: maxLines,
   };
 };

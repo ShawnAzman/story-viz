@@ -35,9 +35,16 @@ function PlotOptions() {
     sceneSummaries,
     character_quotes,
     sortedCharacters,
+    ratingDict,
   } = dataStore();
   const { setPositions } = positionStore();
-  const colorByOptions = ["conflict", "sentiment", "importance", "default"];
+  const colorByOptions = [
+    "conflict",
+    "sentiment",
+    "importance",
+    "length",
+    "default",
+  ];
   const characterColorOptions = ["default", "llm", "sentiment", "importance"];
   const sizeByOptions = ["conflict", "importance", "default"];
   const overlayOptions = ["conflict", "importance", "none"];
@@ -66,7 +73,8 @@ function PlotOptions() {
         sceneSummaries,
         character_quotes,
         sortedCharacters,
-        !scaleByLength
+        !scaleByLength,
+        ratingDict
       );
     }
   };

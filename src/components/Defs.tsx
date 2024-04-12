@@ -6,6 +6,7 @@ import {
   importanceColor,
   getColor,
   getLLMColor,
+  lengthColor,
 } from "../utils/colors";
 import { dataStore } from "../stores/dataStore";
 import { RatingDict } from "../utils/data";
@@ -188,7 +189,9 @@ function Defs() {
               ? emotionColor
               : scale === "conflict"
               ? conflictColor
-              : importanceColor;
+              : scale === "importance"
+              ? importanceColor
+              : lengthColor;
           const min_val = color_incs[0];
           const max_val = color_incs[color_incs.length - 1];
           const vals = color_incs.map(
@@ -230,6 +233,7 @@ function Defs() {
               let percent = scenePos[j]
                 ? ((scenePos[j].x - scene_offset) / denom) * 100
                 : 0;
+
               return (
                 <stop
                   offset={`${percent}%`}
@@ -238,7 +242,9 @@ function Defs() {
                       ? emotionColor(rating)
                       : rating_type === "conflict"
                       ? conflictColor(rating)
-                      : importanceColor(rating)
+                      : rating_type === "importance"
+                      ? importanceColor(rating)
+                      : lengthColor(rating)
                   }
                   key={"rating stop" + rating_type + j}
                 />
@@ -295,10 +301,6 @@ function Defs() {
       >
         <path d="M0,0 V6 L4.5,3 Z" fill="#000000" />
       </marker>
-
-      <filter id="blur">
-        <feGaussianBlur stdDeviation="10" />
-      </filter>
     </defs>
   );
 }

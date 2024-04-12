@@ -10,19 +10,28 @@ import {
   conflictColor,
   emotionColor,
   importanceColor,
+  lengthColor,
   textColor,
 } from "../utils/colors";
 import {
   getFontFamily,
   getFontWeight,
+  normalize,
   normalizeFontSize,
   normalizeTextOffset,
 } from "../utils/helpers";
 import { positionStore } from "../stores/positionStore";
 
 function XAxis() {
-  const { scenes, sceneLocations, sceneCharacters, scene_data, sceneChunks } =
-    dataStore();
+  const {
+    scenes,
+    sceneLocations,
+    sceneCharacters,
+    scene_data,
+    sceneChunks,
+    minLines,
+    maxLines,
+  } = dataStore();
   const {
     locationHover,
     sceneHover,
@@ -65,6 +74,13 @@ function XAxis() {
           >
             {sceneChunks[i].map((chunk, j) => {
               const ratings = scene_data[i].ratings;
+              const numLines = normalize(
+                scene_data[i].numLines,
+                minLines,
+                maxLines,
+                0,
+                1
+              );
               const textOffset =
                 sizeBy === "default"
                   ? 1.5
@@ -88,7 +104,9 @@ function XAxis() {
                   ? emotionColor(ratings.sentiment)
                   : colorBy === "conflict"
                   ? conflictColor(ratings.conflict)
-                  : importanceColor(ratings.importance);
+                  : colorBy === "importance"
+                  ? importanceColor(ratings.importance)
+                  : lengthColor(numLines);
 
               const weight =
                 weightBy === "importance"
@@ -160,7 +178,12 @@ function XAxis() {
               ? textColor(scene_data[0].ratings.conflict, false)
               : colorBy === "sentiment"
               ? textColor(scene_data[0].ratings.sentiment, true)
-              : textColor(scene_data[0].ratings.importance, false)
+              : colorBy === "importance"
+              ? textColor(scene_data[0].ratings.importance, false)
+              : textColor(
+                  normalize(scene_data[0].numLines, minLines, maxLines, 0, 1),
+                  false
+                )
           }
           className="time-label"
         >

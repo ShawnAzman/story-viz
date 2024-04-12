@@ -6,22 +6,25 @@ import {
   textColor,
   getColor,
   getLLMColor,
+  lengthColor,
 } from "../../utils/colors";
 import { character_offset, character_height } from "../../utils/consts";
 import { dataStore } from "../../stores/dataStore";
-import { capitalize } from "../../utils/helpers";
+import { capitalize, normalize } from "../../utils/helpers";
 import { positionStore } from "../../stores/positionStore";
 
 function SceneOverlay() {
   const { sceneHover, characterColor } = storyStore();
-  const { scene_data, sceneSummaries, sortedCharacters } = dataStore();
+  const { scene_data, sceneSummaries, sortedCharacters, minLines, maxLines } =
+    dataStore();
   const { sceneSummaryBoxes, sceneSummaryTexts } = positionStore();
 
   return (
     <g id="scene-info">
       {/* add box with info about each scene */}
-      {scene_data.map(
-        (scene, i) =>
+      {scene_data.map((scene, i) => {
+        const lengthVal = normalize(scene.numLines, minLines, maxLines, 0, 1);
+        return (
           sceneSummaryTexts[i] && (
             <g
               key={"scene info" + i}
@@ -44,6 +47,29 @@ function SceneOverlay() {
                 className="scene-info-inner"
               />
               <g>
+                {/* add first numLines rating */}
+                <g key={"scene ratings for scene " + 0 + ": length"}>
+                  <rect
+                    x={sceneSummaryTexts[i].x}
+                    y={sceneSummaryTexts[i].y - character_offset}
+                    width={sceneSummaryTexts[i].section}
+                    height={character_offset * 1.8}
+                    fill={lengthColor(lengthVal)}
+                  ></rect>
+                  <text
+                    x={
+                      sceneSummaryTexts[i].x +
+                      0.5 * sceneSummaryTexts[i].section
+                    }
+                    y={sceneSummaryTexts[i].y + 0.1 * character_offset}
+                    textAnchor={"middle"}
+                    className="scene-rating"
+                    fill={textColor(lengthVal, false)}
+                  >
+                    <tspan className="bold">Length:</tspan> {scene.numLines}{" "}
+                    lines
+                  </text>
+                </g>
                 {Object.keys(scene.ratings).map((rating, j) => {
                   let rating_val = (scene.ratings as Record<string, number>)[
                     rating
@@ -52,18 +78,12 @@ function SceneOverlay() {
                     <g key={"scene ratings for scene " + 0 + ": " + rating}>
                       <rect
                         x={
-                          j % 3 === 0
-                            ? sceneSummaryTexts[i].x
-                            : j % 3 === 1
-                            ? sceneSummaryTexts[i].x +
-                              sceneSummaryTexts[i].third +
-                              1.2 * character_offset
-                            : sceneSummaryTexts[i].x +
-                              2 * sceneSummaryTexts[i].third +
-                              2.4 * character_offset
+                          sceneSummaryTexts[i].x +
+                          (j + 1) * sceneSummaryTexts[i].section +
+                          (j + 1) * character_offset
                         }
                         y={sceneSummaryTexts[i].y - character_offset}
-                        width={sceneSummaryTexts[i].third}
+                        width={sceneSummaryTexts[i].section}
                         height={character_offset * 1.8}
                         fill={
                           rating === "sentiment"
@@ -75,13 +95,10 @@ function SceneOverlay() {
                       ></rect>
                       <text
                         x={
-                          j % 3 === 0
-                            ? sceneSummaryTexts[i].x +
-                              0.5 * sceneSummaryTexts[i].third
-                            : j % 3 === 1
-                            ? sceneSummaryTexts[i].mid_x
-                            : sceneSummaryTexts[i].end_x -
-                              0.5 * sceneSummaryTexts[i].third
+                          sceneSummaryTexts[i].x +
+                          (j + 1) * sceneSummaryTexts[i].section +
+                          (j + 1) * character_offset +
+                          0.5 * sceneSummaryTexts[i].section
                         }
                         y={sceneSummaryTexts[i].y + 0.1 * character_offset}
                         textAnchor={"middle"}
@@ -251,7 +268,8 @@ function SceneOverlay() {
               </g>
             </g>
           )
-      )}
+        );
+      })}
     </g>
   );
 }

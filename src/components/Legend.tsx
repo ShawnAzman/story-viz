@@ -9,7 +9,7 @@ import { dataStore } from "../stores/dataStore";
 import { positionStore } from "../stores/positionStore";
 
 function Legend() {
-  const { sortedCharacters } = dataStore();
+  const { sortedCharacters, minLines, maxLines } = dataStore();
   const {
     legendBoxPos,
     legendPos,
@@ -88,7 +88,7 @@ function Legend() {
             )
         )}
       </g>
-      {/* add rectangular bar across bottom of plot to serve as legend */}
+      {/* add rectangular bar across bottom of plot to serve as color bar legend */}
       <g
         id="color-legends"
         transform={
@@ -122,7 +122,7 @@ function Legend() {
               fill="black"
               className="legend-label"
             >
-              {scale === "sentiment" ? -1 : 0}
+              {scale === "sentiment" ? -1 : scale === "numLines" ? minLines : 0}
             </text>
             <rect
               id="legend-bar"
@@ -147,7 +147,7 @@ function Legend() {
               }
               textAnchor="middle"
             >
-              {scale}
+              {scale === "length" ? "length (# lines)" : scale}
             </text>
             <text
               x={
@@ -164,7 +164,7 @@ function Legend() {
               fill="black"
               className="legend-label"
             >
-              1
+              {scale === "numLines" ? maxLines : 1}
             </text>
           </g>
         ))}

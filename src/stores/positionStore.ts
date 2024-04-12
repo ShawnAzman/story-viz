@@ -8,6 +8,7 @@ import {
   SceneCharacter,
   SceneSummary,
   CharacterData,
+  RatingDict,
 } from "../utils/data";
 import init_data from "../data/gatsby.json";
 import {
@@ -31,7 +32,8 @@ const init_pos_values = getAllPositions(
   init_data_values.sceneSummaries,
   init_data_values.character_quotes,
   init_data_values.sortedCharacters,
-  true
+  true,
+  init_data_values.ratingDict
 );
 
 // values that don't need to persist across sessions
@@ -73,7 +75,8 @@ interface IStore {
     sceneSummaries: SceneSummary[],
     character_quotes: CharacterQuote[],
     sortedCharacters: CharacterData[],
-    evenSpacing: boolean
+    evenSpacing: boolean,
+    ratingDict: RatingDict
   ) => void;
 }
 
@@ -117,7 +120,8 @@ export const positionStore = create<IStore>((set, get) => ({
     sceneSummaries: SceneSummary[],
     character_quotes: CharacterQuote[],
     sortedCharacters: CharacterData[],
-    evenSpacing: boolean
+    evenSpacing: boolean,
+    ratingDict: RatingDict
   ) => {
     const newPositions = getAllPositions(
       scene_data,
@@ -130,7 +134,8 @@ export const positionStore = create<IStore>((set, get) => ({
       sceneSummaries,
       character_quotes,
       sortedCharacters,
-      evenSpacing
+      evenSpacing,
+      ratingDict
     );
 
     const { locationPos } = get();

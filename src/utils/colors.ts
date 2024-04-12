@@ -17,6 +17,7 @@ export const emotionColor = d3
   .domain([1, -1]);
 export const conflictColor = d3.scaleSequential(d3.interpolateGreens);
 export const importanceColor = d3.scaleSequential(d3.interpolatePurples);
+export const lengthColor = d3.scaleSequential(d3.interpolateOranges);
 
 export const groupColors = [
   d3.scaleSequential(d3.interpolateOrRd),
@@ -50,9 +51,11 @@ const color_increments = (color: any) => {
 const emotion_increments = color_increments(emotionColor);
 const conflict_increments = color_increments(conflictColor);
 const importance_increments = color_increments(importanceColor);
+const length_increments = color_increments(lengthColor);
 
 // add all to dict
 export const color_dict = {
+  length: length_increments,
   importance: importance_increments,
   conflict: conflict_increments,
   sentiment: emotion_increments,
