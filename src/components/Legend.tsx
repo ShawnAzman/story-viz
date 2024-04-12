@@ -122,7 +122,7 @@ function Legend() {
               fill="black"
               className="legend-label"
             >
-              {scale === "sentiment" ? -1 : scale === "numLines" ? minLines : 0}
+              {scale === "sentiment" ? -1 : scale === "length" ? minLines : 0}
             </text>
             <rect
               id="legend-bar"
@@ -164,7 +164,7 @@ function Legend() {
               fill="black"
               className="legend-label"
             >
-              {scale === "numLines" ? maxLines : 1}
+              {scale === "length" ? maxLines : 1}
             </text>
           </g>
         ))}
