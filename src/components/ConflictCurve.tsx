@@ -11,14 +11,8 @@ import { positionStore } from "../stores/positionStore";
 function ConflictCurve() {
   const { overlay, sceneHover, locationHover, characterHover, colorBy } =
     storyStore();
-  const {
-    conflictPath,
-    importancePath,
-    scenePos,
-    sceneWidth,
-    yShift,
-    minConflictY,
-  } = positionStore();
+  const { conflictPath, importancePath, scenePos, yShift, minConflictY } =
+    positionStore();
   const { scenes } = dataStore();
   return (
     <g id="conflict-container" transform={"translate(0 " + yShift + ")"}>
@@ -49,7 +43,7 @@ function ConflictCurve() {
           width={
             overlay === "none" || sceneHover === ""
               ? 0
-              : sceneWidth * scenes.indexOf(sceneHover)
+              : scenePos[scenes.indexOf(sceneHover)].x - scenePos[0].x
           }
           height={location_height + 0.5 * character_height}
         />
@@ -66,7 +60,8 @@ function ConflictCurve() {
           width={
             overlay === "none" || sceneHover === ""
               ? 0
-              : (scenes.length - scenes.indexOf(sceneHover) - 1) * sceneWidth
+              : scenePos[scenePos.length - 1].x -
+                scenePos[scenes.indexOf(sceneHover)].x
           }
           height={location_height + 0.5 * character_height}
         />

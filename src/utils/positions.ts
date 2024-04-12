@@ -193,7 +193,8 @@ const getPath = (
   scene_width: number,
   og_max_y_per_scene: number[],
   old_max_y_per_scene: number[],
-  sceneCharacters: SceneCharacter[]
+  sceneCharacters: SceneCharacter[],
+  scenePos: Position[]
 ) => {
   const adjustments = {} as Record<number, number>;
   const max_y_per_scene = [...old_max_y_per_scene];
@@ -255,28 +256,35 @@ const getPath = (
     // gap (1+ scene)
     const gap = charScenes[j] - charScenes[old_j];
     if (gap > 1) {
+      // calculate width of leftmost and rightmost scenes in gap
+      const prev_width =
+        scenePos[prev_scene_index].x - scenePos[prev_scene_index - 1].x;
+      const next_width = scenePos[scene_index].x - scenePos[scene_index - 1].x;
+      const avg_width = // avg width of all scenes in gap
+        (scenePos[scene_index].x - scenePos[prev_scene_index - 1].x) / gap;
+
+      let prev_base = Math.max(prev_width, avg_width);
+      let next_base = Math.max(next_width, avg_width);
+
       // big gap (2+ scenes) -- add two points
       if (gap > 2) {
         const new_max_y = cur_max_y;
-        let prev_multiplier = scene_width * 0.5;
-        let next_multiplier = prev_multiplier;
+
+        let prev_multiplier = prev_base * 0.5;
+        let next_multiplier = next_base * 0.5;
 
         let new_y = Math.max(new_max_y + character_offset, cur_y, prev_y);
         if (new_y - og_cur_max_y < character_offset) {
           new_y += 0.5 * character_offset;
         }
 
-        if (prevNumNextChars > 0) {
-          prev_multiplier += prevNumNextChars * character_offset;
-        }
-
-        if (numNextChars > 0) {
-          next_multiplier += numNextChars * character_offset;
-        }
+        // adjust multipliers based on number of characters after this one in prev and cur scenes
+        prev_multiplier += prevNumNextChars * character_offset;
+        next_multiplier += numNextChars * character_offset;
 
         if (Math.abs(cur_y - prev_y) < 2 * character_offset) {
           // set prev_multiplier and next_multiplier to be the same if in same location (max of these two values)
-          prev_multiplier = Math.max(prev_multiplier, next_multiplier);
+          prev_multiplier = Math.min(prev_multiplier, next_multiplier);
           next_multiplier = prev_multiplier;
         }
 
@@ -337,7 +345,7 @@ const getPath = (
             prev_y - cur_y > 2 * character_height &&
             prev_y > og_cur_max_y)
         ) {
-          let next_multiplier = scene_width * 0.75;
+          let next_multiplier = next_base * 0.75;
           // if character is moving down or small up gap
           character_coords_arr.splice(i, 0, [
             cur_x - next_multiplier - numPrevChars * character_offset,
@@ -351,7 +359,7 @@ const getPath = (
             cur_y > og_cur_max_y)
         ) {
           // if character is moving up or small down gap
-          let prev_multiplier = scene_width * 0.75;
+          let prev_multiplier = prev_base * 0.75;
           character_coords_arr.splice(i, 0, [
             prev_x + prev_multiplier + numNextChars * character_offset,
             cur_y,
@@ -377,25 +385,25 @@ const getPath = (
             if (prev_y === new_y) {
               // add one point
               character_coords_arr.splice(i, 0, [
-                cur_x - scene_width * 0.5,
+                cur_x - next_base * 0.5,
                 new_y,
               ]);
               i += 1;
             } else if (cur_y === new_y) {
               // add one point
               character_coords_arr.splice(i, 0, [
-                prev_x + scene_width * 0.5,
+                prev_x + prev_base * 0.5,
                 new_y,
               ]);
               i += 1;
             } else {
               // add two points
               character_coords_arr.splice(i, 0, [
-                prev_x + scene_width * 0.5,
+                prev_x + prev_base * 0.5,
                 new_y,
               ]);
               character_coords_arr.splice(i + 1, 0, [
-                cur_x - scene_width * 0.5,
+                cur_x - next_base * 0.5,
                 new_y,
               ]);
 
@@ -410,6 +418,11 @@ const getPath = (
         }
       }
     } else {
+      // width of gap
+      const width = cur_x - prev_x;
+      // compare to scene_width
+      const factor = Math.max(width / scene_width, 1);
+
       if (numPrevChars === 0) {
         if (
           cur_y > prev_y &&
@@ -440,7 +453,7 @@ const getPath = (
                 character_coords_arr.length < 5))))
       ) {
         // if character is moving down
-        adjustments[i] = -1 * prevNumPrevChars;
+        adjustments[i] = -1 * factor * prevNumPrevChars;
 
         if (i === 2 && i !== character_coords_arr.length - 2) {
           adjustments[i] /= 2;
@@ -458,7 +471,7 @@ const getPath = (
                 character_coords_arr.length < 5))))
       ) {
         // if character is moving up
-        adjustments[i] = numPrevChars;
+        adjustments[i] = factor * numPrevChars;
         if (i == 2 && i !== character_coords_arr.length - 2) {
           adjustments[i] *= 1.25;
         } else if (
@@ -467,6 +480,8 @@ const getPath = (
           prevNumPrevChars !== 0
         ) {
           adjustments[i] += 0.5;
+        } else if (numNextChars > 0 && prev_y - cur_y > 2 * location_buffer) {
+          adjustments[i] /= 4 * numNextChars;
         }
       }
     }
@@ -523,7 +538,8 @@ const characterPaths = (
   characterPos: Position[][],
   max_y_per_scene: number[],
   sceneCharacters: SceneCharacter[],
-  scene_data: Scene[]
+  scene_data: Scene[],
+  scenePos: Position[]
 ) => {
   const og_max_y_per_scene = [...max_y_per_scene];
   let updated_max_y_per_scene = [...max_y_per_scene];
@@ -552,7 +568,8 @@ const characterPaths = (
       scene_width,
       og_max_y_per_scene,
       updated_max_y_per_scene,
-      sceneCharacters
+      sceneCharacters,
+      scenePos
     );
     updated_max_y_per_scene = coord_info.max_y_per_scene;
     const og_indices = coord_info.og_indices;
@@ -1304,7 +1321,8 @@ export const getAllPositions = (
     initCharacterPos,
     initMaxYPerScene,
     sceneCharacters,
-    scene_data
+    scene_data,
+    initScenePos
   );
 
   const initCharacterPaths = pathInfo.paths;

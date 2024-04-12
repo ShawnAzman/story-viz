@@ -51,7 +51,7 @@ function PlotOptions() {
     "romeo",
   ];
 
-  const [evenSpacing, setEvenSpacing] = useState(true);
+  const [scaleByLength, setScaleByLength] = useState(false);
 
   const set_pos = () => {
     if (scene_data) {
@@ -66,7 +66,7 @@ function PlotOptions() {
         sceneSummaries,
         character_quotes,
         sortedCharacters,
-        evenSpacing
+        !scaleByLength
       );
     }
   };
@@ -89,7 +89,7 @@ function PlotOptions() {
 
   useEffect(() => {
     set_pos();
-  }, [scene_data, evenSpacing]);
+  }, [scene_data, scaleByLength]);
 
   return (
     <div id="options">
@@ -112,43 +112,11 @@ function PlotOptions() {
       </div>
       <Divider orientation="vertical" />
       <div className="options-contain">
-        <b>Scene Overlay</b>
+        <b>Scenes</b>
         <div className="options-inner">
           <Select
             size="xs"
-            label="Show"
-            data={overlayOptions}
-            value={overlay}
-            onChange={(value) => {
-              if (value) setOverlay(value);
-            }}
-          />
-          <Select
-            disabled={overlay === "none"}
-            size="xs"
-            label="Color"
-            data={colorByOptions}
-            value={colorBy}
-            onChange={(value) => {
-              if (value) setColorBy(value);
-            }}
-          />
-        </div>
-      </div>
-      <Divider orientation="vertical" />
-      <div className="options-contain">
-        <b>Scene Names</b>
-        <div className="options-inner">
-          <Switch
-            size="xs"
-            label="Space Evenly"
-            labelPosition="left"
-            checked={evenSpacing}
-            onChange={(event) => setEvenSpacing(event.currentTarget.checked)}
-          />
-          <Select
-            size="xs"
-            label="Size"
+            label="Font size"
             data={sizeByOptions}
             value={sizeBy}
             onChange={(value) => {
@@ -157,7 +125,7 @@ function PlotOptions() {
           />
           <Select
             size="xs"
-            label="Weight"
+            label="Font weight"
             data={sizeByOptions}
             value={weightBy}
             onChange={(value) => {
@@ -172,6 +140,22 @@ function PlotOptions() {
             onChange={(value) => {
               if (value) setColorBy(value);
             }}
+          />
+          <Select
+            size="xs"
+            label="Overlay"
+            data={overlayOptions}
+            value={overlay}
+            onChange={(value) => {
+              if (value) setOverlay(value);
+            }}
+          />
+          <Switch
+            size="xs"
+            label="Scale by length"
+            labelPosition="left"
+            checked={scaleByLength}
+            onChange={(event) => setScaleByLength(event.currentTarget.checked)}
           />
         </div>
         <i className="annotation">

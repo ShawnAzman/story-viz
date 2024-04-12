@@ -10,7 +10,7 @@ import {
 import { dataStore } from "../stores/dataStore";
 import { RatingDict } from "../utils/data";
 import { positionStore } from "../stores/positionStore";
-import { scene_base } from "../utils/consts";
+import { scene_base, scene_offset } from "../utils/consts";
 
 function Defs() {
   const { sceneHover, characterColor } = storyStore();
@@ -25,10 +25,12 @@ function Defs() {
           const charScenes = char.scenes;
           const first_scene = charScenes[0];
           const last_scene = charScenes[charScenes.length - 1];
-          const range = last_scene - first_scene + 1;
 
           // compute fade in and fade out percentages
-          const line_length = sceneWidth * range;
+          const line_length =
+            scenePos[last_scene] && scenePos[first_scene]
+              ? scenePos[last_scene].x - scenePos[first_scene].x + sceneWidth
+              : 0;
           const fade_in = scene_base / line_length / 2;
           const fade_in_percent = fade_in * 100;
           const fade_out_percent = 100 - fade_in_percent;
@@ -106,9 +108,17 @@ function Defs() {
                 if (j < charScenes.length - 1) {
                   const next_scene = charScenes[j + 1];
                   const start_gap =
-                    ((scene - first_scene + 1) * sceneWidth) / line_length;
+                    scenePos[scene] && scenePos[first_scene]
+                      ? (scenePos[scene].x -
+                          scenePos[first_scene].x +
+                          sceneWidth) /
+                        line_length
+                      : 0;
                   const end_gap =
-                    ((next_scene - first_scene) * sceneWidth) / line_length;
+                    scenePos[next_scene] && scenePos[first_scene]
+                      ? (scenePos[next_scene].x - scenePos[first_scene].x) /
+                        line_length
+                      : 0;
                   const start_gap_percent = start_gap * 100;
                   const end_gap_percent = end_gap * 100;
 
@@ -214,9 +224,12 @@ function Defs() {
             key={"rating gradient" + rating_type}
           >
             {ratingDict[rating_type as keyof RatingDict].map((rating, j) => {
-              const last_ind =
-                ratingDict[rating_type as keyof RatingDict].length - 1;
-              let percent = (j / last_ind) * 100;
+              const denom = scenePos[scenePos.length - 1]
+                ? scenePos[scenePos.length - 1].x - scene_offset
+                : 1;
+              let percent = scenePos[j]
+                ? ((scenePos[j].x - scene_offset) / denom) * 100
+                : 0;
               return (
                 <stop
                   offset={`${percent}%`}

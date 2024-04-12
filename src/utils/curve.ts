@@ -110,6 +110,15 @@ const controlPoint = (
         }
       }
     }
+  } else {
+    // undefined adjustment
+    if (prev_adjustment === -0.25) {
+      if (reverse) {
+        x += 4 * prev_adjustment * character_offset;
+      } else {
+        x += 2 * prev_adjustment * character_offset;
+      }
+    }
   }
 
   if (previous && x < previous[0]) {
