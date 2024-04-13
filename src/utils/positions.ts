@@ -109,8 +109,8 @@ const characterPos = (
       return {
         x: initialScenePos[scene].x - 0.5 * character_height,
         y:
-          locationPos[locations.indexOf(sceneLocations[scene])] -
-          0.6 * location_offset +
+          locationPos[locations.indexOf(sceneLocations[scene])] +
+          location_offset * 0.5 +
           character_offset *
             sceneCharacters[scene].characters.indexOf(character.character),
       };
@@ -121,14 +121,11 @@ const characterPos = (
 const characterSquares = (
   characterScenes: CharacterScene[],
   initialScenePos: Position[],
-  locationPos: number[],
-  locations: string[],
-  sceneLocations: string[],
-  sceneCharacters: SceneCharacter[],
-  scene_data: Scene[]
+  scene_data: Scene[],
+  characterPos: Position[][]
 ) =>
-  characterScenes.map((character) => {
-    return character.scenes.map((scene) => {
+  characterScenes.map((character, i) => {
+    return character.scenes.map((scene, j) => {
       const importance = scene_data[scene].characters.find(
         (c) => c.name === character.character
       )?.importance as number;
@@ -137,11 +134,7 @@ const characterSquares = (
         character_height * importance
       );
 
-      let char_y =
-        locationPos[locations.indexOf(sceneLocations[scene])] -
-        0.6 * location_offset +
-        character_offset *
-          sceneCharacters[scene].characters.indexOf(character.character);
+      let char_y = characterPos[i][j].y;
 
       if (normalized_importance < character_height) {
         char_y += character_height / 2 - normalized_importance / 2;
@@ -1307,11 +1300,8 @@ export const getAllPositions = (
   const initCharacterSquares = characterSquares(
     characterScenes,
     initScenePos,
-    initLocationPos,
-    locations,
-    sceneLocations,
-    sceneCharacters,
-    scene_data
+    scene_data,
+    initCharacterPos
   );
 
   const initMaxYPerScene = max_y_per_scene(
