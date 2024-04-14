@@ -179,7 +179,7 @@ const location_chunks = (
       return aIndex - bIndex;
     })
     .map((location) => {
-      return chunkQuote(location.name, 24);
+      return chunkQuote(location.name, 22);
     });
 /* CHARACTER DATA */
 // get all characters by finding unique 'name' values in characters object

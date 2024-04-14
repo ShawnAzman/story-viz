@@ -46,18 +46,19 @@ function PlotOptions() {
     "default",
   ];
   const characterColorOptions = ["default", "llm", "sentiment", "importance"];
-  const sizeByOptions = ["conflict", "importance", "default"];
-  const overlayOptions = ["conflict", "importance", "none"];
+  const sizeByOptions = ["conflict", "importance", "length", "default"];
+  const overlayOptions = ["conflict", "importance", "length", "none"];
   const storyOptions = [
     "gatsby",
-    "gatsby2",
+    // "gatsby2",
     "alice",
     "wizard",
     "aladdin",
     "pride",
     "romeo",
     "yourname",
-  ];
+    "sound",
+  ].sort();
 
   const [scaleByLength, setScaleByLength] = useState(false);
 

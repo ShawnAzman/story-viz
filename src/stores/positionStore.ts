@@ -61,6 +61,7 @@ interface IStore {
   colorBarPos: Box[];
   conflictPath: string;
   importancePath: string;
+  lengthPath: string;
   yShift: number;
   minConflictY: number;
 
@@ -103,6 +104,7 @@ const initialState = {
   colorBarPos: init_pos_values.colorBarPos,
   conflictPath: init_pos_values.conflictPath,
   importancePath: init_pos_values.importancePath,
+  lengthPath: init_pos_values.lengthPath,
   yShift: init_pos_values.yShift,
   minConflictY: init_pos_values.minConflictY,
 };
@@ -167,6 +169,7 @@ export const positionStore = create<IStore>((set, get) => ({
       colorBarPos: newPositions.colorBarPos,
       conflictPath: newPositions.conflictPath,
       importancePath: newPositions.importancePath,
+      lengthPath: newPositions.lengthPath,
       yShift: newPositions.yShift,
       minConflictY: newPositions.minConflictY,
     });

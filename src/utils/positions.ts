@@ -1156,38 +1156,36 @@ const color_bar_pos = (plotWidth: number, scenePos: Position[]) => {
   });
 };
 
-// compute conflict curve positions based on conflict rating of each scene
-const conflict_points = (
-  scene_data: Scene[],
-  min_conflict_y: number,
-  scenePos: Position[],
-  type: string
+// compute overlay curve positions based on conflict/importance/etc. rating of each scene
+const overlay_points = (
+  ratings: number[],
+  min_y_point: number,
+  scenePos: Position[]
 ) =>
-  scene_data.map((scene, i) => {
+  ratings.map((rating, i) => {
     // for each scene, compute the x and y coordinates for the curve
     const x = scenePos[i].x;
-    // y should be between min_conflict_y and min_conflict_y + location_height (max conflict)
-    let conflict =
-      type === "conflict" ? scene.ratings.conflict : scene.ratings.importance;
-    if (conflict === 0) {
-      conflict = 0.05;
+    // y should be between min_y_point and min_y_point + location_height (max rating)
+    let rating_val = rating;
+    if (rating_val === 0) {
+      rating_val = 0.05;
     }
-    const y = min_conflict_y - conflict * location_height;
+    const y = min_y_point - rating_val * location_height;
     return { x: x, y: y };
   });
 
-// compute conflict curve
-const conflictPath = (conflict_points: Position[], min_conflict_y: number) => {
-  const conflict_coords = conflict_points.map((point: any) => [
+// compute overlay curve
+const overlayPath = (conflict_points: Position[], min_conflict_y: number) => {
+  const overlay_coords = conflict_points.map((point: any) => [
     point.x + character_height / 2 - 5,
     point.y + character_height / 2,
   ]);
 
-  const path = svgPath(conflict_coords, {}, bezierCommand, 0.3);
+  const path = svgPath(overlay_coords, {}, bezierCommand, 0.3);
 
   // add a point at the beginning and end of the curve to close it off
-  const start = [conflict_coords[0][0], min_conflict_y];
-  const end = [conflict_coords[conflict_coords.length - 1][0], min_conflict_y];
+  const start = [overlay_coords[0][0], min_conflict_y];
+  const end = [overlay_coords[overlay_coords.length - 1][0], min_conflict_y];
 
   const edited_path = path.replace("M", "M" + start[0] + "," + start[1] + " L");
   return edited_path + " L " + end[0] + "," + end[1];
@@ -1419,22 +1417,27 @@ export const getAllPositions = (
     initColorBarPos[0].y + initColorBarPos[0].height + 8 * character_height;
 
   const min_conflict_y = max_y + location_buffer;
-  const initConflictPoints = conflict_points(
-    scene_data,
+  const initConflictPoints = overlay_points(
+    ratingDict.conflict,
     min_conflict_y,
-    initScenePos,
-    "conflict"
+    initScenePos
   );
 
-  const initConflictPath = conflictPath(initConflictPoints, min_conflict_y);
+  const initConflictPath = overlayPath(initConflictPoints, min_conflict_y);
 
-  const initImportancePoints = conflict_points(
-    scene_data,
+  const initImportancePoints = overlay_points(
+    ratingDict.importance,
     min_conflict_y,
-    initScenePos,
-    "importance"
+    initScenePos
   );
-  const initImportancePath = conflictPath(initImportancePoints, min_conflict_y);
+  const initImportancePath = overlayPath(initImportancePoints, min_conflict_y);
+
+  const initLengthPoints = overlay_points(
+    ratingDict.length,
+    min_conflict_y,
+    initScenePos
+  );
+  const initLengthPath = overlayPath(initLengthPoints, min_conflict_y);
 
   return {
     sceneWidth: sceneWidth,
@@ -1459,6 +1462,7 @@ export const getAllPositions = (
     colorBarPos: initColorBarPos,
     conflictPath: initConflictPath,
     importancePath: initImportancePath,
+    lengthPath: initLengthPath,
     yShift: yShift,
     minConflictY: min_conflict_y,
   };

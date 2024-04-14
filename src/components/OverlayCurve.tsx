@@ -8,18 +8,30 @@ import {
 import { dataStore } from "../stores/dataStore";
 import { positionStore } from "../stores/positionStore";
 
-function ConflictCurve() {
+function OverlayCurve() {
   const { overlay, sceneHover, locationHover, characterHover, colorBy } =
     storyStore();
-  const { conflictPath, importancePath, scenePos, yShift, minConflictY } =
-    positionStore();
+  const {
+    conflictPath,
+    importancePath,
+    lengthPath,
+    scenePos,
+    yShift,
+    minConflictY,
+  } = positionStore();
   const { scenes } = dataStore();
   return (
     <g id="conflict-container" transform={"translate(0 " + yShift + ")"}>
       {/* add conflict curve */}
       <path
         id="conflict-curve"
-        d={overlay === "importance" ? importancePath : conflictPath}
+        d={
+          overlay === "importance"
+            ? importancePath
+            : overlay === "conflict"
+            ? conflictPath
+            : lengthPath
+        }
         fillOpacity={0}
         fill={colorBy === "default" ? "#ddd" : "url(#rating" + colorBy + ")"}
         strokeWidth={2}
@@ -41,7 +53,9 @@ function ConflictCurve() {
           x={scenePos[0].x}
           y={minConflictY - location_height + 0.5 * character_height}
           width={
-            overlay === "none" || sceneHover === ""
+            overlay === "none" ||
+            sceneHover === "" ||
+            (sceneHover !== "" && !scenePos[scenes.indexOf(sceneHover)])
               ? 0
               : scenePos[scenes.indexOf(sceneHover)].x - scenePos[0].x
           }
@@ -52,13 +66,17 @@ function ConflictCurve() {
           className="white-overlay"
           fill="url(#white-gradient-right)"
           x={
-            overlay === "none" || sceneHover === ""
+            overlay === "none" ||
+            sceneHover === "" ||
+            (sceneHover !== "" && !scenePos[scenes.indexOf(sceneHover)])
               ? scenePos[scenePos.length - 1].x
               : scenePos[scenes.indexOf(sceneHover)].x + 0.5 * character_offset
           }
           y={minConflictY - location_height + 0.5 * character_height}
           width={
-            overlay === "none" || sceneHover === ""
+            overlay === "none" ||
+            sceneHover === "" ||
+            (sceneHover !== "" && !scenePos[scenes.indexOf(sceneHover)])
               ? 0
               : scenePos[scenePos.length - 1].x -
                 scenePos[scenes.indexOf(sceneHover)].x
@@ -103,4 +121,4 @@ function ConflictCurve() {
   );
 }
 
-export default ConflictCurve;
+export default OverlayCurve;

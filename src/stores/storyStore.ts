@@ -28,11 +28,11 @@ interface IStore {
 }
 
 const initialState = {
-  overlay: "none",
+  overlay: "conflict",
   colorBy: "sentiment",
-  sizeBy: "conflict",
+  sizeBy: "length",
   weightBy: "importance",
-  characterColor: "default",
+  characterColor: "llm",
 
   locationHover: "",
   characterHover: "",

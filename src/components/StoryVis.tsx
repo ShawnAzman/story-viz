@@ -1,7 +1,7 @@
 import Defs from "./Defs";
 import YAxis from "./YAxis";
 import XAxis from "./XAxis";
-import ConflictCurve from "./ConflictCurve";
+import OverlayCurve from "./OverlayCurve";
 import MainPlot from "./MainPlot";
 import OverlayInfo from "./Overlays/OverlayInfo";
 import Legend from "./Legend";
@@ -25,7 +25,7 @@ function StoryVis() {
       preserveAspectRatio="xMidYMid meet" // This helps in maintaining the aspect ratio
     >
       <Defs />
-      <ConflictCurve />
+      <OverlayCurve />
       <YAxis />
       <XAxis />
       <MainPlot />

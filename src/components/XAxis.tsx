@@ -86,7 +86,9 @@ function XAxis() {
                   ? 1.5
                   : sizeBy === "conflict"
                   ? normalizeTextOffset(ratings.conflict)
-                  : normalizeTextOffset(ratings.importance);
+                  : sizeBy === "importance"
+                  ? normalizeTextOffset(ratings.importance)
+                  : normalizeTextOffset(numLines);
 
               const fontSize =
                 sizeBy === "default"
@@ -94,7 +96,10 @@ function XAxis() {
                   : sizeBy === "conflict"
                   ? normalizeFontSize(ratings.conflict) +
                     (ratings.conflict >= 0.66 ? 0.2 : 0)
-                  : normalizeFontSize(ratings.importance) +
+                  : sizeBy === "importance"
+                  ? normalizeFontSize(ratings.importance) +
+                    (ratings.conflict >= 0.66 ? 0.2 : 0)
+                  : normalizeFontSize(numLines) +
                     (ratings.conflict >= 0.66 ? 0.2 : 0);
 
               const color =
@@ -113,6 +118,8 @@ function XAxis() {
                   ? getFontWeight(ratings.importance)
                   : weightBy === "conflict"
                   ? getFontWeight(ratings.conflict)
+                  : weightBy === "length"
+                  ? getFontWeight(numLines)
                   : 500;
 
               const letterSpacing =
