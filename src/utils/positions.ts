@@ -188,7 +188,6 @@ const getPath = (
   old_max_y_per_scene: number[],
   sceneCharacters: SceneCharacter[],
   scenePos: Position[],
-  sceneLocations: string[],
   characterScenes: CharacterScene[],
   characterPos: Position[][]
 ) => {
@@ -589,8 +588,7 @@ const characterPaths = (
   max_y_per_scene: number[],
   sceneCharacters: SceneCharacter[],
   scene_data: Scene[],
-  scenePos: Position[],
-  sceneLocations: string[]
+  scenePos: Position[]
 ) => {
   const og_max_y_per_scene = [...max_y_per_scene];
   let updated_max_y_per_scene = [...max_y_per_scene];
@@ -622,7 +620,6 @@ const characterPaths = (
       updated_max_y_per_scene,
       sceneCharacters,
       scenePos,
-      sceneLocations,
       characterScenes,
       characterPos
     );
@@ -1339,8 +1336,7 @@ export const getAllPositions = (
     initMaxYPerScene,
     sceneCharacters,
     scene_data,
-    initScenePos,
-    sceneLocations
+    initScenePos
   );
 
   const initCharacterPaths = pathInfo.paths;
