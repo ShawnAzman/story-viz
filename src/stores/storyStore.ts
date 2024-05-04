@@ -30,12 +30,12 @@ interface IStore {
 }
 
 const initialState = {
-  overlay: "conflict",
+  overlay: "none",
   colorBy: "sentiment",
   sizeBy: "length",
   weightBy: "importance",
   characterColor: "llm",
-  showChapters: true,
+  showChapters: false,
 
   locationHover: "",
   characterHover: "",

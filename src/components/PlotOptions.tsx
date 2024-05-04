@@ -69,6 +69,7 @@ function PlotOptions() {
     "sound",
     "anne",
     "coco",
+    "mendips",
   ].sort();
 
   const [scaleByLength, setScaleByLength] = useState(false);
