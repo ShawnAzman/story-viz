@@ -458,6 +458,15 @@ const getPath = (
           for (let j = prev_scene_index; j < scene_index; j++) {
             max_y_per_scene[j] = new_y;
           }
+          if (new_y - cur_y > 3 * location_buffer && numNextChars !== 0) {
+            adjustments[i + 2] = 2 * numNextChars;
+          } else if (
+            new_y - cur_y > 2.5 * location_buffer &&
+            numNextChars === 0 &&
+            cur_x - prev_x > scene_width * 5
+          ) {
+            adjustments[i + 2] = 1.5 * numPrevChars;
+          }
         }
       } else {
         // small gap (1 scene) -- add one point
@@ -493,6 +502,10 @@ const getPath = (
               cur_x - next_multiplier - numNextChars * character_offset,
               new_y,
             ]);
+
+            if (i === character_coords_arr.length - 4) {
+              adjustments[i + 2] = -0.75;
+            }
           } else if (
             (prev_y - cur_y > location_buffer &&
               numPrevChars === 0 &&
@@ -619,14 +632,6 @@ const getPath = (
           const next_char_scenes = characterScenes.find(
             (c) => c.character === next_char
           )?.scenes;
-          if (character.character === "Nick") {
-            console.log(
-              next_char,
-              next_char_scenes,
-              prev_scene_index,
-              scene_index
-            );
-          }
           if (
             next_char_scenes &&
             next_char_scenes[0] === prev_scene_index - 1
@@ -955,7 +960,9 @@ const location_quote_boxes = (
   locationPos: number[],
   location_quotes: LocationQuote[]
 ) => {
+  // console.log(location_quotes);
   return locations.map((loc, i) => {
+    // console.log(loc);
     const cur_quote =
       location_quotes.find((quote) => quote.location === loc) ||
       location_quotes[i];
@@ -992,7 +999,9 @@ const character_quote_boxes = (
   legend_box_pos: Box,
   character_quotes: CharacterQuote[]
 ) => {
+  // console.log(character_quotes);
   return characterScenes.map((char, i) => {
+    // console.log(char.character);
     const cur_quote =
       character_quotes.find((c) => c.character === char.character) ||
       character_quotes[i];

@@ -100,6 +100,18 @@ const controlPoint = (
             previous[1] - current[1] > 2 * location_buffer
           ) {
             x -= adjustment * character_offset;
+          } else if (
+            previous &&
+            previous[1] - current[1] > 3 * location_buffer &&
+            next &&
+            next[1] - current[1] < 2 * location_buffer
+          ) {
+            x -= 1.5 * adjustment * character_offset;
+          } else if (
+            previous &&
+            previous[1] - current[1] > 2.5 * location_buffer
+          ) {
+            x += 2 * adjustment;
           }
         }
       }
@@ -112,6 +124,10 @@ const controlPoint = (
           }
         } else if (next && next[1] - current[1] > 2 * location_buffer) {
           x -= 2 * adjustment * character_offset;
+        }
+      } else if (adjustment == -0.75) {
+        if (reverse) {
+          x -= adjustment * character_offset;
         }
       } else {
         if (!reverse) {
@@ -147,7 +163,11 @@ const controlPoint = (
     ) {
       if (reverse) {
         x -= 2 * prev_adjustment * character_offset;
-      } else {
+      } else if (
+        !reverse &&
+        next &&
+        next[1] - current[1] < 3 * location_buffer
+      ) {
         x -= 2 * prev_adjustment * character_offset;
       }
     }
