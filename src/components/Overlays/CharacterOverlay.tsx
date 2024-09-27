@@ -113,7 +113,7 @@ function CharacterOverlay() {
                 width={location_height * 0.5}
                 height={location_height * 0.5}
                 href={
-                  "/characters/" +
+                  "characters/" +
                   onlyLetters(story.replace("-mov", "")) +
                   "/" +
                   character_data.find(
@@ -121,7 +121,7 @@ function CharacterOverlay() {
                   )?.key +
                   ".png"
                 }
-                placeholder="/characters/placeholder.png"
+                placeholder="characters/placeholder.png"
               />
               {/* add color quotes */}
               {characterColor === "llm" && (

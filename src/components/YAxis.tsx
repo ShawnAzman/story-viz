@@ -55,13 +55,13 @@ function YAxis() {
                 width={location_height * 0.75}
                 height={location_height * 0.75}
                 href={
-                  "/locations/" +
+                  "locations/" +
                   onlyLetters(story.replace("mov", "")) +
                   "/" +
                   location_data.find((l) => l.name === location)?.key +
                   ".png"
                 }
-                placeholder="/locations/placeholder.png"
+                placeholder="locations/placeholder.png"
                 className="location-img"
               />
               <g className="location-name-group">
