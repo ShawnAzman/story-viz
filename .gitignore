@@ -3,6 +3,7 @@ Pipfile.lock
 node_modules
 .DS_Store
 
+dist/
 archive/
 secrets.json
 scripts/
