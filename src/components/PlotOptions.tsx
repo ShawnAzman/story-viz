@@ -163,6 +163,17 @@ function PlotOptions() {
   }, [scene_data, scaleByLength, yAxis]);
 
   useEffect(() => {
+    // change character color based on y-axis
+    if (yAxis === "sentiment") {
+      setCharacterColor("sentiment");
+    } else if (yAxis === "importance") {
+      setCharacterColor("importance");
+    } else {
+      setCharacterColor("llm");
+    }
+  }, [yAxis]);
+
+  useEffect(() => {
     updatePaths();
   }, [activeChapters]);
 
