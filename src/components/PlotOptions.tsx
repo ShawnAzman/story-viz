@@ -77,7 +77,7 @@ function PlotOptions() {
     "coco",
     "mendips",
   ].sort();
-  const yAxisOptions = ["location", "importance", "sentiment"];
+  const yAxisOptions = ["location", "character", "importance", "sentiment"];
 
   const [scaleByLength, setScaleByLength] = useState(false);
 

@@ -199,17 +199,17 @@ function Defs() {
                       <stop
                         key={`start-gap-${i}-${j}`}
                         offset={`${start_gap_percent}%`}
-                        stopColor={start_color.replace(")", ",0.3)")}
+                        stopColor={start_color.replace(")", ",0.1)")}
                       />,
                       <stop
                         key={`mid-gap-${i}-${j}`}
                         offset={`${(start_gap_percent + end_gap_percent) / 2}%`}
-                        stopColor={end_color.replace(")", ",0.1)")}
+                        stopColor={end_color.replace(")", ",0)")}
                       />,
                       <stop
                         key={`end-gap-${i}-${j}`}
                         offset={`${end_gap_percent}%`}
-                        stopColor={end_color.replace(")", ",0.3)")}
+                        stopColor={end_color.replace(")", ",0.1)")}
                       />,
                       <stop
                         key={`full-opacity-after-gap-${i}-${j}`}

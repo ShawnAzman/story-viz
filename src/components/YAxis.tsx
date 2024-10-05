@@ -18,6 +18,7 @@ function YAxis() {
     setLocationHover,
     sceneHover,
     characterHover,
+    setCharacterHover,
     yAxis,
   } = storyStore();
   const {
@@ -27,8 +28,9 @@ function YAxis() {
     locations,
     location_chunks,
     location_data,
+    sortedCharacters,
   } = dataStore();
-  const { locationPos, yShift, scenePos } = positionStore();
+  const { locationPos, yShift, characterPos } = positionStore();
   return (
     <g id="y-axis" transform={"translate(0 " + yShift + ")"}>
       {/* add locations to y axis */}
@@ -101,7 +103,7 @@ function YAxis() {
             x={location_buffer}
             y={0.5 * location_offset}
             width={location_offset}
-            height={scenePos[0].y - 1.5 * location_offset}
+            height={locationPos[locationPos.length - 1] + 0.5 * location_offset}
             fill={`url(#vert-legend${yAxis})`}
           ></rect>
           <text
@@ -115,7 +117,7 @@ function YAxis() {
           </text>
           <text
             x={location_buffer + 0.5 * location_offset}
-            y={scenePos[0].y - 1.5 * location_offset}
+            y={locationPos[locationPos.length - 1] + 0.5 * location_offset}
             className="y-axis-label"
             textAnchor="middle"
             fill={yAxis === "sentiment" ? "white" : "black"}
@@ -125,12 +127,37 @@ function YAxis() {
           {/* Add the rotated label */}
           <text
             transform={`rotate(-90)`}
-            x={-locationPos[locationPos.length - 1] / 2 - 0.5 * location_buffer}
+            x={-locationPos[locationPos.length - 1] / 2 - location_offset}
             y={location_buffer - location_offset} // Adjust to position left of the legend bar
             textAnchor="middle"
           >
             {yAxis === "sentiment" ? "sentiment" : "importance"}
           </text>
+        </g>
+      )}
+      {yAxis === "character" && (
+        <g>
+          {characterScenes.map((char, i) => {
+            const sortChar = sortedCharacters.find(
+              (c) => c.character === char.character
+            );
+            return (
+              <text
+                key={"character" + i}
+                x={location_height * 1.7}
+                y={
+                  characterPos[i] &&
+                  characterPos[i][0] &&
+                  characterPos[i][0].y + 0.5 * character_offset
+                }
+                textAnchor="end"
+                onMouseEnter={() => setCharacterHover(char.character)}
+                onMouseLeave={() => setCharacterHover("")}
+              >
+                {sortChar && sortChar.short ? sortChar.short : char.character}
+              </text>
+            );
+          })}
         </g>
       )}
     </g>

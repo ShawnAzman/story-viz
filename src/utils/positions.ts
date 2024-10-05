@@ -103,7 +103,8 @@ const characterPos = (
   locations: string[],
   sceneLocations: string[],
   sceneCharacters: SceneCharacter[],
-  scene_data: Scene[]
+  scene_data: Scene[],
+  sortedCharacters: CharacterData[]
 ) => {
   const charPos = characterScenes.map((character) => {
     return character.scenes.map((scene) => {
@@ -117,16 +118,31 @@ const characterPos = (
       };
     });
   });
+
   const maxLoc = locationPos[locationPos.length - 1];
+  const num_characters = characterScenes.length;
+  const char_inc = maxLoc / num_characters;
   const promPos = characterScenes.map((character) => {
     return character.scenes.map((scene) => {
       const cur_scene = scene_data[scene];
       const char_importance = cur_scene.characters.find(
         (c) => c.name === character.character
       )?.importance as number;
+      // see if there are any other characters with the same importance
+      const other_chars = cur_scene.characters.filter(
+        (c) => c.importance === char_importance
+      );
+      // get index of current character in other_chars
+      const char_index = other_chars.findIndex(
+        (c) => c.name === character.character
+      );
       return {
         x: initialScenePos[scene].x - 0.5 * character_height,
-        y: maxLoc + location_offset * 0.5 - maxLoc * char_importance,
+        y:
+          maxLoc +
+          location_offset * 0.5 -
+          maxLoc * char_importance +
+          character_offset * char_index,
       };
     });
   });
@@ -154,10 +170,23 @@ const characterPos = (
       };
     });
   });
+  const charListPos = characterScenes.map((character) => {
+    const i = sortedCharacters.findIndex(
+      (char) => char.character === character.character
+    );
+    return character.scenes.map((scene) => {
+      return {
+        x: initialScenePos[scene].x - 0.5 * character_height,
+        y: char_inc * i,
+      };
+    });
+  });
+
   return {
     charPos: charPos,
     promPos: promPos,
     emotionPos: emotionPos,
+    charListPos: charListPos,
   };
 };
 
@@ -1568,7 +1597,8 @@ export const getAllPositions = (
     locations,
     sceneLocations,
     sceneCharacters,
-    scene_data
+    scene_data,
+    sortedCharacters
   );
 
   const initCharacterPos =
@@ -1576,7 +1606,9 @@ export const getAllPositions = (
       ? characterInfo.charPos
       : yAxis === "importance"
       ? characterInfo.promPos
-      : characterInfo.emotionPos;
+      : yAxis === "sentiment"
+      ? characterInfo.emotionPos
+      : characterInfo.charListPos;
 
   const initCharacterSquares = characterSquares(
     characterScenes,
