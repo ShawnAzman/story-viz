@@ -84,7 +84,7 @@ function XAxis() {
       id="x-axis"
       transform={
         "translate(0 " +
-        ((yAxis !== "location" && overlay === "none" ? 0 : yShift) +
+        (yShift +
           (overlay !== "none" ? extra_yshift(minConflictY, scenePos) : 0)) +
         ")"
       }
