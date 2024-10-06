@@ -32,6 +32,7 @@ const controlPoint = (
   prev_adjustment: number,
   next_adjustment: number,
   reverse: any,
+  second: boolean,
   secondLast: boolean,
   smoothing: number = 0.4
 ) => {
@@ -54,136 +55,182 @@ const controlPoint = (
   let length = o.length * smoothing;
   if (secondLast && reverse && current[1] > previous[1]) {
     // adjust length for second last point
-    length *= 2;
+    length *= 1.5;
   }
-
   // The control point position is relative to the current point
   let x = current[0] + Math.cos(angle) * length;
   let y = current[1] + Math.sin(angle) * 0;
 
-  if (adjustment) {
-    if (adjustment > 0) {
-      // moving up
-      if (adjustment == 0.25) {
-        if (previous && previous[1] - current[1] > 2 * location_buffer) {
-          if (reverse) {
-            x += 4 * adjustment * character_offset;
-          }
-        } else {
-          x += 2 * adjustment * character_offset;
-        }
-      } else if (adjustment == 0.75) {
-        if (!reverse) {
-          x -= 7 * adjustment * character_offset;
-        }
-      } else {
-        if (!reverse) {
-          if (
-            (previous && previous[1] - current[1] > location_buffer) ||
-            (!next_adjustment && prev_adjustment) ||
-            next_adjustment < 0 ||
-            (next && current[1] - next[1] > location_buffer)
-          ) {
-            x += 2 * adjustment * character_offset;
+  // second point adjustment
+  if (
+    second &&
+    adjustment !== 0 &&
+    previous &&
+    ((current[1] > previous[1] && current[1] - previous[1] > location_buffer) ||
+      (previous[1] > current[1] &&
+        previous[1] - current[1] < 2 * location_buffer))
+  ) {
+    x += 2 * character_offset;
+  }
 
-            if (adjustment > 1 && adjustment < 1.25) {
-              x -= adjustment * character_offset;
-            }
-          } else if (
-            prev_adjustment === undefined &&
-            next_adjustment === undefined
-          ) {
-            x += adjustment * character_offset;
-          }
-        } else {
-          x += 0.5 * adjustment * character_offset;
-
-          if (
-            adjustment > 1 &&
-            adjustment < 1.25 &&
-            previous &&
-            previous[1] - current[1] > 2 * location_buffer
-          ) {
-            x -= adjustment * character_offset;
-          } else if (
-            previous &&
-            previous[1] - current[1] > 3 * location_buffer &&
-            next &&
-            next[1] - current[1] < 2 * location_buffer
-          ) {
-            x -= 1.5 * adjustment * character_offset;
-          } else if (
-            previous &&
-            previous[1] - current[1] > 2.5 * location_buffer
-          ) {
-            x += 2 * adjustment;
-          }
-        }
-      }
-    } else if (adjustment < 0) {
-      // moving down
-      if (adjustment == -0.25) {
-        if (previous && current[1] - previous[1] > 2 * location_buffer) {
-          if (reverse) {
-            x -= 1 * adjustment * character_offset;
-          }
-        } else if (next && next[1] - current[1] > 2 * location_buffer) {
-          x -= 2 * adjustment * character_offset;
-        }
-      } else if (adjustment == -0.75) {
-        if (reverse) {
-          x -= adjustment * character_offset;
-        }
-      } else {
-        if (!reverse) {
-          x += 0.5 * adjustment * character_offset;
-          if (
-            prev_adjustment === undefined &&
-            next_adjustment === undefined &&
-            adjustment > -2
-          ) {
-            x += 0.5 * adjustment * character_offset;
-          }
-        } else {
-          if (
-            (previous && current[1] - previous[1] > location_buffer) ||
-            secondLast ||
-            (!prev_adjustment && next_adjustment)
-          ) {
-            x += 2 * adjustment * character_offset;
-
-            if (adjustment < -1 && adjustment > -1.25) {
-              x += adjustment * character_offset;
-            }
-          }
-        }
-      }
+  if (adjustment && adjustment > 0) {
+    if (reverse) {
+      // console.log("here1");
+      x += 0.5 * adjustment * character_offset;
+    } else {
+      x -= 0.5 * adjustment * character_offset;
     }
-  } else {
-    // undefined adjustment
-    if (prev_adjustment === -0.25) {
-      if (reverse) {
-        x += 4 * prev_adjustment * character_offset;
-      } else {
-        x += 2 * prev_adjustment * character_offset;
-      }
-    } else if (
-      prev_adjustment > 0 &&
-      next_adjustment === undefined &&
-      next &&
-      next[1] - current[1] > 2 * location_buffer
-    ) {
-      if (reverse) {
-        x -= 2 * prev_adjustment * character_offset;
-      } else if (
-        !reverse &&
-        next &&
-        next[1] - current[1] < 3 * location_buffer
-      ) {
-        x -= 2 * prev_adjustment * character_offset;
-      }
+  } else if (adjustment && adjustment < 0) {
+    // console.log("here2");
+    if (!reverse) {
+      x += 0.5 * adjustment * character_offset;
     }
   }
+  if (
+    adjustment === 0 &&
+    prev_adjustment &&
+    prev_adjustment > 0 &&
+    next &&
+    next[1] - current[1] > location_buffer
+  ) {
+    // if (reverse) {
+    x += 2 * prev_adjustment * character_offset;
+    // }
+  } else if (
+    adjustment === 0 &&
+    prev_adjustment &&
+    prev_adjustment < 0 &&
+    next &&
+    current[1] - next[1] > location_buffer
+  ) {
+    if (!reverse) {
+      x -= 2 * prev_adjustment * character_offset;
+    }
+  }
+
+  // if (adjustment) {
+  //   if (adjustment > 0) {
+  //     // moving up
+  //     if (adjustment == 0.25) {
+  //       if (previous && previous[1] - current[1] > 2 * location_buffer) {
+  //         if (reverse) {
+  //           x += 4 * adjustment * character_offset;
+  //         }
+  //       } else {
+  //         x += 2 * adjustment * character_offset;
+  //       }
+  //     } else if (adjustment == 0.75) {
+  //       if (!reverse) {
+  //         x -= 7 * adjustment * character_offset;
+  //       }
+  //     } else {
+  //       if (!reverse) {
+  //         if (
+  //           (previous && previous[1] - current[1] > location_buffer) ||
+  //           (!next_adjustment && prev_adjustment) ||
+  //           next_adjustment < 0 ||
+  //           (next && current[1] - next[1] > location_buffer)
+  //         ) {
+  //           x += 2 * adjustment * character_offset;
+
+  //           if (adjustment > 1 && adjustment < 1.25) {
+  //             x -= adjustment * character_offset;
+  //           }
+  //         } else if (
+  //           prev_adjustment === undefined &&
+  //           next_adjustment === undefined
+  //         ) {
+  //           x += adjustment * character_offset;
+  //         }
+  //       } else {
+  //         x += 0.5 * adjustment * character_offset;
+
+  //         if (
+  //           adjustment > 1 &&
+  //           adjustment < 1.25 &&
+  //           previous &&
+  //           previous[1] - current[1] > 2 * location_buffer
+  //         ) {
+  //           x -= adjustment * character_offset;
+  //         } else if (
+  //           previous &&
+  //           previous[1] - current[1] > 3 * location_buffer &&
+  //           next &&
+  //           next[1] - current[1] < 2 * location_buffer
+  //         ) {
+  //           x -= 1.5 * adjustment * character_offset;
+  //         } else if (
+  //           previous &&
+  //           previous[1] - current[1] > 2.5 * location_buffer
+  //         ) {
+  //           x += 2 * adjustment;
+  //         }
+  //       }
+  //     }
+  //   } else if (adjustment < 0) {
+  //     // moving down
+  //     if (adjustment == -0.25) {
+  //       if (previous && current[1] - previous[1] > 2 * location_buffer) {
+  //         if (reverse) {
+  //           x -= 1 * adjustment * character_offset;
+  //         }
+  //       } else if (next && next[1] - current[1] > 2 * location_buffer) {
+  //         x -= 2 * adjustment * character_offset;
+  //       }
+  //     } else if (adjustment == -0.75) {
+  //       if (reverse) {
+  //         x -= adjustment * character_offset;
+  //       }
+  //     } else {
+  //       if (!reverse) {
+  //         x += 0.5 * adjustment * character_offset;
+  //         if (
+  //           prev_adjustment === undefined &&
+  //           next_adjustment === undefined &&
+  //           adjustment > -2
+  //         ) {
+  //           x += 0.5 * adjustment * character_offset;
+  //         }
+  //       } else {
+  //         if (
+  //           (previous && current[1] - previous[1] > location_buffer) ||
+  //           secondLast ||
+  //           (!prev_adjustment && next_adjustment)
+  //         ) {
+  //           x += 2 * adjustment * character_offset;
+
+  //           if (adjustment < -1 && adjustment > -1.25) {
+  //             x += adjustment * character_offset;
+  //           }
+  //         }
+  //       }
+  //     }
+  //   }
+  // } else {
+  //   // undefined adjustment
+  //   if (prev_adjustment === -0.25) {
+  //     if (reverse) {
+  //       x += 4 * prev_adjustment * character_offset;
+  //     } else {
+  //       x += 2 * prev_adjustment * character_offset;
+  //     }
+  //   } else if (
+  //     prev_adjustment > 0 &&
+  //     next_adjustment === undefined &&
+  //     next &&
+  //     next[1] - current[1] > 2 * location_buffer
+  //   ) {
+  //     if (reverse) {
+  //       x -= 2 * prev_adjustment * character_offset;
+  //     } else if (
+  //       !reverse &&
+  //       next &&
+  //       next[1] - current[1] < 3 * location_buffer
+  //     ) {
+  //       x -= 2 * prev_adjustment * character_offset;
+  //     }
+  //   }
+  // }
 
   if (previous && x < previous[0]) {
     // ensure the control point does not go beyond the previous point
@@ -209,7 +256,10 @@ export const bezierCommand = (
   smoothing: number = 0.4
 ) => {
   let secondLast = false;
-  if (i === a.length - 2) {
+  let second = false;
+  if (i === 2) {
+    second = true;
+  } else if (i === a.length - 2) {
     secondLast = true;
   }
 
@@ -222,6 +272,7 @@ export const bezierCommand = (
     adjustment[i - 1],
     adjustment[i + 1],
     false,
+    second,
     secondLast,
     smoothing
   );
@@ -235,6 +286,7 @@ export const bezierCommand = (
     adjustment[i - 1],
     adjustment[i + 1],
     true,
+    second,
     secondLast,
     smoothing
   );

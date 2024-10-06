@@ -29,7 +29,7 @@ function ChapterSlider() {
         size={"sm"}
       />
       <span>{last_chapter}</span>
-      <Button size="xs" onClick={resetActiveChapters}>
+      <Button size="xs" onClick={() => resetActiveChapters(num_chapters)}>
         Reset
       </Button>
     </div>

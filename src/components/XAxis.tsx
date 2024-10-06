@@ -44,7 +44,6 @@ function XAxis() {
     weightBy,
     overlay,
     showChapters,
-    yAxis,
   } = storyStore();
 
   const { scenePos, yShift, minConflictY } = positionStore();

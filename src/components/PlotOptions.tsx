@@ -47,6 +47,7 @@ function PlotOptions() {
     resetActiveChapters,
     activeChapters,
     chapterDivisions,
+    num_chapters,
   } = dataStore();
   const { setPositions, setPaths } = positionStore();
   const colorByOptions = [
@@ -206,7 +207,7 @@ function PlotOptions() {
             size="xs"
             onClick={() => {
               resetAll();
-              resetActiveChapters();
+              resetActiveChapters(num_chapters);
               setScaleByLength(false);
             }}
           >

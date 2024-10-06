@@ -50,7 +50,7 @@ interface IStore {
 
   setData: (val: any) => void;
   setActiveChapters: (val: [number, number]) => void;
-  resetActiveChapters: () => void;
+  resetActiveChapters: (val: number) => void;
 }
 
 const initialState = {
@@ -117,8 +117,8 @@ export const dataStore = create<IStore>((set) => ({
     });
   },
   setActiveChapters: (val: [number, number]) => set({ activeChapters: val }),
-  resetActiveChapters: () =>
+  resetActiveChapters: (maxChapter: number) =>
     set({
-      activeChapters: [1, initialState.num_chapters] as [number, number],
+      activeChapters: [1, maxChapter] as [number, number],
     }),
 }));
