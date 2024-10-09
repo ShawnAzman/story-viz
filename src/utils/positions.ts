@@ -635,9 +635,15 @@ const location_quote_boxes = (
     const cur_quote =
       location_quotes.find((quote) => quote.location === loc) ||
       location_quotes[i];
+    const y_pos =
+      i < 3
+        ? locationPos[Math.min(locations.length - 2, 2)]
+        : i > locations.length - 3
+        ? locationPos[locations.length - 3]
+        : locationPos[i];
     return {
       x: scene_offset - 1.25 * location_offset,
-      y: locationPos[locationPos.length - 2] - location_offset,
+      y: y_pos,
       width: scene_base * 5.5 - 2 * character_offset,
       height: (cur_quote.quote.length + 2.5) * character_offset,
     };
@@ -647,8 +653,8 @@ const location_quote_boxes = (
 // location quote text positions
 const location_quote_texts = (
   locations: string[],
-  locationPos: number[],
-  location_quotes: LocationQuote[]
+  location_quotes: LocationQuote[],
+  location_quote_boxes: Box[]
 ) =>
   locations.map((loc, i) => {
     const cur_quote =
@@ -657,7 +663,10 @@ const location_quote_texts = (
     return cur_quote.quote.map((_, j) => {
       return {
         x: scene_offset - 0.5 * location_offset,
-        y: locationPos[locationPos.length - 2] + (j + 1.45) * character_offset,
+        y:
+          location_quote_boxes[i].y +
+          character_offset +
+          (j + 1.5) * character_offset,
       };
     });
   });
@@ -865,6 +874,90 @@ export const findOverlappingScenes = (
 
     return acc;
   }, []);
+
+// update scene summary box and text positions (if more than 24 scenes)
+const update_scene_summaries_large = (
+  sceneWidth: number,
+  plotWidth: number,
+  baseBox: SceneSummaryBox,
+  sceneSummaryTexts: SceneSummaryText[],
+  sceneBoxes: Box[],
+  yShift: number,
+  legend_box_pos: Box
+) => {
+  const new_scene_summary_boxes = [] as SceneSummaryBox[];
+  const new_scene_summary_texts = [] as SceneSummaryText[];
+
+  const width = baseBox.width;
+
+  // find max Y value in sceneBoxes
+  const max_y =
+    Math.max(...sceneBoxes.map((box) => (!isNaN(box.y) ? box.y : 0))) + yShift;
+
+  sceneSummaryTexts.forEach((text, i) => {
+    const new_box = { ...baseBox };
+    const new_text = { ...text };
+
+    new_box.y += yShift; // shift all scene summary boxes down by yShift
+
+    const scene_x = sceneBoxes[i].x;
+    const right = plotWidth - width > scene_x + sceneWidth;
+
+    if (right) {
+      new_box.x = scene_x + sceneWidth;
+    } else {
+      new_box.x = scene_x - sceneWidth - width + sceneBoxes[i].width;
+    }
+
+    // find character with min y value in this scene
+    const scene_y = sceneBoxes[i].y;
+    const height = text.height;
+    // find max y in characterPos
+    const alignTop = max_y - height > scene_y;
+
+    if (alignTop) {
+      new_box.y += scene_y;
+    } else {
+      new_box.y += max_y - height;
+    }
+
+    // adjust y value if it overlaps with legend box
+
+    if (
+      new_box.y > legend_box_pos.y &&
+      new_box.y < legend_box_pos.y + legend_box_pos.height &&
+      new_box.x + new_box.width > legend_box_pos.x &&
+      new_box.x + new_box.width < legend_box_pos.x + legend_box_pos.width
+    ) {
+      new_box.y =
+        legend_box_pos.y + legend_box_pos.height + 1.75 * character_offset;
+    }
+
+    // calculate y_translate
+    const y_translate = new_box.y - baseBox.y;
+    // calculate x_translate
+    const x_translate = new_box.x - baseBox.x;
+
+    new_text.y += y_translate;
+    new_text.title_y += y_translate;
+    new_text.summary_y += y_translate;
+    new_text.location_y += y_translate;
+    new_text.divider_y += y_translate;
+    new_text.character_y += y_translate;
+    new_text.character_list_y += y_translate;
+
+    new_text.x += x_translate;
+    new_text.end_x += x_translate;
+
+    new_scene_summary_boxes.push(new_box);
+    new_scene_summary_texts.push(new_text);
+  });
+
+  return {
+    scene_summary_boxes: new_scene_summary_boxes,
+    scene_summary_texts: new_scene_summary_texts,
+  };
+};
 
 // update scene summary box and text positions
 const update_scene_summaries = (
@@ -1255,8 +1348,8 @@ export const getAllPositions = (
 
   const initLocationQuoteTexts = location_quote_texts(
     locations,
-    initLocationPos,
-    location_quotes
+    location_quotes,
+    initLocationQuoteBoxes
   );
 
   const initCharacterQuoteBoxes = character_quote_boxes(
@@ -1292,18 +1385,32 @@ export const getAllPositions = (
     Object.keys(ratingDict).length
   );
 
-  const updatedSceneSummaryPos = update_scene_summaries(
-    initLegendBoxPos,
-    plotWidth,
-    initScenePos,
-    initSceneSummaryBox,
-    characterScenes,
-    sceneCharacters,
-    initCharacterPos,
-    initSceneSummaryTexts,
-    initCharacterQuoteBoxes,
-    yShift
-  );
+  let updatedSceneSummaryPos;
+
+  if (scenes.length <= 24) {
+    updatedSceneSummaryPos = update_scene_summaries(
+      initLegendBoxPos,
+      plotWidth,
+      initScenePos,
+      initSceneSummaryBox,
+      characterScenes,
+      sceneCharacters,
+      initCharacterPos,
+      initSceneSummaryTexts,
+      initCharacterQuoteBoxes,
+      yShift
+    );
+  } else {
+    updatedSceneSummaryPos = update_scene_summaries_large(
+      sceneWidth,
+      plotWidth,
+      initSceneSummaryBox,
+      initSceneSummaryTexts,
+      initSceneBoxes,
+      yShift,
+      initLegendBoxPos
+    );
+  }
 
   const initSceneSummaryBoxes = updatedSceneSummaryPos.scene_summary_boxes;
   initSceneSummaryTexts = updatedSceneSummaryPos.scene_summary_texts;
