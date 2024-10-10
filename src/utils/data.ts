@@ -40,6 +40,7 @@ export interface Chapter {
 export interface Character {
   name: string;
   importance: number;
+  importance_rank: number;
   emotion: string;
   quote: string;
   rating: number;
@@ -157,7 +158,6 @@ const chapter_data = (all_data: any): Chapter[] => {
 };
 const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
   const data = all_data["scenes"];
-
   data.forEach((scene: any, i: number) => {
     // fix data inconsistencies
     scene.name = scene.name ? scene.name : scene.title;
@@ -195,16 +195,19 @@ const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
     }
 
     const characters = scene.characters;
+    const num_characters = characters.length;
     const all_sentiments = [] as number[];
 
     characters.forEach((character: any) => {
       // replace importance rating for each character in scene.characters with 1 / rating
-      const charImportance = character.importance_rank
+      character.importance_rank = character.importance_rank
         ? character.importance_rank
-        : character.importance;
-      if (charImportance > 1 || character.importance_rank) {
+        : character.importance >= 1
+        ? character.importance
+        : character.importance * num_characters;
+      if (!character.importance || character.importance > 1) {
         character.importance =
-          (scene.characters.length + 1 - charImportance) /
+          (scene.characters.length + 1 - character.importance_rank) /
           scene.characters.length;
       }
       character.rating = character.rating
@@ -217,7 +220,6 @@ const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
 
       // remove extra fields
       delete character.sentiment;
-      delete character.importance_rank;
     });
 
     scene.ratings.sentiment = scene.ratings.sentiment

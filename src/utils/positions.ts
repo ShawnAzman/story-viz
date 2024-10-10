@@ -137,6 +137,7 @@ const characterPos = (
       };
     });
   });
+
   const num_characters = characterScenes.length;
   const maxLoc =
     locations.length <= 8
@@ -146,15 +147,21 @@ const characterPos = (
           num_characters * (0.5 * character_offset + character_height)
         );
   const char_inc = maxLoc / num_characters;
+
+  // max characters in a scene
+  const max_characters_per_scene =
+    Math.max(...sceneCharacters.map((scene) => scene.characters.length)) - 1;
+  const prom_inc = maxLoc / max_characters_per_scene;
+
   const promPos = characterScenes.map((character) => {
     return character.scenes.map((scene) => {
       const cur_scene = scene_data[scene];
-      const char_importance = cur_scene.characters.find(
+      const char_importance_rank = cur_scene.characters.find(
         (c) => c.name === character.character
-      )?.importance as number;
+      )?.importance_rank as number;
       // see if there are any other characters with the same importance
       const other_chars = cur_scene.characters.filter(
-        (c) => c.importance === char_importance
+        (c) => c.importance_rank === char_importance_rank
       );
       // get index of current character in other_chars
       const char_index = other_chars.findIndex(
@@ -163,10 +170,7 @@ const characterPos = (
       return {
         x: initialScenePos[scene].x - 0.5 * character_height,
         y:
-          maxLoc +
-          location_offset * 0.5 -
-          maxLoc * char_importance +
-          character_offset * char_index,
+          prom_inc * (char_importance_rank - 1) + character_offset * char_index,
       };
     });
   });
