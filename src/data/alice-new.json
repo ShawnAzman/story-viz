@@ -4446,259 +4446,259 @@
       "quote": "what is the use of a book without pictures or conversations?",
       "group": "main characters",
       "color": "rgb(255, 182, 193)",
-      "explanation": "This soft pink color represents Alice's innocence and curiosity."
+      "explanation": "The light pink color represents Alice's innocence and curiosity."
     },
     {
       "name": "White Rabbit",
       "quote": "Oh dear! Oh dear! I shall be late!",
       "group": "main characters",
-      "color": "rgb(173, 216, 230)",
-      "explanation": "The light blue color reflects the Rabbit's anxious and hurried nature."
+      "color": "rgb(250, 245, 235)",
+      "explanation": "White represents the Rabbit's anxious and hurried demeanor."
     },
     {
       "name": "Mouse",
       "quote": "Would it be of any use, now, to speak to this mouse?",
       "group": "talking animals",
-      "color": "rgb(139, 69, 19)",
-      "explanation": "The brown color symbolizes the Mouse's earthy and grounded character."
+      "color": "rgb(169, 169, 169)",
+      "explanation": "Gray represents the Mouse's cautious and anxious demeanor."
     },
     {
       "name": "Duck",
       "quote": "Quack! I need to get out of here!",
       "group": "talking animals",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "The bright yellow color represents the Duck's cheerful and lively personality."
+      "color": "rgb(255, 255, 0)",
+      "explanation": "Yellow symbolizes the Duck's anxious and straightforward character."
     },
     {
       "name": "Dodo",
       "quote": "Sit down, all of you, and listen to me!",
       "group": "talking animals",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "The orange color signifies the Dodo's quirky and authoritative demeanor."
+      "color": "rgb(255, 105, 180)",
+      "explanation": "Hot pink symbolizes the Dodo's confusion and curiosity."
     },
     {
       "name": "Lory",
       "quote": "I don't like this! We need to escape!",
       "group": "talking animals",
-      "color": "rgb(0, 255, 127)",
-      "explanation": "The green color reflects the Lory's vibrant and anxious nature."
+      "color": "rgb(0, 255, 255)",
+      "explanation": "Cyan symbolizes the Lory's anxious and frightened personality."
     },
     {
       "name": "Eaglet",
       "quote": "Help! I can't swim!",
       "group": "talking animals",
-      "color": "rgb(135, 206, 250)",
-      "explanation": "The sky blue color symbolizes the Eaglet's innocence and vulnerability."
+      "color": "rgb(0, 191, 255)",
+      "explanation": "Deep sky blue reflects the Eaglet's scared and overwhelmed nature."
     },
     {
       "name": "Fury",
       "quote": "I'll be judge, I'll be jury.",
       "group": "talking animals",
-      "color": "rgb(255, 69, 0)",
-      "explanation": "The red color represents Fury's aggressive and assertive personality."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Old Crab",
       "quote": "Ah, my dear! Let this be a lesson to you never to lose your temper!",
       "group": "talking animals",
-      "color": "rgb(128, 0, 128)",
-      "explanation": "The purple color signifies the Old Crab's wisdom and caution."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Young Crab",
       "quote": "Hold your tongue, Ma!",
       "group": "talking animals",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "The hot pink color reflects the Young Crab's youthful and rebellious spirit."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Magpie",
       "quote": "I really must be getting home; the night-air doesn't suit my throat!",
       "group": "talking animals",
-      "color": "rgb(0, 0, 0)",
-      "explanation": "The black color symbolizes the Magpie's mysterious and cautious nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Canary",
       "quote": "Come away, my dears! It's high time you were all in bed!",
       "group": "talking animals",
-      "color": "rgb(255, 255, 0)",
-      "explanation": "The bright yellow color represents the Canary's cheerful and nurturing personality."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Pat",
       "quote": "Sure then I'm here! Digging for apples, yer honour!",
       "group": "talking animals",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "The orange color reflects Pat's playful and somewhat clueless nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Bill",
       "quote": "Nay, I shan't! You do it!",
       "group": "talking animals",
-      "color": "rgb(0, 191, 255)",
-      "explanation": "The deep sky blue color symbolizes Bill's reluctance and hesitance."
+      "color": "rgb(255, 140, 0)",
+      "explanation": "Dark orange symbolizes Bill's nervous and unsure demeanor."
     },
     {
       "name": "Caterpillar",
       "quote": "Who are _you?_",
       "group": "talking animals",
-      "color": "rgb(75, 0, 130)",
-      "explanation": "The indigo color represents the Caterpillar's wisdom and enigmatic nature."
+      "color": "rgb(0, 128, 128)",
+      "explanation": "Teal represents the Caterpillar's wise yet irritable character."
     },
     {
       "name": "Pigeon",
       "quote": "Serpent! I say again!",
       "group": "talking animals",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "The light peach color reflects the Pigeon's flustered and defensive demeanor."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Fish-footman",
       "quote": "For the Duchess. An invitation from the Queen to play croquet.",
       "group": "talking animals",
-      "color": "rgb(0, 128, 128)",
-      "explanation": "The teal color symbolizes the Fish-footman's serious and formal nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Frog-footman",
       "quote": "From the Queen. An invitation for the Duchess to play croquet.",
       "group": "talking animals",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "The cyan color represents the Frog-footman's quirky and whimsical character."
+      "color": "rgb(0, 255, 127)",
+      "explanation": "Medium spring green reflects the Frog-footman's indifferent and whimsical nature."
     },
     {
       "name": "Duchess",
       "quote": "If everybody minded their own business, the world would go round a deal faster than it does.",
       "group": "upper class",
-      "color": "rgb(255, 0, 255)",
-      "explanation": "The magenta color signifies the Duchess's bold and assertive personality."
+      "color": "rgb(255, 20, 147)",
+      "explanation": "Deep pink reflects the Duchess's carefree and somewhat violent nature."
     },
     {
       "name": "The Baby",
       "quote": "*grunts*",
       "group": "talking animals",
-      "color": "rgb(240, 230, 140)",
-      "explanation": "The light khaki color represents the Baby's innocence and confusion."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Cheshire Cat",
       "quote": "We're all mad here.",
       "group": "Talking Animals",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "This pinkish hue reflects the playful and whimsical nature of the Cheshire Cat."
+      "color": "rgb(75, 0, 130)",
+      "explanation": "Indigo represents the Cheshire Cat's mysterious and philosophical nature."
     },
     {
       "name": "March Hare",
       "quote": "No room! No room!",
       "group": "Talking Animals",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "This vibrant color represents the March Hare's chaotic and energetic personality."
+      "color": "rgb(139, 69, 19)",
+      "explanation": "Brown symbolizes the March Hare's chaotic and playful nature."
     },
     {
       "name": "Hatter",
       "quote": "I'm a poor man, your Majesty.",
       "group": "Talking Animals",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "The orange color symbolizes the Hatter's eccentric and whimsical character."
+      "color": "rgb(128, 0, 128)",
+      "explanation": "Purple reflects his eccentric and whimsical personality."
     },
     {
       "name": "Dormouse",
       "quote": "I wasn't asleep.",
       "group": "Talking Animals",
       "color": "rgb(160, 82, 45)",
-      "explanation": "This brownish color represents the Dormouse's sleepy and calm demeanor."
+      "explanation": "Sienna reflects the Dormouse's sleepy and timid nature."
     },
     {
       "name": "Five",
       "quote": "I couldn't help it; Seven jogged my elbow.",
       "group": "Gardener",
-      "color": "rgb(0, 128, 0)",
-      "explanation": "Green symbolizes the character's role as a gardener and their connection to nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Seven",
       "quote": "That's right, Five! Always lay the blame on others!",
       "group": "Gardener",
-      "color": "rgb(255, 0, 0)",
-      "explanation": "Red reflects Seven's defensive and confrontational nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Two",
       "quote": "Why the fact is, you see, Miss, this here ought to have been a red rose-tree.",
       "group": "Gardener",
-      "color": "rgb(0, 0, 255)",
-      "explanation": "Blue represents Two's nervousness and apologetic demeanor."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "King Of Hearts",
       "quote": "Let the trial begin!",
       "group": "Royalty",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "Gold symbolizes the King's authority and royal status."
+      "color": "rgb(0, 0, 255)",
+      "explanation": "Blue signifies his calm yet indifferent attitude."
     },
     {
       "name": "Queen Of Hearts",
       "quote": "Off with their heads!",
       "group": "Royalty",
       "color": "rgb(255, 0, 0)",
-      "explanation": "Red reflects the Queen's fierce and commanding personality."
+      "explanation": "Red symbolizes her fierce and tyrannical nature."
     },
     {
       "name": "Knave Of Hearts",
       "quote": "I didn't steal them!",
       "group": "Royalty",
-      "color": "rgb(128, 0, 0)",
-      "explanation": "Dark red symbolizes the Knave's anxious and defensive nature."
+      "color": "rgb(255, 165, 0)",
+      "explanation": "Orange reflects the Knave's mischievous and defensive nature."
     },
     {
       "name": "The Hedgehogs",
       "quote": "N/A",
       "group": "Talking Animals",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "Orange represents the playful and whimsical nature of the hedgehogs."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "The Executioner",
       "quote": "N/A",
       "group": "Royalty",
-      "color": "rgb(128, 128, 128)",
-      "explanation": "Gray symbolizes the Executioner's somber and serious role."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Gryphon",
       "quote": "What fun!",
       "group": "Talking Animals",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "Cyan reflects the Gryphon's playful and mischievous character."
+      "color": "rgb(255, 215, 0)",
+      "explanation": "Gold represents the Gryphon's majestic and proud character."
     },
     {
       "name": "Mock Turtle",
       "quote": "I'll tell it her.",
       "group": "Talking Animals",
-      "color": "rgb(75, 0, 130)",
-      "explanation": "Indigo represents the Mock Turtle's nostalgic and sad demeanor."
+      "color": "rgb(0, 128, 0)",
+      "explanation": "Green symbolizes the Mock Turtle's whimsical and nostalgic character."
     },
     {
       "name": "Bill, The Lizard",
       "quote": "Where did my pencil go?",
       "group": "Talking Animals",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "Peach color symbolizes Bill's confused and frustrated nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "The Duchess's Cook",
       "quote": "Shan't.",
       "group": "Royalty",
-      "color": "rgb(255, 192, 203)",
-      "explanation": "Light pink reflects the Cook's defiant and stubborn personality."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Alice's Sister",
       "quote": "Wake up, Alice dear!",
       "group": "Human",
-      "color": "rgb(240, 230, 140)",
-      "explanation": "Light yellow symbolizes the sister's nurturing and caring nature."
+      "color": "",
+      "explanation": ""
     }
   ],
   "locations": [

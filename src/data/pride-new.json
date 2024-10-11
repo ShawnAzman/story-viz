@@ -6487,239 +6487,239 @@
       "name": "Mr. Bennet",
       "quote": "I have no objection to hearing it.",
       "group": "main characters",
-      "color": "rgb(100, 100, 255)",
-      "explanation": "A calm blue represents Mr. Bennet's sarcastic and indifferent demeanor."
+      "color": "rgb(139, 69, 19)",
+      "explanation": "The brown color reflects Mr. Bennet's sarcastic and somewhat detached personality."
     },
     {
       "name": "Mrs. Bennet",
       "quote": "What a fine thing for our girls!",
       "group": "main characters",
-      "color": "rgb(255, 100, 100)",
-      "explanation": "A vibrant red reflects Mrs. Bennet's passionate and anxious personality."
+      "color": "rgb(255, 165, 0)",
+      "explanation": "The orange color reflects Mrs. Bennet's anxious and often overwhelming nature."
     },
     {
       "name": "Mrs. Long",
       "quote": "Netherfield is taken by a young man of large fortune from the north of England.",
       "group": "supporting characters",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "An orange hue symbolizes Mrs. Long's role as an informant, bringing news."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Elizabeth Bennet",
       "quote": "I believe, Ma'am, I may safely promise you never to dance with him.",
       "group": "main characters",
-      "color": "rgb(255, 192, 203)",
-      "explanation": "A soft pink represents Elizabeth's spirited and independent nature."
+      "color": "rgb(255, 105, 180)",
+      "explanation": "This pink color represents Elizabeth's lively and spirited personality."
     },
     {
       "name": "Kitty Bennet",
       "quote": "I do not cough for my own amusement.",
       "group": "main characters",
-      "color": "rgb(255, 255, 100)",
-      "explanation": "A bright yellow signifies Kitty's youthful and somewhat naive character."
+      "color": "rgb(255, 140, 0)",
+      "explanation": "The orange color reflects Kitty's youthful enthusiasm and excitement."
     },
     {
       "name": "Mary Bennet",
       "quote": "Pride relates more to our opinion of ourselves, vanity to what we would have others think of us.",
       "group": "main characters",
-      "color": "rgb(100, 255, 100)",
-      "explanation": "A fresh green reflects Mary's intellectual and reflective personality."
+      "color": "rgb(0, 255, 255)",
+      "explanation": "This cyan color symbolizes Mary's intellectual and somewhat pedantic nature."
     },
     {
       "name": "Lydia Bennet",
       "quote": "They are so handsome in their uniforms!",
       "group": "main characters",
       "color": "rgb(255, 20, 147)",
-      "explanation": "A bold magenta captures Lydia's flirtatious and lively spirit."
+      "explanation": "This vibrant magenta color represents Lydia's flirtatious and lively spirit."
     },
     {
       "name": "Lady Lucas",
       "quote": "Not too clever to be a valuable neighbour to Mrs. Bennet.",
       "group": "supporting characters",
-      "color": "rgb(128, 0, 128)",
-      "explanation": "A deep purple symbolizes Lady Lucas's supportive yet unassuming nature."
+      "color": "rgb(255, 182, 193)",
+      "explanation": "The light pink color symbolizes Lady Lucas's gentle and supportive nature."
     },
     {
       "name": "Mr. Bingley",
       "quote": "What a contrast between him and his friend!",
       "group": "main characters",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "A bright cyan represents Mr. Bingley's amiable and sociable character."
+      "color": "rgb(34, 139, 34)",
+      "explanation": "The green color symbolizes Mr. Bingley's friendly and easy-going personality."
     },
     {
       "name": "Mr. Darcy",
       "quote": "He was the proudest, most disagreeable man in the world.",
       "group": "main characters",
-      "color": "rgb(0, 0, 0)",
-      "explanation": "A classic black signifies Mr. Darcy's reserved and complex personality."
+      "color": "rgb(0, 0, 139)",
+      "explanation": "The dark blue color represents Mr. Darcy's reserved and complex character."
     },
     {
       "name": "Jane Bennet",
       "quote": "He is just what a young man ought to be, sensible, good humoured, lively; and I never saw such happy manners!",
       "group": "main characters",
       "color": "rgb(255, 228, 196)",
-      "explanation": "A light peach reflects Jane's gentle and kind-hearted nature."
+      "explanation": "This soft peach color reflects Jane's gentle and kind nature."
     },
     {
       "name": "The Ladies",
       "quote": "We are entitled to think well of ourselves.",
       "group": "supporting characters",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "A bright pink symbolizes the pride and social aspirations of the Bingley sisters."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Miss Bingley",
       "quote": "I am all astonishment. How long has she been such a favourite?",
       "group": "supporting characters",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "An orange hue reflects Miss Bingley's competitive and somewhat envious nature."
+      "color": "rgb(0, 191, 255)",
+      "explanation": "This light blue color symbolizes Miss Bingley's cool demeanor and social aspirations."
     },
     {
       "name": "Mrs. Hurst",
       "quote": "They disliked being ill themselves.",
       "group": "supporting characters",
-      "color": "rgb(0, 128, 0)",
-      "explanation": "A dark green symbolizes Mrs. Hurst's pragmatic and somewhat indifferent attitude."
+      "color": "rgb(255, 99, 71)",
+      "explanation": "The tomato red color reflects Mrs. Hurst's critical and somewhat disdainful attitude."
     },
     {
       "name": "Sir William Lucas",
       "quote": "What a charming amusement for young people this is, Mr. Darcy!",
       "group": "supporting characters",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "A golden yellow reflects Sir William's cheerful and sociable demeanor."
+      "color": "rgb(240, 230, 140)",
+      "explanation": "The khaki color represents Sir William's amiable and friendly disposition."
     },
     {
       "name": "Charlotte Lucas",
       "quote": "Happiness in marriage is entirely a matter of chance.",
       "group": "supporting characters",
-      "color": "rgb(75, 0, 130)",
-      "explanation": "A deep indigo represents Charlotte's pragmatic and realistic views on marriage."
+      "color": "rgb(255, 215, 0)",
+      "explanation": "The gold color symbolizes Charlotte's pragmatic and realistic view on marriage."
     },
     {
       "name": "Young Lucas",
       "quote": "If I were as rich as Mr. Darcy, I should not care how proud I was.",
       "group": "supporting characters",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "A playful pink captures the youthful innocence and naivety of Young Lucas."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mr. Philips",
       "quote": "I am sure my wife will help in any way she can.",
       "group": "supporting characters",
-      "color": "rgb(128, 128, 0)",
-      "explanation": "An olive green symbolizes Mr. Philips's supportive yet understated role."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Bennet Sisters",
       "quote": "We must find a way to secure our futures.",
       "group": "main characters",
-      "color": "rgb(255, 99, 71)",
-      "explanation": "A coral color reflects the unity and determination of the Bennet sisters."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mrs. Philips",
       "quote": "You won't believe the stories I have about the officers!",
       "group": "supporting characters",
-      "color": "rgb(0, 255, 127)",
-      "explanation": "A sea green symbolizes Mrs. Philips's chatty and engaging personality."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Apothecary",
       "quote": "...she had caught a violent cold, and that they must endeavour to get the better of it.",
       "group": "supporting characters",
-      "color": "rgb(173, 216, 230)",
-      "explanation": "Light blue represents calmness and healing, fitting for a medical professional."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mr. Hurst",
       "quote": "He was an indolent man, who lived only to eat, drink, and play at cards.",
       "group": "supporting characters",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "A soft peach color reflects his lazy and indulgent nature."
+      "color": "rgb(128, 128, 0)",
+      "explanation": "The olive color reflects Mr. Hurst's lazy and indifferent personality."
     },
     {
       "name": "Mr. Jones",
       "quote": "Bingley urged Mr. Jones's being sent for immediately;",
       "group": "supporting characters",
-      "color": "rgb(144, 238, 144)",
-      "explanation": "Light green symbolizes health and recovery, appropriate for a physician."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Miss Darcy",
       "quote": "How delighted Miss Darcy will be to receive such a letter!",
       "group": "main characters",
-      "color": "rgb(255, 182, 193)",
-      "explanation": "Light pink conveys her youthful charm and innocence."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Sister",
       "quote": "Thank you for looking after me.",
       "group": "main characters",
-      "color": "rgb(255, 255, 224)",
-      "explanation": "A pale yellow represents warmth and care, reflecting her relationship with Elizabeth."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Friends",
       "quote": "We are so pleased to have you here!",
       "group": "supporting characters",
-      "color": "rgb(255, 255, 153)",
-      "explanation": "Bright yellow symbolizes happiness and friendship."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Lady Catherine",
       "quote": "She is unfortunately of a sickly constitution, which has prevented her making that progress in many accomplishments.",
       "group": "main characters",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "Hot pink reflects her strong personality and social status."
+      "color": "rgb(255, 0, 255)",
+      "explanation": "The magenta color represents Lady Catherine's haughty and domineering nature."
     },
     {
       "name": "Colonel Forster",
       "quote": "It had actually been hinted that Colonel Forster was going to be married.",
       "group": "supporting characters",
-      "color": "rgb(255, 160, 122)",
-      "explanation": "Light coral represents his military background and authority."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mr. Collins",
       "quote": "I can assure the young ladies that I come prepared to admire them.",
       "group": "main characters",
-      "color": "rgb(255, 140, 140)",
-      "explanation": "A soft red symbolizes his pompous and obsequious nature."
+      "color": "rgb(128, 0, 128)",
+      "explanation": "The purple color represents Mr. Collins' pompous and self-important nature."
     },
     {
       "name": "Mr. Wickham",
       "quote": "He had all the best part of beauty, a fine countenance, a good figure, and very pleasing address.",
       "group": "main characters",
-      "color": "rgb(173, 255, 47)",
-      "explanation": "Bright green represents his charm and appeal."
+      "color": "rgb(255, 0, 0)",
+      "explanation": "The red color represents Mr. Wickham's charm and underlying deceitfulness."
     },
     {
       "name": "Mr. Denny",
       "quote": "I entreat permission to introduce my friend, Mr. Wickham.",
       "group": "supporting characters",
-      "color": "rgb(240, 230, 140)",
-      "explanation": "A light olive color reflects his friendly and polite demeanor."
+      "color": "rgb(0, 128, 128)",
+      "explanation": "The teal color symbolizes Mr. Denny's supportive and agreeable character."
     },
     {
       "name": "Uncle Philips",
       "quote": "He received him with her very best politeness.",
       "group": "supporting characters",
-      "color": "rgb(255, 228, 181)",
-      "explanation": "A light tan color symbolizes his warm but unremarkable character."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Bennet Daughters",
       "quote": "I can't wait to see the officers!",
       "group": "main characters",
-      "color": "rgb(255, 182, 193)",
-      "explanation": "Light pink reflects their youthful exuberance and charm."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "The Bennet Family",
       "quote": "I cannot bear to hear that mentioned.",
       "group": "main characters",
-      "color": "rgb(240, 128, 128)",
-      "explanation": "Light coral represents their strong familial bonds and emotional struggles."
+      "color": "",
+      "explanation": ""
     }
   ],
   "locations": [

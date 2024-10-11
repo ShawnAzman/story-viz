@@ -34,6 +34,12 @@ function CharacterOverlay() {
           (c) => c.character === character.character
         )?.explanation as string[];
 
+        // see if cur_quote.explanation is just 1 element of white space
+        const is_blank =
+          explanation &&
+          explanation.length === 1 &&
+          (explanation[0] === " " || explanation[0] === "");
+
         return (
           characterQuoteTexts[i] &&
           character_quotes[i] && (
@@ -124,7 +130,7 @@ function CharacterOverlay() {
                 placeholder="characters/placeholder.png"
               />
               {/* add color quotes */}
-              {characterColor === "llm" && (
+              {characterColor === "llm" && !is_blank && (
                 <g className="color-quotes">
                   {colorQuoteBoxes[i] && (
                     <rect

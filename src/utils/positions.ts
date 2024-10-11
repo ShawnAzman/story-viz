@@ -730,9 +730,11 @@ const color_description_boxes = (
   character_data: CharacterData[]
 ) => {
   return characterScenes.map((char, i) => {
+    console.log(char.character);
     const cur_quote =
       character_data.find((c) => c.character === char.character) ||
       character_data[i];
+
     return {
       x: character_quote_boxes[i].x,
       y: character_quote_boxes[i].y + character_quote_boxes[i].height,

@@ -4319,386 +4319,386 @@
       "name": "Nick Carraway",
       "quote": "I understood that he meant a great deal more than that.",
       "group": "main characters",
-      "color": "rgb(52, 152, 219)",
-      "explanation": "This blue color represents Nick's contemplative nature and his role as the observer in the story."
+      "color": "rgb(255, 99, 71)",
+      "explanation": "This warm color reflects Nick's contemplative and conflicted nature."
     },
     {
       "name": "Jay Gatsby",
       "quote": "If personality is an unbroken series of successful gestures, then there was something gorgeous about him.",
       "group": "main characters",
-      "color": "rgb(241, 196, 15)",
-      "explanation": "The bright yellow symbolizes Gatsby's wealth and the allure of his extravagant lifestyle."
+      "color": "rgb(30, 144, 255)",
+      "explanation": "This blue color symbolizes Gatsby's mysterious and hopeful character."
     },
     {
       "name": "Father",
       "quote": "Whenever you feel like criticizing anyone, just remember that all the people in this world haven't had the advantages that you've had.",
       "group": "main characters",
-      "color": "rgb(46, 204, 113)",
-      "explanation": "This green color reflects the wisdom and guidance he provides to Nick."
+      "color": "rgb(255, 215, 215)",
+      "explanation": "This light pink color reflects the wisdom and warmth of Nick's father."
     },
     {
       "name": "Young Man",
       "quote": "Let's take a house together in a commuting town.",
       "group": "supporting characters",
-      "color": "rgb(155, 89, 182)",
-      "explanation": "The purple color signifies his youthful optimism and the potential for new beginnings."
+      "color": "rgb(255, 255, 0)",
+      "explanation": "This bright yellow color symbolizes optimism and youthful energy."
     },
     {
       "name": "Finnish Woman",
       "quote": "Muttering Finnish wisdom to herself.",
       "group": "supporting characters",
-      "color": "rgb(241, 76, 96)",
-      "explanation": "This red color represents her indifference and the mundane nature of her role."
+      "color": "rgb(255, 182, 193)",
+      "explanation": "This light pink color reflects her quiet presence and cultural background."
     },
     {
       "name": "Man Asking For Directions",
       "quote": "How do you get to West Egg village?",
       "group": "supporting characters",
-      "color": "rgb(52, 73, 94)",
-      "explanation": "The dark blue color symbolizes confusion and the search for guidance."
+      "color": "rgb(255, 160, 122)",
+      "explanation": "This peach color represents confusion and the search for belonging."
     },
     {
       "name": "Tom Buchanan",
       "quote": "I've gotten to be a terrible pessimist about things.",
       "group": "main characters",
-      "color": "rgb(231, 76, 60)",
-      "explanation": "This red color reflects Tom's aggressive and domineering personality."
+      "color": "rgb(139, 69, 19)",
+      "explanation": "This brown color reflects Tom's arrogance and grounded nature."
     },
     {
       "name": "Daisy Buchanan",
       "quote": "I hope she'll be a fool\u2014that's the best thing a girl can be in this world, a beautiful little fool.",
       "group": "main characters",
-      "color": "rgb(241, 196, 15)",
-      "explanation": "The yellow color represents Daisy's charm and the superficiality of her world."
+      "color": "rgb(255, 215, 0)",
+      "explanation": "This golden color represents Daisy's charm and the superficiality of her world."
     },
     {
       "name": "Jordan Baker",
       "quote": "Absolutely!",
       "group": "main characters",
-      "color": "rgb(149, 165, 166)",
-      "explanation": "This gray color reflects her ambiguous nature and the moral ambiguity of her character."
+      "color": "rgb(148, 0, 211)",
+      "explanation": "This purple color signifies Jordan's complexity and her somewhat cynical view of the world."
     },
     {
       "name": "Doctor T. J. Eckleburg",
       "quote": "The eyes of Doctor T. J. Eckleburg are blue and gigantic.",
       "group": "symbolic characters",
-      "color": "rgb(52, 152, 219)",
-      "explanation": "The blue color symbolizes the watchful eyes that observe the moral decay of society."
+      "color": "rgb(0, 0, 0)",
+      "explanation": "This black color symbolizes the moral decay and watchfulness in the story."
     },
     {
       "name": "George B. Wilson",
       "quote": "I can't complain.",
       "group": "supporting characters",
-      "color": "rgb(241, 196, 15)",
-      "explanation": "This yellow color reflects his desperation and the bleakness of his situation."
+      "color": "rgb(169, 169, 169)",
+      "explanation": "This grey color represents George's despair and the bleakness of his situation."
     },
     {
       "name": "Myrtle Wilson",
       "quote": "Get some chairs, why don't you, so somebody can sit down.",
       "group": "supporting characters",
-      "color": "rgb(155, 89, 182)",
-      "explanation": "The purple color signifies her desire for a better life and her assertive nature."
+      "color": "rgb(255, 20, 147)",
+      "explanation": "This vibrant pink color reflects Myrtle's desire for a better life and her assertive nature."
     },
     {
       "name": "Catherine",
       "quote": "You see, I think everything's terrible anyhow.",
       "group": "supporting characters",
-      "color": "rgb(46, 204, 113)",
-      "explanation": "This green color reflects her cynical outlook on life."
+      "color": "rgb(255, 105, 180)",
+      "explanation": "This bright pink color reflects Catherine's naive aspirations and her connection to Myrtle."
     },
     {
       "name": "Mr. Mckee",
       "quote": "I'd like to do more work on Long Island, if I could get the entry.",
       "group": "supporting characters",
-      "color": "rgb(52, 73, 94)",
-      "explanation": "The dark blue color symbolizes his aspirations and the challenges he faces."
+      "color": "rgb(128, 0, 128)",
+      "explanation": "This purple color signifies Mr. McKee's artistic aspirations and struggles."
     },
     {
       "name": "Mrs. Mckee",
       "quote": "I almost made a mistake, too.",
       "group": "supporting characters",
-      "color": "rgb(241, 76, 96)",
-      "explanation": "This red color represents her loud and proud personality."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Elevator Boy",
       "quote": "Keep your hands off the lever.",
       "group": "supporting characters",
-      "color": "rgb(231, 76, 60)",
-      "explanation": "This red color reflects his annoyance and assertiveness."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Neighbor",
       "quote": "His Rolls-Royce became an omnibus.",
       "group": "supporting characters",
-      "color": "rgb(149, 165, 166)",
-      "explanation": "This gray color signifies the indifference of the guests at Gatsby's parties."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Servants",
       "quote": "Toiled all day with mops and scrubbing-brushes.",
       "group": "supporting characters",
-      "color": "rgb(52, 152, 219)",
-      "explanation": "The blue color represents their hard work and the unnoticed labor behind the scenes."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Female Guests",
       "quote": "This place is simply magical!",
       "group": "supporting characters",
-      "color": "rgb(241, 196, 15)",
-      "explanation": "The yellow color reflects their excitement and the superficial charm of Gatsby's parties."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Orchestra",
       "quote": "Let's make this a night to remember!",
       "group": "supporting characters",
-      "color": "rgb(46, 204, 113)",
-      "explanation": "This green color symbolizes the energy and liveliness they bring to the parties."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Unnamed Gypsy Dancer",
       "quote": "Seizes a cocktail out of the air, dumps it down for courage and dances out alone.",
       "group": "talking animals",
-      "color": "rgb(255, 99, 71)",
-      "explanation": "The vibrant red represents her lively and bold personality as she captures the attention of the crowd."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Orchestra Leader",
       "quote": "Varies his rhythm obligingly for her.",
       "group": "main characters",
-      "color": "rgb(30, 144, 255)",
-      "explanation": "The blue symbolizes his calm and supportive nature as he adapts to the dancer's performance."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Party Guests",
       "quote": "The erroneous news goes around that she is Gilda Gray's understudy.",
       "group": "upper class",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "Gold reflects their wealth and the glamorous atmosphere of the party."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Lucille",
       "quote": "I like to come. I never care what I do, so I always have a good time.",
       "group": "main characters",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "Pink represents her playful and carefree attitude at the party."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Girl in Yellow",
       "quote": "Somebody told me they thought he killed a man once.",
       "group": "upper class",
-      "color": "rgb(255, 255, 0)",
-      "explanation": "Yellow signifies her bright and curious nature as she engages in gossip."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mr. Mumble",
       "quote": "I heard that from a man who knew all about him.",
       "group": "main characters",
-      "color": "rgb(128, 0, 128)",
-      "explanation": "Purple reflects his mysterious and somewhat secretive demeanor."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Stout Middle-aged Man",
       "quote": "They're real\u2014have pages and everything.",
       "group": "upper class",
-      "color": "rgb(165, 42, 42)",
-      "explanation": "Brown symbolizes his grounded and somewhat rustic character."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "The Red-haired Lady",
       "quote": "she was not only singing, she was weeping too.",
       "group": "talking animals",
-      "color": "rgb(255, 0, 0)",
-      "explanation": "Red represents her emotional intensity and the drama of her performance."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "The Chorus Girls",
       "quote": "You promised!",
       "group": "main characters",
-      "color": "rgb(0, 255, 127)",
-      "explanation": "Green symbolizes their lively and vibrant presence at the party."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "The Indignant Wives",
       "quote": "Whenever he sees I'm having a good time he wants to go home.",
       "group": "upper class",
-      "color": "rgb(0, 0, 255)",
-      "explanation": "Blue reflects their frustration and emotional depth."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Butler",
       "quote": "Philadelphia wants you on the phone, sir.",
       "group": "main characters",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "Orange represents his neutral and service-oriented role."
+      "color": "rgb(0, 128, 0)",
+      "explanation": "This green color symbolizes the butler's role in the background of the lavish lifestyle."
     },
     {
       "name": "Owl Eyes",
       "quote": "I know very little about driving\u2014next to nothing. It happened, and that's all I know.",
       "group": "upper class",
-      "color": "rgb(75, 0, 130)",
-      "explanation": "Indigo symbolizes his observant and somewhat philosophical nature."
+      "color": "rgb(0, 255, 255)",
+      "explanation": "This cyan color represents Owl Eyes's surprise and curiosity about Gatsby."
     },
     {
       "name": "The Driver",
       "quote": "Wha's matter? Did we run outa gas?",
       "group": "main characters",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "Deep pink reflects his disoriented and carefree attitude."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Bystanders",
       "quote": "You're lucky it was just a wheel! A bad driver and not even trying!",
       "group": "upper class",
-      "color": "rgb(0, 191, 255)",
-      "explanation": "Cyan represents their curious and somewhat judgmental nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Young Ladies",
       "quote": "He's a bootlegger.",
       "group": "upper class",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "Dark orange reflects their gossiping and judgmental attitude."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Benny Mcclenahan",
       "quote": "They were never quite the same ones in physical person.",
       "group": "main characters",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "Aqua symbolizes his flamboyant and attention-seeking personality."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Ewing Klipspringer",
       "quote": "I doubt if he had any other home.",
       "group": "upper class",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "Peach reflects his complacent and opportunistic nature."
+      "color": "rgb(255, 69, 0)",
+      "explanation": "This red color symbolizes Klipspringer's carefree and opportunistic nature."
     },
     {
       "name": "Meyer Wolfshiem",
       "quote": "He's the man who fixed the World's Series back in 1919.",
       "group": "upper class",
-      "color": "rgb(128, 128, 0)",
-      "explanation": "Olive symbolizes his shady and cunning character."
+      "color": "rgb(255, 140, 0)",
+      "explanation": "This orange color reflects Meyer\u2019s shady dealings and his connection to the underworld."
     },
     {
       "name": "The Maid",
       "quote": "spat meditatively into the garden.",
       "group": "main characters",
-      "color": "rgb(255, 192, 203)",
-      "explanation": "Light pink represents her mundane and indifferent role."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Young Reporter",
       "quote": "Why\u2014any statement to give out.",
       "group": "main characters",
-      "color": "rgb(255, 255, 224)",
-      "explanation": "Light yellow reflects his ambitious and inquisitive nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Dan Cody",
       "quote": "Cody was fifty years old then, a product of the Nevada silver fields.",
       "group": "Mentors",
-      "color": "rgb(255, 99, 71)",
-      "explanation": "This warm color represents his indulgent and somewhat indifferent nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Ella Kaye",
       "quote": "It was indirectly due to Cody that Gatsby drank so little.",
       "group": "Antagonists",
-      "color": "rgb(30, 144, 255)",
-      "explanation": "This cool color reflects her cunning and opportunistic personality."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mr. Sloane",
       "quote": "Well\u2014think ought to be starting home.",
       "group": "Upper Class",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "This bright color symbolizes his haughty demeanor and dismissive attitude."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "The Woman In Brown",
       "quote": "I'd love to have you. Lots of room.",
       "group": "Upper Class",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "This soft color represents her initially cordial but ultimately superficial nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Woman",
       "quote": "Oh, my! she gasped.",
       "group": "Common People",
-      "color": "rgb(255, 255, 0)",
-      "explanation": "This vibrant color reflects her emotional state and the chaos of the moment."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Conductor",
       "quote": "Hot! \u2026 Hot! \u2026 Hot! \u2026 Is it hot enough for you?",
       "group": "Common People",
-      "color": "rgb(128, 0, 128)",
-      "explanation": "This rich color represents his jovial yet familiar demeanor."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "The Nurse",
       "quote": "Come to your own mother that loves you.",
       "group": "Common People",
-      "color": "rgb(165, 42, 42)",
-      "explanation": "This earthy color symbolizes her caring nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Pammy Buchanan",
       "quote": "Yes.",
       "group": "Children",
-      "color": "rgb(255, 0, 0)",
-      "explanation": "This bold color reflects her innocence and curiosity."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Michaelis",
       "quote": "I advised him to go to bed, but Wilson refused.",
       "group": "Common People",
-      "color": "rgb(0, 255, 127)",
-      "explanation": "This bright color represents his concern and empathy."
+      "color": "rgb(0, 191, 255)",
+      "explanation": "This light blue color represents Michaelis's confusion and his role as a bystander."
     },
     {
       "name": "Policeman",
       "quote": "What you want, fella?",
       "group": "Authority Figures",
-      "color": "rgb(0, 0, 255)",
-      "explanation": "This strong color symbolizes his authoritative presence."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Chauffeur",
       "quote": "I hadn't thought anything much about them.",
       "group": "Common People",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "This warm color reflects his indifferent attitude."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Gardener",
       "quote": "The gardener saw Wilson's body a little way off in the grass.",
       "group": "Common People",
-      "color": "rgb(75, 0, 130)",
-      "explanation": "This deep color represents the somber nature of his role."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Henry C. Gatz",
       "quote": "He had a big future before him, you know.",
       "group": "Family",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "This vibrant color reflects his pride and sorrow."
+      "color": "rgb(255, 228, 196)",
+      "explanation": "This soft peach color reflects Gatz's nostalgia and sadness."
     },
     {
       "name": "Slagle",
       "quote": "Hell of a note, isn't it? Get my wire?",
       "group": "Business Associates",
-      "color": "rgb(0, 191, 255)",
-      "explanation": "This bright color symbolizes his urgency and concern."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "The Lutheran Minister",
       "quote": "Blessed are the dead that the rain falls on.",
       "group": "Authority Figures",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "This soft color represents the solemnity of his role."
+      "color": "",
+      "explanation": ""
     }
   ],
   "locations": [

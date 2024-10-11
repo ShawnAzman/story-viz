@@ -7120,294 +7120,294 @@
       "quote": "Toto was not gray; he was a little black dog, with long silky hair.",
       "group": "main characters",
       "color": "rgb(255, 223, 186)",
-      "explanation": "This warm peach color represents Dorothy's innocence and kindness."
+      "explanation": "This soft peach color represents Dorothy's innocence and warmth."
     },
     {
       "name": "Aunt Em",
       "quote": "She had taken the sparkle from her eyes.",
       "group": "main characters",
-      "color": "rgb(200, 200, 200)",
-      "explanation": "A muted gray symbolizes Aunt Em's weariness and the hardships she faces."
+      "color": "rgb(255, 255, 224)",
+      "explanation": "Light yellow symbolizes Aunt Em's nurturing and caring nature."
     },
     {
       "name": "Uncle Henry",
       "quote": "He worked hard from morning till night and did not know what joy was.",
       "group": "main characters",
-      "color": "rgb(150, 150, 150)",
-      "explanation": "A darker gray reflects Uncle Henry's stern and serious nature."
+      "color": "rgb(128, 128, 128)",
+      "explanation": "Gray represents Uncle Henry's hard-working and serious nature."
     },
     {
       "name": "Toto",
       "quote": "Toto played all day long, and Dorothy played with him.",
       "group": "main characters",
       "color": "rgb(0, 0, 0)",
-      "explanation": "Black represents Toto's playful and lively spirit."
+      "explanation": "Black represents Toto's playful and loyal character."
     },
     {
       "name": "Witch Of The North",
       "quote": "You are welcome, most noble Sorceress, to the land of the Munchkins.",
       "group": "magical characters",
       "color": "rgb(173, 216, 230)",
-      "explanation": "Light blue symbolizes the good nature and kindness of the Witch."
+      "explanation": "Light blue symbolizes the gentle and nurturing nature of the Witch."
     },
     {
       "name": "Munchkins",
       "quote": "We are so grateful to you for having killed the Wicked Witch of the East.",
       "group": "supporting characters",
-      "color": "rgb(135, 206, 250)",
-      "explanation": "Sky blue represents the joy and gratitude of the Munchkins."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Munchkin 1",
       "quote": "At the East, not far from here, there is a great desert, and none could live to cross it.",
       "group": "supporting characters",
-      "color": "rgb(240, 128, 128)",
-      "explanation": "Light coral reflects the concern and caution of Munchkin 1."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Munchkin 2",
       "quote": "It is the same at the South, for I have been there and seen it.",
       "group": "supporting characters",
-      "color": "rgb(255, 160, 122)",
-      "explanation": "Light orange symbolizes the warmth and friendliness of Munchkin 2."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Munchkin 3",
       "quote": "That country, where the Winkies live, is ruled by the Wicked Witch of the West.",
       "group": "supporting characters",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "Gold represents the richness of the land and the Munchkin's knowledge."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Old Lady",
       "quote": "I'm afraid, my dear, you will have to live with us.",
       "group": "supporting characters",
-      "color": "rgb(255, 182, 193)",
-      "explanation": "Light pink symbolizes the old lady's nurturing and caring nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Boq",
       "quote": "You must be a great sorceress.",
       "group": "supporting characters",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "Hot pink reflects Boq's admiration and excitement."
+      "color": "rgb(255, 69, 0)",
+      "explanation": "Red-orange symbolizes Boq's friendliness and warmth."
     },
     {
       "name": "Scarecrow",
       "quote": "If you will come with me I'll ask Oz to do all he can for you.",
       "group": "main characters",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "Peach represents the Scarecrow's friendly and hopeful demeanor."
+      "color": "rgb(255, 204, 0)",
+      "explanation": "The bright yellow symbolizes the Scarecrow's cheerful and sunny disposition."
     },
     {
       "name": "Child",
       "quote": "Won't you tell me a story, while we are resting?",
       "group": "supporting characters",
-      "color": "rgb(255, 240, 245)",
-      "explanation": "Lavender symbolizes the innocence and curiosity of the child."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Tin Woodman",
       "quote": "This is a great comfort.",
       "group": "main characters",
       "color": "rgb(192, 192, 192)",
-      "explanation": "Silver represents the Tin Woodman's metallic nature and his desire for a heart."
+      "explanation": "The silver color represents the Tin Woodman's metallic body and his longing for a heart."
     },
     {
       "name": "Lion",
       "quote": "I know it. I've always known it. But how can I help it?",
       "group": "main characters",
       "color": "rgb(255, 165, 0)",
-      "explanation": "Orange symbolizes the Lion's bravery and his struggle with cowardice."
+      "explanation": "This orange color reflects the Lion's courage and strength."
     },
     {
       "name": "Stork",
       "quote": "I always like to help anyone in trouble.",
       "group": "supporting characters",
-      "color": "rgb(135, 206, 250)",
-      "explanation": "Sky blue reflects the Stork's helpful and kind nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Field Mouse Queen",
       "quote": "Thank you ever so much for saving my life.",
       "group": "supporting characters",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "Deep pink symbolizes the Queen's gratitude and royal status."
+      "color": "rgb(255, 228, 196)",
+      "explanation": "Peach represents the Queen's grace and gratitude."
     },
     {
       "name": "Biggest Mouse",
       "quote": "Is there anything we can do to repay you for saving the life of our Queen?",
       "group": "supporting characters",
-      "color": "rgb(255, 228, 181)",
-      "explanation": "Light peach reflects the friendliness and eagerness of the Biggest Mouse."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Travelers",
       "quote": "We must protect him ourselves if he is in danger.",
       "group": "supporting characters",
-      "color": "rgb(240, 230, 140)",
-      "explanation": "Light yellow symbolizes the hope and determination of the travelers."
+      "color": "rgb(135, 206, 235)",
+      "explanation": "Sky blue represents the hope and adventure of the travelers."
     },
     {
       "name": "The Little Man",
       "quote": "I do not know where Kansas is, for I have never heard that country mentioned before.",
       "group": "supporting characters",
-      "color": "rgb(255, 99, 71)",
-      "explanation": "Tomato red represents the Little Man's curiosity and surprise."
+      "color": "rgb(0, 0, 255)",
+      "explanation": "Blue represents the mystery and authority of the Little Man."
     },
     {
       "name": "Guardian Of The Gates",
       "quote": "I am the Guardian of the Gates, and since you demand to see the Great Oz I must take you to his Palace.",
       "group": "main characters",
-      "color": "rgb(0, 128, 0)",
-      "explanation": "Green represents his role as a guardian of the Emerald City."
+      "color": "rgb(255, 140, 0)",
+      "explanation": "Orange represents the authority and duty of the Guardian."
     },
     {
       "name": "Group Of Travelers",
       "quote": "We can't wait to see the Palace!",
       "group": "main characters",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "Orange symbolizes their adventurous spirit."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Soldier With Whiskers",
       "quote": "Please make yourselves comfortable while I go to the door of the Throne Room and tell Oz you are here.",
       "group": "supporting characters",
-      "color": "rgb(128, 0, 128)",
-      "explanation": "Purple reflects his authoritative yet polite demeanor."
+      "color": "rgb(0, 255, 0)",
+      "explanation": "Bright green symbolizes the soldier's loyalty and duty."
     },
     {
       "name": "Green Girl",
       "quote": "Follow me and I will show you your room.",
       "group": "supporting characters",
-      "color": "rgb(0, 255, 0)",
-      "explanation": "Bright green signifies her connection to the Emerald City."
+      "color": "rgb(0, 255, 127)",
+      "explanation": "Spring green symbolizes the Green Girl's freshness and support."
     },
     {
       "name": "Oz",
       "quote": "I am Oz, the Great and Terrible.",
       "group": "main characters",
-      "color": "rgb(255, 0, 0)",
-      "explanation": "Red symbolizes his powerful yet deceptive nature."
+      "color": "rgb(0, 128, 0)",
+      "explanation": "Green symbolizes the magical and mysterious nature of Oz."
     },
     {
       "name": "Green Maiden",
       "quote": "That is the signal. You must go into the Throne Room alone.",
       "group": "supporting characters",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "Cyan represents her gentle and supportive role."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Wicked Witch Of The West",
       "quote": "Go to those people, and tear them to pieces.",
       "group": "antagonists",
-      "color": "rgb(128, 0, 0)",
-      "explanation": "Dark red reflects her evil and malicious nature."
+      "color": "rgb(128, 0, 128)",
+      "explanation": "Purple signifies the wickedness and dark magic of the Witch."
     },
     {
       "name": "King Crow",
       "quote": "You have called us for the third and last time. What do you command?",
       "group": "antagonists",
-      "color": "rgb(255, 255, 0)",
-      "explanation": "Yellow symbolizes his cunning and chaotic nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Winkies",
       "quote": "We must obey the Witch!",
       "group": "supporting characters",
-      "color": "rgb(255, 192, 203)",
-      "explanation": "Light pink represents their submissive and fearful nature."
+      "color": "rgb(255, 105, 180)",
+      "explanation": "Hot pink signifies the joy and gratitude of the Winkies."
     },
     {
       "name": "Leader Of The Monkeys",
-      "quote": "We dare not harm this little girl.",
+      "quote": "Your commands shall be obeyed.",
       "group": "antagonists",
-      "color": "rgb(75, 0, 130)",
-      "explanation": "Indigo reflects his conflicted loyalty."
+      "color": "rgb(255, 20, 147)",
+      "explanation": "Hot pink reflects the mischievous and playful nature of the monkeys."
     },
     {
       "name": "Quelala",
       "quote": "Swim out, my fine fellow.",
       "group": "supporting characters",
-      "color": "rgb(0, 0, 255)",
-      "explanation": "Blue represents his noble and heroic qualities."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Gayelette",
       "quote": "She had all the Winged Monkeys brought before her.",
       "group": "supporting characters",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "Hot pink symbolizes her beauty and power."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Milkmaid",
       "quote": "What do you mean by coming here and frightening my cow?",
       "group": "supporting characters",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "Light peach represents her gentle and nurturing nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Princess",
       "quote": "I have been very kindly treated in your lovely City.",
       "group": "supporting characters",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "Light pink signifies her grace and kindness."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mr. Joker",
       "quote": "I shall be glad to have your company.",
       "group": "supporting characters",
-      "color": "rgb(255, 0, 255)",
-      "explanation": "Magenta reflects his playful and humorous nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Tiger",
       "quote": "I will protect you, Dorothy!",
       "group": "supporting characters",
-      "color": "rgb(255, 69, 0)",
-      "explanation": "Orange-red symbolizes his fierce loyalty."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Hammer-head",
       "quote": "I will help you find your way!",
       "group": "supporting characters",
-      "color": "rgb(0, 128, 128)",
-      "explanation": "Teal represents his helpful and resourceful nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "King Of The Monkeys",
       "quote": "We will carry you.",
       "group": "antagonists",
-      "color": "rgb(128, 128, 0)",
-      "explanation": "Olive green signifies his leadership and chaotic nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Farmer's Wife",
       "quote": "I just want to go home.",
       "group": "supporting characters",
-      "color": "rgb(255, 228, 181)",
-      "explanation": "Light beige represents her nurturing and homely qualities."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Girl Soldier",
       "quote": "Let me have your name, and I will ask Glinda if she will receive you.",
       "group": "main characters",
-      "color": "rgb(100, 149, 237)",
-      "explanation": "This color represents the Girl Soldier's bravery and determination, reminiscent of a clear blue sky."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Glinda",
       "quote": "What can I do for you, my child?",
       "group": "main characters",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "This soft pink color reflects Glinda's kindness and nurturing nature."
+      "color": "rgb(255, 192, 203)",
+      "explanation": "Pink represents Glinda's kindness and benevolence."
     },
     {
       "name": "Soldier Girl",
       "quote": "Follow me to the Witch.",
       "group": "main characters",
-      "color": "rgb(255, 99, 71)",
-      "explanation": "This warm coral color symbolizes the Soldier Girl's strength and guidance."
+      "color": "",
+      "explanation": ""
     }
   ],
   "locations": [

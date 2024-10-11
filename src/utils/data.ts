@@ -3,11 +3,12 @@
 // I:  - quote (string): quote to be split into chunks
 //     - chunk_size (number): maximum number of characters in each chunk
 
+import { getColor } from "./colors";
 import { normalize } from "./helpers";
 
 // O:  - (array): array of chunks
 const chunkQuote = (quote: string, chunk_size: number) => {
-  const quoteChunks = [];
+  const quoteChunks = [] as string[];
   let chunk = "";
   let words = quote.split(" ");
   for (let i = 0; i < words.length; i++) {
@@ -353,6 +354,17 @@ const sortCharactersByGroup = (
 
   // recombine into a single array
   const flatSorted = sorted.flat();
+
+  const no_color_characters = flatSorted.filter(
+    (char: any) => !char.color || char.color === ""
+  );
+  // add color to characters without color
+  flatSorted.forEach((char: any) => {
+    if (!char.color || char.color === "") {
+      const color = getColor(char.character, no_color_characters);
+      char.color = color;
+    }
+  });
   return flatSorted;
 };
 

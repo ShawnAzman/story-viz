@@ -2278,218 +2278,218 @@
       "name": "Chorus",
       "quote": "From ancient grudge break to new mutiny.",
       "group": "main characters",
-      "color": "rgb(255, 0, 0)",
-      "explanation": "Red represents the passion and conflict central to the story."
+      "color": "rgb(75, 0, 130)",
+      "explanation": "Indigo symbolizes depth and insight, fitting for the Chorus's role."
     },
     {
       "name": "Sampson",
       "quote": "I will take the wall of any man or maid of Montague's.",
       "group": "upper class",
       "color": "rgb(0, 128, 0)",
-      "explanation": "Green symbolizes the aggressive nature of the Capulet servants."
+      "explanation": "Dark green represents loyalty and strength, reflecting Sampson's character."
     },
     {
       "name": "Gregory",
       "quote": "The quarrel is between our masters and us their men.",
       "group": "upper class",
-      "color": "rgb(0, 0, 255)",
-      "explanation": "Blue represents loyalty and support among the Capulet servants."
+      "color": "rgb(255, 69, 0)",
+      "explanation": "Red-orange symbolizes energy and conflict, suitable for Gregory."
     },
     {
       "name": "Abram",
       "quote": "Do you bite your thumb at us, sir?",
       "group": "upper class",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "Orange signifies the tension and conflict between the Montagues and Capulets."
+      "color": "rgb(0, 0, 139)",
+      "explanation": "Dark blue represents loyalty and trust, reflecting Abram's role."
     },
     {
       "name": "Balthasar",
       "quote": "No better.",
       "group": "upper class",
-      "color": "rgb(128, 0, 128)",
-      "explanation": "Purple represents the loyalty of the Montague servants."
+      "color": "rgb(128, 128, 0)",
+      "explanation": "Olive green symbolizes loyalty and support, reflecting Balthasar's role."
     },
     {
       "name": "Benvolio",
       "quote": "Put up your swords. You know not what you do.",
       "group": "main characters",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "Cyan symbolizes peace and calmness amidst chaos."
+      "color": "rgb(0, 255, 0)",
+      "explanation": "Green represents peace and harmony, reflecting Benvolio's role as a peacemaker."
     },
     {
       "name": "Tybalt",
       "quote": "I hate the word as I hate hell, all Montagues, and thee.",
       "group": "main characters",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "Deep pink represents Tybalt's fiery temper and aggression."
+      "color": "rgb(255, 0, 255)",
+      "explanation": "Magenta represents aggression and conflict, suitable for Tybalt's character."
     },
     {
       "name": "Officer",
       "quote": "Clubs, bills, and partisans! Strike! beat them down!",
       "group": "supporting characters",
-      "color": "rgb(255, 255, 0)",
-      "explanation": "Yellow signifies authority and order."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Old Capulet",
       "quote": "What noise is this? Give me my long sword, ho!",
       "group": "upper class",
-      "color": "rgb(255, 192, 203)",
-      "explanation": "Light pink represents the protective nature of a father."
+      "color": "rgb(128, 0, 128)",
+      "explanation": "Purple symbolizes nobility and power, representing Capulet's status."
     },
     {
       "name": "Old Montague",
       "quote": "Thou villain Capulet!- Hold me not, let me go.",
       "group": "upper class",
-      "color": "rgb(128, 128, 0)",
-      "explanation": "Olive green symbolizes the desire for peace."
+      "color": "rgb(192, 192, 192)",
+      "explanation": "Silver symbolizes wisdom and age, representing Old Montague's character."
     },
     {
       "name": "Prince Escalus",
       "quote": "Rebellious subjects, enemies to peace.",
       "group": "main characters",
-      "color": "rgb(0, 0, 0)",
-      "explanation": "Black represents authority and the weight of law."
+      "color": "rgb(0, 128, 128)",
+      "explanation": "Teal symbolizes authority and control, fitting for the Prince's role."
     },
     {
       "name": "Lady Montague",
       "quote": "Thou shalt not stir one foot to seek a foe.",
       "group": "upper class",
       "color": "rgb(255, 105, 180)",
-      "explanation": "Hot pink symbolizes maternal concern."
+      "explanation": "Hot pink represents love and protection, suitable for Lady Montague."
     },
     {
       "name": "Romeo Montague",
       "quote": "O, she's rich in beauty; only poor that, when she dies, with beauty dies her store.",
       "group": "main characters",
-      "color": "rgb(0, 255, 0)",
-      "explanation": "Green represents Romeo's youthful passion."
+      "color": "rgb(255, 0, 0)",
+      "explanation": "Red symbolizes passion and love, reflecting Romeo's intense feelings for Juliet."
     },
     {
       "name": "County Paris",
       "quote": "Younger than she are happy mothers made.",
       "group": "upper class",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "Dark orange signifies ambition and desire."
+      "color": "rgb(0, 255, 255)",
+      "explanation": "Cyan symbolizes hope and clarity, reflecting Paris's intentions."
     },
     {
       "name": "Servant",
       "quote": "I must to the learned. In good time!",
       "group": "supporting characters",
-      "color": "rgb(0, 128, 128)",
-      "explanation": "Teal represents the comic relief in the story."
+      "color": "rgb(165, 42, 42)",
+      "explanation": "Brown symbolizes humility and service, reflecting the Servant's role."
     },
     {
       "name": "Lady Capulet",
       "quote": "How stands your disposition to be married?",
       "group": "upper class",
       "color": "rgb(255, 20, 147)",
-      "explanation": "Deep pink symbolizes the pressure of societal expectations."
+      "explanation": "Deep pink signifies femininity and maternal concern, suitable for Lady Capulet."
     },
     {
       "name": "Nurse",
       "quote": "An I might live to see thee married once, I have my wish.",
       "group": "supporting characters",
-      "color": "rgb(255, 0, 255)",
-      "explanation": "Magenta represents the nurturing and caring nature of the Nurse."
+      "color": "rgb(255, 165, 0)",
+      "explanation": "Orange represents warmth and nurturing, fitting for Juliet's caretaker."
     },
     {
       "name": "Juliet Capulet",
       "quote": "My only love, sprung from my only hate!",
       "group": "main characters",
-      "color": "rgb(255, 0, 255)",
-      "explanation": "Magenta represents Juliet's passionate love."
+      "color": "rgb(255, 192, 203)",
+      "explanation": "Pink symbolizes love and romance, perfectly capturing Juliet's character."
     },
     {
       "name": "Servingman",
       "quote": "Madam, the guests are come, supper serv'd up.",
       "group": "supporting characters",
-      "color": "rgb(128, 128, 128)",
-      "explanation": "Gray symbolizes the background characters who support the main plot."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mercutio",
       "quote": "If love be rough with you, be rough with love.",
       "group": "main characters",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "Orange represents Mercutio's playful and witty nature."
+      "color": "rgb(255, 255, 0)",
+      "explanation": "Yellow represents wit and humor, fitting for Mercutio's playful nature."
     },
     {
       "name": "Servant 1",
       "quote": "Where's Potpan, that he helps not to take away?",
       "group": "servants",
-      "color": "rgb(100, 149, 237)",
-      "explanation": "This color represents the hardworking and somewhat frustrated nature of Servant 1."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Servant 2",
       "quote": "When good manners shall lie all in one or two men's hands, and they unwash'd too, 'tis a foul thing.",
       "group": "servants",
-      "color": "rgb(255, 99, 71)",
-      "explanation": "This color reflects Servant 2's discontent and frustration with the state of affairs."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Servant 3",
       "quote": "Cheerly, boys! Be brisk awhile, and the longer liver take all.",
       "group": "servants",
-      "color": "rgb(60, 179, 113)",
-      "explanation": "This color symbolizes the cheerful and encouraging demeanor of Servant 3."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Friar Laurence",
       "quote": "O, mickle is the powerful grace that lies in plants, herbs, stones, and their true qualities;",
       "group": "clergy",
-      "color": "rgb(75, 0, 130)",
-      "explanation": "This deep color represents the wisdom and contemplative nature of Friar Laurence."
+      "color": "rgb(0, 0, 255)",
+      "explanation": "Blue symbolizes wisdom and tranquility, reflecting the Friar's role as a counselor."
     },
     {
       "name": "Peter",
       "quote": "I saw no man use you at his pleasure.",
       "group": "servants",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "This bright color reflects Peter's neutral yet assertive role among the servants."
+      "color": "rgb(255, 140, 0)",
+      "explanation": "Dark orange represents a playful and humorous nature, suitable for Peter."
     },
     {
       "name": "Fellow",
       "quote": "Things for the cook, sir; but I know not what.",
       "group": "servants",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "This playful color represents the light-hearted and somewhat clueless nature of Fellow."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Musician 1",
       "quote": "Not a dump we! 'Tis no time to play now.",
       "group": "musicians",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "This vibrant color reflects the frustration and urgency of Musician 1."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Musician 2",
       "quote": "Pray you put up your dagger, and put out your wit.",
       "group": "musicians",
-      "color": "rgb(0, 191, 255)",
-      "explanation": "This calming color represents the mediating role of Musician 2."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Apothecary",
       "quote": "My poverty but not my will consents.",
       "group": "clergy",
-      "color": "rgb(255, 69, 0)",
-      "explanation": "This color symbolizes the conflicted nature of the Apothecary, caught between need and morality."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Friar John",
       "quote": "I could not send it- here it is again- Nor get a messenger to bring it thee, So fearful were they of infection.",
       "group": "clergy",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "This soft color reflects Friar John's apologetic and frustrated demeanor."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Chief Watch",
       "quote": "The ground is bloody. Search about the churchyard.",
       "group": "watchmen",
-      "color": "rgb(128, 0, 0)",
-      "explanation": "This dark color represents the serious and authoritative nature of the Chief Watch."
+      "color": "",
+      "explanation": ""
     }
   ],
   "locations": [

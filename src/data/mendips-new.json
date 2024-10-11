@@ -3703,316 +3703,316 @@
       "name": "Narrator",
       "quote": "Truth compels me to say, that the lawn was covered with daisies, and that their bright eyes looked fearlessly up into the blue sky.",
       "group": "main characters",
-      "color": "rgb(255, 99, 71)",
-      "explanation": "This warm color reflects the nostalgic and vivid descriptions provided by the narrator."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Gardener",
       "quote": "The old gardener... sharpened his scythe, only at long intervals, to lay the heads of the flowers low.",
       "group": "main characters",
-      "color": "rgb(34, 139, 34)",
-      "explanation": "Green represents the gardener's connection to nature and his role in maintaining the beauty of Fair Acres."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "The Squire",
       "quote": "He farmed his own acres, he walked over his own fields; his 'stock' were individual cows and horses to him.",
       "group": "main characters",
-      "color": "rgb(139, 69, 19)",
-      "explanation": "Brown symbolizes the earth and the traditional country life that the squire embodies."
+      "color": "rgb(255, 215, 0)",
+      "explanation": "This gold color reflects the Squire's noble and proud demeanor."
     },
     {
       "name": "Falconer Family",
       "quote": "An isolated manorial farm like Fair Acres, and a family like the Falconers who inhabited it, are all but impossible to find nowadays.",
       "group": "main characters",
-      "color": "rgb(70, 130, 180)",
-      "explanation": "Blue represents stability and the familial bonds within the Falconer family."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Joyce Falconer",
       "quote": "It is so lovely this morning.",
       "group": "main characters",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "Gold reflects Joyce's youthful brightness and her optimistic outlook on life."
+      "color": "rgb(255, 223, 186)",
+      "explanation": "This soft peach color represents Joyce's youthful and joyful spirit."
     },
     {
       "name": "Piers Falconer",
       "quote": "I say, Joyce, if you go to Wells to-day with father, will you take this little sparrow-hawk to old Plume's to be stuffed?",
       "group": "main characters",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "Orange symbolizes Piers' cheerful and inquisitive nature."
+      "color": "rgb(144, 238, 144)",
+      "explanation": "This light green represents Piers' connection to nature and his cheerful disposition."
     },
     {
       "name": "Melville Falconer",
       "quote": "He says he won't come here and take care of the farm. He wants to travel.",
       "group": "main characters",
-      "color": "rgb(128, 0, 128)",
-      "explanation": "Purple represents Melville's aspirations and his desire for a life beyond the farm."
+      "color": "rgb(255, 105, 180)",
+      "explanation": "This vibrant pink reflects Melville's flamboyant and rebellious personality."
     },
     {
       "name": "Mrs. Falconer",
       "quote": "I have a pretty hard morning's work before me, and you must lend a hand, Joyce, I can tell you.",
       "group": "main characters",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "Pink reflects Mrs. Falconer's nurturing yet demanding nature."
+      "color": "rgb(255, 140, 0)",
+      "explanation": "This orange color signifies Mrs. Falconer's strong and practical nature."
     },
     {
       "name": "Nip And Pip",
       "quote": "Trust, Nip! trust, Pip!",
       "group": "talking animals",
-      "color": "rgb(0, 191, 255)",
-      "explanation": "Light blue represents the playful and lively spirit of the family pets."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Landlord",
       "quote": "We are proud to see you, sir.",
       "group": "main characters",
-      "color": "rgb(255, 99, 71)",
-      "explanation": "This warm color reflects the hospitable nature of the landlord."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Peggy Loxley",
       "quote": "Did ye ever see the like? His shoes are made of paper; and, lor! what bows!",
       "group": "main characters",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "Hot pink symbolizes Peggy's lively and humorous character."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Old Man",
       "quote": "Take care. Don't 'ee chatter like a magpie.",
       "group": "main characters",
-      "color": "rgb(128, 128, 128)",
-      "explanation": "Gray represents the wisdom and caution of the older generation."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Dean",
       "quote": "Miss Falconer, I think. I hope your good father is well.",
       "group": "main characters",
-      "color": "rgb(0, 128, 0)",
-      "explanation": "Dark green symbolizes the Dean's authority and respectability."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Miss Falconer",
       "quote": "Marriage has not been successful in our family.",
       "group": "main characters",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "Peach represents Aunt Lettice's gentle yet reflective nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Charlotte Falconer",
       "quote": "How sweetly pretty you look to-day, Joyce.",
       "group": "main characters",
       "color": "rgb(255, 182, 193)",
-      "explanation": "Light pink reflects Charlotte's romantic and dreamy disposition."
+      "explanation": "This light pink symbolizes Charlotte's romantic and dreamy character."
     },
     {
       "name": "Gilbert Arundel",
       "quote": "What a sweet face!",
       "group": "main characters",
-      "color": "rgb(0, 0, 255)",
-      "explanation": "Blue represents Gilbert's charm and the admiration he has for Joyce."
+      "color": "rgb(173, 216, 230)",
+      "explanation": "This light blue symbolizes Gilbert's calm and observant nature."
     },
     {
       "name": "The Bishop",
       "quote": "To have known your mother is to bear her always in affectionate remembrance.",
       "group": "main characters",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "Dark orange symbolizes the Bishop's warmth and wisdom."
+      "color": "rgb(173, 255, 47)",
+      "explanation": "This bright green symbolizes the Bishop's nurturing and wise character."
     },
     {
       "name": "Mr. Plume",
       "quote": "Sparry-'awk; it is of not great value, missie.",
       "group": "main characters",
-      "color": "rgb(255, 69, 0)",
-      "explanation": "Red reflects Mr. Plume's straightforward and practical nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Ralph Falconer",
       "quote": "He could not resist Gilbert's genial interest.",
       "group": "main characters",
-      "color": "rgb(75, 0, 130)",
-      "explanation": "Indigo represents Ralph's studious and thoughtful character."
+      "color": "rgb(255, 20, 147)",
+      "explanation": "This deep pink represents Ralph's youthful enthusiasm and curiosity."
     },
     {
       "name": "Bunny",
       "quote": "They buried him in the hay and nearly smothered him.",
       "group": "main characters",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "Hot pink reflects Bunny's playful and energetic spirit."
+      "color": "rgb(255, 165, 0)",
+      "explanation": "This bright orange reflects Bunny's playful and energetic personality."
     },
     {
       "name": "Harry",
       "quote": "They buried him in the hay and nearly smothered him.",
       "group": "School Boys",
-      "color": "rgb(100, 149, 237)",
-      "explanation": "This color represents Harry's playful and energetic nature, reminiscent of a bright sky."
+      "color": "rgb(0, 255, 255)",
+      "explanation": "This cyan color symbolizes Harry's lively and fun-loving nature."
     },
     {
       "name": "Mrs. More",
       "quote": "I have come to pay my respects to your good father and mother, and to make your acquaintance.",
       "group": "Elderly Figures",
-      "color": "rgb(255, 192, 203)",
-      "explanation": "This soft pink color reflects Mrs. More's kind and benevolent personality."
+      "color": "rgb(221, 160, 221)",
+      "explanation": "This lavender color signifies Mrs. More's kind and benevolent character."
     },
     {
       "name": "Melville's Parents",
       "quote": "Gilbert is such a wonderful young man, we are so glad to have him here.",
       "group": "Family",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "This warm color symbolizes the nurturing and supportive nature of Melville's parents."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Melville's Siblings",
       "quote": "Gilbert is the best! We love having him around.",
       "group": "Family",
-      "color": "rgb(173, 216, 230)",
-      "explanation": "This light blue color represents the innocence and admiration of Melville's siblings."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Squire",
       "quote": "How is it that their son and their guest could be friends?",
       "group": "Authority Figures",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "This orange color signifies the Squire's authoritative yet curious nature."
+      "color": "rgb(255, 0, 255)",
+      "explanation": "This magenta color reflects the Squire's desire for harmony and peace."
     },
     {
       "name": "Bob Priday",
       "quote": "I'll smash his head for 'im next time I come across 'im!",
       "group": "Antagonists",
-      "color": "rgb(255, 0, 0)",
-      "explanation": "This red color represents Bob Priday's aggressive and defiant personality."
+      "color": "rgb(135, 206, 250)",
+      "explanation": "This sky blue symbolizes Bob's carefree and adventurous spirit."
     },
     {
       "name": "Bob Priday's Daughter",
       "quote": "Oh, dear lady, I am heart-broken about father. Please, sir, let him go.",
       "group": "Supporting Characters",
-      "color": "rgb(255, 182, 193)",
-      "explanation": "This light pink color reflects her desperation and emotional turmoil."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Susan Priday",
       "quote": "I felt so sorry for her, and I should like to help her.",
       "group": "Supporting Characters",
-      "color": "rgb(255, 228, 181)",
-      "explanation": "This peach color symbolizes Susan's compassion and desire to help others."
+      "color": "rgb(255, 228, 196)",
+      "explanation": "This light beige represents Susan's practical and down-to-earth attitude."
     },
     {
       "name": "Duke",
       "quote": "He is cleverer at finding his way than I am.",
       "group": "Animals",
-      "color": "rgb(139, 69, 19)",
-      "explanation": "This brown color represents Duke's loyalty and dependability."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mrs. Arundel",
       "quote": "I shall love her for your sake.",
       "group": "Elderly Figures",
       "color": "rgb(240, 230, 140)",
-      "explanation": "This light yellow color signifies Mrs. Arundel's warmth and support."
+      "explanation": "This pale yellow represents Mrs. Arundel's warm and welcoming nature."
     },
     {
       "name": "Gratian Anson",
       "quote": "Ah! he is in love. I have no doubt of it!",
       "group": "Family",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "This vibrant pink color reflects Gratian's playful and teasing nature."
+      "color": "rgb(255, 99, 71)",
+      "explanation": "This tomato red reflects Gratian's passionate and caring nature."
     },
     {
       "name": "Lord Maythorne",
       "quote": "Have you brought him to introduce to your mother, eh?",
       "group": "Authority Figures",
-      "color": "rgb(128, 0, 0)",
-      "explanation": "This dark red color symbolizes Lord Maythorne's mocking and cynical personality."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Aunt",
       "quote": "You must try to do me credit, and give Joyce a hint.",
       "group": "Family",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "This gold color represents the Aunt's authoritative and concerned nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Old Servant",
       "quote": "Company! yes, there's nothing but company. There's no rest from it.",
       "group": "Supporting Characters",
-      "color": "rgb(192, 192, 192)",
-      "explanation": "This gray color reflects the Old Servant's practicality and weariness."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Miss Frowde",
       "quote": "I hope you will be comfortable.",
       "group": "Supporting Characters",
-      "color": "rgb(0, 128, 128)",
-      "explanation": "This teal color represents Miss Frowde's accommodating and neutral demeanor."
+      "color": "rgb(255, 228, 181)",
+      "explanation": "This light peach color signifies Miss Frowde's nurturing and caring personality."
     },
     {
       "name": "Bishop Of Ohio",
       "quote": "It is well to remind our dear friend that the grains she has scattered are not all in vain.",
       "group": "Authority Figures",
-      "color": "rgb(0, 0, 128)",
-      "explanation": "This navy blue color symbolizes the Bishop's wisdom and support."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Sir Thomas Acland",
       "quote": "There are many flowers that bloom unseen, and she is one of the fairest I ever saw.",
       "group": "Authority Figures",
-      "color": "rgb(255, 69, 0)",
-      "explanation": "This bright orange color reflects Sir Thomas's admiration and warmth."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Thomas",
       "quote": "Doan't ee fret, my dear Miss Joyce. It's the hand of the Almighty.",
       "group": "Supporting Characters",
-      "color": "rgb(0, 255, 0)",
-      "explanation": "This green color symbolizes Thomas's practical and sympathetic nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mr. Dacres",
       "quote": "I should like to make you happy!",
       "group": "Supporting Characters",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "This vibrant magenta color reflects Mr. Dacres's hopeful and kind-hearted nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mrs. Law",
       "quote": "I cannot help feeling that we are of the same blood, and that if you were a worthy successor of my father you might be a joy and support to me.",
       "group": "Supporting Characters",
-      "color": "rgb(255, 140, 255)",
-      "explanation": "This lavender color represents Mrs. Law's nurturing and supportive personality."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Falcon Arundel",
       "quote": "How lazy she is!",
       "group": "Children",
-      "color": "rgb(255, 99, 71)",
-      "explanation": "This bright red color represents Falcon's youthful energy and excitement."
+      "color": "rgb(240, 128, 128)",
+      "explanation": "This light coral color represents Falcon's warm and friendly nature."
     },
     {
       "name": "Mr. Paget",
       "quote": "Ah! Well, I daresay it will be all right.",
       "group": "Adults",
-      "color": "rgb(0, 128, 128)",
-      "explanation": "The teal color reflects Mr. Paget's calm demeanor amidst the chaos."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Captain Gage",
       "quote": "We must protect the Council-house at all costs!",
       "group": "Authority Figures",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "This orange color symbolizes Captain Gage's determination and leadership."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Surgeon",
       "quote": "He won't get over it. A bad subject--a very bad subject.",
       "group": "Medical Professionals",
-      "color": "rgb(75, 0, 130)",
-      "explanation": "The deep indigo color represents the seriousness and professionalism of the surgeon."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mr. Bengough",
       "quote": "You may be glad, Mrs. Arundel, that your husband is out of the fray.",
       "group": "Community Members",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "The gold color signifies Mr. Bengough's supportive and optimistic nature."
+      "color": "",
+      "explanation": ""
     }
   ],
   "locations": [

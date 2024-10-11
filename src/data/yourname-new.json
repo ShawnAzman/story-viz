@@ -196,7 +196,7 @@
       "characters": {
         "Mitsuha Miyamizu": 4,
         "Interviewee": 1,
-        "Middle-aged Interviewer": 1,
+        "Interviewer": 1,
         "Takagi": 2,
         "Tsukasa": 1,
         "Okudera": 2,
@@ -2349,7 +2349,7 @@
           "importance_rank": 1
         },
         {
-          "name": "Middle-aged Interviewer",
+          "name": "Interviewer",
           "role": "Asking questions to assess the candidate",
           "importance": 0.7,
           "emotion": "curious and slightly concerned",
@@ -2584,211 +2584,211 @@
       "name": "Taki Tachibana",
       "quote": "I don't recognize that ringtone, I think drowsily.",
       "group": "main characters",
-      "color": "rgb(255, 99, 71)",
-      "explanation": "This color represents Taki's vibrant and dynamic personality."
+      "color": "rgb(0, 102, 204)",
+      "explanation": "The blue color symbolizes Taki's calm demeanor and his connection to the sky and water."
     },
     {
       "name": "Mitsuha Miyamizu",
       "quote": "Don't you remember me?",
       "group": "main characters",
-      "color": "rgb(71, 130, 255)",
-      "explanation": "This blue color reflects Mitsuha's calm and serene nature."
+      "color": "rgb(255, 165, 0)",
+      "explanation": "The orange color represents Mitsuha's vibrant personality and her connection to the sun and warmth."
     },
     {
       "name": "Yotsuha Miyamizu",
       "quote": "Awww, I wanna do it, too.",
       "group": "main characters",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "The gold color symbolizes Yotsuha's youthful energy and optimism."
+      "color": "rgb(0, 255, 127)",
+      "explanation": "The green color represents Yotsuha's youthful energy and her connection to nature."
     },
     {
       "name": "Grandma",
       "quote": "Our braided cords hold a thousand years of Itomori's history.",
       "group": "upper class",
-      "color": "rgb(128, 0, 128)",
-      "explanation": "Purple represents wisdom and tradition, fitting for Grandma's character."
+      "color": "rgb(139, 69, 19)",
+      "explanation": "The brown color represents Grandma's wisdom and connection to tradition."
     },
     {
       "name": "Saya's Sister",
       "quote": "Good morning, everyone.",
       "group": "supporting characters",
-      "color": "rgb(0, 255, 127)",
-      "explanation": "This green color symbolizes freshness and a friendly demeanor."
+      "color": "rgb(255, 192, 203)",
+      "explanation": "The light pink color signifies her youthful innocence."
     },
     {
       "name": "Tesshi",
       "quote": "Hey, you did get your grandma to exorcise you, didn't you?",
       "group": "supporting characters",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "Orange reflects Tesshi's playful and humorous personality."
+      "color": "rgb(0, 255, 255)",
+      "explanation": "The cyan color reflects Tesshi's lighthearted and humorous personality."
     },
     {
       "name": "Saya",
       "quote": "Would you quit blamin' everythin' on the occult already?!",
       "group": "supporting characters",
-      "color": "rgb(75, 0, 130)",
-      "explanation": "Indigo represents Saya's depth and her supportive nature."
+      "color": "rgb(255, 0, 0)",
+      "explanation": "The red color signifies Saya's fiery spirit and her strong personality."
     },
     {
       "name": "Toshiki Miyamizu",
       "quote": "Most importantly, economic revitalization, in order to sustain the village restoration project!",
       "group": "upper class",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "This pink color symbolizes Toshiki's ambition and leadership."
+      "color": "rgb(255, 140, 0)",
+      "explanation": "The orange color reflects Toshiki's ambition and connection to the community."
     },
     {
       "name": "Miss Yuki",
       "quote": "I expect that's local dialect, isn't it?",
       "group": "teachers",
-      "color": "rgb(0, 191, 255)",
-      "explanation": "Cyan represents Miss Yuki's clarity and intelligence."
+      "color": "rgb(75, 0, 130)",
+      "explanation": "The indigo color represents Miss Yuki's intelligence and depth."
     },
     {
       "name": "Narrator (miyamizu)",
       "quote": "The moment I realize this, I'm standing in a packed train car.",
       "group": "narrators",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "Hot pink symbolizes the narrator's emotional depth."
+      "color": "rgb(255, 0, 255)",
+      "explanation": "The magenta color symbolizes the confusion and complexity of identity."
     },
     {
       "name": "Narrator",
       "quote": "I can't take it, and I scream.",
       "group": "narrators",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "Light pink represents the narrator's sensitivity."
+      "color": "rgb(255, 215, 0)",
+      "explanation": "The gold color symbolizes the narrative's guiding presence and its importance."
     },
     {
       "name": "Classmates",
       "quote": "Miyamizuwas really cool yesterday, huh.",
       "group": "supporting characters",
-      "color": "rgb(0, 128, 0)",
-      "explanation": "Green symbolizes the camaraderie among classmates."
+      "color": "rgb(0, 0, 255)",
+      "explanation": "The blue color represents the camaraderie and youthful spirit of classmates."
     },
     {
       "name": "Middle-aged Man",
       "quote": "Breakfast was your job today, kid. Remember? You overslept.",
       "group": "supporting characters",
-      "color": "rgb(128, 128, 0)",
-      "explanation": "Olive green represents the man's authoritative yet caring nature."
+      "color": "rgb(128, 128, 128)",
+      "explanation": "The gray color signifies the everyday reality and responsibilities of adulthood."
     },
     {
       "name": "Tsukasa",
       "quote": "Do I detect a note of contrition?",
       "group": "supporting characters",
-      "color": "rgb(255, 0, 255)",
-      "explanation": "Magenta reflects Tsukasa's playful and teasing personality."
+      "color": "rgb(128, 0, 128)",
+      "explanation": "The purple color represents Tsukasa's playful and teasing nature."
     },
     {
       "name": "Takagi",
       "quote": "How the heck did you manage to get lost on the way to school?",
       "group": "supporting characters",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "Aqua represents Takagi's straightforward and friendly nature."
+      "color": "rgb(255, 105, 180)",
+      "explanation": "The light pink color signifies Takagi's friendly and approachable nature."
     },
     {
       "name": "Okudera",
       "quote": "Let's make it another good day. Okay, Taki?",
       "group": "supporting characters",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "Dark orange symbolizes Okudera's warmth and charm."
+      "color": "rgb(255, 20, 147)",
+      "explanation": "The pink color reflects Okudera's gentle and caring nature."
     },
     {
       "name": "Mr. Thug",
       "quote": "I'm asking you what you're gonna do about it?!",
       "group": "antagonists",
-      "color": "rgb(139, 0, 0)",
-      "explanation": "Dark red represents the thug's aggressive and confrontational nature."
+      "color": "rgb(220, 10, 40)",
+      "explanation": "The red color reflects Mr. Thug's aggressive and confrontational nature."
     },
     {
       "name": "Ramen Shop Owner",
       "quote": "Good morning! What can I get for you today?",
       "group": "supporting characters",
-      "color": "rgb(255, 228, 181)",
-      "explanation": "Peach color symbolizes the owner's friendly and welcoming demeanor."
+      "color": "rgb(255, 228, 196)",
+      "explanation": "The beige color represents the warmth and comfort of the ramen shop."
     },
     {
       "name": "Village Inhabitants",
       "quote": "It's a beautiful day in Itomori!",
       "group": "supporting characters",
-      "color": "rgb(173, 216, 230)",
-      "explanation": "Light blue represents the villagers' cheerful and friendly nature."
+      "color": "rgb(255, 255, 0)",
+      "explanation": "The yellow color symbolizes the warmth and friendliness of the village community."
     },
     {
       "name": "Future Generations",
       "quote": "We will carry on the traditions of our ancestors.",
       "group": "supporting characters",
-      "color": "rgb(255, 255, 224)",
-      "explanation": "Light yellow symbolizes hope and the continuity of traditions."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Teshigawara",
       "quote": "Let's go watch the comet.",
       "group": "main characters",
-      "color": "rgb(100, 149, 237)",
-      "explanation": "This color represents Teshigawara's excitement and adventurous spirit."
+      "color": "rgb(0, 128, 0)",
+      "explanation": "The dark green color represents Teshigawara's grounded and reliable personality."
     },
     {
       "name": "Dad",
       "quote": "Look!",
       "group": "main characters",
-      "color": "rgb(255, 69, 0)",
-      "explanation": "This vibrant color reflects his supportive and enthusiastic nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Town Hall Official",
       "quote": "We request that all residents refrain from panicking.",
       "group": "upper class",
-      "color": "rgb(34, 139, 34)",
-      "explanation": "This color symbolizes authority and calmness in a crisis."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Narrator's Dad",
       "quote": "Go ahead, it's a once-in-a-lifetime event!",
       "group": "main characters",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "This bright color captures his encouraging and optimistic demeanor."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Interviewee",
       "quote": "I want to create the sort of town that warms people, even if it's only a memory.",
       "group": "main characters",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "This soft color reflects the interviewee's nostalgic and hopeful aspirations."
+      "color": "",
+      "explanation": ""
     },
     {
-      "name": "Middle-aged Interviewer",
+      "name": "Interviewer",
       "quote": "Then could you tell us why you chose to enter the construction field, rather than the restaurant industry?",
       "group": "upper class",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "This warm color represents the interviewer's curiosity and professionalism."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Girl",
       "quote": "This is a once-in-a-lifetime thing. I can't make up my mind that easily.",
       "group": "main characters",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "This playful color reflects her excitement and indecisiveness about wedding plans."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Guy",
       "quote": "We've been to a ton of fairs already. They were all pretty much the same stuff.",
       "group": "main characters",
-      "color": "rgb(0, 191, 255)",
-      "explanation": "This cool color represents his laid-back and affectionate personality."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mysterious Woman",
       "quote": "What's your name?",
       "group": "mysterious characters",
-      "color": "rgb(138, 43, 226)",
-      "explanation": "This deep color symbolizes the intrigue and allure of the mysterious woman."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mysterious Man",
       "quote": "What's your name?",
       "group": "mysterious characters",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "This vibrant color reflects the surprise and joy associated with the mysterious man."
+      "color": "",
+      "explanation": ""
     }
   ],
   "locations": [

@@ -10048,323 +10048,323 @@
       "name": "Mrs. Rachel Lynde",
       "quote": "I'm clean puzzled, that's what, and I won't know a minute's peace of mind or conscience until I know what has taken Matthew Cuthbert out of Avonlea today.",
       "group": "main characters",
-      "color": "rgb(255, 99, 71)",
-      "explanation": "The color red represents her fiery curiosity and strong personality."
+      "color": "rgb(255, 215, 0)",
+      "explanation": "Gold signifies Mrs. Rachel's status and her curious nature."
     },
     {
       "name": "Marilla Cuthbert",
       "quote": "We've been thinking about it for some time--all winter in fact.",
       "group": "main characters",
       "color": "rgb(0, 128, 0)",
-      "explanation": "Green symbolizes her practical and nurturing nature."
+      "explanation": "Green symbolizes Marilla's practicality and her connection to the land."
     },
     {
       "name": "Matthew Cuthbert",
       "quote": "I dread all women except Marilla and Mrs. Rachel.",
       "group": "main characters",
       "color": "rgb(70, 130, 180)",
-      "explanation": "Blue reflects his calm demeanor and gentle spirit."
+      "explanation": "This blue reflects Matthew's calm and gentle nature."
     },
     {
       "name": "Stationmaster",
       "quote": "Guess there's some mistake.",
       "group": "supporting characters",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "Gold represents his straightforward and practical nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Anne Shirley",
       "quote": "Oh, I'm very glad you've come, even if it would have been nice to sleep in a wild cherry-tree.",
       "group": "main characters",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "Pink embodies her imaginative and vibrant personality."
+      "color": "rgb(255, 99, 71)",
+      "explanation": "This color represents Anne's vibrant personality and her love for nature."
     },
     {
       "name": "Diana Barry",
       "quote": "Oh! What a perfectly lovely name!",
       "group": "supporting characters",
       "color": "rgb(255, 182, 193)",
-      "explanation": "Light pink signifies her sweetness and friendship with Anne."
+      "explanation": "Pink represents Diana's sweetness and her close friendship with Anne."
     },
     {
       "name": "Narrator",
       "quote": "The shore road was 'woodsy and wild and lonesome.'",
       "group": "narrative voice",
-      "color": "rgb(128, 0, 128)",
-      "explanation": "Purple represents the storytelling aspect and the depth of the narrative."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mr. Kirke",
       "quote": "That's the White Sands Hotel. Mr. Kirke runs it, but the season hasn't begun yet.",
       "group": "supporting characters",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "Orange reflects his role as a businessman and his practical nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mrs. Spencer",
       "quote": "Dear, dear, you're the last folks I was looking for today, but I'm real glad to see you.",
       "group": "supporting characters",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "Hot pink symbolizes her warm and welcoming personality."
+      "color": "rgb(255, 140, 0)",
+      "explanation": "This warm orange reflects Mrs. Spencer's welcoming and kind personality."
     },
     {
       "name": "Mrs. Blewett",
       "quote": "How old are you and what's your name?",
       "group": "supporting characters",
-      "color": "rgb(139, 69, 19)",
-      "explanation": "Brown represents her stern and practical nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Flora Jane",
       "quote": "She certainly did, Miss Cuthbert.",
       "group": "supporting characters",
-      "color": "rgb(0, 255, 127)",
-      "explanation": "Spring green reflects her youthful and earnest character."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Gilbert Blythe",
       "quote": "I suppose you are Mr. Matthew Cuthbert of Green Gables?",
       "group": "supporting characters",
-      "color": "rgb(0, 191, 255)",
-      "explanation": "Cyan represents his friendly and approachable nature."
+      "color": "rgb(255, 165, 0)",
+      "explanation": "Orange reflects Gilbert's spirited and determined character."
     },
     {
       "name": "Mr. Phillips",
       "quote": "I don't see where the comforting comes in myself.",
       "group": "supporting characters",
-      "color": "rgb(255, 69, 0)",
-      "explanation": "Red-orange signifies his critical and somewhat harsh demeanor."
+      "color": "rgb(0, 0, 255)",
+      "explanation": "Blue symbolizes Mr. Phillips' rational and somewhat detached demeanor."
     },
     {
       "name": "Ruby Gillis",
       "quote": "Oh, I don't think that can be exactly the same kind of a thrill.",
       "group": "supporting characters",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "Peach reflects her gentle and caring nature."
+      "color": "rgb(255, 20, 147)",
+      "explanation": "This vibrant pink represents Ruby's boldness and strong opinions."
     },
     {
       "name": "Ella May Macpherson",
       "quote": "I can imagine that I have a beautiful rose-leaf complexion and lovely starry violet eyes.",
       "group": "supporting characters",
-      "color": "rgb(255, 0, 255)",
-      "explanation": "Magenta represents her romantic and dreamy personality."
+      "color": "rgb(210, 40, 140)",
+      "explanation": "This vibrant pink reflects Ella's lively and spirited personality."
     },
     {
       "name": "Sophia Sloane",
       "quote": "I suppose I'll guess right.",
       "group": "supporting characters",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "Aqua symbolizes her lively and cheerful character."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Katie Boulter",
       "quote": "I wonder at Mrs. Alexander Spencer for doing it.",
       "group": "supporting characters",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "Dark orange reflects her practical and straightforward nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Charlie Sloane",
       "quote": "I think he's lovely.",
       "group": "supporting characters",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "Deep pink signifies his youthful and charming personality."
+      "color": "rgb(255, 69, 0)",
+      "explanation": "Red-orange symbolizes Charlie's passionate and impulsive character."
     },
     {
       "name": "Timothy Andrews",
       "quote": "I don't know what on earth you mean.",
       "group": "supporting characters",
-      "color": "rgb(255, 255, 0)",
-      "explanation": "Yellow represents his bright and cheerful disposition."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Thomas Lynde",
       "quote": "I suppose I should go along with Rachel.",
       "group": "upper class",
-      "color": "rgb(100, 149, 237)",
-      "explanation": "This color represents Thomas Lynde's calm and steady nature, akin to the sky."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Minnie May",
       "quote": "I\u2019m glad to be with you, Anne.",
       "group": "children",
-      "color": "rgb(255, 182, 193)",
-      "explanation": "This soft pink color reflects Minnie May's innocence and sweetness."
+      "color": "rgb(255, 0, 0)",
+      "explanation": "Red symbolizes Minnie May's youthful energy and innocence."
     },
     {
       "name": "Mary Joe",
       "quote": "It seems to me you might have thought of this before.",
       "group": "caregivers",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "This warm color symbolizes Mary Joe's nurturing yet slightly overwhelmed nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Doctor",
       "quote": "Yes, I know.",
       "group": "professionals",
-      "color": "rgb(0, 128, 128)",
-      "explanation": "This teal color represents the calm and collected demeanor of a medical professional."
+      "color": "rgb(0, 255, 255)",
+      "explanation": "Cyan represents the Doctor's calm and professional demeanor."
     },
     {
       "name": "Mr. Barry",
       "quote": "That little redheaded girl... is as smart as they make 'em.",
       "group": "upper class",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "This vibrant orange reflects Mr. Barry's pride and warmth."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Carrie Sloane",
       "quote": "Life is not worth living.",
       "group": "children",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "This bright pink represents Carrie Sloane's dramatic and emotional nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Prissy Andrews",
       "quote": "Climbed the slimy ladder, dark without one ray of light.",
       "group": "children",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "This bold magenta reflects Prissy's confidence and flair."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Josephine Barry",
       "quote": "Remember, you Anne-girl, when you come to town you're to visit me.",
       "group": "upper class",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "This golden color symbolizes Josephine Barry's warmth and generosity."
+      "color": "rgb(255, 105, 180)",
+      "explanation": "This bright pink reflects Josephine's lively and optimistic personality."
     },
     {
       "name": "Arty Gillis",
       "quote": "Arty did because he wouldn't take a dare.",
       "group": "children",
-      "color": "rgb(0, 191, 255)",
-      "explanation": "This bright blue represents Arty's adventurous spirit."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Jane Andrews",
       "quote": "Hasn't it been a delightful time?",
       "group": "children",
-      "color": "rgb(255, 69, 0)",
-      "explanation": "This fiery red reflects Jane's enthusiasm and energy."
+      "color": "rgb(138, 43, 226)",
+      "explanation": "Purple symbolizes Jane's thoughtful and imaginative nature."
     },
     {
       "name": "Mrs. Allan",
       "quote": "You just go right to bed and have a good sleep.",
       "group": "caregivers",
-      "color": "rgb(255, 99, 71)",
-      "explanation": "This warm coral color represents Mrs. Allan's nurturing and caring nature."
+      "color": "rgb(255, 228, 181)",
+      "explanation": "This soft color represents Mrs. Allan's nurturing and sensible character."
     },
     {
       "name": "Mr. Superintendent Bell",
       "quote": "Oh, of course he's good.",
       "group": "professionals",
-      "color": "rgb(128, 0, 128)",
-      "explanation": "This deep purple symbolizes Mr. Bell's authority and seriousness."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Josie Pye",
       "quote": "I can't believe she would say that about me!",
       "group": "children",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "This bright orange reflects Josie's fiery and competitive nature."
+      "color": "rgb(255, 0, 255)",
+      "explanation": "Magenta represents Josie's dramatic and outspoken character."
     },
     {
       "name": "Miss Stacy",
       "quote": "Miss Stacy explains everything so beautifully.",
       "group": "professionals",
-      "color": "rgb(70, 130, 180)",
-      "explanation": "This calming blue represents Miss Stacy's supportive and encouraging demeanor."
+      "color": "rgb(0, 255, 127)",
+      "explanation": "This green represents Miss Stacy's nurturing and supportive nature."
     },
     {
       "name": "Miss Lucilla Harris",
       "quote": "What can I do for you this evening, Mr. Cuthbert?",
       "group": "upper class",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "This vibrant pink reflects Miss Lucilla's lively personality."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Emma White",
       "quote": "This is so unfair, Ruby!",
       "group": "children",
-      "color": "rgb(255, 255, 0)",
-      "explanation": "This bright yellow symbolizes Emma's cheerful yet dramatic nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Julia Bell",
       "quote": "I never meant to hurt her feelings.",
       "group": "children",
-      "color": "rgb(0, 255, 127)",
-      "explanation": "This green color represents Julia's sincerity and kindness."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Moody Macpherson",
       "quote": "I was just saying what everyone thinks!",
       "group": "children",
-      "color": "rgb(255, 0, 255)",
-      "explanation": "This bold magenta reflects Moody's outspoken and brash personality."
+      "color": "rgb(128, 0, 128)",
+      "explanation": "Purple reflects Moody's critical and somewhat cynical nature."
     },
     {
       "name": "Elaine",
       "quote": "I just couldn't. I'd die really of fright.",
       "group": "children",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "This bright cyan represents Elaine's innocence and vulnerability."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Billy Andrews",
       "quote": "I can't believe you hang out with him.",
       "group": "children",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "This warm orange reflects Billy's playful and slightly mischievous nature."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "White-lace Girl",
       "quote": "such fun from the displays of local talent.",
       "group": "mocking characters",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "This color represents the light-hearted and scornful nature of the character, contrasting with the more serious tones of the other characters."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Stout Lady In Pink Silk",
       "quote": "My dear, you did splendidly.",
       "group": "supportive characters",
-      "color": "rgb(255, 182, 193)",
-      "explanation": "This soft pink color reflects her warm and encouraging personality, making her stand out as a positive influence."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Stella Maynard",
       "quote": "Life is full of beautiful dreams.",
       "group": "Anne's friends",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "This vibrant orange symbolizes her imaginative and dreamy nature, aligning with her character's aspirations."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Priscilla Grant",
       "quote": "Let's have some fun today!",
       "group": "Anne's friends",
-      "color": "rgb(100, 149, 237)",
-      "explanation": "This blue color represents her playful and spirited personality, evoking a sense of fun and adventure."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Lewis Wilson",
       "quote": "I believe I can win.",
       "group": "competitors",
-      "color": "rgb(0, 128, 128)",
-      "explanation": "This teal color signifies his confidence and determination, setting him apart as a strong competitor."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Ethel Marr",
       "quote": "Fashion is everything.",
       "group": "stylish characters",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "This gold color reflects her stylish and fashionable nature, representing her focus on appearance and trends."
+      "color": "",
+      "explanation": ""
     },
     {
       "name": "Mrs. Barry",
       "quote": "I don't think you are a fit little girl for Diana to associate with.",
       "group": "upper class",
-      "color": "rgb(139, 0, 0)",
-      "explanation": "This dark red color represents Mrs. Barry's strict and protective nature, as well as her initial disapproval of Anne."
+      "color": "",
+      "explanation": ""
     }
   ],
   "locations": [
