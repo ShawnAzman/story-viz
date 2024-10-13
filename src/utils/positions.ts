@@ -210,10 +210,22 @@ const characterPos = (
     // Iterate over each existing y-line
     for (let line of yLines) {
       const canShareLine = line.characters.every(
-        (placedCharacter: CharacterScene) =>
-          placedCharacter.scenes.every(
-            (scene: number) => !character.scenes.includes(scene) // Ensure no shared scenes with any character on this line
-          )
+        (placedCharacter: CharacterScene) => {
+          const firstSceneOfCharacter = Math.min(...character.scenes);
+          const lastSceneOfCharacter = Math.max(...character.scenes);
+          const firstSceneOfPlacedCharacter = Math.min(
+            ...placedCharacter.scenes
+          );
+          const lastSceneOfPlacedCharacter = Math.max(
+            ...placedCharacter.scenes
+          );
+
+          // Check if the current character's first scene is after the placed character's last scene
+          return (
+            firstSceneOfCharacter > lastSceneOfPlacedCharacter ||
+            lastSceneOfCharacter < firstSceneOfPlacedCharacter
+          );
+        }
       );
 
       if (canShareLine) {
@@ -248,6 +260,20 @@ const characterPos = (
       yLines.push({ y: newY, characters: [character] });
     }
   });
+
+  // if more than 8 yLines, adjust y position
+  if (yLines.length > 8) {
+    const char_inc_new = maxLoc / yLines.length;
+    charStackPos.forEach((char, i) => {
+      // find yLine for this character
+      const line_ind = yLines.findIndex((line: any) =>
+        line.characters.includes(characterScenes[i])
+      );
+      char.forEach((pos) => {
+        pos.y = line_ind * char_inc_new;
+      });
+    });
+  }
 
   const charListPos = characterScenes.map((character) => {
     const i = sortedCharacters.findIndex(

@@ -41,8 +41,8 @@ function StoryVis() {
       <YAxis />
       <XAxis />
       <MainPlot />
-      <OverlayInfo />
       <Legend />
+      <OverlayInfo />
     </svg>
   );
 }
