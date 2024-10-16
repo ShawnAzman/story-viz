@@ -124,6 +124,33 @@ function Defs() {
                 (c) => c.name === char.character
               ) as any);
 
+            const emotion_val = firstScene.rating;
+            const importance_val = firstScene.importance;
+            const emotion_color = emotionColor(emotion_val);
+            const importance_color = importanceColor(importance_val);
+
+            const emotion_val2 = lastScene.rating;
+            const importance_val2 = lastScene.importance;
+            const emotion_color2 = emotionColor(emotion_val2);
+            const importance_color2 = importanceColor(importance_val2);
+
+            const start_color =
+              characterColor === "default"
+                ? charColor
+                : characterColor === "llm"
+                ? llmColor
+                : characterColor === "sentiment"
+                ? emotion_color
+                : importance_color;
+            const end_color =
+              characterColor === "default"
+                ? charColor
+                : characterColor === "llm"
+                ? llmColor
+                : characterColor === "sentiment"
+                ? emotion_color2
+                : importance_color2;
+
             return (
               <linearGradient
                 id={`linear-${i}-${segIndex}`}
@@ -137,7 +164,9 @@ function Defs() {
                   <>
                     <stop
                       offset={fade_in_percent - fade_in_buffer_percent + "%"}
-                      stopColor={"rgb(255,255,255,0)"}
+                      stopColor={
+                        segIndex === 0 ? start_color : "rgb(255,255,255,0)"
+                      }
                     />
                     <stop
                       offset={fade_in_percent + "%"}
@@ -204,7 +233,11 @@ function Defs() {
                     />
                     <stop
                       offset={fade_out_percent + fade_in_buffer_percent + "%"}
-                      stopColor={"rgb(255,255,255,0)"}
+                      stopColor={
+                        segIndex === segments.length - 1
+                          ? end_color
+                          : "rgb(255,255,255,0)"
+                      }
                     />
                   </>
                 )}

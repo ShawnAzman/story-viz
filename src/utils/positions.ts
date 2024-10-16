@@ -703,10 +703,16 @@ const overlay_points = (
     const x = scenePos[i].x;
     // y should be between min_y_point and min_y_point + location_height (max rating)
     let rating_val = rating;
-    if (rating_val === 0) {
-      rating_val = 0.05;
+    if (rating_val < 0.1) {
+      rating_val = 0.1;
     }
     const y = min_y_point - rating_val * location_height;
+    if (y > min_y_point) {
+      console.log("y", y);
+      console.log("rating", rating);
+      console.log("min_y_point", min_y_point);
+      console.log("location_height", location_height);
+    }
     return { x: x, y: y };
   });
   return points;
@@ -876,6 +882,9 @@ export const getAllPositions = (
     min_conflict_y,
     initScenePos
   );
+  console.log(ratingDict.length);
+  console.log("initLengthPoints", initLengthPoints);
+  console.log(min_conflict_y);
   const initLengthPath = overlayPath(
     initLengthPoints,
     min_conflict_y,
