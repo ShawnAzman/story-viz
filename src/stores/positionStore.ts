@@ -30,6 +30,7 @@ interface IStore {
   sceneWidth: number;
   plotWidth: number;
   plotHeight: number;
+  locationPos: number[];
   scenePos: Position[];
   characterPos: Position[][];
   characterSquares: Box[][];
@@ -40,6 +41,8 @@ interface IStore {
   lengthPath: string;
   minConflictY: number;
   charInc: number;
+  firstPoints: Position[];
+  lastPoints: Position[];
 
   setPositions: (
     scene_data: Scene[],
@@ -72,6 +75,7 @@ const initialState = {
   sceneWidth: init_pos_values.sceneWidth,
   plotWidth: init_pos_values.plotWidth,
   plotHeight: init_pos_values.plotHeight,
+  locationPos: init_pos_values.locationPos,
   scenePos: init_pos_values.scenePos,
   characterPos: init_pos_values.characterPos,
   characterSquares: init_pos_values.characterSquares,
@@ -82,6 +86,8 @@ const initialState = {
   lengthPath: init_pos_values.lengthPath,
   minConflictY: init_pos_values.minConflictY,
   charInc: init_pos_values.charInc,
+  firstPoints: init_pos_values.firstPoints,
+  lastPoints: init_pos_values.lastPoints,
 };
 
 export const positionStore = create<IStore>((set, get) => ({
@@ -121,6 +127,7 @@ export const positionStore = create<IStore>((set, get) => ({
       sceneWidth: newPositions.sceneWidth,
       plotWidth: newPositions.plotWidth,
       plotHeight: newPositions.plotHeight,
+      locationPos: newPositions.locationPos,
       scenePos: newPositions.scenePos,
       characterPos: newPositions.characterPos,
       characterSquares: newPositions.characterSquares,
@@ -131,6 +138,8 @@ export const positionStore = create<IStore>((set, get) => ({
       lengthPath: newPositions.lengthPath,
       minConflictY: newPositions.minConflictY,
       charInc: newPositions.charInc,
+      firstPoints: newPositions.firstPoints,
+      lastPoints: newPositions.lastPoints,
     });
   },
   setPaths: (

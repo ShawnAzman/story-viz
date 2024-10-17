@@ -6,7 +6,8 @@ import { onlyLetters } from "../../utils/helpers";
 import ImageDiv from "../ImageDiv";
 
 function CharacterDiv() {
-  const { characterHover, characterColor, story } = storyStore();
+  const { characterHover, characterColor, story, storyMarginTop } =
+    storyStore();
   const { character_data, sortedCharacters } = dataStore();
 
   const [accentColor, setAccentColor] = useState("rgb(0, 0, 0)");
@@ -14,6 +15,40 @@ function CharacterDiv() {
   const [characterGroup, setCharacterGroup] = useState("");
   const [characterQuote, setCharacterQuote] = useState("");
   const [characterExplanation, setCharacterExplanation] = useState("");
+
+  const [marginTop, setMarginTop] = useState(0);
+
+  const buffer = 30;
+
+  useEffect(() => {
+    const handleMouseMove = (event: MouseEvent) => {
+      event.preventDefault();
+      event.stopPropagation();
+      let curX = event.clientX;
+      let curY = event.clientY;
+      const overlay = document.getElementById("character-info") as HTMLElement;
+      const coords = overlay.getBoundingClientRect();
+
+      if (
+        curY + buffer >= coords.top &&
+        curY - buffer <= coords.bottom &&
+        curX + buffer >= coords.left &&
+        curX - buffer <= coords.right
+      ) {
+        setMarginTop(curY - storyMarginTop + buffer);
+      } else {
+        setMarginTop(0);
+      }
+    };
+
+    // Add event listener to track mouse movement
+    window.addEventListener("mousemove", handleMouseMove);
+
+    // Cleanup listener on unmount
+    return () => {
+      window.removeEventListener("mousemove", handleMouseMove);
+    };
+  }, []);
 
   useEffect(() => {
     if (characterHover !== "") {
@@ -43,8 +78,19 @@ function CharacterDiv() {
   return (
     <div
       id="character-info"
-      style={{ borderColor: accentColor.split(")")[0] + ", 0.3)" }}
+      style={{
+        borderColor: accentColor.split(")")[0] + ", 0.3)",
+        marginTop: `calc(${marginTop}px + 1rem)`,
+      }}
       className={characterHover !== "" ? "" : "hidden"}
+      onMouseEnter={(e) => {
+        e.preventDefault();
+        e.stopPropagation();
+      }}
+      onMouseLeave={(e) => {
+        e.preventDefault();
+        e.stopPropagation();
+      }}
     >
       <div className="character-inner grid">
         <ImageDiv

@@ -19,9 +19,16 @@ function MainPlot() {
     setCharacterHover,
     characterColor: characterColorBy,
     hidden,
+    yAxis,
   } = storyStore();
-  const { sceneBoxes, characterPaths, characterPos, characterSquares } =
-    positionStore();
+  const {
+    sceneBoxes,
+    characterPaths,
+    characterPos,
+    characterSquares,
+    firstPoints,
+    lastPoints,
+  } = positionStore();
   const {
     scene_data,
     sceneCharacters,
@@ -104,6 +111,15 @@ function MainPlot() {
           const llmColor =
             getLLMColor(character.character, sortedCharacters) || charColor;
 
+          const charFirstPoint = firstPoints[i];
+          const charLastPoint = lastPoints[i];
+          const dashColor =
+            characterColorBy === "llm"
+              ? llmColor
+              : characterColorBy === "default"
+              ? charColor
+              : "gray";
+
           return (
             <g
               key={"chargroup" + i}
@@ -118,6 +134,28 @@ function MainPlot() {
                   : "")
               }
             >
+              {/* dashed line to connect gaps in character y axis view */}
+              {yAxis.includes("character") && characterPaths.length > 1 && (
+                <line
+                  x1={charFirstPoint && charFirstPoint.x}
+                  x2={charLastPoint && charLastPoint.x}
+                  y1={charFirstPoint && charFirstPoint.y}
+                  y2={charLastPoint && charLastPoint.y}
+                  strokeOpacity={0.1}
+                  stroke={dashColor}
+                  strokeWidth="4"
+                  strokeDasharray={"10"}
+                  className={
+                    "dashed-lines " +
+                    (locationHover !== "" ||
+                    sceneHover !== "" ||
+                    (characterHover !== "" &&
+                      characterHover !== character.character)
+                      ? "faded"
+                      : "")
+                  }
+                />
+              )}
               {/* add paths between scenes */}
               <g
                 fillOpacity={0.7}

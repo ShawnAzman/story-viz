@@ -224,6 +224,7 @@ h1 {
   right: 0;
   background: rgb(255, 255, 255, 0.9);
   transition: 0.3s;
+  width: 500px;
 
   .hidden,
   &.hidden {
@@ -243,7 +244,6 @@ h1 {
 
   .character-inner {
     padding: 0.5rem 0.75rem;
-    width: 500px;
     font-size: x-small;
     transition: 0.3s;
 
@@ -599,6 +599,10 @@ h1 {
         stroke-opacity: 0.05;
         fill-opacity: 0.15;
       }
+
+      &.dashed-lines {
+        stroke-opacity: 0;
+      }
     }
 
     .character-path.faded,
@@ -718,6 +722,7 @@ h1 {
       }
 
       .path-group,
+      .dashed-lines,
       .location-group,
       .character-name,
       .character-square,

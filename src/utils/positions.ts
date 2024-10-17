@@ -443,12 +443,6 @@ const findAdjustments = (
             allCoords[charIndex][sceneIndex].y,
         };
       });
-      const sortedNextSceneChar = nextSceneChar.sort(
-        (a, b) =>
-          (nextCharCoords.find((c) => c.character === a)?.coords ?? 0) -
-          (nextCharCoords.find((c) => c.character === b)?.coords ?? 0)
-      );
-      const nextCharIndex = sortedNextSceneChar.indexOf(character);
       const nextCharPos = nextCharCoords.find((c) => c.character === character)
         ?.coords as number;
       if (
@@ -477,17 +471,17 @@ const findAdjustments = (
 };
 
 const characterPaths = (
-  scene_width: number,
   characterScenes: CharacterScene[],
   characterPos: Position[][],
   max_y_per_scene: number[],
   sceneCharacters: SceneCharacter[],
-  scene_data: Scene[],
-  scenePos: Position[]
+  scene_data: Scene[]
 ) => {
   const allPaths = characterScenes.map((character) => {
     const paths = [];
+
     const charCoords = characterPos[characterScenes.indexOf(character)];
+
     let coordsTop = [] as number[][],
       coordsBottom = [] as number[][],
       prevScene = null as number | null;
@@ -535,7 +529,16 @@ const characterPaths = (
       paths.push(createPathSegment(coordsTop, coordsBottom, adjustments));
     }
 
-    return paths;
+    const firstPoint = {
+      x: charCoords[0].x,
+      y: charCoords[0].y + character_height / 2,
+    };
+    const lastPoint = {
+      x: charCoords[charCoords.length - 1].x,
+      y: charCoords[charCoords.length - 1].y + character_height / 2,
+    };
+
+    return { paths: paths, firstPoint: firstPoint, lastPoint: lastPoint };
   });
 
   return { paths: allPaths, max_y_per_scene };
@@ -707,12 +710,6 @@ const overlay_points = (
       rating_val = 0.1;
     }
     const y = min_y_point - rating_val * location_height;
-    if (y > min_y_point) {
-      console.log("y", y);
-      console.log("rating", rating);
-      console.log("min_y_point", min_y_point);
-      console.log("location_height", location_height);
-    }
     return { x: x, y: y };
   });
   return points;
@@ -826,16 +823,17 @@ export const getAllPositions = (
     initScenePos
   );
   const pathInfo = characterPaths(
-    sceneWidth,
     characterScenes,
     initCharacterPos,
     initMaxYPerScene,
     sceneCharacters,
-    scene_data,
-    initScenePos
+    scene_data
   );
 
-  const initCharacterPaths = pathInfo.paths;
+  const initCharacterPathsAll = pathInfo.paths;
+  const initCharacterPaths = initCharacterPathsAll.map((path) => path.paths);
+  const initFirstPoints = initCharacterPathsAll.map((path) => path.firstPoint);
+  const initLastPoints = initCharacterPathsAll.map((path) => path.lastPoint);
   const initMaxYPerSceneUpdated = pathInfo.max_y_per_scene;
 
   // compute max y value of characterPos
@@ -882,9 +880,7 @@ export const getAllPositions = (
     min_conflict_y,
     initScenePos
   );
-  console.log(ratingDict.length);
-  console.log("initLengthPoints", initLengthPoints);
-  console.log(min_conflict_y);
+
   const initLengthPath = overlayPath(
     initLengthPoints,
     min_conflict_y,
@@ -895,6 +891,7 @@ export const getAllPositions = (
     sceneWidth: sceneWidth,
     plotWidth: plotWidth,
     plotHeight: plotHeight,
+    locationPos: initLocationPos,
     scenePos: initScenePos,
     characterPos: initCharacterPos,
     characterSquares: initCharacterSquares,
@@ -905,5 +902,7 @@ export const getAllPositions = (
     lengthPath: initLengthPath,
     minConflictY: min_conflict_y,
     charInc: charInc,
+    firstPoints: initFirstPoints,
+    lastPoints: initLastPoints,
   };
 };
