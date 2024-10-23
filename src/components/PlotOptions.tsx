@@ -85,6 +85,8 @@ function PlotOptions() {
     "mendips",
     "mendips-new",
     "frankenstein-new",
+    "threads-new",
+    "victoria-new",
   ].sort();
   const yAxisOptions = [
     "location",
