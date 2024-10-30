@@ -8,17 +8,32 @@ function Colorbar() {
       {Object.keys(color_dict).map((scale) => (
         <div className={"color-bar"} key={"color legend " + scale}>
           <div className="inner-bar">
-            <span className="number-label">
-              {scale === "sentiment" ? -1 : scale === "length" ? minLines : 0}
-            </span>
+            <p className="number-label">
+              {scale === "sentiment"
+                ? "negative"
+                : scale === "length"
+                ? "shortest"
+                : "least"}
+              <span>
+                {scale === "sentiment" ? -1 : scale === "length" ? minLines : 0}
+              </span>
+            </p>
             <div className={"gradient " + scale} />
-            <span className="number-label">
-              {scale === "length" ? maxLines : 1}
-            </span>
+            <p className="number-label">
+              {scale === "length"
+                ? "longest"
+                : scale === "sentiment"
+                ? "positive"
+                : "most"}
+
+              <span className="number-label">
+                {scale === "length" ? maxLines : 1}
+              </span>
+            </p>
           </div>
 
           <span className="main-label">
-            {scale === "length" ? "length (# lines)" : scale}
+            {scale === "length" ? "length (# lines)" : `${scale}`}
           </span>
         </div>
       ))}
