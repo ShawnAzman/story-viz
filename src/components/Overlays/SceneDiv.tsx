@@ -27,24 +27,31 @@ function SceneDiv() {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
 
   const buffer = 30;
-  const maxRight = 650 + 2 * buffer;
 
   useEffect(() => {
     const handleMouseMove = (event: MouseEvent) => {
+      event.preventDefault();
+      event.stopPropagation();
+
       // get max x position
       const max_x = window.innerWidth;
-
-      // get window height
-      const max_y = window.innerHeight;
       let curX = event.clientX;
+
+      let overlay = document.getElementById("scene-overlay");
+      let overlayHeight = overlay ? overlay.clientHeight : 0;
+
+      const overlayWidth =
+        scene && scene.characters && scene.characters.length > 10 ? 800 : 650;
+      const maxRight = overlayWidth + 2 * buffer;
 
       if (curX + maxRight > max_x) {
         curX = curX - maxRight;
       }
 
+      // get window height
+      const max_y = window.innerHeight;
       let curY = event.clientY;
-      let overlay = document.getElementById("scene-overlay");
-      let overlayHeight = overlay ? overlay.clientHeight : 0;
+
       if (curY + overlayHeight + buffer > max_y) {
         curY = max_y - overlayHeight - buffer;
       }
@@ -58,12 +65,19 @@ function SceneDiv() {
     return () => {
       window.removeEventListener("mousemove", handleMouseMove);
     };
-  }, []);
+  }, [scene]);
 
   return (
     <div
       id="scene-overlay"
-      className={sceneHover === "" ? "hidden" : ""}
+      className={
+        sceneHover === ""
+          ? "hidden"
+          : "" +
+            (scene && scene.characters && scene.characters.length > 10
+              ? " wide"
+              : "")
+      }
       style={{
         left: mousePosition.x + buffer + "px", // Offset slightly from cursor
         top: mousePosition.y - buffer + "px",
@@ -139,49 +153,64 @@ function SceneDiv() {
           <div id="scene-header">
             <b>Characters:</b>
           </div>
-          {scene &&
-            sceneSummary &&
-            sceneSummary.emotions.map((char) => {
-              const character = scene.characters.find(
-                (c) => c.name === char.character
-              ) as any;
-              let emotion = character.emotion;
-              // capitalize first letter
-              emotion = emotion.charAt(0).toUpperCase() + emotion.slice(1);
-              const rating = character.rating;
-              const llmColor = getLLMColor(char.character, sortedCharacters);
-              return (
-                <div key={char.character} className="character-info">
-                  <div className="char-header">
-                    <b style={{ color: llmColor }}>
-                      {char.character}{" "}
-                      <span style={{ fontWeight: 500 }}>
-                        (importance:{" "}
-                        {
-                          scene.characters.find(
-                            (c) => c.name === char.character
-                          )?.importance_rank
-                        }
-                        )
-                      </span>
-                    </b>
-                    <div className="emotion-box">
-                      <b>{emotion}:</b>
-                      <div
-                        className="emotion-color"
-                        style={{
-                          backgroundColor: emotionColor(rating),
-                          color: textColor(rating, true),
-                        }}
-                      >
-                        {rating.toFixed(2)}
+          <div
+            id="scene-char-inner"
+            className={
+              scene && scene.characters && scene.characters.length > 10
+                ? "two-col"
+                : ""
+            }
+          >
+            {scene &&
+              sceneSummary &&
+              sceneSummary.emotions.map((char) => {
+                const character = scene.characters.find(
+                  (c) => c.name === char.character
+                ) as any;
+                let emotion = character.emotion;
+                // capitalize first letter
+                emotion = emotion.charAt(0).toUpperCase() + emotion.slice(1);
+                const rating = character.rating;
+                const llmColor = getLLMColor(char.character, sortedCharacters);
+                return (
+                  <div key={char.character} className="character-info">
+                    <div className="char-header">
+                      <b className="char-name" style={{ color: llmColor }}>
+                        {char.character}{" "}
+                        <span style={{ fontWeight: 500 }}>
+                          (
+                          {scene &&
+                          scene.characters &&
+                          scene.characters.length > 10
+                            ? "imp"
+                            : "importance"}
+                          :{" "}
+                          {
+                            scene.characters.find(
+                              (c) => c.name === char.character
+                            )?.importance_rank
+                          }
+                          )
+                        </span>
+                      </b>
+                      <div className="emotion-box">
+                        <b>{emotion}:</b>
+                        <div
+                          className="emotion-color"
+                          style={{
+                            backgroundColor: emotionColor(rating),
+                            color: textColor(rating, true),
+                          }}
+                        >
+                          {rating.toFixed(2)}
+                        </div>
                       </div>
                     </div>
+                    <div className="char-quote">"{character.quote}"</div>
                   </div>
-                  <div className="char-quote">"{character.quote}"</div>
-                </div>
-              );
-            })}
+                );
+              })}
+          </div>
         </div>
       )}
     </div>

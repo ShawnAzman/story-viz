@@ -393,6 +393,10 @@ h1 {
   flex-direction: column;
   row-gap: 0.5rem;
 
+  &.wide {
+    width: 800px;
+  }
+
   &.hidden {
     visibility: hidden;
     pointer-events: none;
@@ -444,6 +448,31 @@ h1 {
     display: flex;
     flex-direction: column;
     row-gap: 0.25rem;
+
+    #scene-char-inner {
+      transition: 0.3s;
+
+      &.two-col {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 1rem;
+
+        .char-header {
+          align-items: baseline;
+          .char-name {
+            max-width: 50%;
+          }
+
+          .emotion-box {
+            align-items: baseline;
+          }
+        }
+      }
+
+      .character-info {
+        margin-bottom: 0.1rem;
+      }
+    }
 
     .char-header {
       b {
@@ -544,7 +573,7 @@ h1 {
         position: absolute;
         transform: rotate(-90deg) translateY(-100%) translateX(50%);
         top: 50%;
-        margin-top: 0.5rem;
+        margin-top: 1rem;
       }
 
       #color-axis {
