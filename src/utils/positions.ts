@@ -134,68 +134,27 @@ const characterPos = (
     });
   });
 
+  const get_scalar = (num: number) => {
+    return num > 24
+      ? 0.5
+      : num > 16
+      ? 0.75
+      : num > 12
+      ? 1.25
+      : num > 10
+      ? 1.5
+      : num > 6
+      ? 2.5
+      : num > 4
+      ? 3.5
+      : 5;
+  };
+
   const num_characters = characterScenes.length;
+  const scalar = get_scalar(num_characters);
   const maxLoc =
-    locations.length <= 8
-      ? locationPos[locations.length - 1]
-      : Math.max(
-          700,
-          num_characters * (0.5 * character_offset + character_height)
-        );
+    num_characters * (scalar * character_offset + character_height);
   const char_inc = maxLoc / num_characters;
-
-  // max characters in a scene
-  const max_characters_per_scene =
-    Math.max(...sceneCharacters.map((scene) => scene.characters.length)) - 1;
-  const prom_inc = maxLoc / max_characters_per_scene;
-
-  const promPos = characterScenes.map((character) => {
-    return character.scenes.map((scene) => {
-      const cur_scene = scene_data[scene];
-      const char_importance_rank = cur_scene.characters.find(
-        (c) => c.name === character.character
-      )?.importance_rank as number;
-      // see if there are any other characters with the same importance
-      const other_chars = cur_scene.characters.filter(
-        (c) => c.importance_rank === char_importance_rank
-      );
-      // get index of current character in other_chars
-      const char_index = other_chars.findIndex(
-        (c) => c.name === character.character
-      );
-      return {
-        x: initialScenePos[scene].x - 0.5 * character_height,
-        y:
-          0.5 * character_offset +
-          prom_inc * (char_importance_rank - 1) +
-          character_offset * char_index,
-      };
-    });
-  });
-  const emotionPos = characterScenes.map((character) => {
-    return character.scenes.map((scene) => {
-      const cur_scene = scene_data[scene];
-      const char_emotion = cur_scene.characters.find(
-        (c) => c.name === character.character
-      )?.rating as number;
-      // see if there are any other characters with the same emotion
-      const other_chars = cur_scene.characters.filter(
-        (c) => c.rating === char_emotion
-      );
-      // get index of current character in other_chars
-      const char_index = other_chars.findIndex(
-        (c) => c.name === character.character
-      );
-      return {
-        x: initialScenePos[scene].x - 0.5 * character_height,
-        y:
-          maxLoc * 0.5 +
-          location_offset * 0.5 -
-          maxLoc * char_emotion * 0.5 +
-          character_offset * char_index,
-      };
-    });
-  });
 
   const charStackPos = [] as Position[][];
   const yLines = [] as any; // Array to store each y-line and the characters placed on it
@@ -243,12 +202,13 @@ const characterPos = (
 
     if (!foundLine) {
       // Create a new line for the character
-      const newY = location_height * 0.75 * yLines.length; // Calculate new y based on current number of lines
+      const new_inc = 2.5 * character_offset + character_height;
+      const newY = new_inc * yLines.length; // Calculate new y based on current number of lines
       charStackPos.push(
         character.scenes.map((scene) => {
           return {
             x: initialScenePos[scene].x - 0.5 * character_height,
-            y: newY, // Place character on a new line
+            y: newY + 0.5 * character_offset, // Place character on a new line
           };
         })
       );
@@ -258,15 +218,17 @@ const characterPos = (
   });
 
   // if more than 8 yLines, adjust y position
-  if (yLines.length > 8) {
-    const char_inc_new = maxLoc / yLines.length;
+  if (yLines.length > 10) {
+    const scalar_new = get_scalar(yLines.length);
     charStackPos.forEach((char, i) => {
       // find yLine for this character
       const line_ind = yLines.findIndex((line: any) =>
         line.characters.includes(characterScenes[i])
       );
       char.forEach((pos) => {
-        pos.y = line_ind * char_inc_new + 0.5 * character_offset;
+        pos.y =
+          line_ind * (scalar_new * character_offset + character_height) +
+          0.5 * character_offset;
       });
     });
   }
@@ -279,6 +241,63 @@ const characterPos = (
       return {
         x: initialScenePos[scene].x - 0.5 * character_height,
         y: char_inc * i + 0.5 * character_offset,
+      };
+    });
+  });
+
+  // max characters in a scene
+  const max_characters_per_scene =
+    Math.max(...sceneCharacters.map((scene) => scene.characters.length)) - 1;
+  const prom_scalar = get_scalar(max_characters_per_scene);
+  const new_max_y =
+    max_characters_per_scene *
+    (character_offset * prom_scalar + character_height);
+  const prom_inc = new_max_y / max_characters_per_scene;
+
+  const promPos = characterScenes.map((character) => {
+    return character.scenes.map((scene) => {
+      const cur_scene = scene_data[scene];
+      const char_importance_rank = cur_scene.characters.find(
+        (c) => c.name === character.character
+      )?.importance_rank as number;
+      // see if there are any other characters with the same importance
+      const other_chars = cur_scene.characters.filter(
+        (c) => c.importance_rank === char_importance_rank
+      );
+      // get index of current character in other_chars
+      const char_index = other_chars.findIndex(
+        (c) => c.name === character.character
+      );
+      return {
+        x: initialScenePos[scene].x - 0.5 * character_height,
+        y:
+          0.5 * character_offset +
+          prom_inc * (char_importance_rank - 1) +
+          character_offset * char_index,
+      };
+    });
+  });
+  const emotionPos = characterScenes.map((character) => {
+    return character.scenes.map((scene) => {
+      const cur_scene = scene_data[scene];
+      const char_emotion = cur_scene.characters.find(
+        (c) => c.name === character.character
+      )?.rating as number;
+      // see if there are any other characters with the same emotion
+      const other_chars = cur_scene.characters.filter(
+        (c) => c.rating === char_emotion
+      );
+      // get index of current character in other_chars
+      const char_index = other_chars.findIndex(
+        (c) => c.name === character.character
+      );
+      return {
+        x: initialScenePos[scene].x - 0.5 * character_height,
+        y:
+          new_max_y * 0.5 +
+          location_offset * 0.5 -
+          new_max_y * char_emotion * 0.5 +
+          character_offset * char_index,
       };
     });
   });

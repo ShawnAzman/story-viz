@@ -27,6 +27,7 @@ function App() {
     storyScrollX,
     overlay,
     showLegend,
+    chapterView,
   } = storyStore();
   const headerRef = useRef<HTMLDivElement>(null);
 
@@ -34,10 +35,11 @@ function App() {
   const margin =
     story.includes("-new") &&
     !fullHeight &&
+    !chapterView &&
     (yAxis === "location" || yAxis === "character")
       ? 160 * ratio
       : yAxis === "location" || yAxis === "character"
-      ? 160
+      ? 140
       : 20;
 
   const handleResize = () => {
@@ -121,13 +123,14 @@ function App() {
           marginTop: storyMarginTop,
           width: `calc(100% - ${margin}px)`,
           marginLeft: `calc(${margin}px - 1rem`,
-          marginBottom: fullHeight
-            ? `${
-                location_height * 2.5 * ratio +
-                (overlay !== "none" ? 80 : 0) +
-                40
-              }px`
-            : "40px",
+          marginBottom:
+            fullHeight || (plotHeight * ratio > 800 && chapterView)
+              ? `${
+                  location_height * 2.5 * ratio +
+                  (overlay !== "none" ? 80 : 0) +
+                  40
+                }px`
+              : "40px",
         }}
         onScroll={(e) => {
           handleScroll(e.currentTarget);

@@ -15,7 +15,7 @@ import {
 import init_data from "../data/gatsby.json";
 
 /* INITIAL VALUES */
-const init_data_values = getAllData(init_data);
+const init_data_values = getAllData(init_data, false);
 
 // values that don't need to persist across sessions
 
@@ -48,7 +48,7 @@ interface IStore {
   num_chapters: number;
   activeChapters: [number, number];
 
-  setData: (val: any) => void;
+  setData: (val: any, val2: boolean) => void;
   setActiveChapters: (val: [number, number]) => void;
   resetActiveChapters: (val: number) => void;
 }
@@ -85,8 +85,8 @@ const initialState = {
 
 export const dataStore = create<IStore>((set) => ({
   ...initialState,
-  setData: (init_data: any) => {
-    const newData = getAllData(init_data);
+  setData: (init_data: any, chapterView: boolean = false) => {
+    const newData = getAllData(init_data, chapterView);
     set({
       data: init_data,
       scene_data: newData.scene_data,

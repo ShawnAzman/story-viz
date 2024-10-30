@@ -21,16 +21,18 @@ function XAxisSVG() {
     yAxisHeight,
     storyScrollX,
     setStoryScrollX,
+    chapterView,
   } = storyStore();
 
   const ratio = yAxisHeight / plotHeight;
   const margin =
     story.includes("-new") &&
     !fullHeight &&
+    !chapterView &&
     (yAxis === "location" || yAxis === "character")
       ? 160 * ratio
       : yAxis === "location" || yAxis === "character"
-      ? 160
+      ? 140
       : 20;
 
   useEffect(() => {
@@ -54,9 +56,10 @@ function XAxisSVG() {
       id="x-axis-outer"
       style={{
         paddingLeft: `calc(${margin}px - 1rem)`,
-        bottom: fullHeight
-          ? (location_offset * 2.5 - character_height) * ratio
-          : undefined,
+        bottom:
+          fullHeight || (plotHeight * ratio > 800 && chapterView)
+            ? (location_offset * 2.5 - character_height) * ratio
+            : undefined,
       }}
       onScroll={(e) => {
         handleScroll(e.currentTarget);

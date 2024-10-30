@@ -34,7 +34,9 @@
         "Tesshi": 3,
         "Toshiki Miyamizu": 1,
         "Miss Yuki": 1,
-        "Classmates": 1
+        "Classmates": 1,
+        "Saya's Sister": 1,
+        "Narrator": 2
       },
       "importance_rank": 7,
       "conflict_rank": 5
@@ -118,7 +120,8 @@
         "Toshiki Miyamizu": 1,
         "Grandma": 2,
         "Mitsuha Miyamizu": 1,
-        "Teshigawara": 1
+        "Teshigawara": 1,
+        "Narrator": 1
       },
       "importance_rank": 2,
       "conflict_rank": 2
@@ -165,14 +168,14 @@
         "Tokyo": 2
       },
       "characters": {
-        "Yotsuha Miyamizu": 4,
         "Tesshi": 5,
         "Taki Tachibana": 1,
         "Saya": 3,
         "Mitsuha Miyamizu": 2,
         "Dad": 1,
         "Town Hall Official": 1,
-        "Narrator's Dad": 1
+        "Narrator's Dad": 1,
+        "Narrator": 2
       },
       "importance_rank": 3,
       "conflict_rank": 4
@@ -194,7 +197,7 @@
         "Tokyo": 1
       },
       "characters": {
-        "Mitsuha Miyamizu": 4,
+        "Narrator": 4,
         "Interviewee": 1,
         "Interviewer": 1,
         "Takagi": 2,
@@ -423,7 +426,7 @@
           "importance_rank": 1
         },
         {
-          "name": "Narrator (miyamizu)",
+          "name": "Mitsuha Miyamizu",
           "role": "Student confused by the notebook message",
           "importance": 0.8,
           "emotion": "Confused and startled",
@@ -2642,13 +2645,6 @@
       "group": "teachers",
       "color": "rgb(75, 0, 130)",
       "explanation": "The indigo color represents Miss Yuki's intelligence and depth."
-    },
-    {
-      "name": "Narrator (miyamizu)",
-      "quote": "The moment I realize this, I'm standing in a packed train car.",
-      "group": "narrators",
-      "color": "rgb(255, 0, 255)",
-      "explanation": "The magenta color symbolizes the confusion and complexity of identity."
     },
     {
       "name": "Narrator",

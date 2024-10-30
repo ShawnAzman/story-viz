@@ -67,12 +67,11 @@ function StoryVis() {
         ref={storyRef}
         height={
           fullHeight
-            ? yAxis === "location" && locations.length > 8
-              ? `${Math.min(
-                  plotHeight - 400,
-                  800 + (locations.length - 8) * 50
-                )}px`
-              : 600
+            ? yAxis === "location" && plotHeight > 800
+              ? `${800 + (locations.length - 8) * 50}px`
+              : yAxis === "character" && plotHeight > 800
+              ? `${plotHeight}px`
+              : 500
             : undefined
         }
         width={!fullHeight ? "100%" : undefined}

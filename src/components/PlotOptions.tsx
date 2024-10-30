@@ -30,6 +30,8 @@ function PlotOptions() {
     setYAxis,
     fullHeight,
     setFullHeight,
+    chapterView,
+    setChapterView,
   } = storyStore();
 
   const {
@@ -48,7 +50,7 @@ function PlotOptions() {
     chapterDivisions,
     num_chapters,
   } = dataStore();
-  const { setPositions, setPaths } = positionStore();
+  const { setPositions, setPaths, plotHeight } = positionStore();
   const colorByOptions = [
     "conflict",
     "sentiment",
@@ -127,7 +129,17 @@ function PlotOptions() {
       const new_data = await import(`../data/${story}.json`);
       // update data once story is loaded
       if (data !== new_data.default) {
-        setData(new_data.default);
+        let viewChapters = false;
+        if (
+          new_data.default["chapters"] &&
+          new_data.default["chapters"].length > 0
+        ) {
+          viewChapters = true;
+        }
+
+        setData(new_data.default, viewChapters);
+        setChapterView(viewChapters);
+
         // reset the following values
         setHidden([]);
         setLocationHover("");
@@ -178,10 +190,14 @@ function PlotOptions() {
 
   useEffect(() => {
     set_pos();
-    if (scenes.length < 24) {
+    if (scenes.length < 24 && plotHeight < 800) {
       setFullHeight(false);
     }
-  }, [scene_data, scaleByLength, yAxis]);
+  }, [scene_data, plotHeight, scaleByLength, yAxis]);
+
+  useEffect(() => {
+    setData(data, chapterView);
+  }, [chapterView]);
 
   // useEffect(() => {
   //   // change character color based on y-axis
@@ -205,10 +221,18 @@ function PlotOptions() {
         <div className="options-inner">
           <Switch
             size="xs"
+            label="Chapter view"
+            labelPosition="left"
+            checked={chapterView}
+            disabled={!story.includes("-new")}
+            onChange={(event) => setChapterView(event.currentTarget.checked)}
+          />
+          <Switch
+            size="xs"
             label="Full height"
             labelPosition="left"
             checked={fullHeight}
-            disabled={scenes.length < 24}
+            disabled={scenes.length < 24 && plotHeight < 800}
             onChange={(event) => setFullHeight(event.currentTarget.checked)}
           />
           <Select

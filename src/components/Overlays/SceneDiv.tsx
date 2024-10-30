@@ -14,7 +14,7 @@ import { chapterFormatted, normalize } from "../../utils/helpers";
 function SceneDiv() {
   const { scene_data, minLines, maxLines, sceneSummaries, sortedCharacters } =
     dataStore();
-  const { sceneHover } = storyStore();
+  const { sceneHover, chapterView } = storyStore();
 
   const scene = scene_data.find((scene) => scene.name === sceneHover);
   const scene_index = scene_data.findIndex(
@@ -113,13 +113,19 @@ function SceneDiv() {
         <div id="scene-info">
           <div id="scene-header">
             <b>
-              Scene {scene.number}: {scene.name}
+              {chapterView
+                ? chapterFormatted(scene.chapter)
+                  ? scene.chapter
+                  : "Chapter " + scene.chapter
+                : `Scene ${scene.number}: ${scene.name}`}
             </b>
-            <b style={{ fontWeight: 600 }}>
-              {chapterFormatted(scene.chapter)
-                ? scene.chapter
-                : "Chapter " + scene.chapter}
-            </b>
+            {!chapterView && (
+              <b style={{ fontWeight: 600 }}>
+                {chapterFormatted(scene.chapter)
+                  ? scene.chapter
+                  : "Chapter " + scene.chapter}
+              </b>
+            )}
           </div>
           <p>{scene.summary}</p>
           <p>
@@ -139,7 +145,9 @@ function SceneDiv() {
               const character = scene.characters.find(
                 (c) => c.name === char.character
               ) as any;
-              const emotion = character.emotion;
+              let emotion = character.emotion;
+              // capitalize first letter
+              emotion = emotion.charAt(0).toUpperCase() + emotion.slice(1);
               const rating = character.rating;
               const llmColor = getLLMColor(char.character, sortedCharacters);
               return (

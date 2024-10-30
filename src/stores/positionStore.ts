@@ -11,7 +11,7 @@ import init_data from "../data/gatsby.json";
 import { Box, Position, getAllPositions } from "../utils/positions";
 
 /* INITIAL VALUES */
-const init_data_values = getAllData(init_data);
+const init_data_values = getAllData(init_data, false);
 const init_pos_values = getAllPositions(
   init_data_values.scene_data,
   init_data_values.scenes,

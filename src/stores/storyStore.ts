@@ -6,6 +6,8 @@ interface IStore {
   setStory: (val: string) => void;
   yAxis: string;
   setYAxis: (val: string) => void;
+  chapterView: boolean;
+  setChapterView: (val: boolean) => void;
   fullHeight: boolean;
   setFullHeight: (val: boolean) => void;
   storyMarginTop: number;
@@ -70,6 +72,7 @@ const initialState = {
 
 export const storyStore = create<IStore>()((set) => ({
   story: "gatsby",
+  chapterView: false,
   fullHeight: false,
   yAxisHeight: 0,
   xAxisWidth: 0,
@@ -78,6 +81,7 @@ export const storyStore = create<IStore>()((set) => ({
 
   setStory: (val: string) => set({ story: val }),
   setYAxis: (val: string) => set({ yAxis: val }),
+  setChapterView: (val: boolean) => set({ chapterView: val }),
   setFullHeight: (val: boolean) => set({ fullHeight: val }),
   setYAxisHeight: (val: number) => set({ yAxisHeight: val }),
   setXAxisWidth: (val: number) => set({ xAxisWidth: val }),

@@ -21,6 +21,7 @@ function YAxisDiv() {
     story,
     overlay,
     yAxis,
+    chapterView,
   } = storyStore();
 
   const ratio = yAxisHeight / plotHeight;
@@ -50,9 +51,10 @@ function YAxisDiv() {
         width:
           story.includes("-new") &&
           !fullHeight &&
+          !chapterView &&
           (yAxis === "location" || yAxis === "character")
             ? 160 * ratio
-            : yAxis === "location" || yAxis === "character"
+            : yAxis === "location" || (yAxis === "character" && !fullHeight)
             ? 160
             : "auto",
       }}
@@ -68,11 +70,12 @@ function YAxisDiv() {
             (overlay !== "none"
               ? (location_buffer - character_offset) * ratio
               : 0),
-          marginBottom: fullHeight
-            ? location_height * 2.5 * ratio + 5
-            : undefined,
+          marginBottom:
+            fullHeight || (plotHeight * ratio > 800 && chapterView)
+              ? location_height * 2.5 * ratio + 5
+              : undefined,
           fontSize:
-            story.includes("-new") && !fullHeight
+            story.includes("-new") && !fullHeight && !chapterView
               ? 12 * ratio
               : yAxis === "character"
               ? Math.min(11, 14 * ratio)

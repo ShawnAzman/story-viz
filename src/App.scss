@@ -32,11 +32,13 @@ header {
   display: flex;
   justify-content: space-between;
   margin-bottom: 1.2rem;
-  gap: 20px;
+  gap: 40px;
+  align-items: start;
 
   #story-header {
     display: flex;
     gap: 20px;
+    align-items: center;
 
     .story-image {
       transition: 0.3s;
@@ -141,8 +143,8 @@ header {
 
 h1 {
   margin: 0 0 6px;
-  font-size: calc(1.2rem + 0.8vw);
-  line-height: calc(2rem + 0.4vw);
+  font-size: calc(1rem + 0.8vw);
+  line-height: calc(1.8rem + 0.4vw);
   font-family: "PT Serif";
   font-style: italic;
   font-weight: 700;
@@ -501,7 +503,7 @@ h1 {
     }
 
     #character-axis {
-      padding-top: 5px;
+      padding-top: 6px;
     }
 
     .location-box,
@@ -904,7 +906,7 @@ h1 {
   }
 }
 
-@media (max-width: 1680px) {
+@media (max-width: 1880px) {
   header {
     #options {
       .mantine-Select-input {
@@ -914,17 +916,17 @@ h1 {
   }
 }
 
-@media (max-width: 1600px) {
-  header {
-    #options {
-      .mantine-Select-input {
-        width: 80px;
-      }
-    }
-  }
-}
+// @media (max-width: 1700px) {
+//   header {
+//     #options {
+//       .mantine-Select-input {
+//         width: 80px;
+//       }
+//     }
+//   }
+// }
 
-@media (max-width: 1450px) {
+@media (max-width: 1500px) {
   header {
     align-items: baseline;
     display: block;

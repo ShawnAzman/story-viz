@@ -4,7 +4,7 @@
 //     - chunk_size (number): maximum number of characters in each chunk
 
 import { getColor } from "./colors";
-import { normalize } from "./helpers";
+import { extractChapterName, normalize } from "./helpers";
 
 // O:  - (array): array of chunks
 const chunkQuote = (quote: string, chunk_size: number) => {
@@ -142,10 +142,9 @@ const chapter_data = (all_data: any): Chapter[] => {
   if (!data) {
     return [];
   }
-
   data.forEach((chapter: any) => {
-    chapter.numScenes = chapter.scenes;
-    chapter.numLines = chapter.num_lines;
+    chapter.numScenes = chapter.numScenes ? chapter.numScenes : chapter.scenes;
+    chapter.numLines = chapter.numLines ? chapter.numLines : chapter.num_lines;
     const importance = chapter.importance_rank;
     if (importance > 1) {
       chapter.importance = (data.length + 1 - importance) / data.length;
@@ -249,6 +248,89 @@ const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
   });
 
   return data;
+};
+
+// CHAPTER "SCENE" DATA
+const chapter_scene_data = (
+  chapter_data: Chapter[],
+  scenes: Scene[]
+): Scene[] => {
+  const chapter_scenes = [] as Scene[];
+  const max_characters_per_chapter = Math.max(
+    ...chapter_data.map((chapter) => Object.keys(chapter.characters).length)
+  );
+  chapter_data.forEach((chapter, i) => {
+    const new_scene = {} as Scene;
+    new_scene.number = i + 1;
+    new_scene.name = chapter.chapter;
+    new_scene.chapter = chapter.chapter;
+    new_scene.summary = chapter.summary;
+    new_scene.numLines = chapter.numLines;
+
+    const chap_locations = chapter.locations;
+    // find location with the most scenes
+    const location = Object.keys(chap_locations).reduce((a, b) =>
+      chap_locations[a] > chap_locations[b] ? a : b
+    );
+    new_scene.location = location;
+
+    // find average sentiment of all scenes in chapter
+    const chap_scenes = scenes.filter(
+      (scene) => scene.chapter === chapter.chapter
+    );
+    const sentiment =
+      chap_scenes.reduce((a, b) => a + b.ratings.sentiment, 0) /
+      chap_scenes.length;
+
+    new_scene.ratings = {
+      importance: chapter.importance,
+      conflict: chapter.conflict,
+      sentiment: sentiment,
+    };
+
+    const char_names = Object.keys(chapter.characters);
+    const sorted_chars = char_names.sort(
+      (a, b) => chapter.characters[b] - chapter.characters[a]
+    );
+
+    // find all scenes in chapter with this character
+    const char_scenes = sorted_chars.map((char) => {
+      const scenes_with_char = chap_scenes.filter((scene) =>
+        scene.characters.some((scene_char) => scene_char.name === char)
+      );
+      const sorted_scenes = scenes_with_char.sort(
+        (a, b) => a.ratings.importance - b.ratings.importance
+      );
+      // get the character's emotion, quote, and rating from the first scene
+      const top_scene = sorted_scenes[0];
+      const c =
+        top_scene &&
+        top_scene.characters.find((scene_char) => scene_char.name === char);
+      return {
+        emotion: c ? c.emotion : "",
+        quote: c ? c.quote : "",
+        rating: c ? c.rating : 0,
+      };
+    });
+
+    new_scene.characters = sorted_chars.map((char, i) => {
+      const imp =
+        (max_characters_per_chapter + 1 - (i + 1)) / max_characters_per_chapter;
+      return {
+        name: char,
+        importance: imp,
+        importance_rank: i + 1,
+        emotion: char_scenes[i].emotion,
+        quote: char_scenes[i].quote,
+        rating: char_scenes[i].rating,
+        role: "",
+      };
+    });
+
+    chapter_scenes.push(new_scene);
+  });
+
+  return chapter_scenes;
 };
 
 const location_data = (all_data: any): LocationData[] => all_data["locations"];
@@ -459,8 +541,12 @@ const sceneLocations = (data: Scene[]): string[] =>
   data.map((scene) => scene.location);
 
 // split scene names into chunks of 30 characters
-const sceneChunks = (scenes: string[]): string[][] =>
-  scenes.map((scene) => chunkQuote(scene, 20));
+const sceneChunks = (scenes: string[], chapterView: boolean): string[][] =>
+  scenes.map((scene) =>
+    chapterView
+      ? chunkQuote(extractChapterName(scene), 20)
+      : chunkQuote(scene, 20)
+  );
 
 // list characters in each scene, sorted by their number of scenes
 const sceneCharacters = (
@@ -628,9 +714,16 @@ const getChapterDivisions = (
 };
 
 // generate all data and return
-export const getAllData = (init_data: any) => {
+export const getAllData = (init_data: any, chapterView: boolean) => {
   const init_chapter_data = chapter_data(init_data);
-  const init_scene_data = scene_data(init_data, init_chapter_data);
+  let init_scene_data = scene_data(init_data, init_chapter_data);
+  const init_chapter_scene_data = chapter_scene_data(
+    init_chapter_data,
+    init_scene_data
+  );
+  if (chapterView && init_chapter_scene_data.length > 0) {
+    init_scene_data = init_chapter_scene_data;
+  }
   const init_location_data = location_data(init_data);
   const init_character_data = character_data(init_data);
 
@@ -660,7 +753,7 @@ export const getAllData = (init_data: any) => {
 
   const init_scenes = scenes(init_scene_data);
   const init_sceneLocations = sceneLocations(init_scene_data);
-  const init_sceneChunks = sceneChunks(init_scenes);
+  const init_sceneChunks = sceneChunks(init_scenes, chapterView);
   const init_sceneCharacters = sceneCharacters(
     init_scenes,
     init_scene_data,

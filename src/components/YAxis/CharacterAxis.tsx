@@ -13,6 +13,7 @@ function CharacterAxis() {
     story,
     fullHeight,
     groupHover,
+    chapterView,
   } = storyStore();
   const { sortedCharacters } = dataStore();
   const { plotHeight, charInc } = positionStore();
@@ -29,7 +30,7 @@ function CharacterAxis() {
   const sortedGroups = sortedCharacters.map((char) => char.group);
   const uniqueGroups = [...new Set(sortedGroups)];
   return (
-    <div id="character-axis">
+    <div id="character-axis" style={{ paddingTop: fullHeight ? 10 : 5 }}>
       {sortedCharacters.map((char) => {
         return (
           <p
@@ -45,7 +46,8 @@ function CharacterAxis() {
             style={{
               height: charInc * ratio,
               borderColor: getGroupColor(char.group, uniqueGroups),
-              borderWidth: story.includes("-new") && !fullHeight ? 2 : 4,
+              borderWidth:
+                story.includes("-new") && !fullHeight && !chapterView ? 2 : 4,
             }}
             onMouseEnter={() => setCharacterHover(char.character)}
             onMouseLeave={() => setCharacterHover("")}

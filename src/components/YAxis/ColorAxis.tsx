@@ -5,7 +5,7 @@ import { storyStore } from "../../stores/storyStore";
 function ColorAxis() {
   const { sceneCharacters } = dataStore();
   const { plotHeight } = positionStore();
-  const { yAxis, yAxisHeight, fullHeight, story } = storyStore();
+  const { yAxis, yAxisHeight, fullHeight, story, chapterView } = storyStore();
   const max_characters_per_scene = Math.max(
     ...sceneCharacters.map((char) => char.characters.length)
   );
@@ -22,11 +22,11 @@ function ColorAxis() {
         className={yAxis.includes("stacked") ? "hidden" : yAxis}
         style={{
           marginLeft:
-            story.includes("-new") && !fullHeight
+            story.includes("-new") && !fullHeight && !chapterView
               ? Math.min(margin * ratio, margin) + "rem"
               : margin + "rem",
           width:
-            story.includes("-new") && !fullHeight
+            story.includes("-new") && !fullHeight && !chapterView
               ? Math.min(ratio, 1) + "rem"
               : "1rem",
         }}
