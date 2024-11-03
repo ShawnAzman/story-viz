@@ -146,10 +146,25 @@ function SceneDiv() {
                   : "Chapter " + scene.chapter}
               </b>
             )}
+            {chapterView && scene.numScenes && (
+              <b style={{ fontWeight: 600 }}>
+                {"Total Scenes: " + scene.numScenes}
+              </b>
+            )}
           </div>
           <p>{scene.summary}</p>
           <p>
-            <b style={{ fontWeight: 600 }}>Location:</b> {scene.location}
+            <b style={{ fontWeight: 600 }}>{chapterView && "Main "}Location:</b>{" "}
+            {scene.location}{" "}
+            {chapterView && scene.allLocations && (
+              <span>
+                {"(" +
+                  scene.allLocations[scene.location] +
+                  (scene.allLocations[scene.location] > 1
+                    ? " scenes)"
+                    : " scene)")}
+              </span>
+            )}
           </p>
         </div>
       )}
@@ -180,6 +195,7 @@ function SceneDiv() {
                 emotion = emotion.charAt(0).toUpperCase() + emotion.slice(1);
                 const rating = character.rating;
                 const llmColor = getLLMColor(char.character, sortedCharacters);
+                const top_scene = character.top_scene;
                 return (
                   <div key={char.character} className="character-info">
                     <div className="char-header">
@@ -196,12 +212,10 @@ function SceneDiv() {
                             fontFamily: "var(--mantine-font-family)",
                           }}
                         >
-                          (importance:{" "}
-                          {
-                            scene.characters.find(
-                              (c) => c.name === char.character
-                            )?.importance_rank
-                          }
+                          (importance: {character.importance_rank}
+                          {character.numScenes
+                            ? ", scenes: " + character.numScenes
+                            : ""}
                           )
                         </span>
                       </b>
@@ -218,7 +232,10 @@ function SceneDiv() {
                         </div>
                       </div>
                     </div>
-                    <div className="char-quote">"{character.quote}"</div>
+                    <div className="char-quote">
+                      "{character.quote}"
+                      {/* {chapterView && top_scene && " (Scene " + top_scene + ")"} */}
+                    </div>
                   </div>
                 );
               })}

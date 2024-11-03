@@ -46,6 +46,8 @@ export interface Character {
   quote: string;
   rating: number;
   role: string;
+  numScenes?: number;
+  top_scene?: number;
 }
 
 export interface Scene {
@@ -61,6 +63,10 @@ export interface Scene {
     importance: number;
     conflict: number;
     sentiment: number;
+  };
+  numScenes?: number;
+  allLocations?: {
+    [key: string]: number;
   };
 }
 
@@ -266,13 +272,21 @@ const chapter_scene_data = (
     new_scene.chapter = chapter.chapter;
     new_scene.summary = chapter.summary;
     new_scene.numLines = chapter.numLines;
+    new_scene.numScenes = chapter.numScenes;
 
     const chap_locations = chapter.locations;
+    // sort locations by number of scenes
+    const sorted_locations = Object.entries(chap_locations)
+      .sort(([, a], [, b]) => b - a)
+      .reduce((acc, [key, value]) => {
+        acc[key] = value;
+        return acc;
+      }, {} as { [key: string]: number });
+    const sorted_loc_names = Object.keys(sorted_locations);
     // find location with the most scenes
-    const location = Object.keys(chap_locations).reduce((a, b) =>
-      chap_locations[a] > chap_locations[b] ? a : b
-    );
+    const location = sorted_loc_names[0];
     new_scene.location = location;
+    new_scene.allLocations = sorted_locations;
 
     // find average sentiment of all scenes in chapter
     const chap_scenes = scenes.filter(
@@ -303,6 +317,9 @@ const chapter_scene_data = (
       );
       // get the character's emotion, quote, and rating from the first scene
       const top_scene = sorted_scenes[0];
+      const top_index = chap_scenes.findIndex(
+        (scene) => scene.number === top_scene.number
+      );
       const c =
         top_scene &&
         top_scene.characters.find((scene_char) => scene_char.name === char);
@@ -310,6 +327,7 @@ const chapter_scene_data = (
         emotion: c ? c.emotion : "",
         quote: c ? c.quote : "",
         rating: c ? c.rating : 0,
+        top_scene: top_index ? top_index + 1 : 1,
       };
     });
 
@@ -324,6 +342,8 @@ const chapter_scene_data = (
         quote: char_scenes[i].quote,
         rating: char_scenes[i].rating,
         role: "",
+        top_scene: char_scenes[i].top_scene,
+        numScenes: chapter.characters[char] ? chapter.characters[char] : 0,
       };
     });
 
