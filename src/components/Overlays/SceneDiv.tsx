@@ -91,39 +91,71 @@ function SceneDiv() {
     >
       <div id="scene-ratings">
         {sceneHover !== "" && (
-          <div
-            className="rating-box"
-            style={{
-              backgroundColor: lengthColor(lengthVal),
-              color: textColor(lengthVal, false),
-            }}
-          >
-            <b>length: </b>
-            {numLines} lines{" "}
+          <div className="rating-outer">
+            {/* <div className={"rating-colorbar"}>
+              <span className="min">{minLines}</span>
+              <div className="bar" />
+              <span className="max">{maxLines}</span>
+            </div> */}
+            <div
+              className="rating-box"
+              style={{
+                backgroundColor: lengthColor(lengthVal),
+                color: textColor(lengthVal, false),
+              }}
+            >
+              <b>length: </b>
+              {lengthVal < 0.4 ? "short" : lengthVal > 0.6 ? "long" : "med"} (
+              {numLines} lines)
+            </div>
           </div>
         )}
         {scene &&
           Object.keys(scene.ratings).map((rating) => {
             let rating_val = (scene.ratings as Record<string, number>)[rating];
             return (
-              <div
-                key={rating}
-                className="rating-box"
-                style={{
-                  backgroundColor:
-                    rating === "sentiment"
-                      ? emotionColor(rating_val)
-                      : rating === "conflict"
-                      ? conflictColor(rating_val)
-                      : importanceColor(rating_val),
-                  color:
-                    rating === "sentiment"
-                      ? textColor(rating_val, true)
-                      : textColor(rating_val, false),
-                }}
-              >
-                <b>{rating}:</b>{" "}
-                {rating_val !== undefined && rating_val.toFixed(2)}
+              <div key={rating} className="rating-outer">
+                {/* <div className={"rating-colorbar "}>
+                  <span
+                    className="min"
+                    style={{
+                      color: rating === "sentiment" ? "white" : "black",
+                    }}
+                  >
+                    {rating === "sentiment" ? -1 : 0}
+                  </span>
+                  <div className={"bar " + rating} />
+                  <span className="max">{1}</span>
+                </div> */}
+                <div
+                  className="rating-box"
+                  style={{
+                    backgroundColor:
+                      rating === "sentiment"
+                        ? emotionColor(rating_val)
+                        : rating === "conflict"
+                        ? conflictColor(rating_val)
+                        : importanceColor(rating_val),
+                    color:
+                      rating === "sentiment"
+                        ? textColor(rating_val, true)
+                        : textColor(rating_val, false),
+                  }}
+                >
+                  <b>{rating}:</b>{" "}
+                  {rating === "sentiment"
+                    ? rating_val < -0.2
+                      ? "neg"
+                      : rating_val > 0.2
+                      ? "pos"
+                      : "neutral"
+                    : rating_val < 0.4
+                    ? "low"
+                    : rating_val > 0.6
+                    ? "high"
+                    : "med"}{" "}
+                  ({rating_val !== undefined && rating_val.toFixed(2)})
+                </div>
               </div>
             );
           })}
@@ -195,7 +227,7 @@ function SceneDiv() {
                 emotion = emotion.charAt(0).toUpperCase() + emotion.slice(1);
                 const rating = character.rating;
                 const llmColor = getLLMColor(char.character, sortedCharacters);
-                const top_scene = character.top_scene;
+                // const top_scene = character.top_scene;
                 return (
                   <div key={char.character} className="character-info">
                     <div className="char-header">
