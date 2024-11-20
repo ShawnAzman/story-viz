@@ -7827,7 +7827,7 @@
     {
       "name": "Guardianship",
       "quote": "I am the Guardian of the Gates.",
-      "group": "Authority",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
@@ -7848,14 +7848,14 @@
     {
       "name": "Arrival",
       "quote": "Here are strangers, and they demand to see the Great Oz.",
-      "group": "Authority",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Authority",
       "quote": "Step inside, and I will carry your message to him.",
-      "group": "Authority",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
@@ -7911,7 +7911,7 @@
     {
       "name": "Illusion Of Oz",
       "quote": "I am Oz, the Great and Terrible.",
-      "group": "Authority",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
@@ -8219,14 +8219,14 @@
     {
       "name": "Unexpected Obstacles",
       "quote": "This is strange, exclaimed Dorothy. What shall we do?",
-      "group": "Struggle",
+      "group": "Challenges",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Struggle",
       "quote": "The trees seem to have made up their minds to fight us.",
-      "group": "Conflict",
+      "group": "Challenges",
       "color": "",
       "explanation": ""
     },
@@ -8289,14 +8289,14 @@
     {
       "name": "Exploration",
       "quote": "the country seemed wilder than ever",
-      "group": "Journey",
+      "group": "Exploration",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Victory",
       "quote": "he knocked the spider's head from its body",
-      "group": "Success",
+      "group": "Personal Growth",
       "color": "",
       "explanation": ""
     },
@@ -8310,7 +8310,7 @@
     {
       "name": "Intimidation",
       "quote": "It isn't as easy as you think!",
-      "group": "Conflict",
+      "group": "Challenges",
       "color": "",
       "explanation": ""
     },
@@ -8373,14 +8373,14 @@
     {
       "name": "Family Concern",
       "quote": "Aunt Em will surely think something dreadful has happened to me.",
-      "group": "Family",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Adventure And Discovery",
       "quote": "how she had found her companions, and of the wonderful adventures they had met with.",
-      "group": "Adventure",
+      "group": "Exploration",
       "color": "",
       "explanation": ""
     },
@@ -8408,14 +8408,14 @@
     {
       "name": "Goodbye",
       "quote": "Dorothy thanked her for all the kindness she had shown to her friends and herself.",
-      "group": "Family",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Family Love",
       "quote": "My darling child!",
-      "group": "Family",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     }

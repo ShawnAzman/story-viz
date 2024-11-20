@@ -12476,7 +12476,7 @@
     {
       "name": "Community Oversight",
       "quote": "she would never rest until she had ferreted out the whys and wherefores thereof.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -12497,7 +12497,7 @@
     {
       "name": "Isolation",
       "quote": "Matthew so rarely went from home that it must be something pressing and unusual which was taking him.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "rgb(176, 224, 230)",
       "explanation": "A light cyan reflects the feelings of loneliness and seclusion experienced by certain characters."
     },
@@ -12511,7 +12511,7 @@
     {
       "name": "Cleanliness",
       "quote": "One could have eaten a meal off the ground.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -12532,7 +12532,7 @@
     {
       "name": "Surprise",
       "quote": "If Marilla had said that Matthew had gone to Bright River to meet a kangaroo from Australia Mrs. Rachel could not have been more astonished.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -12553,7 +12553,7 @@
     {
       "name": "Fear Of The Unknown",
       "quote": "You don't know a single thing about him nor what his disposition is like.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -12561,7 +12561,7 @@
       "name": "Childhood Innocence",
       "quote": "My, but I pity him, that's what.",
       "group": "Family",
-      "color": "rgb(255, 208, 176)",
+      "color": "rgb(255, 228, 196)",
       "explanation": "A peachy tone captures the purity and innocence of childhood experiences."
     },
     {
@@ -12574,8 +12574,8 @@
     {
       "name": "Nature's Beauty",
       "quote": "The air was sweet with the breath of many apple orchards.",
-      "group": "Social Themes",
-      "color": "rgb(14, 240, 20)",
+      "group": "Social Dynamics",
+      "color": "rgb(144, 238, 144)",
       "explanation": "A fresh green represents the beauty of nature, highlighting the lush landscapes described."
     },
     {
@@ -12595,7 +12595,7 @@
     {
       "name": "Miscommunication",
       "quote": "Guess there's some mistake,",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -12630,7 +12630,7 @@
     {
       "name": "Belonging",
       "quote": "Oh, it seems so wonderful that I'm going to live with you and belong to you.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -12693,7 +12693,7 @@
     {
       "name": "Compassion",
       "quote": "Well now, she's a real nice little thing.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -12707,14 +12707,14 @@
     {
       "name": "Responsibility",
       "quote": "You're problem enough in all conscience.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "rgb(255, 228, 196)",
       "explanation": "A soft peach represents the weight of responsibility characters face."
     },
     {
       "name": "Decision Making",
       "quote": "I'm going to drive over to White Sands and settle this thing.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -12749,7 +12749,7 @@
     {
       "name": "Place Appreciation",
       "quote": "Avonlea is a lovely name. It just sounds like music.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -12819,21 +12819,21 @@
     {
       "name": "Decision",
       "quote": "What if she, Marilla, should indulge Matthew's unaccountable whim and let her stay?",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Judgment",
       "quote": "It's likely her people were nice folks.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "rgb(255, 20, 147)",
       "explanation": "A deep magenta reflects the theme of judgment and societal expectations."
     },
     {
       "name": "Social Commentary",
       "quote": "I was afraid it might be Mrs. Spencer's place.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -12854,7 +12854,7 @@
     {
       "name": "Social Judgment",
       "quote": "Marilla did not fancy Mrs. Blewett.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -12868,14 +12868,14 @@
     {
       "name": "Authority And Rebellion",
       "quote": "A little girl like you should be ashamed of talking so about a lady.",
-      "group": "Social Themes",
-      "color": "rgb(225, 50, 71)",
+      "group": "Social Dynamics",
+      "color": "rgb(255, 99, 71)",
       "explanation": "A bold red symbolizes the tension between authority figures and rebellious spirits."
     },
     {
       "name": "Gender Roles",
       "quote": "Perhaps an old maid doesn't know much about bringing up a child, but I guess she knows more than an old bachelor.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -12903,7 +12903,7 @@
     {
       "name": "Generosity",
       "quote": "A nice new dress would be the very thing for a present.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13155,7 +13155,7 @@
     {
       "name": "Hospitality",
       "quote": "Now, please help yourself, Diana.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13183,21 +13183,21 @@
     {
       "name": "Communication Breakdown",
       "quote": "No answer from Anne save more tears and stormier sobs!",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Misunderstanding",
       "quote": "I set Diana drunk Saturday and sent her home in a disgraceful condition.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Mistaken Identity",
       "quote": "I thought it was the cordial.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13218,7 +13218,7 @@
     {
       "name": "Prejudice",
       "quote": "I don't think you are a fit little girl for Diana to associate with.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13260,14 +13260,14 @@
     {
       "name": "Welcome Back",
       "quote": "Anne was welcomed back to school with open arms.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Rivalry",
       "quote": "the rivalry between them was soon apparent",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13281,7 +13281,7 @@
     {
       "name": "Competition",
       "quote": "honors fluctuated between them",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13302,14 +13302,14 @@
     {
       "name": "Political Influence",
       "quote": "At first glance it might not seem that the decision of a certain Canadian Premier to include Prince Edward Island in a political tour could have much or anything to do with the fortunes of little Anne Shirley at Green Gables.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Community Engagement",
       "quote": "Most of the Avonlea people were on Premier's side of politics.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13365,7 +13365,7 @@
     {
       "name": "Communication",
       "quote": "We have arranged a way to signal with our candles and cardboard.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13379,7 +13379,7 @@
     {
       "name": "Tradition Vs. Modernity",
       "quote": "I'm surprised at Mrs. Barry's letting Diana go.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13463,7 +13463,7 @@
     {
       "name": "Perception Vs Reality",
       "quote": "You wouldn't think so to look at her, but she is.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13547,28 +13547,28 @@
     {
       "name": "Peer Influence",
       "quote": "I just cried because all the others did.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Community Curiosity",
       "quote": "A new minister, and moreover a minister with a wife, was a lawful object of curiosity in a quiet little country settlement.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Tradition Vs Change",
       "quote": "Old Mr. Bentley...had been pastor of Avonlea for eighteen years.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Judgment And Expectations",
       "quote": "Mrs. Lynde says that sound doctrine in the man and good housekeeping in the woman make an ideal combination for a minister's family.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13582,7 +13582,7 @@
     {
       "name": "Influence",
       "quote": "Mrs. Allan said we ought always to try to influence other people for good.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13596,7 +13596,7 @@
     {
       "name": "Secrecy",
       "quote": "I'll be as secret as the dead.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13617,7 +13617,7 @@
     {
       "name": "Imagination Vs Reality",
       "quote": "You know there is no such thing as a dryad.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13673,14 +13673,14 @@
     {
       "name": "Disapproval",
       "quote": "Promote fiddlesticks!",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Community Spirit",
       "quote": "the scholars of Avonlea school should get up a concert... for the laudable purpose of helping to pay for a schoolhouse flag.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13694,14 +13694,14 @@
     {
       "name": "Patriotism Vs. Fun",
       "quote": "But think of the worthy object, a flag will cultivate a spirit of patriotism.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Parenting",
       "quote": "if it had been his he would have been worried over frequent conflicts",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13715,14 +13715,14 @@
     {
       "name": "Fashion And Identity",
       "quote": "Anne was not dressed like the other girls!",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Humor In Miscommunication",
       "quote": "Miss Harris had heard Matthew Cuthbert called odd.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13778,7 +13778,7 @@
     {
       "name": "Friendship Tensions",
       "quote": "A promising friendship of three years was broken up.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13792,7 +13792,7 @@
     {
       "name": "School Routine",
       "quote": "work in Miss Stacy's little kingdom went on with regularity and smoothness.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13862,14 +13862,14 @@
     {
       "name": "Vanity",
       "quote": "I repented of being wicked, I can tell you.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Cultural Prejudice",
       "quote": "I don't believe in encouraging them to come around at all.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13897,7 +13897,7 @@
     {
       "name": "Appearance",
       "quote": "she looked like a perfect scarecrow.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -13995,14 +13995,14 @@
     {
       "name": "Community",
       "quote": "So Avonlea was pretty well represented, wasn't it?",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Contrast Of Life",
       "quote": "I wasn't born for city life and that I was glad of it.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -14135,7 +14135,7 @@
     {
       "name": "Triumph",
       "quote": "Oh, Matthew, I've passed and I'm first--or one of the first!",
-      "group": "Success and Achievement",
+      "group": "Success And Achievement",
       "color": "",
       "explanation": ""
     },
@@ -14156,7 +14156,7 @@
     {
       "name": "Wealth Vs Happiness",
       "quote": "I think diamonds would comfort a person for a good deal.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -14184,28 +14184,28 @@
     {
       "name": "Hard Work",
       "quote": "settled down to hard work.",
-      "group": "Personal Growth",
+      "group": "Growth",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Beauty Competition",
       "quote": "Ruby Gillis was the handsomest girl of the year at the Academy.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Academic Achievements",
       "quote": "Jane Andrews--plain, plodding, conscientious Jane--carried off the honors in the domestic science course.",
-      "group": "Success and Achievement",
+      "group": "Success And Achievement",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Personal Growth",
       "quote": "I know that flowers of quiet happiness would bloom along it.",
-      "group": "Personal Growth",
+      "group": "Growth",
       "color": "",
       "explanation": ""
     },
@@ -14268,7 +14268,7 @@
     {
       "name": "Education And Pride",
       "quote": "I don't believe a word of it.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
@@ -14380,168 +14380,168 @@
     {
       "name": "Community Opinions",
       "quote": "I was real glad to hear it.",
-      "group": "Social Themes",
+      "group": "Social Dynamics",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Individuality Vs. Conformity",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Spirituality",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Growth",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Nature",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Conflict Resolution",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Emotional Growth",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Support And Understanding",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Apology",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Self-reflection",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Self-discovery",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Forgiveness",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Self-expression",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Practicality Vs. Vanity",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Generational Conflict",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Social Acceptance",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Religious Experience",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Expectation Vs. Reality",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Social Expectations",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Nervousness",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Aesthetic Appreciation",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Dreaming Vs. Practicality",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Tradition",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Ritual",
       "quote": "",
-      "group": "misc",
+      "group": "Miscellaneous",
       "color": "",
       "explanation": ""
     }

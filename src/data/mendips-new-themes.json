@@ -7066,7 +7066,7 @@
     {
       "name": "Nature's Beauty",
       "quote": "the lawn was covered with daisies, and that their bright eyes looked fearlessly up into the blue sky",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(60, 179, 113)",
       "explanation": "This green color embodies the lushness and tranquility of nature, representing growth and harmony."
     },
@@ -7087,7 +7087,7 @@
     {
       "name": "Youthful Joy",
       "quote": "Is not it beautiful to be alive on such a day?",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(255, 165, 0)",
       "explanation": "This cheerful orange embodies the exuberance and vitality of youth."
     },
@@ -7101,21 +7101,21 @@
     {
       "name": "Parental Concern",
       "quote": "I am troubled about Melville; he wants to go and see the world, he says.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(255, 228, 196)",
       "explanation": "A light peach color conveys warmth and care, representing the protective instincts of parents."
     },
     {
       "name": "Guilt And Remorse",
       "quote": "I have killed the boy.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Resilience",
       "quote": "Piers was the most cheerful and most uncomplaining member of the squire's household.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7143,7 +7143,7 @@
     {
       "name": "Arrival",
       "quote": "Good-day to you, said the squire, in a cheery voice.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7157,14 +7157,14 @@
     {
       "name": "Curiosity",
       "quote": "a knot of people had assembled in Saddler Street, watching with some curiosity.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(75, 0, 130)",
       "explanation": "A deep indigo represents the quest for knowledge and the wonder of discovery."
     },
     {
       "name": "Humor",
       "quote": "Ha, ha! laughed the woman.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7178,21 +7178,21 @@
     {
       "name": "Coming Of Age",
       "quote": "It was the moment, perhaps, of crossing the barrier which divides childhood from womanhood.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Beauty",
       "quote": "a ray of sunshine... illuminated it with a subdued and chastened beauty.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(255, 105, 180)",
       "explanation": "This vibrant pink represents the allure and aesthetic pleasure found in beauty."
     },
     {
       "name": "Light",
       "quote": "a ray of sunshine entering at a window... touched her figure.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7206,7 +7206,7 @@
     {
       "name": "Childhood Innocence",
       "quote": "She is generally all smiles and sunshine; now she looks like a nun.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(255, 250, 205)",
       "explanation": "A soft lemon yellow symbolizes the purity and joy of childhood innocence."
     },
@@ -7234,21 +7234,21 @@
     {
       "name": "Romantic Longing",
       "quote": "There is such a thing as the language of eyes.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Friendship",
       "quote": "Oh, Charlotte, you must not come to me for sympathy.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(255, 215, 0)",
       "explanation": "A bright gold signifies the value and warmth of friendship, evoking feelings of joy and connection."
     },
     {
       "name": "Creativity And Expression",
       "quote": "I want to read you some verses I have written, called, 'The Drooping Rosebud.'",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7269,7 +7269,7 @@
     {
       "name": "Personal Identity",
       "quote": "I am not sure that I want them.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7290,7 +7290,7 @@
     {
       "name": "Desire",
       "quote": "I don't want any ribbons.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7304,7 +7304,7 @@
     {
       "name": "Worship",
       "quote": "hero of her silent worship was Mr. Bamfylde, a new minor Canon.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7339,7 +7339,7 @@
     {
       "name": "Romantic Interest",
       "quote": "What a sweet face!",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7395,7 +7395,7 @@
     {
       "name": "Responsibility",
       "quote": "Joyce felt herself held responsible for the misdemeanours of the maids, especially of Susan Priday.",
-      "group": "Family Themes",
+      "group": "Family",
       "color": "",
       "explanation": ""
     },
@@ -7486,7 +7486,7 @@
     {
       "name": "Joyful Gathering",
       "quote": "the fields of Fair Acres had never seen a happier party collected at hay-making time",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7500,28 +7500,28 @@
     {
       "name": "Anticipation",
       "quote": "Oh, I am afraid--",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Age Perception",
       "quote": "Are you Mrs. More?",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Kindness",
       "quote": "I have come to pay my respects to your good father and mother.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Desire For Freedom",
       "quote": "I should like to go to Barley Wood.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7542,7 +7542,7 @@
     {
       "name": "Spiritual Wealth",
       "quote": "you may find the Pearl of great price.",
-      "group": "Spiritual Themes",
+      "group": "Religious Themes",
       "color": "",
       "explanation": ""
     },
@@ -7556,14 +7556,14 @@
     {
       "name": "Kindness Vs. Contempt",
       "quote": "I must try and overcome by being kind.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Independence",
       "quote": "I should like to pay a visit to Barley Wood.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7584,7 +7584,7 @@
     {
       "name": "Beauty And Perception",
       "quote": "He saw in her capabilities which few girls possessed.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7605,21 +7605,21 @@
     {
       "name": "Loyalty",
       "quote": "I hate Melville.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Empathy",
       "quote": "Mother, let me go. I had better take all the boys away.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Storytelling",
       "quote": "Joyce seated herself with her brothers round her, and read the familiar Bible story.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7640,7 +7640,7 @@
     {
       "name": "Pity And Concern",
       "quote": "who could help pitying him?",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7668,7 +7668,7 @@
     {
       "name": "Spiritual Awakening",
       "quote": "a new spirit seemed to be stirring within her",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7696,7 +7696,7 @@
     {
       "name": "Hope And Resilience",
       "quote": "I may get some nice books there, which we will read together.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7752,21 +7752,21 @@
     {
       "name": "Unspoken Feelings",
       "quote": "he dreaded to change the present happy relations between him and Joyce",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Bravery",
       "quote": "Let this young lady pass, you villain!",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Desperation",
       "quote": "Please let me pass, I have no money to give you.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(255, 0, 0)",
       "explanation": "A bold red signifies urgency and intense emotions, capturing the essence of desperation."
     },
@@ -7794,7 +7794,7 @@
     {
       "name": "Compassion And Kindness",
       "quote": "I am very sorry for you; I shall not forget you.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7815,28 +7815,28 @@
     {
       "name": "Fear And Comfort",
       "quote": "You are safe with me.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Support And Dependence",
       "quote": "If you do, it is the sweetest tiredness I ever knew.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Love And Connection",
       "quote": "No, I will never forget you.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Anxiety",
       "quote": "We have been so anxious, dying of anxiety.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7850,7 +7850,7 @@
     {
       "name": "Gratitude",
       "quote": "Do pray thank him.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7906,7 +7906,7 @@
     {
       "name": "Courage And Strength",
       "quote": "her presence of mind and calmness were wonderful.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7955,14 +7955,14 @@
     {
       "name": "Regret And Potential",
       "quote": "To think what he might have been.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Love And Longing",
       "quote": "Dreams of first love are very sweet; and Gilbert wondered if he had been wise to leave Fair Acres without getting a definite answer from Joyce herself.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -7976,14 +7976,14 @@
     {
       "name": "Memory And Reflection",
       "quote": "Then he recalled her words, spoken in answer to his question as he carried her towards home the evening before: 'No; I will not forget you.'",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Love",
       "quote": "She is called Joyce.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8025,7 +8025,7 @@
     {
       "name": "Departure",
       "quote": "Good-bye, my treasure, good-bye.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8039,14 +8039,14 @@
     {
       "name": "Parting",
       "quote": "Good bye, my Sunshine, good-bye",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Self-discovery",
       "quote": "I think you have laid a very good foundation; upon this, as you grow older, you can build up many fair temples of knowledge.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8060,14 +8060,14 @@
     {
       "name": "Reflection On Fame",
       "quote": "I have tasted all the world can give, and found it vanity.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Education And Knowledge",
       "quote": "Your aunt told me she was anxious as to your education; she thought you needed more than your good father found it convenient to give you.",
-      "group": "Education",
+      "group": "Knowledge",
       "color": "",
       "explanation": ""
     },
@@ -8095,63 +8095,63 @@
     {
       "name": "Community And Support",
       "quote": "The Bible had become a treasure in many humble homes.",
-      "group": "Community",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Intellectual Engagement",
       "quote": "the conversation of those refined and educated gentlemen charmed her.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Anxiety And Concern",
       "quote": "Oh! my father!--is dying.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Support And Comfort",
       "quote": "Trust in Him, and to His loving kindness I commend you.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Isolation And Retreat",
       "quote": "She has led a very retired life at Fair Acres.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Community And Connection",
       "quote": "Many are the sorrows through which I have passed.",
-      "group": "Community",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Loss And Grief",
       "quote": "Oh, father! oh, father! Joyce murmured.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Hope And Faith",
       "quote": "I kept watch, hoping, praying for one word of farewell.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Divine Providence",
       "quote": "Ah, was it the hand of Almighty Love?",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8165,7 +8165,7 @@
     {
       "name": "Grief And Loss",
       "quote": "Oh! father--father.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8179,14 +8179,14 @@
     {
       "name": "Isolation And Loneliness",
       "quote": "Now, all unawares, the storm had swept over her sky.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Hope And Renewal",
       "quote": "I bear you ever in my mind.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8200,7 +8200,7 @@
     {
       "name": "Human Emotion",
       "quote": "the meek man may be excited to fierce anger.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8221,7 +8221,7 @@
     {
       "name": "Victory",
       "quote": "the victorious dog, with his eyes starting out of his head",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8249,7 +8249,7 @@
     {
       "name": "Grief",
       "quote": "Oh! father--father.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8263,7 +8263,7 @@
     {
       "name": "Grief Recovery",
       "quote": "She covered her crape with a large apron.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8277,28 +8277,28 @@
     {
       "name": "Selfishness In Grief",
       "quote": "Selfish people are not cured by trouble of their selfishness.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Patience And Endurance",
       "quote": "if you were buffeted for doing _well_, that is, doing your best, and took it patiently, it was acceptable in God's sight.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Isolation And Monotony",
       "quote": "Except for a visit of a few days from Miss Falconer and Charlotte, nothing occurred to break the monotony of this dead time of the year.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Unrequited Love",
       "quote": "she knew now, as the time went on, that she loved him, and that, after all, she was nothing to him.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8312,21 +8312,21 @@
     {
       "name": "Opportunity",
       "quote": "I think I should like to go to the palace, Aunt Letitia.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Love And Courtship",
       "quote": "I have thought so much of you.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Nature And Renewal",
       "quote": "It was a time and place for the exchange of first young love.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8347,28 +8347,28 @@
     {
       "name": "Compassion",
       "quote": "I am so sorry for your hungry baby.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Fear And Tension",
       "quote": "Let go the horses' heads!",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Motherhood",
       "quote": "She is a mother who loves her child.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Fear And Anxiety",
       "quote": "Oh, it was the sight of his face which was too much for me!",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8382,7 +8382,7 @@
     {
       "name": "Trust And Loyalty",
       "quote": "Let us trust in God, and He will protect us.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8396,42 +8396,42 @@
     {
       "name": "Happiness",
       "quote": "no wife or mother in England was happier than she was.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Family Life",
       "quote": "with her baby in her arms, while Lota and Lettice played.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Personal Growth",
       "quote": "the interest she felt in his rapid advancement.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Loss",
       "quote": "the sweetness of entire dependence on her ceases of necessity with infancy and childhood.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Unfulfilled Dreams",
       "quote": "Poor Charlotte's visions and dreams had never come to be anything but dreams.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Low Spirits",
       "quote": "which had certainly very much increased of late.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8459,7 +8459,7 @@
     {
       "name": "Memories",
       "quote": "thinking of those angry faces crowding round her and her babies",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8487,7 +8487,7 @@
     {
       "name": "Loneliness",
       "quote": "She always talks of her day being over, and that she has nothing now to live for.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8508,14 +8508,14 @@
     {
       "name": "Comparison",
       "quote": "Joyce was married, and Charlotte remained single.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Resignation",
       "quote": "...having to accept her position as unmarried, does so with a bad grace.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8557,7 +8557,7 @@
     {
       "name": "Redemption",
       "quote": "I pray God to forgive you, and I try to do as the Lord Jesus would have me, and forgive you.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8599,7 +8599,7 @@
     {
       "name": "Courage And Bravery",
       "quote": "We must all be as brave as we can.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8620,7 +8620,7 @@
     {
       "name": "Courage Vs Cowardice",
       "quote": "the cowardice of the Recorder, in escaping for dear life from the storm he had himself roused was unprecedented.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8634,49 +8634,49 @@
     {
       "name": "Heroism",
       "quote": "How Gilbert longed to take a prominent part, and how his heart burned with righteous indignation.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Rescue",
       "quote": "he had succeeded in placing the woman and her infant in safety.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Courage In Chaos",
       "quote": "I got separated in the rush just by Wine Street, and there a woman and a baby were in some danger.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Sacrifice For Others",
       "quote": "he might have been trampled to death had not a man saved me.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Physical And Emotional Toll",
       "quote": "Thoroughly exhausted, and suffering from the blow on his head.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Hope And Redemption",
       "quote": "I took hope to the death-bed of a poor man, the hope which was not denied to the thief on the cross.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Hope And Safety",
       "quote": "I trust and pray, you may be kept safely.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8690,14 +8690,14 @@
     {
       "name": "Forgiveness",
       "quote": "It seems to me, Piers, as if it would be cruel to deny a dying man this last act of grace.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Faith And Guidance",
       "quote": "I asked God about it, you know.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8711,14 +8711,14 @@
     {
       "name": "Hope And Despair",
       "quote": "Joyce stood waiting to see the surgeon of the ward where Bob Priday lay.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Urgency",
       "quote": "Pray, madam, is there anything I can do for you?",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8732,14 +8732,14 @@
     {
       "name": "Faith",
       "quote": "O Lamb of God, that taketh away the sins of the world, have mercy upon us.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Hope",
       "quote": "a gentle touch of the same white hand",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8760,7 +8760,7 @@
     {
       "name": "Fear Of Chaos",
       "quote": "It's not a bit like Sunday.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8781,7 +8781,7 @@
     {
       "name": "Divine Justice",
       "quote": "He will by no means spare the guilty.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8802,7 +8802,7 @@
     {
       "name": "Fear And Chaos",
       "quote": "the tumult increased; forked flames shot up into the gray, autumnal sky",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8816,14 +8816,14 @@
     {
       "name": "Separation And Worry",
       "quote": "she was thankful that the 'blow at a venture' had prevented her husband from being in the seething crowd below.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Despair And Suffering",
       "quote": "Those poor people! those poor people! Is there none to help?",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8837,7 +8837,7 @@
     {
       "name": "Divine Abandonment",
       "quote": "It seems as if God had forgotten to be gracious.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8851,28 +8851,28 @@
     {
       "name": "Survival",
       "quote": "you may be thankful for the blow on your husband's head... which has, perhaps, saved his life.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Fear And Panic",
       "quote": "the fire was bigger than ever, and that they were sure the house would catch fire, and they would all be burned alive.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Calmness In Crisis",
       "quote": "Remember you are--we all are--in God's hands.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Imminent Danger",
       "quote": "the panes of glass are hot in the nursery!",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8907,7 +8907,7 @@
     {
       "name": "Destruction And Loss",
       "quote": "wreck and ruin everywhere",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8928,14 +8928,14 @@
     {
       "name": "Illusion Of Happiness",
       "quote": "For the present, indeed, Charlotte was satisfied.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Consequences Of Choices",
       "quote": "The bright sky must cloud over.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8949,7 +8949,7 @@
     {
       "name": "Reflection On The Past",
       "quote": "the sadness of the past does not shadow my happy present.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -8970,7 +8970,7 @@
     {
       "name": "Reflection And Gratitude",
       "quote": "Lord, thou hast been our Refuge; and, notwithstanding the storms and the troubles of this short and mutable life.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     }

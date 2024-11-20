@@ -97,6 +97,9 @@ function PlotOptions() {
 
     "color-new",
     "color-new-themes",
+
+    "emma-new",
+    "emma-new-themes",
   ].sort();
 
   const storyOptionsDisplay = storyOptions.filter(

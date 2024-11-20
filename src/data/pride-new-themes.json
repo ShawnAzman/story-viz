@@ -6545,7 +6545,7 @@
     {
       "name": "Romantic Prospects",
       "quote": "I dare say Mr. Bingley will dance with you at the next ball.",
-      "group": "Romance",
+      "group": "Love And Courtship",
       "color": "rgb(255, 105, 180)",
       "explanation": "This vivid pink color reflects the excitement and hope surrounding romantic interests and potential relationships."
     },
@@ -6559,7 +6559,7 @@
     {
       "name": "Unrequited Interest",
       "quote": "He had entertained hopes of being admitted to a sight of the young ladies.",
-      "group": "Romance",
+      "group": "Love And Courtship",
       "color": "rgb(0, 191, 255)",
       "explanation": "This bright cyan color symbolizes the pain and longing associated with unrequited love."
     },
@@ -6629,7 +6629,7 @@
     {
       "name": "Romantic Interest",
       "quote": "Mr. Bingley thought her quite beautiful, and danced with her twice.",
-      "group": "Romance",
+      "group": "Love And Courtship",
       "color": "rgb(255, 20, 147)",
       "explanation": "This bright magenta color captures the nuances of romantic interest and attraction between characters."
     },
@@ -6678,21 +6678,21 @@
     {
       "name": "Ambition",
       "quote": "Mr. Bingley intended it likewise, and sometimes made choice of his county.",
-      "group": "Personal Themes",
+      "group": "Personal Values",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Easiness Of Temper",
       "quote": "it was doubtful to many of those who best knew the easiness of his temper.",
-      "group": "Character Themes",
+      "group": "Personal Values",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Character Contrast",
       "quote": "Bingley was endeared to Darcy by the easiness, openness, ductility of his temper.",
-      "group": "Character Themes",
+      "group": "Personal Values",
       "color": "",
       "explanation": ""
     },
@@ -6713,7 +6713,7 @@
     {
       "name": "Personal Transformation",
       "quote": "where he could think with pleasure of his own importance.",
-      "group": "Personal Themes",
+      "group": "Personal Values",
       "color": "",
       "explanation": ""
     },
@@ -6734,7 +6734,7 @@
     {
       "name": "Rebellion",
       "quote": "I would not dance with _him_, if I were you.",
-      "group": "Personal Themes",
+      "group": "Personal Values",
       "color": "",
       "explanation": ""
     },
@@ -6755,21 +6755,21 @@
     {
       "name": "Dancing",
       "quote": "I consider it as one of the first refinements of polished societies.",
-      "group": "Cultural Themes",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Personal Preference",
       "quote": "It is a compliment which I never pay to any place if I can avoid it.",
-      "group": "Personal Themes",
+      "group": "Personal Values",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Individuality Vs. Conformity",
       "quote": "Indeed, Sir, I have not the least intention of dancing.",
-      "group": "Personal Themes",
+      "group": "Personal Values",
       "color": "",
       "explanation": ""
     },
@@ -7371,7 +7371,7 @@
     {
       "name": "Marriage Considerations",
       "quote": "marriage had always been her object; it was the only honourable provision for well-educated young women of small fortune.",
-      "group": "Marriage",
+      "group": "Family",
       "color": "",
       "explanation": ""
     },

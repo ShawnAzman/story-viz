@@ -2989,21 +2989,21 @@
     {
       "name": "Belonging",
       "quote": "For the first time in a long while, I felt a sense of belonging.",
-      "group": "Emotional Themes",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Nervous Anticipation",
       "quote": "Everything looks good, trying to quell her doubts.",
-      "group": "Emotional Themes",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Past Failures",
       "quote": "The memories of past failures loomed large.",
-      "group": "Emotional Themes",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
@@ -3017,7 +3017,7 @@
     {
       "name": "New Beginnings",
       "quote": "This is just the beginning.",
-      "group": "Emotional Themes",
+      "group": "Emotions",
       "color": "rgb(173, 255, 47)",
       "explanation": "Lime green symbolizes new beginnings and fresh starts, embodying the hope for a brighter future."
     },
@@ -3038,49 +3038,49 @@
     {
       "name": "Nostalgia",
       "quote": "each frame a testament to moments that now felt like fragments of a dream.",
-      "group": "Emotional Themes",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Parental Support",
       "quote": "Promise me you'll come back.",
-      "group": "Emotional Themes",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Shared Vulnerability",
       "quote": "It's okay to feel lost or afraid. Sharing our stories can help us find our way.",
-      "group": "Emotional Themes",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Confronting The Past",
       "quote": "I had left Earth behind, but the memories were about to come flooding back.",
-      "group": "Emotional Themes",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Emotional Turmoil",
       "quote": "Tessa felt a knot form in her stomach as she took her seat.",
-      "group": "Emotional Themes",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Collective Grief",
       "quote": "We come together today to remember our fallen comrades.",
-      "group": "Emotional Themes",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Resilience",
       "quote": "Let's channel our pain into purpose.",
-      "group": "Emotional Themes",
+      "group": "Emotions",
       "color": "rgb(0, 128, 0)",
       "explanation": "Green symbolizes resilience and growth, representing the ability to bounce back from adversity."
     },

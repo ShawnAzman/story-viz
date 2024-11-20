@@ -11,6 +11,7 @@ langchain-openai = "*"
 langchain-anthropic = "*"
 seaborn = "*"
 langchain-google-genai = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 ipykernel = "*"

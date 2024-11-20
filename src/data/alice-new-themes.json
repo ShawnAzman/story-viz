@@ -248,7 +248,7 @@
         "Love's Influence": 1,
         "Caution And Experimentation": 1,
         "Gift Giving": 1,
-        "Social Etiquette": 1,
+        "Social Themes": 1,
         "Authority": 3,
         "Fear": 2,
         "Confusion And Chaos": 1,
@@ -1911,7 +1911,7 @@
           "importance_rank": 1
         },
         {
-          "name": "Social Etiquette",
+          "name": "Social Themes",
           "role": "Highlights societal norms",
           "importance": 0.5,
           "emotion": "discontent",
@@ -3030,19 +3030,19 @@
     {
       "name": "Caution And Experimentation",
       "quote": "He might bite.",
-      "group": "Social Etiquette",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Gift Giving",
       "quote": "I make you a present of everything I've said as yet.",
-      "group": "Social Etiquette",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
     {
-      "name": "Social Etiquette",
+      "name": "Social Themes",
       "quote": "I'm glad they don't give birthday presents like that!",
       "group": "Social Themes",
       "color": "",

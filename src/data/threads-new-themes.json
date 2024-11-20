@@ -2911,7 +2911,7 @@
     {
       "name": "Discovery",
       "quote": "Elara uncovers her potential",
-      "group": "Self-Discovery",
+      "group": "Self-discovery",
       "color": "rgb(255, 20, 147)",
       "explanation": "Deep pink represents curiosity and the excitement of uncovering new truths, aligning with the character's journey."
     },
@@ -2960,7 +2960,7 @@
     {
       "name": "Self-doubt",
       "quote": "Elara questions her abilities and choices",
-      "group": "Internal Conflict",
+      "group": "Conflict",
       "color": "",
       "explanation": ""
     },
@@ -3002,14 +3002,14 @@
     {
       "name": "Power",
       "quote": "Elara's abilities are recognized and exploited",
-      "group": "Themes of Control",
+      "group": "Control",
       "color": "rgb(0, 0, 255)",
       "explanation": "Blue symbolizes strength and authority, reflecting the character's connection to control and influence."
     },
     {
       "name": "Choice",
       "quote": "Elara faces a moral dilemma",
-      "group": "Decision-Making",
+      "group": "Decision-making",
       "color": "rgb(255, 165, 0)",
       "explanation": "Orange signifies the importance of choices and the moral dilemmas faced by the character."
     },
@@ -3051,7 +3051,7 @@
     {
       "name": "Control",
       "quote": "I can't ignore this gift. It was part of me now, whether I liked it or not.",
-      "group": "Power",
+      "group": "Control",
       "color": "rgb(0, 128, 128)",
       "explanation": "Teal signifies balance and control, reflecting the character's struggle with their powers."
     },
@@ -3072,35 +3072,35 @@
     {
       "name": "Despair",
       "quote": "Something was terribly wrong.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Authority",
       "quote": "You're dangerous... I won't stand by and watch you destroy this village.",
-      "group": "Power",
+      "group": "Control",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Unity And Support",
       "quote": "We need to figure out what's really going on.",
-      "group": "Community",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Creation And Fear",
       "quote": "Perhaps, she thought, if she started small, if she focused on weaving something mundane, she could avoid the dangers that had come with her recent work.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Connection",
       "quote": "Their faces turned toward one another in quiet conversation.",
-      "group": "Community",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
@@ -3114,7 +3114,7 @@
     {
       "name": "Desperation",
       "quote": "Please, Daria whispered, her voice thick with desperation.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(255, 105, 180)",
       "explanation": "Hot pink symbolizes urgency and the emotional state of the character facing dire circumstances."
     },
@@ -3128,21 +3128,21 @@
     {
       "name": "Life And Death",
       "quote": "But this\u2014this was about life and death.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Gratitude",
       "quote": "Thank you, Elara.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Power Of Creation",
       "quote": "But the power still frightened her.",
-      "group": "Power",
+      "group": "Control",
       "color": "",
       "explanation": ""
     },
@@ -3163,35 +3163,35 @@
     {
       "name": "Indecision",
       "quote": "What would it mean to join the guild?",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Freedom",
       "quote": "I just want to be free.",
-      "group": "Power",
+      "group": "Control",
       "color": "rgb(0, 255, 0)",
       "explanation": "Green represents hope and the desire for liberation, aligning with the character's quest for autonomy."
     },
     {
       "name": "Trust",
       "quote": "Could she trust them? Could she trust herself?",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Fear And Strength",
       "quote": "You are stronger than you know.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Defiance",
       "quote": "I just want to be free.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -3205,14 +3205,14 @@
     {
       "name": "Magic And Consequences",
       "quote": "Ever since you started meddling with your magic, everything's gone wrong.",
-      "group": "Consequences",
+      "group": "Decision-making",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Consequences Of Choices",
       "quote": "Once the threads are woven, they can't be undone.",
-      "group": "Consequences",
+      "group": "Decision-making",
       "color": "",
       "explanation": ""
     },
@@ -3226,14 +3226,14 @@
     {
       "name": "Fate And Free Will",
       "quote": "What if I don't want to follow anyone's path?",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Tension",
       "quote": "The air itself seemed heavy with tension.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -3247,21 +3247,21 @@
     {
       "name": "Sympathy",
       "quote": "I know you didn't mean for any of this to happen.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Responsibility",
       "quote": "What if I made a mistake?",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(0, 100, 0)",
       "explanation": "Dark green signifies duty and the weight of obligations, representing the character's role in the narrative."
     },
     {
       "name": "Chaos And Control",
       "quote": "You've done nothing but make things worse.",
-      "group": "Consequences",
+      "group": "Decision-making",
       "color": "",
       "explanation": ""
     },
@@ -3275,7 +3275,7 @@
     {
       "name": "Loyalty",
       "quote": "I'm someone who knows the guild better than any of you.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -3289,42 +3289,42 @@
     {
       "name": "Struggle And Resistance",
       "quote": "The enforcers were strong, and their numbers were growing.",
-      "group": "Consequences",
+      "group": "Decision-making",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Hope",
       "quote": "You gave us our lives back.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Consequences Of Control",
       "quote": "The guild had used the loom to manipulate fate.",
-      "group": "Consequences",
+      "group": "Decision-making",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Loss",
       "quote": "So much had been lost\u2014so much history, so much tradition.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Hopeful Renewal",
       "quote": "The future was unwritten, and that was the way it should be.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Uncertainty",
       "quote": "I just hope I made the right choice.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -3338,14 +3338,14 @@
     {
       "name": "Guarded Emotions",
       "quote": "He didn't approach her, but the anger that had once filled his eyes was gone.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Reflection And Growth",
       "quote": "Each thread she wove into the tapestry was a reflection of those experiences.",
-      "group": "Personal Development",
+      "group": "Self-discovery",
       "color": "",
       "explanation": ""
     },
@@ -3359,7 +3359,7 @@
     {
       "name": "Letting Go",
       "quote": "true power came from letting go\u2014from allowing the threads of life to weave themselves.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     }

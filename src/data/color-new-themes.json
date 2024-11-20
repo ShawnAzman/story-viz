@@ -3695,7 +3695,7 @@
     {
       "name": "Mystery",
       "quote": "Who was this woman, and what was she doing in this desolate place?",
-      "group": "Discovery",
+      "group": "Exploration",
       "color": "rgb(128, 0, 128)",
       "explanation": "Purple embodies the enigmatic nature of the Hidden Realm and its secrets."
     },
@@ -3716,7 +3716,7 @@
     {
       "name": "Connection",
       "quote": "You look lost, dear.",
-      "group": "Relationships",
+      "group": "Friendship",
       "color": "",
       "explanation": ""
     },
@@ -3751,7 +3751,7 @@
     {
       "name": "Exploration",
       "quote": "This is just the beginning.",
-      "group": "Journey",
+      "group": "Exploration",
       "color": "",
       "explanation": ""
     },
@@ -3786,7 +3786,7 @@
     {
       "name": "Trust",
       "quote": "Trust me, it's a leap worth taking!",
-      "group": "Relationships",
+      "group": "Friendship",
       "color": "rgb(255, 165, 0)",
       "explanation": "Orange symbolizes the bond of trust that develops between Lila and her allies."
     },
@@ -3800,7 +3800,7 @@
     {
       "name": "Creativity And Imagination",
       "quote": "The Hidden Realm of Colors was a sanctuary of creativity.",
-      "group": "Artistic Themes",
+      "group": "Visual Themes",
       "color": "",
       "explanation": ""
     },
@@ -3814,7 +3814,7 @@
     {
       "name": "Belonging",
       "quote": "I can't wait to share this with the world.",
-      "group": "Relationships",
+      "group": "Friendship",
       "color": "rgb(255, 228, 196)",
       "explanation": "Peach symbolizes the sense of belonging Lila finds among her friends and allies."
     },
@@ -3968,7 +3968,7 @@
     {
       "name": "Reclamation",
       "quote": "We can reclaim what he has stolen!",
-      "group": "Heroism",
+      "group": "Courage",
       "color": "",
       "explanation": ""
     },
@@ -3989,7 +3989,7 @@
     {
       "name": "Quest For Allies",
       "quote": "She had come seeking allies, and the weight of her quest pressed heavily on her shoulders.",
-      "group": "Adventure",
+      "group": "Exploration",
       "color": "",
       "explanation": ""
     },
@@ -4094,7 +4094,7 @@
     {
       "name": "Leadership",
       "quote": "Let's finish this!",
-      "group": "Authority",
+      "group": "Leadership",
       "color": "",
       "explanation": ""
     },
@@ -4255,7 +4255,7 @@
     {
       "name": "Creativity As Power",
       "quote": "You think your art can defeat me?",
-      "group": "Empowerment",
+      "group": "Personal Growth",
       "color": "",
       "explanation": ""
     },
@@ -4269,7 +4269,7 @@
     {
       "name": "Creativity's Power",
       "quote": "You cannot extinguish the light of creativity!",
-      "group": "Empowerment",
+      "group": "Personal Growth",
       "color": "",
       "explanation": ""
     },
@@ -4297,7 +4297,7 @@
     {
       "name": "Empowerment",
       "quote": "Yes! Embrace it! Let the colors flow through you!",
-      "group": "Empowerment",
+      "group": "Personal Growth",
       "color": "",
       "explanation": ""
     },
@@ -4332,7 +4332,7 @@
     {
       "name": "Celebration Of Life",
       "quote": "This is what we've fought for! This is our victory!",
-      "group": "Celebration",
+      "group": "Joy",
       "color": "",
       "explanation": ""
     },
@@ -4353,7 +4353,7 @@
     {
       "name": "Celebration",
       "quote": "The Color Keepers gathered around her, their faces filled with pride.",
-      "group": "Celebration",
+      "group": "Joy",
       "color": "",
       "explanation": ""
     },

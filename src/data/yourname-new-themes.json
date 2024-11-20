@@ -4602,7 +4602,7 @@
     {
       "name": "Power Outage",
       "quote": "The power's out.",
-      "group": "Crisis",
+      "group": "Crisis Management",
       "color": "",
       "explanation": ""
     },
@@ -4651,7 +4651,7 @@
     {
       "name": "Communication Breakdown",
       "quote": "Hurry, shut it off!",
-      "group": "Crisis",
+      "group": "Crisis Management",
       "color": "",
       "explanation": ""
     },
@@ -4700,7 +4700,7 @@
     {
       "name": "Job Hunting",
       "quote": "Ha-ha. Well, it's not going so great.",
-      "group": "Struggle",
+      "group": "Conflict",
       "color": "",
       "explanation": ""
     },
@@ -4756,28 +4756,28 @@
     {
       "name": "Medium Differences",
       "quote": "There are no major differences between the novel and the movie as far as the story is concerned.",
-      "group": "Artistic Vision",
+      "group": "Artistic Expression",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Artistic Expression",
       "quote": "The role music plays in the your name, movie is a big one.",
-      "group": "Creative Process",
+      "group": "Artistic Expression",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Creative Collaboration",
       "quote": "These two met as if guided by fate, and the result was a miraculous collaboration.",
-      "group": "Collaboration",
+      "group": "Creative Collaboration",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Artistic Vision",
       "quote": "I wanted him to make his newest work 'Makoto Shinkai's best film.'",
-      "group": "Creative Process",
+      "group": "Artistic Expression",
       "color": "",
       "explanation": ""
     }

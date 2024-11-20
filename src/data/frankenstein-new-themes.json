@@ -7035,7 +7035,7 @@
     {
       "name": "Ambition",
       "quote": "I preferred glory to every enticement that wealth placed in my path.",
-      "group": "Personal Growth",
+      "group": "Change",
       "color": "rgb(255, 20, 147)",
       "explanation": "Deep pink signifies ambition and drive, reflecting the pursuit of goals."
     },
@@ -7070,7 +7070,7 @@
     {
       "name": "Self-reflection",
       "quote": "I am in reality more illiterate than many schoolboys of fifteen.",
-      "group": "Personal Growth",
+      "group": "Change",
       "color": "rgb(75, 0, 130)",
       "explanation": "Indigo represents introspection and self-examination, capturing the essence of self-reflection."
     },
@@ -7091,7 +7091,7 @@
     {
       "name": "Determination",
       "quote": "But success _shall_ crown my endeavours.",
-      "group": "Personal Growth",
+      "group": "Change",
       "color": "",
       "explanation": ""
     },
@@ -7238,7 +7238,7 @@
     {
       "name": "Mentorship And Influence",
       "quote": "I am happy to have gained a disciple.",
-      "group": "Education",
+      "group": "Knowledge",
       "color": "",
       "explanation": ""
     },
@@ -7308,7 +7308,7 @@
     {
       "name": "Illness",
       "quote": "This was the commencement of a nervous fever which confined me for several months.",
-      "group": "Health and Well-being",
+      "group": "Health And Well-being",
       "color": "",
       "explanation": ""
     },
@@ -7329,21 +7329,21 @@
     {
       "name": "Hope And Recovery",
       "quote": "I felt also sentiments of joy and affection revive in my bosom.",
-      "group": "Health and Well-being",
+      "group": "Health And Well-being",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Social Dynamics",
       "quote": "The pretty Miss Mansfield has already received the congratulatory visits on her approaching marriage.",
-      "group": "Society",
+      "group": "Social Issues",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Recovery Journey",
       "quote": "I will write instantly and relieve them from the anxiety they must feel.",
-      "group": "Health and Well-being",
+      "group": "Health And Well-being",
       "color": "",
       "explanation": ""
     },
@@ -7371,7 +7371,7 @@
     {
       "name": "Hope And Healing",
       "quote": "Clerval writes that indeed you are getting better.",
-      "group": "Health and Well-being",
+      "group": "Health And Well-being",
       "color": "",
       "explanation": ""
     },
@@ -7455,7 +7455,7 @@
     {
       "name": "Conflict Of Intentions",
       "quote": "I had begun life with benevolent intentions and thirsted for the moment when I should put them in practice.",
-      "group": "Social Themes",
+      "group": "Social Issues",
       "color": "",
       "explanation": ""
     },
@@ -7469,7 +7469,7 @@
     {
       "name": "Injustice",
       "quote": "Alas! Victor, when falsehood can look so like the truth, who can assure themselves of certain happiness?",
-      "group": "Social Themes",
+      "group": "Social Issues",
       "color": "",
       "explanation": ""
     },
@@ -7497,7 +7497,7 @@
     {
       "name": "Journey",
       "quote": "I spent nearly two hours in crossing it.",
-      "group": "Journey",
+      "group": "Adventure",
       "color": "",
       "explanation": ""
     },
@@ -7511,7 +7511,7 @@
     {
       "name": "Creator And Creature",
       "quote": "I am thy creature; I ought to be thy Adam, but I am rather the fallen angel.",
-      "group": "Social Themes",
+      "group": "Social Issues",
       "color": "",
       "explanation": ""
     },
@@ -7525,7 +7525,7 @@
     {
       "name": "Moral Responsibility",
       "quote": "You reproach me with your creation, come on, then, that I may extinguish the spark which I so negligently bestowed.",
-      "group": "Social Themes",
+      "group": "Social Issues",
       "color": "",
       "explanation": ""
     },
@@ -7546,7 +7546,7 @@
     {
       "name": "Creation And Responsibility",
       "quote": "You have made me wretched beyond expression.",
-      "group": "Social Themes",
+      "group": "Social Issues",
       "color": "",
       "explanation": ""
     },
@@ -7651,7 +7651,7 @@
     {
       "name": "Communication Barriers",
       "quote": "she was neither understood by nor herself understood the cottagers.",
-      "group": "Social Themes",
+      "group": "Social Issues",
       "color": "",
       "explanation": ""
     },
@@ -7672,7 +7672,7 @@
     {
       "name": "Nature Vs. Nurture",
       "quote": "What was I? The question again recurred, to be answered only with groans.",
-      "group": "Philosophical Themes",
+      "group": "Existence",
       "color": "",
       "explanation": ""
     },
@@ -7735,14 +7735,14 @@
     {
       "name": "Search For Identity",
       "quote": "What did this mean? Who was I? What was I?",
-      "group": "Social Themes",
+      "group": "Social Issues",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Prejudice",
       "quote": "A fatal prejudice clouds their eyes, and where they ought to see a feeling and kind friend, they behold only a detestable monster.",
-      "group": "Social Themes",
+      "group": "Social Issues",
       "color": "",
       "explanation": ""
     },
@@ -7777,7 +7777,7 @@
     {
       "name": "Journey And Direction",
       "quote": "I resolved to fly far from the scene of my misfortunes.",
-      "group": "Social Themes",
+      "group": "Social Issues",
       "color": "",
       "explanation": ""
     },
@@ -7819,21 +7819,21 @@
     {
       "name": "Obligation",
       "quote": "I must pursue and destroy the being to whom I gave existence; then my lot on earth will be fulfilled and I may die.",
-      "group": "Social Themes",
+      "group": "Social Issues",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Historical Reflection",
       "quote": "The memory of that unfortunate king and his companions, the amiable Falkland, the insolent Goring, his queen, and son, gave a peculiar interest to every part of the city.",
-      "group": "Social Themes",
+      "group": "Social Issues",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Restlessness And Change",
       "quote": "A traveller's life is one that includes much pain amidst its enjoyments.",
-      "group": "Social Themes",
+      "group": "Social Issues",
       "color": "",
       "explanation": ""
     },
@@ -7868,14 +7868,14 @@
     {
       "name": "Fatigue",
       "quote": "I was ready to sink from fatigue and hunger.",
-      "group": "Physical and Mental States",
+      "group": "Health And Well-being",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Murder Investigation",
       "quote": "...they found that he had fallen on the body of a man, who was to all appearance dead.",
-      "group": "Conflict and Justice",
+      "group": "Justice",
       "color": "",
       "explanation": ""
     },
@@ -7889,7 +7889,7 @@
     {
       "name": "Indifference",
       "quote": "if you mean about the gentleman you murdered, I believe that it were better for you if you were dead.",
-      "group": "Social Themes",
+      "group": "Social Issues",
       "color": "",
       "explanation": ""
     },
@@ -7903,7 +7903,7 @@
     {
       "name": "Nightmares And Fear",
       "quote": "I felt the fiend's grasp in my neck and could not free myself from it.",
-      "group": "Psychological Themes",
+      "group": "Psychology",
       "color": "",
       "explanation": ""
     },
@@ -7917,7 +7917,7 @@
     {
       "name": "Mental Turmoil",
       "quote": "I am not mad.",
-      "group": "Psychological Themes",
+      "group": "Psychology",
       "color": "",
       "explanation": ""
     },
@@ -7931,7 +7931,7 @@
     {
       "name": "Protection And Vigilance",
       "quote": "I took every precaution to defend my person.",
-      "group": "Conflict and Justice",
+      "group": "Justice",
       "color": "",
       "explanation": ""
     },
@@ -7966,28 +7966,28 @@
     {
       "name": "Determination And Resolve",
       "quote": "I started up and resolved to return to Geneva with all possible speed.",
-      "group": "Conflict and Justice",
+      "group": "Justice",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Incredulity",
       "quote": "I would willingly afford you every aid in your pursuit, but the creature of whom you speak appears to have powers which would put all my exertions to defiance.",
-      "group": "Conflict and Justice",
+      "group": "Justice",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Pursuit",
       "quote": "Come on, my enemy; we have yet to wrestle for our lives.",
-      "group": "Conflict and Justice",
+      "group": "Justice",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Pursuit And Revenge",
       "quote": "I continued with unabated fervour to traverse immense deserts.",
-      "group": "Conflict and Justice",
+      "group": "Justice",
       "color": "",
       "explanation": ""
     },
@@ -8015,7 +8015,7 @@
     {
       "name": "Ambition And Regret",
       "quote": "Oh! My friend, if you had known me as I once was, you would not recognise me in this state of degradation.",
-      "group": "Social Themes",
+      "group": "Social Issues",
       "color": "",
       "explanation": ""
     },

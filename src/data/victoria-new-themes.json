@@ -5184,7 +5184,7 @@
     {
       "name": "Tragic Love",
       "quote": "God Almighty grant me patience!",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5198,7 +5198,7 @@
     {
       "name": "Loss And Grief",
       "quote": "When, at last, Stockmar consented to see her; he went in, and found her obviously dying.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(75, 0, 0)",
       "explanation": "A deep maroon symbolizes the heavy emotions associated with loss and mourning."
     },
@@ -5212,7 +5212,7 @@
     {
       "name": "Duty Vs. Desire",
       "quote": "If you wish it, I will do it.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(0, 255, 127)",
       "explanation": "This green color embodies the conflict between personal desires and societal duties."
     },
@@ -5268,28 +5268,28 @@
     {
       "name": "Courage And Independence",
       "quote": "developed an independence of character and a tenacity of purpose.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Prophecy And Fate",
       "quote": "there were prophecies...",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(128, 0, 128)",
       "explanation": "Purple reflects the mystical and often foreboding nature of prophecies."
     },
     {
       "name": "Identity",
       "quote": "Thus, to the disgust of her father, the child was christened Alexandrina Victoria.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Lack Of Appreciation",
       "quote": "IT IS A CLEAR PROOF TO ME THAT THEY ARE NOT APPRECIATED",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5303,7 +5303,7 @@
     {
       "name": "Mortality",
       "quote": "I shall outlive them all.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5317,14 +5317,14 @@
     {
       "name": "Irony",
       "quote": "He caught cold, inflammation of the lungs set in, and on January 22 he was a dying man.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Optimism In Adversity",
       "quote": "But she was an inveterate optimist; she had spent her life in struggles, and would not be daunted now.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5345,7 +5345,7 @@
     {
       "name": "Childhood Innocence",
       "quote": "as she played with her dolls, or scampered down the passages",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(255, 192, 203)",
       "explanation": "Pink reflects the purity and innocence of childhood experiences."
     },
@@ -5366,7 +5366,7 @@
     {
       "name": "Temperament And Discipline",
       "quote": "she would fly into a violent passion, stamp her little foot",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5380,7 +5380,7 @@
     {
       "name": "Freedom",
       "quote": "But sometimes when her mother had to stay at home, she was allowed to go out driving all alone.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5415,21 +5415,21 @@
     {
       "name": "Moral Development",
       "quote": "I have every feeling that she has religion at Her heart",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Coming Of Age",
       "quote": "I will be good.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(255, 105, 180)",
       "explanation": "Hot pink symbolizes the vibrant transition from childhood to adulthood."
     },
     {
       "name": "Innocence To Knowledge",
       "quote": "her inquiries, her final realisation of the facts.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5464,14 +5464,14 @@
     {
       "name": "Self-discovery",
       "quote": "I felt that my confirmation was one of the most solemn and important events and acts in my life.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Admiration",
       "quote": "They are both EXTREMELY TALL... Alexander is VERY HANDSOME.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5492,14 +5492,14 @@
     {
       "name": "Power Struggles",
       "quote": "the household was divided into two camps",
-      "group": "Political",
+      "group": "Political Themes",
       "color": "rgb(75, 0, 130)",
       "explanation": "Indigo represents the deep and often dark conflicts over power and control."
     },
     {
       "name": "Political Intrigue",
       "quote": "King Leopold encouraged her.",
-      "group": "Political",
+      "group": "Political Themes",
       "color": "rgb(0, 0, 255)",
       "explanation": "Blue symbolizes the complexity and depth of political maneuvering and intrigue."
     },
@@ -5513,14 +5513,14 @@
     {
       "name": "Loss",
       "quote": "the King was visibly sinking.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(139, 69, 19)",
       "explanation": "Saddle brown reflects the deep sorrow and weight of loss."
     },
     {
       "name": "Advice And Guidance",
       "quote": "Stockmar came to breakfast, and gave some good advice.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5541,42 +5541,42 @@
     {
       "name": "Ambition",
       "quote": "He was aware of a new sensation--the stirrings of ambition in his breast.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "rgb(255, 0, 255)",
       "explanation": "Magenta represents the drive and passion associated with ambition."
     },
     {
       "name": "Influence",
       "quote": "the influence wielded by the Baroness, supreme as it seemed within its own sphere, was not unlimited",
-      "group": "Political",
+      "group": "Political Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Public Service",
       "quote": "the better for Europe; of that he was quite certain.",
-      "group": "Political",
+      "group": "Political Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Disinterestedness",
       "quote": "To do good! What nobler end could a man scheme for?",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Personal Struggles",
       "quote": "He was, he knew very well, his wife's intellectual superior, and yet he found, to his intense annoyance, that there were parts of her mind over which he exercised no influence.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Youth And Innocence",
       "quote": "She was mistress of herself, of great domains and palaces; she was Queen of England.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5597,14 +5597,14 @@
     {
       "name": "Youth And Simplicity",
       "quote": "she ran up to her private rooms, doffed her splendours, and gave her dog Dash its evening bath.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Time Passage",
       "quote": "The months flew past. The summer was over.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5632,14 +5632,14 @@
     {
       "name": "Caution In Decision-making",
       "quote": "she would reply that she would think it over, and tell him her conclusions next day.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Disappointment",
       "quote": "I have to thank you for your last letter which I received on Sunday.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5660,14 +5660,14 @@
     {
       "name": "Personal Relationships",
       "quote": "cherished by the favour of a sovereign and warmed by the adoration of a girl.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Romantic Awakening",
       "quote": "I thought he must be aware why I wished them to come here.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5681,7 +5681,7 @@
     {
       "name": "Romantic Tension",
       "quote": "Nothing would induce him, he confessed to a friend, to be kept vaguely waiting.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5695,14 +5695,14 @@
     {
       "name": "Duty",
       "quote": "she would have to promise that she would honour and obey... someone, who might, after all, thwart her.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Love And Sacrifice",
       "quote": "I shall never cease ein treuer Deutscher, Coburger, Gothaner zu sein.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5716,7 +5716,7 @@
     {
       "name": "Love And Conflict",
       "quote": "She was madly in love.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5737,7 +5737,7 @@
     {
       "name": "Love And Support",
       "quote": "I felt quite moved with happiness and gratitude to God.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5765,7 +5765,7 @@
     {
       "name": "Memory And Reflection",
       "quote": "One cannot forget how good and kind and amiable he was.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -5807,7 +5807,7 @@
     {
       "name": "Perseverance",
       "quote": "The Prince, with unyielding perseverance and infinite patience, pressed on to his goal.",
-      "group": "Personal Growth",
+      "group": "Personal Development",
       "color": "",
       "explanation": ""
     },
@@ -5821,7 +5821,7 @@
     {
       "name": "Rising Fortunes",
       "quote": "The success of the Great Exhibition enormously increased his reputation.",
-      "group": "Personal Growth",
+      "group": "Personal Development",
       "color": "",
       "explanation": ""
     },
@@ -5849,14 +5849,14 @@
     {
       "name": "Unexpected Talent",
       "quote": "they learnt with amazement that the Prince...had ridden to hounds and acquitted himself remarkably well.",
-      "group": "Personal Growth",
+      "group": "Personal Development",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Indifference To Approval",
       "quote": "But he had no such desire; hunting bored him.",
-      "group": "Personal Growth",
+      "group": "Personal Development",
       "color": "",
       "explanation": ""
     },
@@ -6059,14 +6059,14 @@
     {
       "name": "Determination",
       "quote": "He was busy now from morning till night.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Parental Responsibility",
       "quote": "The Prince realised to the full how much the high destinies of his offspring intensified the need of parental care.",
-      "group": "Family Themes",
+      "group": "Family",
       "color": "",
       "explanation": ""
     },
@@ -6080,28 +6080,28 @@
     {
       "name": "Public Duty",
       "quote": "With indefatigable perseverance he opened museums, laid the foundation stones of hospitals.",
-      "group": "Public Themes",
+      "group": "Political Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Nature's Beauty",
       "quote": "Oh! What can equal the beauties of nature!",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Romantic Escapism",
       "quote": "I could be really happy every summer.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Happiness",
       "quote": "I felt almost inclined to cry.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6115,7 +6115,7 @@
     {
       "name": "Personal Reflection",
       "quote": "Each hallowed moment stood out clear, beautiful, eternally significant.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6164,7 +6164,7 @@
     {
       "name": "Parental Love",
       "quote": "I clasped her in my arms and blessed her, and knew not what to say.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6199,7 +6199,7 @@
     {
       "name": "Isolation And Despair",
       "quote": "I am on a dreary sad pinnacle of solitary grandeur.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6220,7 +6220,7 @@
     {
       "name": "Artistic Representation",
       "quote": "Sir Arthur, Sir Theodore, and the General painted him.",
-      "group": "Art and Culture",
+      "group": "Cultural Themes",
       "color": "",
       "explanation": ""
     },
@@ -6234,7 +6234,7 @@
     {
       "name": "Architectural Struggle",
       "quote": "Mr. Scott was appalled; the style of the Italian renaissance was not only unsightly, it was positively immoral.",
-      "group": "Art and Culture",
+      "group": "Cultural Themes",
       "color": "",
       "explanation": ""
     },
@@ -6248,7 +6248,7 @@
     {
       "name": "Artistic Vision",
       "quote": "My idea in designing the Memorial was to erect a kind of ciborium to protect a statue of the Prince.",
-      "group": "Art and Culture",
+      "group": "Cultural Themes",
       "color": "",
       "explanation": ""
     },
@@ -6269,7 +6269,7 @@
     {
       "name": "Grief And Understanding",
       "quote": "he alone among public men had divined her feelings at Albert's death.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6325,7 +6325,7 @@
     {
       "name": "Personal Preference",
       "quote": "Her own personal feeling would be for the beards without the moustaches.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6402,14 +6402,14 @@
     {
       "name": "Royal Flattery",
       "quote": "You have heard me called a flatterer... Everyone likes flattery, and when you come to royalty you should lay it on with a trowel.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Royal Recognition",
       "quote": "her kind, good, and considerate friend",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6437,7 +6437,7 @@
     {
       "name": "Love And Loss",
       "quote": "I send some Osborne primroses.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6451,7 +6451,7 @@
     {
       "name": "Personal Solace",
       "quote": "For more and more did she find solace and refreshment in her Highland domain.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6465,7 +6465,7 @@
     {
       "name": "Transformation",
       "quote": "the public, as it watched the widowed mother weeping for her children and her friends, displayed a constantly increasing sympathy.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6486,7 +6486,7 @@
     {
       "name": "National Pride",
       "quote": "The Queen was hailed at once as the mother of her people and as the embodied symbol of their imperial greatness.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6500,14 +6500,14 @@
     {
       "name": "Personal Transformation",
       "quote": "A flood of new unwonted hopefulness swept over her.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Fatigue",
       "quote": "I am very tired, but very happy.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6528,42 +6528,42 @@
     {
       "name": "Public Distress",
       "quote": "the public distresses were felt with intimate solicitude by the Queen.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Courage And Confidence",
       "quote": "her spirit was high, and neither her courage nor her confidence wavered for a moment.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Dedication",
       "quote": "Throwing her self heart and soul into the struggle, she laboured with redoubled vigour.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Service",
       "quote": "sought by every means in her power to render service to the national cause.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Age And Resilience",
       "quote": "when she was in her eighty-first year.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Courageous Decision",
       "quote": "the extraordinary decision to abandon her annual visit to the South of France",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6577,7 +6577,7 @@
     {
       "name": "Aging",
       "quote": "time, to show signs of the fatigue of age.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6591,7 +6591,7 @@
     {
       "name": "Resilience",
       "quote": "Endowed by nature with a robust constitution.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6605,7 +6605,7 @@
     {
       "name": "Memory Decline",
       "quote": "Her memory, in whose strength and precision she had so long prided herself, now sometimes deserted her.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6619,7 +6619,7 @@
     {
       "name": "Endurance",
       "quote": "the indomitable spirit fought on",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
@@ -6640,7 +6640,7 @@
     {
       "name": "Memory",
       "quote": "Perhaps her fading mind called up once more the shadows of the past to float before it.",
-      "group": "Emotions",
+      "group": "Emotional Themes",
       "color": "",
       "explanation": ""
     },
