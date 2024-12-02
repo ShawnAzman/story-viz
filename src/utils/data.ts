@@ -49,6 +49,11 @@ export interface Character {
   numScenes?: number;
   top_scene?: number;
 }
+export interface CharacterLink {
+  source: string;
+  target: string;
+  value: number;
+}
 
 export interface Scene {
   number: number;
@@ -68,6 +73,7 @@ export interface Scene {
   allLocations?: {
     [key: string]: number;
   };
+  links?: CharacterLink[];
 }
 
 export interface LocationData {
@@ -166,6 +172,7 @@ const chapter_data = (all_data: any): Chapter[] => {
 
   return data;
 };
+
 const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
   const data = all_data["scenes"];
 
@@ -292,6 +299,31 @@ const chapter_scene_data = (
     const chap_scenes = scenes.filter(
       (scene) => scene.chapter === chapter.chapter
     );
+
+    let chap_links = [] as CharacterLink[];
+    chap_scenes.forEach((scene) => {
+      // Iterate over each character pair only once
+      scene.characters.forEach((scene_char, i) => {
+        for (let j = i + 1; j < scene.characters.length; j++) {
+          const scene_char2 = scene.characters[j];
+          const link = chap_links.find(
+            (l) =>
+              (l.source === scene_char.name && l.target === scene_char2.name) ||
+              (l.source === scene_char2.name && l.target === scene_char.name)
+          );
+          if (link) {
+            link.value += 1;
+          } else {
+            chap_links.push({
+              source: scene_char.name,
+              target: scene_char2.name,
+              value: 1,
+            });
+          }
+        }
+      });
+    });
+
     const sentiment =
       chap_scenes.reduce((a, b) => a + b.ratings.sentiment, 0) /
       chap_scenes.length;
@@ -315,6 +347,7 @@ const chapter_scene_data = (
       const sorted_scenes = scenes_with_char.sort(
         (a, b) => a.ratings.importance - b.ratings.importance
       );
+
       // get the character's emotion, quote, and rating from the first scene
       const top_scene = sorted_scenes[0];
       const top_index =
@@ -347,6 +380,7 @@ const chapter_scene_data = (
       };
     });
 
+    new_scene.links = chap_links;
     chapter_scenes.push(new_scene);
   });
 

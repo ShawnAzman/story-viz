@@ -89,7 +89,8 @@ function Sidebar() {
                   }
                 >
                   <i className="annotation">
-                    Ribbon thickness = relative importance of character in scene
+                    Ribbon thickness = relative importance of{" "}
+                    {themeView ? "theme" : "character"} in scene
                   </i>
                   <div style={{ marginBottom: "0.75rem" }}>
                     <Select

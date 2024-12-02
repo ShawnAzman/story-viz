@@ -498,7 +498,7 @@ h1 {
 #scene-overlay {
   position: fixed;
   padding: 0.5rem 0;
-  width: 660px;
+  width: 670px;
   font-size: x-small;
   z-index: 999;
   background: rgb(255, 255, 255, 0.9);
@@ -657,6 +657,11 @@ h1 {
     align-items: center;
     gap: 1rem;
     font-size: 11px;
+
+    .key-text {
+      font-size: smaller;
+      opacity: 0.7;
+    }
   }
 
   #scene-characters {

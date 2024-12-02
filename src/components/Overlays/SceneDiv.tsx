@@ -1,13 +1,21 @@
 import { useEffect, useState } from "react";
 import { dataStore } from "../../stores/dataStore";
 import { storyStore } from "../../stores/storyStore";
-import { getLLMColor } from "../../utils/colors";
+import {
+  emotionColor,
+  getColor,
+  getGroupColor,
+  getLLMColor,
+  importanceColor,
+} from "../../utils/colors";
 import { chapterFormatted, normalize } from "../../utils/helpers";
+import ChapterNetwork from "../Overlays/CharacterNetwork";
+import chroma from "chroma-js";
 
 function SceneDiv() {
   const { scene_data, minLines, maxLines, sceneSummaries, sortedCharacters } =
     dataStore();
-  const { sceneHover, chapterView, themeView } = storyStore();
+  const { sceneHover, chapterView, themeView, characterColor } = storyStore();
 
   const scene = scene_data.find((scene) => scene.name === sceneHover);
   const scene_index = scene_data.findIndex(
@@ -22,6 +30,9 @@ function SceneDiv() {
   const buffer = 30;
   const maxCharsToShow = 16;
 
+  const sortedGroups = sortedCharacters.map((char) => char.group);
+  const uniqueGroups = [...new Set(sortedGroups)];
+
   useEffect(() => {
     const handleMouseMove = (event: MouseEvent) => {
       event.preventDefault();
@@ -35,7 +46,7 @@ function SceneDiv() {
       let overlayHeight = overlay ? overlay.clientHeight : 0;
 
       const overlayWidth =
-        scene && scene.characters && scene.characters.length > 8 ? 750 : 660;
+        scene && scene.characters && scene.characters.length > 8 ? 750 : 670;
       const maxRight = overlayWidth + 2 * buffer;
 
       if (curX + maxRight > max_x) {
@@ -68,7 +79,10 @@ function SceneDiv() {
         sceneHover === ""
           ? "hidden"
           : "" +
-            (scene && scene.characters && scene.characters.length > 8
+            (scene &&
+            scene.characters &&
+            scene.characters.length > 8 &&
+            !chapterView
               ? " wide"
               : "")
       }
@@ -220,21 +234,29 @@ function SceneDiv() {
               {scene && scene.characters && scene.characters.length}
               {scene &&
                 scene.characters &&
-                scene.characters.length > maxCharsToShow && (
+                scene.characters.length > maxCharsToShow &&
+                !chapterView && (
                   <span>{" (top " + maxCharsToShow + " shown)"}</span>
                 )}
             </b>
+            {chapterView && (
+              <span className="key-text">
+                circle size = importance, line thickness = # of mutual scenes
+              </span>
+            )}
           </div>
           <div
             id="scene-char-inner"
             className={
-              scene && scene.characters && scene.characters.length > 8
+              scene &&
+              scene.characters &&
+              scene.characters.length > 8 &&
+              !chapterView
                 ? "two-col"
                 : ""
             }
           >
-            {scene &&
-              sceneSummary &&
+            {scene && !chapterView && sceneSummary ? (
               sceneSummary.emotions.slice(0, maxCharsToShow).map((char) => {
                 const character = scene.characters.find(
                   (c) => c.name === char.character
@@ -244,7 +266,20 @@ function SceneDiv() {
                 emotion = emotion.charAt(0).toUpperCase() + emotion.slice(1);
                 const rating = character.rating as number;
                 const rating_val_norm = normalize(rating, -1, 1, 0, 1);
-                const llmColor = getLLMColor(char.character, sortedCharacters);
+                const importance = character.importance as number;
+                const group = sortedCharacters.find(
+                  (c) => c.character === char.character
+                )?.group;
+
+                const charColor = getColor(char.character, sortedCharacters);
+                const llmColor =
+                  getLLMColor(char.character, sortedCharacters) || charColor;
+                const groupColor = group
+                  ? getGroupColor(group, uniqueGroups)
+                  : charColor;
+                const sent_color = chroma(emotionColor(rating)).css();
+                const imp_color = chroma(importanceColor(importance)).css();
+
                 // const top_scene = character.top_scene;
                 return (
                   <div key={char.character} className="character-info">
@@ -252,7 +287,18 @@ function SceneDiv() {
                       <b className="char-name">
                         <div
                           className="square"
-                          style={{ backgroundColor: llmColor }}
+                          style={{
+                            backgroundColor:
+                              characterColor === "llm"
+                                ? llmColor
+                                : characterColor === "group"
+                                ? groupColor
+                                : characterColor === "sentiment"
+                                ? sent_color
+                                : characterColor === "importance"
+                                ? imp_color
+                                : charColor,
+                          }}
                         />
                         <div>
                           {char.character}{" "}
@@ -309,7 +355,10 @@ function SceneDiv() {
                     </div>
                   </div>
                 );
-              })}
+              })
+            ) : (
+              <ChapterNetwork />
+            )}
           </div>
         </div>
       )}
