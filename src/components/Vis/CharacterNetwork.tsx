@@ -30,68 +30,62 @@ function CharacterNetwork() {
   const margin = 10;
   const char_width = 6;
 
-  const cur_scene = scene_data.find((d) => d.name === sceneHover);
-  const og_links = cur_scene?.links || [];
-
-  const cur_scene_characters = sceneCharacters.find(
-    (d) => d.scene === sceneHover
-  );
-  const scene_characters = cur_scene_characters?.characters || [];
-
-  const sortedGroups = sortedCharacters.map((char) => char.group);
-  const uniqueGroups = [...new Set(sortedGroups)];
-
-  const nodes = scene_characters.map((d) => {
-    const c_data = character_data.find((c) => c.character === d);
-    const group = c_data?.group;
-
-    const s_data = cur_scene?.characters.find((c) => c.name === d);
-    const emotion_val = s_data?.rating || 0;
-    const importance_val = s_data?.importance || 0;
-
-    const charColor = getColor(d, sortedCharacters);
-    const llmColor = getLLMColor(d, sortedCharacters) || charColor;
-    const groupColor = group ? getGroupColor(group, uniqueGroups) : charColor;
-    const emotion_color = chroma(emotionColor(emotion_val as number)).css();
-    const importance_color = chroma(
-      importanceColor(importance_val as number)
-    ).css();
-
-    return {
-      id: d,
-      group: group || "",
-      importance: importance_val,
-      color:
-        characterColor === "llm"
-          ? llmColor
-          : characterColor === "group"
-          ? groupColor
-          : characterColor === "sentiment"
-          ? emotion_color
-          : characterColor === "importance"
-          ? importance_color
-          : charColor,
-    };
-  }) as Node[];
-
-  const links = og_links.map((d) => ({
-    source: nodes.find((n) => n.id === d.source),
-    target: nodes.find((n) => n.id === d.target),
-    value: d.value,
-  }));
-  const min_val = d3.min(links, (d) => d.value) || 0;
-  const max_val = d3.max(links, (d) => d.value) || 1;
-  const min_importance = d3.min(nodes, (d) => d.importance) || 0;
-
   useEffect(() => {
-    if (
-      sceneHover === "" ||
-      !nodes ||
-      !links ||
-      nodes.length === 0 ||
-      links.length === 0
-    )
-      return;
+    if (sceneHover === "") return;
+
+    const cur_scene = scene_data.find((d) => d.name === sceneHover);
+    const og_links = cur_scene?.links || [];
+
+    const cur_scene_characters = sceneCharacters.find(
+      (d) => d.scene === sceneHover
+    );
+    const scene_characters = cur_scene_characters?.characters || [];
+
+    const sortedGroups = sortedCharacters.map((char) => char.group);
+    const uniqueGroups = [...new Set(sortedGroups)];
+
+    const nodes = scene_characters.map((d) => {
+      const c_data = character_data.find((c) => c.character === d);
+      const group = c_data?.group;
+
+      const s_data = cur_scene?.characters.find((c) => c.name === d);
+      const emotion_val = s_data?.rating || 0;
+      const importance_val = s_data?.importance || 0;
+
+      const charColor = getColor(d, sortedCharacters);
+      const llmColor = getLLMColor(d, sortedCharacters) || charColor;
+      const groupColor = group ? getGroupColor(group, uniqueGroups) : charColor;
+      const emotion_color = chroma(emotionColor(emotion_val as number)).css();
+      const importance_color = chroma(
+        importanceColor(importance_val as number)
+      ).css();
+
+      return {
+        id: d,
+        group: group || "",
+        importance: importance_val,
+        color:
+          characterColor === "llm"
+            ? llmColor
+            : characterColor === "group"
+            ? groupColor
+            : characterColor === "sentiment"
+            ? emotion_color
+            : characterColor === "importance"
+            ? importance_color
+            : charColor,
+      };
+    }) as Node[];
+
+    const links = og_links.map((d) => ({
+      source: nodes.find((n) => n.id === d.source),
+      target: nodes.find((n) => n.id === d.target),
+      value: d.value,
+    }));
+
+    const min_val = d3.min(links, (d) => d.value) || 0;
+    const max_val = d3.max(links, (d) => d.value) || 1;
+    const min_importance = d3.min(nodes, (d) => d.importance) || 0;
 
     const svgElement = svgRef.current;
     if (!svgElement) return;
@@ -248,7 +242,7 @@ function CharacterNetwork() {
       window.removeEventListener("resize", updateDimensions);
       simulation.stop(); // Clean up the simulation on unmount
     };
-  }, [nodes, links]);
+  }, [sceneHover]);
 
   return <svg ref={svgRef} />;
 }

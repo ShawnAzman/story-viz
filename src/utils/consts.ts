@@ -3,6 +3,8 @@ import { Position } from "./positions";
 /* CONSTS */
 export const med_conflict_font = "'Shantell Sans', cursive";
 export const high_conflict_font = "'Handjet', sans-serif";
+export const scene_overlay_width = 670;
+export const scene_overlay_width_wide = 750;
 
 export const location_height = 100;
 export const location_offset = location_height / 5;

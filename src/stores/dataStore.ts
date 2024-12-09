@@ -48,7 +48,7 @@ interface IStore {
   num_chapters: number;
   activeChapters: [number, number];
 
-  setData: (val: any, val2: boolean) => void;
+  setData: (val: any, val2: boolean, val3: string) => void;
   setActiveChapters: (val: [number, number]) => void;
   resetActiveChapters: (val: number) => void;
 }
@@ -85,8 +85,12 @@ const initialState = {
 
 export const dataStore = create<IStore>((set) => ({
   ...initialState,
-  setData: (init_data: any, chapterView: boolean = false) => {
-    const newData = getAllData(init_data, chapterView);
+  setData: (
+    init_data: any,
+    chapterView: boolean = false,
+    chapter: string = ""
+  ) => {
+    const newData = getAllData(init_data, chapterView, chapter);
     set({
       data: init_data,
       scene_data: newData.scene_data,

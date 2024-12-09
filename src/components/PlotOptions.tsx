@@ -145,7 +145,7 @@ function PlotOptions() {
           setThemeView(false);
         }
 
-        setData(new_data.default, viewChapters);
+        setData(new_data.default, viewChapters, "");
         setChapterView(viewChapters);
 
         // reset the following values
@@ -173,7 +173,7 @@ function PlotOptions() {
   }, [story]);
 
   useEffect(() => {
-    setData(data, chapterView);
+    setData(data, chapterView, "");
   }, [chapterView]);
 
   useEffect(() => {

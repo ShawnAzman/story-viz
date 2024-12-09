@@ -12,6 +12,10 @@ import { chapterFormatted, normalize } from "../../utils/helpers";
 import ChapterNetwork from "../Vis/CharacterNetwork";
 import chroma from "chroma-js";
 import LocationChart from "../Vis/LocationChart";
+import {
+  scene_overlay_width,
+  scene_overlay_width_wide,
+} from "../../utils/consts";
 
 function SceneDiv() {
   const { scene_data, minLines, maxLines, sceneSummaries, sortedCharacters } =
@@ -48,8 +52,8 @@ function SceneDiv() {
 
       const overlayWidth =
         scene && scene.characters && scene.characters.length > 8 && !chapterView
-          ? 750
-          : 670;
+          ? scene_overlay_width_wide
+          : scene_overlay_width;
       const maxRight = overlayWidth + 2 * buffer;
 
       if (curX + maxRight > max_x) {

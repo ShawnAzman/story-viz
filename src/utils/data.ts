@@ -173,9 +173,18 @@ const chapter_data = (all_data: any): Chapter[] => {
   return data;
 };
 
-const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
-  const data = all_data["scenes"];
+const scene_data = (
+  all_data: any,
+  chapter_data: Chapter[],
+  chapter: string = ""
+): Scene[] => {
+  let data = all_data["scenes"];
 
+  if (chapter !== "") {
+    console.log("filtering scenes by chapter", chapter);
+    data = data.filter((scene: any) => scene.chapter === chapter);
+    console.log("filtered scenes", data);
+  }
   const max_characters_per_scene = Math.max(
     ...data.map((scene: any) => scene.characters.length)
   );
@@ -771,9 +780,13 @@ const getChapterDivisions = (
 };
 
 // generate all data and return
-export const getAllData = (init_data: any, chapterView: boolean) => {
+export const getAllData = (
+  init_data: any,
+  chapterView: boolean,
+  chapter: string = ""
+) => {
   const init_chapter_data = chapter_data(init_data);
-  let init_scene_data = scene_data(init_data, init_chapter_data);
+  let init_scene_data = scene_data(init_data, init_chapter_data, chapter);
   const init_chapter_scene_data = chapter_scene_data(
     init_chapter_data,
     init_scene_data
