@@ -165,3 +165,9 @@ export const extractChapterName = (fullChapterName: string) => {
   // If a match is found, return it, otherwise return an empty string or handle it as needed
   return match ? match[0] : fullChapterName;
 };
+
+export const isSameStory = (story1: string, story2: string) => {
+  const story1_ = story1.replace("-themes", "");
+  const story2_ = story2.replace("-themes", "");
+  return story1_ === story2_;
+};

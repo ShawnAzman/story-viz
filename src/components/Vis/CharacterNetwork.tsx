@@ -49,7 +49,6 @@ function CharacterNetwork(props: any) {
   const uniqueGroups = [...new Set(sortedGroups)];
 
   useEffect(() => {
-    console.log("cur_scene", cur_scene?.name);
     const og_links = cur_scene?.links || [];
 
     const scene_characters = cur_scene?.characters || [];

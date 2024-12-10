@@ -1,11 +1,12 @@
 import { Select, Divider, Button, Switch } from "@mantine/core";
 import { storyStore } from "../../stores/storyStore";
 import { dataStore } from "../../stores/dataStore";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { positionStore } from "../../stores/positionStore";
 import Sidebar from "../Sidebar";
 import LocationDiv from "../Overlays/LocationDiv";
 import CharacterDiv from "../Overlays/CharacterDiv";
+import { isSameStory } from "../../utils/helpers";
 
 function PlotOptions() {
   const {
@@ -128,20 +129,28 @@ function PlotOptions() {
     { label: "sentiment", value: "sentiment" },
   ];
 
+  const [prevStory, setPrevStory] = useState(story);
+
   const handleStoryChange = async () => {
     try {
       const new_data = await import(`../../data/${story}.json`);
       // update data once story is loaded
       if (data !== new_data.default) {
         let viewChapters = false;
+        const sameStory = isSameStory(story, prevStory);
+        if (!sameStory) {
+          setPrevStory(story);
+        }
+
         if (
           new_data.default["chapters"] &&
-          new_data.default["chapters"].length > 0
+          new_data.default["chapters"].length > 0 &&
+          (!sameStory || (sameStory && chapterView))
         ) {
           viewChapters = true;
         }
 
-        if (!viewChapters && detailView) {
+        if (!viewChapters && detailView && !sameStory) {
           setDetailView(false);
         }
 
@@ -153,7 +162,11 @@ function PlotOptions() {
           setThemeView(false);
         }
 
-        setData(new_data.default, viewChapters, "");
+        let chapter = "";
+        if (chapterHover !== "" && !chapterView && detailView) {
+          chapter = chapterHover;
+        }
+        setData(new_data.default, viewChapters, chapter);
         setChapterView(viewChapters);
 
         // reset the following values
@@ -163,7 +176,10 @@ function PlotOptions() {
         setCharacterHover("");
         setSceneHover("");
         setGroupHover("");
-        setChapterHover("");
+
+        if (!sameStory) {
+          setChapterHover("");
+        }
       }
     } catch (error) {
       console.log("Error loading story data", error);
@@ -187,7 +203,7 @@ function PlotOptions() {
       chapter = chapterHover;
     }
     setData(data, chapterView, chapter);
-  }, [chapterView, detailView]);
+  }, [chapterView, detailView, chapterHover]);
 
   useEffect(() => {
     if (themeView) {
