@@ -975,6 +975,10 @@ h1 {
     font-size: calc(0.8rem + 0.1vw);
     transform-origin: 0 0;
 
+    .frozen {
+      pointer-events: none;
+    }
+
     .faded {
       &.legend-item {
         opacity: 0.3;
@@ -1082,7 +1086,8 @@ h1 {
     .scene-box {
       transition: 0.3s;
       &:hover,
-      &.highlight {
+      &.highlight,
+      &.frozen {
         stroke-opacity: 1;
       }
     }
@@ -1320,7 +1325,12 @@ h1 {
     height: 1.6rem;
 
     button {
+      transition: 0.3s !important;
       background: transparent !important;
+
+      &:hover {
+        opacity: 0.7;
+      }
     }
   }
 

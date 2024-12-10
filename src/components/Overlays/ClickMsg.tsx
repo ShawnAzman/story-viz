@@ -55,7 +55,7 @@ function ClickMsg() {
         top: mousePosition.y + "px",
       }}
     >
-      Click to lock 🔒
+      Click to lock!
     </div>
   );
 }

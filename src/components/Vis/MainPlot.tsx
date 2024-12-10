@@ -363,6 +363,11 @@ function MainPlot() {
                   scene.characters.includes(characterHover) ||
                   scene.groups.includes(groupHover)
                     ? "highlight"
+                    : "") +
+                  (frozenScene &&
+                  frozenScene.scene &&
+                  frozenScene.scene.name === scene.scene
+                    ? " frozen"
                     : "")
                 }
                 x={activeSceneBoxes[i].x}
@@ -371,6 +376,13 @@ function MainPlot() {
                 height={activeSceneBoxes[i].height}
                 fillOpacity={0}
                 strokeOpacity={0}
+                strokeDasharray={
+                  frozenScene &&
+                  frozenScene.scene &&
+                  frozenScene.scene.name === scene.scene
+                    ? "4"
+                    : "0"
+                }
                 stroke={"rgb(0,0,0,0.7)"}
                 strokeWidth={2}
                 key={"scenegroup" + i}

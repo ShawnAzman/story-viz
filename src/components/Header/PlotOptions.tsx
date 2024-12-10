@@ -226,7 +226,10 @@ function PlotOptions() {
             label={"Detail view"}
             labelPosition="left"
             checked={detailView}
-            disabled={!story.includes("-new")}
+            disabled={
+              !story.includes("-new") ||
+              (!chapterView && (!frozenScene || !frozenScene.scene))
+            }
             onChange={(event) => setDetailView(event.currentTarget.checked)}
           />
           <Switch

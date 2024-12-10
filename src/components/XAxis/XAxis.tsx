@@ -291,7 +291,14 @@ function XAxis() {
                     textAnchor="end"
                     key={"scene" + i + j}
                     fill={color}
-                    className="scene-name-text"
+                    className={
+                      "scene-name-text " +
+                      (frozenScene &&
+                      frozenScene.scene &&
+                      frozenScene.scene.name === scene
+                        ? "frozen"
+                        : "")
+                    }
                     fontSize={"calc(" + fontSize + "rem + 0.1vw)"}
                     // letterSpacing={letterSpacing}
                     fontWeight={weight}
@@ -312,6 +319,10 @@ function XAxis() {
                     onMouseLeave={() => setSceneHover("")}
                     onClick={() => updateFrozenScene(scene)}
                   >
+                    {frozenScene &&
+                      frozenScene.scene &&
+                      frozenScene.scene.name === scene &&
+                      "⭐ "}
                     {chunk}
                   </text>
                 )
