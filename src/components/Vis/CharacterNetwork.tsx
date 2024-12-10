@@ -11,6 +11,7 @@ import {
   importanceColor,
 } from "../../utils/colors";
 import chroma from "chroma-js";
+import { Scene } from "../../utils/data";
 
 type Node = {
   id: string;
@@ -21,28 +22,42 @@ type Node = {
   y?: number;
 };
 
-function CharacterNetwork() {
-  const { sceneHover, characterColor } = storyStore();
+function CharacterNetwork(props: any) {
+  const { sceneHover, characterColor, frozenScene, detailView, chapterView } =
+    storyStore();
   const { scene_data, sceneCharacters, character_data, sortedCharacters } =
     dataStore();
   const svgRef = useRef<SVGSVGElement | null>(null);
 
-  const margin = 10;
+  const def_margin = 10;
   const char_width = 6;
+  const inSidebar = props.inSidebar || false;
+
+  let cur_scene: Scene | undefined;
+  let cur_scene_characters;
+  if (
+    inSidebar &&
+    detailView &&
+    (!chapterView || sceneHover === "") &&
+    frozenScene &&
+    frozenScene.scene
+  ) {
+    cur_scene = frozenScene.scene;
+    cur_scene_characters = sceneCharacters.find(
+      (d) => d.scene === cur_scene?.name
+    );
+  } else {
+    cur_scene = scene_data.find((d) => d.name === sceneHover);
+    cur_scene_characters = sceneCharacters.find((d) => d.scene === sceneHover);
+  }
+
+  const sortedGroups = sortedCharacters.map((char) => char.group);
+  const uniqueGroups = [...new Set(sortedGroups)];
 
   useEffect(() => {
-    if (sceneHover === "") return;
-
-    const cur_scene = scene_data.find((d) => d.name === sceneHover);
     const og_links = cur_scene?.links || [];
 
-    const cur_scene_characters = sceneCharacters.find(
-      (d) => d.scene === sceneHover
-    );
     const scene_characters = cur_scene_characters?.characters || [];
-
-    const sortedGroups = sortedCharacters.map((char) => char.group);
-    const uniqueGroups = [...new Set(sortedGroups)];
 
     const nodes = scene_characters.map((d) => {
       const c_data = character_data.find((c) => c.character === d);
@@ -85,7 +100,8 @@ function CharacterNetwork() {
 
     const min_val = d3.min(links, (d) => d.value) || 0;
     const max_val = d3.max(links, (d) => d.value) || 1;
-    const min_importance = d3.min(nodes, (d) => d.importance) || 0;
+    let min_importance = d3.min(nodes, (d) => d.importance) || 0;
+    min_importance = min_importance === 1 ? 0 : min_importance;
 
     const svgElement = svgRef.current;
     if (!svgElement) return;
@@ -96,6 +112,7 @@ function CharacterNetwork() {
     const width = parentElement.offsetWidth;
     // const height = parentElement.offsetHeight;
     const height = 300;
+    const margin = def_margin;
 
     const svg = d3
       .select(svgRef.current)
@@ -129,6 +146,9 @@ function CharacterNetwork() {
             margin,
             width - margin
           );
+          if (Number.isNaN(node.x)) {
+            node.x = width / 2;
+          }
           node.y = normalize(
             node.y || 0,
             yExtent[0],
@@ -136,6 +156,9 @@ function CharacterNetwork() {
             margin,
             height - margin
           );
+          if (Number.isNaN(node.y)) {
+            node.y = height / 2;
+          }
         });
 
         // Update positions
@@ -183,7 +206,6 @@ function CharacterNetwork() {
       .attr("stroke", "#ddd")
       .attr("stroke-width", (d) => normalize(d.value, min_val, max_val, 1, 8))
       .attr("stroke-opacity", 0.75);
-
     const node = svg
       .append("g")
       .selectAll("circle")
@@ -242,7 +264,7 @@ function CharacterNetwork() {
       window.removeEventListener("resize", updateDimensions);
       simulation.stop(); // Clean up the simulation on unmount
     };
-  }, [sceneHover]);
+  }, [cur_scene]);
 
   return <svg ref={svgRef} />;
 }

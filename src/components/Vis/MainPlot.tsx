@@ -26,6 +26,10 @@ function MainPlot() {
     fullHeight,
     story,
     groupHover,
+    chapterView,
+    detailView,
+    setFrozenScene,
+    frozenScene,
   } = storyStore();
   const {
     sceneBoxes,
@@ -46,6 +50,8 @@ function MainPlot() {
     sortedCharacters,
     activeChapters,
     chapterDivisions,
+    minLines,
+    maxLines,
   } = dataStore();
 
   const activeChapterDivisions = chapterDivisions.filter(
@@ -68,6 +74,19 @@ function MainPlot() {
 
   const sortedGroups = sortedCharacters.map((char) => char.group);
   const uniqueGroups = [...new Set(sortedGroups)];
+
+  const updateFrozenScene = (sceneName: string) => {
+    if (chapterView && detailView) {
+      const scene = scene_data.find((s) => s.name === sceneName);
+      if (scene && frozenScene && scene !== frozenScene.scene) {
+        setFrozenScene({
+          scene: scene,
+          minLines: minLines,
+          maxLines: maxLines,
+        });
+      }
+    }
+  };
 
   return (
     <g id="main-plot">
@@ -357,6 +376,7 @@ function MainPlot() {
                 key={"scenegroup" + i}
                 onMouseEnter={() => setSceneHover(scene.scene)}
                 onMouseLeave={() => setSceneHover("")}
+                onClick={() => updateFrozenScene(scene.scene)}
               />
             )
         )}

@@ -48,6 +48,10 @@ function XAxis() {
     showOverlay,
     showChapters,
     groupHover,
+    frozenScene,
+    setFrozenScene,
+    chapterView,
+    detailView,
   } = storyStore();
 
   const { scenePos } = positionStore();
@@ -82,6 +86,19 @@ function XAxis() {
       numScenesInLastActiveChapter
   );
   const maxChars = 24;
+
+  const updateFrozenScene = (sceneName: string) => {
+    if (chapterView && detailView) {
+      const scene = scene_data.find((s) => s.name === sceneName);
+      if (scene && frozenScene && scene !== frozenScene.scene) {
+        setFrozenScene({
+          scene: scene,
+          minLines: minLines,
+          maxLines: maxLines,
+        });
+      }
+    }
+  };
 
   return (
     <g
@@ -293,6 +310,7 @@ function XAxis() {
                     }
                     onMouseEnter={() => setSceneHover(scene)}
                     onMouseLeave={() => setSceneHover("")}
+                    onClick={() => updateFrozenScene(scene)}
                   >
                     {chunk}
                   </text>

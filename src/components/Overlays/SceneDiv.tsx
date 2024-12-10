@@ -9,7 +9,7 @@ import SceneDivInner from "./SceneDivInner";
 
 function SceneDiv() {
   const { scene_data } = dataStore();
-  const { sceneHover, chapterView } = storyStore();
+  const { sceneHover, chapterView, detailView } = storyStore();
 
   const scene = scene_data.find((scene) => scene.name === sceneHover);
 
@@ -56,13 +56,13 @@ function SceneDiv() {
     return () => {
       window.removeEventListener("mousemove", handleMouseMove);
     };
-  }, [scene]);
+  }, [sceneHover]);
 
   return (
     <div
       id="scene-overlay"
       className={
-        sceneHover === ""
+        sceneHover === "" || (chapterView && detailView)
           ? "hidden"
           : "" +
             (scene &&

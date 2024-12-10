@@ -181,9 +181,7 @@ const scene_data = (
   let data = all_data["scenes"];
 
   if (chapter !== "") {
-    console.log("filtering scenes by chapter", chapter);
     data = data.filter((scene: any) => scene.chapter === chapter);
-    console.log("filtered scenes", data);
   }
   const max_characters_per_scene = Math.max(
     ...data.map((scene: any) => scene.characters.length)

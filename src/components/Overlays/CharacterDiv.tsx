@@ -9,10 +9,17 @@ import {
 } from "../../utils/colors";
 import { onlyLetters } from "../../utils/helpers";
 import ImageDiv from "../ImageDiv";
+import { scene_overlay_width } from "../../utils/consts";
 
 function CharacterDiv() {
-  const { characterHover, characterColor, story, storyMarginTop, sidebarOpen } =
-    storyStore();
+  const {
+    characterHover,
+    characterColor,
+    story,
+    storyMarginTop,
+    sidebarOpen,
+    detailView,
+  } = storyStore();
   const { character_data, sortedCharacters } = dataStore();
 
   const [accentColor, setAccentColor] = useState("rgb(0, 0, 0)");
@@ -97,7 +104,13 @@ function CharacterDiv() {
         borderColor: accentColor.split(")")[0] + ", 0.3)",
         marginTop: "calc(" + marginTop + "px + 1rem)",
         top: storyMarginTop,
-        right: sidebarOpen ? "calc(440px + 1rem)" : "1rem",
+        right: `calc(${
+          sidebarOpen
+            ? "440px"
+            : detailView
+            ? scene_overlay_width + "px + 1rem"
+            : "0px"
+        } + 1rem)`,
       }}
       className={characterHover !== "" ? "" : "hidden"}
       onMouseEnter={(e) => {

@@ -7,6 +7,7 @@ import {
   location_buffer,
   location_height,
   location_offset,
+  scene_overlay_width,
 } from "../../utils/consts";
 import OverlayCurve from "../Vis/OverlayCurve";
 import XAxis from "./XAxis";
@@ -23,6 +24,7 @@ function XAxisSVG() {
     setStoryScrollX,
     chapterView,
     storyMarginTop,
+    detailView,
   } = storyStore();
 
   const ratio = yAxisHeight / plotHeight;
@@ -48,6 +50,20 @@ function XAxisSVG() {
     }
   }, [storyScrollX]);
 
+  useEffect(() => {
+    if (document) {
+      const elem = document.getElementById("x-axis-outer");
+      if (elem) {
+        // Set the CSS variable for the dynamic width
+        elem.style.setProperty(
+          "--extra-left-width",
+          `calc(${margin}px + 1rem)`
+        );
+        elem.classList.add("extra-left");
+      }
+    }
+  }, [margin]);
+
   const handleScroll = (e: HTMLElement) => {
     const scroll = e.scrollLeft;
     setStoryScrollX(scroll);
@@ -55,8 +71,10 @@ function XAxisSVG() {
   return (
     <div
       id="x-axis-outer"
+      className={detailView ? "extra-left" : ""}
       style={{
         paddingLeft: `calc(${margin}px - 1rem)`,
+        width: `calc(100% - 3rem - ${detailView ? scene_overlay_width : 0}px)`,
         bottom:
           fullHeight ||
           (window &&
@@ -75,7 +93,13 @@ function XAxisSVG() {
     >
       <svg
         id="story"
-        width={!fullHeight ? "100%" : plotWidth * ratio}
+        width={
+          detailView
+            ? `calc(100% + ${scene_overlay_width}px)`
+            : !fullHeight
+            ? "100%"
+            : plotWidth * ratio
+        }
         viewBox={`0 0 ${plotWidth} ${
           location_height * 2.5 -
           character_height +

@@ -9,20 +9,53 @@ import {
   importanceColor,
 } from "../../utils/colors";
 import { chapterFormatted, normalize } from "../../utils/helpers";
-import ChapterNetwork from "../Vis/CharacterNetwork";
+import CharacterNetwork from "../Vis/CharacterNetwork";
 import LocationChart from "../Vis/LocationChart";
 
-function SceneDivInner() {
+function SceneDivInner(props: any) {
   const { scene_data, minLines, maxLines, sceneSummaries, sortedCharacters } =
     dataStore();
-  const { sceneHover, chapterView, themeView, characterColor } = storyStore();
+  const {
+    sceneHover,
+    chapterView,
+    themeView,
+    characterColor,
+    detailView,
+    frozenScene,
+  } = storyStore();
 
-  const scene = scene_data.find((scene) => scene.name === sceneHover);
+  let scene;
+  const inSidebar = props.inSidebar || false;
+
+  if (
+    inSidebar &&
+    detailView &&
+    (!chapterView || sceneHover === "") &&
+    frozenScene &&
+    frozenScene.scene
+  ) {
+    scene = frozenScene.scene;
+  } else {
+    scene = scene_data.find((scene) => scene.name === sceneHover);
+  }
   const scene_index = scene_data.findIndex(
     (scene) => scene.name === sceneHover
   );
   const numLines = scene ? scene.numLines : 0;
-  const lengthVal = normalize(numLines, minLines, maxLines, 0, 1);
+  let min_lines = minLines;
+  let max_lines = maxLines;
+  if (
+    inSidebar &&
+    detailView &&
+    (!chapterView || sceneHover === "") &&
+    frozenScene &&
+    frozenScene.minLines &&
+    frozenScene.maxLines
+  ) {
+    min_lines = frozenScene.minLines;
+    max_lines = frozenScene.maxLines;
+  }
+  const lengthVal = normalize(numLines, min_lines, max_lines, 0, 1);
   const sceneSummary = sceneSummaries[scene_index];
 
   const maxCharsToShow = 16;
@@ -32,37 +65,54 @@ function SceneDivInner() {
 
   return (
     <>
-      {scene && (
-        <div id="scene-info">
+      {(scene || detailView) && (
+        <div
+          id="scene-info"
+          className={
+            detailView &&
+            sceneHover === "" &&
+            (!frozenScene || !frozenScene.scene)
+              ? "transparent"
+              : ""
+          }
+        >
           <div id="scene-header">
-            <b>
-              {chapterView
-                ? chapterFormatted(scene.chapter)
-                  ? scene.chapter
-                  : "Chapter " + scene.chapter
-                : `Scene ${scene.number}: ${scene.name}`}
-            </b>
-            {!chapterView && scene.chapter && (
+            {scene && scene.chapter && (
+              <b>
+                {chapterView || inSidebar
+                  ? chapterFormatted(scene.chapter)
+                    ? scene.chapter
+                    : "Chapter " + scene.chapter
+                  : `Scene ${scene.number}: ${scene.name}`}
+              </b>
+            )}
+            {scene && !chapterView && !inSidebar && scene.chapter && (
               <b style={{ fontWeight: 600 }}>
                 {chapterFormatted(scene.chapter)
                   ? scene.chapter
                   : "Chapter " + scene.chapter}
               </b>
             )}
-            {chapterView && scene.numScenes && (
+            {(chapterView || inSidebar) && scene && scene.numScenes && (
               <b style={{ fontWeight: 600 }}>
                 {"Total Scenes: " + scene.numScenes}
               </b>
             )}
+            {detailView &&
+              inSidebar &&
+              sceneHover === "" &&
+              (!frozenScene || !frozenScene.scene) && (
+                <p>Hover on a chapter to see more details! Click to lock it.</p>
+              )}
           </div>
-          <p>{scene.summary}</p>
-          {!chapterView && (
+          <p>{scene && scene.summary}</p>
+          {!chapterView && !inSidebar && (
             <p>
               <b style={{ fontWeight: 600 }}>
                 {chapterView && "Main "}Location:
               </b>{" "}
-              {scene.location}{" "}
-              {chapterView && scene.allLocations && (
+              {scene && scene.location}{" "}
+              {chapterView && scene && scene.allLocations && (
                 <span style={{ opacity: 0.7 }}>
                   {"(" +
                     scene.allLocations[scene.location] +
@@ -75,17 +125,17 @@ function SceneDivInner() {
           )}
           {/* <b style={{ fontWeight: 600 }}>Ratings:</b> */}
           <div id="scene-ratings">
-            {sceneHover !== "" && (
+            {((frozenScene && frozenScene.scene) || sceneHover !== "") && (
               <div className="rating-outer">
                 <div className={"rating-colorbar"}>
-                  <span className="min">{minLines}</span>
+                  <span className="min">{min_lines}</span>
                   <div className={"bar "}>
                     <div
                       className="tip"
                       style={{ left: `${lengthVal * 100}%` }}
                     />
                   </div>
-                  <span className="max">{maxLines}</span>
+                  <span className="max">{max_lines}</span>
                 </div>
                 <div
                   className="rating-box"
@@ -107,6 +157,7 @@ function SceneDivInner() {
               </div>
             )}
             {scene &&
+              scene.ratings &&
               Object.keys(scene.ratings).map((rating) => {
                 const rating_val = (scene.ratings as Record<string, number>)[
                   rating
@@ -171,9 +222,12 @@ function SceneDivInner() {
         </div>
       )}
 
-      {sceneHover !== "" && (
+      {((frozenScene && frozenScene.scene) || sceneHover !== "") && (
         <div id="scene-characters">
-          <div id="scene-header" className={chapterView ? "split" : ""}>
+          <div
+            id="scene-header"
+            className={chapterView || inSidebar ? "split" : ""}
+          >
             <div className="character-header">
               <b>
                 {themeView ? "Themes" : "Characters"}:{" "}
@@ -185,13 +239,13 @@ function SceneDivInner() {
                     <span>{" (top " + maxCharsToShow + " shown)"}</span>
                   )}
               </b>
-              {chapterView && (
+              {(chapterView || inSidebar) && (
                 <span className="key-text">
                   circle size = importance, line thickness = # of mutual scenes
                 </span>
               )}
             </div>
-            {chapterView && (
+            {(chapterView || inSidebar) && (
               <b>
                 Locations:{" "}
                 {scene &&
@@ -203,14 +257,14 @@ function SceneDivInner() {
           <div
             id="scene-char-inner"
             className={
-              chapterView
+              chapterView || inSidebar
                 ? "split"
                 : scene && scene.characters && scene.characters.length > 8
                 ? "two-col"
                 : ""
             }
           >
-            {scene && !chapterView && sceneSummary ? (
+            {scene && !chapterView && !inSidebar && sceneSummary ? (
               sceneSummary.emotions.slice(0, maxCharsToShow).map((char) => {
                 const character = scene.characters.find(
                   (c) => c.name === char.character
@@ -313,9 +367,9 @@ function SceneDivInner() {
             ) : (
               <>
                 <div>
-                  <ChapterNetwork />
+                  <CharacterNetwork inSidebar={inSidebar} />
                 </div>
-                <LocationChart />
+                <LocationChart inSidebar={inSidebar} />
               </>
             )}
           </div>

@@ -1,20 +1,21 @@
 import { useRef, useEffect } from "react";
 import "./App.scss";
-import PlotOptions from "./components/PlotOptions";
-import StoryVis from "./components/StoryVis";
+import PlotOptions from "./components/Header/PlotOptions";
+import StoryVis from "./components/Vis/StoryVis";
 import { dataStore } from "./stores/dataStore";
-import { Button, Divider } from "@mantine/core";
-import { FiFileText } from "react-icons/fi";
 import YAxisDiv from "./components/YAxis/YAxisDiv";
 import { storyStore } from "./stores/storyStore";
 import { positionStore } from "./stores/positionStore";
-import { location_height } from "./utils/consts";
+import { location_height, scene_overlay_width } from "./utils/consts";
 import SceneDiv from "./components/Overlays/SceneDiv";
 import SceneOptions from "./components/XAxis/SceneOptions";
 import AuthWrapper from "./components/AuthWrapper";
+import ChapterSidebar from "./components/Overlays/ChapterSidebar";
+import StoryInfo from "./components/Header/StoryInfo";
+import ClickMsg from "./components/Overlays/ClickMsg";
 
 function App() {
-  const { data, scene_data } = dataStore();
+  const { scene_data } = dataStore();
   const { plotHeight } = positionStore();
   const {
     setStoryMarginTop,
@@ -28,6 +29,7 @@ function App() {
     showOverlay,
     showLegend,
     chapterView,
+    detailView,
   } = storyStore();
   const headerRef = useRef<HTMLDivElement>(null);
 
@@ -81,45 +83,7 @@ function App() {
       <div id="app">
         <div id="header-container" ref={headerRef}>
           <header>
-            <div id="story-header">
-              <a href={data["url"]} target="_blank" title={data["title"]}>
-                <img
-                  src={data["image"]}
-                  alt={data["title"]}
-                  className="story-image"
-                />
-              </a>
-              <div id="story-info">
-                <h1>
-                  {data["title"]}
-                  {/* {story.includes("-themes") ? " (Themes)" : ""} */}
-                </h1>
-                <span>
-                  {data["author"] ? data["author"] : data["director"]}{" "}
-                  <Divider orientation="vertical" /> {data["year"]}{" "}
-                  {data["url"] && (
-                    <>
-                      <Divider orientation="vertical" />{" "}
-                      <a
-                        href={data["url"]}
-                        target="_blank"
-                        title={data["title"]}
-                      >
-                        <Button
-                          size="xs compact"
-                          variant="light"
-                          id="info-button"
-                          leftSection={<FiFileText />}
-                        >
-                          Full {data["type"] === "Movie" ? "Script" : "Text"}
-                        </Button>
-                      </a>
-                    </>
-                  )}
-                </span>
-              </div>
-            </div>
-
+            <StoryInfo />
             <PlotOptions />
           </header>
           {/* <LegendDiv /> */}
@@ -129,7 +93,9 @@ function App() {
           id="story-contain"
           style={{
             marginTop: storyMarginTop,
-            width: `calc(100% - ${margin}px)`,
+            width: `calc(100% - ${
+              margin + (detailView ? scene_overlay_width : 0)
+            }px)`,
             marginLeft: `calc(${margin}px - 1rem`,
             marginBottom:
               fullHeight ||
@@ -153,8 +119,11 @@ function App() {
           <YAxisDiv />
           <StoryVis />
         </div>
+
+        <ChapterSidebar />
         <SceneOptions />
         <SceneDiv />
+        <ClickMsg />
       </div>
     </AuthWrapper>
   );

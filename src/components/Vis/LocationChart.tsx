@@ -1,11 +1,24 @@
 import { dataStore } from "../../stores/dataStore";
 import { storyStore } from "../../stores/storyStore";
 
-function LocationChart() {
+function LocationChart(props: any) {
   const { scene_data, location_data } = dataStore();
-  const { sceneHover } = storyStore();
+  const { sceneHover, frozenScene, detailView, chapterView } = storyStore();
 
-  const scene = scene_data.find((scene) => scene.name === sceneHover);
+  const inSidebar = props.inSidebar || false;
+
+  let scene;
+  if (
+    inSidebar &&
+    detailView &&
+    (!chapterView || sceneHover === "") &&
+    frozenScene &&
+    frozenScene.scene
+  ) {
+    scene = frozenScene.scene;
+  } else {
+    scene = scene_data.find((scene) => scene.name === sceneHover);
+  }
   const locationDict = scene?.allLocations || {};
 
   const maxCount = Math.max(...Object.values(locationDict), 0); // Find the maximum count for scaling

@@ -1,11 +1,11 @@
 import { Select, Divider, Button, Switch } from "@mantine/core";
-import { storyStore } from "../stores/storyStore";
-import { dataStore } from "../stores/dataStore";
+import { FrozenScene, storyStore } from "../../stores/storyStore";
+import { dataStore } from "../../stores/dataStore";
 import { useEffect } from "react";
-import { positionStore } from "../stores/positionStore";
-import Sidebar from "./Sidebar";
-import LocationDiv from "./Overlays/LocationDiv";
-import CharacterDiv from "./Overlays/CharacterDiv";
+import { positionStore } from "../../stores/positionStore";
+import Sidebar from "../Sidebar";
+import LocationDiv from "../Overlays/LocationDiv";
+import CharacterDiv from "../Overlays/CharacterDiv";
 
 function PlotOptions() {
   const {
@@ -26,6 +26,10 @@ function PlotOptions() {
     themeView,
     setThemeView,
     setMinimized,
+    detailView,
+    setDetailView,
+    setFrozenScene,
+    frozenScene,
   } = storyStore();
 
   const { data, setData, scenes, resetActiveChapters, num_chapters } =
@@ -126,7 +130,7 @@ function PlotOptions() {
 
   const handleStoryChange = async () => {
     try {
-      const new_data = await import(`../data/${story}.json`);
+      const new_data = await import(`../../data/${story}.json`);
       // update data once story is loaded
       if (data !== new_data.default) {
         let viewChapters = false;
@@ -135,6 +139,10 @@ function PlotOptions() {
           new_data.default["chapters"].length > 0
         ) {
           viewChapters = true;
+        }
+
+        if (!viewChapters && detailView) {
+          setDetailView(false);
         }
 
         if (
@@ -155,6 +163,7 @@ function PlotOptions() {
         setCharacterHover("");
         setSceneHover("");
         setGroupHover("");
+        setFrozenScene({} as FrozenScene);
       }
     } catch (error) {
       console.log("Error loading story data", error);
@@ -173,8 +182,12 @@ function PlotOptions() {
   }, [story]);
 
   useEffect(() => {
-    setData(data, chapterView, "");
-  }, [chapterView]);
+    let chapter = "";
+    if (detailView && frozenScene && frozenScene.scene && !chapterView) {
+      chapter = frozenScene.scene.name;
+    }
+    setData(data, chapterView, chapter);
+  }, [chapterView, detailView]);
 
   useEffect(() => {
     if (themeView) {
@@ -183,6 +196,12 @@ function PlotOptions() {
       setStory(story.replace("-themes", ""));
     }
   }, [themeView]);
+
+  useEffect(() => {
+    if (!detailView && frozenScene && frozenScene.scene) {
+      setFrozenScene({} as FrozenScene);
+    }
+  }, [detailView]);
 
   return (
     <div id="options">
@@ -204,10 +223,21 @@ function PlotOptions() {
           />
           <Switch
             size="xs"
+            label={"Detail view"}
+            labelPosition="left"
+            checked={detailView}
+            disabled={!story.includes("-new")}
+            onChange={(event) => setDetailView(event.currentTarget.checked)}
+          />
+          <Switch
+            size="xs"
             label={(chapterView ? "Chapter" : "Scene") + " view"}
             labelPosition="left"
             checked={chapterView}
-            disabled={!story.includes("-new")}
+            disabled={
+              !story.includes("-new") ||
+              (detailView && (!frozenScene || !frozenScene.scene))
+            }
             onChange={(event) => setChapterView(event.currentTarget.checked)}
             style={{ width: 85 }}
           />

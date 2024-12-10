@@ -1,10 +1,11 @@
-import Defs from "./Vis/Defs";
-import MainPlot from "./Vis/MainPlot";
-import { positionStore } from "../stores/positionStore";
-import { storyStore } from "../stores/storyStore";
-import { dataStore } from "../stores/dataStore";
+import Defs from "./Defs";
+import MainPlot from "./MainPlot";
+import { positionStore } from "../../stores/positionStore";
+import { storyStore } from "../../stores/storyStore";
+import { dataStore } from "../../stores/dataStore";
 import { useEffect, useRef } from "react";
-import XAxisSVG from "./XAxis/XAxisSvg";
+import XAxisSVG from "../XAxis/XAxisSvg";
+import { scene_overlay_width } from "../../utils/consts";
 
 function StoryVis() {
   const { plotWidth, plotHeight, scenePos } = positionStore();
@@ -17,6 +18,7 @@ function StoryVis() {
     setStoryScroll,
     storyScroll,
     setStoryScrollX,
+    detailView,
   } = storyStore();
 
   const storyRef = useRef<SVGSVGElement>(null);
@@ -74,7 +76,13 @@ function StoryVis() {
               : 500
             : undefined
         }
-        width={!fullHeight ? "100%" : undefined}
+        width={
+          detailView
+            ? `calc(100% + ${scene_overlay_width}px)`
+            : !fullHeight
+            ? "100%"
+            : undefined
+        }
         viewBox={`0 0 ${plotWidth} ${plotHeight}`} // Maintain your calculated dimensions here for correct scaling
         preserveAspectRatio="xMidYMid meet" // This helps in maintaining the aspect ratio
       >
