@@ -52,6 +52,7 @@ function XAxis() {
     setChapterHover,
     chapterView,
     detailView,
+    setDetailView,
   } = storyStore();
 
   const { scenePos } = positionStore();
@@ -95,10 +96,20 @@ function XAxis() {
   const maxChars = 24;
 
   const updateChapterHover = (sceneName: string) => {
-    if (chapterView && detailView) {
+    if (chapterView) {
       const scene = scene_data.find((s) => s.name === sceneName);
-      if (scene && scene.name !== chapterHover) {
-        setChapterHover(scene.name);
+      if (scene) {
+        if (chapterHover === "" && !detailView) {
+          setDetailView(true);
+        }
+        if (scene.name !== chapterHover) {
+          setChapterHover(scene.name);
+        } else {
+          setChapterHover("");
+          if (detailView) {
+            setDetailView(false);
+          }
+        }
       }
     }
   };

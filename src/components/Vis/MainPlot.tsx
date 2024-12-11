@@ -30,6 +30,7 @@ function MainPlot() {
     detailView,
     chapterHover,
     setChapterHover,
+    setDetailView,
   } = storyStore();
   const {
     sceneBoxes,
@@ -74,10 +75,20 @@ function MainPlot() {
   const uniqueGroups = [...new Set(sortedGroups)];
 
   const updateChapterHover = (sceneName: string) => {
-    if (chapterView && detailView) {
+    if (chapterView) {
       const scene = scene_data.find((s) => s.name === sceneName);
-      if (scene && scene.name !== chapterHover) {
-        setChapterHover(scene.name);
+      if (scene) {
+        if (chapterHover === "" && !detailView) {
+          setDetailView(true);
+        }
+        if (scene.name !== chapterHover) {
+          setChapterHover(scene.name);
+        } else {
+          setChapterHover("");
+          if (detailView) {
+            setDetailView(false);
+          }
+        }
       }
     }
   };

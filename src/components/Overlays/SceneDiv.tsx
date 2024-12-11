@@ -70,7 +70,8 @@ function SceneDiv() {
             scene.characters.length > 8 &&
             !chapterView
               ? " wide"
-              : "")
+              : "") +
+            (!detailView && chapterView ? " show-msg" : "")
       }
       style={{
         left: mousePosition.x + buffer + "px", // Offset slightly from cursor

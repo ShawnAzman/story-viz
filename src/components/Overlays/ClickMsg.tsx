@@ -5,11 +5,19 @@ function ClickMsg() {
   const { sceneHover, chapterView, detailView } = storyStore();
 
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
+  const [isFrozen, setIsFrozen] = useState(false);
   const buffer = 20;
   useEffect(() => {
     const handleMouseMove = (event: MouseEvent) => {
       event.preventDefault();
       event.stopPropagation();
+
+      const target = event.target as HTMLElement;
+      if (target.classList.contains("frozen")) {
+        setIsFrozen(true);
+      } else {
+        setIsFrozen(false);
+      }
 
       // get max x position
       //   const max_x = window.innerWidth;
@@ -55,7 +63,7 @@ function ClickMsg() {
         top: mousePosition.y + "px",
       }}
     >
-      Click to lock!
+      Click to {isFrozen && "un"}lock!
     </div>
   );
 }

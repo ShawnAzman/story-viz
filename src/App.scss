@@ -508,6 +508,17 @@ h1 {
   flex-direction: column;
   row-gap: 0.5rem;
 
+  &.show-msg {
+    &::before {
+      content: "Click to lock!";
+      font-style: italic;
+      margin-bottom: 0.5rem;
+      position: absolute;
+      top: -1.25rem;
+      transition: 0.3s;
+    }
+  }
+
   &.wide {
     width: 750px;
   }
@@ -975,9 +986,9 @@ h1 {
     font-size: calc(0.8rem + 0.1vw);
     transform-origin: 0 0;
 
-    .frozen {
-      pointer-events: none;
-    }
+    // .frozen {
+    //   pointer-events: none;
+    // }
 
     .faded {
       &.legend-item {
