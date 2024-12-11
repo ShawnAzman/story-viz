@@ -40,7 +40,7 @@ function CharacterNetwork(props: any) {
     (!chapterView || sceneHover === "") &&
     chapterHover !== ""
   ) {
-    cur_scene = chapter_data.find((d) => d.chapter === chapterHover);
+    cur_scene = chapter_data.find((d) => d.name === chapterHover);
   } else {
     cur_scene = scene_data.find((d) => d.name === sceneHover);
   }

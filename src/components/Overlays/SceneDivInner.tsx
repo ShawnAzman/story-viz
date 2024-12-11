@@ -11,7 +11,6 @@ import {
 import { chapterFormatted, normalize } from "../../utils/helpers";
 import CharacterNetwork from "../Vis/CharacterNetwork";
 import LocationChart from "../Vis/LocationChart";
-import { useEffect } from "react";
 
 function SceneDivInner(props: any) {
   const {
@@ -42,7 +41,7 @@ function SceneDivInner(props: any) {
     (!chapterView || sceneHover === "") &&
     chapterHover !== ""
   ) {
-    scene = chapter_data.find((scene) => scene.chapter === chapterHover);
+    scene = chapter_data.find((scene) => scene.name === chapterHover);
   } else {
     scene = scene_data.find((scene) => scene.name === sceneHover);
   }
@@ -62,6 +61,7 @@ function SceneDivInner(props: any) {
     min_lines = chapterMin;
     max_lines = chapterMax;
   }
+
   const lengthVal = normalize(numLines, min_lines, max_lines, 0, 1);
   const sceneSummary = sceneSummaries[scene_index];
 

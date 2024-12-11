@@ -132,6 +132,7 @@ export const dataStore = create<IStore>((set) => ({
 
       // Perform comparison logic only for chapter_data
       if (!same_story) {
+        console.log("updating chapter data");
         updates.chapter_data = newData.chapter_data;
         updates.sceneMin = newData.sceneMin;
         updates.sceneMax = newData.sceneMax;

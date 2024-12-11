@@ -134,6 +134,7 @@ function PlotOptions() {
   const handleStoryChange = async () => {
     try {
       const new_data = await import(`../../data/${story}.json`);
+
       // update data once story is loaded
       if (data !== new_data.default) {
         let viewChapters = false;

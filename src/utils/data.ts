@@ -777,7 +777,15 @@ export const getAllData = (
   chapter: string = ""
 ) => {
   const init_chapter_data = chapter_data(init_data);
-  const sceneMinMax = getMinMaxLines(init_data["scenes"]);
+  const sceneMinMax = getMinMaxLines(
+    init_data["scenes"].map((d: any) => {
+      const new_d = d;
+      if (!new_d.numLines) {
+        new_d.numLines = new_d.num_lines;
+      }
+      return new_d;
+    })
+  );
   const sceneMin = sceneMinMax[0];
   const sceneMax = sceneMinMax[1];
 
@@ -787,7 +795,15 @@ export const getAllData = (
     init_scene_data
   );
 
-  const chapterMinMax = getMinMaxLines(init_chapter_scene_data);
+  const chapterMinMax = getMinMaxLines(
+    init_chapter_scene_data.map((d: any) => {
+      const new_d = d;
+      if (!new_d.numLines) {
+        new_d.numLines = new_d.num_lines;
+      }
+      return new_d;
+    })
+  );
   const chapterMin = chapterMinMax[0];
   const chapterMax = chapterMinMax[1];
 
