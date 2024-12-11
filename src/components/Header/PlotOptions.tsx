@@ -139,9 +139,6 @@ function PlotOptions() {
       if (data !== new_data.default) {
         let viewChapters = false;
         const sameStory = isSameStory(story, prevStory);
-        if (!sameStory) {
-          setPrevStory(story);
-        }
 
         if (
           new_data.default["chapters"] &&
@@ -167,7 +164,13 @@ function PlotOptions() {
         if (chapterHover !== "" && !chapterView && detailView) {
           chapter = chapterHover;
         }
-        setData(new_data.default, viewChapters, chapter, sameStory);
+
+        setData(
+          new_data.default,
+          viewChapters,
+          chapter,
+          sameStory && story === prevStory
+        );
         setChapterView(viewChapters);
 
         // reset the following values
@@ -180,6 +183,7 @@ function PlotOptions() {
 
         if (!sameStory) {
           setChapterHover("");
+          setPrevStory(story);
         }
       }
     } catch (error) {

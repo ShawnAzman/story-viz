@@ -104,7 +104,7 @@ export const dataStore = create<IStore>((set) => ({
     same_story: boolean = false
   ) => {
     const newData = getAllData(init_data, chapterView, chapter);
-    set(() => {
+    set((state) => {
       const updates: Partial<IStore> = {
         data: init_data,
         scene_data: newData.scene_data,
@@ -131,7 +131,13 @@ export const dataStore = create<IStore>((set) => ({
       };
 
       // Perform comparison logic only for chapter_data
-      if (!same_story) {
+      if (
+        !same_story ||
+        state.sceneMin !== newData.sceneMin ||
+        state.sceneMax !== newData.sceneMax ||
+        state.chapterMin !== newData.chapterMin ||
+        state.chapterMax !== newData.chapterMax
+      ) {
         console.log("updating chapter data");
         updates.chapter_data = newData.chapter_data;
         updates.sceneMin = newData.sceneMin;
