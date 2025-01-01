@@ -47,6 +47,7 @@ function PlotOptions() {
     "alice",
     // "alice2",
     "alice-new",
+    "alice2-new",
     "alice-new-themes",
     "alice-mov",
 
