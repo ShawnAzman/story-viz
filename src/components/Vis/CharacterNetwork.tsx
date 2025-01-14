@@ -23,8 +23,14 @@ type Node = {
 };
 
 function CharacterNetwork(props: any) {
-  const { sceneHover, characterColor, chapterHover, detailView, chapterView } =
-    storyStore();
+  const {
+    sceneHover,
+    characterColor,
+    chapterHover,
+    detailView,
+    chapterView,
+    setCharacterHover,
+  } = storyStore();
   const { scene_data, character_data, sortedCharacters, chapter_data } =
     dataStore();
   const svgRef = useRef<SVGSVGElement | null>(null);
@@ -237,7 +243,14 @@ function CharacterNetwork(props: any) {
         normalize(d.importance, min_importance, 1, 6, 10)
       )
       .attr("dx", (d) => normalize(d.importance, min_importance, 1, 6, 10))
-      .attr("dy", ".35em");
+      .attr("dy", ".35em")
+      // Add hover behavior
+      .on("mouseover", (_, d) => {
+        setCharacterHover(d.id); // Update characterHover with the character's name
+      })
+      .on("mouseout", () => {
+        setCharacterHover(""); // Clear characterHover when not hovering
+      });
 
     // Handle resizing
     // const updateDimensions = () => {

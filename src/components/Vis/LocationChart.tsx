@@ -3,7 +3,13 @@ import { storyStore } from "../../stores/storyStore";
 
 function LocationChart(props: any) {
   const { scene_data, location_data, chapter_data } = dataStore();
-  const { sceneHover, chapterHover, detailView, chapterView } = storyStore();
+  const {
+    sceneHover,
+    chapterHover,
+    detailView,
+    chapterView,
+    setLocationHover,
+  } = storyStore();
 
   const inSidebar = props.inSidebar || false;
 
@@ -63,7 +69,12 @@ function LocationChart(props: any) {
       {Object.entries(locationDict).map(([location, count]) => (
         <div key={location} style={barContainerStyle}>
           {/* Label above the bar */}
-          <div style={labelStyle}>
+          <div
+            className="loc-label"
+            style={labelStyle}
+            onMouseEnter={() => setLocationHover(location as string)}
+            onMouseLeave={() => setLocationHover("")}
+          >
             {(() => {
               const emoji = location_data.find(
                 (d) => d.name === location

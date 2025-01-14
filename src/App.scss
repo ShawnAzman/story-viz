@@ -866,12 +866,51 @@ h1 {
         }
       }
 
-      b {
+      .scene-info {
         transition: 0.3s;
 
         &.filler {
           opacity: 0;
+          visibility: hidden;
+          pointer-events: none;
         }
+
+        .loc {
+          font-family: "Shantell Sans";
+          transition: 0.3s;
+          cursor: pointer;
+
+          &:hover {
+            opacity: 0.7;
+          }
+        }
+
+        .character {
+          display: flex;
+          align-items: center;
+          gap: 0.4rem;
+          font-size: smaller;
+          transition: 0.3s;
+          cursor: pointer;
+
+          &:hover {
+            opacity: 0.7;
+          }
+
+          &:not(:last-child) {
+            margin-bottom: 0.1rem;
+          }
+
+          .square {
+            width: 0.4rem;
+            height: 0.4rem;
+            display: inline-block;
+          }
+        }
+      }
+
+      b {
+        transition: 0.3s;
       }
     }
 
@@ -899,6 +938,15 @@ h1 {
         font-weight: 500;
         text-align: right;
       }
+    }
+  }
+
+  .loc-label {
+    transition: 0.3s;
+    cursor: pointer;
+
+    &:hover {
+      opacity: 0.7;
     }
   }
 }

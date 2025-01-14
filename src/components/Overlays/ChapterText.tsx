@@ -3,6 +3,14 @@ import { storyStore } from "../../stores/storyStore";
 import { onlyLetters } from "../../utils/helpers";
 import { dataStore } from "../../stores/dataStore";
 import { Scene } from "../../utils/data";
+import {
+  emotionColor,
+  getColor,
+  getGroupColor,
+  getLLMColor,
+  importanceColor,
+} from "../../utils/colors";
+import chroma from "chroma-js";
 
 function ChapterText() {
   const [chapterText, setChapterText] = useState([] as string[]);
@@ -19,8 +27,14 @@ function ChapterText() {
     scrollSource,
     setScrollSource,
     setStoryScrollX,
+    characterColor,
+    setCharacterHover,
+    setLocationHover,
   } = storyStore();
-  const { chapter_data, scene_data } = dataStore();
+  const { chapter_data, scene_data, sortedCharacters } = dataStore();
+
+  const sortedGroups = sortedCharacters.map((char) => char.group);
+  const uniqueGroups = [...new Set(sortedGroups)];
 
   const loadChapterText = async (chapter: string) => {
     try {
@@ -265,6 +279,14 @@ function ChapterText() {
         const firstLine = scene.lines[0];
         const lastLine = scene.lines[1];
         const sceneChapterText = chapterText.slice(firstLine - 1, lastLine);
+
+        const scene_info = scene_data.find(
+          (s: Scene) => s.chapter === chapterHover && s.name === scene.name
+        );
+
+        const location = scene_info?.location;
+        const characters = scene_info?.characters;
+
         return (
           <div
             className="scene-text-group"
@@ -284,10 +306,66 @@ function ChapterText() {
               ))}
             </div>
 
-            <b className={scene.name === "filler" ? "filler" : ""}>
-              {chapterView ? "" : `Scene ${scene.number}: `}
-              {scene.name}
-            </b>
+            <div
+              className={
+                "scene-info " + (scene.name === "filler" ? "filler" : "")
+              }
+            >
+              <b>
+                {chapterView ? "" : `Scene ${scene.number}: `}
+                {scene.name}
+              </b>
+              <p
+                className="loc"
+                onMouseEnter={() => setLocationHover(location as string)}
+                onMouseLeave={() => setLocationHover("")}
+              >
+                {location}
+              </p>
+              {characters &&
+                characters.map((char, i) => {
+                  const name = char.name;
+                  const rating = char.rating as number;
+                  const importance = char.importance as number;
+                  const group = sortedCharacters.find(
+                    (c) => c.character === name
+                  )?.group;
+                  const charColor = getColor(name, sortedCharacters);
+                  const llmColor =
+                    getLLMColor(name, sortedCharacters) || charColor;
+                  const groupColor = group
+                    ? getGroupColor(group, uniqueGroups)
+                    : charColor;
+                  const sent_color = chroma(emotionColor(rating)).css();
+                  const imp_color = chroma(importanceColor(importance)).css();
+
+                  return (
+                    <p
+                      className="character"
+                      key={i}
+                      onMouseEnter={() => setCharacterHover(name)}
+                      onMouseLeave={() => setCharacterHover("")}
+                    >
+                      <span
+                        className="square"
+                        style={{
+                          backgroundColor:
+                            characterColor === "llm"
+                              ? llmColor
+                              : characterColor === "group"
+                              ? groupColor
+                              : characterColor === "sentiment"
+                              ? sent_color
+                              : characterColor === "importance"
+                              ? imp_color
+                              : charColor,
+                        }}
+                      />
+                      {name}
+                    </p>
+                  );
+                })}
+            </div>
           </div>
         );
       })}
