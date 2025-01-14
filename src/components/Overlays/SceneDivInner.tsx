@@ -283,7 +283,7 @@ function SceneDivInner(props: any) {
               !showChapterText && (chapterView || inSidebar) ? "split" : ""
             }
           >
-            {!showChapterText && (
+            {(!showChapterText || !inSidebar) && (
               <div className="character-header">
                 <b>
                   {themeView ? "Themes" : "Characters"}:{" "}
@@ -303,7 +303,7 @@ function SceneDivInner(props: any) {
                 )}
               </div>
             )}
-            {(chapterView || inSidebar) && !showChapterText && (
+            {(chapterView || inSidebar) && (!showChapterText || !inSidebar) && (
               <b>
                 Locations:{" "}
                 {scene &&
@@ -422,7 +422,7 @@ function SceneDivInner(props: any) {
                   </div>
                 );
               })
-            ) : showChapterText ? (
+            ) : showChapterText && inSidebar ? (
               <ChapterText />
             ) : (
               <>

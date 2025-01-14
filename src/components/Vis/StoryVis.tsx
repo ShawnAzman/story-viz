@@ -79,7 +79,7 @@ function StoryVis() {
             : undefined
         }
         width={
-          detailView
+          detailView && !fullHeight
             ? plotWidth < scene_overlay_width
               ? plotWidth
               : `calc(100% + ${scene_overlay_width}px)`
