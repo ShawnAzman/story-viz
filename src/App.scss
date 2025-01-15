@@ -877,6 +877,15 @@ h1 {
           pointer-events: none;
         }
 
+        .scene-name {
+          transition: 0.3s;
+          cursor: pointer;
+
+          &:hover {
+            opacity: 0.7;
+          }
+        }
+
         .loc {
           font-family: "Shantell Sans";
           transition: 0.3s;

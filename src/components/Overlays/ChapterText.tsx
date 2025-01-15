@@ -30,6 +30,7 @@ function ChapterText() {
     characterColor,
     setCharacterHover,
     setLocationHover,
+    setSceneHover,
   } = storyStore();
   const { chapter_data, scene_data, sortedCharacters } = dataStore();
 
@@ -311,7 +312,11 @@ function ChapterText() {
                 "scene-info " + (scene.name === "filler" ? "filler" : "")
               }
             >
-              <b>
+              <b
+                className="scene-name"
+                onMouseEnter={() => setSceneHover(scene.name)}
+                onMouseLeave={() => setSceneHover("")}
+              >
                 {chapterView ? "" : `Scene ${scene.number}: `}
                 {scene.name}
               </b>
