@@ -96,9 +96,11 @@ function CharacterNetwork(props: any) {
       scene_characters = [...scene_characters, ...newChars];
 
       // get all links in the story up to this point
-      const prevLinks = prevScenes.flatMap((s) =>
-        (s.links as CharacterLink[]).map((l) => ({ ...l }))
-      );
+      const prevLinks = prevScenes
+        ? prevScenes.flatMap((s) =>
+            s.links ? (s.links as CharacterLink[]).map((l) => ({ ...l })) : []
+          )
+        : [];
 
       if (prevLinks && prevLinks.length > 0) {
         // add in links, combining links that have the same source and target (or target and source)

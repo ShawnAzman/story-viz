@@ -93,6 +93,7 @@ export interface CharacterData {
   group: string;
   color: string;
   explanation: string[] | string;
+  [key: string]: any; // additional fields that could be added by user
 }
 
 export interface ColorQuote {
