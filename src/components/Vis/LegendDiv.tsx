@@ -1,9 +1,15 @@
 import { Button } from "@mantine/core";
 import { dataStore } from "../../stores/dataStore";
 import { storyStore } from "../../stores/storyStore";
-import { getColor, getGroupColor, textColorLLM } from "../../utils/colors";
+import {
+  getColor,
+  getGroupColor,
+  textColorLLM,
+  getCustomColor,
+} from "../../utils/colors";
 // import CharacterDiv from "./Overlays/CharacterDiv";
 import { FaChevronUp, FaRedo, FaPlus, FaMinus } from "react-icons/fa";
+import { activeAttrInScene } from "../../utils/helpers";
 
 function LegendDiv(props: any) {
   const {
@@ -11,6 +17,8 @@ function LegendDiv(props: any) {
     chapterDivisions,
     activeChapters,
     characterScenes,
+    customColorDict,
+    character_data,
   } = dataStore();
 
   const {
@@ -23,6 +31,7 @@ function LegendDiv(props: any) {
     showLegend,
     setShowLegend,
     setGroupHover,
+    customHover,
     minimized,
     setMinimized,
   } = storyStore();
@@ -175,7 +184,14 @@ function LegendDiv(props: any) {
                 "group-container " +
                 ((characterHover !== "" &&
                   !charNames.includes(characterHover)) ||
-                (groupHover !== "" && groupHover !== group)
+                (groupHover !== "" && groupHover !== group) ||
+                (customHover !== "" &&
+                  !activeAttrInScene(
+                    charNames,
+                    character_data,
+                    characterColorBy,
+                    customHover
+                  ))
                   ? "faded"
                   : "") +
                 (allCharsInHidden(groupChars) ? " light-faded" : "")
@@ -235,6 +251,13 @@ function LegendDiv(props: any) {
                       ? character.color
                       : characterColorBy === "group"
                       ? groupColor
+                      : Object.keys(customColorDict).includes(characterColorBy)
+                      ? getCustomColor(
+                          customColorDict[characterColorBy],
+                          character_data,
+                          name,
+                          characterColorBy
+                        )
                       : getColor(name, sortedCharacters);
 
                   return (

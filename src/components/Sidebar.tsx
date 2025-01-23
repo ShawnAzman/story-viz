@@ -26,9 +26,16 @@ function Sidebar() {
     showOverlay,
     setShowOverlay,
     chapterView,
+    setModalOpened,
+    setModalType,
   } = storyStore();
 
-  const { resetActiveChapters, num_chapters } = dataStore();
+  const {
+    resetActiveChapters,
+    num_chapters,
+    characterColorOptions,
+    customColorDict,
+  } = dataStore();
 
   const open = () => {
     setSidebarOpen(true);
@@ -37,14 +44,6 @@ function Sidebar() {
   const close = () => {
     setSidebarOpen(false);
   };
-
-  const characterColorOptions = [
-    "default",
-    "llm",
-    "group",
-    "sentiment",
-    "importance",
-  ];
 
   const sizeByOptions = ["conflict", "importance", "length", "default"];
   const colorByOptions = [
@@ -60,6 +59,11 @@ function Sidebar() {
       setShowOverlay(false);
     }
   }, [colorBy]);
+
+  const openModal = (mod_type: string = "addColor") => {
+    setModalType(mod_type);
+    setModalOpened(true);
+  };
 
   return (
     <div id="sidebar">
@@ -99,15 +103,46 @@ function Sidebar() {
                     {themeView ? "theme" : "character"} in scene
                   </i>
                   <div style={{ marginBottom: "0.75rem" }}>
-                    <Select
-                      size="xs"
-                      label="Color"
-                      data={characterColorOptions}
-                      value={characterColor}
-                      onChange={(value) => {
-                        if (value) setCharacterColor(value);
+                    <div
+                      className="two-col"
+                      style={{
+                        alignItems: "end",
+                        // gridTemplateColumns: "5fr 3fr",
                       }}
-                    />
+                    >
+                      <div>
+                        <span
+                          onClick={() => openModal("deleteColor")}
+                          className={
+                            "delete-button " +
+                            (!Object.keys(customColorDict).includes(
+                              characterColor
+                            )
+                              ? "disabled"
+                              : "")
+                          }
+                        >
+                          delete
+                        </span>
+                        <Select
+                          size="xs"
+                          label="Color"
+                          data={characterColorOptions}
+                          value={characterColor}
+                          onChange={(value) => {
+                            if (value) setCharacterColor(value);
+                          }}
+                        />
+                      </div>
+                      <Button
+                        size="xs"
+                        variant="light"
+                        fullWidth
+                        onClick={() => openModal()}
+                      >
+                        Add custom color scheme
+                      </Button>
+                    </div>
                     <Colorbar
                       fullWidth
                       barType={
@@ -122,7 +157,8 @@ function Sidebar() {
                       gridType={
                         characterColor === "default" ||
                         characterColor === "llm" ||
-                        characterColor === "group"
+                        characterColor === "group" ||
+                        Object.keys(customColorDict).includes(characterColor)
                           ? characterColor
                           : ""
                       }

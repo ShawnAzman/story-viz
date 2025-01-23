@@ -13,6 +13,7 @@ import {
   ChapterDivision,
 } from "../utils/data";
 import init_data from "../data/gatsby.json";
+import { CustomColorDict, defaultCharacterColors } from "../utils/colors";
 
 /* INITIAL VALUES */
 const init_data_values = getAllData(init_data, false);
@@ -54,7 +55,20 @@ interface IStore {
   num_chapters: number;
   activeChapters: [number, number];
 
-  setData: (val: any, val2: boolean, val3: string, val4: boolean) => void;
+  characterColorOptions: string[];
+  customColorDict: CustomColorDict;
+
+  setCharacterColorOptions: (val: string[]) => void;
+  setCustomColorDict: (val: CustomColorDict, val2: string) => void;
+  setCharacterData: (val: CharacterData[], val2: string) => void;
+  setSortedCharacters: (val: CharacterData[]) => void;
+  setData: (
+    val: any,
+    val1: string,
+    val2: boolean,
+    val3: string,
+    val4: boolean
+  ) => void;
   setActiveChapters: (val: [number, number]) => void;
   resetActiveChapters: (val: number) => void;
 }
@@ -93,17 +107,56 @@ const initialState = {
   chapterDivisions: init_data_values.chapterDivisions,
   num_chapters: init_data_values.num_chapters,
   activeChapters: [1, init_data_values.num_chapters] as [number, number],
+
+  characterColorOptions: defaultCharacterColors,
+  customColorDict: {} as CustomColorDict,
 };
 
 export const dataStore = create<IStore>((set) => ({
   ...initialState,
+  setCharacterColorOptions: (val: string[]) =>
+    set({ characterColorOptions: val }),
+  setCustomColorDict: (val: CustomColorDict, story: string) => {
+    // update local storage
+    const localStorageKey = `colorDict-${story}`;
+    localStorage.setItem(localStorageKey, JSON.stringify(val));
+    set({ customColorDict: val });
+    console.log("Updated custom color dict");
+  },
+  setSortedCharacters: (val: CharacterData[]) => {
+    set({ sortedCharacters: val });
+  },
+  setCharacterData: (val: CharacterData[], story: string) => {
+    // update local storage
+    const localStorageKey = `characterData-${story}`;
+    localStorage.setItem(localStorageKey, JSON.stringify(val));
+    set({ character_data: val });
+    console.log("Updated character data");
+  },
   setData: (
     init_data: any,
+    story: string,
     chapterView: boolean = false,
     chapter: string = "",
     same_story: boolean = false
   ) => {
     const newData = getAllData(init_data, chapterView, chapter);
+
+    // check if color_dict is in local storage
+    const localStorageKey = `colorDict-${story}`;
+    const storedDict = localStorage.getItem(localStorageKey);
+    let colorDict = {} as CustomColorDict;
+    let colorKeys = [...defaultCharacterColors];
+    if (storedDict) {
+      // if found, use the stored color_dict and convert it to an object
+      colorDict = JSON.parse(storedDict);
+      const newKeys = Object.keys(colorDict);
+      colorKeys.push(...newKeys.filter((k) => !colorKeys.includes(k)));
+      console.log("Loaded custom color dict from local storage");
+    } else {
+      console.log("No custom color dict found");
+    }
+
     set((state) => {
       const updates: Partial<IStore> = {
         data: init_data,
@@ -128,6 +181,8 @@ export const dataStore = create<IStore>((set) => ({
         chapterDivisions: newData.chapterDivisions,
         num_chapters: newData.num_chapters,
         activeChapters: [1, newData.num_chapters],
+        customColorDict: colorDict,
+        characterColorOptions: colorKeys,
       };
 
       // Perform comparison logic only for chapter_data

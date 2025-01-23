@@ -6,6 +6,7 @@ import {
   getGroupColor,
   getLLMColor,
   textColorLLM,
+  getCustomColor,
 } from "../../utils/colors";
 import { onlyLetters } from "../../utils/helpers";
 import ImageDiv from "../ImageDiv";
@@ -20,7 +21,7 @@ function CharacterDiv() {
     sidebarOpen,
     detailView,
   } = storyStore();
-  const { character_data, sortedCharacters } = dataStore();
+  const { character_data, sortedCharacters, customColorDict } = dataStore();
 
   const [accentColor, setAccentColor] = useState("rgb(0, 0, 0)");
   const [changeMargin, setChangeMargin] = useState(true);
@@ -83,6 +84,14 @@ function CharacterDiv() {
           setAccentColor(llmColor);
         } else if (characterColor === "group") {
           setAccentColor(groupColor);
+        } else if (Object.keys(customColorDict).includes(characterColor)) {
+          const customColor = getCustomColor(
+            customColorDict[characterColor],
+            character_data,
+            character.character,
+            characterColor
+          );
+          setAccentColor(customColor);
         } else {
           setAccentColor(charColor);
         }
@@ -138,7 +147,18 @@ function CharacterDiv() {
         />
         <div>
           <b style={{ color: accentColor }}>
-            {characterName || "Character"} ({characterGroup || "Group"})
+            {characterName || "Character"} (
+            {Object.keys(customColorDict).includes(characterColor) &&
+            character_data.find((c) => c.character === characterHover)?.[
+              characterColor
+            ]
+              ? `${characterColor}: ${
+                  character_data.find((c) => c.character === characterHover)?.[
+                    characterColor
+                  ]?.val
+                }`
+              : characterGroup || "Group"}
+            )
           </b>
           <p>{'"' + characterQuote + '"' || "Quote"}</p>
         </div>
@@ -146,12 +166,19 @@ function CharacterDiv() {
       <div
         className={
           "character-inner explanation " +
-          (characterExplanation && characterColor === "llm" ? "" : "hidden")
+          ((characterExplanation && characterColor === "llm") ||
+          Object.keys(customColorDict).includes(characterColor)
+            ? ""
+            : "hidden")
         }
         style={{ background: accentColor.split(")")[0] + ", 0.6)" }}
       >
         <p style={{ color: textColorLLM(accentColor) }}>
-          {characterExplanation}
+          {Object.keys(customColorDict).includes(characterColor)
+            ? character_data.find((c) => c.character === characterHover)?.[
+                characterColor
+              ]?.exp
+            : characterExplanation}
         </p>
       </div>
     </div>

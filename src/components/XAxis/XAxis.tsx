@@ -15,6 +15,7 @@ import {
   textColor,
 } from "../../utils/colors";
 import {
+  activeAttrInScene,
   chapterFormatted,
   extractChapterName,
   getFontWeight,
@@ -36,6 +37,7 @@ function XAxis() {
     maxLines,
     chapterDivisions,
     activeChapters,
+    character_data,
   } = dataStore();
   const {
     locationHover,
@@ -48,11 +50,13 @@ function XAxis() {
     showOverlay,
     showChapters,
     groupHover,
+    customHover,
     chapterHover,
     setChapterHover,
     chapterView,
     detailView,
     setDetailView,
+    characterColor,
   } = storyStore();
 
   const { scenePos } = positionStore();
@@ -158,11 +162,19 @@ function XAxis() {
                     ((locationHover === "" &&
                       sceneHover === "" &&
                       characterHover === "" &&
-                      groupHover === "") ||
+                      groupHover === "" &&
+                      customHover === "") ||
                     chapter.locations.includes(locationHover) ||
                     chapter.scenes.includes(sceneHover) ||
                     chapter.characters.includes(characterHover) ||
-                    chapter.groups.includes(groupHover)
+                    chapter.groups.includes(groupHover) ||
+                    (customHover !== "" &&
+                      activeAttrInScene(
+                        chapter.characters,
+                        character_data,
+                        characterColor,
+                        customHover
+                      ))
                       ? ""
                       : "faded")
                   }
@@ -214,11 +226,19 @@ function XAxis() {
               ((locationHover === "" &&
                 sceneHover === "" &&
                 characterHover === "" &&
-                groupHover === "") ||
+                groupHover === "" &&
+                customHover === "") ||
               locationHover === sceneLocations[i] ||
               sceneHover === scene ||
               sceneCharacters[i].characters.includes(characterHover) ||
-              sceneCharacters[i].groups.includes(groupHover)
+              sceneCharacters[i].groups.includes(groupHover) ||
+              (customHover !== "" &&
+                activeAttrInScene(
+                  sceneCharacters[i].characters,
+                  character_data,
+                  characterColor,
+                  customHover
+                ))
                 ? ""
                 : "faded")
             }

@@ -8,6 +8,7 @@ import {
   getLLMColor,
   lengthColor,
   getGroupColor,
+  getCustomColor,
 } from "../../utils/colors";
 import { dataStore } from "../../stores/dataStore";
 import { RatingDict } from "../../utils/data";
@@ -26,6 +27,8 @@ function Defs() {
     scene_data,
     chapterDivisions,
     activeChapters,
+    character_data,
+    customColorDict,
   } = dataStore();
 
   // active chapters
@@ -179,6 +182,13 @@ function Defs() {
                 ? groupColor
                 : characterColor === "sentiment"
                 ? emotion_color
+                : Object.keys(customColorDict).includes(characterColor)
+                ? getCustomColor(
+                    customColorDict[characterColor],
+                    character_data,
+                    char.character,
+                    characterColor
+                  )
                 : importance_color;
             const end_color =
               characterColor === "default"
@@ -189,6 +199,13 @@ function Defs() {
                 ? groupColor
                 : characterColor === "sentiment"
                 ? emotion_color2
+                : Object.keys(customColorDict).includes(characterColor)
+                ? getCustomColor(
+                    customColorDict[characterColor],
+                    character_data,
+                    char.character,
+                    characterColor
+                  )
                 : importance_color2;
 
             return (
@@ -238,6 +255,13 @@ function Defs() {
                       ? groupColor
                       : characterColor === "sentiment"
                       ? seg_emotion_color
+                      : Object.keys(customColorDict).includes(characterColor)
+                      ? getCustomColor(
+                          customColorDict[characterColor],
+                          character_data,
+                          char.character,
+                          characterColor
+                        )
                       : seg_importance_color;
 
                   const start_gap =

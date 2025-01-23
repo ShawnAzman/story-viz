@@ -3,6 +3,7 @@ import { positionStore } from "../../stores/positionStore";
 import { storyStore } from "../../stores/storyStore";
 import { getGroupColor } from "../../utils/colors";
 import { location_height } from "../../utils/consts";
+import { charHasAttr } from "../../utils/helpers";
 
 function CharacterAxis() {
   const {
@@ -14,9 +15,11 @@ function CharacterAxis() {
     story,
     fullHeight,
     groupHover,
+    customHover,
     chapterView,
+    characterColor,
   } = storyStore();
-  const { sortedCharacters } = dataStore();
+  const { sortedCharacters, character_data } = dataStore();
   const { plotHeight, charInc } = positionStore();
   const ratio = plotHeight < location_height ? 1 : yAxisHeight / plotHeight;
   const maxCharLength = 16;
@@ -40,7 +43,14 @@ function CharacterAxis() {
               "character-name " +
               (hidden.includes(char.character) ||
               (groupHover !== "" && groupHover !== char.group) ||
-              (characterHover !== "" && characterHover !== char.character)
+              (characterHover !== "" && characterHover !== char.character) ||
+              (customHover !== "" &&
+                !charHasAttr(
+                  character_data,
+                  char.character,
+                  characterColor,
+                  customHover
+                ))
                 ? "faded"
                 : "")
             }

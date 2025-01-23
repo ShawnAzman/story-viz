@@ -3,13 +3,18 @@ import { dataStore } from "../../stores/dataStore";
 import {
   emotionColor,
   getColor,
+  getCustomColor,
   getGroupColor,
   getLLMColor,
   importanceColor,
 } from "../../utils/colors";
 import { character_height, character_offset } from "../../utils/consts";
 import { positionStore } from "../../stores/positionStore";
-import { normalizeMarkerSize } from "../../utils/helpers";
+import {
+  activeAttrInScene,
+  charHasAttr,
+  normalizeMarkerSize,
+} from "../../utils/helpers";
 import chroma from "chroma-js";
 
 function MainPlot() {
@@ -26,6 +31,7 @@ function MainPlot() {
     fullHeight,
     story,
     groupHover,
+    customHover,
     chapterView,
     detailView,
     chapterHover,
@@ -51,6 +57,8 @@ function MainPlot() {
     sortedCharacters,
     activeChapters,
     chapterDivisions,
+    customColorDict,
+    character_data,
   } = dataStore();
 
   const activeChapterDivisions = chapterDivisions.filter(
@@ -106,7 +114,14 @@ function MainPlot() {
                   (locationHover === sceneLocations[i] ||
                   sceneHover === scene.scene ||
                   scene.characters.includes(characterHover) ||
-                  scene.groups.includes(groupHover)
+                  scene.groups.includes(groupHover) ||
+                  (customHover !== "" &&
+                    activeAttrInScene(
+                      scene.characters,
+                      character_data,
+                      characterColorBy,
+                      customHover
+                    ))
                     ? "highlight"
                     : "")
                 }
@@ -169,6 +184,13 @@ function MainPlot() {
               ? charColor
               : characterColorBy === "group"
               ? groupColor
+              : Object.keys(customColorDict).includes(characterColorBy)
+              ? getCustomColor(
+                  customColorDict[characterColorBy],
+                  character_data,
+                  character.character,
+                  characterColorBy
+                )
               : "gray";
 
           return (
@@ -182,7 +204,14 @@ function MainPlot() {
                 " " +
                 ((characterHover !== "" &&
                   characterHover !== character.character) ||
-                (groupHover !== "" && groupHover !== group)
+                (groupHover !== "" && groupHover !== group) ||
+                (customHover !== "" &&
+                  !charHasAttr(
+                    character_data,
+                    character.character,
+                    characterColorBy,
+                    customHover
+                  ))
                   ? "faded"
                   : "")
               }
@@ -205,7 +234,14 @@ function MainPlot() {
                     sceneHover !== "" ||
                     (characterHover !== "" &&
                       characterHover !== character.character) ||
-                    (groupHover !== "" && groupHover !== group)
+                    (groupHover !== "" && groupHover !== group) ||
+                    (customHover !== "" &&
+                      !charHasAttr(
+                        character_data,
+                        character.character,
+                        characterColorBy,
+                        customHover
+                      ))
                       ? "faded"
                       : "")
                   }
@@ -221,7 +257,14 @@ function MainPlot() {
                   sceneHover !== "" ||
                   (characterHover !== "" &&
                     characterHover !== character.character) ||
-                  (groupHover !== "" && groupHover !== group)
+                  (groupHover !== "" && groupHover !== group) ||
+                  (customHover !== "" &&
+                    !charHasAttr(
+                      character_data,
+                      character.character,
+                      characterColorBy,
+                      customHover
+                    ))
                     ? "faded"
                     : "")
                 }
@@ -286,6 +329,15 @@ function MainPlot() {
                               ? groupColor
                               : characterColorBy === "sentiment"
                               ? emotion_color
+                              : Object.keys(customColorDict).includes(
+                                  characterColorBy
+                                )
+                              ? getCustomColor(
+                                  customColorDict[characterColorBy],
+                                  character_data,
+                                  character.character,
+                                  characterColorBy
+                                )
                               : importance_color
                           }
                           key={"charsq" + j}
@@ -334,6 +386,15 @@ function MainPlot() {
                         ? llmColor
                         : characterColorBy === "group"
                         ? groupColor
+                        : Object.keys(customColorDict).includes(
+                            characterColorBy
+                          )
+                        ? getCustomColor(
+                            customColorDict[characterColorBy],
+                            character_data,
+                            character.character,
+                            characterColorBy
+                          )
                         : charColor
                     }
                     paintOrder="stroke"
@@ -366,7 +427,14 @@ function MainPlot() {
                   (locationHover === sceneLocations[i] ||
                   sceneHover === scene.scene ||
                   scene.characters.includes(characterHover) ||
-                  scene.groups.includes(groupHover)
+                  scene.groups.includes(groupHover) ||
+                  (customHover !== "" &&
+                    activeAttrInScene(
+                      scene.characters,
+                      character_data,
+                      characterColorBy,
+                      customHover
+                    ))
                     ? "highlight"
                     : "") +
                   (chapterHover === scene.scene ? " frozen" : "")
@@ -414,11 +482,19 @@ function MainPlot() {
                   ((locationHover === "" &&
                     sceneHover === "" &&
                     characterHover === "" &&
-                    groupHover === "") ||
+                    groupHover === "" &&
+                    customHover === "") ||
                   chapter.locations.includes(locationHover) ||
                   chapter.scenes.includes(sceneHover) ||
                   chapter.characters.includes(characterHover) ||
-                  chapter.groups.includes(groupHover)
+                  chapter.groups.includes(groupHover) ||
+                  (customHover !== "" &&
+                    activeAttrInScene(
+                      chapter.characters,
+                      character_data,
+                      characterColorBy,
+                      customHover
+                    ))
                     ? ""
                     : "faded")
                 }

@@ -9,6 +9,7 @@ import {
   getGroupColor,
   getLLMColor,
   importanceColor,
+  getCustomColor,
 } from "../../utils/colors";
 import chroma from "chroma-js";
 
@@ -32,7 +33,13 @@ function ChapterText() {
     setLocationHover,
     setSceneHover,
   } = storyStore();
-  const { chapter_data, scene_data, sortedCharacters } = dataStore();
+  const {
+    chapter_data,
+    scene_data,
+    sortedCharacters,
+    character_data,
+    customColorDict,
+  } = dataStore();
 
   const sortedGroups = sortedCharacters.map((char) => char.group);
   const uniqueGroups = [...new Set(sortedGroups)];
@@ -61,6 +68,10 @@ function ChapterText() {
         );
         text = await response.text();
       }
+
+      // console.log("Loaded chapter text for", chapter);
+      // console.log("chapter_formatted", chapter_formatted);
+      // console.log(text);
 
       // Process the text into an array
       const textArray = text.split("\n").map((line) => {
@@ -363,6 +374,15 @@ function ChapterText() {
                               ? sent_color
                               : characterColor === "importance"
                               ? imp_color
+                              : Object.keys(customColorDict).includes(
+                                  characterColor
+                                )
+                              ? getCustomColor(
+                                  customColorDict[characterColor],
+                                  character_data,
+                                  name,
+                                  characterColor
+                                )
                               : charColor,
                         }}
                       />

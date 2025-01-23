@@ -1812,7 +1812,7 @@ h1 {
   padding-top: 0 !important;
 }
 
-.mantine-Overlay-root {
+.mantine-Overlay-root:not(.mantine-Modal-overlay) {
   display: none;
 }
 
@@ -1833,6 +1833,74 @@ h1 {
   }
   .margin-top {
     margin-top: 0.75rem;
+  }
+
+  .delete-button {
+    cursor: pointer;
+    transition: 0.3s;
+    position: absolute;
+    left: calc(50% - 1rem);
+    transform: translateX(calc(-50% - 0.5rem));
+    font-family: "Shantell Sans";
+    font-weight: 500;
+    margin-top: 0.15rem;
+    font-size: smaller;
+    letter-spacing: 0.25px;
+
+    &:hover {
+      opacity: 0.7;
+    }
+
+    &.disabled {
+      opacity: 0;
+      pointer-events: none;
+    }
+  }
+}
+
+// MODAL
+
+.mantine-Modal-overlay {
+  z-index: 999 !important;
+}
+
+.mantine-Modal-inner {
+  z-index: 1000 !important;
+}
+
+.mantine-Modal-header {
+  margin-bottom: 0;
+
+  h2 {
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+
+  svg {
+    width: 1rem !important;
+    height: 1rem !important;
+  }
+}
+
+@keyframes loading {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+#prompt-modal-body {
+  span {
+    transition: 0.3s;
+    &.loading {
+      animation: loading 2s infinite;
+    }
+  }
+
+  p {
+    font-size: smaller;
   }
 }
 

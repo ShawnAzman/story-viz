@@ -13,6 +13,7 @@ import AuthWrapper from "./components/AuthWrapper";
 import ChapterSidebar from "./components/Overlays/ChapterSidebar";
 import StoryInfo from "./components/Header/StoryInfo";
 import ClickMsg from "./components/Overlays/ClickMsg";
+import PromptModal from "./components/PromptModal";
 
 function App() {
   const { scene_data } = dataStore();
@@ -125,6 +126,8 @@ function App() {
         <SceneDiv />
         <ClickMsg />
       </div>
+
+      <PromptModal />
     </AuthWrapper>
   );
 }

@@ -9,6 +9,7 @@ import {
   getGroupColor,
   getLLMColor,
   importanceColor,
+  getCustomColor,
 } from "../../utils/colors";
 import chroma from "chroma-js";
 import { CharacterLink, Scene } from "../../utils/data";
@@ -32,8 +33,13 @@ function CharacterNetwork(props: any) {
     setCharacterHover,
     cumulativeMode,
   } = storyStore();
-  const { scene_data, character_data, sortedCharacters, chapter_data } =
-    dataStore();
+  const {
+    scene_data,
+    character_data,
+    sortedCharacters,
+    chapter_data,
+    customColorDict,
+  } = dataStore();
   const svgRef = useRef<SVGSVGElement | null>(null);
 
   const def_margin = 10;
@@ -154,6 +160,13 @@ function CharacterNetwork(props: any) {
             ? emotion_color
             : characterColor === "importance"
             ? importance_color
+            : Object.keys(customColorDict).includes(characterColor)
+            ? getCustomColor(
+                customColorDict[characterColor],
+                character_data,
+                c_name,
+                characterColor
+              )
             : charColor,
       };
     }) as Node[];
@@ -360,7 +373,7 @@ function CharacterNetwork(props: any) {
       // window.removeEventListener("resize", updateDimensions);
       simulation.stop(); // Clean up the simulation on unmount
     };
-  }, [cur_scene, cumulativeMode]);
+  }, [cur_scene, cumulativeMode, characterColor]);
 
   return <svg ref={svgRef} style={{ maxWidth: "100%" }} />;
 }

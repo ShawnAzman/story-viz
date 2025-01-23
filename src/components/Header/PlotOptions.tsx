@@ -7,6 +7,7 @@ import Sidebar from "../Sidebar";
 import LocationDiv from "../Overlays/LocationDiv";
 import CharacterDiv from "../Overlays/CharacterDiv";
 import { isSameStory } from "../../utils/helpers";
+import { defaultCharacterColors } from "../../utils/colors";
 
 function PlotOptions() {
   const {
@@ -17,6 +18,7 @@ function PlotOptions() {
     setLocationHover,
     setSceneHover,
     setGroupHover,
+    setCustomHover,
     setHidden,
     yAxis,
     setYAxis,
@@ -31,6 +33,8 @@ function PlotOptions() {
     setDetailView,
     chapterHover,
     setChapterHover,
+    characterColor,
+    setCharacterColor,
   } = storyStore();
 
   const { data, setData, scenes, resetActiveChapters, num_chapters } =
@@ -135,73 +139,101 @@ function PlotOptions() {
 
   const handleStoryChange = async () => {
     try {
+      const localStorageKey = `characterData-${story}`;
+
+      console.log("Loading story data from file");
       const new_data = await import(`../../data/${story}.json`);
 
-      // update data once story is loaded
-      if (data !== new_data.default) {
-        let viewChapters = false;
-        const sameStory = isSameStory(story, prevStory);
+      // Save the data to localStorage for future use
+      let characterData = localStorage.getItem(localStorageKey);
 
-        if (
-          new_data.default["chapters"] &&
-          new_data.default["chapters"].length > 0 &&
-          (!sameStory || (sameStory && chapterView))
-        ) {
-          viewChapters = true;
-        }
-
-        if (!viewChapters && detailView && !sameStory) {
-          setDetailView(false);
-        }
-
-        if (
-          themeView &&
-          !story.includes("-themes") &&
-          !storyOptions.includes(story + "-themes")
-        ) {
-          setThemeView(false);
-        }
-
-        if (
-          chapterHover !== "" &&
-          (!new_data.default["chapters"] ||
-            (new_data.default["chapters"] &&
-              !new_data.default["chapters"].some(
-                (c: any) => c.chapter === chapterHover
-              )))
-        ) {
-          // reset chapter hover if it doesn't exist in new story
-          setChapterHover("");
-        }
-
-        let chapter = "";
-        if (chapterHover !== "" && !chapterView && detailView) {
-          chapter = chapterHover;
-        }
-
-        setData(
-          new_data.default,
-          viewChapters,
-          chapter,
-          sameStory && story === prevStory
-        );
-        setChapterView(viewChapters);
-
-        // reset the following values
-        setHidden([]);
-        setMinimized([]);
-        setLocationHover("");
-        setCharacterHover("");
-        setSceneHover("");
-        setGroupHover("");
-
-        if (!sameStory) {
-          setChapterHover("");
-          setPrevStory(story);
-        }
+      if (characterData) {
+        console.log("Using cached character data");
+        // set new_data.default["characters"] to the cached data
+        new_data.default["characters"] = JSON.parse(characterData);
+      } else {
+        console.log("Saving character data to cache");
+        characterData = JSON.stringify(new_data.default["characters"]);
+        localStorage.setItem(localStorageKey, characterData);
       }
+
+      // Update data with the loaded data
+      updateData(new_data.default);
     } catch (error) {
-      console.log("Error loading story data", error);
+      console.error("Error loading story data", error);
+    }
+  };
+
+  // Helper function to update the data
+  const updateData = (data: any) => {
+    let viewChapters = false;
+    const sameStory = isSameStory(story, prevStory);
+
+    if (
+      data["chapters"] &&
+      data["chapters"].length > 0 &&
+      (!sameStory || (sameStory && chapterView))
+    ) {
+      viewChapters = true;
+    }
+
+    if (!viewChapters && detailView && !sameStory) {
+      setDetailView(false);
+    }
+
+    if (
+      themeView &&
+      !story.includes("-themes") &&
+      !storyOptions.includes(story + "-themes")
+    ) {
+      setThemeView(false);
+    }
+
+    if (
+      chapterHover !== "" &&
+      (!data["chapters"] ||
+        (data["chapters"] &&
+          !data["chapters"].some((c: any) => c.chapter === chapterHover)))
+    ) {
+      setChapterHover("");
+    }
+
+    let chapter = "";
+    if (chapterHover !== "" && !chapterView && detailView) {
+      chapter = chapterHover;
+    }
+
+    setData(
+      data,
+      story,
+      viewChapters,
+      chapter,
+      sameStory && story === prevStory
+    );
+    setChapterView(viewChapters);
+
+    // Reset the following values
+    setHidden([]);
+    setMinimized([]);
+    setLocationHover("");
+    setCharacterHover("");
+    setSceneHover("");
+    setGroupHover("");
+    setCustomHover("");
+
+    // reset characterColor if it's not a valid option
+    const stored_colors = localStorage.getItem(`colorDict-${story}`);
+    if (
+      !stored_colors ||
+      (!defaultCharacterColors.includes(characterColor) &&
+        !Object.keys(JSON.parse(stored_colors)).includes(characterColor))
+    ) {
+      setCharacterColor("llm");
+    }
+
+    if (!sameStory) {
+      setChapterHover("");
+      setPrevStory(story);
     }
   };
 
@@ -221,7 +253,7 @@ function PlotOptions() {
     if (detailView && chapterHover !== "" && !chapterView) {
       chapter = chapterHover;
     }
-    setData(data, chapterView, chapter, true);
+    setData(data, story, chapterView, chapter, true);
   }, [chapterView, detailView, chapterHover]);
 
   useEffect(() => {

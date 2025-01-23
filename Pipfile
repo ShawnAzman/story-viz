@@ -13,6 +13,7 @@ seaborn = "*"
 langchain-google-genai = "*"
 sentence-transformers = "*"
 statsmodels = "*"
+flask = "*"
 
 [dev-packages]
 ipykernel = "*"

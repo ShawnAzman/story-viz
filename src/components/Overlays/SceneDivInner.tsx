@@ -7,6 +7,7 @@ import {
   getGroupColor,
   getLLMColor,
   importanceColor,
+  getCustomColor,
 } from "../../utils/colors";
 import { chapterFormatted, normalize } from "../../utils/helpers";
 import CharacterNetwork from "../Vis/CharacterNetwork";
@@ -24,6 +25,8 @@ function SceneDivInner(props: any) {
     chapterMax,
     sceneMin,
     sceneMax,
+    character_data,
+    customColorDict,
   } = dataStore();
   const {
     sceneHover,
@@ -380,6 +383,15 @@ function SceneDivInner(props: any) {
                                 ? sent_color
                                 : characterColor === "importance"
                                 ? imp_color
+                                : Object.keys(customColorDict).includes(
+                                    characterColor
+                                  )
+                                ? getCustomColor(
+                                    customColorDict[characterColor],
+                                    character_data,
+                                    char.character,
+                                    characterColor
+                                  )
                                 : charColor,
                           }}
                         />

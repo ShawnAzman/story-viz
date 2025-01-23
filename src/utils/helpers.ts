@@ -3,6 +3,7 @@ import {
   high_conflict_font,
   med_conflict_font,
 } from "./consts";
+import { CharacterData } from "./data";
 
 // capitalize first letter of string
 export const capitalize = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
@@ -170,4 +171,25 @@ export const isSameStory = (story1: string, story2: string) => {
   const story1_ = story1.replace("-themes", "");
   const story2_ = story2.replace("-themes", "");
   return story1_ === story2_;
+};
+
+export const charHasAttr = (
+  character_data: CharacterData[],
+  character: string,
+  attr: string,
+  value: string
+) => {
+  const charData = character_data.find((c) => c.character === character);
+  return charData && charData[attr] && charData[attr].val === value;
+};
+
+export const activeAttrInScene = (
+  characters: string[],
+  character_data: CharacterData[],
+  attr: string,
+  val: string
+) => {
+  return characters.some((char) =>
+    charHasAttr(character_data, char, attr, val)
+  );
 };

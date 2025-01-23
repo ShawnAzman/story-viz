@@ -2,6 +2,24 @@ import * as d3 from "d3";
 import { CharacterData } from "./data";
 import chroma from "chroma-js";
 
+// character color options
+export const defaultCharacterColors = [
+  "default",
+  "llm",
+  "group",
+  "sentiment",
+  "importance",
+];
+
+// custom color dict inferface
+export interface CustomColor {
+  color: string;
+  val: string;
+}
+export interface CustomColorDict {
+  [key: string]: CustomColor[];
+}
+
 // colors for characters
 const colors1 = chroma.scale("YlOrRd").padding([0.25, 0.1]).colors(7).reverse();
 const colors2 = chroma.scale("YlGn").padding([0.35, 0.55]).colors(2);
@@ -128,4 +146,17 @@ export const textColorLLM = (bgColor: string) => {
   const g = parseInt(rgb[1]);
   const b = parseInt(rgb[2]);
   return r * 0.299 + g * 0.587 + b * 0.114 > 100 ? "black" : "white";
+};
+
+// get custom user-added color
+export const getCustomColor = (
+  color_dict: CustomColor[],
+  character_data: CharacterData[],
+  character: string,
+  attr: string
+) => {
+  const char = character_data.find((c) => c.character === character);
+  const val = char?.[attr]?.val;
+  const color = color_dict.find((c) => c.val === val);
+  return color ? color.color : "gray";
 };

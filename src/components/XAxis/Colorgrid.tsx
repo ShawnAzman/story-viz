@@ -1,6 +1,7 @@
 import { dataStore } from "../../stores/dataStore";
 import { storyStore } from "../../stores/storyStore";
-import { getColor, getGroupColor } from "../../utils/colors";
+import { getColor, getGroupColor, getCustomColor } from "../../utils/colors";
+import { activeAttrInScene } from "../../utils/helpers";
 
 function Colorgrid(props: any) {
   const {
@@ -8,6 +9,8 @@ function Colorgrid(props: any) {
     chapterDivisions,
     activeChapters,
     characterScenes,
+    customColorDict,
+    character_data,
   } = dataStore();
   const {
     characterColor,
@@ -17,6 +20,8 @@ function Colorgrid(props: any) {
     setCharacterHover,
     hidden,
     setHidden,
+    customHover,
+    setCustomHover,
   } = storyStore();
   const gridType = props.gridType;
 
@@ -82,13 +87,58 @@ function Colorgrid(props: any) {
     return groupNames.every((name: string) => hidden.includes(name));
   };
 
-  const sortedGroups = sortedCharacters.map((char) => char.group);
+  const sortedGroups = Object.keys(customColorDict).includes(gridType)
+    ? sortedCharacters.map((char) => char[gridType]?.val)
+    : sortedCharacters.map((char) => char.group);
   const uniqueGroups = [...new Set(sortedGroups)];
 
   // map characters to groups
   const characterGroups = uniqueGroups.map((group) => {
-    return sortedCharacters.filter((char) => char.group === group);
+    return Object.keys(customColorDict).includes(gridType)
+      ? sortedCharacters.filter((char) => char[gridType]?.val === group)
+      : sortedCharacters.filter((char) => char.group === group);
   });
+
+  if (Object.keys(customColorDict).includes(gridType)) {
+    const getFirstNumber = (str: string) => {
+      const match = str.match(/\d+/); // Match the first number in the string
+      return match ? parseInt(match[0], 10) : null;
+    };
+    characterGroups.sort((a, b) => {
+      // sort groups by group name
+      const aValue = a[0][gridType]?.val;
+      const bValue = b[0][gridType]?.val;
+
+      const aNumber = getFirstNumber(aValue);
+      const bNumber = getFirstNumber(bValue);
+
+      if (aNumber !== null && bNumber !== null) {
+        // If both strings contain numbers, sort by the numbers
+        return aNumber - bNumber;
+      }
+
+      if (aNumber !== null) {
+        // If only `a` contains a number, it comes first
+        return -1;
+      }
+
+      if (bNumber !== null) {
+        // If only `b` contains a number, it comes first
+        return 1;
+      }
+
+      // Otherwise, compare the whole strings
+      if (aValue < bValue) {
+        return -1;
+      }
+      if (aValue > bValue) {
+        return 1;
+      }
+
+      return 0;
+    });
+  }
+
   return (
     <div
       id="colorgrid"
@@ -108,7 +158,8 @@ function Colorgrid(props: any) {
       style={{
         width: fullWidth
           ? "100%"
-          : gridType === "group"
+          : gridType === "group" ||
+            Object.keys(customColorDict).includes(gridType)
           ? characterGroups.length * 12
           : (gridType === "default" || gridType === "llm") &&
             sortedCharacters.length <
@@ -129,6 +180,7 @@ function Colorgrid(props: any) {
           return (
             <div
               key={char.character}
+              title={char.character}
               className={
                 "colorgrid-square " +
                 (activeCharacters
@@ -145,10 +197,20 @@ function Colorgrid(props: any) {
             ></div>
           );
         })}
-      {gridType === "group" &&
+      {(gridType === "group" ||
+        Object.keys(customColorDict).includes(gridType)) &&
         characterGroups.map((group) => {
-          const groupName = group[0].group;
-          const color = getGroupColor(groupName, uniqueGroups);
+          const groupName =
+            gridType === "group" ? group[0].group : group[0][gridType]?.val;
+          const color =
+            gridType === "group"
+              ? getGroupColor(groupName, uniqueGroups)
+              : getCustomColor(
+                  customColorDict[gridType],
+                  character_data,
+                  group[0].character,
+                  gridType
+                );
           const charNames = group.map((char) => char.character);
           return (
             <div
@@ -158,13 +220,27 @@ function Colorgrid(props: any) {
                 ((characterHover !== "" &&
                   !charNames.includes(characterHover)) ||
                 (groupHover !== "" && groupHover !== groupName) ||
+                (customHover !== "" &&
+                  !activeAttrInScene(
+                    charNames,
+                    character_data,
+                    characterColor,
+                    customHover
+                  )) ||
                 allCharsInHidden(group)
                   ? "faded"
                   : "")
               }
               style={{ backgroundColor: color }}
-              onMouseEnter={() => setGroupHover(groupName)}
-              onMouseLeave={() => setGroupHover("")}
+              onMouseEnter={() =>
+                gridType === "group"
+                  ? setGroupHover(groupName)
+                  : setCustomHover(groupName)
+              }
+              onMouseLeave={() =>
+                gridType === "group" ? setGroupHover("") : setCustomHover("")
+              }
+              title={gridType === "group" ? groupName : group[0][gridType]?.val}
               onClick={() => {
                 if (!allCharsInHidden(group)) {
                   hideAll(group);

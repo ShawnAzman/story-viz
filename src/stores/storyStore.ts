@@ -45,6 +45,8 @@ interface IStore {
   setCharacterHover: (val: string) => void;
   groupHover: string;
   setGroupHover: (val: string) => void;
+  customHover: string;
+  setCustomHover: (val: string) => void;
   sceneHover: string;
   setSceneHover: (val: string) => void;
   chapterHover: string;
@@ -70,6 +72,13 @@ interface IStore {
   cumulativeMode: boolean;
   setCumulativeMode: (val: boolean) => void;
 
+  modalOpened: boolean;
+  setModalOpened: (val: boolean) => void;
+  modalLoading: boolean;
+  setModalLoading: (val: boolean) => void;
+  modalType: string;
+  setModalType: (val: string) => void;
+
   resetAll: () => void;
 }
 
@@ -89,6 +98,7 @@ const initialState = {
   locationHover: "",
   characterHover: "",
   groupHover: "",
+  customHover: "",
   sceneHover: "",
   chapterHover: "",
   hidden: [],
@@ -110,6 +120,9 @@ export const storyStore = create<IStore>()((set) => ({
   showChapterText: false,
   curScrollScene: "",
   scrollSource: false,
+  modalOpened: false,
+  modalLoading: false,
+  modalType: "",
   ...initialState,
 
   setStory: (val: string) => set({ story: val }),
@@ -135,6 +148,7 @@ export const storyStore = create<IStore>()((set) => ({
   setLocationHover: (val: string) => set({ locationHover: val }),
   setCharacterHover: (val: string) => set({ characterHover: val }),
   setGroupHover: (val: string) => set({ groupHover: val }),
+  setCustomHover: (val: string) => set({ customHover: val }),
   setSceneHover: (val: string) => set({ sceneHover: val }),
   setChapterHover: (val: string) => set({ chapterHover: val }),
   setHidden: (val: string[]) => set({ hidden: val }),
@@ -147,6 +161,9 @@ export const storyStore = create<IStore>()((set) => ({
   setCurScrollScene: (val: string) => set({ curScrollScene: val }),
   setScrollSource: (val: boolean) => set({ scrollSource: val }),
   setCumulativeMode: (val: boolean) => set({ cumulativeMode: val }),
+  setModalOpened: (val: boolean) => set({ modalOpened: val }),
+  setModalLoading: (val: boolean) => set({ modalLoading: val }),
+  setModalType: (val: string) => set({ modalType: val }),
 
   resetAll: () => set({ ...initialState }),
 }));
