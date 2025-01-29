@@ -113,7 +113,8 @@ const characterPos = (
   sceneLocations: string[],
   sceneCharacters: SceneCharacter[],
   scene_data: Scene[],
-  sortedCharacters: CharacterData[]
+  sortedCharacters: CharacterData[],
+  customYAxisOptions: string[]
 ) => {
   const charPos = characterScenes.map((character) => {
     return character.scenes.map((scene) => {
@@ -334,6 +335,37 @@ const characterPos = (
     });
   });
 
+  const customPosDict = {} as any;
+  customYAxisOptions.forEach((axis: string) => {
+    // console.log("axis", axis);
+    const customPos = characterScenes.map((character) => {
+      return character.scenes.map((scene) => {
+        const cur_scene = scene_data[scene];
+        // console.log("cur_scene", cur_scene);
+        const char_rating = cur_scene.characters.find(
+          (c) => c.name === character.character
+        )?.[axis] as number;
+        // see if there are any other characters with the same emotion
+        const other_chars = cur_scene.characters.filter(
+          (c) => c[axis] === char_rating
+        );
+        // get index of current character in other_chars
+        const char_index = other_chars.findIndex(
+          (c) => c.name === character.character
+        );
+        return {
+          x: initialScenePos[scene].x - 0.5 * character_height,
+          y:
+            new_max_y +
+            location_offset * 0.5 -
+            new_max_y * char_rating +
+            character_offset * char_index,
+        };
+      });
+    });
+    customPosDict[axis] = customPos;
+  });
+
   return {
     charPos: charPos,
     promPos: promPos,
@@ -342,6 +374,7 @@ const characterPos = (
     charStackPos: charStackPos,
     numCharPos: numCharPos,
     charInc: char_inc,
+    customPos: customPosDict,
   };
 };
 
@@ -824,6 +857,7 @@ export const getAllPositions = (
   evenSpacing: boolean,
   ratingDict: RatingDict,
   yAxis: string = "location",
+  customYAxisOptions: string[] = [],
   activeSceneRange: number[] = [0, scenes.length]
 ) => {
   const sceneWidth = scene_width(locations, scenes);
@@ -863,7 +897,8 @@ export const getAllPositions = (
     sceneLocations,
     sceneCharacters,
     scene_data,
-    sortedCharacters
+    sortedCharacters,
+    customYAxisOptions
   );
 
   const initCharacterPos =
@@ -877,7 +912,9 @@ export const getAllPositions = (
       ? characterInfo.charListPos
       : yAxis === "# characters"
       ? characterInfo.numCharPos
-      : characterInfo.charStackPos;
+      : yAxis.includes("stacked")
+      ? characterInfo.charStackPos
+      : characterInfo.customPos[yAxis];
 
   const charInc = characterInfo.charInc;
 
@@ -988,5 +1025,6 @@ export const getAllPositions = (
     charInc: charInc,
     firstPoints: initFirstPoints,
     lastPoints: initLastPoints,
+    customPaths: {},
   };
 };

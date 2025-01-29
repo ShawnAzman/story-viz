@@ -14,6 +14,8 @@ import {
 } from "../utils/data";
 import init_data from "../data/gatsby.json";
 import { CustomColorDict, defaultCharacterColors } from "../utils/colors";
+import { defaultYAxisOptions } from "../utils/consts";
+import localforage from "localforage";
 
 /* INITIAL VALUES */
 const init_data_values = getAllData(init_data, false);
@@ -24,6 +26,7 @@ interface IStore {
   data: any;
 
   scene_data: Scene[];
+  og_scene_data: Scene[];
   chapter_data: Scene[];
   location_data: LocationData[];
   character_data: CharacterData[];
@@ -57,9 +60,16 @@ interface IStore {
 
   characterColorOptions: string[];
   customColorDict: CustomColorDict;
+  yAxisOptions: string[];
+  customYAxisOptions: string[];
 
   setCharacterColorOptions: (val: string[]) => void;
   setCustomColorDict: (val: CustomColorDict, val2: string) => void;
+  setYAxisOptions: (val: string[]) => void;
+  setCustomYAxisOptions: (val: string[], val2: string) => void;
+  setSceneData: (val: Scene[], val2: string, val3: boolean) => void;
+  setChapterData: (val: Scene[]) => void;
+  setOgSceneData: (val: Scene[], val2: string) => void;
   setCharacterData: (val: CharacterData[], val2: string) => void;
   setSortedCharacters: (val: CharacterData[]) => void;
   setData: (
@@ -77,6 +87,7 @@ const initialState = {
   data: init_data,
 
   scene_data: init_data_values.scene_data,
+  og_scene_data: init_data_values.og_scene_data,
   chapter_data: init_data_values.chapter_data,
   location_data: init_data_values.location_data,
   character_data: init_data_values.character_data,
@@ -110,6 +121,8 @@ const initialState = {
 
   characterColorOptions: defaultCharacterColors,
   customColorDict: {} as CustomColorDict,
+  yAxisOptions: defaultYAxisOptions,
+  customYAxisOptions: [] as string[],
 };
 
 export const dataStore = create<IStore>((set) => ({
@@ -119,17 +132,48 @@ export const dataStore = create<IStore>((set) => ({
   setCustomColorDict: (val: CustomColorDict, story: string) => {
     // update local storage
     const localStorageKey = `colorDict-${story}`;
-    localStorage.setItem(localStorageKey, JSON.stringify(val));
+    // localforage.setItem(localStorageKey, JSON.stringify(val));
+    localforage.setItem(localStorageKey, val);
     set({ customColorDict: val });
     console.log("Updated custom color dict");
+  },
+  setYAxisOptions: (val: string[]) => set({ yAxisOptions: val }),
+  setCustomYAxisOptions: (val: string[], story: string) => {
+    // update local storage
+    const localStorageKey = `yAxis-${story}`;
+    // localforage.setItem(localStorageKey, JSON.stringify(val));
+    localforage.setItem(localStorageKey, val);
+    set({ customYAxisOptions: val });
+    console.log("Updated custom y-axis options");
   },
   setSortedCharacters: (val: CharacterData[]) => {
     set({ sortedCharacters: val });
   },
+  setSceneData: (val: Scene[], story: string, themeView: boolean) => {
+    // update local storage
+    // if (!themeView) {
+    // localforage.setItem(localStorageKey, JSON.stringify(val));
+    // }
+    set({ scene_data: val });
+  },
+  setChapterData: (val: Scene[]) => {
+    // update local storage
+    // const localStorageKey = `chapterData-${story}`;
+    // localforage.setItem(localStorageKey, JSON.stringify(val));
+    set({ chapter_data: val });
+    // console.log("Updated chapter data");
+  },
+  setOgSceneData: (val: Scene[], story: string) => {
+    const localStorageKey = `sceneData-${story}`;
+    set({ og_scene_data: val });
+    localforage.setItem(localStorageKey, val);
+    console.log("Updated og scene data", val);
+  },
   setCharacterData: (val: CharacterData[], story: string) => {
     // update local storage
     const localStorageKey = `characterData-${story}`;
-    localStorage.setItem(localStorageKey, JSON.stringify(val));
+    // localforage.setItem(localStorageKey, JSON.stringify(val));
+    localforage.setItem(localStorageKey, val);
     set({ character_data: val });
     console.log("Updated character data");
   },
@@ -140,69 +184,103 @@ export const dataStore = create<IStore>((set) => ({
     chapter: string = "",
     same_story: boolean = false
   ) => {
-    const newData = getAllData(init_data, chapterView, chapter);
-
-    // check if color_dict is in local storage
     const localStorageKey = `colorDict-${story}`;
-    const storedDict = localStorage.getItem(localStorageKey);
-    let colorDict = {} as CustomColorDict;
-    let colorKeys = [...defaultCharacterColors];
-    if (storedDict) {
-      // if found, use the stored color_dict and convert it to an object
-      colorDict = JSON.parse(storedDict);
-      const newKeys = Object.keys(colorDict);
-      colorKeys.push(...newKeys.filter((k) => !colorKeys.includes(k)));
-      console.log("Loaded custom color dict from local storage");
-    } else {
-      console.log("No custom color dict found");
-    }
+    const yAxisKey = `yAxis-${story}`;
 
-    set((state) => {
-      const updates: Partial<IStore> = {
-        data: init_data,
-        scene_data: newData.scene_data,
-        location_data: newData.location_data,
-        character_data: newData.character_data,
-        locations: newData.locations,
-        location_quotes: newData.location_quotes,
-        location_chunks: newData.location_chunks,
-        characters: newData.characters,
-        characterScenes: newData.characterScenes,
-        character_quotes: newData.character_quotes,
-        sortedCharacters: newData.sortedCharacters,
-        scenes: newData.scenes,
-        sceneLocations: newData.sceneLocations,
-        sceneChunks: newData.sceneChunks,
-        sceneCharacters: newData.sceneCharacters,
-        sceneSummaries: newData.sceneSummaries,
-        ratingDict: newData.ratingDict,
-        minLines: newData.minLines,
-        maxLines: newData.maxLines,
-        chapterDivisions: newData.chapterDivisions,
-        num_chapters: newData.num_chapters,
-        activeChapters: [1, newData.num_chapters],
-        customColorDict: colorDict,
-        characterColorOptions: colorKeys,
-      };
+    // Start fetching data from localForage
+    const colorDictPromise =
+      localforage.getItem<CustomColorDict>(localStorageKey);
+    const yAxisOptionsPromise = localforage.getItem<string[]>(yAxisKey);
 
-      // Perform comparison logic only for chapter_data
-      if (
-        !same_story ||
-        state.sceneMin !== newData.sceneMin ||
-        state.sceneMax !== newData.sceneMax ||
-        state.chapterMin !== newData.chapterMin ||
-        state.chapterMax !== newData.chapterMax
-      ) {
-        console.log("updating chapter data");
-        updates.chapter_data = newData.chapter_data;
-        updates.sceneMin = newData.sceneMin;
-        updates.sceneMax = newData.sceneMax;
-        updates.chapterMin = newData.chapterMin;
-        updates.chapterMax = newData.chapterMax;
-      }
+    // Use Promise.all to wait for both fetch operations to complete
+    Promise.all([colorDictPromise, yAxisOptionsPromise])
+      .then(([storedDict, storedYAxis]) => {
+        let colorDict = storedDict || ({} as CustomColorDict);
+        let colorKeys = [...defaultCharacterColors];
 
-      return updates;
-    });
+        // Update colorKeys if storedDict exists
+        if (storedDict) {
+          const newKeys = Object.keys(colorDict);
+          colorKeys.push(...newKeys.filter((k) => !colorKeys.includes(k)));
+          console.log("Loaded custom color dict from local storage");
+        } else {
+          console.log("No custom color dict found");
+        }
+
+        let customAxisOptions = storedYAxis || ([] as string[]);
+        let yAxisOptions = [...defaultYAxisOptions];
+
+        // Update yAxisOptions if storedYAxis exists
+        if (storedYAxis) {
+          yAxisOptions.push(
+            ...customAxisOptions.filter((k) => !yAxisOptions.includes(k))
+          );
+          console.log("Loaded custom y-axis options from local storage");
+        } else {
+          console.log("No custom y-axis options found");
+        }
+
+        // Process the new data
+        const newData = getAllData(
+          init_data,
+          chapterView,
+          chapter,
+          customAxisOptions
+        );
+
+        const updates: Partial<IStore> = {
+          data: init_data,
+          scene_data: newData.scene_data,
+          og_scene_data: newData.og_scene_data,
+          location_data: newData.location_data,
+          character_data: newData.character_data,
+          locations: newData.locations,
+          location_quotes: newData.location_quotes,
+          location_chunks: newData.location_chunks,
+          characters: newData.characters,
+          characterScenes: newData.characterScenes,
+          character_quotes: newData.character_quotes,
+          sortedCharacters: newData.sortedCharacters,
+          scenes: newData.scenes,
+          sceneLocations: newData.sceneLocations,
+          sceneChunks: newData.sceneChunks,
+          sceneCharacters: newData.sceneCharacters,
+          sceneSummaries: newData.sceneSummaries,
+          ratingDict: newData.ratingDict,
+          minLines: newData.minLines,
+          maxLines: newData.maxLines,
+          chapterDivisions: newData.chapterDivisions,
+          num_chapters: newData.num_chapters,
+          activeChapters: [1, newData.num_chapters],
+          customColorDict: colorDict,
+          characterColorOptions: colorKeys,
+          customYAxisOptions: customAxisOptions,
+          yAxisOptions: yAxisOptions,
+        };
+
+        // Perform comparison logic only for chapter_data
+        if (
+          !same_story ||
+          updates.sceneMin !== newData.sceneMin ||
+          updates.sceneMax !== newData.sceneMax ||
+          updates.chapterMin !== newData.chapterMin ||
+          updates.chapterMax !== newData.chapterMax ||
+          customAxisOptions.length > 0
+        ) {
+          console.log("Updating chapter data");
+          updates.chapter_data = newData.chapter_data;
+          updates.sceneMin = newData.sceneMin;
+          updates.sceneMax = newData.sceneMax;
+          updates.chapterMin = newData.chapterMin;
+          updates.chapterMax = newData.chapterMax;
+        }
+
+        // Update the state with all the retrieved data
+        set(updates);
+      })
+      .catch((err) => {
+        console.error("Error fetching data from local storage", err);
+      });
   },
   setActiveChapters: (val: [number, number]) => set({ activeChapters: val }),
   resetActiveChapters: (maxChapter: number) =>

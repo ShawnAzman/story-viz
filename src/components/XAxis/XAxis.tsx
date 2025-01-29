@@ -271,9 +271,9 @@ function XAxis() {
                 sizeBy === "default"
                   ? 1.5
                   : sizeBy === "conflict"
-                  ? normalizeTextOffset(ratings.conflict)
+                  ? normalizeTextOffset(ratings?.conflict)
                   : sizeBy === "importance"
-                  ? normalizeTextOffset(ratings.importance)
+                  ? normalizeTextOffset(ratings?.importance)
                   : sizeBy === "numChars"
                   ? normalizeTextOffset(sceneChars)
                   : normalizeTextOffset(numLines);
@@ -282,16 +282,16 @@ function XAxis() {
                 sizeBy === "default"
                   ? 0.8
                   : sizeBy === "conflict"
-                  ? normalizeFontSize(ratings.conflict) +
-                    (ratings.conflict >= 0.66 ? 0.2 : 0)
+                  ? normalizeFontSize(ratings?.conflict) +
+                    (ratings?.conflict >= 0.66 ? 0.2 : 0)
                   : sizeBy === "importance"
-                  ? normalizeFontSize(ratings.importance) +
-                    (ratings.conflict >= 0.66 ? 0.2 : 0)
+                  ? normalizeFontSize(ratings?.importance) +
+                    (ratings?.conflict >= 0.66 ? 0.2 : 0)
                   : sizeBy === "numChars"
                   ? normalizeFontSize(sceneChars) +
-                    (ratings.conflict >= 0.66 ? 0.2 : 0)
+                    (ratings?.conflict >= 0.66 ? 0.2 : 0)
                   : normalizeFontSize(numLines) +
-                    (ratings.conflict >= 0.66 ? 0.2 : 0);
+                    (ratings?.conflict >= 0.66 ? 0.2 : 0);
 
               if (showChapters) {
                 fontSize = fontSize / 2;
@@ -301,11 +301,11 @@ function XAxis() {
                 colorBy === "default"
                   ? "black"
                   : colorBy === "sentiment"
-                  ? chroma(emotionColor(ratings.sentiment)).css()
+                  ? chroma(emotionColor(ratings?.sentiment)).css()
                   : colorBy === "conflict"
-                  ? chroma(conflictColor(ratings.conflict)).css()
+                  ? chroma(conflictColor(ratings?.conflict)).css()
                   : colorBy === "importance"
-                  ? chroma(importanceColor(ratings.importance)).css()
+                  ? chroma(importanceColor(ratings?.importance)).css()
                   : colorBy === "numChars"
                   ? chroma(numCharsColor(sceneChars)).css()
                   : chroma(lengthColor(numLines)).css();
@@ -317,9 +317,9 @@ function XAxis() {
 
               const weight =
                 weightBy === "importance"
-                  ? getFontWeight(ratings.importance)
+                  ? getFontWeight(ratings?.importance)
                   : weightBy === "conflict"
-                  ? getFontWeight(ratings.conflict)
+                  ? getFontWeight(ratings?.conflict)
                   : weightBy === "length"
                   ? getFontWeight(numLines)
                   : weightBy === "numChars"
@@ -405,11 +405,11 @@ function XAxis() {
             !showOverlay || colorBy === "default"
               ? "black"
               : colorBy === "conflict"
-              ? textColor(scene_data[0].ratings.conflict, false)
+              ? textColor(scene_data[0].ratings?.conflict, false)
               : colorBy === "sentiment"
-              ? textColor(scene_data[0].ratings.sentiment, true)
+              ? textColor(scene_data[0].ratings?.sentiment, true)
               : colorBy === "importance"
-              ? textColor(scene_data[0].ratings.importance, false)
+              ? textColor(scene_data[0].ratings?.importance, false)
               : colorBy === "# characters"
               ? textColor(
                   normalize(

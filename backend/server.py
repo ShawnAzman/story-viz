@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-from prompts import assign_character_attributes
+from prompts import add_yaxis_data, assign_character_attributes
 from helpers import load_model
 
 
@@ -28,6 +28,21 @@ def add_new_colors():
     print("Colors added.")
     print("*" * 50)
     return jsonify({"char_attrs": char_attrs, "color_assignments": color_assignments})
+
+@app.route("/new_yaxis", methods=['POST'])
+def add_new_yaxis():
+    print("Adding new y-axis...")
+    payload = request.json
+    data = payload.get('data')
+    # print("Data:", data)
+    yaxis_desc = payload.get('yaxis_desc')
+    print("Y-axis:", yaxis_desc)
+    story_type = payload.get('story_type')
+    print("Story type:", story_type)
+    new_data = add_yaxis_data(llm, data, yaxis_desc, story_type)
+    print("Y-axis added.")
+    print("*" * 50)
+    return jsonify({"new_data": new_data})
 
 @app.route("/status", methods=['GET'])
 def status():

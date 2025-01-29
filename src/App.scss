@@ -983,7 +983,13 @@ h1 {
   margin: 0 auto 40px;
   scrollbar-width: none;
   position: relative;
+  // transition: 0.3s;
   // hide scrollbar
+
+  &.loading {
+    opacity: 0.3;
+    pointer-events: none;
+  }
 
   #y-axis-div {
     position: fixed;
@@ -1094,6 +1100,10 @@ h1 {
             rgb(20.5, 97, 168.5),
             rgb(8, 48, 107)
           );
+        }
+
+        &.custom {
+          background: linear-gradient(to top, #ddd, #aaa, #777, #444, #111);
         }
 
         span {
@@ -1850,6 +1860,34 @@ h1 {
   display: none;
 }
 
+.delete-button {
+  cursor: pointer;
+  transition: 0.3s;
+  position: absolute;
+  left: calc(50% - 1rem);
+  transform: translateX(calc(-50% - 0.5rem));
+  font-family: "Shantell Sans";
+  font-weight: 500;
+  margin-top: 0.15rem;
+  font-size: smaller;
+  letter-spacing: 0.25px;
+
+  &.y-axis {
+    left: unset;
+    right: 0;
+    transform: unset;
+  }
+
+  &:hover {
+    opacity: 0.7;
+  }
+
+  &.disabled {
+    opacity: 0;
+    pointer-events: none;
+  }
+}
+
 .sidebar-settings {
   font-size: 11px;
   .annotation {
@@ -1867,28 +1905,6 @@ h1 {
   }
   .margin-top {
     margin-top: 0.75rem;
-  }
-
-  .delete-button {
-    cursor: pointer;
-    transition: 0.3s;
-    position: absolute;
-    left: calc(50% - 1rem);
-    transform: translateX(calc(-50% - 0.5rem));
-    font-family: "Shantell Sans";
-    font-weight: 500;
-    margin-top: 0.15rem;
-    font-size: smaller;
-    letter-spacing: 0.25px;
-
-    &:hover {
-      opacity: 0.7;
-    }
-
-    &.disabled {
-      opacity: 0;
-      pointer-events: none;
-    }
   }
 }
 
@@ -1975,6 +1991,21 @@ h1 {
         opacity: 0.7;
       }
     }
+  }
+}
+
+// SPINNER
+#spinner {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: 0.3s;
+
+  &.hidden {
+    visibility: hidden;
+    pointer-events: none;
+    opacity: 0;
   }
 }
 

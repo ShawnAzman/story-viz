@@ -81,6 +81,8 @@ interface IStore {
 
   isBackendActive: boolean;
   setIsBackendActive: (val: boolean) => void;
+  isUpdatingData: boolean;
+  setIsUpdatingData: (val: boolean) => void;
   resetAll: () => void;
 }
 
@@ -126,6 +128,7 @@ export const storyStore = create<IStore>()((set) => ({
   modalLoading: false,
   modalType: "",
   isBackendActive: false,
+  isUpdatingData: false,
   ...initialState,
 
   setStory: (val: string) => set({ story: val }),
@@ -169,5 +172,6 @@ export const storyStore = create<IStore>()((set) => ({
   setModalType: (val: string) => set({ modalType: val }),
 
   setIsBackendActive: (val: boolean) => set({ isBackendActive: val }),
+  setIsUpdatingData: (val: boolean) => set({ isUpdatingData: val }),
   resetAll: () => set({ ...initialState }),
 }));

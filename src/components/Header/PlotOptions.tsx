@@ -8,6 +8,8 @@ import LocationDiv from "../Overlays/LocationDiv";
 import CharacterDiv from "../Overlays/CharacterDiv";
 import { isSameStory } from "../../utils/helpers";
 import { defaultCharacterColors } from "../../utils/colors";
+import localforage from "localforage";
+import { defaultYAxisOptions } from "../../utils/consts";
 
 function PlotOptions() {
   const {
@@ -35,10 +37,22 @@ function PlotOptions() {
     setChapterHover,
     characterColor,
     setCharacterColor,
+    isBackendActive,
+    setModalOpened,
+    setModalType,
+    isUpdatingData,
+    setIsUpdatingData,
   } = storyStore();
 
-  const { data, setData, scenes, resetActiveChapters, num_chapters } =
-    dataStore();
+  const {
+    data,
+    setData,
+    scenes,
+    resetActiveChapters,
+    num_chapters,
+    yAxisOptions,
+    customYAxisOptions,
+  } = dataStore();
   const { plotHeight } = positionStore();
   const storyOptions = [
     "gatsby",
@@ -121,127 +135,181 @@ function PlotOptions() {
     (s) => !s.includes("-themes")
   );
 
-  const yAxisOptions = [
-    { label: "location", value: "location" },
-    {
-      label: themeView ? "themes" : "character",
-      value: "character",
-    },
-    {
-      label: themeView ? "themes (stacked)" : "character (stacked)",
-      value: "character (stacked)",
-    },
-    // {
-    //   label: themeView ? "# themes" : "# characters",
-    //   value: "# characters",
-    // },
-    { label: "importance", value: "importance" },
-    { label: "sentiment", value: "sentiment" },
-  ];
+  const myYAxisOptions = yAxisOptions.map((y) => {
+    if (y === "character") {
+      return { label: themeView ? "themes" : "character", value: y };
+    } else if (y === "character (stacked)") {
+      return {
+        label: themeView ? "themes (stacked)" : "character (stacked)",
+        value: y,
+      };
+    }
+
+    return { label: y, value: y };
+  });
 
   const [prevStory, setPrevStory] = useState(story);
 
   const handleStoryChange = async () => {
     try {
       const localStorageKey = `characterData-${story}`;
+      const sceneStorageKey = `sceneData-${story}`;
 
       console.log("Loading story data from file");
       const new_data = await import(`../../data/${story}.json`);
 
-      // Save the data to localStorage for future use
-      let characterData = localStorage.getItem(localStorageKey);
+      // Retrieve character data
+      let characterData = await localforage
+        .getItem(localStorageKey)
+        .catch((error) => {
+          console.error("Error loading character data", error);
+          return null;
+        });
 
       if (characterData) {
         console.log("Using cached character data");
-        // set new_data.default["characters"] to the cached data
-        new_data.default["characters"] = JSON.parse(characterData);
+        new_data.default["characters"] = characterData;
       } else {
         console.log("Saving character data to cache");
-        characterData = JSON.stringify(new_data.default["characters"]);
-        localStorage.setItem(localStorageKey, characterData);
+        characterData = new_data.default["characters"];
+        localforage.setItem(localStorageKey, characterData);
       }
 
-      // Update data with the loaded data
-      updateData(new_data.default);
+      // Retrieve scene data
+      let sceneData = await localforage
+        .getItem(sceneStorageKey)
+        .catch((error) => {
+          console.error("Error loading scene data", error);
+          return null;
+        });
+
+      if (sceneData) {
+        console.log("Using cached scene data");
+        new_data.default["scenes"] = sceneData;
+      } else {
+        console.log("Saving scene data to cache");
+        sceneData = new_data.default["scenes"];
+        localforage.setItem(sceneStorageKey, sceneData);
+      }
+
+      // Ensure `updateData` doesn't conflict with `useEffect`
+      if (!isUpdatingData) {
+        await updateData(new_data.default);
+      }
     } catch (error) {
       console.error("Error loading story data", error);
     }
   };
 
   // Helper function to update the data
-  const updateData = (data: any) => {
-    let viewChapters = false;
-    const sameStory = isSameStory(story, prevStory);
+  const updateData = async (data: any) => {
+    if (isUpdatingData) return; // Prevent concurrent execution
 
-    if (
-      data["chapters"] &&
-      data["chapters"].length > 0 &&
-      (!sameStory || (sameStory && chapterView))
-    ) {
-      viewChapters = true;
-    }
+    setIsUpdatingData(true); // Mark as running
 
-    if (!viewChapters && detailView && !sameStory) {
-      setDetailView(false);
-    }
+    try {
+      let viewChapters = false;
+      const sameStory = isSameStory(story, prevStory);
 
-    if (
-      themeView &&
-      !story.includes("-themes") &&
-      !storyOptions.includes(story + "-themes")
-    ) {
-      setThemeView(false);
-    }
+      if (
+        data["chapters"] &&
+        data["chapters"].length > 0 &&
+        (!sameStory || (sameStory && chapterView))
+      ) {
+        viewChapters = true;
+      }
 
-    if (
-      chapterHover !== "" &&
-      (!data["chapters"] ||
-        (data["chapters"] &&
-          !data["chapters"].some((c: any) => c.chapter === chapterHover)))
-    ) {
-      setChapterHover("");
-    }
+      if (!viewChapters && detailView && !sameStory) {
+        setDetailView(false);
+      }
 
-    let chapter = "";
-    if (chapterHover !== "" && !chapterView && detailView) {
-      chapter = chapterHover;
-    }
+      if (
+        themeView &&
+        !story.includes("-themes") &&
+        !storyOptions.includes(story + "-themes")
+      ) {
+        setThemeView(false);
+      }
 
-    setData(
-      data,
-      story,
-      viewChapters,
-      chapter,
-      sameStory && story === prevStory
-    );
-    setChapterView(viewChapters);
+      if (
+        chapterHover !== "" &&
+        (!data["chapters"] ||
+          (data["chapters"] &&
+            !data["chapters"].some((c: any) => c.chapter === chapterHover)))
+      ) {
+        setChapterHover("");
+      }
 
-    // Reset the following values
-    setHidden([]);
-    setMinimized([]);
-    setLocationHover("");
-    setCharacterHover("");
-    setSceneHover("");
-    setGroupHover("");
-    setCustomHover("");
+      let chapter = "";
+      if (chapterHover !== "" && !chapterView && detailView) {
+        chapter = chapterHover;
+      }
 
-    // reset characterColor if it's not a valid option
-    const stored_colors = localStorage.getItem(`colorDict-${story}`);
-    let all_colors = [...defaultCharacterColors];
-    if (stored_colors) {
-      const new_colors = Object.keys(JSON.parse(stored_colors)).filter(
-        (c) => !all_colors.includes(c)
+      setData(
+        data,
+        story,
+        viewChapters,
+        chapter,
+        sameStory && story === prevStory
       );
-      all_colors = [...all_colors, ...new_colors];
-    }
+      setChapterView(viewChapters);
 
-    if (!all_colors.includes(characterColor)) {
-      setCharacterColor("llm");
-    }
+      // Reset hover and hidden states
+      setHidden([]);
+      setMinimized([]);
+      setLocationHover("");
+      setCharacterHover("");
+      setSceneHover("");
+      setGroupHover("");
+      setCustomHover("");
 
-    if (!sameStory) {
-      setChapterHover("");
-      setPrevStory(story);
+      // Reset characterColor if it's not a valid option
+      const localStorageKey = `colorDict-${story}`;
+      let stored_colors = await localforage
+        .getItem(localStorageKey)
+        .catch((error) => {
+          console.error("Error loading colors", error);
+          return null;
+        });
+
+      let all_colors = [...defaultCharacterColors];
+      if (stored_colors) {
+        const new_colors = Object.keys(stored_colors).filter(
+          (c) => !all_colors.includes(c)
+        );
+        all_colors = [...all_colors, ...new_colors];
+      }
+
+      if (!all_colors.includes(characterColor)) {
+        setCharacterColor("llm");
+      }
+
+      // Reset y-axis if it's not a valid option
+      const yAxisKey = `yAxis-${story}`;
+      let stored_yAxis = await localforage.getItem(yAxisKey).catch((error) => {
+        console.error("Error loading y-axis", error);
+        return null;
+      });
+
+      let all_yAxis = [...defaultYAxisOptions];
+      if (stored_yAxis) {
+        const new_yAxis = (stored_yAxis as string[]).filter(
+          (y: string) => !all_yAxis.includes(y)
+        );
+        all_yAxis = [...all_yAxis, ...new_yAxis];
+      }
+
+      if (!all_yAxis.includes(yAxis)) {
+        console.log("Resetting y-axis to default");
+        setYAxis("location");
+      }
+
+      if (!sameStory) {
+        setChapterHover("");
+        setPrevStory(story);
+      }
+    } finally {
+      setIsUpdatingData(false); // Mark as completed
     }
   };
 
@@ -253,15 +321,20 @@ function PlotOptions() {
     ) {
       setStory(story + "-themes");
     }
-    handleStoryChange();
-  }, [story]);
+    if (!isUpdatingData) {
+      handleStoryChange();
+    }
+  }, [story, chapterView]);
 
   useEffect(() => {
     let chapter = "";
     if (detailView && chapterHover !== "" && !chapterView) {
       chapter = chapterHover;
     }
-    setData(data, story, chapterView, chapter, true);
+
+    if (!isUpdatingData) {
+      setData(data, story, chapterView, chapter, true);
+    }
   }, [chapterView, detailView, chapterHover]);
 
   useEffect(() => {
@@ -277,6 +350,11 @@ function PlotOptions() {
       setChapterHover("");
     }
   }, [detailView]);
+
+  const openModal = (mod_type: string = "addY") => {
+    setModalType(mod_type);
+    setModalOpened(true);
+  };
 
   return (
     <div id="options">
@@ -340,16 +418,40 @@ function PlotOptions() {
             }}
           />
 
-          <Select
-            size="xs"
-            data={yAxisOptions}
-            label="Y Axis"
-            value={yAxis}
-            onChange={(value) => {
-              if (value) setYAxis(value);
-            }}
-          />
+          <div style={{ position: "relative" }}>
+            <span
+              onClick={() => openModal("deleteYAxis")}
+              className={
+                "delete-button y-axis " +
+                (!customYAxisOptions.includes(yAxis) ? "disabled" : "")
+              }
+            >
+              delete
+            </span>
+            <Select
+              size="xs"
+              data={myYAxisOptions}
+              label="Y Axis"
+              value={yAxis}
+              onChange={(value) => {
+                if (value) setYAxis(value);
+              }}
+            />
+          </div>
 
+          <Button
+            size="xs"
+            variant="light"
+            title={
+              isBackendActive ? "Add custom y-axis" : "Backend is not connected"
+            }
+            disabled={!isBackendActive}
+            onClick={() => openModal()}
+          >
+            Add custom y-axis
+          </Button>
+
+          <Divider orientation="vertical" />
           <Button
             size="xs"
             onClick={() => {
@@ -359,7 +461,6 @@ function PlotOptions() {
           >
             Reset All
           </Button>
-          <Divider orientation="vertical" />
           <Sidebar />
         </div>
       </div>

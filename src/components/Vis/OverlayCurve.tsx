@@ -16,7 +16,6 @@ function OverlayCurve() {
     positionStore();
   const { scenes } = dataStore();
 
-  console.log(numCharsPath);
   return (
     <g
       id="conflict-container"

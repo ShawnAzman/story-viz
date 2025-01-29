@@ -160,15 +160,15 @@ function Defs() {
                 (c) => c.name === char.character
               ) as any);
 
-            const emotion_val = firstScene.rating as number;
-            const importance_val = firstScene.importance as number;
+            const emotion_val = firstScene?.rating as number;
+            const importance_val = firstScene?.importance as number;
             const emotion_color = chroma(emotionColor(emotion_val)).css();
             const importance_color = chroma(
               importanceColor(importance_val)
             ).css();
 
-            const emotion_val2 = lastScene.rating as number;
-            const importance_val2 = lastScene.importance as number;
+            const emotion_val2 = lastScene?.rating as number;
+            const importance_val2 = lastScene?.importance as number;
             const emotion_color2 = chroma(emotionColor(emotion_val2)).css();
             const importance_color2 = chroma(
               importanceColor(importance_val2)
@@ -238,8 +238,8 @@ function Defs() {
                   const char_data = scene_data[scene].characters.find(
                     (c) => c.name === char.character
                   ) as any;
-                  const emotion_val = char_data.rating as number;
-                  const importance_val = char_data.importance as number;
+                  const emotion_val = char_data?.rating as number;
+                  const importance_val = char_data?.importance as number;
                   const seg_emotion_color = chroma(
                     emotionColor(emotion_val)
                   ).css();

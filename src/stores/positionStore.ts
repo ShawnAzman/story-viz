@@ -44,6 +44,7 @@ interface IStore {
   charInc: number;
   firstPoints: Position[];
   lastPoints: Position[];
+  customPaths: { [key: string]: string };
 
   setPositions: (
     scene_data: Scene[],
@@ -55,7 +56,8 @@ interface IStore {
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
     ratingDict: RatingDict,
-    yAxis: string
+    yAxis: string,
+    customYAxisOptions: string[]
   ) => void;
   setPaths: (
     scene_data: Scene[],
@@ -68,6 +70,7 @@ interface IStore {
     evenSpacing: boolean,
     ratingDict: RatingDict,
     yAxis: string,
+    customYAxisOptions: string[],
     activeScenes: [number, number]
   ) => void;
 }
@@ -90,6 +93,7 @@ const initialState = {
   charInc: init_pos_values.charInc,
   firstPoints: init_pos_values.firstPoints,
   lastPoints: init_pos_values.lastPoints,
+  customPaths: {},
 };
 
 export const positionStore = create<IStore>((set, get) => ({
@@ -104,7 +108,8 @@ export const positionStore = create<IStore>((set, get) => ({
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
     ratingDict: RatingDict,
-    yAxis: string = "location"
+    yAxis: string = "location",
+    customYAxisOptions: string[] = []
   ) => {
     const newPositions = getAllPositions(
       scene_data,
@@ -116,7 +121,8 @@ export const positionStore = create<IStore>((set, get) => ({
       sortedCharacters,
       evenSpacing,
       ratingDict,
-      yAxis
+      yAxis,
+      customYAxisOptions
     );
 
     const { characterPaths } = get();
@@ -143,6 +149,7 @@ export const positionStore = create<IStore>((set, get) => ({
       charInc: newPositions.charInc,
       firstPoints: newPositions.firstPoints,
       lastPoints: newPositions.lastPoints,
+      customPaths: newPositions.customPaths,
     });
   },
   setPaths: (
@@ -156,6 +163,7 @@ export const positionStore = create<IStore>((set, get) => ({
     evenSpacing: boolean,
     ratingDict: RatingDict,
     yAxis: string = "location",
+    customYAxisOptions: string[] = [],
     activeScenes: [number, number]
   ) => {
     const newPositions = getAllPositions(
@@ -169,6 +177,7 @@ export const positionStore = create<IStore>((set, get) => ({
       evenSpacing,
       ratingDict,
       yAxis,
+      customYAxisOptions,
       activeScenes
     );
     set({
@@ -176,6 +185,7 @@ export const positionStore = create<IStore>((set, get) => ({
       lengthPath: newPositions.lengthPath,
       conflictPath: newPositions.conflictPath,
       numCharsPath: newPositions.numCharsPath,
+      customPaths: newPositions.customPaths,
     });
   },
 }));

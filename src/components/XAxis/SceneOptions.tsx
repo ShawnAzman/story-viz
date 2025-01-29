@@ -15,6 +15,7 @@ function SceneOptions() {
     themeView,
     chapterView,
     scaleByLength,
+    isUpdatingData,
   } = storyStore();
 
   const {
@@ -28,6 +29,7 @@ function SceneOptions() {
     ratingDict,
     activeChapters,
     chapterDivisions,
+    customYAxisOptions,
   } = dataStore();
   const { setPaths, setPositions, plotHeight } = positionStore();
 
@@ -52,7 +54,8 @@ function SceneOptions() {
         sortedCharacters,
         !scaleByLength,
         ratingDict,
-        yAxis
+        yAxis,
+        customYAxisOptions
       );
     }
   };
@@ -90,12 +93,14 @@ function SceneOptions() {
         !scaleByLength,
         ratingDict,
         yAxis,
+        customYAxisOptions,
         activeScenes
       );
     }
   };
 
   useEffect(() => {
+    if (isUpdatingData) return;
     set_pos();
     if (
       (scenes.length < 24 && plotHeight < 800) ||
@@ -105,9 +110,10 @@ function SceneOptions() {
     ) {
       setFullHeight(false);
     }
-  }, [scene_data, plotHeight, scaleByLength, yAxis]);
+  }, [scene_data, plotHeight, scaleByLength, yAxis, isUpdatingData]);
 
   useEffect(() => {
+    if (isUpdatingData) return;
     updatePaths();
   }, [activeChapters]);
 

@@ -48,6 +48,7 @@ export interface Character {
   role: string;
   numScenes?: number;
   top_scene?: number;
+  [key: string]: any; // additional fields that could be added by user
 }
 export interface CharacterLink {
   source: string;
@@ -65,7 +66,7 @@ export interface Scene {
   lastLine: number;
   numLines: number;
   chapter: string;
-  text: string;
+  // text: string;
   ratings: {
     importance: number;
     conflict: number;
@@ -199,7 +200,7 @@ const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
       : scene.last_line
       ? scene.last_line
       : scene.numLines;
-    scene.text = scene.text ? scene.text : "";
+    // scene.text = scene.text ? scene.text : "";
     scene.ratings = scene.ratings ? scene.ratings : {};
     scene.ratings.conflict = scene.ratings.conflict
       ? scene.ratings.conflict
@@ -800,7 +801,8 @@ const getChapterDivisions = (
 export const getAllData = (
   init_data: any,
   chapterView: boolean,
-  chapter: string = ""
+  chapter: string = "",
+  customAxisOptions: string[] = []
 ) => {
   const init_chapter_data = chapter_data(init_data);
   const sceneMinMax = getMinMaxLines(
@@ -816,6 +818,7 @@ export const getAllData = (
   const sceneMax = sceneMinMax[1];
 
   let init_scene_data = scene_data(init_data, init_chapter_data);
+  const og_scene_data = [...init_scene_data];
   const init_chapter_scene_data = chapter_scene_data(
     init_chapter_data,
     init_scene_data
@@ -833,8 +836,36 @@ export const getAllData = (
   const chapterMin = chapterMinMax[0];
   const chapterMax = chapterMinMax[1];
 
+  // update chapter data if custom y-axis options are set
+  const new_chapter_data = [...init_chapter_scene_data];
+
+  if (customAxisOptions.length > 0) {
+    new_chapter_data.forEach((chapter) => {
+      const scenes = init_scene_data.filter(
+        (scene: any) => scene.chapter === chapter.chapter
+      );
+      const chapter_chars = chapter.characters;
+      chapter_chars.forEach((char) => {
+        const name = char.name;
+        const char_scenes = scenes.filter((scene: any) =>
+          scene.characters.map((c: any) => c.name).includes(name)
+        );
+        customAxisOptions.forEach((axis) => {
+          const char_vals = char_scenes.map(
+            (scene: any) =>
+              scene.characters.find((c: any) => c.name === name)?.[axis]
+          );
+          const char_val =
+            char_vals.reduce((a: number, b: number) => a + b, 0) /
+            char_vals.length;
+          char[axis] = char_val;
+        });
+      });
+    });
+  }
+
   if (chapterView && init_chapter_scene_data.length > 0) {
-    init_scene_data = init_chapter_scene_data;
+    init_scene_data = [...init_chapter_scene_data];
   }
 
   if (chapter !== "") {
@@ -897,6 +928,7 @@ export const getAllData = (
 
   return {
     scene_data: init_scene_data,
+    og_scene_data: og_scene_data,
     chapter_data: init_chapter_scene_data,
     location_data: init_location_data,
     character_data: init_character_data,

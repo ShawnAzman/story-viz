@@ -9,9 +9,11 @@ import {
   location_buffer,
   location_height,
 } from "../../utils/consts";
+import { dataStore } from "../../stores/dataStore";
 
 function YAxisDiv() {
   const { plotHeight } = positionStore();
+  const { customYAxisOptions } = dataStore();
   const {
     yAxisHeight,
     storyMarginTop,
@@ -91,7 +93,8 @@ function YAxisDiv() {
         {(yAxis === "importance" ||
           yAxis === "sentiment" ||
           yAxis.includes("#") ||
-          yAxis.includes("stacked")) && <ColorAxis />}
+          yAxis.includes("stacked") ||
+          customYAxisOptions.includes(yAxis)) && <ColorAxis />}
         {yAxis === "character" && <CharacterAxis />}
       </div>
     </div>

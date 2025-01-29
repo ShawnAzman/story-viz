@@ -27,6 +27,7 @@ function SceneDivInner(props: any) {
     sceneMax,
     character_data,
     customColorDict,
+    customYAxisOptions,
   } = dataStore();
   const {
     sceneHover,
@@ -42,6 +43,7 @@ function SceneDivInner(props: any) {
     setScrollSource,
     cumulativeMode,
     setCumulativeMode,
+    yAxis,
   } = storyStore();
 
   let scene;
@@ -405,6 +407,8 @@ function SceneDivInner(props: any) {
                             }}
                           >
                             (importance: {character.importance_rank}
+                            {customYAxisOptions.includes(yAxis) &&
+                              `, ${yAxis}: ${character[yAxis]}`}
                             {character.numScenes
                               ? ", scenes: " + character.numScenes
                               : ""}

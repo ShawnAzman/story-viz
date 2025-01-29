@@ -1,5 +1,5 @@
 from helpers import load_model
-from prompts import assign_character_attributes
+from prompts import add_yaxis_data, assign_character_attributes
 import json
 
 # start main method
@@ -18,19 +18,35 @@ def main():
     # get character data
     charData = data["characters"]
 
+    # get scene data
+    sceneData = data["scenes"]
+
     # color
     color = "gender"
+
+    # y-axis
+    y_axis = "happiness"
 
     # convert charData to JSON string
     charData = json.dumps(charData)
 
-    # test assinging character attributes + colors
-    char_attrs, color_assignments = assign_character_attributes(llm, charData, color, "character")
+    # convert sceneData to JSON string
+    sceneData = json.dumps(sceneData)
+    
 
-    print("Character attributes:")
-    print(char_attrs)
-    print("\nColor assignments:")
-    print(color_assignments)
+    # test assinging character attributes + colors
+    # char_attrs, color_assignments = assign_character_attributes(llm, charData, color, "character")
+
+    # print("Character attributes:")
+    # print(char_attrs)
+    # print("\nColor assignments:")
+    # print(color_assignments)
+
+    # test adding y-axis data
+    new_data = add_yaxis_data(llm, sceneData, y_axis, "character")
+
+    # print("New data:")
+    # print(new_data)
 
 if __name__ == "__main__":
     main()

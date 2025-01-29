@@ -2,6 +2,7 @@ from pydantic import BaseModel, Field
 import json
 
 # Pydantic
+# COLORS
 class CharacterAttribute(BaseModel):
     """Assigns an attribute value to a character"""
     character: str = Field(description="The character to assign a color to")
@@ -32,6 +33,25 @@ class ColorAssignments(BaseModel):
     colors: list[ColorAssignment] = Field(description="List of colors for each attribute value. Make sure there is exactly one entry per attribute value in the provided list and no additional attribute values are added. Choose a different color for each attribute value.")
 
 MAX_CHARS_PER_ROUND = 30
+
+# Y-AXIS
+class SceneCharacter(BaseModel):
+    """Assigns rating to a character in a scene"""
+    character: str = Field(description="The character to assign a rating to")
+    rating: float = Field(description="The rating (between 0 to 1) to assign to this character")
+
+class SceneCharacters(BaseModel):
+    """List of ratings for all characters in a scene"""
+    characters: list[SceneCharacter] = Field(description="List of characters and their ratings in this scene")
+
+class SceneTheme(BaseModel):
+    """Assigns rating to a theme in a scene"""
+    character: str = Field(description="The theme to assign a rating to")
+    rating: float = Field(description="The rating (between 0 to 1) to assign to this theme")
+
+class SceneThemes(BaseModel):
+    """List of ratings for all themes in a scene"""
+    characters: list[SceneTheme] = Field(description="List of themes and their ratings in this scene")
 
 # Assign values to characters for the given attribute
 def assign_character_attributes(llm, charData, attr, story_type):
@@ -92,3 +112,53 @@ def assign_character_attributes(llm, charData, attr, story_type):
     # print(color_assignments)
 
     return char_attrs, color_assignments
+
+def add_yaxis_data(llm, sceneData, y_axis, story_type):
+    scene_llm = llm.with_structured_output(SceneCharacters if story_type == "character" else SceneThemes)
+
+    # convert sceneData to JSON if string
+    if isinstance(sceneData, str):
+        print("Converting sceneData to JSON...")
+        sceneData = json.loads(sceneData)
+
+    # copy sceneData
+    new_data = sceneData.copy()
+
+    # split the scenes into groups of MAX_SCENES_PER_ROUND
+    # split_sceneData = [sceneData[i:i + MAX_SCENES_PER_ROUND] for i in range(0, len(sceneData), MAX_SCENES_PER_ROUND)]
+    for i, sd in enumerate(sceneData):
+        print(f"Round {i + 1} of {len(sceneData)}")
+        prompt = f"""
+                Assign each {story_type} a rating between 0: least {y_axis} to 1: most {y_axis} for this scene,
+                based on the provided information.
+                Make sure to assign a rating to every {story_type}, and don't add any new {story_type}s.
+
+                Scene:
+                {sd}
+                """
+        r = scene_llm.invoke(prompt)
+        # results_list = results.scenes
+        # print(results)
+        # for r in results:
+        print(r)
+        # add character ratings 
+        chars = r.characters
+
+        # find scene in SceneData with title == scene
+        # if "title" in new_data[0]:
+        #     this_scene_data = [s for s in new_data if s["title"] == scene and s["chapter"] == chap][0]
+        # else:
+        #     this_scene_data = [s for s in new_data if s["name"] == scene and s["chapter"] == chap][0]
+
+        # update sd with character ratings
+        for c in chars:
+            char = c.character
+            rating = c.rating
+            # find character in this_scene_data
+            this_character = [ch for ch in sd["characters"] if ch["name"] == char]
+            if len(this_character) == 0:
+                continue
+            this_character = this_character[0]
+            this_character[y_axis] = rating
+
+    return new_data

@@ -14,6 +14,7 @@ import ChapterSidebar from "./components/Overlays/ChapterSidebar";
 import StoryInfo from "./components/Header/StoryInfo";
 import ClickMsg from "./components/Overlays/ClickMsg";
 import PromptModal from "./components/PromptModal";
+import Spinner from "./components/Spinner";
 
 function App() {
   const { scene_data } = dataStore();
@@ -31,6 +32,7 @@ function App() {
     showLegend,
     chapterView,
     detailView,
+    isUpdatingData,
   } = storyStore();
   const headerRef = useRef<HTMLDivElement>(null);
 
@@ -92,6 +94,7 @@ function App() {
 
         <div
           id="story-contain"
+          className={isUpdatingData ? "loading" : ""}
           style={{
             marginTop: storyMarginTop,
             width: `calc(100% - ${
@@ -117,6 +120,7 @@ function App() {
             handleScroll(e.currentTarget);
           }}
         >
+          <Spinner />
           <YAxisDiv />
           <StoryVis />
         </div>

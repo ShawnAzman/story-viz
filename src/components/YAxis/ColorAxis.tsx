@@ -4,7 +4,7 @@ import { storyStore } from "../../stores/storyStore";
 import { location_height } from "../../utils/consts";
 
 function ColorAxis() {
-  const { sceneCharacters } = dataStore();
+  const { sceneCharacters, customYAxisOptions } = dataStore();
   const { plotHeight } = positionStore();
   const { yAxis, yAxisHeight, fullHeight, story, chapterView, themeView } =
     storyStore();
@@ -36,6 +36,8 @@ function ColorAxis() {
             ? "hidden"
             : yAxis.includes("#")
             ? "numChars"
+            : customYAxisOptions.includes(yAxis)
+            ? "custom"
             : yAxis
         }
         style={{
@@ -59,11 +61,18 @@ function ColorAxis() {
         </span>
         <span
           style={{
-            color: yAxis === "importance" ? "black" : "white",
+            color:
+              yAxis === "importance" || customYAxisOptions.includes(yAxis)
+                ? "black"
+                : "white",
             marginBottom: "-1rem",
           }}
         >
-          {yAxis === "sentiment" ? -1 : max_characters_per_scene}
+          {yAxis === "sentiment"
+            ? -1
+            : customYAxisOptions.includes(yAxis)
+            ? 0
+            : max_characters_per_scene}
         </span>
       </div>
     </div>
