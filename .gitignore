@@ -10,4 +10,5 @@ secrets.json
 .env
 scripts/
 json/
+csv/
 notebooks/chapters/
