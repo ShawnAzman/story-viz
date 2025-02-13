@@ -72,3 +72,52 @@ python server.py
 ```
 
 the server should not be running at [`127.0.0.1:5000`](http://127.0.0.1:5000)
+
+## adding new stories
+
+1. open [notebooks/parsing_data.ipynb](notebooks/parsing-data.ipynb). run the notebook until the end of the **setup** section.
+
+2. make sure these folders have been created inside of the [notebooks/](notebooks/) folder. if not, add them:
+
+   - [notebooks/scripts/](notebooks/scripts/)
+   - [notebooks/chapters/](notebooks/chapters/)
+   - [notebooks/json/](notebooks/json/)
+
+3. add your story text file inside the [notebooks/scripts/](notebooks/scripts/) folder. currently, only `.txt` files are supported. name your file something short but representative of your story's title (e.g., "gatsby.txt" for The Great Gatsby).
+
+4. in the first cell under the **split text into chapters** section in [notebooks/parsing_data.ipynb](notebooks/parsing-data.ipynb), set `og_story_name` to your filename without the ".txt" (e.g., "gatsby").
+
+- you can also change the `analysis_type` here (e.g., "character" or "theme").
+
+- the cell should look something like this:
+
+```
+og_story_name = "gatsby"
+story_name = og_story_name
+analysis_type = "character"
+```
+
+5. run the rest of the code in this section, stopping at **analyze scene**. double check the generated chapter txt files which should be located in the [notebooks/chapters/](notebooks/chapters/) folder inside a subfolder corresponding to your story name (e.g., `notebooks/chapters/gatsby/`).
+
+- if something went wrong, you may have to adjust the code in this section to parse the chapters correctly.
+
+6. run the rest of the code in this notebook, starting from the **analyze scene** section.
+
+- hopefully this part should run smoothly, but the notebook is roughly divided into semantic subsections to help with debugging.
+- if something goes wrong, you may need to adjust the code.
+
+7. at the end of the notebook, _after_ running the final **generating the final json file** section, you should see a `final_data.json` file in the subfolder corresponding to your story in [notebooks/json/](notebooks/json/) (e.g., `notebooks/json/gatsby/final_data.json`).
+
+8. take this `final_data.json` file and copy and paste it into the [src/data/](src/data/) folder. rename the file to `yourstory-new.json` (e.g., "gatsby-new.json"). add `-themes` to the file name if you analyzes the themes in your story (e.g., "gatsby-new-themes.json").
+
+9. in [src/components/Header/PlotOptions.tsx](src/components/Header/PlotOptions.tsx), add your file name to the `storyOptions` list. it should look something like this:
+
+```
+const storyOptions = [
+    "gatsby-new",
+    "gatsby-new-themes",
+    ...
+];
+```
+
+10. save your changes and run the frontend again at [`localhost:5200`](http://localhost:5200) (see more detailed instructions above). you should be able to select your story from the dropdown menu and see your visualization results!
