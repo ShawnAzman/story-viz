@@ -120,4 +120,6 @@ const storyOptions = [
 ];
 ```
 
-10. save your changes and run the frontend again at [`localhost:5200`](http://localhost:5200) (see more detailed instructions above). you should be able to select your story from the dropdown menu and see your visualization results!
+10. copy your story's full chapter folder in [notebooks/chapters/](notebooks/chapters/) (e.g., `notebooks/chapters/gatsby/`) and paste it inside the [public/chapters/](public/chapters/) folder (e.g., `public/chapters/gatsby/`).
+
+11. save your changes and run the frontend again at [`localhost:5200`](http://localhost:5200) (see more detailed instructions above). you should be able to select your story from the dropdown menu and see your visualization results!

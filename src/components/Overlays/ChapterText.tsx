@@ -46,7 +46,7 @@ function ChapterText() {
 
   const loadChapterText = async (chapter: string) => {
     try {
-      const story_formatted = story.split("-")[0];
+      const story_formatted = onlyLetters(story.split("-")[0]);
       let chapter_formatted = chapter.replace("?", "");
 
       const response = await fetch(
