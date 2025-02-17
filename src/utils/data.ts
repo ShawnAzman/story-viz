@@ -281,8 +281,6 @@ const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
           : og_fake_quote && !character.quote.includes("No quote available")
           ? character.quote
           : "";
-
-      console.log("quote", character.quote, "fake", character.fake_quote);
       // remove extra fields
       delete character.sentiment;
     });
