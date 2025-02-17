@@ -369,7 +369,10 @@ function SceneDivInner(props: any) {
 
                 // const top_scene = character.top_scene;
                 return (
-                  <div key={char.character} className="character-info">
+                  <div
+                    key={char.character + char.emotion_quote}
+                    className="character-info"
+                  >
                     <div className="char-header">
                       <b className="char-name">
                         <div
@@ -453,8 +456,8 @@ function SceneDivInner(props: any) {
                       }
                     >
                       {character.fake_quote
-                        ? '💭 "' + character.fake_quote + '"'
-                        : '"' + character.quote + '"'}
+                        ? "💭 " + character.fake_quote
+                        : character.quote}
                       {/* {chapterView && top_scene && " (Scene " + top_scene + ")"} */}
                     </div>
                   </div>

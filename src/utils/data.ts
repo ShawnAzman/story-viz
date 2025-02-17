@@ -23,6 +23,19 @@ const chunkQuote = (quote: string, chunk_size: number) => {
   return quoteChunks;
 };
 
+const starts_or_ends_with_quote = (quote: string) => {
+  return (
+    quote.startsWith('"') ||
+    quote.endsWith('"') ||
+    quote.startsWith("“") ||
+    quote.endsWith("”") ||
+    quote.startsWith("‘") ||
+    quote.endsWith("’") ||
+    quote.startsWith("'") ||
+    quote.endsWith("'")
+  );
+};
+
 /* INTERFACES */
 export interface Chapter {
   chapter: string;
@@ -255,6 +268,14 @@ const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
         : 0;
       all_sentiments.push(character.rating);
       character.role = character.role ? character.role : "";
+      character.quote = starts_or_ends_with_quote(character.quote)
+        ? character.quote
+        : '"' + character.quote + '"';
+      character.fake_quote = character.fake_quote
+        ? starts_or_ends_with_quote(character.fake_quote)
+          ? character.fake_quote
+          : '"' + character.fake_quote + '"'
+        : "";
 
       // remove extra fields
       delete character.sentiment;
@@ -374,10 +395,22 @@ const chapter_scene_data = (
       const c =
         top_scene &&
         top_scene.characters.find((scene_char) => scene_char.name === char);
+
+      const quote = c
+        ? starts_or_ends_with_quote(c.quote)
+          ? c.quote
+          : '"' + c.quote + '"'
+        : "";
+      const fake_quote =
+        c && c.fake_quote
+          ? starts_or_ends_with_quote(c.fake_quote)
+            ? c.fake_quote
+            : '"' + c.fake_quote + '"'
+          : "";
       return {
         emotion: c ? c.emotion : "",
-        quote: c ? c.quote : "",
-        fake_quote: c && c.fake_quote ? c.fake_quote : "",
+        quote: quote,
+        fake_quote: fake_quote,
         rating: c ? c.rating : 0,
         top_scene: top_index ? top_index + 1 : 1,
       };
@@ -576,12 +609,7 @@ const character_quotes = (
 ): CharacterQuote[] =>
   character_data
     .map((character) => {
-      const start_and_ends_with_quotes =
-        (character.quote.startsWith('"') && character.quote.endsWith('"')) ||
-        (character.quote.startsWith("“") && character.quote.endsWith("”")) ||
-        (character.quote.startsWith("‘") && character.quote.endsWith("’")) ||
-        (character.quote.startsWith("'") && character.quote.endsWith("'"));
-      const mod_quote = start_and_ends_with_quotes
+      const mod_quote = starts_or_ends_with_quote(character.quote)
         ? character.quote
         : '"' + character.quote + '"';
       const chunked = chunkQuote(mod_quote, 80);
@@ -665,9 +693,16 @@ const sceneSummaries = (data: Scene[]): SceneSummary[] =>
     const chunk_size = 117;
     const characters = scene.characters;
     const chunkedEmotions = characters.map((character) => {
-      const chunked = chunkQuote('"' + character.quote + '"', chunk_size);
+      const chunked = chunkQuote(
+        starts_or_ends_with_quote(character.quote)
+          ? character.quote
+          : '"' + character.quote + '"',
+        chunk_size
+      );
       const fakeChunked = chunkQuote(
-        '"' + character.fake_quote + '"',
+        character.fake_quote && starts_or_ends_with_quote(character.fake_quote)
+          ? character.fake_quote
+          : '"' + character.fake_quote + '"',
         chunk_size
       );
       return {
