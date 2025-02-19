@@ -14,6 +14,7 @@ import CharacterNetwork from "../Vis/CharacterNetwork";
 import LocationChart from "../Vis/LocationChart";
 import { Button, Select, Switch } from "@mantine/core";
 import ChapterText from "./ChapterText";
+import InfoTooltip from "../Misc/InfoTooltip";
 
 function SceneDivInner(props: any) {
   const {
@@ -267,13 +268,19 @@ function SceneDivInner(props: any) {
             </Button>
           </Button.Group>
           <div className={"scene-select " + (showChapterText ? "hidden" : "")}>
-            <b>{chapterView ? "Chapter" : "Scene"} view</b>
+            <b>
+              {chapterView ? "Chapter" : "Scene"} view
+              <InfoTooltip label="explore chapters or scenes" />
+            </b>
             <Switch
               size="xs"
               checked={chapterView}
               onChange={(event) => setChapterView(event.currentTarget.checked)}
             />
-            <b style={{ marginLeft: "0.5rem" }}>Cumulative mode</b>
+            <b style={{ marginLeft: "0.5rem" }}>
+              Cumulative mode
+              <InfoTooltip label="show isolated or cumulative character network for this chapter" />
+            </b>
             <Switch
               size="xs"
               checked={cumulativeMode}
@@ -324,7 +331,11 @@ function SceneDivInner(props: any) {
               </div>
             )}
             {!chapterView && !inSidebar && (
-              <span className="quote-key">💭 = LLM-generated quote</span>
+              <span className="quote-key">
+                <span className="lighter">💭 = </span>
+                <b className="grad">LLM-generated</b>
+                <span className="lighter"> quote if no real quote found</span>
+              </span>
             )}
             {!cumulativeMode &&
               (chapterView || inSidebar) &&

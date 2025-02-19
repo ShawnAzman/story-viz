@@ -9,12 +9,13 @@ import { positionStore } from "./stores/positionStore";
 import { location_height, scene_overlay_width } from "./utils/consts";
 import SceneDiv from "./components/Overlays/SceneDiv";
 import SceneOptions from "./components/XAxis/SceneOptions";
-import AuthWrapper from "./components/AuthWrapper";
+import AuthWrapper from "./components/Misc/AuthWrapper";
 import ChapterSidebar from "./components/Overlays/ChapterSidebar";
 import StoryInfo from "./components/Header/StoryInfo";
-import ClickMsg from "./components/Overlays/ClickMsg";
-import PromptModal from "./components/PromptModal";
-import Spinner from "./components/Spinner";
+import ClickMsg from "./components/Misc/ClickMsg";
+import PromptModal from "./components/Modals/PromptModal";
+import Spinner from "./components/Misc/Spinner";
+import AboutModal from "./components/Modals/AboutModal";
 
 function App() {
   const { scene_data } = dataStore();
@@ -132,6 +133,7 @@ function App() {
       </div>
 
       <PromptModal />
+      <AboutModal />
     </AuthWrapper>
   );
 }

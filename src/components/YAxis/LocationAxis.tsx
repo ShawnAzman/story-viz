@@ -2,6 +2,7 @@ import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
 import { storyStore } from "../../stores/storyStore";
 import { location_height } from "../../utils/consts";
+import InfoTooltip from "../Misc/InfoTooltip";
 
 function LocationAxis() {
   const { locations, sceneLocations, scenes, characterScenes } = dataStore();
@@ -12,11 +13,20 @@ function LocationAxis() {
     sceneHover,
     characterHover,
     setLocationHover,
+    fullHeight,
+    chapterView,
+    story,
   } = storyStore();
   const ratio = plotHeight < location_height ? 1 : yAxisHeight / plotHeight;
   const locHeight = location_height * ratio;
   return (
     <>
+      <b style={{ textAlign: "right", display: "block" }}>
+        Locations
+        {(!story.includes("-new") || fullHeight || chapterView) && (
+          <InfoTooltip label="hover on a location for more info" />
+        )}
+      </b>
       {locations.map((location) => {
         return (
           <div

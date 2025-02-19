@@ -1,5 +1,5 @@
 import { ClipLoader } from "react-spinners";
-import { storyStore } from "../stores/storyStore";
+import { storyStore } from "../../stores/storyStore";
 
 function Spinner() {
   const { isUpdatingData } = storyStore();

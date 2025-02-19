@@ -9,7 +9,7 @@ import {
   getCustomColor,
 } from "../../utils/colors";
 import { onlyLetters } from "../../utils/helpers";
-import ImageDiv from "../ImageDiv";
+import ImageDiv from "../Misc/ImageDiv";
 import { scene_overlay_width } from "../../utils/consts";
 
 function CharacterDiv() {

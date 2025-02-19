@@ -3,13 +3,14 @@ import { storyStore } from "../../stores/storyStore";
 import { dataStore } from "../../stores/dataStore";
 import { useEffect, useState } from "react";
 import { positionStore } from "../../stores/positionStore";
-import Sidebar from "../Sidebar";
+import Sidebar from "./Sidebar";
 import LocationDiv from "../Overlays/LocationDiv";
 import CharacterDiv from "../Overlays/CharacterDiv";
 import { isSameStory } from "../../utils/helpers";
 import { defaultCharacterColors } from "../../utils/colors";
 import localforage from "localforage";
 import { defaultYAxisOptions } from "../../utils/consts";
+import InfoTooltip from "../Misc/InfoTooltip";
 
 function PlotOptions() {
   const {
@@ -42,6 +43,7 @@ function PlotOptions() {
     setModalType,
     isUpdatingData,
     setIsUpdatingData,
+    setAboutModalOpened,
   } = storyStore();
 
   const {
@@ -357,11 +359,36 @@ function PlotOptions() {
   return (
     <div id="options">
       <div className="options-contain">
-        <b>Visualization Settings</b>
+        <div style={{ display: "flex", justifyContent: "space-between" }}>
+          <b>Visualization Settings</b>
+          <b>
+            <span
+              className="link"
+              onClick={() => setAboutModalOpened(true)}
+              title="About Story Ribbons"
+            >
+              📔 About Story Ribbons
+            </span>{" "}
+            <span style={{ opacity: 0.5 }}>|</span>{" "}
+            <a
+              href="https://github.com/catherinesyeh/story-viz"
+              target="_blank"
+              className="link"
+              title={"Github Repo"}
+            >
+              💻 Github Repo
+            </a>
+          </b>
+        </div>
         <div className="options-inner">
           <Switch
             size="xs"
-            label="Full height"
+            label={
+              <span>
+                Full height
+                <InfoTooltip label="false = show all scenes at once" />
+              </span>
+            }
             labelPosition="left"
             checked={fullHeight}
             disabled={
@@ -384,18 +411,28 @@ function PlotOptions() {
           /> */}
           <Switch
             size="xs"
-            label={(chapterView ? "Chapter" : "Scene") + " view"}
+            label={
+              <span>
+                {(chapterView ? "Chapter" : "Scene") + " view"}
+                <InfoTooltip label="explore chapters or scenes" />
+              </span>
+            }
             labelPosition="left"
             checked={chapterView}
             disabled={
               !story.includes("-new") || (detailView && chapterHover === "")
             }
             onChange={(event) => setChapterView(event.currentTarget.checked)}
-            style={{ width: 85 }}
+            style={{ width: 101 }}
           />
           <Switch
             size="xs"
-            label={(themeView ? "Theme" : "Character") + " view"}
+            label={
+              <span>
+                {(themeView ? "Theme" : "Character") + " view"}
+                <InfoTooltip label="visualize characters or themes" />
+              </span>
+            }
             labelPosition="left"
             checked={themeView}
             disabled={
@@ -403,13 +440,18 @@ function PlotOptions() {
               !storyOptions.includes(story + "-themes")
             }
             onChange={(event) => setThemeView(event.currentTarget.checked)}
-            style={{ width: 95 }}
+            style={{ width: 112 }}
           />
 
           <Select
             size="xs"
             data={storyOptionsDisplay}
-            label="Story"
+            label={
+              <span>
+                Story
+                <InfoTooltip label="change the story being visualized" />
+              </span>
+            }
             value={story}
             onChange={(value) => {
               if (value) setStory(value);
@@ -429,7 +471,12 @@ function PlotOptions() {
             <Select
               size="xs"
               data={myYAxisOptions}
-              label="Y Axis"
+              label={
+                <span>
+                  Y-axis
+                  <InfoTooltip label="change what the y-axis represents" />
+                </span>
+              }
               value={yAxis}
               onChange={(value) => {
                 if (value) setYAxis(value);
@@ -439,7 +486,8 @@ function PlotOptions() {
 
           <Button
             size="xs"
-            variant="light"
+            variant="gradient"
+            gradient={{ from: "#9c85c0", to: "#dd8047", deg: 0 }}
             title={
               isBackendActive ? "Add custom y-axis" : "Backend is not connected"
             }
@@ -462,54 +510,6 @@ function PlotOptions() {
           <Sidebar />
         </div>
       </div>
-      {/* <Divider orientation="vertical" /> */}
-      {/* <div className="options-contain">
-        <span>
-          <b>{story.includes("-themes") ? "Themes" : "Characters"}</b>
-        </span>
-        <div
-          className={
-            "options-inner " +
-            (characterColor !== "sentiment" && characterColor !== "importance"
-              ? "color"
-              : "")
-          }
-        >
-          <Select
-            size="xs"
-            label="Color"
-            data={characterColorOptions}
-            value={characterColor}
-            onChange={(value) => {
-              if (value) setCharacterColor(value);
-            }}
-          />
-          <Colorbar
-            barType={
-              characterColor === "sentiment" || characterColor === "importance"
-                ? characterColor
-                : "default"
-            }
-          />
-          <Colorgrid
-            gridType={
-              characterColor === "default" ||
-              characterColor === "llm" ||
-              characterColor === "group"
-                ? characterColor
-                : ""
-            }
-          />
-        </div>
-        <i className="annotation">Size = relative importance in scene</i>
-      </div>
-      <Divider orientation="vertical" /> */}
-      {/* <div className="options-contain">
-        <b>Characters / Scenes</b>
-        <div className="options-inner">
-          <Sidebar />
-        </div>
-      </div> */}
       <CharacterDiv />
       <LocationDiv />
     </div>

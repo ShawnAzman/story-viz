@@ -5,6 +5,7 @@ import { useEffect } from "react";
 import { positionStore } from "../../stores/positionStore";
 import ChapterSlider from "./ChapterSlider";
 import { extractChapterName } from "../../utils/helpers";
+import InfoTooltip from "../Misc/InfoTooltip";
 
 function SceneOptions() {
   const {
@@ -137,7 +138,12 @@ function SceneOptions() {
           >
             <Switch
               size="xs"
-              label="Show labels"
+              label={
+                <span>
+                  Show labels
+                  <InfoTooltip label="show chapter divisions + labels in scene view" />
+                </span>
+              }
               labelPosition="left"
               checked={showChapters}
               disabled={chapterView}

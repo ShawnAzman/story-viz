@@ -74,6 +74,8 @@ interface IStore {
 
   modalOpened: boolean;
   setModalOpened: (val: boolean) => void;
+  aboutModalOpened: boolean;
+  setAboutModalOpened: (val: boolean) => void;
   modalLoading: boolean;
   setModalLoading: (val: boolean) => void;
   modalType: string;
@@ -125,6 +127,7 @@ export const storyStore = create<IStore>()((set) => ({
   curScrollScene: "",
   scrollSource: false,
   modalOpened: false,
+  aboutModalOpened: false,
   modalLoading: false,
   modalType: "",
   isBackendActive: false,
@@ -168,6 +171,7 @@ export const storyStore = create<IStore>()((set) => ({
   setScrollSource: (val: boolean) => set({ scrollSource: val }),
   setCumulativeMode: (val: boolean) => set({ cumulativeMode: val }),
   setModalOpened: (val: boolean) => set({ modalOpened: val }),
+  setAboutModalOpened: (val: boolean) => set({ aboutModalOpened: val }),
   setModalLoading: (val: boolean) => set({ modalLoading: val }),
   setModalType: (val: string) => set({ modalType: val }),
 

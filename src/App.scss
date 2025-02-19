@@ -18,6 +18,15 @@
   padding: 0.5rem 1rem;
 }
 
+.grad {
+  // fill text with gradient
+  background: -webkit-linear-gradient(0deg, #9c85c0, #dd8047);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* HEADER */
+
 #header-container {
   position: fixed;
   z-index: 99;
@@ -83,11 +92,32 @@ header {
   scrollbar-width: none;
 
   .options-contain {
+    width: 100%;
     font-size: calc(0.65rem + 0.05vw);
     transition: 0.3s;
     display: flex;
     flex-direction: column;
     gap: 2px;
+
+    .link {
+      text-decoration: none;
+      color: #222;
+      font-weight: 600;
+      transition: 0.3s;
+      cursor: pointer;
+
+      &:hover {
+        opacity: 0.7;
+      }
+
+      &:first-child {
+        margin-right: 0.25rem;
+      }
+
+      &:last-child {
+        margin-left: 0.25rem;
+      }
+    }
 
     .options-inner {
       display: flex;
@@ -701,6 +731,12 @@ h1 {
 
     .quote-key {
       text-align: end;
+      width: max-content;
+      opacity: 1;
+
+      .lighter {
+        opacity: 0.7;
+      }
     }
 
     .character-header {
@@ -1951,7 +1987,8 @@ h1 {
   }
 }
 
-#prompt-modal-body {
+#prompt-modal-body,
+#about-modal-body {
   span {
     transition: 0.3s;
     &.loading {
@@ -1960,7 +1997,21 @@ h1 {
   }
 
   p {
+    margin-top: 0;
     font-size: smaller;
+
+    i {
+      opacity: 0.7;
+      font-weight: 500;
+    }
+
+    .emph {
+      font-family: "Shantell Sans";
+    }
+
+    b:not(.grad) {
+      font-weight: 600;
+    }
   }
 }
 
@@ -2023,4 +2074,13 @@ h1 {
 .mantine-Popover-dropdown,
 .mantine-Select-dropdown {
   z-index: 999 !important;
+}
+
+.info-tooltip {
+  z-index: 1000 !important;
+
+  svg {
+    width: 0.7rem !important;
+    height: 0.7rem !important;
+  }
 }

@@ -1,10 +1,10 @@
 import { Button, Modal, Textarea } from "@mantine/core";
-import { storyStore } from "../stores/storyStore";
+import { storyStore } from "../../stores/storyStore";
 import { useState } from "react";
-import { getNewColors, getNewYAxis } from "../server";
-import { dataStore } from "../stores/dataStore";
-import { defaultCharacterColors } from "../utils/colors";
-import { defaultYAxisOptions } from "../utils/consts";
+import { getNewColors, getNewYAxis } from "../../server";
+import { dataStore } from "../../stores/dataStore";
+import { defaultCharacterColors } from "../../utils/colors";
+import { defaultYAxisOptions } from "../../utils/consts";
 import localforage from "localforage";
 
 function PromptModal() {

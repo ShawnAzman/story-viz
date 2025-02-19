@@ -1,12 +1,13 @@
 import { Accordion, Button, Drawer, Select, Switch } from "@mantine/core";
-import { storyStore } from "../stores/storyStore";
-import Colorbar from "./XAxis/Colorbar";
-import Colorgrid from "./XAxis/Colorgrid";
-import LegendDiv from "./Vis/LegendDiv";
+import { storyStore } from "../../stores/storyStore";
+import Colorbar from "../XAxis/Colorbar";
+import Colorgrid from "../XAxis/Colorgrid";
+import LegendDiv from "../Vis/LegendDiv";
 import { IoMdOpen } from "react-icons/io";
-import { dataStore } from "../stores/dataStore";
+import { dataStore } from "../../stores/dataStore";
 import { useEffect } from "react";
-import { checkBackendStatus } from "../server";
+import { checkBackendStatus } from "../../server";
+import InfoTooltip from "../Misc/InfoTooltip";
 
 function Sidebar() {
   const {
@@ -114,7 +115,7 @@ function Sidebar() {
           defaultValue={["character", "scene"]}
         >
           <Accordion.Item key="character" value="character">
-            <Accordion.Control icon={themeView ? "💡" : "👩🏻"}>
+            <Accordion.Control icon={themeView ? "💭" : "👩🏻"}>
               {themeView ? "Themes" : "Characters"}
             </Accordion.Control>
             <Accordion.Panel>
@@ -130,7 +131,9 @@ function Sidebar() {
                 >
                   <i className="annotation">
                     Ribbon thickness = relative importance of{" "}
-                    {themeView ? "theme" : "character"} in scene
+                    {themeView ? "theme" : "character"} in scene. Hover on a
+                    ribbon for more info. Click on a color square below to
+                    filter.
                   </i>
                   <div style={{ marginBottom: "0.75rem" }}>
                     <div
@@ -156,7 +159,16 @@ function Sidebar() {
                         </span>
                         <Select
                           size="xs"
-                          label="Color"
+                          label={
+                            <span>
+                              Ribbon color
+                              <InfoTooltip
+                                label={`change what the color of each ${
+                                  themeView ? "theme" : "character"
+                                } ribbon represents`}
+                              />
+                            </span>
+                          }
                           data={characterColorOptions}
                           value={characterColor}
                           onChange={(value) => {
@@ -166,7 +178,8 @@ function Sidebar() {
                       </div>
                       <Button
                         size="xs"
-                        variant="light"
+                        variant="gradient"
+                        gradient={{ from: "#9c85c0", to: "#dd8047", deg: 0 }}
                         title={
                           isBackendActive
                             ? "Add custom color scheme"
@@ -213,10 +226,23 @@ function Sidebar() {
               <div className="sidebar-settings">
                 <div className="options-contain">
                   <div className="options-inner">
-                    <div className="two-col">
+                    <i className="annotation">
+                      Hover on a {chapterView ? "chapter" : "scene"} in the plot
+                      for more info.
+                    </i>
+                    <div className="two-col" style={{ marginTop: "0.75rem" }}>
                       <Switch
                         size="xs"
-                        label={"Scale by length"}
+                        label={
+                          <span>
+                            Scale by length
+                            <InfoTooltip
+                              label={`adjust plot spacing based on ${
+                                chapterView ? "chapter" : "scene"
+                              } length`}
+                            />
+                          </span>
+                        }
                         labelPosition="right"
                         checked={scaleByLength}
                         onChange={(event) =>
@@ -225,7 +251,14 @@ function Sidebar() {
                       />
                       <Switch
                         size="xs"
-                        label="Show overlay curve"
+                        label={
+                          <span>
+                            Show overlay curve
+                            <InfoTooltip
+                              label={`show ${colorBy} overlay at the bottom of plot`}
+                            />
+                          </span>
+                        }
                         labelPosition="right"
                         disabled={colorBy === "default"}
                         checked={showOverlay}
@@ -255,7 +288,16 @@ function Sidebar() {
                     <div className="two-col margin-bottom margin-top">
                       <Select
                         size="xs"
-                        label="Font size"
+                        label={
+                          <span>
+                            Font size
+                            <InfoTooltip
+                              label={`change what the size of each ${
+                                chapterView ? "chapter" : "scene"
+                              } label represents`}
+                            />
+                          </span>
+                        }
                         data={sizeByOptions}
                         value={sizeBy}
                         onChange={(value) => {
@@ -264,7 +306,16 @@ function Sidebar() {
                       />
                       <Select
                         size="xs"
-                        label="Font weight"
+                        label={
+                          <span>
+                            Font weight
+                            <InfoTooltip
+                              label={`change what the weight of each ${
+                                chapterView ? "chapter" : "scene"
+                              } label represents`}
+                            />
+                          </span>
+                        }
                         data={sizeByOptions}
                         value={weightBy}
                         onChange={(value) => {
@@ -275,7 +326,16 @@ function Sidebar() {
                     {/* <div className="two-col margin-bottom"> */}
                     <Select
                       size="xs"
-                      label="Color"
+                      label={
+                        <span>
+                          Font color
+                          <InfoTooltip
+                            label={`change what the color of each ${
+                              chapterView ? "chapter" : "scene"
+                            } label represents`}
+                          />
+                        </span>
+                      }
                       data={colorByOptions}
                       value={colorBy}
                       onChange={(value) => {

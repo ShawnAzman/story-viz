@@ -1,6 +1,7 @@
 import { Button, RangeSlider } from "@mantine/core";
 import { dataStore } from "../../stores/dataStore";
 import { extractChapterName } from "../../utils/helpers";
+import InfoTooltip from "../Misc/InfoTooltip";
 
 function ChapterSlider() {
   const {
@@ -41,7 +42,10 @@ function ChapterSlider() {
         id="chapter-slider"
         className={first_chapter && last_chapter ? "" : "hidden"}
       >
-        <span className="label">Filter by chapter:</span>
+        <span className="label">
+          Filter by chapter
+          <InfoTooltip label="drag slider to filter plot by chapters" />
+        </span>
         {/* <b>filter by chapter:</b> */}
         <span>
           {first_chapter && first_chapter.length > maxChars
