@@ -368,8 +368,11 @@ function PlotOptions() {
               title="About Story Ribbons"
             >
               📔 About Story Ribbons
-            </span>{" "}
-            <span style={{ opacity: 0.5 }}>|</span>{" "}
+            </span>
+            <Divider
+              orientation="vertical"
+              style={{ display: "inline", margin: "0 0.5rem" }}
+            />
             <a
               href="https://github.com/catherinesyeh/story-viz"
               target="_blank"
