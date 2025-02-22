@@ -275,9 +275,7 @@ const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
       const og_fake_quote = character.fake_quote;
       character.fake_quote =
         og_fake_quote && !og_fake_quote.includes("No quote available")
-          ? starts_or_ends_with_quote(og_fake_quote)
-            ? og_fake_quote
-            : '"' + og_fake_quote + '"'
+          ? og_fake_quote
           : og_fake_quote && !character.quote.includes("No quote available")
           ? character.quote
           : "";
@@ -405,12 +403,7 @@ const chapter_scene_data = (
           ? c.quote
           : '"' + c.quote + '"'
         : "";
-      const fake_quote =
-        c && c.fake_quote
-          ? starts_or_ends_with_quote(c.fake_quote)
-            ? c.fake_quote
-            : '"' + c.fake_quote + '"'
-          : "";
+      const fake_quote = c && c.fake_quote ? c.fake_quote : "";
       return {
         emotion: c ? c.emotion : "",
         quote: quote,
@@ -704,9 +697,7 @@ const sceneSummaries = (data: Scene[]): SceneSummary[] =>
         chunk_size
       );
       const fakeChunked = chunkQuote(
-        character.fake_quote && starts_or_ends_with_quote(character.fake_quote)
-          ? character.fake_quote
-          : '"' + character.fake_quote + '"',
+        character.fake_quote ? character.fake_quote : "",
         chunk_size
       );
       return {

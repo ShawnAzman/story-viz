@@ -334,7 +334,10 @@ function SceneDivInner(props: any) {
               <span className="quote-key">
                 <span className="lighter">💭 = </span>
                 <b className="grad">LLM-generated</b>
-                <span className="lighter"> quote if no real quote found</span>
+                <span className="lighter">
+                  {" "}
+                  explanation if no direct quote found
+                </span>
               </span>
             )}
             {!cumulativeMode &&
