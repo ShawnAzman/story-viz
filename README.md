@@ -73,7 +73,7 @@ start the backend server
 python server.py
 ```
 
-the server should not be running at [`127.0.0.1:5000`](http://127.0.0.1:5000)
+the server should now be running at [`127.0.0.1:5000`](http://127.0.0.1:5000)
 
 ## adding new stories
 
