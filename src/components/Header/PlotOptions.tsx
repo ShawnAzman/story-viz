@@ -152,51 +152,58 @@ function PlotOptions() {
 
   const [prevStory, setPrevStory] = useState(story);
 
+  const addModifiedData = async (data: any) => {
+    const localStorageKey = `characterData-${story}`;
+    const sceneStorageKey = `sceneData-${story}`;
+
+    // Retrieve character data
+    let characterData = await localforage
+      .getItem(localStorageKey)
+      .catch((error) => {
+        console.error("Error loading character data", error);
+        return null;
+      });
+
+    if (characterData) {
+      console.log("Using cached character data");
+      data["characters"] = characterData;
+    } else {
+      console.log("Saving character data to cache");
+      characterData = data["characters"];
+      localforage.setItem(localStorageKey, characterData);
+    }
+
+    // Retrieve scene data
+    let sceneData = await localforage
+      .getItem(sceneStorageKey)
+      .catch((error) => {
+        console.error("Error loading scene data", error);
+        return null;
+      });
+
+    if (sceneData) {
+      console.log("Using cached scene data");
+      data["scenes"] = sceneData;
+    } else {
+      console.log("Saving scene data to cache");
+      sceneData = data["scenes"];
+      localforage.setItem(sceneStorageKey, sceneData);
+    }
+
+    return data;
+  };
+
   const handleStoryChange = async () => {
     try {
-      const localStorageKey = `characterData-${story}`;
-      const sceneStorageKey = `sceneData-${story}`;
-
       console.log("Loading story data from file");
       const new_data = await import(`../../data/${story}.json`);
 
-      // Retrieve character data
-      let characterData = await localforage
-        .getItem(localStorageKey)
-        .catch((error) => {
-          console.error("Error loading character data", error);
-          return null;
-        });
-
-      if (characterData) {
-        console.log("Using cached character data");
-        new_data.default["characters"] = characterData;
-      } else {
-        console.log("Saving character data to cache");
-        characterData = new_data.default["characters"];
-        localforage.setItem(localStorageKey, characterData);
-      }
-
-      // Retrieve scene data
-      let sceneData = await localforage
-        .getItem(sceneStorageKey)
-        .catch((error) => {
-          console.error("Error loading scene data", error);
-          return null;
-        });
-
-      if (sceneData) {
-        console.log("Using cached scene data");
-        new_data.default["scenes"] = sceneData;
-      } else {
-        console.log("Saving scene data to cache");
-        sceneData = new_data.default["scenes"];
-        localforage.setItem(sceneStorageKey, sceneData);
-      }
+      // Retrieve modified data
+      const mod_data = await addModifiedData(new_data.default);
 
       // Ensure `updateData` doesn't conflict with `useEffect`
       if (!isUpdatingData) {
-        await updateData(new_data.default);
+        await updateData(mod_data);
       }
     } catch (error) {
       console.error("Error loading story data", error);
@@ -313,6 +320,11 @@ function PlotOptions() {
     }
   };
 
+  const setDataDetailView = async (chapter: string) => {
+    const mod_data = await addModifiedData(data);
+    setData(mod_data, story, chapterView, chapter, true);
+  };
+
   useEffect(() => {
     if (
       themeView &&
@@ -333,7 +345,7 @@ function PlotOptions() {
     }
 
     if (!isUpdatingData) {
-      setData(data, story, chapterView, chapter, true);
+      setDataDetailView(chapter);
     }
   }, [chapterView, detailView, chapterHover]);
 
