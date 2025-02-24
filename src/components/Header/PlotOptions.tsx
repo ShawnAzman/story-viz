@@ -131,6 +131,9 @@ function PlotOptions() {
 
     "greatexp-new",
     "greatexp-new-themes",
+
+    "hamlet-new",
+    "hamlet-new-themes",
   ].sort();
 
   const storyOptionsDisplay = storyOptions.filter(
