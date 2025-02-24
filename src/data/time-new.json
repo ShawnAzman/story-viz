@@ -5,284 +5,283 @@
   "year": 2024,
   "image": "covers/time.png",
   "num_chapters": 12,
-  "num_scenes": 59,
-  "num_characters": 18,
+  "num_scenes": 60,
+  "num_characters": 19,
   "num_locations": 16,
   "chapters": [
     {
       "chapter": "Chapter 1: The Case Begins",
-      "scenes": 4,
-      "length": 7594,
-      "num_lines": 101,
-      "summary": "Alex and Sam investigate the crime scene under pressure from Captain Morgan while interviewing the victim's friend, Emily, for clues.",
+      "scenes": 2,
+      "length": 8972,
+      "num_lines": 120,
+      "summary": "Alex investigates the crime scene under pressure from Captain Morgan while interviewing the victim's friend, Emily Rivers.",
       "importance": 0.88,
-      "conflict": 0.68,
+      "conflict": 0.67,
       "locations": {
-        "Luxury Apartment": 2,
-        "Police Precinct": 1,
-        "Interview Room": 1
+        "Luxury Apartment": 120,
+        "Police Precinct": 120
       },
       "characters": {
-        "Alex Harper": 4,
-        "Sam Torres": 2,
-        "Officer Davis": 1,
-        "Captain Morgan": 1,
-        "Emily Rivers": 1
+        "Alex Harper": 240,
+        "Sam Torres": 120,
+        "Officer Davis": 60,
+        "Captain Morgan": 60,
+        "Emily Rivers": 60
       },
       "importance_rank": 3,
-      "conflict_rank": 5
+      "conflict_rank": 7
     },
     {
       "chapter": "Chapter 2: A Day Like Any Other",
-      "scenes": 5,
-      "length": 11766,
-      "num_lines": 158,
-      "summary": "Alex and Sam investigate the crime scene, uncovering secrets and evidence that lead to deeper insights about the victim's relationships and the cause of death.",
+      "scenes": 2,
+      "length": 8972,
+      "num_lines": 120,
+      "summary": "Alex and Sam investigate the crime scene, uncovering key relationships and evidence that lead to a shocking revelation about the victim's secret life.",
       "importance": 0.86,
-      "conflict": 0.66,
+      "conflict": 0.68,
       "locations": {
-        "Luxury Apartment": 1,
-        "Victim's Workplace": 3,
-        "Coroner's Office": 1
+        "Luxury Apartment": 60,
+        "Victim's Workplace": 180,
+        "Coroner's Office": 60
       },
       "characters": {
-        "Alex Harper": 5,
-        "Sam Torres": 2,
-        "Victor Chen": 1,
-        "Laura Patel": 1,
-        "Officer Evans": 1
+        "Alex Harper": 300,
+        "Sam Torres": 120,
+        "Victor Chen": 60,
+        "Laura Patel": 60,
+        "Officer Evans": 60
       },
-      "importance_rank": 6,
-      "conflict_rank": 8
+      "importance_rank": 7,
+      "conflict_rank": 4
     },
     {
       "chapter": "Chapter 3: Realization of the Loop",
-      "scenes": 5,
-      "length": 10909,
-      "num_lines": 143,
-      "summary": "Alex grapples with the unsettling realization of reliving a crime scene while seeking help from psychiatrist Angela amidst growing suspicion from Detective Sarah Black.",
-      "importance": 0.84,
+      "scenes": 2,
+      "length": 8972,
+      "num_lines": 120,
+      "summary": "Alex experiences a haunting sense of d\u00e9j\u00e0 vu as they navigate a familiar crime scene and seek answers from a psychiatrist.",
+      "importance": 0.86,
       "conflict": 0.74,
       "locations": {
-        "Luxury Apartment": 2,
-        "Police Precinct": 2,
-        "Alex's Office": 1
+        "Alex's Apartment": 120,
+        "Police Precinct": 120,
+        "Luxury Apartment": 60
       },
       "characters": {
-        "Alex Harper": 5,
-        "Sam Torres": 3,
-        "Officer Davis": 1,
-        "Angela Price": 1,
-        "Detective Sarah Black": 1
+        "Alex Harper": 300,
+        "Sam Torres": 180,
+        "Officer Davis": 60,
+        "Angela Price": 60,
+        "Detective Sarah Black": 60
       },
-      "importance_rank": 12,
+      "importance_rank": 8,
       "conflict_rank": 2
     },
     {
       "chapter": "Chapter 4: The Investigation Deepens",
-      "scenes": 5,
-      "length": 10173,
-      "num_lines": 140,
+      "scenes": 2,
+      "length": 8972,
+      "num_lines": 120,
       "summary": "Alex and Sam delve deeper into the investigation, uncovering crucial evidence and confronting key individuals connected to the victim.",
-      "importance": 0.86,
+      "importance": 0.88,
       "conflict": 0.68,
       "locations": {
-        "Luxury Apartment": 1,
-        "Victim's Workplace": 1,
-        "Forensics Lab": 1,
-        "Interview Room": 1,
-        "Bar": 1
+        "Luxury Apartment": 60,
+        "Victim's Workplace": 60,
+        "Forensics Lab": 60,
+        "Police Precinct": 60,
+        "Bar": 60
       },
       "characters": {
-        "Alex Harper": 5,
-        "Sam Torres": 3,
-        "Tommy Rivera": 2,
-        "Officer Evans": 1,
-        "Laura Patel": 1
+        "Alex Harper": 300,
+        "Sam Torres": 180,
+        "Witness": 60,
+        "Officer Evans": 60,
+        "Laura Patel": 60,
+        "Tommy Rivera": 60
       },
-      "importance_rank": 7,
-      "conflict_rank": 6
+      "importance_rank": 4,
+      "conflict_rank": 5
     },
     {
       "chapter": "Chapter 5: Breaking the Cycle",
-      "scenes": 5,
-      "length": 10114,
-      "num_lines": 134,
-      "summary": "Alex navigates a frustrating time loop while collaborating with Sam and seeking crucial information from Brenda and Tommy about a killer.",
+      "scenes": 2,
+      "length": 8972,
+      "num_lines": 120,
+      "summary": "Alex strategizes their day while collaborating with Sam on the case, gathering insights from Brenda, and confronting Tommy for vital clues.",
       "importance": 0.86,
       "conflict": 0.68,
       "locations": {
-        "Luxury Apartment": 2,
-        "Diner": 1,
-        "Caf\u00e9": 1,
-        "Alley": 1
+        "Alex's Apartment": 120,
+        "Diner": 60,
+        "Caf\u00e9": 60,
+        "Alley": 60
       },
       "characters": {
-        "Alex Harper": 5,
-        "Sam Torres": 2,
-        "Brenda White": 1,
-        "Tommy Rivera": 1
+        "Alex Harper": 300,
+        "Sam Torres": 120,
+        "Brenda White": 60,
+        "Tommy Rivera": 60
       },
-      "importance_rank": 8,
-      "conflict_rank": 7
+      "importance_rank": 9,
+      "conflict_rank": 6
     },
     {
       "chapter": "Chapter 6: Personal Stakes",
-      "scenes": 8,
-      "length": 12512,
-      "num_lines": 169,
-      "summary": "Alex navigates emotional confrontations and seeks clarity on past events while receiving support from Sam.",
-      "importance": 0.85,
+      "scenes": 2,
+      "length": 8972,
+      "num_lines": 120,
+      "summary": "Alex navigates emotional turmoil and unresolved issues while seeking support and information from friends and professionals.",
+      "importance": 0.86,
       "conflict": 0.66,
       "locations": {
-        "Old House": 2,
-        "Luxury Apartment": 3,
-        "Caf\u00e9": 2,
-        "Alex's Office": 1
+        "Old House": 120,
+        "Alex's Apartment": 240,
+        "Caf\u00e9": 120
       },
       "characters": {
-        "Alex Harper": 8,
-        "Brenda White": 2,
-        "Jordan Harper": 3,
-        "Sam Torres": 2,
-        "Emily Rivers": 2,
-        "David Martin": 1
+        "Alex Harper": 480,
+        "Brenda White": 60,
+        "Jordan Harper": 120,
+        "Sam Torres": 120,
+        "Emily Rivers": 60,
+        "David Martin": 60
       },
-      "importance_rank": 9,
-      "conflict_rank": 9
+      "importance_rank": 10,
+      "conflict_rank": 8
     },
     {
       "chapter": "Chapter 7: The Mentor's Advice",
-      "scenes": 4,
-      "length": 10030,
-      "num_lines": 135,
-      "summary": "In a bar, Alex confides in Kane about the case and the time loop, while Lisa shares vital details about The Ghost, prompting Alex to reflect on the investigation.",
+      "scenes": 2,
+      "length": 8972,
+      "num_lines": 120,
+      "summary": "Alex seeks guidance from Kane while reflecting on the investigation and learning about The Ghost from Lisa.",
       "importance": 0.85,
       "conflict": 0.6,
       "locations": {
-        "Bar": 1,
-        "Police Precinct": 2,
-        "Luxury Apartment": 1
+        "Bar": 60,
+        "Police Precinct": 120,
+        "Alex's Apartment": 60
       },
       "characters": {
-        "Alex Harper": 4,
-        "Detective Richard Kane": 1,
-        "Sam Torres": 1,
-        "Detective Lisa Young": 1,
-        "The Ghost": 1
+        "Alex Harper": 240,
+        "Detective Richard Kane": 60,
+        "Sam Torres": 60,
+        "Detective Lisa Young": 60,
+        "The Ghost": 60
       },
-      "importance_rank": 10,
+      "importance_rank": 11,
       "conflict_rank": 10
     },
     {
       "chapter": "Chapter 8: Closer to the Truth",
-      "scenes": 6,
-      "length": 10051,
-      "num_lines": 138,
-      "summary": "Alex and Sam uncover Laura's secrets and confront her, while Alex interrogates Victor and has a tense encounter with The Ghost.",
-      "importance": 0.87,
-      "conflict": 0.73,
+      "scenes": 2,
+      "length": 8972,
+      "num_lines": 120,
+      "summary": "Alex uncovers Laura's ties to The Ghost and confronts her, while also interrogating Victor and ultimately facing The Ghost at the crime scene.",
+      "importance": 0.88,
+      "conflict": 0.75,
       "locations": {
-        "Police Precinct": 1,
-        "Interview Room": 1,
-        "Victim's Workplace": 2,
-        "Luxury Apartment": 1,
-        "Alex's Office": 1
+        "Police Precinct": 120,
+        "Victim's Workplace": 120,
+        "Luxury Apartment": 60,
+        "Dimly Lit Office": 60
       },
       "characters": {
-        "Alex Harper": 6,
-        "Sam Torres": 4,
-        "Laura Patel": 1,
-        "Victor Chen": 1,
-        "The Ghost": 1
+        "Alex Harper": 360,
+        "Sam Torres": 240,
+        "Laura Patel": 60,
+        "Victor Chen": 60,
+        "The Ghost": 60
       },
       "importance_rank": 5,
-      "conflict_rank": 3
-    },
-    {
-      "chapter": "Chapter 9: Consequences of Choices",
-      "scenes": 3,
-      "length": 10886,
-      "num_lines": 145,
-      "summary": "Alex reflects on the implications of the loop and shares a pivotal realization with Sam about its emotional impact.",
-      "importance": 0.9,
-      "conflict": 0.7,
-      "locations": {
-        "Alex's Bedroom": 1,
-        "Luxury Apartment": 1,
-        "Diner": 1
-      },
-      "characters": {
-        "Alex Harper": 3,
-        "Sam Torres": 2,
-        "Emily Rivers": 1
-      },
-      "importance_rank": 1,
-      "conflict_rank": 4
-    },
-    {
-      "chapter": "Chapter 10: The Final Loop",
-      "scenes": 6,
-      "length": 10149,
-      "num_lines": 142,
-      "summary": "Alex and Sam strategize and confront The Ghost, leading to a tense showdown that changes their perspectives on justice.",
-      "importance": 0.88,
-      "conflict": 0.77,
-      "locations": {
-        "Alex's Bedroom": 2,
-        "Police Precinct": 2,
-        "Abandoned Warehouse": 2
-      },
-      "characters": {
-        "Alex Harper": 6,
-        "Sam Torres": 5,
-        "The Ghost": 2
-      },
-      "importance_rank": 4,
       "conflict_rank": 1
     },
     {
+      "chapter": "Chapter 9: Consequences of Choices",
+      "scenes": 2,
+      "length": 8972,
+      "num_lines": 120,
+      "summary": "Alex grapples with the emotional burden of the loop while providing support to Emily after her loss, ultimately confronting their own struggles and sharing insights about the nature of the loop.",
+      "importance": 0.9,
+      "conflict": 0.65,
+      "locations": {
+        "Alex's Apartment": 120,
+        "Angela's Office": 60,
+        "Diner": 60
+      },
+      "characters": {
+        "Alex Harper": 240,
+        "Sam Torres": 120,
+        "Emily Rivers": 60,
+        "Angela Price": 60
+      },
+      "importance_rank": 1,
+      "conflict_rank": 9
+    },
+    {
+      "chapter": "Chapter 10: The Final Loop",
+      "scenes": 2,
+      "length": 8972,
+      "num_lines": 120,
+      "summary": "Alex and Sam strategize to confront The Ghost, leading to a tense showdown that ultimately results in victory and reflection on its consequences.",
+      "importance": 0.87,
+      "conflict": 0.72,
+      "locations": {
+        "Alex's Apartment": 120,
+        "Police Precinct": 120,
+        "Abandoned Warehouse": 120
+      },
+      "characters": {
+        "Alex Harper": 360,
+        "Sam Torres": 300,
+        "The Ghost": 120
+      },
+      "importance_rank": 6,
+      "conflict_rank": 3
+    },
+    {
       "chapter": "Chapter 11: Breaking the Loop",
-      "scenes": 4,
-      "length": 9072,
-      "num_lines": 125,
-      "summary": "Alex embraces newfound freedom after breaking the loop, reconnects with Sam and Jordan, and looks forward to a hopeful future.",
+      "scenes": 2,
+      "length": 8972,
+      "num_lines": 120,
+      "summary": "Alex embraces newfound freedom after breaking the loop, reconnects with Sam and Jordan, and feels optimistic about the future.",
       "importance": 0.9,
       "conflict": 0.48,
       "locations": {
-        "Luxury Apartment": 2,
-        "Police Precinct": 1,
-        "Dimly Lit Streets": 1
+        "Alex's Apartment": 120,
+        "Police Precinct": 60,
+        "Dimly Lit Streets": 60
       },
       "characters": {
-        "Alex Harper": 4,
-        "Sam Torres": 2,
-        "Jordan Harper": 1
+        "Alex Harper": 240,
+        "Sam Torres": 120,
+        "Jordan Harper": 60
       },
       "importance_rank": 2,
       "conflict_rank": 11
     },
     {
       "chapter": "Chapter 12: Moving Forward",
-      "scenes": 4,
+      "scenes": 2,
       "length": 8972,
       "num_lines": 120,
-      "summary": "Alex processes the emotional impact of the case while connecting with colleagues and honoring the victim.",
-      "importance": 0.85,
-      "conflict": 0.35,
+      "summary": "Alex reflects on the case's impact while connecting with colleagues and honoring the victim.",
+      "importance": 0.83,
+      "conflict": 0.27,
       "locations": {
-        "Luxury Apartment": 1,
-        "Police Precinct": 2,
-        "Memorial Gathering": 1
+        "Alex's Apartment": 60,
+        "Police Precinct": 120,
+        "Memorial Gathering": 60
       },
       "characters": {
-        "Alex Harper": 4,
-        "Jordan Harper": 2,
-        "Sam Torres": 1,
-        "Emily Rivers": 1,
-        "Chief Anderson": 1
+        "Alex Harper": 240,
+        "Jordan Harper": 120,
+        "Sam Torres": 60,
+        "Emily Rivers": 60,
+        "Chief Anderson": 60
       },
-      "importance_rank": 11,
+      "importance_rank": 12,
       "conflict_rank": 12
     }
   ],
@@ -306,13 +305,13 @@
           "importance": 1.0,
           "emotion": "Determined yet anxious",
           "sentiment": 0.5,
-          "quote": "Ready as I'll ever be",
+          "quote": "This was not just another murder\u2014this was a career-defining moment.",
           "fake_quote": "",
           "importance_rank": 1
         },
         {
           "name": "Sam Torres",
-          "role": "Supportive partner, skeptical of the case",
+          "role": "Supportive partner questioning readiness",
           "importance": 0.8,
           "emotion": "Skeptical but steady",
           "sentiment": 0.2,
@@ -326,8 +325,8 @@
       "conflict_rank": 1
     },
     {
-      "title": "Examining the Body",
-      "summary": "Alex inspects the crime scene and body.",
+      "title": "Inside the Apartment",
+      "summary": "Alex examines the crime scene with Officer Davis.",
       "chapter": "Chapter 1: The Case Begins",
       "first_line": 16,
       "last_line": 49,
@@ -340,10 +339,10 @@
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Lead detective investigating the crime",
+          "role": "Detective investigating the murder",
           "importance": 1.0,
-          "emotion": "Determined and analytical",
-          "sentiment": 0.8,
+          "emotion": "Focused and analytical",
+          "sentiment": 0.5,
           "quote": "It feels...off.",
           "fake_quote": "",
           "importance_rank": 1
@@ -363,7 +362,7 @@
           "role": "Alex's partner, skeptical observer",
           "importance": 0.6,
           "emotion": "Skeptical and contemplative",
-          "sentiment": 0.2,
+          "sentiment": 0.0,
           "quote": "This place, it doesn't fit, does it?",
           "fake_quote": "",
           "importance_rank": 3
@@ -375,7 +374,7 @@
     },
     {
       "title": "Captain's Office",
-      "summary": "Alex faces pressure from Captain Morgan.",
+      "summary": "Alex faces pressure from Captain Morgan about the case.",
       "chapter": "Chapter 1: The Case Begins",
       "first_line": 53,
       "last_line": 71,
@@ -388,9 +387,9 @@
       "characters": [
         {
           "name": "Captain Morgan",
-          "role": "Authority figure pressuring Alex",
+          "role": "Captain overseeing the investigation",
           "importance": 1.0,
-          "emotion": "Impatient and demanding",
+          "emotion": "Impatient and authoritative",
           "sentiment": -0.5,
           "quote": "Anderson's breathing down my neck.",
           "fake_quote": "",
@@ -413,24 +412,24 @@
     },
     {
       "title": "Interview with Emily",
-      "summary": "Alex interviews the victim's friend, Emily.",
+      "summary": "Alex interviews the victim's friend, Emily Rivers.",
       "chapter": "Chapter 1: The Case Begins",
       "first_line": 80,
       "last_line": 101,
       "text": "The precinct buzzed with activity as Alex made their way to the interview room.\nEmily Rivers sat inside, her hands folded tightly in her lap, her eyes red from\ncrying. She was a friend of the victim\u2014close, by all accounts\u2014and Alex hoped\nshe had more to offer than just tears.\n\"Ms. Rivers,\" Alex said, sliding into the chair opposite her. \"I know this is\nhard, but I need you to help us understand what happened.\"\nEmily sniffled, wiping her nose on a tissue. \"She didn't deserve this,\" she\nwhispered, her voice breaking. \"None of this makes sense.\"\nAlex nodded, keeping their expression neutral, though their heart tightened.\nCases like these were always hardest when the victim's loved ones sat across\nfrom them. \"You said you saw her the night before. Can you tell me what she was\nlike?\"\nEmily swallowed hard. \"She was...distracted. I thought it was just work, but\nnow\u2014now I'm wondering if she was scared.\" Her voice wavered, her eyes darting\ndown to her lap. \"I should've asked her. I should've known.\"\nAlex's mind raced. If the victim had been scared, that changed things. \"Did she\nmention anyone? Any threats? Anyone unusual in her life lately?\"\nEmily shook her head, tears slipping down her cheeks. \"No, she was private. Too\nprivate. Even with me.\"\nAlex took a deep breath, leaning back in the chair. This was going to take more\nthan just Emily's tears to solve. But somewhere, buried in her pain, there had\nto be something that would crack this case open.",
       "length": 1461,
       "num_lines": 22,
-      "location": "Interview Room",
+      "location": "Police Precinct",
       "importance": 0.9,
       "conflict": 0.7,
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Interrogator seeking information",
+          "role": "Detective trying to gather information",
           "importance": 1.0,
-          "emotion": "Determined yet empathetic",
+          "emotion": "Concerned and empathetic",
           "sentiment": 0.5,
-          "quote": "I know this is hard, but I need you to help us understand what happened.",
+          "quote": "You said you saw her the night before. Can you tell me what she was like?",
           "fake_quote": "",
           "importance_rank": 1
         },
@@ -464,20 +463,20 @@
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Lead investigator examining the scene",
+          "role": "Lead investigator examining evidence",
           "importance": 1.0,
           "emotion": "Determined and anxious",
-          "sentiment": 0.5,
+          "sentiment": -0.5,
           "quote": "I don't want to wait for Evans. I need to know what we're dealing with now.",
           "fake_quote": "",
           "importance_rank": 1
         },
         {
           "name": "Sam Torres",
-          "role": "Supportive partner observing the investigation",
+          "role": "Supportive partner observing investigation",
           "importance": 0.8,
           "emotion": "Calm but uncertain",
-          "sentiment": 0.2,
+          "sentiment": -0.3,
           "quote": "What do you think we missed?",
           "fake_quote": "",
           "importance_rank": 2
@@ -489,7 +488,7 @@
     },
     {
       "title": "Interview with Victor Chen",
-      "summary": "Alex questions Victor about his relationship with the victim.",
+      "summary": "Alex questions Victor about the victim's work relationships.",
       "chapter": "Chapter 2: A Day Like Any Other",
       "first_line": 37,
       "last_line": 68,
@@ -498,14 +497,14 @@
       "num_lines": 32,
       "location": "Victim's Workplace",
       "importance": 0.8,
-      "conflict": 0.6,
+      "conflict": 0.7,
       "characters": [
         {
           "name": "Alex Harper",
           "role": "Detective probing for information",
           "importance": 1.0,
           "emotion": "Determined and observant",
-          "sentiment": 0.7,
+          "sentiment": 0.8,
           "quote": "I'm not asking about friendship. I'm asking if there was any tension between you two.",
           "fake_quote": "",
           "importance_rank": 1
@@ -523,7 +522,7 @@
       ],
       "number": 2,
       "importance_rank": 4,
-      "conflict_rank": 4
+      "conflict_rank": 3
     },
     {
       "title": "Discussion at the Precinct",
@@ -544,7 +543,7 @@
           "importance": 0.9,
           "emotion": "Frustrated and determined",
           "sentiment": -0.5,
-          "quote": "We need a motive. Something solid to work with. Right now, all we have are vague suspicions and loose threads.",
+          "quote": "Emily Rivers is too emotional right now.",
           "fake_quote": "",
           "importance_rank": 1
         },
@@ -553,8 +552,8 @@
           "role": "Collaborating with Alex and suggesting leads",
           "importance": 0.8,
           "emotion": "Thoughtful and supportive",
-          "sentiment": 0.2,
-          "quote": "What about the note we found at the crime scene? It was cryptic, sure, but it might be our best lead.",
+          "sentiment": 0.5,
+          "quote": "What about the note we found at the crime scene?",
           "fake_quote": "",
           "importance_rank": 2
         }
@@ -577,24 +576,24 @@
       "conflict": 0.8,
       "characters": [
         {
-          "name": "Laura Patel",
-          "role": "Defensive witness withholding information",
-          "importance": 0.8,
-          "emotion": "Nervous and frustrated",
-          "sentiment": -0.5,
-          "quote": "I already told you everything I know.",
-          "fake_quote": "",
-          "importance_rank": 2
-        },
-        {
           "name": "Alex Harper",
           "role": "Interrogator seeking the truth",
-          "importance": 0.9,
-          "emotion": "Determined and probing",
-          "sentiment": 0.7,
+          "importance": 1.0,
+          "emotion": "Determined and focused",
+          "sentiment": 0.8,
           "quote": "Because there are inconsistencies in your story, Ms. Patel. And I think you know more than you're letting on.",
           "fake_quote": "",
           "importance_rank": 1
+        },
+        {
+          "name": "Laura Patel",
+          "role": "Defensive witness hiding information",
+          "importance": 1.0,
+          "emotion": "Nervous and frustrated",
+          "sentiment": -0.5,
+          "quote": "I told you the truth! I didn't see anything out of the ordinary.",
+          "fake_quote": "",
+          "importance_rank": 2
         }
       ],
       "number": 4,
@@ -603,7 +602,7 @@
     },
     {
       "title": "Forensic Findings at Coroner's Office",
-      "summary": "Alex learns about the chemical found in the victim's body.",
+      "summary": "Alex learns about the chemical found in the victim's bloodstream.",
       "chapter": "Chapter 2: A Day Like Any Other",
       "first_line": 130,
       "last_line": 158,
@@ -626,7 +625,7 @@
         },
         {
           "name": "Officer Evans",
-          "role": "Forensic officer providing evidence",
+          "role": "Officer providing forensic details",
           "importance": 1.0,
           "emotion": "Serious and focused",
           "sentiment": 0.5,
@@ -637,18 +636,18 @@
       ],
       "number": 5,
       "importance_rank": 3,
-      "conflict_rank": 3
+      "conflict_rank": 4
     },
     {
       "title": "Awakening in Dread",
-      "summary": "Alex wakes up feeling trapped in a loop.",
+      "summary": "Alex wakes up feeling trapped in a d\u00e9j\u00e0 vu.",
       "chapter": "Chapter 3: Realization of the Loop",
       "first_line": 1,
       "last_line": 29,
       "text": "Alex jolted awake in their bed, drenched in sweat. The sunlight streaming\nthrough the curtains felt too bright, too familiar. The clock on the bedside\ntable read 7:00 a.m., and the radio was playing the same old song. For a\nmoment, they sat frozen, their heart pounding as they tried to shake off the\nremnants of the dream\u2014or was it a dream? The murder, the investigation, Laura\nPatel's trembling confession...it had all seemed so real. But as Alex glanced\naround their room, everything felt wrong.\nThe day before was fresh in their memory, yet the quiet hum of the early\nmorning buzzed with a disorienting sense of d\u00e9j\u00e0 vu. Alex rubbed their temples,\ntrying to piece together their thoughts. Something wasn't right. Hadn't they\nalready lived through this day?\nThrowing back the covers, they moved through their apartment in a daze. It was\nas if every object, every detail was exactly as it had been the previous\nmorning, down to the coffee cup on the kitchen counter. Alex picked it up,\nstaring at the dark liquid inside, the steam curling lazily into the air.\nEverything was the same, and yet it wasn't.\nThe phone rang, and Alex's stomach twisted in knots. They knew, without\nanswering, that it was Sam on the other end. Slowly, they reached for the\nreceiver.\n\"Harper, we've got a situation. You'll want to get down here.\"\nSame words. Same tone. Same urgency. It was happening again.\n\"I'll be there,\" Alex replied, their voice sounding distant even to themselves.\nThey hung up, staring at the phone in disbelief. Was this some kind of joke? A\nsick, twisted joke?\nBut as they moved through the motions of getting dressed, the creeping sense of\nunease grew stronger. The day ahead was a perfect reflection of the day before,\nand Alex couldn't shake the feeling that they were trapped in something far\nbeyond their control. Something was wrong\u2014deeply, unsettlingly wrong\u2014and they\nhad to figure it out before it drove them mad.",
       "length": 1925,
       "num_lines": 29,
-      "location": "Luxury Apartment",
+      "location": "Alex's Apartment",
       "importance": 0.9,
       "conflict": 0.8,
       "characters": [
@@ -658,17 +657,17 @@
           "importance": 1.0,
           "emotion": "Confused and anxious",
           "sentiment": -0.5,
-          "quote": "I\u2019ll be there.",
+          "quote": "\"I'll be there,\" Alex replied, their voice sounding distant even to themselves.",
           "fake_quote": "",
           "importance_rank": 1
         },
         {
           "name": "Sam Torres",
-          "role": "Urgent communicator of a situation",
+          "role": "Conveying urgency about a situation",
           "importance": 0.8,
-          "emotion": "Serious and urgent",
+          "emotion": "Urgent and serious",
           "sentiment": 0.5,
-          "quote": "Harper, we\u2019ve got a situation. You\u2019ll want to get down here.",
+          "quote": "Harper, we've got a situation. You'll want to get down here.",
           "fake_quote": "",
           "importance_rank": 2
         }
@@ -678,46 +677,46 @@
       "conflict_rank": 1
     },
     {
-      "title": "The Call to Action",
-      "summary": "Alex receives a call from Sam about a situation.",
+      "title": "At the Precinct",
+      "summary": "Alex arrives at the precinct and meets Sam.",
       "chapter": "Chapter 3: Realization of the Loop",
       "first_line": 30,
-      "last_line": 49,
-      "text": "Arriving at the precinct, Alex moved through the familiar hallways, each step\nweighed down by the gnawing sensation that they had done this all before. The\nprecinct bustled with the usual activity, but the faces, the conversations\u2014it\nwas all too familiar. Alex caught sight of Sam at his desk, flipping through a\nfile. He looked up as Alex approached, his expression the same as yesterday,\nand Alex's heart sank.\n\"About time you showed up,\" Sam said, flashing a grin. \"The crime scene's\nalready a circus.\"\nAlex stared at him, their mind racing. Was Sam reliving this too? Did anyone\nelse feel it? \"Sam...didn't we\u2014\" Alex stopped, unsure how to phrase it.\n\"Haven't we already been through this?\"\nSam raised an eyebrow, his grin fading slightly. \"What are you talking about?\nWe've got a murder to solve, Alex. You good?\"\nAlex felt a wave of frustration rise. \"I'm fine,\" they muttered, though their\nvoice betrayed the lie. The ground beneath their feet felt shaky, unstable.\n\"Let's just...get to the crime scene.\"\nAs they walked side by side, Alex couldn't shake the growing dread. Everything\nwas unfolding exactly the same as the previous day, down to the smallest\ndetail. The conversations, the cases being discussed in the bullpen, the coffee\nsomeone had spilled near the front desk\u2014it was all the same. No matter how much",
-      "length": 1323,
-      "num_lines": 20,
+      "last_line": 51,
+      "text": "Arriving at the precinct, Alex moved through the familiar hallways, each step\nweighed down by the gnawing sensation that they had done this all before. The\nprecinct bustled with the usual activity, but the faces, the conversations\u2014it\nwas all too familiar. Alex caught sight of Sam at his desk, flipping through a\nfile. He looked up as Alex approached, his expression the same as yesterday,\nand Alex's heart sank.\n\"About time you showed up,\" Sam said, flashing a grin. \"The crime scene's\nalready a circus.\"\nAlex stared at him, their mind racing. Was Sam reliving this too? Did anyone\nelse feel it? \"Sam...didn't we\u2014\" Alex stopped, unsure how to phrase it.\n\"Haven't we already been through this?\"\nSam raised an eyebrow, his grin fading slightly. \"What are you talking about?\nWe've got a murder to solve, Alex. You good?\"\nAlex felt a wave of frustration rise. \"I'm fine,\" they muttered, though their\nvoice betrayed the lie. The ground beneath their feet felt shaky, unstable.\n\"Let's just...get to the crime scene.\"\nAs they walked side by side, Alex couldn't shake the growing dread. Everything\nwas unfolding exactly the same as the previous day, down to the smallest\ndetail. The conversations, the cases being discussed in the bullpen, the coffee\nsomeone had spilled near the front desk\u2014it was all the same. No matter how much\nAlex tried to dismiss it, the truth was becoming clearer by the minute.\nThey were trapped in a loop. And no one else seemed to notice.",
+      "length": 1458,
+      "num_lines": 22,
       "location": "Police Precinct",
-      "importance": 0.8,
-      "conflict": 0.7,
+      "importance": 0.9,
+      "conflict": 0.8,
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Experiencing d\u00e9j\u00e0 vu and frustration",
+          "role": "Experiencing a sense of d\u00e9j\u00e0 vu",
           "importance": 1.0,
           "emotion": "Frustrated and anxious",
           "sentiment": -0.5,
           "quote": "I'm fine",
-          "fake_quote": "I can't shake this feeling that we've done this before.",
+          "fake_quote": "Alex is struggling with a sense of frustration and anxiety, feeling trapped in a repetitive cycle.",
           "importance_rank": 1
         },
         {
           "name": "Sam Torres",
-          "role": "Unaware of Alex's distress, focused on work",
-          "importance": 1.0,
-          "emotion": "Confused and casual",
+          "role": "Unaware of Alex's distress",
+          "importance": 0.8,
+          "emotion": "Casual and slightly confused",
           "sentiment": 0.2,
-          "quote": "About time you showed up",
+          "quote": "About time you showed up.",
           "fake_quote": "",
           "importance_rank": 2
         }
       ],
       "number": 2,
-      "importance_rank": 3,
-      "conflict_rank": 3
+      "importance_rank": 2,
+      "conflict_rank": 2
     },
     {
-      "title": "At the Crime Scene",
-      "summary": "Alex realizes they are reliving the same crime scene.",
+      "title": "Crime Scene Revisited",
+      "summary": "Alex confronts the crime scene, realizing it's the same as before.",
       "chapter": "Chapter 3: Realization of the Loop",
       "first_line": 52,
       "last_line": 79,
@@ -739,49 +738,49 @@
           "importance_rank": 1
         },
         {
+          "name": "Officer Davis",
+          "role": "Nervously monitoring the scene",
+          "importance": 0.5,
+          "emotion": "Nervous and distracted",
+          "sentiment": -0.3,
+          "quote": "No quote available",
+          "fake_quote": "Officer Davis is visibly anxious, fiddling with his radio as he tries to maintain focus on the crime scene.",
+          "importance_rank": 3
+        },
+        {
           "name": "Sam Torres",
           "role": "Concerned friend trying to help",
           "importance": 0.7,
-          "emotion": "Worried and supportive",
-          "sentiment": 0.5,
+          "emotion": "Concerned and supportive",
+          "sentiment": 0.2,
           "quote": "Alex, you alright?",
           "fake_quote": "",
           "importance_rank": 2
-        },
-        {
-          "name": "Officer Davis",
-          "role": "Nervous observer at the scene",
-          "importance": 0.3,
-          "emotion": "Anxious and fidgety",
-          "sentiment": -0.2,
-          "quote": "No quote available",
-          "fake_quote": "I can't believe this is happening again.",
-          "importance_rank": 3
         }
       ],
       "number": 3,
-      "importance_rank": 2,
-      "conflict_rank": 2
+      "importance_rank": 3,
+      "conflict_rank": 3
     },
     {
       "title": "Seeking Help",
-      "summary": "Alex visits psychiatrist Angela for insight.",
+      "summary": "Alex visits psychiatrist Angela for insight into their situation.",
       "chapter": "Chapter 3: Realization of the Loop",
       "first_line": 80,
       "last_line": 117,
       "text": "Back at the precinct, Alex sat in their office, staring blankly at the\npaperwork piled on their desk. The clock ticked away the seconds, each one\nfeeling more surreal than the last. If today was a repeat of yesterday, then\nevery choice they made now wouldn't carry forward\u2014there were no consequences,\nno lasting impact.\nBut that also meant they had the freedom to experiment, to test the boundaries\nof this loop. Maybe, just maybe, they could figure out how to break it.\nAlex stood abruptly, their mind racing with possibilities. They needed to see\nsomeone who might understand this, someone outside of the investigation.\nWithout a second thought, they grabbed their coat and headed out the door,\nleaving Sam behind with barely a word.\nTheir destination: Angela Price, the department's psychiatrist. If anyone could\noffer insight into the strange situation Alex found themselves in, it was her.\nThe drive to Angela's office felt endless, the weight of uncertainty pressing\ndown on Alex with every passing second. The streets blurred by in a haze, and\nby the time they reached the building, Alex's hands were trembling. They had no\nidea how to explain this to her, no idea how to make sense of the madness\nswirling in their head.\nAngela greeted them with her usual calm demeanor, but Alex could see the\nconcern in her eyes as they sat down across from her. \"You seem...unsettled,\"\nshe said gently. \"What's going on?\"\nFor a long moment, Alex just stared at her, unsure where to begin. But then the\nwords came pouring out\u2014disjointed, frantic. \"I'm stuck,\" they said, their voice\nbreaking. \"I'm stuck in the same day. Everything's repeating. I've lived\nthrough this day before.\"\nAngela raised an eyebrow, but her tone remained even. \"Are you sure? It sounds\nlike you might be experiencing d\u00e9j\u00e0 vu\u2014\"\n\"No,\" Alex interrupted, shaking their head. \"This is real. I know it is.\nEverything...everything's happening the same way, down to the smallest detail.\nIt's not just d\u00e9j\u00e0 vu.\"\nAngela was silent for a long moment, her gaze steady. \"Tell me more,\" she said\nquietly, and Alex did. They told her about the crime scene, the conversations\nwith Sam, the routine that had played out exactly the same as yesterday. And\nthrough it all, Angela listened, her expression unreadable.\nWhen Alex finished, the silence hung heavy in the air. Finally, Angela spoke,\nher voice soft but firm. \"I'm not sure what's happening, Alex. But whatever it\nis, we'll figure it out together.\"\nBut Alex wasn't sure if anyone could help them now.",
       "length": 2508,
       "num_lines": 38,
-      "location": "Alex's Office",
+      "location": "Alex's Apartment",
       "importance": 0.8,
-      "conflict": 0.7,
+      "conflict": 0.6,
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Struggling with a time loop",
+          "role": "Seeking help for their situation",
           "importance": 1.0,
           "emotion": "Frantic and desperate",
-          "sentiment": -0.8,
+          "sentiment": -0.7,
           "quote": "I'm stuck in the same day. Everything's repeating. I've lived through this day before.",
           "fake_quote": "",
           "importance_rank": 1
@@ -789,7 +788,7 @@
         {
           "name": "Angela Price",
           "role": "Offering support and insight",
-          "importance": 1.0,
+          "importance": 0.8,
           "emotion": "Calm but concerned",
           "sentiment": 0.5,
           "quote": "You seem...unsettled. What's going on?",
@@ -799,11 +798,11 @@
       ],
       "number": 4,
       "importance_rank": 4,
-      "conflict_rank": 4
+      "conflict_rank": 5
     },
     {
       "title": "Confrontation with Sarah",
-      "summary": "Alex faces suspicion from Detective Sarah Black.",
+      "summary": "Alex faces Detective Sarah's scrutiny at the precinct.",
       "chapter": "Chapter 3: Realization of the Loop",
       "first_line": 118,
       "last_line": 143,
@@ -817,10 +816,10 @@
         {
           "name": "Alex Harper",
           "role": "Struggling with personal issues",
-          "importance": 0.9,
+          "importance": 1.0,
           "emotion": "Frustrated and overwhelmed",
           "sentiment": -0.5,
-          "quote": "Just a long day.",
+          "quote": "I'm fine.",
           "fake_quote": "",
           "importance_rank": 1
         },
@@ -837,7 +836,7 @@
       ],
       "number": 5,
       "importance_rank": 5,
-      "conflict_rank": 5
+      "conflict_rank": 4
     },
     {
       "title": "Returning to the Crime Scene",
@@ -849,7 +848,7 @@
       "length": 1709,
       "num_lines": 26,
       "location": "Luxury Apartment",
-      "importance": 0.8,
+      "importance": 0.9,
       "conflict": 0.5,
       "characters": [
         {
@@ -858,23 +857,23 @@
           "importance": 1.0,
           "emotion": "Determined and contemplative",
           "sentiment": 0.5,
-          "quote": "There's something about this whole scene that feels...staged.",
+          "quote": "Yeah, but it's more than that. There's something about this whole scene that feels...staged.",
           "fake_quote": "",
           "importance_rank": 1
         },
         {
           "name": "Sam Torres",
           "role": "Detective supporting Alex's investigation",
-          "importance": 1.0,
+          "importance": 0.8,
           "emotion": "Skeptical yet supportive",
-          "sentiment": 0.0,
+          "sentiment": 0.2,
           "quote": "You're quieter than usual. You think we missed something?",
           "fake_quote": "",
           "importance_rank": 2
         }
       ],
       "number": 1,
-      "importance_rank": 4,
+      "importance_rank": 1,
       "conflict_rank": 5
     },
     {
@@ -902,32 +901,32 @@
         },
         {
           "name": "Sam Torres",
-          "role": "Supportive partner guiding witness",
+          "role": "Supportive partner in investigation",
           "importance": 0.8,
-          "emotion": "Calm and firm",
+          "emotion": "Calm and assertive",
           "sentiment": 0.6,
           "quote": "We're not here to dig into her personal life, but we do need to know everything you remember about the last time you saw her.",
           "fake_quote": "",
-          "importance_rank": 3
+          "importance_rank": 2
         },
         {
-          "name": "Tommy Rivera",
-          "role": "Reluctant informant withholding information",
-          "importance": 0.9,
-          "emotion": "Anxious and guilty",
+          "name": "Witness",
+          "role": "Nervous informant withholding information",
+          "importance": 0.7,
+          "emotion": "Nervous and guilty",
           "sentiment": -0.3,
           "quote": "I didn't think it was important. I mean, she always kept things to herself.",
           "fake_quote": "",
-          "importance_rank": 2
+          "importance_rank": 3
         }
       ],
       "number": 2,
-      "importance_rank": 1,
+      "importance_rank": 2,
       "conflict_rank": 2
     },
     {
       "title": "Discovering New Evidence",
-      "summary": "Alex and Sam find a hidden note in the victim's coat at the forensics lab.",
+      "summary": "In the forensics lab, Alex and Sam uncover a hidden note in the victim's coat.",
       "chapter": "Chapter 4: The Investigation Deepens",
       "first_line": 66,
       "last_line": 90,
@@ -940,7 +939,7 @@
       "characters": [
         {
           "name": "Officer Evans",
-          "role": "Forensic officer presenting evidence",
+          "role": "Examining evidence and providing information",
           "importance": 1.0,
           "emotion": "Focused and determined",
           "sentiment": 0.8,
@@ -950,27 +949,27 @@
         },
         {
           "name": "Alex Harper",
-          "role": "Detective analyzing the evidence",
+          "role": "Analyzing the evidence and strategizing next steps",
           "importance": 1.0,
           "emotion": "Anxious and urgent",
           "sentiment": 0.6,
-          "quote": "Get the team to check out the location. If it's connected to the murder, we need to know what was there and why she kept it hidden.",
+          "quote": "Get the team to check out the location.",
           "fake_quote": "",
           "importance_rank": 2
         },
         {
           "name": "Sam Torres",
-          "role": "Detective assessing the situation",
+          "role": "Interpreting the evidence and suggesting its significance",
           "importance": 1.0,
-          "emotion": "Intrigued and analytical",
+          "emotion": "Intrigued and hopeful",
           "sentiment": 0.7,
-          "quote": "This could be a major lead. Maybe it's where she was hiding something\u2014or someone.",
+          "quote": "This could be a major lead.",
           "fake_quote": "",
           "importance_rank": 3
         }
       ],
       "number": 3,
-      "importance_rank": 2,
+      "importance_rank": 3,
       "conflict_rank": 3
     },
     {
@@ -982,7 +981,7 @@
       "text": "Alex stood in front of Laura Patel again, their patience thinning with every\nsecond. Laura had her arms crossed tightly across her chest, her eyes darting\nnervously as Alex fixed her with a hard stare.\n\"I already told you everything I know,\" Laura said, her voice defensive.\nAlex wasn't buying it. Not this time. \"You lied to us,\" they said, their voice\nlow and sharp. \"You said you didn't know about her relationship with that man,\nbut we found out you'd seen them together. Why didn't you tell us?\"\nLaura's eyes widened with fear, and for a moment, Alex thought she was going to\nbolt. But then she sank into the chair, defeated. \"I didn't want to get\ninvolved,\" she muttered, her voice barely above a whisper. \"I didn't think it\nmattered.\"\n\"It mattered,\" Alex said coldly. \"It always matters.\"\nLaura looked down, her fingers twisting together in her lap. \"I...I didn't\nthink it would come to this. I thought it was just some secret affair or\nsomething.\"\nAlex's eyes narrowed. \"And you're sure you didn't recognize the man she was\nwith? No name, no face?\"\nLaura shook her head, her voice trembling. \"No. I swear. I only saw them a\ncouple of times, and it was always from a distance. I didn't get a good look.\"\nAlex leaned back, their frustration mounting. They were close\u2014so close\u2014but\nstill missing the final piece. Whoever this man was, he was key to the entire\ninvestigation, and Laura had seen him. She just didn't know it yet.\n\"We'll need to talk again,\" Alex said, standing. \"And next time, don't hold\nanything back.\"",
       "length": 1523,
       "num_lines": 24,
-      "location": "Interview Room",
+      "location": "Police Precinct",
       "importance": 0.9,
       "conflict": 0.8,
       "characters": [
@@ -1008,12 +1007,12 @@
         }
       ],
       "number": 4,
-      "importance_rank": 3,
+      "importance_rank": 4,
       "conflict_rank": 1
     },
     {
       "title": "Meeting Tommy Rivera",
-      "summary": "Alex meets informant Tommy in a bar to gather intel on the victim's connections.",
+      "summary": "Alex meets informant Tommy Rivera to gather intel on the victim's connections.",
       "chapter": "Chapter 4: The Investigation Deepens",
       "first_line": 115,
       "last_line": 140,
@@ -1026,19 +1025,19 @@
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "determined investigator seeking information",
+          "role": "Determined investigator seeking information",
           "importance": 1.0,
-          "emotion": "focused and anxious",
-          "sentiment": 0.5,
+          "emotion": "Intense focus and urgency",
+          "sentiment": 0.8,
           "quote": "You need to tell me everything you know about him.",
           "fake_quote": "",
           "importance_rank": 1
         },
         {
           "name": "Tommy Rivera",
-          "role": "nervous informant revealing dangerous information",
+          "role": "Nervous informant providing crucial details",
           "importance": 1.0,
-          "emotion": "fearful and anxious",
+          "emotion": "Fearful and anxious",
           "sentiment": -0.5,
           "quote": "I can give you a lead. But after that, I'm done. I don't want to end up like her.",
           "fake_quote": "",
@@ -1051,35 +1050,35 @@
     },
     {
       "title": "Morning Routine",
-      "summary": "Alex wakes up in a loop, frustrated.",
+      "summary": "Alex reflects on the loop and plans their day.",
       "chapter": "Chapter 5: Breaking the Cycle",
       "first_line": 1,
       "last_line": 20,
       "text": "The morning light crept through the blinds of Alex Harper's apartment as they\nstared blankly at the wall. The same day. Again. The loop had restarted, and\nAlex was no closer to understanding why. Their mind churned through the events\nthat had unfolded over the previous loops, each iteration bringing them closer\nto the truth but never enough to break free. Alex ran a hand through their\nhair, frustrated. How many more times would they have to relive this?\nPushing themselves out of bed, Alex knew they had to approach the day\ndifferently. They needed a strategy. The previous loops had taught them that\nthe killer had meticulously planned everything. If they were going to break\nthis cycle, they had to gather evidence that could definitively expose the\nkiller's identity\u2014something strong enough to change the course of events.\nStanding in the kitchen, Alex jotted down a mental checklist. They needed to\nretrace their steps, but with new eyes. There were cracks in the timeline,\npatterns that repeated in small but significant ways. The victim's hidden note,\nLaura Patel's fear, and the mysterious man in the shadows. If Alex could\npinpoint the exact moment where things went wrong, they could shift the outcome.\nThey poured a cup of coffee and took a deep breath. This time, they wouldn't\nrush through the investigation. Each interaction, each clue had to be\nscrutinized with precision. No more second-guessing. It was time to take\ncontrol.",
       "length": 1444,
       "num_lines": 20,
-      "location": "Luxury Apartment",
-      "importance": 0.8,
-      "conflict": 0.6,
+      "location": "Alex's Apartment",
+      "importance": 0.9,
+      "conflict": 0.7,
       "characters": [
         {
           "name": "Alex Harper",
           "role": "Determined to break the loop",
           "importance": 1.0,
           "emotion": "Frustrated and resolute",
-          "sentiment": 0.5,
+          "sentiment": 0.2,
           "quote": "How many more times would they have to relive this?",
           "fake_quote": "",
           "importance_rank": 1
         }
       ],
       "number": 1,
-      "importance_rank": 4,
-      "conflict_rank": 4
+      "importance_rank": 1,
+      "conflict_rank": 2
     },
     {
       "title": "Meeting Sam",
-      "summary": "Alex discusses a new approach with Sam.",
+      "summary": "Alex discusses a new approach to the case with Sam.",
       "chapter": "Chapter 5: Breaking the Cycle",
       "first_line": 21,
       "last_line": 46,
@@ -1092,19 +1091,19 @@
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Determined to change their approach",
+          "role": "Determined investigator seeking answers",
           "importance": 1.0,
-          "emotion": "Frustrated yet resolute",
+          "emotion": "Frustrated yet focused",
           "sentiment": 0.2,
           "quote": "I'm fine.",
-          "fake_quote": "We need to take a different approach to the case.",
+          "fake_quote": "",
           "importance_rank": 1
         },
         {
           "name": "Sam Torres",
-          "role": "Concerned friend and collaborator",
+          "role": "Supportive friend and partner",
           "importance": 1.0,
-          "emotion": "Worried but supportive",
+          "emotion": "Concerned and attentive",
           "sentiment": 0.5,
           "quote": "You look like you didn't sleep at all.",
           "fake_quote": "",
@@ -1112,8 +1111,8 @@
         }
       ],
       "number": 2,
-      "importance_rank": 5,
-      "conflict_rank": 5
+      "importance_rank": 4,
+      "conflict_rank": 4
     },
     {
       "title": "Reviewing Evidence",
@@ -1124,9 +1123,9 @@
       "text": "Back at Alex's apartment, they laid out the evidence in a meticulous\narrangement on the kitchen table. Every photo, every piece of paper, every note\nfrom the investigation was there, splayed out like the puzzle it had become.\nSam sat across from them, reviewing the details with fresh eyes, just as Alex\nhad asked him to do.\n\"This hidden note,\" Alex said, holding up the worn piece of paper they'd found\nin the victim's coat. \"It led us to that abandoned address, but there was\nnothing there. No sign of anyone. But what if it's not the location that's\nimportant? What if it's who gave her this note?\"\nSam frowned, leaning closer to examine the note. \"You think someone planted\nthis on her? To mislead us?\"\n\"Exactly,\" Alex said, their voice gaining momentum. \"The victim was scared. We\nknow that much. She was hiding something\u2014or someone. But if she was\ndeliberately misled, that means the killer was one step ahead of us the whole\ntime.\"\nSam exhaled, leaning back in his chair. \"So what's the next move? We can't just\nkeep chasing shadows.\"\nAlex nodded, folding their arms as they stared at the photos on the table. \"We\ntalk to Tommy Rivera again. He knows more about this than he's saying. And we\nrevisit the people closest to the victim. They might have seen or heard\nsomething that didn't seem important at the time, but in the context of the\nloop, it could be the key.\"",
       "length": 1374,
       "num_lines": 22,
-      "location": "Luxury Apartment",
-      "importance": 0.9,
-      "conflict": 0.7,
+      "location": "Alex's Apartment",
+      "importance": 0.8,
+      "conflict": 0.6,
       "characters": [
         {
           "name": "Alex Harper",
@@ -1140,8 +1139,8 @@
         },
         {
           "name": "Sam Torres",
-          "role": "Analyzing evidence and questioning theories",
-          "importance": 1.0,
+          "role": "Analyzing the evidence and questioning Alex's theory",
+          "importance": 0.8,
           "emotion": "Skeptical and engaged",
           "sentiment": 0.5,
           "quote": "You think someone planted this on her? To mislead us?",
@@ -1150,12 +1149,12 @@
         }
       ],
       "number": 3,
-      "importance_rank": 1,
-      "conflict_rank": 2
+      "importance_rank": 5,
+      "conflict_rank": 5
     },
     {
       "title": "Talking to Brenda",
-      "summary": "Alex meets Brenda for crucial information.",
+      "summary": "Alex meets Brenda to gather more information about the victim.",
       "chapter": "Chapter 5: Breaking the Cycle",
       "first_line": 72,
       "last_line": 101,
@@ -1172,7 +1171,7 @@
           "importance": 0.8,
           "emotion": "grief and hesitation",
           "sentiment": -0.5,
-          "quote": "I didn't think we'd be talking again.",
+          "quote": "\"I didn't think we'd be talking again.\"",
           "fake_quote": "",
           "importance_rank": 2
         },
@@ -1182,7 +1181,7 @@
           "importance": 0.9,
           "emotion": "determined and calm",
           "sentiment": 0.5,
-          "quote": "I'm sorry to intrude, Brenda, but I believe there's more we need to discuss.",
+          "quote": "\"I'm sorry to intrude, Brenda, but I believe there's more we need to discuss.\"",
           "fake_quote": "",
           "importance_rank": 1
         }
@@ -1193,7 +1192,7 @@
     },
     {
       "title": "Confronting Tommy",
-      "summary": "Alex pressures Tommy for information about the killer.",
+      "summary": "Alex confronts Tommy for crucial information about the killer.",
       "chapter": "Chapter 5: Breaking the Cycle",
       "first_line": 102,
       "last_line": 134,
@@ -1208,7 +1207,7 @@
           "name": "Alex Harper",
           "role": "Interrogating Tommy for information",
           "importance": 1.0,
-          "emotion": "Determined and intense",
+          "emotion": "Determined and urgent",
           "sentiment": 0.8,
           "quote": "This is your last chance. If you don't tell me what you know, more people could get hurt. Is that what you want?",
           "fake_quote": "",
@@ -1216,9 +1215,9 @@
         },
         {
           "name": "Tommy Rivera",
-          "role": "Fearful informant revealing crucial information",
+          "role": "Reluctantly revealing information",
           "importance": 1.0,
-          "emotion": "Jittery and scared",
+          "emotion": "Fearful and anxious",
           "sentiment": -0.7,
           "quote": "I told you everything I know, man. I don't want any part of this.",
           "fake_quote": "",
@@ -1256,15 +1255,15 @@
           "name": "Brenda White",
           "role": "Catalyst for Alex's return",
           "importance": 0.5,
-          "emotion": "Concerned and probing",
+          "emotion": "Concerned and mysterious",
           "sentiment": 0.2,
           "quote": "No quote available",
-          "fake_quote": "You need to confront your past, Alex.",
+          "fake_quote": "Brenda's conversation prompted Alex to confront their past, indicating her role in the unfolding events.",
           "importance_rank": 2
         }
       ],
       "number": 1,
-      "importance_rank": 5,
+      "importance_rank": 6,
       "conflict_rank": 6
     },
     {
@@ -1284,7 +1283,7 @@
           "name": "Alex Harper",
           "role": "Seeking answers about the past",
           "importance": 0.8,
-          "emotion": "Nervous and determined",
+          "emotion": "Anxious and determined",
           "sentiment": 0.2,
           "quote": "I didn't want to come back. But I think we both know why I'm here.",
           "fake_quote": "",
@@ -1292,11 +1291,11 @@
         },
         {
           "name": "Jordan Harper",
-          "role": "Defensive and angry about the past",
+          "role": "Confronting Alex about their return",
           "importance": 0.8,
-          "emotion": "Furious and hurt",
+          "emotion": "Angry and hurt",
           "sentiment": -0.5,
-          "quote": "You think this has something to do with me? After everything?",
+          "quote": "What are you doing here, Alex? After all these years, why now?",
           "fake_quote": "",
           "importance_rank": 2
         }
@@ -1306,15 +1305,15 @@
       "conflict_rank": 1
     },
     {
-      "title": "Pacing Alone",
-      "summary": "Alex reflects on the confrontation with Jordan.",
+      "title": "Restless Reflection",
+      "summary": "Alex struggles with the aftermath of the confrontation.",
       "chapter": "Chapter 6: Personal Stakes",
       "first_line": 39,
-      "last_line": 46,
-      "text": "Back at the apartment, Alex paced restlessly, replaying the confrontation with\nJordan over and over in their mind. There was something deeper at play\nhere\u2014something personal that linked them to the victim, and to the people she\nhad been involved with. But Alex couldn't shake the feeling that Jordan was\nstill holding back.\nAs the hours ticked by, Alex's frustration mounted. They were no closer to\nbreaking the loop, and the weight of their personal connection to the case made\nit even more unbearable. Every time they thought they had a lead, it slipped",
-      "length": 555,
-      "num_lines": 8,
-      "location": "Luxury Apartment",
+      "last_line": 47,
+      "text": "Back at the apartment, Alex paced restlessly, replaying the confrontation with\nJordan over and over in their mind. There was something deeper at play\nhere\u2014something personal that linked them to the victim, and to the people she\nhad been involved with. But Alex couldn't shake the feeling that Jordan was\nstill holding back.\nAs the hours ticked by, Alex's frustration mounted. They were no closer to\nbreaking the loop, and the weight of their personal connection to the case made\nit even more unbearable. Every time they thought they had a lead, it slipped\nthrough their fingers like sand.",
+      "length": 588,
+      "num_lines": 9,
+      "location": "Alex's Apartment",
       "importance": 0.8,
       "conflict": 0.7,
       "characters": [
@@ -1324,36 +1323,36 @@
           "importance": 1.0,
           "emotion": "Frustrated and restless",
           "sentiment": -0.5,
-          "quote": "No quote available",
-          "fake_quote": "I can't let this go; I need to find the truth.",
+          "quote": "Every time they thought they had a lead, it slipped through their fingers like sand.",
+          "fake_quote": "",
           "importance_rank": 1
         },
         {
           "name": "Jordan Harper",
-          "role": "Mysterious figure withholding information",
-          "importance": 0.7,
+          "role": "Mysterious figure with hidden motives",
+          "importance": 0.6,
           "emotion": "Secretive and evasive",
           "sentiment": -0.3,
           "quote": "No quote available",
-          "fake_quote": "You don't understand the whole picture, Alex.",
+          "fake_quote": "Jordan's actions suggest they are withholding important information from Alex.",
           "importance_rank": 2
         }
       ],
       "number": 3,
-      "importance_rank": 6,
+      "importance_rank": 7,
       "conflict_rank": 2
     },
     {
       "title": "Sam's Arrival",
-      "summary": "Sam offers support to Alex.",
+      "summary": "Sam offers support to Alex during a tough time.",
       "chapter": "Chapter 6: Personal Stakes",
       "first_line": 48,
       "last_line": 69,
       "text": "Sam arrived late that evening, knocking softly on the door before letting\nhimself in. He looked tired, worn down by the investigation, but there was a\ncalmness in his eyes that Alex hadn't noticed before.\n\"You're pushing yourself too hard,\" Sam said, his voice soft but firm. \"I get\nit, this case is...messy. But you're not going to solve it if you burn out.\"\nAlex didn't stop pacing, their mind too restless to sit still. \"It's not just\nthe case, Sam. It's...everything. This loop. My past. It's all connected, and I\ndon't know how to break out of it.\"\nSam watched Alex carefully, his eyes narrowing with concern. \"You think you're\nstuck in this loop because of something in your past?\"\nAlex stopped, finally meeting Sam's gaze. \"I don't know. But I can't shake the\nfeeling that this isn't just about the murder. It's about me. About something I\ndid\u2014something I didn't do.\"\nSam stepped closer, his hand resting gently on Alex's shoulder. \"We'll figure\nit out. Together. But you need to stop trying to carry this all by yourself.\"\nFor the first time in days, Alex felt a glimmer of hope. Sam's steady presence\ngrounded them, reminded them that they weren't alone in this. Maybe they didn't\nhave all the answers yet, but they were getting closer.\n\"We'll go back to the precinct tomorrow,\" Alex said, their voice steadier now.\n\"We'll look at everything again. There has to be something we missed.\"\nSam nodded, giving Alex's shoulder a reassuring squeeze. \"One step at a time.\nWe'll get there.\"",
       "length": 1491,
       "num_lines": 22,
-      "location": "Luxury Apartment",
-      "importance": 0.8,
+      "location": "Alex's Apartment",
+      "importance": 0.9,
       "conflict": 0.5,
       "characters": [
         {
@@ -1361,7 +1360,7 @@
           "role": "Supportive friend trying to help Alex",
           "importance": 1.0,
           "emotion": "Concerned and reassuring",
-          "sentiment": 0.7,
+          "sentiment": 0.8,
           "quote": "You're pushing yourself too hard.",
           "fake_quote": "",
           "importance_rank": 1
@@ -1378,12 +1377,12 @@
         }
       ],
       "number": 4,
-      "importance_rank": 7,
+      "importance_rank": 2,
       "conflict_rank": 8
     },
     {
       "title": "Meeting with Emily",
-      "summary": "Alex seeks answers from the victim's friend.",
+      "summary": "Alex seeks crucial information from Emily.",
       "chapter": "Chapter 6: Personal Stakes",
       "first_line": 70,
       "last_line": 100,
@@ -1406,7 +1405,7 @@
         },
         {
           "name": "Emily Rivers",
-          "role": "reluctantly revealing information about the victim",
+          "role": "reluctantly revealing information",
           "importance": 1.0,
           "emotion": "grief-stricken and anxious",
           "sentiment": -0.5,
@@ -1416,19 +1415,19 @@
         }
       ],
       "number": 5,
-      "importance_rank": 2,
+      "importance_rank": 3,
       "conflict_rank": 3
     },
     {
       "title": "Alone with Thoughts",
-      "summary": "Alex contemplates the day's revelations.",
+      "summary": "Alex reflects on the day's revelations.",
       "chapter": "Chapter 6: Personal Stakes",
       "first_line": 101,
       "last_line": 112,
       "text": "That evening, Alex sat alone in their apartment, the weight of the day pressing\ndown on them. They had spoken to Brenda, to Emily, and even confronted Jordan,\nbut the answers still eluded them. The loop was tightening, and time was\nrunning out.\nDigging into the victim's past had revealed more than Alex had anticipated.\nThis wasn't just a case anymore. It was personal\u2014deeply personal. And the more\nthey uncovered, the more Alex realized that they were connected to this in ways\nthey hadn't even understood.\nSitting at the kitchen table, Alex sifted through the evidence one more time.\nThere were still gaps, still pieces of the puzzle that didn't fit. But they\nwere getting closer. Closer to the truth, and closer to understanding why they\nwere trapped in this endless cycle.",
       "length": 777,
       "num_lines": 12,
-      "location": "Luxury Apartment",
+      "location": "Alex's Apartment",
       "importance": 0.8,
       "conflict": 0.6,
       "characters": [
@@ -1441,36 +1440,6 @@
           "quote": "This wasn't just a case anymore. It was personal\u2014deeply personal.",
           "fake_quote": "",
           "importance_rank": 1
-        },
-        {
-          "name": "Brenda White",
-          "role": "Source of information for Alex",
-          "importance": 0.5,
-          "emotion": "Concerned and supportive",
-          "sentiment": 0.5,
-          "quote": "No quote available",
-          "fake_quote": "I just want to help you, Alex.",
-          "importance_rank": 2
-        },
-        {
-          "name": "Emily Rivers",
-          "role": "Supportive friend trying to help Alex",
-          "importance": 0.5,
-          "emotion": "Worried and empathetic",
-          "sentiment": 0.4,
-          "quote": "No quote available",
-          "fake_quote": "You need to take a break, Alex.",
-          "importance_rank": 3
-        },
-        {
-          "name": "Jordan Harper",
-          "role": "Confronted by Alex for answers",
-          "importance": 0.5,
-          "emotion": "Defensive and evasive",
-          "sentiment": -0.3,
-          "quote": "No quote available",
-          "fake_quote": "I don't know what you're talking about.",
-          "importance_rank": 4
         }
       ],
       "number": 6,
@@ -1486,33 +1455,33 @@
       "text": "A knock on the door broke Alex's concentration, and they looked up to see Sam\nstanding in the doorway, his expression serious.\n\"I've been thinking,\" Sam said, stepping inside. \"About everything we've found\nso far. About this man\u2014the Ghost.\"\nAlex's heart skipped a beat. \"You think he's the key?\"\nSam nodded, sitting down across from Alex. \"It all points back to him. The\nvictim was terrified of him, Brenda mentioned someone she couldn't escape from,\nand now we've got Tommy Rivera saying the same thing. This guy has his hands in\neverything.\"\nAlex stared at the pile of evidence on the table, their mind racing. \"But why\nme, Sam? Why do I keep waking up in this loop? What does he have to do with me?\"\nSam was silent for a long moment, his brow furrowed in thought. \"I don't know.\nBut I think you're right. This isn't just about the case anymore. It's about\nyou.\"\nThe words hung in the air, heavy with meaning. Alex's chest tightened, fear and\ndetermination warring within them. They had to find The Ghost. And they had to\nend this, once and for all.",
       "length": 1051,
       "num_lines": 17,
-      "location": "Alex's Office",
+      "location": "Alex's Apartment",
       "importance": 0.9,
       "conflict": 0.7,
       "characters": [
         {
           "name": "Alex Harper",
           "role": "Determined investigator seeking answers",
-          "importance": 1.0,
+          "importance": 0.8,
           "emotion": "Fear and determination",
-          "sentiment": 0.5,
+          "sentiment": -0.5,
           "quote": "But why me, Sam? Why do I keep waking up in this loop? What does he have to do with me?",
           "fake_quote": "",
           "importance_rank": 1
         },
         {
           "name": "Sam Torres",
-          "role": "Supportive ally revealing insights",
-          "importance": 1.0,
+          "role": "Supportive friend providing insight",
+          "importance": 0.7,
           "emotion": "Serious and contemplative",
-          "sentiment": 0.3,
+          "sentiment": 0.2,
           "quote": "I don't know. But I think you're right. This isn't just about the case anymore. It's about you.",
           "fake_quote": "",
           "importance_rank": 2
         }
       ],
       "number": 7,
-      "importance_rank": 3,
+      "importance_rank": 4,
       "conflict_rank": 4
     },
     {
@@ -1534,27 +1503,27 @@
           "importance": 1.0,
           "emotion": "determined and anxious",
           "sentiment": 0.7,
-          "quote": "I need to know more about her\u2014about her financial dealings, her connections.",
+          "quote": "I need to know more about her\u2014about her financial dealings, her connections. Anything that might explain why she was involved with someone like The Ghost.",
           "fake_quote": "",
           "importance_rank": 1
         },
         {
           "name": "David Martin",
-          "role": "Lawyer providing crucial details",
+          "role": "Lawyer providing crucial information",
           "importance": 1.0,
           "emotion": "calm but concerned",
           "sentiment": 0.5,
-          "quote": "The Ghost? That's a dangerous rabbit hole to go down, Detective.",
+          "quote": "The Ghost? That's a dangerous rabbit hole to go down, Detective. If she was involved with him, then you're looking at a much bigger problem than you realize.",
           "fake_quote": "",
           "importance_rank": 2
         }
       ],
       "number": 8,
-      "importance_rank": 4,
+      "importance_rank": 5,
       "conflict_rank": 5
     },
     {
-      "title": "Alex Enters the Bar",
+      "title": "Entering the Bar",
       "summary": "Alex seeks advice from Kane in a bar.",
       "chapter": "Chapter 7: The Mentor's Advice",
       "first_line": 1,
@@ -1570,7 +1539,7 @@
           "name": "Alex Harper",
           "role": "Seeking advice from Kane",
           "importance": 0.9,
-          "emotion": "Desperate and confused",
+          "emotion": "Weariness and confusion",
           "sentiment": -0.5,
           "quote": "I need your help, Kane.",
           "fake_quote": "",
@@ -1578,9 +1547,9 @@
         },
         {
           "name": "Detective Richard Kane",
-          "role": "Mentoring Alex and providing insight",
+          "role": "Mentoring and advising Alex",
           "importance": 0.9,
-          "emotion": "Calm and cryptic",
+          "emotion": "Thoughtful and cryptic",
           "sentiment": 0.2,
           "quote": "Stop trying to control the loop. Let it show you what you're missing.",
           "fake_quote": "",
@@ -1592,8 +1561,8 @@
       "conflict_rank": 1
     },
     {
-      "title": "Alex Meets Sam",
-      "summary": "Alex discusses the case and the time loop with Sam.",
+      "title": "At the Precinct",
+      "summary": "Alex discusses the case with Sam Torres.",
       "chapter": "Chapter 7: The Mentor's Advice",
       "first_line": 39,
       "last_line": 89,
@@ -1606,20 +1575,20 @@
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Struggling with a time loop",
+          "role": "Investigating a time loop",
           "importance": 1.0,
-          "emotion": "Frustrated and determined",
-          "sentiment": 0.2,
+          "emotion": "Determined and anxious",
+          "sentiment": 0.5,
           "quote": "I think The Ghost has something to do with it. There's a reason I'm stuck, and I need to figure it out.",
           "fake_quote": "",
           "importance_rank": 1
         },
         {
           "name": "Sam Torres",
-          "role": "Supportive partner in investigation",
-          "importance": 1.0,
-          "emotion": "Confused but willing to help",
-          "sentiment": 0.1,
+          "role": "Supporting Alex's investigation",
+          "importance": 0.8,
+          "emotion": "Confused but supportive",
+          "sentiment": 0.3,
           "quote": "Okay. Let's say I believe you. What do we do?",
           "fake_quote": "",
           "importance_rank": 2
@@ -1630,8 +1599,8 @@
       "conflict_rank": 3
     },
     {
-      "title": "Alex and Lisa's Meeting",
-      "summary": "Lisa reveals crucial information about The Ghost.",
+      "title": "Meeting Lisa Young",
+      "summary": "Alex learns more about The Ghost from Lisa.",
       "chapter": "Chapter 7: The Mentor's Advice",
       "first_line": 90,
       "last_line": 113,
@@ -1644,7 +1613,7 @@
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Investigating the Ghost case",
+          "role": "Investigating the case with Lisa",
           "importance": 0.7,
           "emotion": "Hopeful and determined",
           "sentiment": 0.6,
@@ -1654,11 +1623,11 @@
         },
         {
           "name": "Detective Lisa Young",
-          "role": "Providing crucial information about the Ghost",
-          "importance": 0.9,
+          "role": "Providing crucial information about The Ghost",
+          "importance": 0.8,
           "emotion": "Focused and analytical",
           "sentiment": 0.5,
-          "quote": "I think he's gotten sloppy.",
+          "quote": "The Ghost isn't just a name that pops up in this case.",
           "fake_quote": "",
           "importance_rank": 1
         }
@@ -1668,7 +1637,7 @@
       "conflict_rank": 4
     },
     {
-      "title": "Alex's Reflection",
+      "title": "Reflections at Home",
       "summary": "Alex contemplates the investigation and the time loop.",
       "chapter": "Chapter 7: The Mentor's Advice",
       "first_line": 114,
@@ -1676,7 +1645,7 @@
       "text": "That evening, Alex returned to their apartment, Kane's words still echoing in\ntheir mind. Embrace the chaos. Let it show you what you're missing. The\ninvestigation was moving forward, but the loop\u2014the endless cycle\u2014still trapped\nthem in a prison of time. There was something more they needed to understand,\nsomething deeper.\nSitting at the kitchen table, Alex laid out all the evidence again. The Ghost's\nname had appeared in old cases, cold and forgotten, but his recent activity\npointed to a vulnerability. There were patterns in his movements\u2014tiny mistakes\nthat hinted at overconfidence.\nAlex stared at the photo of the victim, their heart heavy. The victim had been\ntrapped, just like Alex was now. She had been caught in something she couldn't\nescape, something that had led to her death. And now, Alex was following the\nsame path.\nThe Ghost wasn't just a criminal\u2014he was a master of manipulation, a figure who\nthrived in the shadows, playing with people's lives as if they were pieces on a\nchessboard. And now, Alex was one of those pieces.\nBut not for much longer.\nAs Alex stared at the evidence, a new thought formed. The loop wasn't just a\npunishment\u2014it was a chance. A chance to break the cycle, to stop The Ghost\nbefore he could destroy anyone else.\nThey would have to embrace the chaos. And they would have to be willing to\nsacrifice everything to end this once and for all.",
       "length": 1386,
       "num_lines": 22,
-      "location": "Luxury Apartment",
+      "location": "Alex's Apartment",
       "importance": 0.9,
       "conflict": 0.7,
       "characters": [
@@ -1684,8 +1653,8 @@
           "name": "Alex Harper",
           "role": "Determined investigator seeking truth",
           "importance": 1.0,
-          "emotion": "Frustrated yet hopeful",
-          "sentiment": 0.5,
+          "emotion": "Determined and introspective",
+          "sentiment": 0.8,
           "quote": "The loop wasn't just a punishment\u2014it was a chance.",
           "fake_quote": "",
           "importance_rank": 1
@@ -1694,10 +1663,10 @@
           "name": "The Ghost",
           "role": "Manipulative criminal evading capture",
           "importance": 0.8,
-          "emotion": "Elusive and confident",
-          "sentiment": 0.3,
-          "quote": "He was a master of manipulation, a figure who thrived in the shadows.",
-          "fake_quote": "",
+          "emotion": "Elusive and overconfident",
+          "sentiment": -0.5,
+          "quote": "No quote available",
+          "fake_quote": "The Ghost is portrayed as a master manipulator, thriving in chaos and evading capture.",
           "importance_rank": 2
         }
       ],
@@ -1716,7 +1685,7 @@
       "num_lines": 12,
       "location": "Police Precinct",
       "importance": 0.8,
-      "conflict": 0.5,
+      "conflict": 0.6,
       "characters": [
         {
           "name": "Alex Harper",
@@ -1732,7 +1701,7 @@
           "name": "Sam Torres",
           "role": "Skeptical partner assessing the situation",
           "importance": 0.8,
-          "emotion": "Frustrated but focused",
+          "emotion": "Cautious and concerned",
           "sentiment": -0.2,
           "quote": "But we still don't have a solid lead on where he's hiding. He's a ghost for a reason. We've got bits and pieces, but nothing concrete.",
           "fake_quote": "",
@@ -1740,7 +1709,7 @@
         }
       ],
       "number": 1,
-      "importance_rank": 5,
+      "importance_rank": 6,
       "conflict_rank": 6
     },
     {
@@ -1752,7 +1721,7 @@
       "text": "Alex rubbed their temples, frustration gnawing at them. \"There's something\nwe're missing. We have the cold cases, the financial connections, the witness\nstatements, but it's not enough.\"\nSam leaned against the wall, his brow furrowed in thought. \"What about Laura\nPatel? She was scared of him, but she was also involved. She's hiding more than\nshe's letting on.\"\nAlex froze, the realization dawning. \"Laura's not just a witness\u2014she's part of\nthis. She's been feeding him information. She's the link.\"\nSam's eyes widened. \"You think she's working for him?\"\nAlex nodded, the pieces coming together in their mind. \"It makes sense. She was\nalways nervous, always hiding something. She didn't just witness the victim's\ninvolvement with The Ghost\u2014she was part of it.\"\nSam crossed his arms, his expression darkening. \"Then we need to confront her.\nNow.\"\nAlex grabbed their coat, determination flaring in their chest. \"We'll corner\nher. If she's working with him, she's not getting away with it.\"",
       "length": 988,
       "num_lines": 16,
-      "location": "Interview Room",
+      "location": "Police Precinct",
       "importance": 0.9,
       "conflict": 0.8,
       "characters": [
@@ -1772,7 +1741,7 @@
           "importance": 1.0,
           "emotion": "Concern and urgency",
           "sentiment": 0.4,
-          "quote": "What about Laura Patel? She was scared of him, but she was also involved. She's hiding more than she's letting on.",
+          "quote": "Then we need to confront her. Now.",
           "fake_quote": "",
           "importance_rank": 2
         }
@@ -1796,7 +1765,7 @@
       "characters": [
         {
           "name": "Laura Patel",
-          "role": "Accused of betrayal, terrified",
+          "role": "Accused of betrayal and fear",
           "importance": 1.0,
           "emotion": "Fear and desperation",
           "sentiment": -0.8,
@@ -1806,9 +1775,9 @@
         },
         {
           "name": "Alex Harper",
-          "role": "Interrogator, seeking the truth",
+          "role": "Interrogator seeking the truth",
           "importance": 1.0,
-          "emotion": "Anger and determination",
+          "emotion": "Anger and frustration",
           "sentiment": -0.6,
           "quote": "Don't play games with us, Laura.",
           "fake_quote": "",
@@ -1816,9 +1785,9 @@
         },
         {
           "name": "Sam Torres",
-          "role": "Supportive interrogator, demanding answers",
-          "importance": 0.7,
-          "emotion": "Frustration and urgency",
+          "role": "Supportive interrogator demanding answers",
+          "importance": 0.8,
+          "emotion": "Determined and stern",
           "sentiment": -0.5,
           "quote": "And what exactly did he ask you to do, Laura?",
           "fake_quote": "",
@@ -1830,7 +1799,7 @@
       "conflict_rank": 2
     },
     {
-      "title": "Interviewing Victor Chen",
+      "title": "Victor Chen's Revelation",
       "summary": "Alex interrogates Victor about the victim's connection.",
       "chapter": "Chapter 8: Closer to the Truth",
       "first_line": 66,
@@ -1857,7 +1826,7 @@
           "role": "Colleague hiding crucial information about the victim",
           "importance": 1.0,
           "emotion": "Fearful and regretful",
-          "sentiment": -0.3,
+          "sentiment": -0.7,
           "quote": "I had nothing to do with what happened to her.",
           "fake_quote": "",
           "importance_rank": 2
@@ -1868,8 +1837,8 @@
       "conflict_rank": 3
     },
     {
-      "title": "The Ghost Appears",
-      "summary": "Alex encounters The Ghost in the crime scene.",
+      "title": "Confronting The Ghost",
+      "summary": "Alex faces The Ghost in the crime scene.",
       "chapter": "Chapter 8: Closer to the Truth",
       "first_line": 96,
       "last_line": 121,
@@ -1894,7 +1863,7 @@
           "name": "The Ghost",
           "role": "Antagonist taunting Alex",
           "importance": 1.0,
-          "emotion": "Cold and indifferent",
+          "emotion": "Cold and mocking",
           "sentiment": -0.5,
           "quote": "You've been chasing me for a while, Detective. But you should have stopped. You can't catch a ghost.",
           "fake_quote": "",
@@ -1906,16 +1875,16 @@
       "conflict_rank": 4
     },
     {
-      "title": "Back at the Precinct",
-      "summary": "Alex and Sam reflect on their progress and frustrations.",
+      "title": "Aftermath at the Precinct",
+      "summary": "Alex and Sam reflect on their progress against The Ghost.",
       "chapter": "Chapter 8: Closer to the Truth",
       "first_line": 123,
       "last_line": 137,
       "text": "Back at the precinct, Alex sat in the dimly lit office, the weight of the day\npressing down on them. The Ghost had slipped through their fingers again, but\nthis time, Alex knew they were closing in. They had uncovered his network,\nexposed his connections, and shattered his carefully constructed web of lies.\nSam sat across from them, his expression grim. \"We'll get him, Alex. We just\nneed more time.\"\nAlex shook their head, their voice hollow. \"Time's the one thing we don't have.\nEvery day, the loop resets. Every day, I get closer, but it's never enough.\nHe's always one step ahead.\"\nSam leaned forward, his gaze intense. \"But this time was different. This time,\nyou saw him. You faced him. That means we're on the right track. We just have\nto keep pushing.\"\nAlex nodded slowly, though the exhaustion was evident in their eyes. They had\ncome so far, uncovered so much, but the loop remained unbroken. And as long as\nit persisted, The Ghost would always slip away.",
       "length": 967,
       "num_lines": 15,
-      "location": "Alex's Office",
-      "importance": 0.8,
+      "location": "Dimly Lit Office",
+      "importance": 0.9,
       "conflict": 0.7,
       "characters": [
         {
@@ -1932,7 +1901,7 @@
           "name": "Sam Torres",
           "role": "Supportive partner encouraging Alex",
           "importance": 0.8,
-          "emotion": "Hopeful and determined",
+          "emotion": "Determined and hopeful",
           "sentiment": 0.5,
           "quote": "We'll get him, Alex. We just need more time.",
           "fake_quote": "",
@@ -1940,19 +1909,19 @@
         }
       ],
       "number": 6,
-      "importance_rank": 6,
+      "importance_rank": 5,
       "conflict_rank": 5
     },
     {
       "title": "Alex's Reflection",
-      "summary": "Alex contemplates the loop and their choices.",
+      "summary": "Alex contemplates the weight of the loop.",
       "chapter": "Chapter 9: Consequences of Choices",
       "first_line": 1,
       "last_line": 50,
       "text": "The room felt smaller than usual. Alex Harper sat on the edge of their bed,\nhands clasped tightly together as they stared at the floor. The echoes of the\nconfrontation with The Ghost still lingered in their mind. They had been so\nclose to stopping him, but as always, he had slipped through their fingers. The\nloop had reset again, the familiar morning routine playing out like a twisted\nritual. But this time, something was different. Alex could feel it.\nEach day they relived weighed heavier than the last, and now, more than ever,\nthey were beginning to wonder about the choices they had made. Was it even\npossible to stop The Ghost, or was Alex doomed to repeat the same day forever,\ncaught in an endless cycle of failure?\nThe ticking of the clock on the wall felt louder today, its steady rhythm\nsyncing with the beat of Alex's racing heart. They thought back to Kane's\nwords: Embrace the chaos. Was that really the key? Was there something in the\nrandomness of the loop that they had been resisting?\nBut deeper than the tactical frustration of the loop was the gnawing\nrealization that every choice had consequences\u2014not just for the case, but for\neveryone involved. Alex hadn't fully understood what those consequences meant\nuntil now. The people they worked with, the ones they cared about, all of them\nwere caught up in this, just like Alex was.\nAnd there was Sam. Always by their side, unwavering, despite the toll the\ninvestigation had clearly taken on him. Alex had pushed him hard, drawn him\ndeeper into this mess, and now the weight of it was bearing down on both of\nthem.\nA knock at the door broke Alex from their thoughts, and they looked up, already\nknowing who it would be.\nSam sat across from Alex in the diner, his usual calm demeanor cracking\nslightly around the edges. His brow was furrowed, eyes dark with concern.\n\"You're not yourself, Alex. I can see it.\"\nAlex sighed, pushing their coffee cup aside. \"I'm tired, Sam. This loop\u2014it's\nbreaking me. Every time I get close, I wake up and it's all the same again. I\ndon't know how much longer I can do this.\"\nSam leaned forward, his voice low but intense. \"We're making progress. You saw\nThe Ghost. You confronted him. That's more than we've ever had before.\"\nAlex rubbed their temples, frustration bubbling just beneath the surface. \"But\nit's not enough. He's always ahead of us. And I keep dragging you into this,\nover and over again.\"\nSam's expression softened. \"You haven't dragged me into anything. I'm here\nbecause I want to be. We're partners, remember? We're in this together.\"\nAlex looked up, meeting Sam's gaze. The sincerity in his eyes made their chest\ntighten with emotion. They had always counted on Sam's steady presence, his\nunflinching loyalty, but now it felt like a burden. Alex wasn't sure if they\ncould keep doing this\u2014if they could keep asking Sam to go through the same\nimpossible struggle with them.\n\"I'm just scared, Sam,\" Alex admitted, their voice quiet. \"I'm scared that I'll\nnever get out of this. That I'll keep waking up to the same day, and that\neveryone around me will suffer because of it.\"\nSam's hand rested gently on Alex's shoulder. \"We'll find a way out, Alex. But\nyou have to stop blaming yourself. We're all in this mess together, and you\ndon't have to carry the weight of it alone.\"\nAlex nodded, though the knot of fear and guilt in their chest didn't loosen.",
       "length": 3369,
       "num_lines": 50,
-      "location": "Alex's Bedroom",
+      "location": "Alex's Apartment",
       "importance": 0.9,
       "conflict": 0.7,
       "characters": [
@@ -1961,7 +1930,7 @@
           "role": "Struggling with the loop and guilt",
           "importance": 1.0,
           "emotion": "Frustrated and scared",
-          "sentiment": -0.5,
+          "sentiment": -0.7,
           "quote": "I'm tired, Sam. This loop\u2014it's breaking me. Every time I get close, I wake up and it's all the same again. I don't know how much longer I can do this.",
           "fake_quote": "",
           "importance_rank": 1
@@ -1972,7 +1941,7 @@
           "importance": 1.0,
           "emotion": "Concerned and loyal",
           "sentiment": 0.5,
-          "quote": "You haven't dragged me into anything. I'm here because I want to be. We're partners, remember? We're in this together.",
+          "quote": "You're not yourself, Alex. I can see it.",
           "fake_quote": "",
           "importance_rank": 2
         }
@@ -1982,35 +1951,35 @@
       "conflict_rank": 1
     },
     {
-      "title": "Diner Conversation with Sam",
-      "summary": "Alex and Sam discuss the emotional toll of the loop.",
+      "title": "Emily's Visit",
+      "summary": "Emily seeks comfort from Alex after a tragedy.",
       "chapter": "Chapter 9: Consequences of Choices",
-      "first_line": 51,
-      "last_line": 85,
-      "text": "They were closer to the truth, but at what cost?\nBack at Alex's apartment, the shadows of the afternoon crept through the\nwindows, casting long shapes across the floor. Alex sat at the kitchen table,\nstaring at the evidence spread out before them, their mind a whirlwind of\nthoughts. The case, the loop, the people involved\u2014it was all spiraling out of\ncontrol, and Alex felt powerless to stop it.\nThe choices they had made\u2014reaching out to certain witnesses, pushing others too\nhard, confronting The Ghost\u2014each decision felt like a gamble. And now, Alex\ncouldn't shake the feeling that some of those choices had come with a price\nthey weren't ready to pay.\nA sudden, sharp knock on the door pulled Alex from their thoughts. When they\nopened it, Emily Rivers stood in the hallway, her eyes puffy from crying. Alex\nfelt a surge of guilt. Emily had been through so much already, and now she was\nstanding here, looking lost and broken.\n\"I'm sorry to show up like this,\" Emily said, her voice wavering. \"But I didn't\nknow who else to turn to.\"\nAlex stepped aside, gesturing for her to come in. \"It's okay. What's going on?\"\nEmily sat down at the table, wringing her hands nervously. \"I've been\nthinking...about everything. About her death. I can't stop wondering if I could\nhave done something\u2014if I could have stopped it.\"\nAlex's heart ached. They knew that feeling all too well. \"You did everything\nyou could, Emily. None of this is your fault.\"\nTears filled Emily's eyes as she looked up at Alex. \"But I didn't see it\ncoming. I didn't know she was in so much danger. And now I just...I feel so\nhelpless.\"\nAlex sat down across from her, their voice soft. \"You weren't supposed to see\nit. She hid it from everyone. But you were there for her, and that matters.\"\nEmily wiped at her eyes, her voice barely above a whisper. \"It doesn't feel\nlike enough.\"\nAlex reached across the table, their hand resting on Emily's. \"Sometimes we\ncan't see what's right in front of us, even when we're trying. You were her\nfriend. That was enough.\"\nBut even as they said the words, Alex couldn't help but think of all the\nchoices they had made, all the times they had missed something vital. They\nwondered if they would ever be able to make the right choice to end this cycle.",
-      "length": 2251,
-      "num_lines": 35,
-      "location": "Luxury Apartment",
+      "first_line": 61,
+      "last_line": 82,
+      "text": "A sudden, sharp knock on the door pulled Alex from their thoughts. When they\nopened it, Emily Rivers stood in the hallway, her eyes puffy from crying. Alex\nfelt a surge of guilt. Emily had been through so much already, and now she was\nstanding here, looking lost and broken.\n\"I'm sorry to show up like this,\" Emily said, her voice wavering. \"But I didn't\nknow who else to turn to.\"\nAlex stepped aside, gesturing for her to come in. \"It's okay. What's going on?\"\nEmily sat down at the table, wringing her hands nervously. \"I've been\nthinking...about everything. About her death. I can't stop wondering if I could\nhave done something\u2014if I could have stopped it.\"\nAlex's heart ached. They knew that feeling all too well. \"You did everything\nyou could, Emily. None of this is your fault.\"\nTears filled Emily's eyes as she looked up at Alex. \"But I didn't see it\ncoming. I didn't know she was in so much danger. And now I just...I feel so\nhelpless.\"\nAlex sat down across from her, their voice soft. \"You weren't supposed to see\nit. She hid it from everyone. But you were there for her, and that matters.\"\nEmily wiped at her eyes, her voice barely above a whisper. \"It doesn't feel\nlike enough.\"\nAlex reached across the table, their hand resting on Emily's. \"Sometimes we\ncan't see what's right in front of us, even when we're trying. You were her\nfriend. That was enough.\"",
+      "length": 1367,
+      "num_lines": 22,
+      "location": "Alex's Apartment",
       "importance": 0.9,
       "conflict": 0.7,
       "characters": [
         {
-          "name": "Alex Harper",
-          "role": "Trying to comfort Emily and reflect on their choices",
+          "name": "Emily Rivers",
+          "role": "Struggling with guilt over a friend's death",
           "importance": 1.0,
-          "emotion": "Guilt and concern",
-          "sentiment": -0.5,
-          "quote": "You did everything you could, Emily. None of this is your fault.",
+          "emotion": "Lost and broken",
+          "sentiment": -0.8,
+          "quote": "But I didn't see it coming. I didn't know she was in so much danger. And now I just...I feel so helpless.",
           "fake_quote": "",
           "importance_rank": 1
         },
         {
-          "name": "Emily Rivers",
-          "role": "Struggling with guilt and seeking support",
+          "name": "Alex Harper",
+          "role": "Comforting Emily and providing support",
           "importance": 1.0,
-          "emotion": "Helpless and broken",
-          "sentiment": -0.8,
-          "quote": "But I didn't see it coming. I didn't know she was in so much danger. And now I just...I feel so helpless.",
+          "emotion": "Empathetic and supportive",
+          "sentiment": 0.5,
+          "quote": "You did everything you could, Emily. None of this is your fault.",
           "fake_quote": "",
           "importance_rank": 2
         }
@@ -2020,35 +1989,35 @@
       "conflict_rank": 2
     },
     {
-      "title": "Final Talk with Sam",
-      "summary": "Alex shares their realization about the loop.",
+      "title": "Session with Angela",
+      "summary": "Alex confronts their emotional struggles with Angela.",
       "chapter": "Chapter 9: Consequences of Choices",
-      "first_line": 111,
-      "last_line": 145,
-      "text": "Alex felt a surge of emotion rise in their chest, the truth of Angela's words\nhitting them like a wave. They had been so focused on The Ghost, on the\nexternal forces at play, that they hadn't realized the internal battle they\nwere fighting.\nThey had to face their own choices. And that terrified them.\nThe evening sky was dark and overcast as Alex met Sam back at the diner, the\nsame place they had spoken earlier that day. Sam looked up as Alex slid into\nthe booth, his expression serious.\n\"You look like you've seen a ghost,\" Sam said, a weak attempt at humor, though\nhis concern was clear.\nAlex gave a small, tired smile. \"Maybe I have.\"\nThey sat in silence for a moment, the weight of the day hanging between them.\nSam could tell something had shifted in Alex, though he wasn't sure what.\n\"I've been thinking,\" Alex began, their voice quiet. \"About the loop, about\neverything we've been through. And I think I've been focusing on the wrong\nthings.\"\nSam frowned, leaning forward. \"What do you mean?\"\n\"I've been so focused on breaking the loop, on stopping The Ghost, that I\ndidn't realize I was making the same mistakes over and over,\" Alex said, their\nvoice thick with emotion. \"I've been afraid\u2014afraid of letting people down,\nafraid of making the wrong choices. And that fear has kept me trapped.\"\nSam's eyes softened with understanding. \"Alex, you've been doing your best.\nYou've made tough calls, but you've always had good reasons.\"\nAlex shook their head. \"I don't know if that's true. I've made choices that\nhurt people, pushed them away, and I think...I think that's part of why I'm\nstuck.\"\nSam reached across the table, his hand resting on Alex's. \"We all make\nmistakes, Alex. But you can't carry the weight of every decision on your\nshoulders forever. Maybe it's time to forgive yourself.\"\nAlex's heart clenched at Sam's words. Forgiveness. It was a concept they hadn't\nallowed themselves to consider in a long time. But maybe that was the key.\nMaybe that was the way out.\nAs they sat together in the quiet of the diner, Alex realized that the path\nforward wasn't just about catching The Ghost\u2014it was about letting go of the\nguilt and fear that had been haunting them for so long.",
-      "length": 2192,
-      "num_lines": 35,
-      "location": "Diner",
+      "first_line": 86,
+      "last_line": 110,
+      "text": "Later that evening, Alex found themselves sitting across from Angela Price, the\ndepartment's psychiatrist, in her quiet office. The room was dimly lit, a calm,\nsoothing atmosphere that seemed to stand in stark contrast to the chaos of\nAlex's mind. They had come to Angela seeking answers, hoping she could help\nthem make sense of the emotional toll the loop was taking.\nAngela studied Alex for a long moment before speaking. \"You've been through a\nlot, Alex. More than most people could handle. But you keep pushing forward.\nThat says something about your resilience.\"\nAlex let out a bitter laugh. \"Resilience? I feel like I'm barely holding on.\"\nAngela nodded, her gaze steady. \"That's understandable. This case, this loop\nyou're stuck in\u2014it's pushing you to your limits. But I think the real question\nyou need to ask yourself is: what are you holding onto? What's keeping you\ntrapped in this cycle?\"\nAlex frowned, unsure of what Angela meant. \"I don't know. The case, maybe? The\nneed to solve it?\"\nAngela leaned forward slightly, her voice soft but firm. \"It's not just the\ncase, Alex. It's the choices you've made. The guilt you carry, the fear of\nletting people down. Those are the things that keep you tied to this loop.\"\nAlex stared at her, the weight of her words settling heavily on their\nshoulders. The guilt. The fear. Was that really what had been keeping them\ntrapped? Had they been so focused on solving the case that they hadn't realized\nthe deeper, emotional ties that were binding them?\nAngela's voice cut through the silence. \"You're not just fighting to break the\nloop, Alex. You're fighting to break free from your own past, from the choices\nyou've made. And until you face that, the loop will keep repeating.\"",
+      "length": 1729,
+      "num_lines": 25,
+      "location": "Angela's Office",
       "importance": 0.9,
       "conflict": 0.7,
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Struggling with internal conflict and guilt",
-          "importance": 1.0,
-          "emotion": "Fearful and reflective",
+          "role": "Seeking help to understand their emotional turmoil",
+          "importance": 0.9,
+          "emotion": "Frustrated and confused",
           "sentiment": -0.5,
-          "quote": "I've been afraid\u2014afraid of letting people down, afraid of making the wrong choices. And that fear has kept me trapped.",
+          "quote": "Resilience? I feel like I'm barely holding on.",
           "fake_quote": "",
           "importance_rank": 1
         },
         {
-          "name": "Sam Torres",
-          "role": "Supportive friend trying to help Alex",
-          "importance": 1.0,
-          "emotion": "Concerned and understanding",
+          "name": "Angela Price",
+          "role": "Guiding Alex to confront their emotional struggles",
+          "importance": 0.9,
+          "emotion": "Empathetic and insightful",
           "sentiment": 0.5,
-          "quote": "Alex, you've been doing your best. You've made tough calls, but you've always had good reasons.",
+          "quote": "You've been through a lot, Alex. More than most people could handle. But you keep pushing forward.",
           "fake_quote": "",
           "importance_rank": 2
         }
@@ -2058,15 +2027,53 @@
       "conflict_rank": 3
     },
     {
+      "title": "Final Talk with Sam",
+      "summary": "Alex shares their realizations about the loop.",
+      "chapter": "Chapter 9: Consequences of Choices",
+      "first_line": 116,
+      "last_line": 145,
+      "text": "The evening sky was dark and overcast as Alex met Sam back at the diner, the\nsame place they had spoken earlier that day. Sam looked up as Alex slid into\nthe booth, his expression serious.\n\"You look like you've seen a ghost,\" Sam said, a weak attempt at humor, though\nhis concern was clear.\nAlex gave a small, tired smile. \"Maybe I have.\"\nThey sat in silence for a moment, the weight of the day hanging between them.\nSam could tell something had shifted in Alex, though he wasn't sure what.\n\"I've been thinking,\" Alex began, their voice quiet. \"About the loop, about\neverything we've been through. And I think I've been focusing on the wrong\nthings.\"\nSam frowned, leaning forward. \"What do you mean?\"\n\"I've been so focused on breaking the loop, on stopping The Ghost, that I\ndidn't realize I was making the same mistakes over and over,\" Alex said, their\nvoice thick with emotion. \"I've been afraid\u2014afraid of letting people down,\nafraid of making the wrong choices. And that fear has kept me trapped.\"\nSam's eyes softened with understanding. \"Alex, you've been doing your best.\nYou've made tough calls, but you've always had good reasons.\"\nAlex shook their head. \"I don't know if that's true. I've made choices that\nhurt people, pushed them away, and I think...I think that's part of why I'm\nstuck.\"\nSam reached across the table, his hand resting on Alex's. \"We all make\nmistakes, Alex. But you can't carry the weight of every decision on your\nshoulders forever. Maybe it's time to forgive yourself.\"\nAlex's heart clenched at Sam's words. Forgiveness. It was a concept they hadn't\nallowed themselves to consider in a long time. But maybe that was the key.\nMaybe that was the way out.\nAs they sat together in the quiet of the diner, Alex realized that the path\nforward wasn't just about catching The Ghost\u2014it was about letting go of the\nguilt and fear that had been haunting them for so long.",
+      "length": 1890,
+      "num_lines": 30,
+      "location": "Diner",
+      "importance": 0.9,
+      "conflict": 0.5,
+      "characters": [
+        {
+          "name": "Alex Harper",
+          "role": "Struggling with guilt and fear",
+          "importance": 1.0,
+          "emotion": "Reflective and emotional",
+          "sentiment": -0.5,
+          "quote": "I've been so focused on breaking the loop, on stopping The Ghost, that I didn't realize I was making the same mistakes over and over.",
+          "fake_quote": "",
+          "importance_rank": 1
+        },
+        {
+          "name": "Sam Torres",
+          "role": "Supportive friend offering comfort",
+          "importance": 1.0,
+          "emotion": "Understanding and compassionate",
+          "sentiment": 0.7,
+          "quote": "Alex, you've been doing your best. You've made tough calls, but you've always had good reasons.",
+          "fake_quote": "",
+          "importance_rank": 2
+        }
+      ],
+      "number": 4,
+      "importance_rank": 4,
+      "conflict_rank": 4
+    },
+    {
       "title": "Waking Up",
-      "summary": "Alex wakes up feeling different today.",
+      "summary": "Alex wakes up feeling a sense of urgency.",
       "chapter": "Chapter 10: The Final Loop",
       "first_line": 1,
       "last_line": 6,
       "text": "Alex Harper woke up, their heart pounding in their chest. The familiar room\ncame into focus\u2014same bed, same clock, same oppressive weight of repetition. But\ntoday felt different. There was a sharpness in the air, a sense of finality\nthat hadn't been there before. Today was the day. They could feel it deep in\ntheir bones. Today, the loop would either break, or Alex would be trapped in it\nforever.",
       "length": 397,
       "num_lines": 6,
-      "location": "Alex's Bedroom",
+      "location": "Alex's Apartment",
       "importance": 0.8,
       "conflict": 0.7,
       "characters": [
@@ -2082,50 +2089,50 @@
         }
       ],
       "number": 1,
-      "importance_rank": 5,
-      "conflict_rank": 5
+      "importance_rank": 4,
+      "conflict_rank": 4
     },
     {
       "title": "Receiving the Message",
-      "summary": "Alex prepares to meet Sam at the precinct.",
+      "summary": "Alex receives a message from Sam about a plan.",
       "chapter": "Chapter 10: The Final Loop",
-      "first_line": 7,
+      "first_line": 11,
       "last_line": 16,
-      "text": "Rising from the bed, Alex didn't waste any time. They had been through this\nroutine too many times to count, and every moment now was precious. The Ghost\nhad slipped through their fingers once too often, but not today. Today, Alex\nwould end it.\nGrabbing their coat, Alex checked their phone\u2014Sam had already sent a message:\n\"Meet me at the precinct. We've got a plan.\"\nAlex took a deep breath, the adrenaline already coursing through their veins.\nThis was it. Everything they had learned over the endless cycles of the same\nday, every mistake they had made, every lesson\u2014they had all been leading to\nthis. Today, it all came together.",
-      "length": 633,
-      "num_lines": 10,
-      "location": "Alex's Bedroom",
-      "importance": 0.9,
-      "conflict": 0.8,
+      "text": "Grabbing their coat, Alex checked their phone\u2014Sam had already sent a message:\n\"Meet me at the precinct. We've got a plan.\"\nAlex took a deep breath, the adrenaline already coursing through their veins.\nThis was it. Everything they had learned over the endless cycles of the same\nday, every mistake they had made, every lesson\u2014they had all been leading to\nthis. Today, it all came together.",
+      "length": 388,
+      "num_lines": 6,
+      "location": "Alex's Apartment",
+      "importance": 0.8,
+      "conflict": 0.5,
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Determined to confront The Ghost",
+          "role": "Determined to execute a plan",
           "importance": 1.0,
-          "emotion": "Focused and determined",
-          "sentiment": 1.0,
-          "quote": "Today, Alex would end it.",
+          "emotion": "Excited and focused",
+          "sentiment": 0.9,
+          "quote": "Today, it all came together.",
           "fake_quote": "",
           "importance_rank": 1
         },
         {
           "name": "Sam Torres",
-          "role": "Supporting Alex with a plan",
-          "importance": 0.7,
-          "emotion": "Supportive and urgent",
-          "sentiment": 1.0,
+          "role": "Initiator of the plan",
+          "importance": 0.5,
+          "emotion": "Supportive and proactive",
+          "sentiment": 0.8,
           "quote": "Meet me at the precinct. We've got a plan.",
           "fake_quote": "",
           "importance_rank": 2
         }
       ],
       "number": 2,
-      "importance_rank": 2,
-      "conflict_rank": 2
+      "importance_rank": 5,
+      "conflict_rank": 5
     },
     {
       "title": "At the Precinct",
-      "summary": "Alex and Sam discuss their plan to catch The Ghost.",
+      "summary": "Alex meets Sam and the team to discuss the plan.",
       "chapter": "Chapter 10: The Final Loop",
       "first_line": 20,
       "last_line": 43,
@@ -2140,7 +2147,7 @@
           "name": "Sam Torres",
           "role": "Leader coordinating the operation",
           "importance": 1.0,
-          "emotion": "Serious and determined",
+          "emotion": "Serious and focused",
           "sentiment": 0.8,
           "quote": "You ready?",
           "fake_quote": "",
@@ -2150,26 +2157,26 @@
           "name": "Alex Harper",
           "role": "Determined officer ready for action",
           "importance": 1.0,
-          "emotion": "Determined and focused",
-          "sentiment": 0.9,
+          "emotion": "Determined and anxious",
+          "sentiment": 0.7,
           "quote": "Ready as I'll ever be. What's the plan?",
           "fake_quote": "",
           "importance_rank": 2
         }
       ],
       "number": 3,
-      "importance_rank": 3,
-      "conflict_rank": 3
+      "importance_rank": 2,
+      "conflict_rank": 2
     },
     {
-      "title": "The Warehouse",
+      "title": "Approaching the Warehouse",
       "summary": "Alex and Sam prepare to confront The Ghost.",
       "chapter": "Chapter 10: The Final Loop",
       "first_line": 44,
-      "last_line": 68,
-      "text": "The abandoned warehouse loomed ahead, its rusted metal walls and broken windows\ncasting long shadows in the fading light of the day. Alex and Sam crouched\nbehind a stack of old crates, surveying the entrance. The place was eerily\nquiet, but that only heightened Alex's senses. This was it. They could feel The\nGhost's presence, even if he hadn't shown himself yet.\nSam glanced at Alex, his voice barely a whisper. \"You good?\"\nAlex nodded, their eyes scanning the area for any signs of movement. \"I'm\ngood.\"\nThey had been here before\u2014in different versions of the same day, in different\nattempts to corner The Ghost. But this time, they were prepared. They knew his\ntactics, his patterns. The loop had given Alex a strange kind of advantage, and\nnow it was time to use it.\nA door creaked open on the far side of the building, and Alex's breath caught\nin their throat. A figure stepped out, his movements deliberate, his silhouette\nunmistakable. It was him.\nThe Ghost.\nFor a moment, Alex and The Ghost locked eyes across the distance, a silent\nbattle of wills. There was no time for hesitation. This was the moment they had\nbeen waiting for.\nAlex drew their weapon, moving swiftly toward the entrance. Sam was right\nbehind them, his own gun drawn, ready for whatever came next. The tension was\npalpable, the air thick with the weight of what was about to unfold.\nAs they reached the doorway, Alex kicked it open, their gun trained on the\nfigure inside. But The Ghost was already moving, disappearing into the shadows\nof the warehouse like the phantom he was.",
-      "length": 1555,
-      "num_lines": 25,
+      "last_line": 65,
+      "text": "The abandoned warehouse loomed ahead, its rusted metal walls and broken windows\ncasting long shadows in the fading light of the day. Alex and Sam crouched\nbehind a stack of old crates, surveying the entrance. The place was eerily\nquiet, but that only heightened Alex's senses. This was it. They could feel The\nGhost's presence, even if he hadn't shown himself yet.\nSam glanced at Alex, his voice barely a whisper. \"You good?\"\nAlex nodded, their eyes scanning the area for any signs of movement. \"I'm\ngood.\"\nThey had been here before\u2014in different versions of the same day, in different\nattempts to corner The Ghost. But this time, they were prepared. They knew his\ntactics, his patterns. The loop had given Alex a strange kind of advantage, and\nnow it was time to use it.\nA door creaked open on the far side of the building, and Alex's breath caught\nin their throat. A figure stepped out, his movements deliberate, his silhouette\nunmistakable. It was him.\nThe Ghost.\nFor a moment, Alex and The Ghost locked eyes across the distance, a silent\nbattle of wills. There was no time for hesitation. This was the moment they had\nbeen waiting for.\nAlex drew their weapon, moving swiftly toward the entrance. Sam was right\nbehind them, his own gun drawn, ready for whatever came next. The tension was\npalpable, the air thick with the weight of what was about to unfold.",
+      "length": 1359,
+      "num_lines": 22,
       "location": "Abandoned Warehouse",
       "importance": 0.9,
       "conflict": 0.8,
@@ -2178,79 +2185,79 @@
           "name": "Alex Harper",
           "role": "Determined to confront The Ghost",
           "importance": 1.0,
-          "emotion": "Focused and tense",
-          "sentiment": 0.8,
+          "emotion": "Focused and resolute",
+          "sentiment": 1.0,
           "quote": "I'm good.",
           "fake_quote": "",
           "importance_rank": 1
         },
         {
           "name": "Sam Torres",
-          "role": "Supportive partner, ready for action",
-          "importance": 1.0,
-          "emotion": "Nervous but ready",
+          "role": "Supportive and cautious ally",
+          "importance": 0.8,
+          "emotion": "Concerned yet ready",
           "sentiment": 0.5,
           "quote": "You good?",
           "fake_quote": "",
-          "importance_rank": 2
+          "importance_rank": 3
         },
         {
           "name": "The Ghost",
-          "role": "Antagonist, elusive and dangerous",
+          "role": "Antagonist, looming threat",
           "importance": 1.0,
-          "emotion": "Mysterious and threatening",
-          "sentiment": -0.8,
+          "emotion": "Mysterious and intimidating",
+          "sentiment": -0.5,
           "quote": "No quote available",
-          "fake_quote": "You think you can catch me?",
-          "importance_rank": 3
+          "fake_quote": "The Ghost's presence is felt as a looming threat, creating tension in the scene.",
+          "importance_rank": 2
         }
       ],
       "number": 4,
-      "importance_rank": 4,
-      "conflict_rank": 4
+      "importance_rank": 3,
+      "conflict_rank": 3
     },
     {
-      "title": "The Confrontation",
+      "title": "Confronting The Ghost",
       "summary": "Alex faces The Ghost in a tense showdown.",
       "chapter": "Chapter 10: The Final Loop",
-      "first_line": 69,
+      "first_line": 66,
       "last_line": 112,
-      "text": "\"Don't let him get away!\" Alex shouted, charging forward.\nThe chase was on.\nThe warehouse was a labyrinth of rusted machinery and crumbling walls. Alex\nmoved through it with a precision born of experience, their eyes sharp, their\nbody tense. The Ghost was fast, but Alex had been here before. They knew the\ntwists and turns of the place, knew where he would try to disappear.\nSam was close behind, his breath coming in quick bursts as they raced through\nthe maze of debris. \"He's heading for the back exit!\" Sam called, his voice\ntight with urgency.\nAlex's mind raced. They couldn't let him escape. Not this time.\nUp ahead, Alex caught a glimpse of movement\u2014a flash of dark clothing\ndisappearing around a corner. Without thinking, they sprinted after him, their\nheart pounding in their chest. The Ghost was just out of reach, but Alex was\nclosing in.\nAs they rounded the corner, Alex saw him\u2014standing still, as if waiting for\nthem. The Ghost turned slowly, his face partially obscured by the dim light,\nbut his eyes gleamed with a cold, calculating intelligence.\n\"You're persistent, Detective,\" The Ghost said, his voice smooth, almost\nmocking. \"But you should know by now...you can't catch me.\"\nAlex's grip tightened on their weapon, their pulse hammering in their ears.\n\"It's over, Ghost. This ends today.\"\nThe Ghost tilted his head slightly, a small smile playing at the corners of his\nlips. \"Does it? Or will you just wake up tomorrow, right back where you\nstarted?\"\nThe words hit Alex like a punch to the gut. The loop. The endless cycle. Was\nThe Ghost somehow aware of it too? Did he know about the repeating days, the\ntorment Alex had been enduring?\nAlex's mind spun, but they didn't have time to dwell on it. They raised their\ngun, their finger hovering over the trigger. \"It ends now.\"\nThe Ghost's smile faded, his eyes narrowing. In an instant, he moved, his body\na blur of motion. But Alex was ready this time. They fired, the gunshot echoing\nthrough the warehouse like a thunderclap.\nThe Ghost staggered, a look of shock crossing his face as he clutched his side,\nblood seeping through his fingers. For a moment, he stood frozen, disbelief\nflickering in his eyes.\n\"You... actually did it,\" he muttered, his voice weak.\nAlex stepped forward, their gun still trained on him, their breath coming in\nshallow gasps. \"It's over.\"\nThe Ghost's knees buckled, and he collapsed to the ground, his breathing\nragged. But even in his final moments, he smiled\u2014a cold, twisted smile that\nsent a shiver down Alex's spine.\n\"You think... this is the end?\" he rasped, his voice barely audible. \"You'll\nnever be free.\"\nAlex watched as the life faded from The Ghost's eyes, his body going limp on",
-      "length": 2687,
-      "num_lines": 44,
+      "text": "As they reached the doorway, Alex kicked it open, their gun trained on the\nfigure inside. But The Ghost was already moving, disappearing into the shadows\nof the warehouse like the phantom he was.\n\"Don't let him get away!\" Alex shouted, charging forward.\nThe chase was on.\nThe warehouse was a labyrinth of rusted machinery and crumbling walls. Alex\nmoved through it with a precision born of experience, their eyes sharp, their\nbody tense. The Ghost was fast, but Alex had been here before. They knew the\ntwists and turns of the place, knew where he would try to disappear.\nSam was close behind, his breath coming in quick bursts as they raced through\nthe maze of debris. \"He's heading for the back exit!\" Sam called, his voice\ntight with urgency.\nAlex's mind raced. They couldn't let him escape. Not this time.\nUp ahead, Alex caught a glimpse of movement\u2014a flash of dark clothing\ndisappearing around a corner. Without thinking, they sprinted after him, their\nheart pounding in their chest. The Ghost was just out of reach, but Alex was\nclosing in.\nAs they rounded the corner, Alex saw him\u2014standing still, as if waiting for\nthem. The Ghost turned slowly, his face partially obscured by the dim light,\nbut his eyes gleamed with a cold, calculating intelligence.\n\"You're persistent, Detective,\" The Ghost said, his voice smooth, almost\nmocking. \"But you should know by now...you can't catch me.\"\nAlex's grip tightened on their weapon, their pulse hammering in their ears.\n\"It's over, Ghost. This ends today.\"\nThe Ghost tilted his head slightly, a small smile playing at the corners of his\nlips. \"Does it? Or will you just wake up tomorrow, right back where you\nstarted?\"\nThe words hit Alex like a punch to the gut. The loop. The endless cycle. Was\nThe Ghost somehow aware of it too? Did he know about the repeating days, the\ntorment Alex had been enduring?\nAlex's mind spun, but they didn't have time to dwell on it. They raised their\ngun, their finger hovering over the trigger. \"It ends now.\"\nThe Ghost's smile faded, his eyes narrowing. In an instant, he moved, his body\na blur of motion. But Alex was ready this time. They fired, the gunshot echoing\nthrough the warehouse like a thunderclap.\nThe Ghost staggered, a look of shock crossing his face as he clutched his side,\nblood seeping through his fingers. For a moment, he stood frozen, disbelief\nflickering in his eyes.\n\"You... actually did it,\" he muttered, his voice weak.\nAlex stepped forward, their gun still trained on him, their breath coming in\nshallow gasps. \"It's over.\"\nThe Ghost's knees buckled, and he collapsed to the ground, his breathing\nragged. But even in his final moments, he smiled\u2014a cold, twisted smile that\nsent a shiver down Alex's spine.\n\"You think... this is the end?\" he rasped, his voice barely audible. \"You'll\nnever be free.\"\nAlex watched as the life faded from The Ghost's eyes, his body going limp on",
+      "length": 2883,
+      "num_lines": 47,
       "location": "Abandoned Warehouse",
       "importance": 1.0,
       "conflict": 1.0,
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Determined detective pursuing The Ghost",
+          "role": "Detective pursuing The Ghost",
           "importance": 1.0,
-          "emotion": "Intense focus and urgency",
+          "emotion": "determined and tense",
           "sentiment": 1.0,
-          "quote": "It's over, Ghost. This ends today.",
+          "quote": "It's over.",
           "fake_quote": "",
           "importance_rank": 1
         },
         {
+          "name": "The Ghost",
+          "role": "Antagonist taunting Alex",
+          "importance": 1.0,
+          "emotion": "mocking and defiant",
+          "sentiment": -1.0,
+          "quote": "You think... this is the end?",
+          "fake_quote": "",
+          "importance_rank": 2
+        },
+        {
           "name": "Sam Torres",
-          "role": "Supportive partner aiding in the chase",
+          "role": "Supportive partner aiding Alex",
           "importance": 0.5,
-          "emotion": "Urgent and anxious",
-          "sentiment": 0.5,
+          "emotion": "urgent and anxious",
+          "sentiment": 0.0,
           "quote": "He's heading for the back exit!",
           "fake_quote": "",
           "importance_rank": 3
-        },
-        {
-          "name": "The Ghost",
-          "role": "Cunning antagonist taunting Alex",
-          "importance": 1.0,
-          "emotion": "Mocking and confident",
-          "sentiment": -1.0,
-          "quote": "You're persistent, Detective. But you should know by now...you can't catch me.",
-          "fake_quote": "",
-          "importance_rank": 2
         }
       ],
       "number": 5,
@@ -2286,7 +2293,7 @@
           "importance": 1.0,
           "emotion": "Concerned and thoughtful",
           "sentiment": 0.5,
-          "quote": "You did it. You stopped him.",
+          "quote": "Maybe...maybe the loop wasn't about him. Maybe it was about you. About what you needed to see, to understand.",
           "fake_quote": "",
           "importance_rank": 2
         }
@@ -2304,24 +2311,24 @@
       "text": "Alex Harper woke up, their heart pounding in their chest, expecting to hear the\nsame familiar sounds\u2014the same radio station, the same ticking of the clock, the\nsame suffocating realization that they were trapped in the loop. But something\nwas different this time. The air felt lighter, less oppressive. The weight that\nhad hung over Alex's every waking moment for what felt like an eternity had\nshifted.\nThey glanced around the room, noticing the subtle details that hadn't\nchanged\u2014but it wasn't the same. The loop had broken. Alex could feel it. For\nthe first time in what seemed like forever, the day ahead felt like something\nnew, something unwritten. The relief was so overwhelming, Alex almost didn't\ntrust it.\nRising from bed, they moved cautiously through their apartment, their senses\nheightened. Could it really be over? Had killing The Ghost truly set them free?\nA part of Alex feared that it was too good to be true, that they would blink\nand be pulled back into the endless cycle of the same day.\nBut with each passing moment, the certainty grew. Today was a new day.",
       "length": 1079,
       "num_lines": 16,
-      "location": "Luxury Apartment",
+      "location": "Alex's Apartment",
       "importance": 0.9,
       "conflict": 0.2,
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Experiencing a breakthrough after a long struggle",
+          "role": "Experiencing a breakthrough after escaping a time loop",
           "importance": 1.0,
           "emotion": "Relieved and cautious",
           "sentiment": 0.8,
-          "quote": "The loop had broken.",
+          "quote": "Today was a new day.",
           "fake_quote": "",
           "importance_rank": 1
         }
       ],
       "number": 1,
       "importance_rank": 1,
-      "conflict_rank": 4
+      "conflict_rank": 3
     },
     {
       "title": "Meeting Sam at the Precinct",
@@ -2334,25 +2341,25 @@
       "num_lines": 30,
       "location": "Police Precinct",
       "importance": 0.9,
-      "conflict": 0.6,
+      "conflict": 0.7,
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Struggling with the aftermath of a traumatic event",
+          "role": "Struggling with the aftermath of a traumatic event and seeking clarity about their future.",
           "importance": 1.0,
-          "emotion": "Conflicted and reflective",
-          "sentiment": -0.5,
-          "quote": "It feels different. But I don't know what happens now.",
+          "emotion": "Conflicted and contemplative",
+          "sentiment": -0.2,
+          "quote": "\"When I killed him, he told me I'd never be free. It's stuck with me. What if this isn't really over? What if...there's more to this than I thought?\"",
           "fake_quote": "",
           "importance_rank": 1
         },
         {
           "name": "Sam Torres",
-          "role": "Supportive friend trying to help Alex process their feelings",
+          "role": "Supportive friend trying to help Alex process their feelings and the implications of their actions.",
           "importance": 1.0,
-          "emotion": "Concerned yet hopeful",
-          "sentiment": 0.5,
-          "quote": "You look...different. Like the world doesn't have you in a chokehold anymore.",
+          "emotion": "Concerned and empathetic",
+          "sentiment": 0.2,
+          "quote": "\"You look...different. Like the world doesn't have you in a chokehold anymore.\"",
           "fake_quote": "",
           "importance_rank": 2
         }
@@ -2366,11 +2373,11 @@
       "summary": "Alex visits Jordan to mend their estranged relationship.",
       "chapter": "Chapter 11: Breaking the Loop",
       "first_line": 47,
-      "last_line": 99,
-      "text": "That evening, Alex found themselves back at their apartment, sitting quietly at\nthe kitchen table. The city hummed softly in the background, the sounds of life\nmoving on without the shadow of the loop hanging over it. But despite the\nrelief of escaping the endless cycle, Alex couldn't shake the unease gnawing at\nthem.\nAngela Price's words echoed in their mind: You're not just fighting to break\nthe loop. You're fighting to break free from your own past.\nAlex had thought that killing The Ghost would end everything, that it would be\nthe final piece needed to break the loop. But now, sitting here in the\nstillness of their apartment, they realized that the real battle had only just\nbegun. The Ghost was dead, but the ghosts of Alex's past still lingered.\nThe choices they had made\u2014both in the case and in their personal life\u2014had left\nscars. And now, in the quiet of this new day, Alex was forced to confront them.\nThe victim's face flashed in Alex's mind, followed by the faces of those they\nhad hurt, those they had pushed away during the investigation. There were\nconsequences to every choice, and now Alex had to face them.\nThey stood abruptly, grabbing their coat. There was someone they needed to\nsee\u2014someone they had avoided for too long.\nJordan Harper sat on the worn couch, staring at Alex with a mix of surprise and\ncaution. They hadn't spoken in years, the distance between them growing wider\nwith each passing moment of silence. But today, Alex had shown up at Jordan's\ndoor, and there was no escaping the conversation that had been hanging between\nthem for too long.\nAlex stood awkwardly in the doorway, unsure of how to begin. The tension\nbetween them was palpable, but beneath it was something else\u2014regret. Alex had\nbeen too focused on the case, too caught up in their own demons to reach out.\nAnd now, standing here in front of their estranged sibling, Alex realized how\nmuch they had lost.\n\"Why are you here, Alex?\" Jordan asked, their voice soft but filled with hurt.\nAlex swallowed hard, stepping into the room. \"I'm sorry. I know I should have\ncome sooner. I should have...been there.\"\nJordan's eyes narrowed slightly, their arms crossed defensively. \"You walked\naway, Alex. From everything. You chose your job, your investigation, over\nfamily. Over us.\"\nThe words hit Alex like a punch to the gut. They had always known this moment\nwould come, but hearing it out loud was harder than they expected. \"I know. And\nI can't change that. But I'm here now. I want to make things right.\"\nJordan shook their head, their eyes filled with a mix of anger and pain. \"It's\nnot that simple. You can't just show up after all this time and expect things\nto go back to the way they were.\"\nAlex nodded, the weight of their past mistakes pressing down on them. \"I'm not\nasking for that. I'm asking for a chance to start over. To fix what I broke.\"\nJordan was silent for a long moment, their expression softening just slightly.\n\"Why now, Alex? After everything?\"\nAlex sighed, their voice thick with emotion. \"Because I've been stuck. Stuck in\na loop\u2014literally and figuratively. I've been running from my past, from the\npeople I've hurt. But I can't do that anymore. I want to fix things. I want to\nfix us.\"\nJordan studied Alex's face, the walls they had built around themselves slowly\ncrumbling. \"I don't know if we can fix everything. But maybe...maybe we can\ntry.\"\nAlex felt a flicker of hope, a fragile thing but enough to hold onto. \"That's\nall I'm asking.\"",
-      "length": 3465,
-      "num_lines": 53,
-      "location": "Luxury Apartment",
+      "last_line": 97,
+      "text": "That evening, Alex found themselves back at their apartment, sitting quietly at\nthe kitchen table. The city hummed softly in the background, the sounds of life\nmoving on without the shadow of the loop hanging over it. But despite the\nrelief of escaping the endless cycle, Alex couldn't shake the unease gnawing at\nthem.\nAngela Price's words echoed in their mind: You're not just fighting to break\nthe loop. You're fighting to break free from your own past.\nAlex had thought that killing The Ghost would end everything, that it would be\nthe final piece needed to break the loop. But now, sitting here in the\nstillness of their apartment, they realized that the real battle had only just\nbegun. The Ghost was dead, but the ghosts of Alex's past still lingered.\nThe choices they had made\u2014both in the case and in their personal life\u2014had left\nscars. And now, in the quiet of this new day, Alex was forced to confront them.\nThe victim's face flashed in Alex's mind, followed by the faces of those they\nhad hurt, those they had pushed away during the investigation. There were\nconsequences to every choice, and now Alex had to face them.\nThey stood abruptly, grabbing their coat. There was someone they needed to\nsee\u2014someone they had avoided for too long.\nJordan Harper sat on the worn couch, staring at Alex with a mix of surprise and\ncaution. They hadn't spoken in years, the distance between them growing wider\nwith each passing moment of silence. But today, Alex had shown up at Jordan's\ndoor, and there was no escaping the conversation that had been hanging between\nthem for too long.\nAlex stood awkwardly in the doorway, unsure of how to begin. The tension\nbetween them was palpable, but beneath it was something else\u2014regret. Alex had\nbeen too focused on the case, too caught up in their own demons to reach out.\nAnd now, standing here in front of their estranged sibling, Alex realized how\nmuch they had lost.\n\"Why are you here, Alex?\" Jordan asked, their voice soft but filled with hurt.\nAlex swallowed hard, stepping into the room. \"I'm sorry. I know I should have\ncome sooner. I should have...been there.\"\nJordan's eyes narrowed slightly, their arms crossed defensively. \"You walked\naway, Alex. From everything. You chose your job, your investigation, over\nfamily. Over us.\"\nThe words hit Alex like a punch to the gut. They had always known this moment\nwould come, but hearing it out loud was harder than they expected. \"I know. And\nI can't change that. But I'm here now. I want to make things right.\"\nJordan shook their head, their eyes filled with a mix of anger and pain. \"It's\nnot that simple. You can't just show up after all this time and expect things\nto go back to the way they were.\"\nAlex nodded, the weight of their past mistakes pressing down on them. \"I'm not\nasking for that. I'm asking for a chance to start over. To fix what I broke.\"\nJordan was silent for a long moment, their expression softening just slightly.\n\"Why now, Alex? After everything?\"\nAlex sighed, their voice thick with emotion. \"Because I've been stuck. Stuck in\na loop\u2014literally and figuratively. I've been running from my past, from the\npeople I've hurt. But I can't do that anymore. I want to fix things. I want to\nfix us.\"\nJordan studied Alex's face, the walls they had built around themselves slowly\ncrumbling. \"I don't know if we can fix everything. But maybe...maybe we can\ntry.\"",
+      "length": 3370,
+      "num_lines": 51,
+      "location": "Alex's Apartment",
       "importance": 0.9,
       "conflict": 0.8,
       "characters": [
@@ -2378,7 +2385,7 @@
           "name": "Alex Harper",
           "role": "Seeking reconciliation with Jordan",
           "importance": 1.0,
-          "emotion": "Regretful and hopeful",
+          "emotion": "Regretful and determined",
           "sentiment": 0.5,
           "quote": "I'm sorry. I know I should have come sooner. I should have...been there.",
           "fake_quote": "",
@@ -2388,8 +2395,8 @@
           "name": "Jordan Harper",
           "role": "Confronting Alex about their past choices",
           "importance": 1.0,
-          "emotion": "Angry yet open to reconciliation",
-          "sentiment": 0.2,
+          "emotion": "Hurt and cautious",
+          "sentiment": -0.5,
           "quote": "You walked away, Alex. From everything. You chose your job, your investigation, over family. Over us.",
           "fake_quote": "",
           "importance_rank": 2
@@ -2410,11 +2417,11 @@
       "num_lines": 26,
       "location": "Dimly Lit Streets",
       "importance": 0.9,
-      "conflict": 0.3,
+      "conflict": 0.2,
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Seeking healing and closure",
+          "role": "Struggling with guilt and seeking healing",
           "importance": 1.0,
           "emotion": "Hopeful and relieved",
           "sentiment": 0.8,
@@ -2424,38 +2431,38 @@
         },
         {
           "name": "Sam Torres",
-          "role": "Supportive friend and confidant",
-          "importance": 1.0,
+          "role": "Supportive friend checking in",
+          "importance": 0.8,
           "emotion": "Understanding and encouraging",
           "sentiment": 0.9,
-          "quote": "Just checking in. You seemed...different earlier.",
+          "quote": "Thought I'd find you here.",
           "fake_quote": "",
           "importance_rank": 2
         }
       ],
       "number": 4,
       "importance_rank": 4,
-      "conflict_rank": 3
+      "conflict_rank": 4
     },
     {
       "title": "Morning Reflection",
-      "summary": "Alex reflects on the aftermath of the case.",
+      "summary": "Alex contemplates the aftermath of the case.",
       "chapter": "Chapter 12: Moving Forward",
       "first_line": 1,
       "last_line": 19,
       "text": "Alex Harper sat quietly in their apartment, the morning sun streaming through\nthe windows, casting a soft, golden glow over the room. For the first time in\nmonths, the day felt...normal. No sense of impending doom, no endless loop to\nfight against. Just the quiet hum of the city waking up around them. The case\nwas over, and The Ghost was dead, but there was still a lingering weight on\nAlex's heart. They had escaped the loop, but that didn't mean they could escape\nthe choices that had led them here.\nThe apartment felt smaller now, the silence heavier. Alex's thoughts drifted to\nthe victim, to all the lives that had been affected by The Ghost's reign of\nterror. But there was more than just professional regret in their heart. There\nwas personal reckoning to do. A lot had been broken during the\ninvestigation\u2014relationships, trust, and parts of themselves.\nAlex ran a hand through their hair, thinking back to their conversation with\nJordan. It had been a small step, but a necessary one. Reconnecting with their\nsibling had opened the door to healing. But it wasn't just about Jordan. There\nwere other pieces of Alex's life that needed attention, things that had been\nleft unresolved for too long.\nWith a deep breath, Alex stood, deciding it was time to face the world outside.\nTime to stop running from the past and start living in the present.",
       "length": 1352,
       "num_lines": 19,
-      "location": "Luxury Apartment",
+      "location": "Alex's Apartment",
       "importance": 0.8,
-      "conflict": 0.4,
+      "conflict": 0.3,
       "characters": [
         {
           "name": "Alex Harper",
           "role": "Reflecting on past choices",
           "importance": 1.0,
-          "emotion": "Pensive and determined",
-          "sentiment": 0.2,
+          "emotion": "Pensive and regretful",
+          "sentiment": -0.5,
           "quote": "The case was over, and The Ghost was dead, but there was still a lingering weight on Alex's heart.",
           "fake_quote": "",
           "importance_rank": 1
@@ -2466,14 +2473,14 @@
           "importance": 0.5,
           "emotion": "Supportive and encouraging",
           "sentiment": 0.5,
-          "quote": "No quote available",
-          "fake_quote": "I'm here for you, Alex. We can work through this together.",
+          "quote": "It had been a small step, but a necessary one.",
+          "fake_quote": "",
           "importance_rank": 2
         }
       ],
       "number": 1,
-      "importance_rank": 3,
-      "conflict_rank": 2
+      "importance_rank": 2,
+      "conflict_rank": 1
     },
     {
       "title": "Back at the Precinct",
@@ -2486,14 +2493,14 @@
       "num_lines": 30,
       "location": "Police Precinct",
       "importance": 0.9,
-      "conflict": 0.5,
+      "conflict": 0.3,
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Struggling to cope with past trauma",
+          "role": "Struggling with emotional aftermath",
           "importance": 0.9,
           "emotion": "Reflective and vulnerable",
-          "sentiment": 0.2,
+          "sentiment": 0.0,
           "quote": "I know.",
           "fake_quote": "",
           "importance_rank": 1
@@ -2503,7 +2510,7 @@
           "role": "Supportive friend and confidant",
           "importance": 0.9,
           "emotion": "Caring and concerned",
-          "sentiment": 0.7,
+          "sentiment": 0.5,
           "quote": "You've been through hell, Alex.",
           "fake_quote": "",
           "importance_rank": 2
@@ -2511,7 +2518,7 @@
       ],
       "number": 2,
       "importance_rank": 1,
-      "conflict_rank": 1
+      "conflict_rank": 2
     },
     {
       "title": "Memorial Gathering",
@@ -2523,12 +2530,12 @@
       "length": 1768,
       "num_lines": 27,
       "location": "Memorial Gathering",
-      "importance": 0.9,
+      "importance": 0.8,
       "conflict": 0.3,
       "characters": [
         {
           "name": "Emily Rivers",
-          "role": "Victim's best friend, seeking closure",
+          "role": "Victim's best friend, showing strength",
           "importance": 1.0,
           "emotion": "Pained yet composed",
           "sentiment": 0.5,
@@ -2538,9 +2545,9 @@
         },
         {
           "name": "Alex Harper",
-          "role": "Supportive friend, feeling guilt",
+          "role": "Supportive friend, feeling responsible",
           "importance": 1.0,
-          "emotion": "Guilty and empathetic",
+          "emotion": "Regretful and hopeful",
           "sentiment": 0.3,
           "quote": "I wish I could've done more. I wish...it hadn't ended this way.",
           "fake_quote": "",
@@ -2548,22 +2555,22 @@
         },
         {
           "name": "Jordan Harper",
-          "role": "Observer, providing support",
+          "role": "Observer, providing context",
           "importance": 0.5,
-          "emotion": "Concerned and supportive",
-          "sentiment": 0.4,
+          "emotion": "Neutral",
+          "sentiment": 0.0,
           "quote": "No quote available",
-          "fake_quote": "I\u2019m here for you, Alex.",
+          "fake_quote": "Jordan observes the interaction between Alex and Emily, sensing the emotional weight of the moment.",
           "importance_rank": 3
         }
       ],
       "number": 3,
-      "importance_rank": 2,
+      "importance_rank": 3,
       "conflict_rank": 3
     },
     {
-      "title": "Chief's Office Meeting",
-      "summary": "Alex meets with Chief Anderson for a debrief.",
+      "title": "Chief Anderson's Office",
+      "summary": "Alex receives recognition from Chief Anderson.",
       "chapter": "Chapter 12: Moving Forward",
       "first_line": 100,
       "last_line": 119,
@@ -2576,7 +2583,7 @@
       "characters": [
         {
           "name": "Alex Harper",
-          "role": "Detective reflecting on past case",
+          "role": "Detective reflecting on the case",
           "importance": 0.9,
           "emotion": "Relief and exhaustion",
           "sentiment": 0.5,
@@ -2603,122 +2610,129 @@
   "characters": [
     {
       "name": "Alex Harper",
-      "quote": "Today was the day.",
+      "quote": "This was not just another murder\u2014this was a career-defining moment.",
       "group": "Main Characters",
-      "color": "rgb(255, 99, 71)",
-      "explanation": "This vibrant red represents Alex's determination and passion as a detective, as well as the emotional turmoil they face throughout the investigation."
+      "color": "rgb(34, 139, 34)",
+      "explanation": "Green represents Alex's determination and growth throughout the investigation."
     },
     {
       "name": "Sam Torres",
-      "quote": "Meet me at the precinct. We've got a plan.",
+      "quote": "Big one, huh?",
       "group": "Main Characters",
-      "color": "rgb(30, 144, 255)",
-      "explanation": "The calming blue reflects Sam's steady and supportive nature, always there to ground Alex during their chaotic journey."
+      "color": "rgb(70, 130, 180)",
+      "explanation": "Blue symbolizes Sam's calm and supportive nature as Alex's partner."
     },
     {
       "name": "Officer Davis",
       "quote": "It's...bad. We've secured the scene, but the media's already buzzing outside.",
       "group": "Supporting Characters",
-      "color": "rgb(135, 206, 235)",
-      "explanation": "Sky blue represents Officer Davis's youth and inexperience, as he navigates the pressures of the crime scene."
+      "color": "rgb(255, 165, 0)",
+      "explanation": "Orange reflects Officer Davis's nervousness and the pressure he feels at the crime scene."
     },
     {
       "name": "Captain Morgan",
       "quote": "Anderson's breathing down my neck.",
-      "group": "Authority Figures",
-      "color": "rgb(255, 69, 0)",
-      "explanation": "Red-orange captures Captain Morgan's impatience and authority, as he pressures Alex to solve the case quickly."
+      "group": "Supporting Characters",
+      "color": "rgb(139, 69, 19)",
+      "explanation": "Saddle brown represents Captain Morgan's authoritative and impatient nature."
     },
     {
       "name": "Emily Rivers",
-      "quote": "But I didn't see it coming. I didn't know she was in so much danger. And now I just...I feel so helpless.",
+      "quote": "She didn't deserve this.",
       "group": "Supporting Characters",
-      "color": "rgb(255, 182, 193)",
-      "explanation": "Light pink captures Emily's vulnerability and emotional state as she navigates her grief and guilt over the victim's death."
+      "color": "rgb(255, 215, 0)",
+      "explanation": "Gold signifies Emily's emotional turmoil and her connection to the victim."
     },
     {
       "name": "Victor Chen",
-      "quote": "I had nothing to do with what happened to her.",
+      "quote": "We disagreed on some things, but that's just business. There's nothing more to it.",
       "group": "Supporting Characters",
-      "color": "rgb(255, 140, 0)",
-      "explanation": "Dark orange reflects Victor's defensive nature and the tension in his relationship with the victim, hinting at deeper secrets."
+      "color": "rgb(0, 191, 255)",
+      "explanation": "Light blue symbolizes Victor's cold demeanor and the secrets he holds."
     },
     {
       "name": "Laura Patel",
       "quote": "I didn't have a choice.",
       "group": "Supporting Characters",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "Orange reflects Laura's conflicted emotions and the fear that drives her actions, as she struggles between loyalty and self-preservation."
+      "color": "rgb(255, 20, 147)",
+      "explanation": "Deep pink represents Laura's fear and desperation as she navigates her involvement."
     },
     {
       "name": "Officer Evans",
-      "quote": "We found this hidden in the lining of her coat.",
+      "quote": "It's a paralytic. Small doses can incapacitate someone without killing them. But if used improperly...",
       "group": "Supporting Characters",
-      "color": "rgb(0, 191, 255)",
-      "explanation": "Deep sky blue symbolizes Officer Evans's thoroughness and dedication to the forensic side of the investigation."
+      "color": "rgb(255, 69, 0)",
+      "explanation": "Bright red indicates Officer Evans's seriousness and focus on the forensic details."
     },
     {
       "name": "Angela Price",
       "quote": "You seem...unsettled. What's going on?",
       "group": "Supporting Characters",
       "color": "rgb(75, 0, 130)",
-      "explanation": "Indigo represents Angela's calm demeanor and the depth of her understanding as a psychiatrist helping Alex through their struggles."
+      "explanation": "Indigo represents Angela's calm and insightful nature as the psychiatrist."
     },
     {
       "name": "Detective Sarah Black",
       "quote": "You look like hell, Harper.",
-      "group": "Authority Figures",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "Deep pink reflects Sarah's skepticism and confrontational nature, as she challenges Alex throughout the investigation."
+      "group": "Supporting Characters",
+      "color": "rgb(0, 0, 0)",
+      "explanation": "Black signifies Detective Sarah's skepticism and confrontational attitude."
+    },
+    {
+      "name": "Witness",
+      "quote": "I didn't think it was important. I mean, she always kept things to herself.",
+      "group": "Supporting Characters",
+      "color": "rgb(240, 230, 140)",
+      "explanation": "Khaki reflects the witness's nervousness and the uncertainty of their testimony."
     },
     {
       "name": "Tommy Rivera",
       "quote": "I can give you a lead. But after that, I'm done. I don't want to end up like her.",
       "group": "Supporting Characters",
-      "color": "rgb(0, 255, 127)",
-      "explanation": "A bright green symbolizes Tommy's nervousness and the hope he represents as an informant, caught between danger and the desire to help."
+      "color": "rgb(255, 105, 180)",
+      "explanation": "Hot pink reflects Tommy's nervousness and the danger he feels in sharing information."
     },
     {
       "name": "Brenda White",
       "quote": "I didn't think we'd be talking again.",
       "group": "Supporting Characters",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "Hot pink signifies Brenda's emotional turmoil and her role as the victim's sister, grappling with loss and the need for closure."
+      "color": "rgb(255, 228, 196)",
+      "explanation": "Peach symbolizes Brenda's grief and vulnerability as the victim's sister."
     },
     {
       "name": "Jordan Harper",
-      "quote": "You think this has something to do with me? After everything?",
+      "quote": "What are you doing here, Alex? After all these years, why now?",
       "group": "Supporting Characters",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "Gold symbolizes the complicated relationship and unresolved tensions between Alex and Jordan, representing both value and conflict."
+      "color": "rgb(255, 99, 71)",
+      "explanation": "Red reflects the tension and unresolved issues between Alex and Jordan."
     },
     {
       "name": "Detective Richard Kane",
       "quote": "Stop trying to control the loop. Let it show you what you're missing.",
-      "group": "Authority Figures",
-      "color": "rgb(255, 228, 196)",
-      "explanation": "Peach represents Kane's mentorship and wisdom, guiding Alex through the complexities of the investigation."
+      "group": "Supporting Characters",
+      "color": "rgb(255, 140, 0)",
+      "explanation": "Dark orange represents Kane's experience and the mentorship he provides."
     },
     {
       "name": "Detective Lisa Young",
-      "quote": "I think he's gotten sloppy.",
-      "group": "Authority Figures",
-      "color": "rgb(0, 255, 255)",
-      "explanation": "Cyan reflects Lisa's sharp intellect and analytical skills, as she helps uncover vital information about The Ghost."
+      "quote": "The Ghost isn't just a name that pops up in this case.",
+      "group": "Supporting Characters",
+      "color": "rgb(0, 255, 127)",
+      "explanation": "Medium spring green reflects Lisa's sharp and methodical approach to the investigation."
     },
     {
       "name": "The Ghost",
       "quote": "You've been chasing me for a while, Detective. But you should have stopped. You can't catch a ghost.",
-      "group": "Antagonists",
+      "group": "Antagonist",
       "color": "rgb(128, 0, 128)",
-      "explanation": "Purple embodies the mystery and danger surrounding The Ghost, a shadowy figure who manipulates events from behind the scenes."
+      "explanation": "Purple embodies the mystery and danger surrounding The Ghost."
     },
     {
       "name": "Chief Anderson",
       "quote": "Get it solved, Harper. Fast.",
-      "group": "Authority Figures",
-      "color": "rgb(128, 128, 128)",
-      "explanation": "Gray embodies Chief Anderson's authoritative and often cold demeanor, as he prioritizes reputation over justice."
+      "group": "Supporting Characters",
+      "color": "rgb(128, 128, 0)",
+      "explanation": "Olive green symbolizes Chief Anderson's impatience and authority."
     },
     {
       "name": "David Martin",
@@ -2731,83 +2745,83 @@
   "locations": [
     {
       "name": "Luxury Apartment",
-      "quote": "Alex Harper stood just beyond the yellow tape, eyes fixed on the sprawling luxury apartment ahead.",
+      "quote": "The luxury within jarred with the violence that had unfolded.",
       "emoji": "\ud83c\udfe2"
     },
     {
       "name": "Police Precinct",
-      "quote": "Back at the precinct, Captain Morgan loomed behind his desk, fingers tapping in a steady rhythm.",
-      "emoji": "\ud83d\ude93"
-    },
-    {
-      "name": "Interview Room",
-      "quote": "The precinct buzzed with activity as Alex made their way to the interview room.",
-      "emoji": "\ud83d\udde3\ufe0f"
+      "quote": "Anderson's breathing down my neck.",
+      "emoji": "\ud83d\ude94"
     },
     {
       "name": "Victim's Workplace",
-      "quote": "Later that morning, Alex sat across from Victor Chen at the victim's workplace, the sleek, modern office feeling cold and clinical.",
+      "quote": "She was...distracted. Even with me. I could tell something was wrong, but she wouldn't talk about it.",
       "emoji": "\ud83c\udfe2"
     },
     {
       "name": "Coroner's Office",
-      "quote": "The coroner's office was cold and sterile, the fluorescent lights casting a harsh glow over the body laid out on the table.",
+      "quote": "It's a paralytic. Small doses can incapacitate someone without killing them. But if used improperly...",
       "emoji": "\u26b0\ufe0f"
     },
     {
-      "name": "Alex's Office",
-      "quote": "Back at the precinct, Alex sat in their office, staring blankly at the paperwork piled on their desk.",
-      "emoji": "\ud83d\udda5\ufe0f"
+      "name": "Alex's Apartment",
+      "quote": "I'm tired, Sam. This loop\u2014it's breaking me. Every time I get close, I wake up and it's all the same again.",
+      "emoji": "\ud83c\udfe0"
     },
     {
       "name": "Forensics Lab",
-      "quote": "The forensics lab was cold and sterile, the hum of machinery filling the air as Officer Evans hovered over the table.",
+      "quote": "We found this hidden in the lining of her coat.",
       "emoji": "\ud83d\udd2c"
     },
     {
       "name": "Bar",
-      "quote": "In a bar, Alex confides in Kane about the case and the time loop, while Lisa shares vital details about The Ghost.",
-      "emoji": "\ud83c\udf7b"
+      "quote": "You need to tell me everything you know about him.",
+      "emoji": "\ud83c\udf7a"
     },
     {
       "name": "Diner",
-      "quote": "Alex met Sam at the local diner, a spot they had frequented on countless mornings like this.",
+      "quote": "You look like you didn't sleep at all.",
       "emoji": "\ud83c\udf7d\ufe0f"
     },
     {
       "name": "Caf\u00e9",
-      "quote": "The next stop was a small caf\u00e9 on the edge of town, where Alex had arranged to meet with Brenda White, the victim's sister.",
+      "quote": "I'm sorry to intrude, Brenda, but I believe there's more we need to discuss.",
       "emoji": "\u2615"
     },
     {
       "name": "Alley",
-      "quote": "Later that afternoon, Alex met Tommy Rivera in a dimly lit alley behind a run-down bar.",
+      "quote": "This is your last chance. If you don't tell me what you know, more people could get hurt. Is that what you want?",
       "emoji": "\ud83c\udf06"
     },
     {
       "name": "Old House",
-      "quote": "Alex stood outside the old house, a chill creeping through their spine as memories they'd buried long ago resurfaced.",
+      "quote": "Returning here wasn't part of the plan, but they had to come.",
       "emoji": "\ud83c\udfda\ufe0f"
     },
     {
-      "name": "Alex's Bedroom",
-      "quote": "Alex jolted awake in their bed, drenched in sweat. The sunlight streaming through the curtains felt too bright, too familiar.",
-      "emoji": "\ud83d\udecf\ufe0f"
+      "name": "Dimly Lit Office",
+      "quote": "Time's the one thing we don't have. Every day, the loop resets.",
+      "emoji": "\ud83d\udd6f\ufe0f"
+    },
+    {
+      "name": "Angela's Office",
+      "quote": "You seem...unsettled. What's going on?",
+      "emoji": "\ud83d\udecb\ufe0f"
     },
     {
       "name": "Abandoned Warehouse",
-      "quote": "Alex and Sam strategize and confront The Ghost, leading to a tense showdown that changes their perspectives on justice.",
+      "quote": "You think she's working for him?",
       "emoji": "\ud83c\udfed"
     },
     {
       "name": "Dimly Lit Streets",
-      "quote": "As they walked side by side, Alex couldn't shake the growing dread. Everything was unfolding exactly the same as the previous day.",
+      "quote": "The universe doesn't just repeat itself for no reason.",
       "emoji": "\ud83c\udf03"
     },
     {
       "name": "Memorial Gathering",
-      "quote": "Alex processes the emotional impact of the case while connecting with colleagues and honoring the victim.",
-      "emoji": "\ud83d\udd6f\ufe0f"
+      "quote": "She didn't deserve this.",
+      "emoji": "\ud83d\udd4a\ufe0f"
     }
   ]
 }
