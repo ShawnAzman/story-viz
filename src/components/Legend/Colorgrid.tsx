@@ -22,6 +22,7 @@ function Colorgrid(props: any) {
     setHidden,
     customHover,
     setCustomHover,
+    setLegendHover,
   } = storyStore();
   const gridType = props.gridType;
 
@@ -158,7 +159,6 @@ function Colorgrid(props: any) {
           return (
             <div
               key={char.character}
-              title={char.character}
               className={
                 "colorgrid-square " +
                 (activeCharacters
@@ -170,8 +170,14 @@ function Colorgrid(props: any) {
               }
               style={{ backgroundColor: color }}
               onClick={() => updateHidden(char.character)}
-              onMouseEnter={() => setCharacterHover(char.character)}
-              onMouseLeave={() => setCharacterHover("")}
+              onMouseEnter={() => {
+                setCharacterHover(char.character);
+                setLegendHover(char.character);
+              }}
+              onMouseLeave={() => {
+                setCharacterHover("");
+                setLegendHover("");
+              }}
             ></div>
           );
         })}
@@ -210,15 +216,23 @@ function Colorgrid(props: any) {
                   : "")
               }
               style={{ backgroundColor: color }}
-              onMouseEnter={() =>
-                gridType === "group"
-                  ? setGroupHover(groupName)
-                  : setCustomHover(groupName)
-              }
-              onMouseLeave={() =>
-                gridType === "group" ? setGroupHover("") : setCustomHover("")
-              }
-              title={gridType === "group" ? groupName : group[0][gridType]?.val}
+              onMouseEnter={() => {
+                if (gridType === "group") {
+                  setGroupHover(groupName);
+                  setLegendHover(groupName);
+                } else {
+                  setCustomHover(groupName);
+                  setLegendHover(group[0][gridType]?.val);
+                }
+              }}
+              onMouseLeave={() => {
+                if (gridType === "group") {
+                  setGroupHover("");
+                } else {
+                  setCustomHover("");
+                }
+                setLegendHover("");
+              }}
               onClick={() => {
                 if (!allCharsInHidden(group)) {
                   hideAll(group);

@@ -4,8 +4,6 @@ import { dataStore } from "../../stores/dataStore";
 import { useEffect, useState } from "react";
 import { positionStore } from "../../stores/positionStore";
 import Sidebar from "./Sidebar";
-import LocationDiv from "../Overlays/LocationDiv";
-import CharacterDiv from "../Overlays/CharacterDiv";
 import { isSameStory } from "../../utils/helpers";
 import { defaultCharacterColors } from "../../utils/colors";
 import localforage from "localforage";
@@ -528,8 +526,6 @@ function PlotOptions() {
           <Sidebar />
         </div>
       </div>
-      <CharacterDiv />
-      <LocationDiv />
     </div>
   );
 }

@@ -57,6 +57,8 @@ interface IStore {
   setShowLegend: (val: boolean) => void;
   minimized: string[];
   setMinimized: (val: string[]) => void;
+  legendHover: string;
+  setLegendHover: (val: string) => void;
 
   sidebarOpen: boolean;
   setSidebarOpen: (val: boolean) => void;
@@ -107,6 +109,7 @@ const initialState = {
   customHover: "",
   sceneHover: "",
   chapterHover: "",
+  legendHover: "",
   hidden: [],
   minimized: [],
   showLegend: true,
@@ -163,6 +166,8 @@ export const storyStore = create<IStore>()((set) => ({
   setHidden: (val: string[]) => set({ hidden: val }),
   setShowLegend: (val: boolean) => set({ showLegend: val }),
   setMinimized: (val: string[]) => set({ minimized: val }),
+  setLegendHover: (val: string) => set({ legendHover: val }),
+
   setSidebarOpen: (val: boolean) => set({ sidebarOpen: val }),
   setDetailView: (val: boolean) => set({ detailView: val }),
 

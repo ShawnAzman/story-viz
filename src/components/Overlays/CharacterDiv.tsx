@@ -114,7 +114,7 @@ function CharacterDiv() {
         marginTop: "calc(" + marginTop + "px + 1rem)",
         top: storyMarginTop,
         right: `calc(${
-          sidebarOpen
+          sidebarOpen && !detailView
             ? "440px"
             : detailView
             ? scene_overlay_width + "px + 1rem"

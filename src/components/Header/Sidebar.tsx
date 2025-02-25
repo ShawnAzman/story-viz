@@ -1,8 +1,8 @@
 import { Accordion, Button, Drawer, Select, Switch } from "@mantine/core";
 import { storyStore } from "../../stores/storyStore";
-import Colorbar from "../XAxis/Colorbar";
-import Colorgrid from "../XAxis/Colorgrid";
-import LegendDiv from "../Vis/LegendDiv";
+import Colorbar from "../Legend/Colorbar";
+import Colorgrid from "../Legend/Colorgrid";
+import LegendDiv from "../Legend/LegendDiv";
 import { IoMdOpen } from "react-icons/io";
 import { dataStore } from "../../stores/dataStore";
 import { useEffect } from "react";
@@ -328,11 +328,11 @@ function Sidebar() {
                       size="xs"
                       label={
                         <span>
-                          Font color
+                          Color
                           <InfoTooltip
                             label={`change what the color of each ${
                               chapterView ? "chapter" : "scene"
-                            } label represents`}
+                            } label / band represents`}
                           />
                         </span>
                       }

@@ -14,6 +14,9 @@ function ChapterSidebar() {
     chapterHover,
     setChapterHover,
     setDetailView,
+    chapterView,
+    story,
+    setChapterView,
   } = storyStore();
 
   const isFirstChapter =
@@ -49,6 +52,9 @@ function ChapterSidebar() {
 
   const closeDetailView = () => {
     setDetailView(false);
+    if (!chapterView && story.includes("-new")) {
+      setChapterView(true);
+    }
   };
 
   // Add keyboard event listener

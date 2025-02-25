@@ -12,10 +12,13 @@ import SceneOptions from "./components/XAxis/SceneOptions";
 import AuthWrapper from "./components/Misc/AuthWrapper";
 import ChapterSidebar from "./components/Overlays/ChapterSidebar";
 import StoryInfo from "./components/Header/StoryInfo";
-import ClickMsg from "./components/Misc/ClickMsg";
+import ClickMsg from "./components/Overlays/ClickMsg";
 import PromptModal from "./components/Modals/PromptModal";
 import Spinner from "./components/Misc/Spinner";
 import AboutModal from "./components/Modals/AboutModal";
+import CharacterDiv from "./components/Overlays/CharacterDiv";
+import LocationDiv from "./components/Overlays/LocationDiv";
+import LegendHoverMsg from "./components/Legend/LegendHoverMsg";
 
 function App() {
   const { scene_data } = dataStore();
@@ -127,7 +130,10 @@ function App() {
         <ChapterSidebar />
         <SceneOptions />
         <SceneDiv />
+        <CharacterDiv />
+        <LocationDiv />
         <ClickMsg />
+        <LegendHoverMsg />
       </div>
 
       <PromptModal />
