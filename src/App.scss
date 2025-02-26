@@ -2112,4 +2112,11 @@ h1 {
     width: 0.7rem !important;
     height: 0.7rem !important;
   }
+
+  &.smaller {
+    svg {
+      width: 0.6rem !important;
+      height: 0.6rem !important;
+    }
+  }
 }

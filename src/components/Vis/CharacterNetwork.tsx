@@ -231,7 +231,6 @@ function CharacterNetwork(props: any) {
     if (!parentElement) return;
 
     const width = parentElement.offsetWidth;
-    // const height = parentElement.offsetHeight;
     const height = 300;
     const margin = def_margin;
 
@@ -241,6 +240,9 @@ function CharacterNetwork(props: any) {
       .attr("height", height);
 
     svg.selectAll("*").remove();
+
+    // Add a group element to handle zooming and panning
+    const zoomLayer = svg.append("g");
 
     const simulation = d3
       .forceSimulation(nodes as Node[])
@@ -319,7 +321,7 @@ function CharacterNetwork(props: any) {
           });
       });
 
-    const link = svg
+    const link = zoomLayer
       .append("g")
       .selectAll("line")
       .data(links)
@@ -347,7 +349,7 @@ function CharacterNetwork(props: any) {
         setLinkHover([]); // Clear linkHover when not hovering
         setNetworkHover("");
       });
-    const node = svg
+    const node = zoomLayer
       .append("g")
       .selectAll("circle")
       .data(nodes)
@@ -367,27 +369,9 @@ function CharacterNetwork(props: any) {
       .on("mouseout", () => {
         setCharacterHover(""); // Clear characterHover when not hovering
         setNetworkHover("");
-      })
-      .call(
-        d3
-          .drag<any, any>()
-          .on("start", (event, d) => {
-            if (!event.active) simulation.alphaTarget(0.3).restart();
-            d.fx = d.x;
-            d.fy = d.y;
-          })
-          .on("drag", (event, d) => {
-            d.fx = event.x;
-            d.fy = event.y;
-          })
-          .on("end", (event, d) => {
-            if (!event.active) simulation.alphaTarget(0);
-            d.fx = null;
-            d.fy = null;
-          })
-      );
+      });
 
-    const label = svg
+    const label = zoomLayer
       .append("g")
       .selectAll("text")
       .data(nodes)
@@ -414,8 +398,19 @@ function CharacterNetwork(props: any) {
         setNetworkHover("");
       });
 
+    // Apply zoom behavior to the SVG
+    const zoom = d3
+      .zoom<SVGSVGElement, unknown>() // Explicitly define zoom behavior for an SVG element
+      .scaleExtent([0.5, 5]) // Limit zoom scale between 0.5x and 5x
+      .on("zoom", (event) => {
+        zoomLayer.attr("transform", event.transform);
+      });
+
+    svg.call(zoom as any); // Cast zoom to `any` to bypass TypeScript inference issues
+
     return () => {
       simulation.stop(); // Clean up the simulation on unmount
+      svg.on(".zoom", null); // Remove zoom behavior on unmount
     };
   }, [cur_scene, cumulativeMode]);
 

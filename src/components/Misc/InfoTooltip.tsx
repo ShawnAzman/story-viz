@@ -4,7 +4,7 @@ import { IoInformationCircleOutline } from "react-icons/io5";
 function InfoTooltip(props: any) {
   return (
     <Tooltip
-      className="info-tooltip"
+      className={"info-tooltip " + (props.smaller ? "smaller" : "")}
       label={
         <span
           style={{

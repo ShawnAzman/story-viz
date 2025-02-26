@@ -317,9 +317,17 @@ function SceneDivInner(props: any) {
                   {scene &&
                     scene.characters &&
                     scene.characters.length > maxCharsToShow &&
-                    !chapterView && (
+                    !chapterView &&
+                    !inSidebar && (
                       <span>{" (top " + maxCharsToShow + " shown)"}</span>
                     )}
+                  {(chapterView || inSidebar) && (
+                    <InfoTooltip
+                      label={`use the controls / your mouse to zoom, pan, and explore the ${
+                        themeView ? "theme" : "character"
+                      } network for this chapter`}
+                    />
+                  )}
                 </b>
                 {(chapterView || inSidebar) && (
                   <span className="key-text">
@@ -347,6 +355,9 @@ function SceneDivInner(props: any) {
                   {scene &&
                     scene.allLocations &&
                     Object.keys(scene.allLocations).length}
+                  <InfoTooltip
+                    label={`# of scenes taking place at each location in this chapter`}
+                  />
                 </b>
               )}
           </div>
