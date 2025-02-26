@@ -1059,7 +1059,7 @@ h1 {
       cursor: pointer;
 
       &.faded {
-        opacity: 0.15;
+        opacity: 0.1;
       }
 
       &:hover {
@@ -1244,19 +1244,19 @@ h1 {
       }
 
       .location-img {
-        opacity: 0.15;
+        opacity: 0.1;
       }
 
       &.character-square,
       .character-square {
-        stroke-opacity: 0.15;
-        fill-opacity: 0.15;
+        stroke-opacity: 0.1;
+        fill-opacity: 0.1;
       }
 
       &.path-group,
       .path-group {
         stroke-opacity: 0.05;
-        fill-opacity: 0.15;
+        fill-opacity: 0.1;
       }
 
       &.dashed-lines {
@@ -1267,8 +1267,8 @@ h1 {
     .character-path.faded,
     .char-name-label.faded {
       .character-name {
-        fill-opacity: 0.15;
-        stroke-opacity: 0.15;
+        fill-opacity: 0.1;
+        stroke-opacity: 0.1;
       }
     }
 
@@ -1290,12 +1290,12 @@ h1 {
     .scene-name.faded .scene-name-text,
     .location-group.faded .location-name,
     .chapter-line-group.faded .chapter-label {
-      fill-opacity: 0.15;
+      fill-opacity: 0.1;
     }
 
     .chapter-line-group.faded .chapter-line,
     .chapterline.faded {
-      stroke-opacity: 0.15;
+      stroke-opacity: 0.1;
     }
 
     .chapter-line-group.hidden,
@@ -1475,7 +1475,7 @@ h1 {
 
       &.faded,
       .faded {
-        fill-opacity: 0.15;
+        fill-opacity: 0.1;
       }
 
       .hide {
