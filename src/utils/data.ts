@@ -514,8 +514,11 @@ const sortCharactersByGroup = (
     (char: any) => !char.color || char.color === ""
   );
   // add color to characters without color
+  // and replace white with a different color
   flatSorted.forEach((char: any) => {
-    if (!char.color || char.color === "") {
+    if (char.color && char.color === "rgb(255, 255, 255)") {
+      char.color = "rgb(255, 240, 240)";
+    } else if (!char.color || char.color === "") {
       const color = getColor(char.character, no_color_characters);
       char.color = color;
     }
