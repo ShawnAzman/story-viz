@@ -5,7 +5,6 @@ import {
   CharacterScene,
   SceneCharacter,
   CharacterData,
-  RatingDict,
 } from "../utils/data";
 import init_data from "../data/gatsby.json";
 import { Box, Position, getAllPositions } from "../utils/positions";
@@ -20,8 +19,7 @@ const init_pos_values = getAllPositions(
   init_data_values.sceneLocations,
   init_data_values.sceneCharacters,
   init_data_values.sortedCharacters,
-  true,
-  init_data_values.ratingDict
+  true
 );
 
 // values that don't need to persist across sessions
@@ -50,7 +48,6 @@ interface IStore {
     sceneCharacters: SceneCharacter[],
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
-    ratingDict: RatingDict,
     yAxis: string,
     customYAxisOptions: string[]
   ) => void;
@@ -83,7 +80,6 @@ export const positionStore = create<IStore>((set, get) => ({
     sceneCharacters: SceneCharacter[],
     sortedCharacters: CharacterData[],
     evenSpacing: boolean,
-    ratingDict: RatingDict,
     yAxis: string = "location",
     customYAxisOptions: string[] = []
   ) => {
@@ -96,7 +92,6 @@ export const positionStore = create<IStore>((set, get) => ({
       sceneCharacters,
       sortedCharacters,
       evenSpacing,
-      ratingDict,
       yAxis,
       customYAxisOptions
     );

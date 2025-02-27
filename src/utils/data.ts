@@ -131,13 +131,13 @@ export interface SceneSummary {
   }[];
 }
 
-export interface RatingDict {
-  importance: number[];
-  conflict: number[];
-  sentiment: number[];
-  length: number[];
-  numChars: number[];
-}
+// export interface RatingDict {
+//   importance: number[];
+//   conflict: number[];
+//   sentiment: number[];
+//   length: number[];
+//   numChars: number[];
+// }
 
 export interface ChapterDivision {
   chapter: string;
@@ -678,37 +678,37 @@ const getMinMaxLines = (data: Scene[]) => {
 };
 
 // create dictionary with importance, conflict, and sentiment ratings, each containing a list of ratings by scene
-const ratings = ["importance", "conflict", "sentiment", "length", "numChars"];
+// const ratings = ["importance", "conflict", "sentiment", "length", "numChars"];
 const createRatingDict = (data: Scene[]): any => {
-  const ratingDict: RatingDict = {} as any;
+  // const ratingDict: RatingDict = {} as any;
 
   const minMax = getMinMaxLines(data);
   const minLines = minMax[0];
   const maxLines = minMax[1];
 
-  const minCharacters = Math.min(
-    ...data.map((scene) => scene.characters.length)
-  );
-  const maxCharacters = Math.max(
-    ...data.map((scene) => scene.characters.length)
-  );
+  // const minCharacters = Math.min(
+  //   ...data.map((scene) => scene.characters.length)
+  // );
+  // const maxCharacters = Math.max(
+  //   ...data.map((scene) => scene.characters.length)
+  // );
 
-  for (let rating of ratings) {
-    const key = rating as keyof RatingDict;
-    if (key === "length") {
-      ratingDict[key] = data.map((scene) =>
-        normalize(scene.numLines, minLines, maxLines, 0, 1)
-      );
-    } else if (key === "numChars") {
-      ratingDict[key] = data.map((scene) =>
-        normalize(scene.characters.length, minCharacters, maxCharacters, 0, 1)
-      );
-    } else {
-      ratingDict[key] = data.map((scene) => scene.ratings[key]);
-    }
-  }
+  // for (let rating of ratings) {
+  //   const key = rating as keyof RatingDict;
+  //   if (key === "length") {
+  //     ratingDict[key] = data.map((scene) =>
+  //       normalize(scene.numLines, minLines, maxLines, 0, 1)
+  //     );
+  //   } else if (key === "numChars") {
+  //     ratingDict[key] = data.map((scene) =>
+  //       normalize(scene.characters.length, minCharacters, maxCharacters, 0, 1)
+  //     );
+  //   } else {
+  //     ratingDict[key] = data.map((scene) => scene.ratings[key]);
+  //   }
+  // }
   return {
-    ratingDict: ratingDict,
+    // ratingDict: ratingDict,
     minLines: minLines,
     maxLines: maxLines,
   };
@@ -876,7 +876,6 @@ export const getAllData = (
   const init_sceneSummaries = sceneSummaries(init_scene_data);
 
   const rating_info = createRatingDict(init_scene_data);
-  const init_ratingDict = rating_info.ratingDict;
   const minLines = rating_info.minLines;
   const maxLines = rating_info.maxLines;
 
@@ -901,7 +900,6 @@ export const getAllData = (
     sceneChunks: init_sceneChunks,
     sceneCharacters: init_sceneCharacters,
     sceneSummaries: init_sceneSummaries,
-    ratingDict: init_ratingDict,
     minLines: minLines,
     maxLines: maxLines,
     sceneMin: sceneMin,

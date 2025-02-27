@@ -28,7 +28,6 @@ function SceneOptions() {
     sceneLocations,
     sceneCharacters,
     sortedCharacters,
-    ratingDict,
     chapterDivisions,
     customYAxisOptions,
   } = dataStore();
@@ -54,7 +53,6 @@ function SceneOptions() {
         sceneCharacters,
         sortedCharacters,
         !scaleByLength,
-        ratingDict,
         yAxis,
         customYAxisOptions
       );

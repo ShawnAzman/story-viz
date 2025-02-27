@@ -220,8 +220,6 @@ function PromptModal() {
         });
       });
 
-      console.log("New chapter data:", new_chapter_data);
-
       // Set chapter_data to the updated data
       setChapterData(new_chapter_data);
 

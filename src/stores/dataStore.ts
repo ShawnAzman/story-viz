@@ -7,7 +7,6 @@ import {
   CharacterScene,
   SceneCharacter,
   SceneSummary,
-  RatingDict,
   ChapterDivision,
 } from "../utils/data";
 import init_data from "../data/gatsby.json";
@@ -41,7 +40,6 @@ interface IStore {
   sceneCharacters: SceneCharacter[];
   sceneSummaries: SceneSummary[];
 
-  ratingDict: RatingDict;
   minLines: number;
   maxLines: number;
   sceneMin: number;
@@ -99,7 +97,6 @@ const initialState = {
   sceneCharacters: init_data_values.sceneCharacters,
   sceneSummaries: init_data_values.sceneSummaries,
 
-  ratingDict: init_data_values.ratingDict,
   minLines: init_data_values.minLines,
   maxLines: init_data_values.maxLines,
   sceneMin: init_data_values.sceneMin,
@@ -225,7 +222,6 @@ export const dataStore = create<IStore>((set) => ({
           sceneChunks: newData.sceneChunks,
           sceneCharacters: newData.sceneCharacters,
           sceneSummaries: newData.sceneSummaries,
-          ratingDict: newData.ratingDict,
           minLines: newData.minLines,
           maxLines: newData.maxLines,
           chapterDivisions: newData.chapterDivisions,
