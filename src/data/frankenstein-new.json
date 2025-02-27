@@ -26,7 +26,7 @@
             "characters": {
                 "R. Walton": 3,
                 "Margaret Saville": 2,
-                "Victor Frankenstein": 5
+                "Victor Frankenstein": 4
             },
             "importance_rank": 7,
             "conflict_rank": 21
@@ -295,8 +295,8 @@
                 "Forest": 1
             },
             "characters": {
-                "Agatha": 6,
-                "Felix": 6,
+                "Agatha": 5,
+                "Felix": 5,
                 "De Lacey": 6,
                 "Younger Cottagers": 1,
                 "Victor Frankenstein": 2,
@@ -455,7 +455,7 @@
                 "Journey To England": 4
             },
             "characters": {
-                "Victor Frankenstein": 8,
+                "Victor Frankenstein": 7,
                 "Alphonse Frankenstein": 3,
                 "Elizabeth Lavenza": 3,
                 "Henry Clerval": 3
@@ -592,7 +592,7 @@
                 "Genevan Magistrate's House": 1
             },
             "characters": {
-                "Victor Frankenstein": 7,
+                "Victor Frankenstein": 6,
                 "Elizabeth Lavenza": 2,
                 "Companions": 1,
                 "Women Weeping": 1,
@@ -621,7 +621,7 @@
                 "Captain Walton's Ship": 3
             },
             "characters": {
-                "Victor Frankenstein": 9,
+                "Victor Frankenstein": 8,
                 "William Frankenstein": 1,
                 "Elizabeth Lavenza": 1,
                 "Alphonse Frankenstein": 1,
@@ -771,16 +771,6 @@
                     "quote": "Unhappy man! Do you share my madness? Have you drunk also of the intoxicating draught? Hear me; let me reveal my tale, and you will dash the cup from your lips!",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "Victor Frankenstein",
-                    "role": "An admirer of the stranger, eager to share his ambitions and seek a deeper connection.",
-                    "importance": 1.0,
-                    "emotion": "Admiration mixed with concern",
-                    "sentiment": 0.5,
-                    "quote": "I would gladly sacrifice my fortune, my existence, my every hope, to the furtherance of my enterprise.",
-                    "fake_quote": "",
-                    "importance_rank": 2
                 }
             ],
             "number": 4,
@@ -4019,26 +4009,6 @@
                     "quote": "I cannot describe the delight I felt when I learned the ideas appropriated to each of these sounds and was able to pronounce them.",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "Agatha",
-                    "role": "Sister figure in the family",
-                    "importance": 0.5,
-                    "emotion": "No specific emotion expressed",
-                    "sentiment": 0.0,
-                    "quote": "The girl was called _sister_ or _Agatha._",
-                    "fake_quote": "",
-                    "importance_rank": 5
-                },
-                {
-                    "name": "Felix",
-                    "role": "Brother figure in the family",
-                    "importance": 0.5,
-                    "emotion": "No specific emotion expressed",
-                    "sentiment": 0.0,
-                    "quote": "The youth was called _Felix, brother,_ or _son._",
-                    "fake_quote": "",
-                    "importance_rank": 6
                 }
             ],
             "number": 3,
@@ -6183,16 +6153,6 @@
                     "quote": "It was on a clear morning, in the latter days of December, that I first saw the white cliffs of Britain.",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "Victor Frankenstein",
-                    "role": "Recalling historical significance",
-                    "importance": 1.0,
-                    "emotion": "Reflective and proud",
-                    "sentiment": 0.6,
-                    "quote": "We saw Tilbury Fort and remembered the Spanish Armada, Gravesend, Woolwich, and Greenwich\u2014places which I had heard of even in my country.",
-                    "fake_quote": "",
-                    "importance_rank": 2
                 }
             ],
             "number": 7,
@@ -7509,16 +7469,6 @@
                     "quote": "Oh! Peace, peace, my love; this night, and all will be safe; but this night is dreadful, very dreadful.",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "Victor Frankenstein",
-                    "role": "Concerned for Victor's well-being",
-                    "importance": 0.8,
-                    "emotion": "Fearful and anxious",
-                    "sentiment": -0.5,
-                    "quote": "What is it that agitates you, my dear Victor? What is it you fear?",
-                    "fake_quote": "",
-                    "importance_rank": 2
                 }
             ],
             "number": 1,
@@ -8117,16 +8067,6 @@
                     "importance_rank": 1
                 },
                 {
-                    "name": "Victor Frankenstein",
-                    "role": "Observes the situation and reflects",
-                    "importance": 0.7,
-                    "emotion": "Concerned and conflicted",
-                    "sentiment": -0.5,
-                    "quote": "I had rather die than return shamefully, my purpose unfulfilled.",
-                    "fake_quote": "",
-                    "importance_rank": 2
-                },
-                {
                     "name": "Sailors' Leader",
                     "role": "Leads the sailors in their demand",
                     "importance": 0.6,
@@ -8134,7 +8074,7 @@
                     "sentiment": -0.3,
                     "quote": "He told me that he and his companions had been chosen by the other sailors to come in deputation to me to make me a requisition which, in justice, I could not refuse.",
                     "fake_quote": "",
-                    "importance_rank": 3
+                    "importance_rank": 2
                 }
             ],
             "number": 7,

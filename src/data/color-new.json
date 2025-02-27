@@ -142,7 +142,7 @@
                 "Battlefield": 9
             },
             "characters": {
-                "Lila": 14,
+                "Lila": 11,
                 "Zephyr": 6,
                 "Malachai": 2
             },
@@ -1821,36 +1821,6 @@
                     "quote": "Together, we can do anything.",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "Lila",
-                    "role": "Inspiring her allies",
-                    "importance": 1.0,
-                    "emotion": "Convicted and excited",
-                    "sentiment": 1.0,
-                    "quote": "Let's make this promise a reality.",
-                    "fake_quote": "",
-                    "importance_rank": 2
-                },
-                {
-                    "name": "Lila",
-                    "role": "Motivating the group",
-                    "importance": 1.0,
-                    "emotion": "Excited and resolute",
-                    "sentiment": 1.0,
-                    "quote": "We will not let fear hold us back.",
-                    "fake_quote": "",
-                    "importance_rank": 3
-                },
-                {
-                    "name": "Lila",
-                    "role": "Reflecting on their journey",
-                    "importance": 1.0,
-                    "emotion": "Peaceful and determined",
-                    "sentiment": 1.0,
-                    "quote": "This is just the beginning.",
-                    "fake_quote": "",
-                    "importance_rank": 4
                 }
             ],
             "number": 11,

@@ -53,7 +53,7 @@
                 "Young Man's Terror": 1
             },
             "characters": {
-                "Harsh Upbringing": 3,
+                "Harsh Upbringing": 2,
                 "Beauty Standards": 1,
                 "Marriage Dynamics": 1,
                 "Character Contrast": 1,
@@ -304,7 +304,7 @@
             },
             "characters": {
                 "Misunderstanding": 1,
-                "Isolation And Fear": 2,
+                "Isolation And Fear": 1,
                 "Bullying": 1,
                 "Deception": 1,
                 "Social Class": 3,
@@ -731,7 +731,7 @@
                 "Authority And Power": 1,
                 "Anticipation": 1,
                 "Dismal Atmosphere": 1,
-                "Power Dynamics": 6,
+                "Power Dynamics": 5,
                 "Curiosity": 1,
                 "Isolation And Fear": 2,
                 "Justice": 1,
@@ -1217,7 +1217,7 @@
                 "Freedom": 1,
                 "Curiosity": 1,
                 "Prison Life": 1,
-                "Power Dynamics": 3,
+                "Power Dynamics": 2,
                 "Familiarity And Connection": 1,
                 "Mortality And Memory": 1,
                 "Regret And Resentment": 1,
@@ -2003,7 +2003,7 @@
                 "Garden-court, Temple": 1
             },
             "characters": {
-                "Isolation And Fear": 5,
+                "Isolation And Fear": 4,
                 "Resistance": 1,
                 "Nostalgia": 1,
                 "Desolation": 1,
@@ -2522,16 +2522,6 @@
                     "quote": "she had brought me up \"by hand.\"",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "Harsh Upbringing",
-                    "role": "Highlights the abusive nature of Mrs. Joe",
-                    "importance": 0.8,
-                    "emotion": "Fear and oppression",
-                    "sentiment": -0.7,
-                    "quote": "to be much in the habit of laying it upon her husband as well as upon me",
-                    "fake_quote": "",
-                    "importance_rank": 2
                 }
             ],
             "number": 1,
@@ -5476,16 +5466,6 @@
                     "emotion": "Loneliness and helplessness",
                     "sentiment": -0.6,
                     "quote": "I felt convinced that if I described Miss Havisham's as my eyes had seen it, I should not be understood.",
-                    "fake_quote": "",
-                    "importance_rank": 3
-                },
-                {
-                    "name": "Isolation And Fear",
-                    "role": "Reflects the anxiety about how others perceive one's experiences",
-                    "importance": 0.8,
-                    "emotion": "Anxiety and apprehension",
-                    "sentiment": -0.4,
-                    "quote": "I entertained an impression that there would be something coarse and treacherous in my dragging her as she really was before the contemplation of Mrs. Joe.",
                     "fake_quote": "",
                     "importance_rank": 2
                 }
@@ -9672,16 +9652,6 @@
                     "emotion": "Fear and urgency",
                     "sentiment": -1.0,
                     "quote": "My Bill, sir!",
-                    "fake_quote": "",
-                    "importance_rank": 3
-                },
-                {
-                    "name": "Power Dynamics",
-                    "role": "Mr. Jaggers embodies legal authority and power",
-                    "importance": 0.9,
-                    "emotion": "Fear and respect",
-                    "sentiment": 1.0,
-                    "quote": "Then why do you come here?",
                     "fake_quote": "",
                     "importance_rank": 2
                 }
@@ -14330,16 +14300,6 @@
                     "importance_rank": 1
                 },
                 {
-                    "name": "Power Dynamics",
-                    "role": "Demonstrates how Jaggers maintains authority over others.",
-                    "importance": 0.8,
-                    "emotion": "Respect mixed with fear",
-                    "sentiment": 0.6,
-                    "quote": "\"I don't know that Mr. Jaggers does a better thing than the way in which he keeps himself so high. He's always so high. His constant height is of a piece with his immense abilities.\"",
-                    "fake_quote": "",
-                    "importance_rank": 2
-                },
-                {
                     "name": "Subordination",
                     "role": "Highlights the role of subordinates in the legal system.",
                     "importance": 0.7,
@@ -14347,7 +14307,7 @@
                     "sentiment": 0.4,
                     "quote": "\"Yah! cried Wemmick, suddenly hitting out at the turnkey in a facetious way, 'you're dumb as one of your own keys when you have to do with my principal, you know you are.'\"",
                     "fake_quote": "",
-                    "importance_rank": 3
+                    "importance_rank": 2
                 }
             ],
             "number": 7,
@@ -21460,16 +21420,6 @@
                     "quote": "the dread of being misremembered after death",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "Isolation And Fear",
-                    "role": "The protagonist feels isolated and hopeless in a dangerous situation.",
-                    "importance": 0.9,
-                    "emotion": "Desperation and defiance",
-                    "sentiment": -0.7,
-                    "quote": "few could know better than I, the solitary nature of the spot, and the hopelessness of aid",
-                    "fake_quote": "",
-                    "importance_rank": 3
                 },
                 {
                     "name": "Resistance Against Oppression",

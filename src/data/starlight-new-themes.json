@@ -24,8 +24,8 @@
                 "Final Moments Before Departure": 1
             },
             "characters": {
-                "Environmental Collapse": 2,
-                "Nostalgia": 2,
+                "Environmental Collapse": 1,
+                "Nostalgia": 1,
                 "Hope": 4,
                 "Determination": 2,
                 "Anxiety": 2,
@@ -56,7 +56,7 @@
                 "Outer Space": 1
             },
             "characters": {
-                "Determination": 3,
+                "Determination": 2,
                 "Hope": 2,
                 "Anxiety": 3,
                 "Support And Encouragement": 2,
@@ -399,16 +399,6 @@
                     "importance_rank": 1
                 },
                 {
-                    "name": "Environmental Collapse",
-                    "role": "Illustrates the emptiness and destruction of urban life.",
-                    "importance": 0.9,
-                    "emotion": "Hopelessness",
-                    "sentiment": -1.0,
-                    "quote": "Cities lay in ruins, their skeletal structures jutting out like broken teeth against the horizon.",
-                    "fake_quote": "",
-                    "importance_rank": 2
-                },
-                {
                     "name": "Nostalgia",
                     "role": "Reflects on the loss of a once vibrant world.",
                     "importance": 0.8,
@@ -416,17 +406,7 @@
                     "sentiment": -1.0,
                     "quote": "The sky hung heavy with ash, a muted gray blanket smothering the remnants of what was once a vibrant blue.",
                     "fake_quote": "",
-                    "importance_rank": 3
-                },
-                {
-                    "name": "Nostalgia",
-                    "role": "The Narrator's voice serves as a commentary on the current state of the world.",
-                    "importance": 0.7,
-                    "emotion": "Sorrow",
-                    "sentiment": -1.0,
-                    "quote": "The Narrator's voice echoed in the silence, a somber reflection on the devastation that had become the new normal.",
-                    "fake_quote": "",
-                    "importance_rank": 4
+                    "importance_rank": 2
                 }
             ],
             "number": 1,
@@ -713,16 +693,6 @@
                     "emotion": "Anticipation and anxiety",
                     "sentiment": 0.7,
                     "quote": "She could almost hear the whispers of her crew, their hopes and fears mingling in the silence of space.",
-                    "fake_quote": "",
-                    "importance_rank": 3
-                },
-                {
-                    "name": "Determination",
-                    "role": "Emphasizes Elara's resolve as they approach Earth",
-                    "importance": 0.9,
-                    "emotion": "Determination and focus",
-                    "sentiment": 0.8,
-                    "quote": "Elara felt a surge of determination; this was the moment they had all worked towards.",
                     "fake_quote": "",
                     "importance_rank": 2
                 }

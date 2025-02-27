@@ -157,7 +157,7 @@
                 "Capulet's House": 4
             },
             "characters": {
-                "Desperation": 3,
+                "Desperation": 2,
                 "Love Vs. Duty": 1,
                 "Hope": 1,
                 "Authority": 1,
@@ -1441,16 +1441,6 @@
                     "importance_rank": 2
                 },
                 {
-                    "name": "Desperation",
-                    "role": "Juliet's plea for a way out of her predicament",
-                    "importance": 1.0,
-                    "emotion": "Urgent need for a remedy",
-                    "sentiment": -1.0,
-                    "quote": "If in thy wisdom thou canst give no help, Do thou but call my resolution wise And with this knife I'll help it presently.",
-                    "fake_quote": "",
-                    "importance_rank": 3
-                },
-                {
                     "name": "Hope",
                     "role": "Friar's attempt to provide a solution to Juliet's crisis",
                     "importance": 0.8,
@@ -1458,7 +1448,7 @@
                     "sentiment": 0.5,
                     "quote": "Hold, daughter. I do spy a kind of hope, Which craves as desperate an execution As that is desperate which we would prevent.",
                     "fake_quote": "",
-                    "importance_rank": 4
+                    "importance_rank": 3
                 }
             ],
             "number": 1,

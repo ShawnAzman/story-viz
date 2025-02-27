@@ -172,7 +172,7 @@
                 "Curiosity And Intrusion": 1,
                 "Mystery And Knowledge": 1,
                 "Choices And Consequences": 1,
-                "Connection And Attraction": 3,
+                "Connection And Attraction": 2,
                 "Legacy": 1,
                 "Cultural Significance": 1,
                 "Unspoken Bond": 1,
@@ -314,7 +314,7 @@
                 "Courage Under Pressure": 1,
                 "Calmness": 1,
                 "Protection": 1,
-                "Courage And Resilience": 3,
+                "Courage And Resilience": 2,
                 "Unity": 1,
                 "Trust And Doubt": 1,
                 "Unity And Strength": 1,
@@ -1901,16 +1901,6 @@
                     "sentiment": 0.9,
                     "quote": "Kaveh's presence was a comfort, a reminder that she was not alone.",
                     "fake_quote": "",
-                    "importance_rank": 4
-                },
-                {
-                    "name": "Connection And Attraction",
-                    "role": "Illustrates Mei's growing feelings for Kaveh",
-                    "importance": 0.8,
-                    "emotion": "Attraction and intrigue",
-                    "sentiment": 0.8,
-                    "quote": "she felt a growing fascination, an attraction that stirred her heart in ways she had never experienced.",
-                    "fake_quote": "",
                     "importance_rank": 3
                 }
             ],
@@ -3248,16 +3238,6 @@
                     "importance_rank": 1
                 },
                 {
-                    "name": "Courage And Resilience",
-                    "role": "Highlighting the need for mental fortitude",
-                    "importance": 0.8,
-                    "emotion": "Hope and determination",
-                    "sentiment": 0.7,
-                    "quote": "This journey requires more than physical strength\u2014it demands resilience of spirit, faith in yourself and in those who stand beside you.",
-                    "fake_quote": "",
-                    "importance_rank": 2
-                },
-                {
                     "name": "Unity",
                     "role": "Emphasizing the bond among the caravan members",
                     "importance": 0.7,
@@ -3265,7 +3245,7 @@
                     "sentiment": 0.9,
                     "quote": "We are with you, every step of the way.",
                     "fake_quote": "",
-                    "importance_rank": 3
+                    "importance_rank": 2
                 }
             ],
             "number": 6,

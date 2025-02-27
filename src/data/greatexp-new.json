@@ -24,7 +24,7 @@
                 "Marshes": 1
             },
             "characters": {
-                "Philip Pirrip": 5,
+                "Philip Pirrip": 4,
                 "Mrs. Joe Gargery": 1,
                 "Georgiana": 2,
                 "Pip's Brothers": 1,
@@ -231,7 +231,7 @@
                 "Little Room": 1
             },
             "characters": {
-                "Mrs. Joe Gargery": 3,
+                "Mrs. Joe Gargery": 2,
                 "Narrator": 1,
                 "Uncle Pumblechook": 1,
                 "Philip Pirrip": 3,
@@ -601,7 +601,7 @@
                 "City Room": 1
             },
             "characters": {
-                "Mr. Pocket": 9,
+                "Mr. Pocket": 8,
                 "Philip Pirrip": 2,
                 "Miss Havisham": 2,
                 "Mr. Havisham": 1,
@@ -695,7 +695,7 @@
             "characters": {
                 "Drummle": 2,
                 "Startop": 1,
-                "Mr. Pocket": 4,
+                "Mr. Pocket": 3,
                 "Narrator": 2,
                 "Mrs. Pocket": 1,
                 "Camilla": 1,
@@ -787,7 +787,7 @@
                 "Trabb's Boy": 1,
                 "The Avenger": 1,
                 "Mr. Pocket": 2,
-                "The Convict": 3,
+                "The Convict": 2,
                 "Angry Gentleman": 1,
                 "Keeper": 1,
                 "Philip Pirrip": 1,
@@ -879,10 +879,10 @@
                 "Lady With Brass": 1,
                 "Ophelia": 1,
                 "Undecided Prince": 1,
-                "Mr. Wopsle": 7,
+                "Mr. Wopsle": 5,
                 "Gravedigger": 1,
                 "Philip Pirrip": 2,
-                "Mr. Pocket": 5,
+                "Mr. Pocket": 4,
                 "Estella": 1,
                 "Miss Havisham": 1
             },
@@ -997,7 +997,7 @@
                 "Mrs. Joe Gargery": 1,
                 "Mr. Trabb": 2,
                 "Joe Gargery": 4,
-                "Biddy": 7,
+                "Biddy": 6,
                 "Uncle Pumblechook": 2,
                 "Mr. Hubble": 2,
                 "Mrs. Hubble": 2,
@@ -1146,7 +1146,7 @@
                 "Animated Rag-bag Niece": 1,
                 "Narrator": 4,
                 "Watchman": 1,
-                "The Convict": 4,
+                "The Convict": 3,
                 "Mr. Jaggers": 2,
                 "Philip Pirrip": 3,
                 "Mr. Pocket": 1
@@ -1513,7 +1513,7 @@
                 "In The Boat": 1
             },
             "characters": {
-                "The Convict": 7,
+                "The Convict": 6,
                 "Narrator": 4,
                 "I": 1,
                 "Mr. Pocket": 5,
@@ -1744,7 +1744,7 @@
                     "sentiment": 0.0,
                     "quote": "Philip Pirrip, late of this parish, and also Georgiana wife of the above, were dead and buried.",
                     "fake_quote": "",
-                    "importance_rank": 2
+                    "importance_rank": 1
                 },
                 {
                     "name": "Georgiana",
@@ -1754,17 +1754,7 @@
                     "sentiment": 0.0,
                     "quote": "Georgiana wife of the above, were dead and buried.",
                     "fake_quote": "",
-                    "importance_rank": 3
-                },
-                {
-                    "name": "Philip Pirrip",
-                    "role": "Main character, feeling afraid and alone",
-                    "importance": 1.0,
-                    "emotion": "Fear and confusion",
-                    "sentiment": -0.5,
-                    "quote": "the small bundle of shivers growing afraid of it all and beginning to cry",
-                    "fake_quote": "",
-                    "importance_rank": 1
+                    "importance_rank": 2
                 }
             ],
             "number": 2,
@@ -4799,16 +4789,6 @@
                     "quote": "I felt convinced that if I described Miss Havisham's as my eyes had seen it, I should not be understood.",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "Mrs. Joe Gargery",
-                    "role": "Implied judgmental figure",
-                    "importance": 0.5,
-                    "emotion": "No direct emotion expressed",
-                    "sentiment": 0.0,
-                    "quote": "No quote available",
-                    "fake_quote": "The narrator feels that Mrs. Joe would not understand the complexities of Miss Havisham.",
-                    "importance_rank": 3
                 }
             ],
             "number": 1,
@@ -9275,16 +9255,6 @@
                     "quote": "If that don't make six times you've dropped it, Mum!",
                     "fake_quote": "",
                     "importance_rank": 3
-                },
-                {
-                    "name": "Mr. Pocket",
-                    "role": "Introducing Pip to Mrs. Pocket",
-                    "importance": 0.4,
-                    "emotion": "Friendly and welcoming",
-                    "sentiment": 0.4,
-                    "quote": "This is young Mr. Pip.",
-                    "fake_quote": "",
-                    "importance_rank": 4
                 }
             ],
             "number": 8,
@@ -10185,16 +10155,6 @@
                     "importance_rank": 1
                 },
                 {
-                    "name": "Mr. Pocket",
-                    "role": "Companion and motivator",
-                    "importance": 0.7,
-                    "emotion": "Helpful and friendly",
-                    "sentiment": 0.7,
-                    "quote": "No quote available",
-                    "fake_quote": "Herbert is depicted as a constant presence, providing motivation and assistance to the narrator.",
-                    "importance_rank": 2
-                },
-                {
                     "name": "Drummle",
                     "role": "Contrast to the narrator's progress",
                     "importance": 0.4,
@@ -10202,7 +10162,7 @@
                     "sentiment": -0.5,
                     "quote": "No quote available",
                     "fake_quote": "Drummle serves as a negative comparison, highlighting the narrator's growth and determination.",
-                    "importance_rank": 3
+                    "importance_rank": 2
                 }
             ],
             "number": 4,
@@ -11234,7 +11194,7 @@
                     "sentiment": 0.5,
                     "quote": "Good-bye, Handel!",
                     "fake_quote": "",
-                    "importance_rank": 4
+                    "importance_rank": 3
                 },
                 {
                     "name": "Philip Pirrip",
@@ -11255,16 +11215,6 @@
                     "quote": "I wish that I had 'em here.",
                     "fake_quote": "",
                     "importance_rank": 2
-                },
-                {
-                    "name": "The Convict",
-                    "role": "Expresses disdain for the convict's actions and the situation",
-                    "importance": 0.7,
-                    "emotion": "Cynical and dismissive",
-                    "sentiment": -0.6,
-                    "quote": "More fool you.",
-                    "fake_quote": "",
-                    "importance_rank": 3
                 }
             ],
             "number": 3,
@@ -12260,16 +12210,6 @@
                     "sentiment": 0.6,
                     "quote": "Gentlemen, I am proud to see you. I hope, Mr. Pip, you will excuse my sending round.",
                     "fake_quote": "",
-                    "importance_rank": 2
-                },
-                {
-                    "name": "Mr. Wopsle",
-                    "role": "Struggles with his costume while seeking approval",
-                    "importance": 0.9,
-                    "emotion": "Complacent and slightly desperate",
-                    "sentiment": 0.5,
-                    "quote": "Gentlemen, how did it seem to you, to go, in front?",
-                    "fake_quote": "",
                     "importance_rank": 1
                 },
                 {
@@ -12280,17 +12220,7 @@
                     "sentiment": 0.7,
                     "quote": "Capitally.",
                     "fake_quote": "",
-                    "importance_rank": 3
-                },
-                {
-                    "name": "Mr. Pocket",
-                    "role": "Compliments Mr. Waldengarver's performance",
-                    "importance": 0.6,
-                    "emotion": "Supportive and enthusiastic",
-                    "sentiment": 0.7,
-                    "quote": "Massive and concrete.",
-                    "fake_quote": "",
-                    "importance_rank": 4
+                    "importance_rank": 2
                 }
             ],
             "number": 7,
@@ -12319,16 +12249,6 @@
                     "quote": "My view is a little classic and thoughtful for them here; but they will improve, they will improve.",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "Mr. Wopsle",
-                    "role": "Criticizing audience behavior",
-                    "importance": 0.6,
-                    "emotion": "Defensive and assertive",
-                    "sentiment": 0.3,
-                    "quote": "O dear no, sir, not drunk. His employer would see to that, sir. His employer would not allow him to be drunk.",
-                    "fake_quote": "",
-                    "importance_rank": 2
                 }
             ],
             "number": 8,
@@ -13605,16 +13525,6 @@
                     "quote": "Oh! I can't do so, Mr. Pip,",
                     "fake_quote": "",
                     "importance_rank": 2
-                },
-                {
-                    "name": "Biddy",
-                    "role": "Explains her plans for the future",
-                    "importance": 0.7,
-                    "emotion": "Hopeful and determined",
-                    "sentiment": 0.5,
-                    "quote": "I'll tell you, Mr. Pip. I am going to try to get the place of mistress in the new school nearly finished here.",
-                    "fake_quote": "",
-                    "importance_rank": 3
                 }
             ],
             "number": 8,
@@ -15397,16 +15307,6 @@
                     "quote": "That's it, dear boy! Call me uncle.",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "The Convict",
-                    "role": "Discloses his true name to the protagonist",
-                    "importance": 1.0,
-                    "emotion": "Resigned and accepting",
-                    "sentiment": 0.3,
-                    "quote": "Magwitch, chrisen'd Abel.",
-                    "fake_quote": "",
-                    "importance_rank": 2
                 }
             ],
             "number": 3,
@@ -19205,16 +19105,6 @@
                     "importance_rank": 1
                 },
                 {
-                    "name": "The Convict",
-                    "role": "Sitting still, awaiting fate",
-                    "importance": 0.8,
-                    "emotion": "Calm but tense",
-                    "sentiment": 0.3,
-                    "quote": "Trust to me, dear boy.",
-                    "fake_quote": "",
-                    "importance_rank": 2
-                },
-                {
                     "name": "Mr. Pocket",
                     "role": "Supporting friend, witnessing events",
                     "importance": 0.7,
@@ -19222,7 +19112,7 @@
                     "sentiment": 0.2,
                     "quote": "No quote available",
                     "fake_quote": "Herbert is visibly worried about the unfolding situation.",
-                    "importance_rank": 3
+                    "importance_rank": 2
                 },
                 {
                     "name": "Startop",
@@ -19232,7 +19122,7 @@
                     "sentiment": 0.4,
                     "quote": "Hamburg.",
                     "fake_quote": "",
-                    "importance_rank": 4
+                    "importance_rank": 3
                 }
             ],
             "number": 10,

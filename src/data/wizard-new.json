@@ -49,7 +49,7 @@
                 "Toto": 2,
                 "Witch Of The North": 6,
                 "Three Men": 1,
-                "Munchkin": 4
+                "Munchkin": 2
             },
             "importance_rank": 12,
             "conflict_rank": 14
@@ -983,26 +983,6 @@
                     "quote": "At the East, not far from here, there is a great desert, and none could live to cross it.",
                     "fake_quote": "",
                     "importance_rank": 3
-                },
-                {
-                    "name": "Munchkin",
-                    "role": "Informing Dorothy about the South",
-                    "importance": 0.5,
-                    "emotion": "Concerned",
-                    "sentiment": -0.5,
-                    "quote": "It is the same at the South, for I have been there and seen it. The South is the country of the Quadlings.",
-                    "fake_quote": "",
-                    "importance_rank": 4
-                },
-                {
-                    "name": "Munchkin",
-                    "role": "Informing Dorothy about the West",
-                    "importance": 0.5,
-                    "emotion": "Concerned",
-                    "sentiment": -0.5,
-                    "quote": "I am told that it is the same at the West. And that country, where the Winkies live, is ruled by the Wicked Witch of the West, who would make you her slave if you passed her way.",
-                    "fake_quote": "",
-                    "importance_rank": 5
                 },
                 {
                     "name": "Witch Of The North",

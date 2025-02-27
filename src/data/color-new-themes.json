@@ -24,16 +24,16 @@
                 "Lila's Dreamscape": 1
             },
             "characters": {
-                "Creative Struggle": 5,
+                "Creative Struggle": 4,
                 "Monotony Of Life": 2,
-                "Isolation": 6,
+                "Isolation": 5,
                 "Melancholy": 3,
                 "Yearning For Change": 3,
                 "Colorlessness": 1,
                 "Dreams Vs. Reality": 4,
                 "Lost Potential": 1,
                 "Nostalgia": 1,
-                "Hope And Determination": 5,
+                "Hope And Determination": 4,
                 "Colorful Imagination": 1,
                 "Transformation": 1,
                 "Creativity And Freedom": 1,
@@ -88,7 +88,7 @@
                 "Curiosity": 1,
                 "Playfulness": 1,
                 "Mystery": 1,
-                "Creativity And Imagination": 2,
+                "Creativity And Imagination": 1,
                 "Connection And Understanding": 1,
                 "Courage And Fear": 1,
                 "Transformation": 1,
@@ -127,7 +127,7 @@
                 "Passion And Vulnerability": 1,
                 "Connection And Understanding": 1,
                 "Wisdom And Learning": 1,
-                "Hope And Determination": 2
+                "Hope And Determination": 1
             },
             "importance_rank": 4,
             "conflict_rank": 10
@@ -208,7 +208,7 @@
             },
             "characters": {
                 "Unity In Adversity": 1,
-                "Hope And Determination": 7,
+                "Hope And Determination": 6,
                 "Joy Amidst Struggle": 1,
                 "Purpose And Sacrifice": 1,
                 "Courage And Fear": 1,
@@ -532,16 +532,6 @@
                     "sentiment": -0.6,
                     "quote": "It was her sanctuary, a place where she could escape the grayness of the world outside.",
                     "fake_quote": "",
-                    "importance_rank": 3
-                },
-                {
-                    "name": "Isolation",
-                    "role": "Lila's sense of emptiness reflected in her surroundings",
-                    "importance": 0.8,
-                    "emotion": "Despair",
-                    "sentiment": -0.7,
-                    "quote": "The emptiness mirrored her own feelings of inadequacy and frustration.",
-                    "fake_quote": "",
                     "importance_rank": 2
                 }
             ],
@@ -676,16 +666,6 @@
                     "sentiment": 0.7,
                     "quote": "there was a world waiting for her\u2014a world where her art could thrive.",
                     "fake_quote": "",
-                    "importance_rank": 3
-                },
-                {
-                    "name": "Hope And Determination",
-                    "role": "Lila's resolve to overcome obstacles",
-                    "importance": 0.9,
-                    "emotion": "Resolute",
-                    "sentiment": 0.6,
-                    "quote": "she resolved to keep searching for inspiration.",
-                    "fake_quote": "",
                     "importance_rank": 2
                 },
                 {
@@ -696,7 +676,7 @@
                     "sentiment": -0.6,
                     "quote": "beyond the gray walls of her town",
                     "fake_quote": "",
-                    "importance_rank": 4
+                    "importance_rank": 3
                 },
                 {
                     "name": "Dreams Vs. Reality",
@@ -706,7 +686,7 @@
                     "sentiment": 0.5,
                     "quote": "find a spark of color in the grayness that surrounded her.",
                     "fake_quote": "",
-                    "importance_rank": 5
+                    "importance_rank": 4
                 }
             ],
             "number": 6,
@@ -823,16 +803,6 @@
                     "importance_rank": 1
                 },
                 {
-                    "name": "Creative Struggle",
-                    "role": "Lila's internal conflict with her fears and frustrations",
-                    "importance": 1.0,
-                    "emotion": "Frustration and determination",
-                    "sentiment": 0.0,
-                    "quote": "What if she could never truly capture the colors of her dreams?",
-                    "fake_quote": "",
-                    "importance_rank": 2
-                },
-                {
                     "name": "Transformation",
                     "role": "The shift from a dull existence to a vibrant creative expression",
                     "importance": 1.0,
@@ -840,7 +810,7 @@
                     "sentiment": 1.0,
                     "quote": "It was a start, a small step toward the beauty she craved.",
                     "fake_quote": "",
-                    "importance_rank": 3
+                    "importance_rank": 2
                 },
                 {
                     "name": "Hope And Determination",
@@ -850,7 +820,7 @@
                     "sentiment": 1.0,
                     "quote": "she felt a flicker of excitement... a belief that perhaps she could find the colors she longed for",
                     "fake_quote": "",
-                    "importance_rank": 4
+                    "importance_rank": 3
                 }
             ],
             "number": 9,
@@ -1265,16 +1235,6 @@
                     "importance_rank": 1
                 },
                 {
-                    "name": "Creativity And Imagination",
-                    "role": "Encourages belief in the transformative power of art",
-                    "importance": 0.8,
-                    "emotion": "Hopeful and enthusiastic",
-                    "sentiment": 1.0,
-                    "quote": "\"You have to believe in the magic of art, Lila. It's all about the leap of faith.\"",
-                    "fake_quote": "",
-                    "importance_rank": 2
-                },
-                {
                     "name": "Connection And Understanding",
                     "role": "Represents the bond between Lila and the mural",
                     "importance": 0.7,
@@ -1282,7 +1242,7 @@
                     "sentiment": 1.0,
                     "quote": "\"With a deep breath, she placed her palm against the mural, feeling a warmth radiate from the surface.\"",
                     "fake_quote": "",
-                    "importance_rank": 3
+                    "importance_rank": 2
                 }
             ],
             "number": 3,
@@ -1676,7 +1636,7 @@
                     "sentiment": 0.9,
                     "quote": "Lila felt a rush of warmth at their words, a sense of belonging that she had longed for.",
                     "fake_quote": "",
-                    "importance_rank": 3
+                    "importance_rank": 2
                 },
                 {
                     "name": "Hope And Determination",
@@ -1686,17 +1646,7 @@
                     "sentiment": 0.5,
                     "quote": "The Keepers exchanged glances, their expressions a mix of hope and concern.",
                     "fake_quote": "",
-                    "importance_rank": 4
-                },
-                {
-                    "name": "Hope And Determination",
-                    "role": "Lila's resolve to help and learn",
-                    "importance": 0.9,
-                    "emotion": "Confidence and readiness",
-                    "sentiment": 0.9,
-                    "quote": "I want to help restore that balance... I'm ready.",
-                    "fake_quote": "",
-                    "importance_rank": 2
+                    "importance_rank": 3
                 }
             ],
             "number": 4,
@@ -2467,16 +2417,6 @@
                     "quote": "I was no longer just a girl fighting for my friends; I was a leader, a beacon of hope for my allies.",
                     "fake_quote": "",
                     "importance_rank": 4
-                },
-                {
-                    "name": "Hope And Determination",
-                    "role": "The theme of fighting for what is right and reclaiming lost beauty and life.",
-                    "importance": 1.0,
-                    "emotion": "Hopeful and Resolute",
-                    "sentiment": 1.0,
-                    "quote": "The colors you stole\u2026 they're more than just beauty. They're life, and we won't let you take that from us.",
-                    "fake_quote": "",
-                    "importance_rank": 5
                 }
             ],
             "number": 5,

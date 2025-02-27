@@ -48,8 +48,8 @@
             },
             "characters": {
                 "Mr. Falconer": 1,
-                "Joyce Falconer": 12,
-                "Melville Falconer": 8,
+                "Joyce Falconer": 10,
+                "Melville Falconer": 7,
                 "Peggy Loxley": 1,
                 "Old Man": 1,
                 "Landlord": 1,
@@ -78,7 +78,7 @@
             },
             "characters": {
                 "Gilbert Arundel": 6,
-                "Melville Falconer": 9,
+                "Melville Falconer": 7,
                 "Bishop Of Ohio": 4,
                 "Mr. Falconer": 2,
                 "Joyce Falconer": 3,
@@ -107,7 +107,7 @@
                 "Mrs. Falconer": 10,
                 "Son's Friend": 1,
                 "Piers Falconer": 2,
-                "Gilbert Arundel": 9,
+                "Gilbert Arundel": 8,
                 "Melville Falconer": 6,
                 "Mr. Falconer": 7,
                 "Joyce Falconer": 10,
@@ -138,7 +138,7 @@
                 "Piers Falconer": 3,
                 "Melville Falconer": 3,
                 "Joyce Falconer": 7,
-                "Gilbert Arundel": 6,
+                "Gilbert Arundel": 5,
                 "Mrs. Falconer": 2,
                 "Harry": 1,
                 "Ralph": 1,
@@ -224,7 +224,7 @@
             "characters": {
                 "Charlotte Benson": 6,
                 "Aunt": 1,
-                "Joyce Falconer": 9,
+                "Joyce Falconer": 8,
                 "Mr. Falconer": 3,
                 "The Old Servant": 1,
                 "Miss Frowde": 3,
@@ -253,7 +253,7 @@
             },
             "characters": {
                 "Thomas": 2,
-                "Joyce Falconer": 10,
+                "Joyce Falconer": 9,
                 "Duke": 2,
                 "Maid Servants": 1,
                 "Mrs. Falconer": 3,
@@ -325,7 +325,7 @@
             "characters": {
                 "Mrs. Falconer": 3,
                 "Susan Priday": 1,
-                "Joyce Falconer": 11,
+                "Joyce Falconer": 10,
                 "Ralph": 1,
                 "Piers Falconer": 1,
                 "Charlotte Benson": 3,
@@ -447,7 +447,7 @@
             },
             "characters": {
                 "Gilbert Arundel": 4,
-                "Sir Charles Wetherall": 2,
+                "Sir Charles Wetherall": 1,
                 "Captain Gage": 1,
                 "Bob Priday": 2,
                 "Surgeon": 1,
@@ -483,7 +483,7 @@
             "characters": {
                 "The Coachman": 1,
                 "Two Little Urchins": 1,
-                "Joyce Falconer": 15,
+                "Joyce Falconer": 14,
                 "Susan Priday": 3,
                 "Old Surgeon": 2,
                 "Bob Priday": 1,
@@ -1039,16 +1039,6 @@
                     "importance_rank": 1
                 },
                 {
-                    "name": "Joyce Falconer",
-                    "role": "Welcoming her niece",
-                    "importance": 0.6,
-                    "emotion": "Warm but feeble",
-                    "sentiment": 0.5,
-                    "quote": "Well, my child, welcome. Have you come to Wells with your father?",
-                    "fake_quote": "",
-                    "importance_rank": 2
-                },
-                {
                     "name": "Charlotte Benson",
                     "role": "Admiring her cousin",
                     "importance": 0.5,
@@ -1056,7 +1046,7 @@
                     "sentiment": 0.6,
                     "quote": "No quote available",
                     "fake_quote": "Charlotte gazed at Joyce with admiration, feeling a mix of fatigue and longing for romance.",
-                    "importance_rank": 3
+                    "importance_rank": 2
                 }
             ],
             "number": 6,
@@ -1125,16 +1115,6 @@
                     "importance_rank": 1
                 },
                 {
-                    "name": "Joyce Falconer",
-                    "role": "Concerned daughter and niece, frustrated with Melville's choices and her mother's situation.",
-                    "importance": 0.9,
-                    "emotion": "Angry and defiant",
-                    "sentiment": -0.5,
-                    "quote": "It makes me so angry when I think of the way mother is treated.",
-                    "fake_quote": "",
-                    "importance_rank": 2
-                },
-                {
                     "name": "Melville Falconer",
                     "role": "Absent character, represents frustration for Joyce and Miss Falconer due to his refusal to settle down.",
                     "importance": 0.6,
@@ -1142,7 +1122,7 @@
                     "sentiment": -0.5,
                     "quote": "No quote available",
                     "fake_quote": "Melville's choices frustrate both Joyce and Miss Falconer, as he refuses to embrace his responsibilities.",
-                    "importance_rank": 3
+                    "importance_rank": 2
                 },
                 {
                     "name": "Charlotte Benson",
@@ -1152,7 +1132,7 @@
                     "sentiment": 0.2,
                     "quote": "No quote available",
                     "fake_quote": "Charlotte's presence highlights the contrast between her accomplishments and Joyce's perceived lack.",
-                    "importance_rank": 4
+                    "importance_rank": 3
                 }
             ],
             "number": 8,
@@ -1241,16 +1221,6 @@
                     "importance_rank": 4
                 },
                 {
-                    "name": "Melville Falconer",
-                    "role": "Observing Joyce and introducing her later",
-                    "importance": 0.5,
-                    "emotion": "Proud and amused",
-                    "sentiment": 0.4,
-                    "quote": "That little girl dressed as if she came out of Noah's ark is my sister!",
-                    "fake_quote": "",
-                    "importance_rank": 5
-                },
-                {
                     "name": "Charlotte Benson",
                     "role": "Accompanying Joyce and observing the scene",
                     "importance": 0.4,
@@ -1258,7 +1228,7 @@
                     "sentiment": 0.0,
                     "quote": "No quote available",
                     "fake_quote": "Charlotte is present but does not express her feelings directly.",
-                    "importance_rank": 6
+                    "importance_rank": 5
                 },
                 {
                     "name": "The Dean",
@@ -1268,7 +1238,7 @@
                     "sentiment": 0.3,
                     "quote": "No quote available",
                     "fake_quote": "The Dean is focused on maintaining order during the service.",
-                    "importance_rank": 7
+                    "importance_rank": 6
                 },
                 {
                     "name": "Old Verger",
@@ -1365,16 +1335,6 @@
                     "quote": "Come on; it is so like a country clodhopper to stand looking at a big house, as if you had never seen one before.",
                     "fake_quote": "",
                     "importance_rank": 2
-                },
-                {
-                    "name": "Melville Falconer",
-                    "role": "Commenting on the Palace's dampness",
-                    "importance": 0.5,
-                    "emotion": "Practical and dismissive",
-                    "sentiment": -0.2,
-                    "quote": "It's a mighty damp place.",
-                    "fake_quote": "",
-                    "importance_rank": 3
                 }
             ],
             "number": 1,
@@ -1749,16 +1709,6 @@
                     "quote": "my name is not Arthur Falconer.",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "Melville Falconer",
-                    "role": "Receiving a tip from the post-boy",
-                    "importance": 0.5,
-                    "emotion": "Unconcerned and casual",
-                    "sentiment": 0.2,
-                    "quote": "No quote available",
-                    "fake_quote": "Melville appears indifferent to Falconer's outburst, focusing instead on tipping the post-boy.",
-                    "importance_rank": 2
                 }
             ],
             "number": 9,
@@ -2593,16 +2543,6 @@
                     "quote": "No quote available",
                     "fake_quote": "Melville feels ashamed of Joyce's lack of fashionable appearance and is critical of her beauty.",
                     "importance_rank": 3
-                },
-                {
-                    "name": "Gilbert Arundel",
-                    "role": "Judging Joyce's worth based on superficial standards",
-                    "importance": 0.5,
-                    "emotion": "Disappointed and critical",
-                    "sentiment": -0.4,
-                    "quote": "No quote available",
-                    "fake_quote": "Mr. Arundel's silence about Joyce suggests disappointment in her appearance.",
-                    "importance_rank": 4
                 }
             ],
             "number": 18,
@@ -2853,16 +2793,6 @@
                     "quote": "No, it is impossible; I could not leave my mother: I am all she has in the world.",
                     "fake_quote": "",
                     "importance_rank": 2
-                },
-                {
-                    "name": "Gilbert Arundel",
-                    "role": "Questions Joyce's desires and aspirations",
-                    "importance": 0.5,
-                    "emotion": "Curious and slightly teasing",
-                    "sentiment": 0.2,
-                    "quote": "You don't seem to want anything yourself.",
-                    "fake_quote": "",
-                    "importance_rank": 3
                 }
             ],
             "number": 5,
@@ -4232,16 +4162,6 @@
                     "sentiment": 0.0,
                     "quote": "No quote available",
                     "fake_quote": "Charlotte is simply mentioned as running upstairs to get ready.",
-                    "importance_rank": 4
-                },
-                {
-                    "name": "Joyce Falconer",
-                    "role": "Daughter being discussed for her future",
-                    "importance": 0.5,
-                    "emotion": "No significant role",
-                    "sentiment": 0.0,
-                    "quote": "No quote available",
-                    "fake_quote": "Joyce is mentioned positively by Mr. Falconer, indicating he values her.",
                     "importance_rank": 3
                 }
             ],
@@ -5025,16 +4945,6 @@
                     "importance_rank": 1
                 },
                 {
-                    "name": "Joyce Falconer",
-                    "role": "Observer of Joyce's grief",
-                    "importance": 0.5,
-                    "emotion": "Concerned and reflective",
-                    "sentiment": -0.5,
-                    "quote": "No quote available",
-                    "fake_quote": "Miss Falconer reflects on Joyce's calm demeanor, feeling disappointed that Joyce is not expressing her grief more openly.",
-                    "importance_rank": 2
-                },
-                {
                     "name": "Charlotte Benson",
                     "role": "Mentioned character, contrasting Joyce",
                     "importance": 0.3,
@@ -5042,7 +4952,7 @@
                     "sentiment": 0.0,
                     "quote": "No quote available",
                     "fake_quote": "Charlotte is mentioned as someone who would be entirely prostrate with grief, contrasting with Joyce's calmness.",
-                    "importance_rank": 3
+                    "importance_rank": 2
                 }
             ],
             "number": 8,
@@ -5917,16 +5827,6 @@
                     "quote": "Mrs. Law, gentle and kindly, had taken an interest in the young people in Wells.",
                     "fake_quote": "",
                     "importance_rank": 3
-                },
-                {
-                    "name": "Joyce Falconer",
-                    "role": "Being admired and making an impression",
-                    "importance": 0.6,
-                    "emotion": "Confident and charming",
-                    "sentiment": 0.6,
-                    "quote": "No quote available",
-                    "fake_quote": "Joyce is portrayed as someone who naturally wins the admiration of others, particularly Charlotte.",
-                    "importance_rank": 4
                 }
             ],
             "number": 7,
@@ -7499,16 +7399,6 @@
                     "quote": "There, helped by a woman's hand, who set up a ladder for him, he dropped in pitiable terror into the stables behind, and hid in a loft.",
                     "fake_quote": "",
                     "importance_rank": 2
-                },
-                {
-                    "name": "Sir Charles Wetherall",
-                    "role": "Cowardly escape from the riot",
-                    "importance": 0.6,
-                    "emotion": "Cowardice",
-                    "sentiment": -0.7,
-                    "quote": "the Recorder slipping by, in a post-boy's dress, which actually passed him through the crowd, till he found himself safe at Kingsdown.",
-                    "fake_quote": "",
-                    "importance_rank": 3
                 }
             ],
             "number": 1,
@@ -8615,16 +8505,6 @@
                     "importance_rank": 3
                 },
                 {
-                    "name": "Joyce Falconer",
-                    "role": "Concerned friend reflecting on Charlotte's choices",
-                    "importance": 0.7,
-                    "emotion": "Regretful and anxious",
-                    "sentiment": -0.4,
-                    "quote": "She almost reproached herself for not being more honest with Charlotte in days long past.",
-                    "fake_quote": "",
-                    "importance_rank": 4
-                },
-                {
                     "name": "Lord Maythorne",
                     "role": "Charlotte's admirer and provider",
                     "importance": 0.6,
@@ -8632,7 +8512,7 @@
                     "sentiment": 0.5,
                     "quote": "He felt a certain pride in her graceful manners.",
                     "fake_quote": "",
-                    "importance_rank": 5
+                    "importance_rank": 4
                 },
                 {
                     "name": "Miss Letitia Falconer",
@@ -8642,7 +8522,7 @@
                     "sentiment": 0.2,
                     "quote": "Aunt Letitia said she was _glad_ to be able to assure Lord Maythorne that the Falconers were an ancient race.",
                     "fake_quote": "",
-                    "importance_rank": 6
+                    "importance_rank": 5
                 },
                 {
                     "name": "Melville Falconer",
@@ -8652,7 +8532,7 @@
                     "sentiment": 0.1,
                     "quote": "She'll soon find cause to be anxious when Maythorne comes to her for a bit of thin paper with a good round sum in the corner.",
                     "fake_quote": "",
-                    "importance_rank": 7
+                    "importance_rank": 6
                 }
             ],
             "number": 18,

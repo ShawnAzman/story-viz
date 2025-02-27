@@ -584,7 +584,7 @@
                 "Anne Shirley": 7,
                 "Diana Barry": 4,
                 "Marilla Cuthbert": 3,
-                "Ruby Gillis": 3,
+                "Ruby Gillis": 2,
                 "Emma White": 1,
                 "Josie Pye": 1,
                 "Julia Bell": 1,
@@ -8216,16 +8216,6 @@
                     "sentiment": 0.5,
                     "quote": "No quote available",
                     "fake_quote": "Jane is excited to join the story club.",
-                    "importance_rank": 6
-                },
-                {
-                    "name": "Ruby Gillis",
-                    "role": "Suggests inclusion of boys",
-                    "importance": 0.4,
-                    "emotion": "Playful and opinionated",
-                    "sentiment": 0.5,
-                    "quote": "No quote available",
-                    "fake_quote": "Ruby expresses a desire for more excitement in the club.",
                     "importance_rank": 5
                 }
             ],

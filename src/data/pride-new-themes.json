@@ -432,7 +432,7 @@
                 "Longbourn": 6
             },
             "characters": {
-                "Confusion And Frustration": 3,
+                "Confusion And Frustration": 2,
                 "Self-reproach": 1,
                 "Romantic Tension": 2,
                 "Emotional Support": 1,
@@ -4861,16 +4861,6 @@
                     "importance_rank": 1
                 },
                 {
-                    "name": "Confusion And Frustration",
-                    "role": "Elizabeth reflects on her feelings for Mr. Darcy and his apparent indifference.",
-                    "importance": 0.8,
-                    "emotion": "Longing and disappointment",
-                    "sentiment": -0.4,
-                    "quote": "No quote available",
-                    "fake_quote": "Elizabeth is disappointed by Mr. Darcy's lack of affection and struggles with her feelings for him.",
-                    "importance_rank": 2
-                },
-                {
                     "name": "Self-reproach",
                     "role": "Elizabeth contemplates her emotions and the situation with Mr. Darcy.",
                     "importance": 0.7,
@@ -4878,7 +4868,7 @@
                     "sentiment": 0.2,
                     "quote": "\"I will think no more about him.\"",
                     "fake_quote": "",
-                    "importance_rank": 3
+                    "importance_rank": 2
                 }
             ],
             "number": 1,

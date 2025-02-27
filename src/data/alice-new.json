@@ -28,7 +28,7 @@
                 "Alice's Garden": 1
             },
             "characters": {
-                "Alice": 10,
+                "Alice": 9,
                 "White Rabbit": 2,
                 "Dinah": 1
             },
@@ -110,7 +110,7 @@
             },
             "characters": {
                 "White Rabbit": 4,
-                "Alice": 8,
+                "Alice": 6,
                 "Magic Bottle": 1,
                 "Pat": 1,
                 "Bill The Lizard": 2,
@@ -179,7 +179,7 @@
                 "Inside The Tree": 1
             },
             "characters": {
-                "Alice": 3,
+                "Alice": 2,
                 "Hatter": 1,
                 "March Hare": 1,
                 "Dormouse": 1
@@ -699,16 +699,6 @@
                     "quote": "Well, I'll eat it, and if it makes me grow larger, I can reach the key; and if it makes me grow smaller, I can creep under the door; so either way I'll get into the garden, and I don't care which happens!",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "Alice",
-                    "role": "Curious about her size change",
-                    "importance": 1.0,
-                    "emotion": "Surprised and disappointed",
-                    "sentiment": -0.2,
-                    "quote": "Which way? Which way?",
-                    "fake_quote": "",
-                    "importance_rank": 2
                 }
             ],
             "number": 12,
@@ -1527,26 +1517,6 @@
                     "quote": "I know _something_ interesting is sure to happen, whenever I eat or drink anything; so I'll just see what this bottle does.",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "Alice",
-                    "role": "Frustrated by her growing size and lack of space.",
-                    "importance": 1.0,
-                    "emotion": "Frustrated and worried",
-                    "sentiment": -0.5,
-                    "quote": "I do wish I hadn't drunk quite so much!",
-                    "fake_quote": "",
-                    "importance_rank": 2
-                },
-                {
-                    "name": "Alice",
-                    "role": "Desperate as she tries to find a way to fit in the room.",
-                    "importance": 1.0,
-                    "emotion": "Desperate and confused",
-                    "sentiment": -0.7,
-                    "quote": "What _will_ become of me?",
-                    "fake_quote": "",
-                    "importance_rank": 3
                 }
             ],
             "number": 3,
@@ -2503,16 +2473,6 @@
                     "quote": "At any rate I'll never go _there_ again!",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "Alice",
-                    "role": "Explores a mysterious door",
-                    "importance": 1.0,
-                    "emotion": "Curious and adventurous",
-                    "sentiment": 0.5,
-                    "quote": "That's very curious!",
-                    "fake_quote": "",
-                    "importance_rank": 2
                 }
             ],
             "number": 2,

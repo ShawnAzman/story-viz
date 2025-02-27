@@ -109,7 +109,7 @@
                 "Emma's Home": 1
             },
             "characters": {
-                "Emma Woodhouse": 7,
+                "Emma Woodhouse": 6,
                 "Harriet Smith": 6,
                 "Mr. Martin": 4,
                 "Mrs. Martin": 1,
@@ -138,7 +138,7 @@
                 "Mrs. Weston": 5,
                 "Harriet Smith": 3,
                 "Emma Woodhouse": 6,
-                "John Knightley": 3,
+                "John Knightley": 2,
                 "Isabella Knightley": 1,
                 "Mr. Woodhouse": 1,
                 "Mr. Weston": 1
@@ -288,7 +288,7 @@
                 "Emma Woodhouse": 6,
                 "Mr. Elton": 1,
                 "Mr. Woodhouse": 5,
-                "John Knightley": 7,
+                "John Knightley": 6,
                 "Isabella Knightley": 2
             },
             "importance_rank": 15,
@@ -455,7 +455,7 @@
             "characters": {
                 "Mr. Woodhouse": 2,
                 "Isabella Knightley": 1,
-                "John Knightley": 2,
+                "John Knightley": 1,
                 "Mr. Elton": 2,
                 "Emma Woodhouse": 3,
                 "Harriet Smith": 3
@@ -1795,7 +1795,7 @@
                     "sentiment": 0.5,
                     "quote": "No quote available",
                     "fake_quote": "Mr. Martin is described positively by Harriet, indicating he is well-regarded.",
-                    "importance_rank": 4
+                    "importance_rank": 3
                 },
                 {
                     "name": "Mrs. Martin",
@@ -1805,17 +1805,7 @@
                     "sentiment": 0.5,
                     "quote": "No quote available",
                     "fake_quote": "Mrs. Martin is portrayed as kind and supportive of her son.",
-                    "importance_rank": 5
-                },
-                {
-                    "name": "Emma Woodhouse",
-                    "role": "Expresses her views on social class and marriage",
-                    "importance": 0.7,
-                    "emotion": "Judgmental and pragmatic",
-                    "sentiment": -0.3,
-                    "quote": "The yeomanry are precisely the order of people with whom I feel I can have nothing to do.",
-                    "fake_quote": "",
-                    "importance_rank": 3
+                    "importance_rank": 4
                 }
             ],
             "number": 3,
@@ -2350,16 +2340,6 @@
                     "quote": "I wonder what will become of her!",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "John Knightley",
-                    "role": "Concerned for her sister's well-being",
-                    "importance": 0.6,
-                    "emotion": "Easily alarmed",
-                    "sentiment": -0.3,
-                    "quote": "No quote available",
-                    "fake_quote": "Mrs. John Knightley is portrayed as anxious and worried about her sister's happiness.",
-                    "importance_rank": 3
                 },
                 {
                     "name": "Emma Woodhouse",
@@ -4646,16 +4626,6 @@
                     "importance_rank": 2
                 },
                 {
-                    "name": "John Knightley",
-                    "role": "Advocates for marriage and praises Mr. Weston",
-                    "importance": 0.6,
-                    "emotion": "Supportive and affectionate",
-                    "sentiment": 0.6,
-                    "quote": "I believe he is one of the very best-tempered men that ever existed.",
-                    "fake_quote": "",
-                    "importance_rank": 3
-                },
-                {
                     "name": "Emma Woodhouse",
                     "role": "Informs about Mr. Weston and his letter",
                     "importance": 0.5,
@@ -4663,7 +4633,7 @@
                     "sentiment": 0.3,
                     "quote": "There was a strong expectation of his coming soon after the marriage, but it ended in nothing; and I have not heard him mentioned lately.",
                     "fake_quote": "",
-                    "importance_rank": 4
+                    "importance_rank": 3
                 }
             ],
             "number": 8,
@@ -6466,16 +6436,6 @@
                     "quote": "No quote available",
                     "fake_quote": "Mrs. John Knightley is part of the group leaving, showing support for Isabella.",
                     "importance_rank": 3
-                },
-                {
-                    "name": "John Knightley",
-                    "role": "Part of the departing party, supportive of Isabella",
-                    "importance": 0.4,
-                    "emotion": "No specific emotion expressed",
-                    "sentiment": 0.0,
-                    "quote": "No quote available",
-                    "fake_quote": "Mr. John Knightley is part of the group leaving, showing support for Isabella.",
-                    "importance_rank": 4
                 }
             ],
             "number": 1,

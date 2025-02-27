@@ -26,14 +26,14 @@
                 "Tom's House": 9
             },
             "characters": {
-                "Nick Carraway": 12,
+                "Nick Carraway": 11,
                 "Nick's Father": 2,
                 "Jay Gatsby": 3,
                 "Nick's Aunts And Uncles": 1,
                 "Finnish Woman": 1,
                 "Tom Buchanan": 8,
                 "Daisy Buchanan": 10,
-                "Jordan Baker": 8
+                "Jordan Baker": 7
             },
             "importance_rank": 8,
             "conflict_rank": 8
@@ -240,7 +240,7 @@
                 "Gad's Hill": 1
             },
             "characters": {
-                "Nick Carraway": 10,
+                "Nick Carraway": 9,
                 "Jay Gatsby": 9,
                 "Tom Buchanan": 2,
                 "Daisy Buchanan": 7,
@@ -434,16 +434,6 @@
                     "importance_rank": 1
                 },
                 {
-                    "name": "Nick Carraway",
-                    "role": "Suggesting a house to share",
-                    "importance": 0.5,
-                    "emotion": "Displaced and helpless",
-                    "sentiment": -0.5,
-                    "quote": "How do you get to West Egg village?",
-                    "fake_quote": "",
-                    "importance_rank": 2
-                },
-                {
                     "name": "Finnish Woman",
                     "role": "Housekeeper providing comfort",
                     "importance": 0.4,
@@ -451,7 +441,7 @@
                     "sentiment": 0.2,
                     "quote": "No quote available",
                     "fake_quote": "The Finnish woman quietly tended to the narrator's needs, embodying a sense of comfort in his loneliness.",
-                    "importance_rank": 3
+                    "importance_rank": 2
                 }
             ],
             "number": 4,
@@ -892,16 +882,6 @@
                     "quote": "Jordan's going to play in the tournament tomorrow, over at Westchester.",
                     "fake_quote": "",
                     "importance_rank": 3
-                },
-                {
-                    "name": "Jordan Baker",
-                    "role": "Subject of conversation",
-                    "importance": 0.3,
-                    "emotion": "No direct emotion expressed",
-                    "sentiment": 0.0,
-                    "quote": "Oh\u2014you're Jordan Baker.",
-                    "fake_quote": "Jordan is recognized by Tom, indicating her presence is notable.",
-                    "importance_rank": 4
                 }
             ],
             "number": 14,
@@ -4538,16 +4518,6 @@
                     "quote": "I can't describe to you how surprised I was to find out I loved her, old sport.",
                     "fake_quote": "",
                     "importance_rank": 1
-                },
-                {
-                    "name": "Nick Carraway",
-                    "role": "Realizing love's priority over ambition",
-                    "importance": 1.0,
-                    "emotion": "Content and introspective",
-                    "sentiment": 0.9,
-                    "quote": "What was the use of doing great things if I could have a better time telling her what I was going to do?",
-                    "fake_quote": "",
-                    "importance_rank": 2
                 }
             ],
             "number": 8,

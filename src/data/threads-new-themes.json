@@ -47,7 +47,7 @@
                 "Elara's Cottage": 1
             },
             "characters": {
-                "Mystery And Intrigue": 2,
+                "Mystery And Intrigue": 1,
                 "Isolation": 1,
                 "Fear": 2,
                 "Authority And Power": 1,
@@ -531,16 +531,6 @@
                     "sentiment": -0.3,
                     "quote": "With his drink in hand, he scanned the room before settling in the darkest corner of the tavern, away from the fire and the warmth of the crowd.",
                     "fake_quote": "",
-                    "importance_rank": 3
-                },
-                {
-                    "name": "Mystery And Intrigue",
-                    "role": "Elara's fascination with the stranger drives the narrative tension.",
-                    "importance": 0.8,
-                    "emotion": "Fascination and tension",
-                    "sentiment": 0.4,
-                    "quote": "Elara kept her gaze down, but she couldn't help the prickle of curiosity creeping up her spine.",
-                    "fake_quote": "",
                     "importance_rank": 2
                 },
                 {
@@ -551,7 +541,7 @@
                     "sentiment": -0.5,
                     "quote": "His eyes were on her\u2014sharp, unblinking, and filled with an intensity that made her heart skip a beat.",
                     "fake_quote": "",
-                    "importance_rank": 4
+                    "importance_rank": 3
                 }
             ],
             "number": 1,

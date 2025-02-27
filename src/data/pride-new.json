@@ -51,7 +51,7 @@
             },
             "characters": {
                 "Elizabeth Bennet": 6,
-                "Mr. Darcy": 6,
+                "Mr. Darcy": 5,
                 "Mr. Gardiner": 3,
                 "Miss Darcy": 3,
                 "Mr. Bingley": 2,
@@ -82,7 +82,7 @@
                 "Mrs. Gardiner": 3,
                 "Mrs. Hurst": 1,
                 "Mrs. Annesley": 2,
-                "Mr. Darcy": 5,
+                "Mr. Darcy": 4,
                 "Mr. Gardiner": 1,
                 "Mr. Bingley": 1
             },
@@ -298,7 +298,7 @@
                 "Mrs. Bennet": 6,
                 "Elizabeth Bennet": 4,
                 "Mr. Bennet": 2,
-                "Jane Bennet": 4,
+                "Jane Bennet": 3,
                 "Aunt Philips": 1,
                 "Mr. Bingley": 3,
                 "Mr. Darcy": 2
@@ -319,7 +319,7 @@
                 "Longbourn": 3
             },
             "characters": {
-                "Elizabeth Bennet": 5,
+                "Elizabeth Bennet": 4,
                 "Mr. Darcy": 2,
                 "Jane Bennet": 2,
                 "Mr. Bingley": 1,
@@ -499,7 +499,7 @@
                 "Lydia Bennet": 4,
                 "Mary Bennet": 1,
                 "Wickham": 2,
-                "Mr. Darcy": 6,
+                "Mr. Darcy": 5,
                 "Miss Bingley": 1,
                 "Miss Darcy": 1,
                 "Lady Catherine De Bourgh": 1,
@@ -551,7 +551,7 @@
                 "Charlotte Lucas": 1,
                 "Wickham": 1,
                 "Jane Bennet": 2,
-                "Mr. Bingley": 3,
+                "Mr. Bingley": 2,
                 "Mr. Darcy": 1,
                 "Mrs. Bennet": 1
             },
@@ -1031,16 +1031,6 @@
                     "importance_rank": 3
                 },
                 {
-                    "name": "Mr. Darcy",
-                    "role": "Eager to engage with Elizabeth",
-                    "importance": 0.5,
-                    "emotion": "Eager and enthusiastic",
-                    "sentiment": 0.6,
-                    "quote": "No quote available",
-                    "fake_quote": "Georgiana shows her eagerness to connect with Elizabeth, reflecting her positive feelings.",
-                    "importance_rank": 4
-                },
-                {
                     "name": "Mr. Gardiner",
                     "role": "Observing the interactions with interest",
                     "importance": 0.4,
@@ -1048,7 +1038,7 @@
                     "sentiment": 0.5,
                     "quote": "No quote available",
                     "fake_quote": "Mr. Gardiner is keenly observing the dynamics between Elizabeth and her visitors.",
-                    "importance_rank": 5
+                    "importance_rank": 4
                 },
                 {
                     "name": "Mrs. Gardiner",
@@ -1058,7 +1048,7 @@
                     "sentiment": 0.5,
                     "quote": "No quote available",
                     "fake_quote": "Mrs. Gardiner is focused on understanding the relationship dynamics in the room.",
-                    "importance_rank": 6
+                    "importance_rank": 5
                 }
             ],
             "number": 3,
@@ -1693,16 +1683,6 @@
                     "quote": "How very ill Eliza Bennet looks this morning, Mr. Darcy; I never in my life saw any one so much altered as she is since the winter.",
                     "fake_quote": "",
                     "importance_rank": 2
-                },
-                {
-                    "name": "Mr. Darcy",
-                    "role": "Supports Elizabeth based on her brother's opinion",
-                    "importance": 0.7,
-                    "emotion": "Admiring and loyal",
-                    "sentiment": 0.8,
-                    "quote": "No quote available",
-                    "fake_quote": "Georgiana admires Elizabeth and feels favorably towards her due to her brother's positive remarks.",
-                    "importance_rank": 3
                 }
             ],
             "number": 10,
@@ -4599,16 +4579,6 @@
                     "quote": "'Tis an etiquette I despise.",
                     "fake_quote": "",
                     "importance_rank": 4
-                },
-                {
-                    "name": "Jane Bennet",
-                    "role": "Expresses her discomfort about Mr. Bingley's arrival",
-                    "importance": 0.5,
-                    "emotion": "Worried and pained",
-                    "sentiment": -0.3,
-                    "quote": "Happy shall I be, when his stay at Netherfield is over!",
-                    "fake_quote": "",
-                    "importance_rank": 5
                 }
             ],
             "number": 3,
@@ -4945,16 +4915,6 @@
                     "quote": "You are very cruel.",
                     "fake_quote": "",
                     "importance_rank": 2
-                },
-                {
-                    "name": "Elizabeth Bennet",
-                    "role": "Defends her feelings about Mr. Darcy",
-                    "importance": 0.5,
-                    "emotion": "Defensive and reflective",
-                    "sentiment": 0.4,
-                    "quote": "How hard it is in some cases to be believed!",
-                    "fake_quote": "",
-                    "importance_rank": 3
                 }
             ],
             "number": 4,
@@ -7297,16 +7257,6 @@
                     "quote": "No quote available",
                     "fake_quote": "Elizabeth's lively manner surprises Georgiana, showing her a new perspective on relationships.",
                     "importance_rank": 2
-                },
-                {
-                    "name": "Mr. Darcy",
-                    "role": "Brother to Georgiana, hopeful for their bond",
-                    "importance": 0.5,
-                    "emotion": "Pleased and hopeful",
-                    "sentiment": 0.6,
-                    "quote": "No quote available",
-                    "fake_quote": "Darcy is content seeing his sister and wife bond, fulfilling his hopes for their relationship.",
-                    "importance_rank": 3
                 }
             ],
             "number": 11,
@@ -7821,16 +7771,6 @@
                     "importance_rank": 3
                 },
                 {
-                    "name": "Mr. Bingley",
-                    "role": "Subject of Jane's affections and Caroline's schemes",
-                    "importance": 0.6,
-                    "emotion": "No direct quote available",
-                    "sentiment": 0.4,
-                    "quote": "No quote available",
-                    "fake_quote": "Mr. Bingley is portrayed as a man caught between his affections for Jane and the manipulations of his sister.",
-                    "importance_rank": 4
-                },
-                {
                     "name": "Mr. Darcy",
                     "role": "Mentioned as a point of contention between the sisters",
                     "importance": 0.5,
@@ -7838,7 +7778,7 @@
                     "sentiment": 0.3,
                     "quote": "No quote available",
                     "fake_quote": "Mr. Darcy is referenced as someone whose affections are being speculated upon, indicating his importance in the dynamics of the relationships.",
-                    "importance_rank": 5
+                    "importance_rank": 4
                 }
             ],
             "number": 4,

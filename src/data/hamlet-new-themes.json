@@ -23,7 +23,7 @@
                 "Polonius's House": 1
             },
             "characters": {
-                "Duty And Loyalty": 3,
+                "Duty And Loyalty": 2,
                 "Isolation And Fear": 1,
                 "Supernatural": 4,
                 "Skepticism": 1,
@@ -103,7 +103,7 @@
                 "Despair And Isolation": 1,
                 "Love": 2,
                 "Manipulation": 2,
-                "Theatricality": 6,
+                "Theatricality": 4,
                 "Ambition And Power": 1,
                 "Friendship": 3,
                 "Grief And Mourning": 2,
@@ -209,16 +209,6 @@
                     "quote": "'Tis bitter cold, And I am sick at heart.",
                     "fake_quote": "",
                     "importance_rank": 2
-                },
-                {
-                    "name": "Duty And Loyalty",
-                    "role": "The interaction between the sentinels shows a bond of friendship and support.",
-                    "importance": 0.6,
-                    "emotion": "Fellowship and Trust",
-                    "sentiment": 0.6,
-                    "quote": "Give you good night.",
-                    "fake_quote": "",
-                    "importance_rank": 3
                 }
             ],
             "number": 1,
@@ -1077,26 +1067,6 @@
                     "importance_rank": 1
                 },
                 {
-                    "name": "Theatricality",
-                    "role": "Hamlet critiques poor acting and its impact on the audience.",
-                    "importance": 0.8,
-                    "emotion": "Disappointment",
-                    "sentiment": -0.5,
-                    "quote": "O, it offends me to the soul to hear a robustious periwig-pated fellow tear a passion to tatters, to very rags, to split the ears of the groundlings.",
-                    "fake_quote": "",
-                    "importance_rank": 2
-                },
-                {
-                    "name": "Theatricality",
-                    "role": "Hamlet discusses the purpose of theatre and its reflection of reality.",
-                    "importance": 0.7,
-                    "emotion": "Reflective",
-                    "sentiment": 0.3,
-                    "quote": "the end, both at the first and now, was and is, to hold as 'twere the mirror up to nature;",
-                    "fake_quote": "",
-                    "importance_rank": 3
-                },
-                {
                     "name": "Ambition And Power",
                     "role": "Hamlet warns against the ambition of actors that detracts from the play.",
                     "importance": 0.6,
@@ -1104,7 +1074,7 @@
                     "sentiment": -0.4,
                     "quote": "that's villainous, and shows a most pitiful ambition in the fool that uses it.",
                     "fake_quote": "",
-                    "importance_rank": 4
+                    "importance_rank": 2
                 }
             ],
             "number": 5,

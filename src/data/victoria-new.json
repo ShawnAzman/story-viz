@@ -75,7 +75,7 @@
                 "Prince Leopold": 1,
                 "Princess Elizabeth": 1,
                 "Duke Of Cumberland": 1,
-                "Princess Victoria": 10,
+                "Princess Victoria": 9,
                 "Feodora": 2,
                 "Duke Of York": 2,
                 "Fraulein Lehzen": 2,
@@ -232,7 +232,7 @@
                 "Louis Philippe": 4,
                 "Guizot": 1,
                 "Prince Leopold": 1,
-                "Princess Victoria": 8,
+                "Princess Victoria": 7,
                 "Queen Of The French": 1,
                 "Prince": 1,
                 "Lord John Russell": 3,
@@ -1388,16 +1388,6 @@
                     "importance_rank": 1
                 },
                 {
-                    "name": "Princess Victoria",
-                    "role": "Observes the Princess's reaction",
-                    "importance": 0.7,
-                    "emotion": "Reflective and concerned",
-                    "sentiment": 0.3,
-                    "quote": "I cried much on learning it.",
-                    "fake_quote": "",
-                    "importance_rank": 2
-                },
-                {
                     "name": "Fraulein Lehzen",
                     "role": "Supportive figure during the lesson",
                     "importance": 0.4,
@@ -1405,7 +1395,7 @@
                     "sentiment": 0.0,
                     "quote": "No quote available",
                     "fake_quote": "Lehzen is present but does not speak, showing her support for the Princess.",
-                    "importance_rank": 3
+                    "importance_rank": 2
                 }
             ],
             "number": 10,
@@ -3906,16 +3896,6 @@
                     "quote": "No quote available",
                     "fake_quote": "Queen Isabella's potential marriage is seen as a significant political threat.",
                     "importance_rank": 3
-                },
-                {
-                    "name": "Princess Victoria",
-                    "role": "Reluctantly abandon thoughts of the match",
-                    "importance": 0.5,
-                    "emotion": "Conflicted",
-                    "sentiment": 0.0,
-                    "quote": "the wisdom of Stockmar had induced them to give up all thoughts of it",
-                    "fake_quote": "",
-                    "importance_rank": 4
                 }
             ],
             "number": 7,
