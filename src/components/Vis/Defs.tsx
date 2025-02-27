@@ -14,6 +14,7 @@ import {
 import { dataStore } from "../../stores/dataStore";
 import { positionStore } from "../../stores/positionStore";
 import chroma from "chroma-js";
+import { normalizeImportance } from "../../utils/helpers";
 
 function Defs() {
   const { characterColor } = storyStore();
@@ -144,15 +145,26 @@ function Defs() {
                 (c) => c.name === char.character
               ) as any);
 
+            const numCharsFirstScene =
+              scene_data[first_scene]?.characters.length;
             const emotion_val = firstScene?.rating as number;
-            const importance_val = firstScene?.importance as number;
+            let importance_val = firstScene?.importance as number;
+            importance_val = normalizeImportance(
+              importance_val,
+              numCharsFirstScene
+            );
             const emotion_color = chroma(emotionColor(emotion_val)).css();
             const importance_color = chroma(
               importanceColor(importance_val)
             ).css();
 
+            const numCharsLastScene = scene_data[last_scene]?.characters.length;
             const emotion_val2 = lastScene?.rating as number;
-            const importance_val2 = lastScene?.importance as number;
+            let importance_val2 = lastScene?.importance as number;
+            importance_val2 = normalizeImportance(
+              importance_val2,
+              numCharsLastScene
+            );
             const emotion_color2 = chroma(emotionColor(emotion_val2)).css();
             const importance_color2 = chroma(
               importanceColor(importance_val2)
@@ -222,8 +234,13 @@ function Defs() {
                   const char_data = scene_data[scene].characters.find(
                     (c) => c.name === char.character
                   ) as any;
+                  const numChars = scene_data[scene]?.characters.length;
                   const emotion_val = char_data?.rating as number;
-                  const importance_val = char_data?.importance as number;
+                  let importance_val = char_data?.importance as number;
+                  importance_val = normalizeImportance(
+                    importance_val,
+                    numChars
+                  );
                   const seg_emotion_color = chroma(
                     emotionColor(emotion_val)
                   ).css();

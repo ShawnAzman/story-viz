@@ -8,7 +8,7 @@ import {
   location_offset,
   scene_overlay_width,
 } from "../../utils/consts";
-import OverlayCurve from "../Vis/OverlayCurve";
+import OverlayHeatmap from "../Vis/OverlayHeatmap";
 import XAxis from "./XAxis";
 
 function XAxisSVG() {
@@ -105,7 +105,7 @@ function XAxisSVG() {
         }`} // Maintain your calculated dimensions here for correct scaling
         preserveAspectRatio="xMidYMid meet" // This helps in maintaining the aspect ratio>
       >
-        <OverlayCurve />
+        <OverlayHeatmap />
         <XAxis />
       </svg>
     </div>

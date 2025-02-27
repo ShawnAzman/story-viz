@@ -30,6 +30,12 @@ export const normalizeFontSize = (value: number) =>
 export const normalizeTextOffset = (value: number) =>
   normalize(value, 0, 1, 1, 2.2);
 
+export const normalizeImportance = (value: number, num_chars: number) => {
+  const min = 1 / num_chars;
+  const max = 1;
+  return normalize(value, min, max, 0, 1);
+};
+
 export const getFontFamily = (value: number) =>
   // value ranges from 0 to 1
   // assign font family based on value (lowest values should be assigned to `inherit`; middle values to `"Shantell Sans", cursive`; highest values to `"Gluten", cursive`)

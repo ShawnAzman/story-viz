@@ -12,7 +12,7 @@ import {
 import chroma from "chroma-js";
 import { activeAttrInScene, normalize } from "../../utils/helpers";
 
-function OverlayCurve() {
+function OverlayHeatmap() {
   const {
     showOverlay,
     sceneHover,
@@ -155,4 +155,4 @@ function OverlayCurve() {
   );
 }
 
-export default OverlayCurve;
+export default OverlayHeatmap;

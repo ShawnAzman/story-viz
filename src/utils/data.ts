@@ -4,7 +4,7 @@
 //     - chunk_size (number): maximum number of characters in each chunk
 
 import { getColor } from "./colors";
-import { extractChapterName, normalize } from "./helpers";
+import { extractChapterName } from "./helpers";
 
 // O:  - (array): array of chunks
 const chunkQuote = (quote: string, chunk_size: number) => {
@@ -177,9 +177,9 @@ const chapter_data = (all_data: any): Chapter[] => {
 const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
   let data = all_data["scenes"];
 
-  const max_characters_per_scene = Math.max(
-    ...data.map((scene: any) => scene.characters.length)
-  );
+  // const max_characters_per_scene = Math.max(
+  //   ...data.map((scene: any) => scene.characters.length)
+  // );
 
   data.forEach((scene: any, i: number) => {
     // fix data inconsistencies
@@ -232,7 +232,7 @@ const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
     const all_sentiments = [] as number[];
 
     characters.forEach((character: any) => {
-      // replace importance rating for each character in scene.characters with 1 / rating
+      // replace importance rating for each character in scene.characters with 1 / num_characters
       character.importance_rank = character.importance_rank
         ? character.importance_rank
         : character.importance >= 1
@@ -240,9 +240,7 @@ const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
         : character.importance * num_characters;
       // if (!character.importance || character.importance > 1) {
       character.importance =
-        (max_characters_per_scene + 1 - character.importance_rank) /
-        max_characters_per_scene;
-      // }
+        (num_characters - (character.importance_rank - 1)) / num_characters;
       character.rating = character.rating
         ? character.rating
         : character.sentiment
@@ -290,9 +288,9 @@ const chapter_scene_data = (
   scenes: Scene[]
 ): Scene[] => {
   const chapter_scenes = [] as Scene[];
-  const max_characters_per_chapter = Math.max(
-    ...chapter_data.map((chapter) => Object.keys(chapter.characters).length)
-  );
+  // const max_characters_per_chapter = Math.max(
+  //   ...chapter_data.map((chapter) => Object.keys(chapter.characters).length)
+  // );
   chapter_data.forEach((chapter, i) => {
     const new_scene = {} as Scene;
     new_scene.number = i + 1;
@@ -396,8 +394,7 @@ const chapter_scene_data = (
     });
 
     new_scene.characters = sorted_chars.map((char, i) => {
-      const imp =
-        (max_characters_per_chapter + 1 - (i + 1)) / max_characters_per_chapter;
+      const imp = (sorted_chars.length + 1 - (i + 1)) / sorted_chars.length;
       return {
         name: char,
         importance: imp,

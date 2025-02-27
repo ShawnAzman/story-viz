@@ -13,6 +13,7 @@ import { positionStore } from "../../stores/positionStore";
 import {
   activeAttrInScene,
   charHasAttr,
+  normalizeImportance,
   normalizeMarkerSize,
 } from "../../utils/helpers";
 import chroma from "chroma-js";
@@ -306,8 +307,13 @@ function MainPlot() {
                     const char_data = scene_data[scene].characters.find(
                       (c) => c.name === character.character
                     ) as any;
+                    const numChars = scene_data[scene]?.characters.length;
                     const emotion_val = char_data?.rating as number;
-                    const importance_val = char_data?.importance as number;
+                    let importance_val = char_data?.importance as number;
+                    importance_val = normalizeImportance(
+                      importance_val,
+                      numChars
+                    );
                     const emotion_color = chroma(
                       emotionColor(emotion_val)
                     ).css();
