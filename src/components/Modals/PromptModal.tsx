@@ -79,8 +79,15 @@ function PromptModal() {
       // Update character_data with new attributes
       const new_char_data = character_data.map((char) => {
         const c = char_attrs.find((c: any) => c.character === char.character);
-        const char_val = c?.val;
-        const char_exp = c?.exp;
+        let char_val = c?.val;
+        let char_exp = c?.exp;
+
+        if (!char_val) {
+          char_val = "n/a";
+        }
+        if (!char_exp) {
+          char_exp = "No explanation provided.";
+        }
 
         const new_attr = { [color_lower]: { val: char_val, exp: char_exp } };
         return {
@@ -93,8 +100,15 @@ function PromptModal() {
       // Update sorted characters
       const new_sorted_chars = sortedCharacters.map((char) => {
         const c = char_attrs.find((c: any) => c.character === char.character);
-        const char_val = c?.val;
-        const char_exp = c?.exp;
+        let char_val = c?.val;
+        let char_exp = c?.exp;
+
+        if (!char_val) {
+          char_val = "n/a";
+        }
+        if (!char_exp) {
+          char_exp = "No explanation provided.";
+        }
 
         const new_attr = { [color_lower]: { val: char_val, exp: char_exp } };
         return {
