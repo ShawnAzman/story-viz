@@ -40,80 +40,80 @@
         {
           "source": "Nick Carraway",
           "target": "Jay Gatsby",
-          "value": 6,
-          "interaction": "Nick sees Gatsby for the first time at night, marking a significant moment in their relationship."
+          "value": 3,
+          "interaction": "Nick reflects on his life and decisions, leading to his first encounter with Gatsby, which sets the stage for their complex relationship."
         },
         {
           "source": "Nick Carraway",
           "target": "Nick's Father",
-          "value": 2,
-          "interaction": "Nick reflects on his father's advice about criticism, indicating the influence of his father's values on his perspective."
+          "value": 1,
+          "interaction": "Nick recalls his father's advice about withholding judgment, which influences his perspective on the people he meets in the East."
         },
         {
           "source": "Nick Carraway",
           "target": "Nick's Aunts And Uncles",
-          "value": 2,
-          "interaction": "Nick shares his family's history and upbringing, highlighting the role of his relatives in shaping his character."
+          "value": 1,
+          "interaction": "Nick shares his family background, highlighting the contrast between his Midwestern upbringing and the East's opulence."
         },
         {
           "source": "Nick's Father",
           "target": "Nick's Aunts And Uncles",
-          "value": 2,
-          "interaction": "There is no direct interaction, but Nick reflects on the influence of both his father and relatives in his life."
+          "value": 1,
+          "interaction": "Nick's family background is established, showing the values instilled in him by his father and relatives."
         },
         {
           "source": "Tom Buchanan",
           "target": "Daisy Buchanan",
-          "value": 10,
-          "interaction": "Tom and Daisy engage in conversation during dinner, revealing their complex relationship and dynamics."
+          "value": 5,
+          "interaction": "Tom and Daisy's relationship is explored during dinner, revealing tension and underlying issues in their marriage."
         },
         {
           "source": "Tom Buchanan",
           "target": "Nick Carraway",
-          "value": 8,
-          "interaction": "Tom discusses various topics with Nick during dinner, showcasing his character and attitudes."
+          "value": 4,
+          "interaction": "Tom's character is revealed through his interactions with Nick, showcasing his arrogance and sense of superiority."
         },
         {
           "source": "Tom Buchanan",
           "target": "Stranger Girl",
-          "value": 2,
-          "interaction": "Tom's interaction with the Stranger Girl is not detailed, but it suggests his social nature and possible flirtations."
+          "value": 1,
+          "interaction": "Tom's dismissive attitude towards others, including the 'Stranger Girl,' reflects his entitlement and privilege."
         },
         {
           "source": "Daisy Buchanan",
           "target": "Stranger Girl",
-          "value": 2,
-          "interaction": "Daisy's interaction with the Stranger Girl is not explicitly described, but it hints at the social circles they navigate."
+          "value": 1,
+          "interaction": "Daisy's conversation hints at her insecurities and the superficiality of her social circle, including her views on the 'Stranger Girl'."
         },
         {
           "source": "Daisy Buchanan",
           "target": "Jordan Baker",
-          "value": 4,
-          "interaction": "Daisy and Jordan engage in conversation, reflecting their friendship and shared experiences."
+          "value": 2,
+          "interaction": "Daisy and Jordan's friendship is highlighted, showcasing their shared experiences and differing perspectives on life."
         },
         {
           "source": "Tom Buchanan",
           "target": "Jordan Baker",
-          "value": 4,
-          "interaction": "Tom and Jordan interact during dinner, indicating the social dynamics at play."
+          "value": 2,
+          "interaction": "Tom's interactions with Jordan reveal his disdain for her independence and the changing social dynamics."
         },
         {
           "source": "Daisy Buchanan",
           "target": "Nick Carraway",
-          "value": 6,
-          "interaction": "Daisy questions Nick about rumors of his engagement, revealing her curiosity and concern."
+          "value": 3,
+          "interaction": "Daisy's openness with Nick about her life and feelings creates a bond, contrasting with her guardedness around Tom."
         },
         {
           "source": "Jordan Baker",
           "target": "Nick Carraway",
-          "value": 2,
-          "interaction": "Jordan engages Nick in conversation, hinting at a budding connection between them."
+          "value": 1,
+          "interaction": "Jordan's flirtation with Nick introduces romantic tension and foreshadows their evolving relationship."
         },
         {
           "source": "Tom Buchanan",
           "target": "Jay Gatsby",
-          "value": 2,
-          "interaction": "Tom's attitude towards Gatsby is not directly shown in this chapter, but their impending conflict is foreshadowed."
+          "value": 1,
+          "interaction": "Tom's disdain for Gatsby becomes evident, setting up the conflict between the two characters as the story progresses."
         }
       ],
       "importance_rank": 8,
@@ -148,98 +148,98 @@
         {
           "source": "Doctor T. J. Eckleburg",
           "target": "Ash-grey Men",
-          "value": 2,
-          "interaction": "The desolate valley of ashes is described, symbolizing the moral decay of society, with Doctor Eckleburg's eyes watching over it."
+          "value": 1,
+          "interaction": "The desolate valley of ashes, where Doctor T. J. Eckleburg's eyes watch over, symbolizes the moral decay of society, represented by the ash-grey men."
         },
         {
           "source": "Tom Buchanan",
           "target": "Nick Carraway",
-          "value": 4,
-          "interaction": "Tom and Nick travel together to George Wilson's garage, discussing their lives and the situation with Myrtle."
+          "value": 2,
+          "interaction": "Tom's arrogance and entitlement are highlighted in his interactions with Nick, showcasing the class divide and Tom's disdain for those he considers beneath him."
         },
         {
           "source": "Tom Buchanan",
           "target": "George Wilson",
-          "value": 6,
-          "interaction": "Tom visits George Wilson's garage, where they have a brief interaction regarding Myrtle."
+          "value": 3,
+          "interaction": "Tom's condescending attitude towards George Wilson emphasizes the power dynamics and class disparity, as Tom views George as inferior."
         },
         {
           "source": "Tom Buchanan",
           "target": "Myrtle Wilson",
-          "value": 6,
-          "interaction": "Tom and Myrtle's relationship is highlighted as they travel to New York, showcasing their affair."
+          "value": 3,
+          "interaction": "Tom's relationship with Myrtle is marked by dominance and control, as he uses her for his own pleasure while disregarding her feelings."
         },
         {
           "source": "George Wilson",
           "target": "Myrtle Wilson",
-          "value": 2,
-          "interaction": "George is unaware of Myrtle's affair with Tom, creating tension in their marriage."
+          "value": 1,
+          "interaction": "George's love for Myrtle contrasts with her infidelity, highlighting the tragic nature of their relationship and George's eventual despair."
         },
         {
           "source": "Tom Buchanan",
           "target": "Doctor T. J. Eckleburg",
-          "value": 2,
-          "interaction": "Tom's actions and attitudes reflect the moral blindness symbolized by Doctor Eckleburg's eyes."
+          "value": 1,
+          "interaction": "Tom's disregard for the moral implications represented by Doctor Eckleburg's eyes reflects his own moral decay and lack of accountability."
         },
         {
           "source": "Doctor T. J. Eckleburg",
           "target": "Myrtle Wilson",
-          "value": 2,
-          "interaction": "Myrtle's life choices are observed under the watchful eyes of Doctor Eckleburg, symbolizing judgment."
+          "value": 1,
+          "interaction": "Myrtle's life choices and her pursuit of wealth and status are overshadowed by the watchful eyes of Doctor Eckleburg, symbolizing the emptiness of her aspirations."
         },
         {
           "source": "George Wilson",
           "target": "Grey Old Man",
-          "value": 2,
-          "interaction": "George interacts with the Grey Old Man, possibly representing the despair and hopelessness in his life."
+          "value": 1,
+          "interaction": "George's despair is mirrored in the presence of the grey old man, representing the hopelessness and decay of the valley of ashes."
         },
         {
           "source": "Tom Buchanan",
           "target": "Grey Old Man",
-          "value": 2,
-          "interaction": "Tom's presence contrasts with the Grey Old Man, highlighting the disparity between their lives."
+          "value": 1,
+          "interaction": "Tom's arrogance stands in stark contrast to the grey old man, highlighting the divide between the wealthy and the downtrodden."
         },
         {
           "source": "Myrtle Wilson",
           "target": "Nick Carraway",
-          "value": 2,
-          "interaction": "Myrtle interacts with Nick at the party, revealing her dissatisfaction with her life."
+          "value": 1,
+          "interaction": "Myrtle's attempts to impress Nick reveal her desperation for a better life, showcasing her dissatisfaction with her current situation."
         },
         {
           "source": "Catherine",
           "target": "Mr. Mckee",
-          "value": 2,
-          "interaction": "Catherine and Mr. Mckee are part of the social scene at Myrtle's apartment, mingling with guests."
+          "value": 1,
+          "interaction": "Catherine's flirtation with Mr. Mckee at the party illustrates the superficiality of the social interactions among the guests."
         },
         {
           "source": "Catherine",
           "target": "George Wilson",
-          "value": 2,
-          "interaction": "Catherine's relationship with George is strained, as she is aware of Myrtle's affair."
+          "value": 1,
+          "interaction": "Catherine's relationship with George is distant, emphasizing her desire to escape her current life and her lack of loyalty to him."
         },
         {
           "source": "Mr. Mckee",
           "target": "George Wilson",
-          "value": 4,
-          "interaction": "Mr. Mckee interacts with George, possibly discussing Myrtle and the dynamics of their relationships."
+          "value": 2,
+          "interaction": "Mr. Mckee's presence at the party contrasts with George's absence, highlighting the social divide between the characters."
         },
         {
           "source": "Myrtle Wilson",
           "target": "Catherine",
-          "value": 2,
-          "interaction": "Myrtle and Catherine share a bond over their experiences, both being involved in the same social circle."
+          "value": 1,
+          "interaction": "Myrtle and Catherine's friendship is based on their shared desire for a more glamorous life, despite the emptiness it brings."
         },
         {
           "source": "Tom Buchanan",
           "target": "Mr. Mckee",
-          "value": 2,
-          "interaction": "Tom's presence at the party creates tension, as he is dominant and assertive compared to Mr. Mckee."
+          "value": 1,
+          "interaction": "Tom's disdain for Mr. Mckee reflects his superiority complex and the social hierarchy present at the party."
         },
         {
           "source": "Mr. Mckee",
           "target": "Nick Carraway",
-          "value": 2,
-          "interaction": "Mr. Mckee interacts with Nick during the party, contributing to the chaotic atmosphere."
+          "value": 1,
+          "interaction": "Mr. Mckee's interactions with Nick reveal the superficial nature of the social scene, as Nick observes the chaos around him."
         }
       ],
       "importance_rank": 9,
@@ -268,62 +268,62 @@
         {
           "source": "Jay Gatsby",
           "target": "Nick Carraway",
-          "value": 2,
-          "interaction": "Nick observes Gatsby's extravagant parties and reflects on Gatsby's mysterious persona, deepening their friendship."
+          "value": 1,
+          "interaction": "Nick observes Gatsby's lavish parties and begins to understand the complexity of Gatsby's character, contrasting his wealth with his loneliness."
         },
         {
           "source": "Jay Gatsby",
           "target": "Jordan Baker",
-          "value": 2,
-          "interaction": "Gatsby and Jordan share a moment at the party, hinting at their mutual understanding of the social elite and their secrets."
+          "value": 1,
+          "interaction": "Jordan, as a socialite, navigates Gatsby's parties with ease, representing the allure and superficiality of the elite society that Gatsby seeks to impress."
         },
         {
           "source": "Jay Gatsby",
           "target": "Owl Eyes",
-          "value": 2,
-          "interaction": "Owl Eyes expresses fascination with Gatsby's lavish lifestyle, questioning the authenticity of the parties and Gatsby's wealth."
+          "value": 1,
+          "interaction": "Owl Eyes, intrigued by Gatsby's extravagant lifestyle, symbolizes the outsider's perspective on Gatsby's wealth and the mystery surrounding his persona."
         },
         {
           "source": "Jay Gatsby",
           "target": "Lucille",
-          "value": 2,
-          "interaction": "Gatsby interacts with Lucille during the party, showcasing his charm and the allure of his social gatherings."
+          "value": 1,
+          "interaction": "Lucille, a party-goer, embodies the hedonistic enjoyment of Gatsby's parties, highlighting the transient nature of the relationships formed in such an environment."
         },
         {
           "source": "Nick Carraway",
           "target": "Jordan Baker",
-          "value": 4,
-          "interaction": "Nick and Jordan engage in conversation about Gatsby and the nature of the parties, revealing their growing connection."
+          "value": 2,
+          "interaction": "Nick's growing attraction to Jordan reflects his internal conflict between the allure of the glamorous lifestyle and his moral compass."
         },
         {
           "source": "Nick Carraway",
           "target": "Owl Eyes",
-          "value": 2,
-          "interaction": "Nick and Owl Eyes discuss the spectacle of Gatsby's parties, sharing insights about the guests and the atmosphere."
+          "value": 1,
+          "interaction": "Owl Eyes provides a critical viewpoint on the superficiality of Gatsby's parties, prompting Nick to reflect on the authenticity of the people around him."
         },
         {
           "source": "Nick Carraway",
           "target": "Lucille",
-          "value": 2,
-          "interaction": "Nick observes Lucille enjoying the party, reflecting on the carefree nature of the guests and their indulgences."
+          "value": 1,
+          "interaction": "Lucille's presence at the parties illustrates the fleeting connections Nick observes, reinforcing his sense of isolation amidst the revelry."
         },
         {
           "source": "Jordan Baker",
           "target": "Owl Eyes",
-          "value": 2,
-          "interaction": "Jordan and Owl Eyes exchange thoughts on Gatsby's parties, both intrigued by the opulence and the people attending."
+          "value": 1,
+          "interaction": "Jordan and Owl Eyes share a mutual understanding of the superficiality of the social scene, yet they engage with it differently, highlighting their contrasting attitudes."
         },
         {
           "source": "Jordan Baker",
           "target": "Lucille",
-          "value": 2,
-          "interaction": "Jordan and Lucille chat at the party, bonding over their experiences in the social scene and their views on Gatsby."
+          "value": 1,
+          "interaction": "Both women navigate the party scene, but while Jordan is more cynical, Lucille embodies the carefree spirit of the era, showcasing different responses to the same environment."
         },
         {
           "source": "Owl Eyes",
           "target": "Lucille",
-          "value": 2,
-          "interaction": "Owl Eyes and Lucille discuss the extravagance of the party, with Owl Eyes expressing skepticism about Gatsby's wealth."
+          "value": 1,
+          "interaction": "Owl Eyes critiques the extravagance of the parties, while Lucille revels in it, representing the dichotomy between observation and participation in the social elite."
         }
       ],
       "importance_rank": 3,
@@ -355,80 +355,80 @@
         {
           "source": "Jay Gatsby",
           "target": "Nick Carraway",
-          "value": 10,
-          "interaction": "Gatsby arrives at Nick's house to invite him to lunch, and they drive to the city together discussing Gatsby's past."
+          "value": 5,
+          "interaction": "Gatsby invites Nick to lunch, showcasing their growing friendship and Gatsby's desire to share his world with Nick."
         },
         {
           "source": "Jay Gatsby",
           "target": "Young Ladies",
-          "value": 2,
-          "interaction": "Gatsby interacts with the young ladies at his party, showcasing his charm and wealth."
+          "value": 1,
+          "interaction": "Gatsby's lavish parties attract young ladies, highlighting his wealth and the superficial nature of his social interactions."
         },
         {
           "source": "Nick Carraway",
           "target": "Young Ladies",
-          "value": 2,
-          "interaction": "Nick observes the young ladies at Gatsby's party, noting their behavior and interactions."
+          "value": 1,
+          "interaction": "Nick observes the young ladies at Gatsby's party, reflecting on their allure and the emptiness of their pursuits."
         },
         {
           "source": "Jay Gatsby",
           "target": "Jordan Baker",
-          "value": 6,
-          "interaction": "Gatsby and Jordan converse about Gatsby's feelings for Daisy and his desire to reconnect with her."
+          "value": 3,
+          "interaction": "Gatsby and Jordan share a connection through their mutual acquaintance with Daisy, as Jordan reveals Gatsby's past with her."
         },
         {
           "source": "Nick Carraway",
           "target": "Jordan Baker",
-          "value": 4,
-          "interaction": "Nick speaks with Jordan about Gatsby's past and his intentions regarding Daisy."
+          "value": 2,
+          "interaction": "Nick's interactions with Jordan deepen as they discuss Gatsby and Daisy, revealing Nick's growing interest in both characters."
         },
         {
           "source": "Jay Gatsby",
           "target": "Meyer Wolfshiem",
-          "value": 2,
-          "interaction": "Gatsby introduces Nick to Wolfshiem during their lunch, revealing Wolfshiem's connections."
+          "value": 1,
+          "interaction": "Gatsby introduces Nick to Wolfshiem, hinting at Gatsby's questionable connections and the darker side of his wealth."
         },
         {
           "source": "Jay Gatsby",
           "target": "Tom Buchanan",
-          "value": 2,
-          "interaction": "Gatsby and Tom have a tense interaction, as Tom is suspicious of Gatsby's wealth and intentions."
+          "value": 1,
+          "interaction": "Gatsby's past with Daisy creates tension with Tom, foreshadowing future conflicts between them."
         },
         {
           "source": "Meyer Wolfshiem",
           "target": "Nick Carraway",
-          "value": 2,
-          "interaction": "Wolfshiem shares insights about Gatsby's character and their business dealings during lunch."
+          "value": 1,
+          "interaction": "Wolfshiem's presence at lunch introduces Nick to the underworld of Gatsby's life, contrasting with Nick's more traditional values."
         },
         {
           "source": "Meyer Wolfshiem",
           "target": "Tom Buchanan",
-          "value": 2,
-          "interaction": "Wolfshiem and Tom do not interact directly in this chapter, but their presence creates tension regarding Gatsby."
+          "value": 1,
+          "interaction": "Both characters represent different aspects of wealth and power, with Wolfshiem's shady dealings contrasting with Tom's old-money status."
         },
         {
           "source": "Nick Carraway",
           "target": "Tom Buchanan",
-          "value": 2,
-          "interaction": "Nick observes Tom's disdain for Gatsby and his protective nature over Daisy."
+          "value": 1,
+          "interaction": "Nick's observations of Tom reveal the latter's arrogance and entitlement, setting the stage for the conflict with Gatsby."
         },
         {
           "source": "Jordan Baker",
           "target": "Daisy Buchanan",
-          "value": 4,
-          "interaction": "Jordan recounts to Nick the history between Daisy and Gatsby, revealing Daisy's feelings."
+          "value": 2,
+          "interaction": "Jordan's recounting of Daisy and Gatsby's past highlights the emotional stakes involved and the impact of their history."
         },
         {
           "source": "Daisy Buchanan",
           "target": "Jay Gatsby",
-          "value": 4,
-          "interaction": "Daisy's feelings for Gatsby are explored through Jordan's recounting of their past."
+          "value": 2,
+          "interaction": "Daisy's feelings for Gatsby are reignited through Jordan's revelations, emphasizing the central love story of the narrative."
         },
         {
           "source": "Nick Carraway",
           "target": "Daisy Buchanan",
-          "value": 2,
-          "interaction": "Nick speaks with Daisy about her past with Gatsby, facilitating the connection between them."
+          "value": 1,
+          "interaction": "Nick acts as a bridge between Daisy and Gatsby, facilitating their reunion and revealing his own feelings about their relationship."
         }
       ],
       "importance_rank": 5,
@@ -439,7 +439,7 @@
       "scenes": 9,
       "length": 27465,
       "num_lines": 416,
-      "summary": "The chapter depicts the tense reunion of Gatsby and Daisy at the narrator's house, where Gatsby's nervousness and wealth are highlighted amidst a backdrop of rain.",
+      "summary": "The chapter depicts the tense reunion of Gatsby and Daisy at the narrator's house, filled with nervous excitement and the weight of their past.",
       "importance": 0.82,
       "conflict": 0.42,
       "locations": {
@@ -457,38 +457,38 @@
         {
           "source": "Jay Gatsby",
           "target": "Nick Carraway",
-          "value": 18,
-          "interaction": "Gatsby arrives nervously at Nick's house as preparations for tea with Daisy begin, indicating his anxiety about the reunion."
+          "value": 9,
+          "interaction": "Nick serves as the narrator and facilitator for Gatsby's reunion with Daisy, showcasing Gatsby's nervousness and anticipation."
         },
         {
           "source": "Nick Carraway",
           "target": "Daisy Buchanan",
-          "value": 14,
-          "interaction": "Nick invites Daisy over for tea, facilitating the meeting between her and Gatsby, and observes her excitement and nervousness."
+          "value": 7,
+          "interaction": "Nick invites Daisy for tea, setting the stage for her emotional reunion with Gatsby, highlighting his role as a bridge between them."
         },
         {
           "source": "Daisy Buchanan",
           "target": "Jay Gatsby",
-          "value": 14,
-          "interaction": "Daisy and Gatsby meet again after years apart, sharing a tense and emotional moment as they reconnect over tea."
+          "value": 7,
+          "interaction": "Daisy and Gatsby's reunion is filled with tension and nostalgia, as they navigate their past feelings amidst the opulence of Gatsby's wealth."
         },
         {
           "source": "Jay Gatsby",
           "target": "Mr. Klipspringer",
-          "value": 4,
-          "interaction": "Gatsby invites Klipspringer to play music for him and Daisy, attempting to create a romantic atmosphere."
+          "value": 2,
+          "interaction": "Gatsby invites Klipspringer to play music, attempting to create a romantic atmosphere for his reunion with Daisy, showcasing his desire to impress her."
         },
         {
           "source": "Daisy Buchanan",
           "target": "Mr. Klipspringer",
-          "value": 4,
-          "interaction": "Daisy interacts with Klipspringer when he plays music, but her focus remains on Gatsby, highlighting her emotional state."
+          "value": 2,
+          "interaction": "Daisy's presence prompts Klipspringer to perform, indicating her influence on the dynamics of Gatsby's social circle."
         },
         {
           "source": "Nick Carraway",
           "target": "Mr. Klipspringer",
-          "value": 4,
-          "interaction": "Nick observes Klipspringer's presence and music performance, noting the awkwardness of the situation as Gatsby and Daisy reconnect."
+          "value": 2,
+          "interaction": "Nick observes Klipspringer's role in the gathering, reflecting on the superficiality of Gatsby's parties and the people who attend."
         }
       ],
       "importance_rank": 4,
@@ -499,7 +499,7 @@
       "scenes": 6,
       "length": 26571,
       "num_lines": 398,
-      "summary": "The chapter explores Gatsby's past and transformation, highlights the tension between Tom and Gatsby during a party, and deepens the connection between Gatsby and Nick regarding Daisy.",
+      "summary": "The chapter explores Gatsby's past and transformation, highlights the tension between Tom and Gatsby, and showcases the dynamics at Gatsby's party with Daisy and Nick.",
       "importance": 0.78,
       "conflict": 0.48,
       "locations": {
@@ -521,80 +521,80 @@
         {
           "source": "Jay Gatsby",
           "target": "Ambitious Young Reporter",
-          "value": 2,
-          "interaction": "The reporter arrives at Gatsby's house, likely seeking to uncover the truth about Gatsby's mysterious persona."
+          "value": 1,
+          "interaction": "The reporter arrives at Gatsby's house, highlighting Gatsby's fame and the public's fascination with his life."
         },
         {
           "source": "Jay Gatsby",
           "target": "Dan Cody",
-          "value": 2,
-          "interaction": "Gatsby reflects on his past with Dan Cody, who played a significant role in shaping his ambitions and lifestyle."
+          "value": 1,
+          "interaction": "Gatsby's transformation from James Gatz to Jay Gatsby is influenced by his experiences with Dan Cody, showcasing his ambition and desire for wealth."
         },
         {
           "source": "Jay Gatsby",
           "target": "Nick Carraway",
-          "value": 6,
-          "interaction": "Gatsby shares details of his past with Nick, revealing his transformation from James Gatz to Jay Gatsby."
+          "value": 3,
+          "interaction": "Gatsby shares his past with Nick, revealing his motivations and the depth of his character."
         },
         {
           "source": "Jay Gatsby",
           "target": "Tom Buchanan",
-          "value": 6,
+          "value": 3,
           "interaction": "Tom arrives at Gatsby's house, creating tension as he represents the old money class that Gatsby aspires to join."
         },
         {
           "source": "Jay Gatsby",
           "target": "Mr. Sloane",
-          "value": 2,
-          "interaction": "Mr. Sloane visits Gatsby's party, highlighting the social divide and Gatsby's attempts to fit into elite circles."
+          "value": 1,
+          "interaction": "Mr. Sloane's presence at Gatsby's party emphasizes the social dynamics and class distinctions in the story."
         },
         {
           "source": "Jay Gatsby",
           "target": "The Woman (daisy)",
-          "value": 2,
-          "interaction": "Gatsby's feelings for Daisy are central to the chapter, as he hopes to rekindle their past romance."
+          "value": 1,
+          "interaction": "Gatsby's longing for Daisy is central to his character, and his discussions with Nick reveal his deep feelings for her."
         },
         {
           "source": "Tom Buchanan",
           "target": "Mr. Sloane",
-          "value": 2,
-          "interaction": "Tom interacts with Mr. Sloane at Gatsby's party, showcasing his disdain for Gatsby's social status."
+          "value": 1,
+          "interaction": "Tom's interaction with Mr. Sloane at Gatsby's party highlights the elitism and social hierarchy among the characters."
         },
         {
           "source": "Tom Buchanan",
           "target": "The Woman (daisy)",
-          "value": 2,
-          "interaction": "Tom and Daisy attend Gatsby's party together, revealing the complexities of their relationship."
+          "value": 1,
+          "interaction": "Tom's relationship with Daisy is strained, as he represents the oppressive force against her desires."
         },
         {
           "source": "Mr. Sloane",
           "target": "The Woman (daisy)",
-          "value": 2,
-          "interaction": "Mr. Sloane's presence at the party with Daisy highlights the social dynamics and tensions among the characters."
+          "value": 1,
+          "interaction": "Mr. Sloane's interest in Daisy adds complexity to her character and the social dynamics at play."
         },
         {
           "source": "Tom Buchanan",
           "target": "Daisy Buchanan",
-          "value": 4,
-          "interaction": "Tom's relationship with Daisy is strained as they navigate their feelings amidst Gatsby's presence."
+          "value": 2,
+          "interaction": "Tom's controlling nature over Daisy is evident, showcasing the power imbalance in their relationship."
         },
         {
           "source": "Tom Buchanan",
           "target": "Nick Carraway",
-          "value": 4,
-          "interaction": "Tom interacts with Nick, showcasing his arrogance and the underlying tension between the characters."
+          "value": 2,
+          "interaction": "Tom's interactions with Nick reveal his arrogance and disdain for those he considers beneath him."
         },
         {
           "source": "Daisy Buchanan",
           "target": "Jay Gatsby",
-          "value": 4,
-          "interaction": "Daisy's interactions with Gatsby are filled with nostalgia and tension as they confront their past."
+          "value": 2,
+          "interaction": "Daisy's feelings for Gatsby are complicated by her marriage to Tom, creating a central conflict in the narrative."
         },
         {
           "source": "Daisy Buchanan",
           "target": "Nick Carraway",
-          "value": 4,
-          "interaction": "Daisy confides in Nick, revealing her feelings and the complexities of her relationship with Gatsby."
+          "value": 2,
+          "interaction": "Daisy confides in Nick, revealing her vulnerabilities and the pressures she faces in her life."
         }
       ],
       "importance_rank": 7,
@@ -630,134 +630,134 @@
         {
           "source": "Nick Carraway",
           "target": "Unfamiliar Butler",
-          "value": 2,
-          "interaction": "Nick encounters the unfamiliar butler at Gatsby's house, who informs him about Gatsby's situation."
+          "value": 1,
+          "interaction": "Nick's visit to Gatsby's house highlights the unfamiliarity of Gatsby's world, as he interacts with the butler who represents the opulence and mystery surrounding Gatsby."
         },
         {
           "source": "Jay Gatsby",
           "target": "Nick Carraway",
-          "value": 6,
-          "interaction": "Gatsby confides in Nick about his reasons for firing his servants, revealing his desire for privacy."
+          "value": 3,
+          "interaction": "Gatsby confides in Nick about his reasons for firing his servants, showcasing their growing friendship and Nick's role as Gatsby's confidant."
         },
         {
           "source": "Jay Gatsby",
           "target": "Daisy Buchanan",
-          "value": 10,
-          "interaction": "Gatsby and Daisy share a tense yet emotional reunion, highlighting their past relationship."
+          "value": 5,
+          "interaction": "Gatsby's longing for Daisy is evident as they interact during lunch, revealing the tension and unresolved feelings between them."
         },
         {
           "source": "Nick Carraway",
           "target": "Daisy Buchanan",
-          "value": 6,
-          "interaction": "Nick observes Daisy's frustrations during lunch, noting her discomfort with the heat and the tension."
+          "value": 3,
+          "interaction": "Nick observes the dynamics between Daisy and Gatsby, feeling the weight of their past relationship and Daisy's frustrations."
         },
         {
           "source": "Conductor",
           "target": "Unfamiliar Butler",
-          "value": 2,
-          "interaction": "The conductor and the butler have a brief interaction, likely discussing logistics related to the party."
+          "value": 1,
+          "interaction": "The conductor's presence at the train station contrasts with the butler's role at Gatsby's house, emphasizing the different social spheres the characters inhabit."
         },
         {
           "source": "Daisy Buchanan",
           "target": "Jordan Baker",
-          "value": 6,
-          "interaction": "Daisy and Jordan share whispers during lunch, indicating a close friendship and shared secrets."
+          "value": 3,
+          "interaction": "Daisy and Jordan's conversation during lunch reveals their shared history and the underlying tensions in their friendship."
         },
         {
           "source": "Daisy Buchanan",
           "target": "Tom Buchanan",
-          "value": 8,
-          "interaction": "Daisy and Tom engage in a tense conversation during lunch, revealing underlying issues in their marriage."
+          "value": 4,
+          "interaction": "The tension between Daisy and Tom escalates during lunch, highlighting their troubled marriage and Tom's dominance."
         },
         {
           "source": "Jordan Baker",
           "target": "Tom Buchanan",
-          "value": 6,
-          "interaction": "Jordan and Tom exchange remarks, with Jordan often challenging Tom's views."
+          "value": 3,
+          "interaction": "Jordan's interactions with Tom reveal her awareness of his controlling nature and the strain in his relationship with Daisy."
         },
         {
           "source": "Jordan Baker",
           "target": "Jay Gatsby",
-          "value": 6,
-          "interaction": "Jordan and Gatsby share glances and subtle interactions, hinting at their mutual understanding."
+          "value": 3,
+          "interaction": "Jordan's knowledge of Gatsby's past with Daisy creates a connection between her and Gatsby, as she navigates the complexities of their relationships."
         },
         {
           "source": "Tom Buchanan",
           "target": "Jay Gatsby",
-          "value": 10,
-          "interaction": "Tom confronts Gatsby about his background and wealth, leading to a heated discussion."
+          "value": 5,
+          "interaction": "The confrontation between Tom and Gatsby over their properties reveals their rivalry and differing values."
         },
         {
           "source": "Tom Buchanan",
           "target": "Nick Carraway",
-          "value": 4,
-          "interaction": "Tom speaks to Nick with a sense of superiority, revealing his dismissive attitude."
+          "value": 2,
+          "interaction": "Tom's dismissive attitude towards Nick during lunch highlights Tom's arrogance and sense of superiority."
         },
         {
           "source": "Tom Buchanan",
           "target": "George Wilson",
-          "value": 4,
-          "interaction": "Tom interacts with George at the gas station, showing a lack of empathy towards him."
+          "value": 2,
+          "interaction": "Tom's interactions with George at the gas station reveal his callousness and the power dynamics at play."
         },
         {
           "source": "Tom Buchanan",
           "target": "Myrtle Wilson",
-          "value": 4,
-          "interaction": "Tom and Myrtle's relationship is strained, with Tom displaying dominance over her."
+          "value": 2,
+          "interaction": "Tom's relationship with Myrtle is marked by control and manipulation, culminating in the tragic events that follow."
         },
         {
           "source": "George Wilson",
           "target": "Myrtle Wilson",
-          "value": 4,
-          "interaction": "George and Myrtle have a troubled relationship, highlighted by tension and conflict."
+          "value": 2,
+          "interaction": "George's love for Myrtle contrasts with Tom's treatment of her, emphasizing the tragedy of their relationship."
         },
         {
           "source": "George Wilson",
           "target": "Mavro Michaelis",
-          "value": 4,
-          "interaction": "George seeks comfort from Mavro, indicating his distress over Myrtle's situation."
+          "value": 2,
+          "interaction": "George's interaction with Mavro highlights his desperation and the impact of Myrtle's death on his life."
         },
         {
           "source": "Tom Buchanan",
           "target": "Policeman",
-          "value": 2,
-          "interaction": "Tom interacts with the policeman after Myrtle's death, trying to assert his influence."
+          "value": 1,
+          "interaction": "Tom's interactions with the policeman after Myrtle's death reveal his attempts to manipulate the situation to his advantage."
         },
         {
           "source": "Tom Buchanan",
           "target": "Mavro Michaelis",
-          "value": 2,
-          "interaction": "Tom and Mavro discuss the aftermath of the accident, with Tom showing little concern."
+          "value": 1,
+          "interaction": "Tom's condescending attitude towards Mavro underscores his sense of superiority and the class divide."
         },
         {
           "source": "Myrtle Wilson",
           "target": "Policeman",
-          "value": 2,
-          "interaction": "Myrtle's death leads to the policeman's investigation, highlighting the tragic consequences."
+          "value": 1,
+          "interaction": "Myrtle's tragic fate is underscored by the policeman's presence, representing the law and the consequences of her choices."
         },
         {
           "source": "Myrtle Wilson",
           "target": "Mavro Michaelis",
-          "value": 2,
-          "interaction": "Myrtle's relationship with Mavro is overshadowed by her tragic fate."
+          "value": 1,
+          "interaction": "Myrtle's relationship with Mavro is overshadowed by her tragic end, highlighting the futility of her aspirations."
         },
         {
           "source": "George Wilson",
           "target": "Policeman",
-          "value": 2,
-          "interaction": "George interacts with the policeman, expressing his grief and confusion over Myrtle's death."
+          "value": 1,
+          "interaction": "George's interaction with the policeman reflects his grief and confusion following Myrtle's death."
         },
         {
           "source": "Policeman",
           "target": "Mavro Michaelis",
-          "value": 2,
-          "interaction": "The policeman and Mavro discuss the incident, trying to piece together what happened."
+          "value": 1,
+          "interaction": "The policeman's presence alongside Mavro emphasizes the law's role in the aftermath of Myrtle's death."
         },
         {
           "source": "Nick Carraway",
           "target": "Jordan Baker",
-          "value": 2,
-          "interaction": "Nick and Jordan share a moment of connection, discussing the events unfolding around them."
+          "value": 1,
+          "interaction": "Nick's interactions with Jordan reveal his growing awareness of the complexities and moral ambiguities of the world around him."
         }
       ],
       "importance_rank": 6,
@@ -768,7 +768,7 @@
       "scenes": 7,
       "length": 29555,
       "num_lines": 428,
-      "summary": "Nick warns Gatsby about Daisy while Gatsby reflects on their past, leading to discussions about Daisy's life and Wilson's grief over Myrtle.",
+      "summary": "Nick warns Gatsby about Daisy, leading to reflections on their past and Daisy's choices, while Wilson mourns Myrtle and suspects foul play.",
       "importance": 0.86,
       "conflict": 0.61,
       "locations": {
@@ -790,62 +790,62 @@
         {
           "source": "Jay Gatsby",
           "target": "Nick Carraway",
-          "value": 6,
-          "interaction": "Nick visits Gatsby to warn him about Daisy, leading to a discussion about Gatsby's past with her and their plans."
+          "value": 3,
+          "interaction": "Nick visits Gatsby to warn him about Daisy, highlighting their friendship and Gatsby's vulnerability."
         },
         {
           "source": "Jay Gatsby",
           "target": "Daisy Buchanan",
-          "value": 2,
-          "interaction": "Gatsby reflects on his past relationship with Daisy, highlighting his deep feelings for her."
+          "value": 1,
+          "interaction": "Gatsby reflects on his past with Daisy, revealing his deep feelings and the impact of their relationship."
         },
         {
           "source": "Jay Gatsby",
           "target": "Tom Buchanan",
-          "value": 2,
-          "interaction": "Gatsby's presence creates tension as Tom is suspicious of Gatsby's intentions towards Daisy."
+          "value": 1,
+          "interaction": "Gatsby's desire for Daisy puts him in direct conflict with Tom, foreshadowing tension between them."
         },
         {
           "source": "Daisy Buchanan",
           "target": "Tom Buchanan",
-          "value": 2,
-          "interaction": "Daisy's choices and life are explored, revealing the complexities of her marriage to Tom."
+          "value": 1,
+          "interaction": "Daisy's choices and life with Tom are explored, illustrating her struggles and the constraints of her marriage."
         },
         {
           "source": "Jay Gatsby",
           "target": "Gardener",
-          "value": 2,
-          "interaction": "Gatsby interacts with the gardener as he prepares for the day, showing his focus on maintaining his image."
+          "value": 1,
+          "interaction": "Gatsby's interactions with the gardener show his attempts to maintain his lavish lifestyle, symbolizing his wealth and status."
         },
         {
           "source": "Nick Carraway",
           "target": "Gardener",
-          "value": 2,
-          "interaction": "Nick speaks with the gardener, possibly gathering insights about Gatsby's life and the events unfolding."
+          "value": 1,
+          "interaction": "Nick's conversations with the gardener provide insight into Gatsby's world and the people surrounding him."
         },
         {
           "source": "Jordan Baker",
           "target": "Nick Carraway",
-          "value": 2,
-          "interaction": "Nick receives a call from Jordan, who updates him about Daisy, indicating her ongoing influence in their lives."
+          "value": 1,
+          "interaction": "Nick receives a call from Jordan about Daisy, indicating her role in the unfolding drama and her connection to both men."
         },
         {
           "source": "George Wilson",
           "target": "Mavro Michaelis",
-          "value": 4,
-          "interaction": "Wilson mourns Myrtle's death and discusses his suspicions with Mavro, revealing his grief and confusion."
+          "value": 2,
+          "interaction": "Wilson's mourning for Myrtle and his suspicions create a sense of impending tragedy, linking him to the larger narrative."
         },
         {
           "source": "Jay Gatsby",
           "target": "George Wilson",
-          "value": 2,
-          "interaction": "Gatsby's fate becomes intertwined with Wilson's as tensions rise, though their direct interaction is limited."
+          "value": 1,
+          "interaction": "Gatsby's fate becomes intertwined with Wilson's as the story progresses, hinting at the consequences of their actions."
         },
         {
           "source": "Jay Gatsby",
           "target": "Mavro Michaelis",
-          "value": 2,
-          "interaction": "Gatsby's interactions with Mavro are minimal, but Mavro's presence highlights the surrounding chaos and impending tragedy."
+          "value": 1,
+          "interaction": "Gatsby's interactions with Mavro Michaelis reflect the complexities of his social circle and the looming dangers he faces."
         }
       ],
       "importance_rank": 2,
@@ -856,7 +856,7 @@
       "scenes": 5,
       "length": 33196,
       "num_lines": 499,
-      "summary": "After Gatsby's death, his father arrives, Nick feels isolated while preparing for a sparsely attended funeral, leading him to reflect on Gatsby's life and the emptiness of the East.",
+      "summary": "After Gatsby's death, his father arrives, and Nick feels isolated as he prepares for a sparsely attended funeral, reflecting on Gatsby's life and the emptiness of the East.",
       "importance": 0.88,
       "conflict": 0.5,
       "locations": {
@@ -880,128 +880,128 @@
         {
           "source": "Nick Carraway",
           "target": "George Wilson",
-          "value": 2,
-          "interaction": "Nick observes George's grief and despair over Myrtle's death, feeling a sense of shared loss."
+          "value": 1,
+          "interaction": "Nick observes George's grief over Myrtle's death, paralleling his own feelings of loss for Gatsby."
         },
         {
           "source": "Nick Carraway",
           "target": "Daisy Buchanan",
-          "value": 2,
+          "value": 1,
           "interaction": "Nick reflects on Daisy's absence at Gatsby's funeral, highlighting her emotional detachment."
         },
         {
           "source": "Nick Carraway",
           "target": "Tom Buchanan",
-          "value": 4,
-          "interaction": "Nick confronts Tom about his role in Gatsby's death, feeling anger towards Tom's indifference."
+          "value": 2,
+          "interaction": "Nick's disdain for Tom grows as he realizes Tom's role in Gatsby's downfall and lack of remorse."
         },
         {
           "source": "Nick Carraway",
           "target": "Meyer Wolfshiem",
-          "value": 4,
-          "interaction": "Nick recalls Meyer Wolfshiem's absence at Gatsby's funeral, noting the lack of true friends."
+          "value": 2,
+          "interaction": "Nick's thoughts on Gatsby's connections lead him to consider Wolfshiem's shady dealings and their impact on Gatsby's life."
         },
         {
           "source": "George Wilson",
           "target": "Daisy Buchanan",
-          "value": 2,
-          "interaction": "George expresses his grief over Myrtle's death, indirectly connecting it to Daisy as a symbol of lost love."
+          "value": 1,
+          "interaction": "George's fixation on Myrtle contrasts with Daisy's superficiality, emphasizing the theme of unfulfilled love."
         },
         {
           "source": "George Wilson",
           "target": "Tom Buchanan",
-          "value": 2,
-          "interaction": "George seeks Tom's help in finding Gatsby, unaware of Tom's involvement in the tragedy."
+          "value": 1,
+          "interaction": "George's confrontation with Tom reveals Tom's moral corruption and indifference to the consequences of his actions."
         },
         {
           "source": "George Wilson",
           "target": "Meyer Wolfshiem",
-          "value": 2,
-          "interaction": "George does not interact with Meyer directly, but both represent the consequences of Gatsby's life."
+          "value": 1,
+          "interaction": "George's desperation for answers about Myrtle's death contrasts with Wolfshiem's shady, evasive nature."
         },
         {
           "source": "Daisy Buchanan",
           "target": "Tom Buchanan",
-          "value": 2,
-          "interaction": "Daisy and Tom's relationship is strained, with Daisy's guilt over Gatsby's death lingering."
+          "value": 1,
+          "interaction": "Daisy's conflicted feelings for Tom are evident as she navigates her loyalty amidst the chaos of Gatsby's death."
         },
         {
           "source": "Daisy Buchanan",
           "target": "Meyer Wolfshiem",
-          "value": 2,
-          "interaction": "Daisy does not interact with Meyer, but his absence at the funeral reflects the emptiness of their social circle."
+          "value": 1,
+          "interaction": "Daisy's superficial charm is juxtaposed with Wolfshiem's criminality, highlighting the moral decay of their world."
         },
         {
           "source": "Tom Buchanan",
           "target": "Meyer Wolfshiem",
-          "value": 2,
-          "interaction": "Tom dismisses Meyer, showing his disdain for Gatsby's associates and their criminal ties."
+          "value": 1,
+          "interaction": "Tom's arrogance and Wolfshiem's cunning represent the corrupt elite of society, both benefiting from Gatsby's demise."
         },
         {
           "source": "Henry C. Gatz",
           "target": "Nick Carraway",
-          "value": 4,
-          "interaction": "Henry expresses his sorrow to Nick, sharing memories of Gatsby's childhood and dreams."
+          "value": 2,
+          "interaction": "Henry's grief for Gatsby resonates with Nick, who feels a deep sense of loss for his friend."
         },
         {
           "source": "Nick Carraway",
           "target": "Mr. Klipspringer",
-          "value": 2,
-          "interaction": "Nick confronts Mr. Klipspringer about his lack of loyalty to Gatsby, highlighting the superficiality of their friendship."
+          "value": 1,
+          "interaction": "Nick's disappointment in Klipspringer's lack of loyalty to Gatsby reflects the emptiness of their social circle."
         },
         {
           "source": "Mr. Klipspringer",
           "target": "Meyer Wolfshiem",
-          "value": 2,
-          "interaction": "Both characters represent the opportunistic side of Gatsby's life, but do not interact directly."
+          "value": 1,
+          "interaction": "Both characters represent the opportunistic nature of Gatsby's acquaintances, showing little regard for his legacy."
         },
         {
           "source": "Mr. Klipspringer",
           "target": "Henry C. Gatz",
-          "value": 2,
-          "interaction": "Mr. Klipspringer shows little respect for Gatsby's father, emphasizing his self-serving nature."
+          "value": 1,
+          "interaction": "Klipspringer's indifference to Gatsby's death contrasts sharply with Gatz's heartfelt mourning."
         },
         {
           "source": "Meyer Wolfshiem",
           "target": "Henry C. Gatz",
-          "value": 2,
-          "interaction": "Meyer and Henry do not interact directly, but both symbolize the different aspects of Gatsby's legacy."
+          "value": 1,
+          "interaction": "Wolfshiem's shady past with Gatsby is contrasted by Gatz's genuine love for his son, highlighting the disparity in their values."
         },
         {
           "source": "Owl Eyes",
           "target": "Nick Carraway",
-          "value": 2,
-          "interaction": "Owl Eyes shares his reflections on Gatsby's life with Nick, acknowledging the tragedy of Gatsby's dreams."
+          "value": 1,
+          "interaction": "Owl Eyes' recognition of Gatsby's true nature resonates with Nick's reflections on the emptiness of the East."
         },
         {
           "source": "Nick Carraway",
           "target": "Jordan Baker",
-          "value": 2,
-          "interaction": "Nick and Jordan share a moment of understanding about the emptiness of their social circle after Gatsby's death."
+          "value": 1,
+          "interaction": "Nick's disillusionment with Jordan grows as he sees the superficiality of their social circle in the wake of Gatsby's death."
         },
         {
           "source": "Nick Carraway",
           "target": "Jay Gatsby",
-          "value": 2,
-          "interaction": "Nick reflects on his memories of Gatsby, feeling a deep sense of loss and admiration for his dreams."
+          "value": 1,
+          "interaction": "Nick's memories of Gatsby reveal the complexity of their friendship and the tragedy of Gatsby's unfulfilled dreams."
         },
         {
           "source": "Jordan Baker",
           "target": "Tom Buchanan",
-          "value": 2,
-          "interaction": "Jordan and Tom's interaction is tense, reflecting the underlying conflicts in their relationships."
+          "value": 1,
+          "interaction": "Jordan's cynicism about Tom's character reflects the moral decay of their social class."
         },
         {
           "source": "Jordan Baker",
           "target": "Jay Gatsby",
-          "value": 2,
-          "interaction": "Jordan recalls her complicated feelings for Gatsby, recognizing the tragedy of his unfulfilled dreams."
+          "value": 1,
+          "interaction": "Jordan's relationship with Gatsby is marked by a mix of admiration and manipulation, showcasing the complexities of their interactions."
         },
         {
           "source": "Tom Buchanan",
           "target": "Jay Gatsby",
-          "value": 2,
-          "interaction": "Tom confronts Gatsby about his past and wealth, leading to a clash that reveals their conflicting values."
+          "value": 1,
+          "interaction": "Tom's contempt for Gatsby culminates in a confrontation that underscores the class tensions and moral corruption of their world."
         }
       ],
       "importance_rank": 1,

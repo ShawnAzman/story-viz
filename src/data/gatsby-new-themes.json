@@ -7,8 +7,8 @@
   "image": "https://m.media-amazon.com/images/I/61z0MrB6qOS._AC_UF1000,1000_QL80_.jpg",
   "num_chapters": 9,
   "num_scenes": 56,
-  "num_characters": 86,
-  "num_locations": 17,
+  "num_characters": 85,
+  "num_locations": 16,
   "chapters": [
     {
       "chapter": "I",
@@ -43,134 +43,134 @@
         {
           "source": "Judgment And Tolerance",
           "target": "Hope And Dreams",
-          "value": 2,
-          "interaction": "The narrator contemplates the balance between judgment and tolerance while reflecting on his hopes and dreams."
+          "value": 1,
+          "interaction": "The narrator's reflections on his father's advice highlight the tension between societal judgment and personal aspirations, as he navigates his own hopes amidst the expectations of others."
         },
         {
           "source": "Judgment And Tolerance",
           "target": "Disillusionment",
-          "value": 2,
-          "interaction": "The narrator grapples with feelings of disillusionment as he considers the judgments and tolerances of those around him."
+          "value": 1,
+          "interaction": "The narrator's observations of the Buchanans reveal a sense of disillusionment with the superficial judgments of the wealthy, contrasting with a desire for tolerance and understanding."
         },
         {
           "source": "Hope And Dreams",
           "target": "Disillusionment",
-          "value": 2,
-          "interaction": "The narrator's hopes and dreams clash with the harsh realities of disillusionment he observes in others."
+          "value": 1,
+          "interaction": "Daisy's feelings about her daughter and life reflect the fragility of hope and dreams, as they are often met with the harsh reality of disillusionment."
         },
         {
           "source": "Social Class",
           "target": "Isolation",
-          "value": 4,
-          "interaction": "The narrator notes how social class creates a sense of isolation among individuals, particularly during his visit to the Buchanans."
+          "value": 2,
+          "interaction": "The narrator's visit to the Buchanans' home illustrates the isolation felt by those trapped in rigid social classes, despite their wealth and social standing."
         },
         {
           "source": "Social Class",
           "target": "New Beginnings",
-          "value": 2,
-          "interaction": "The narrator reflects on how social class impacts the potential for new beginnings in life."
+          "value": 1,
+          "interaction": "The narrator's reflections on his family's history suggest that social class can hinder new beginnings, as past legacies weigh heavily on present opportunities."
         },
         {
           "source": "Social Class",
           "target": "Tradition Vs. Change",
-          "value": 2,
-          "interaction": "The narrator discusses the tension between tradition and change within the context of social class."
+          "value": 1,
+          "interaction": "The dinner at the Buchanans' home showcases the struggle between tradition and change within the context of social class, as characters grapple with their inherited values."
         },
         {
           "source": "Isolation",
           "target": "New Beginnings",
-          "value": 2,
-          "interaction": "The narrator observes that isolation can hinder new beginnings for individuals seeking to break free from their past."
+          "value": 1,
+          "interaction": "The narrator's feelings of isolation are juxtaposed with the idea of new beginnings, suggesting that breaking free from isolation can lead to fresh opportunities."
         },
         {
           "source": "Isolation",
           "target": "Tradition Vs. Change",
-          "value": 2,
-          "interaction": "The narrator reflects on how isolation can be a result of the struggle between tradition and change."
+          "value": 1,
+          "interaction": "The isolation experienced by characters is often rooted in traditional values, which can stifle change and personal growth."
         },
         {
           "source": "New Beginnings",
           "target": "Tradition Vs. Change",
-          "value": 2,
-          "interaction": "The narrator considers how new beginnings often challenge established traditions."
+          "value": 1,
+          "interaction": "The tension between new beginnings and tradition is evident as characters seek to redefine their identities while being anchored by societal expectations."
         },
         {
           "source": "Wealth And Power",
           "target": "Social Facade",
-          "value": 2,
-          "interaction": "The narrator critiques the social facade maintained by those with wealth and power."
+          "value": 1,
+          "interaction": "The Buchanans' lifestyle exemplifies the social facade created by wealth and power, masking deeper issues of discontent and superficiality."
         },
         {
           "source": "Wealth And Power",
           "target": "Gender Dynamics",
-          "value": 2,
-          "interaction": "The narrator observes how wealth and power influence gender dynamics in social interactions."
+          "value": 1,
+          "interaction": "Daisy's role in the household reflects the complexities of gender dynamics within the context of wealth and power, revealing how these forces shape her identity."
         },
         {
           "source": "Wealth And Power",
           "target": "Disillusionment",
-          "value": 2,
-          "interaction": "The narrator experiences disillusionment with the corrupting influence of wealth and power."
+          "value": 1,
+          "interaction": "The narrator's observations of the Buchanans' wealth lead to a sense of disillusionment, as the allure of power is contrasted with their empty lives."
         },
         {
           "source": "Social Facade",
           "target": "Gender Dynamics",
-          "value": 2,
-          "interaction": "The narrator notes how social facades often mask underlying gender dynamics."
+          "value": 1,
+          "interaction": "The social facade maintained by the Buchanans highlights the restrictive gender dynamics at play, where appearances often overshadow genuine emotions."
         },
         {
           "source": "Social Facade",
           "target": "Disillusionment",
-          "value": 2,
-          "interaction": "The narrator feels disillusioned by the superficiality of social facades."
+          "value": 1,
+          "interaction": "The facade of wealth and social status ultimately leads to disillusionment, as characters realize the emptiness behind their carefully curated lives."
         },
         {
           "source": "Gender Dynamics",
           "target": "Disillusionment",
-          "value": 4,
-          "interaction": "The narrator reflects on how gender dynamics contribute to feelings of disillusionment."
+          "value": 2,
+          "interaction": "Daisy's struggles with her role in a male-dominated society illustrate the disillusionment that arises from gender dynamics and societal expectations."
         },
         {
           "source": "Disillusionment",
           "target": "Sophistication",
-          "value": 2,
-          "interaction": "The narrator contrasts disillusionment with the facade of sophistication in social circles."
+          "value": 1,
+          "interaction": "The narrator's reflections reveal that sophistication often masks disillusionment, as characters navigate the complexities of their social environments."
         },
         {
           "source": "Disillusionment",
           "target": "Insincerity",
-          "value": 2,
-          "interaction": "The narrator connects feelings of disillusionment with the insincerity he observes in others."
+          "value": 1,
+          "interaction": "The pervasive insincerity among the wealthy leads to a collective disillusionment, as genuine connections are replaced by superficial interactions."
         },
         {
           "source": "Gender Dynamics",
           "target": "Sophistication",
-          "value": 2,
-          "interaction": "The narrator examines how gender dynamics can be cloaked in a veneer of sophistication."
+          "value": 1,
+          "interaction": "The interplay between gender dynamics and sophistication is evident in Daisy's character, who embodies both charm and the constraints of her societal role."
         },
         {
           "source": "Gender Dynamics",
           "target": "Insincerity",
-          "value": 2,
-          "interaction": "The narrator notes the insincerity present in gender dynamics during social interactions."
+          "value": 1,
+          "interaction": "The insincerity present in gender dynamics is highlighted through the interactions between male and female characters, revealing the masks they wear."
         },
         {
           "source": "Sophistication",
           "target": "Insincerity",
-          "value": 2,
-          "interaction": "The narrator critiques the relationship between sophistication and insincerity in social settings."
+          "value": 1,
+          "interaction": "The sophistication of the Buchanans is often undercut by their insincerity, suggesting that appearances can be deceiving."
         },
         {
           "source": "Social Class",
           "target": "Gossip And Rumors",
-          "value": 2,
-          "interaction": "The narrator observes how social class fuels gossip and rumors among the elite."
+          "value": 1,
+          "interaction": "The social class distinctions lead to gossip and rumors, as characters navigate their relationships within the confines of societal expectations."
         },
         {
           "source": "Gossip And Rumors",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "The narrator reflects on how gossip and rumors can lead to isolation for those targeted."
+          "value": 1,
+          "interaction": "Gossip and rumors contribute to the isolation of characters, as they become targets of societal scrutiny and judgment."
         }
       ],
       "importance_rank": 4,
@@ -181,7 +181,7 @@
       "scenes": 10,
       "length": 27456,
       "num_lines": 407,
-      "summary": "The narrator witnesses the bleakness of the valley of ashes and the tumultuous affair between Tom and Myrtle, culminating in a violent confrontation.",
+      "summary": "The narrator witnesses the bleakness of the valley of ashes and the tumultuous relationships between Tom, Myrtle, and the narrator during a chaotic party in New York.",
       "importance": 0.79,
       "conflict": 0.41,
       "locations": {
@@ -216,176 +216,176 @@
         {
           "source": "Desolation",
           "target": "Surveillance",
-          "value": 2,
-          "interaction": "The desolate valley of ashes serves as a backdrop, symbolizing the pervasive surveillance of society over the characters' actions."
+          "value": 1,
+          "interaction": "The desolate setting of the valley of ashes serves as a backdrop for the pervasive surveillance represented by Doctor Eckleburg's eyes, symbolizing the moral decay and watchfulness over the characters' actions."
         },
         {
           "source": "Desolation",
           "target": "Industrialization",
-          "value": 2,
-          "interaction": "The valley of ashes represents the desolation caused by industrialization, highlighting the bleakness of the environment."
+          "value": 1,
+          "interaction": "The valley of ashes epitomizes the desolation brought on by industrialization, showcasing the bleak consequences of progress and the loss of vitality in the environment."
         },
         {
           "source": "Surveillance",
           "target": "Industrialization",
-          "value": 2,
-          "interaction": "The industrial landscape is under constant surveillance, reflecting the control and observation of the characters' lives."
+          "value": 1,
+          "interaction": "The industrial landscape is under constant surveillance, reflecting the oppressive nature of societal expectations and the scrutiny of personal choices in a mechanized world."
         },
         {
           "source": "Infidelity",
           "target": "Social Class",
-          "value": 4,
-          "interaction": "Tom's affair with Myrtle illustrates the intersection of infidelity and social class, as he seeks to escape his upper-class life."
+          "value": 2,
+          "interaction": "Tom's affair with Myrtle highlights the intersection of infidelity and social class, as Myrtle's lower status complicates their relationship and reflects the power dynamics at play."
         },
         {
           "source": "Infidelity",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Myrtle's infidelity leads to her isolation from her husband, George, and her desperate attempts to climb the social ladder."
+          "value": 1,
+          "interaction": "Myrtle's infidelity leads to her isolation from her husband, George, and emphasizes the loneliness that often accompanies such secretive relationships."
         },
         {
           "source": "Social Class",
           "target": "Isolation",
-          "value": 6,
-          "interaction": "The characters' social class influences their isolation, as those in lower classes, like Myrtle, feel disconnected from the elite."
+          "value": 3,
+          "interaction": "The social class divide creates a sense of isolation for characters like Myrtle, who, despite her attempts to rise socially, remains trapped in her circumstances."
         },
         {
           "source": "Desperation",
           "target": "Infidelity",
-          "value": 2,
-          "interaction": "Myrtle's desperation for a better life drives her to engage in infidelity with Tom."
+          "value": 1,
+          "interaction": "Myrtle's desperate pursuit of a better life through her affair with Tom illustrates how infidelity can stem from a deep sense of desperation."
         },
         {
           "source": "Desperation",
           "target": "Power Dynamics",
-          "value": 2,
-          "interaction": "The power dynamics between Tom and Myrtle highlight Myrtle's desperation for control and status."
+          "value": 1,
+          "interaction": "The desperation felt by characters like Myrtle and George Wilson reveals the power dynamics at play, where those in lower social positions are often manipulated by those with more power."
         },
         {
           "source": "Infidelity",
           "target": "Power Dynamics",
-          "value": 2,
-          "interaction": "Tom's infidelity showcases the power dynamics in their relationship, where he exerts control over Myrtle."
+          "value": 1,
+          "interaction": "Tom's infidelity showcases the power dynamics in relationships, where he exerts control over Myrtle, reflecting the imbalance of power between social classes."
         },
         {
           "source": "Deception",
           "target": "Social Class",
-          "value": 2,
-          "interaction": "The characters engage in deception regarding their social class, particularly in how they present themselves at the party."
+          "value": 1,
+          "interaction": "The deception inherent in Tom's affair with Myrtle underscores the superficiality of social class, as characters navigate their identities through lies."
         },
         {
           "source": "Deception",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Myrtle's deception about her life leads to her isolation from her true self and her husband."
+          "value": 1,
+          "interaction": "Myrtle's deception in her relationship with Tom leads to her isolation from her true self and her husband, highlighting the emotional distance created by dishonesty."
         },
         {
           "source": "Desire For Companionship",
           "target": "Materialism",
-          "value": 2,
-          "interaction": "Myrtle's desire for companionship with Tom is intertwined with her materialistic aspirations."
+          "value": 1,
+          "interaction": "Myrtle's desire for companionship is intertwined with materialism, as she seeks a relationship with Tom not only for love but also for the status and possessions he represents."
         },
         {
           "source": "Desire For Companionship",
           "target": "Identity And Status",
-          "value": 2,
-          "interaction": "Myrtle seeks companionship to elevate her identity and status, believing Tom can provide that."
+          "value": 1,
+          "interaction": "Myrtle's quest for companionship is closely linked to her desire for a higher identity and status, as she believes that being with Tom elevates her social standing."
         },
         {
           "source": "Materialism",
           "target": "Identity And Status",
-          "value": 2,
-          "interaction": "Myrtle's materialism is a reflection of her desire to enhance her identity and social status."
+          "value": 1,
+          "interaction": "The material possessions in Myrtle's apartment reflect her attempts to construct an identity and status that align with her desires, showcasing the emptiness of such pursuits."
         },
         {
           "source": "Social Class",
           "target": "Desire And Urgency",
-          "value": 4,
-          "interaction": "The urgency of social climbing is evident in Myrtle's actions, driven by her lower social class."
+          "value": 2,
+          "interaction": "The urgency of Myrtle's desires is amplified by her awareness of social class, driving her to act impulsively in pursuit of a better life."
         },
         {
           "source": "Desire And Urgency",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Myrtle's urgent desire for a better life leads to her isolation from her true social circle."
+          "value": 1,
+          "interaction": "Myrtle's urgent desires lead to her isolation, as her pursuit of a lavish lifestyle distances her from genuine connections."
         },
         {
           "source": "Social Status",
           "target": "Alcohol Influence",
-          "value": 2,
-          "interaction": "Alcohol influences the social status dynamics at the party, affecting how characters interact."
+          "value": 1,
+          "interaction": "The influence of alcohol at the party exacerbates the characters' social status struggles, leading to reckless behavior and blurred lines in their relationships."
         },
         {
           "source": "Social Status",
           "target": "Identity And Status",
-          "value": 2,
-          "interaction": "The characters' social status is closely tied to their identity and how they perceive themselves."
+          "value": 1,
+          "interaction": "The characters' social status is intricately tied to their identities, as they navigate the complexities of who they are versus who they aspire to be."
         },
         {
           "source": "Alcohol Influence",
           "target": "Identity And Status",
-          "value": 2,
-          "interaction": "Alcohol consumption at the party distorts the characters' perceptions of their identity and status."
+          "value": 1,
+          "interaction": "Alcohol serves as a catalyst for revealing the characters' true identities and statuses, often leading to embarrassing or violent confrontations."
         },
         {
           "source": "Social Class",
           "target": "Social Facade",
-          "value": 2,
-          "interaction": "The social facade maintained by the characters reflects their attempts to navigate social class expectations."
+          "value": 1,
+          "interaction": "The social facade maintained by characters like Tom and Myrtle highlights the disparities in social class, as they project an image that often contradicts their realities."
         },
         {
           "source": "Infidelity",
           "target": "Desire And Urgency",
-          "value": 2,
-          "interaction": "Myrtle's infidelity is driven by a desire and urgency to escape her current life."
+          "value": 1,
+          "interaction": "Myrtle's infidelity is driven by a sense of urgency to escape her current life, showcasing how desire can lead to reckless decisions."
         },
         {
           "source": "Infidelity",
           "target": "Social Facade",
-          "value": 2,
-          "interaction": "Myrtle's affair with Tom is part of a social facade she constructs to appear more glamorous."
+          "value": 1,
+          "interaction": "The infidelity between Tom and Myrtle is hidden behind a social facade, as they attempt to maintain appearances while engaging in secretive behavior."
         },
         {
           "source": "Desire And Urgency",
           "target": "Social Facade",
-          "value": 2,
-          "interaction": "The urgency of desire leads characters to create social facades to mask their true intentions."
+          "value": 1,
+          "interaction": "The urgency of the characters' desires often clashes with the social facade they present, leading to moments of tension and revelation."
         },
         {
           "source": "Violence",
           "target": "Jealousy",
-          "value": 2,
-          "interaction": "Tom's violent reaction to Myrtle mentioning Daisy reveals the jealousy that underpins their relationship."
+          "value": 1,
+          "interaction": "Tom's violent reaction to Myrtle mentioning Daisy is fueled by jealousy, illustrating how passion can quickly turn destructive."
         },
         {
           "source": "Violence",
           "target": "Chaos",
-          "value": 2,
-          "interaction": "The violence in the apartment escalates into chaos, disrupting the party atmosphere."
+          "value": 1,
+          "interaction": "The violence at the party creates chaos, disrupting the social dynamics and revealing the underlying tensions among the characters."
         },
         {
           "source": "Jealousy",
           "target": "Chaos",
-          "value": 2,
-          "interaction": "Jealousy drives the chaos of the party, culminating in Tom's violent outburst."
+          "value": 1,
+          "interaction": "Jealousy among the characters contributes to the chaotic atmosphere of the party, as emotions run high and relationships unravel."
         },
         {
           "source": "Social Interaction",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Despite being surrounded by people, characters experience isolation in their social interactions."
+          "value": 1,
+          "interaction": "Despite being surrounded by people, characters like Myrtle experience isolation, highlighting the superficial nature of social interactions."
         },
         {
           "source": "Social Interaction",
           "target": "Artistic Expression",
-          "value": 2,
-          "interaction": "The party serves as a form of artistic expression, showcasing the characters' social interactions."
+          "value": 1,
+          "interaction": "The interactions at the party serve as a form of artistic expression, revealing the characters' inner lives and struggles through their conversations."
         },
         {
           "source": "Isolation",
           "target": "Artistic Expression",
-          "value": 2,
-          "interaction": "Myrtle's isolation is contrasted with the artistic expression of the party, highlighting her internal struggle."
+          "value": 1,
+          "interaction": "Myrtle's isolation is contrasted with her attempts at artistic expression through her lifestyle choices, showcasing the tension between her desires and reality."
         }
       ],
       "importance_rank": 9,
@@ -416,74 +416,74 @@
         {
           "source": "Wealth And Power",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Wealth and Power are showcased through Gatsby's extravagant parties, yet they highlight the isolation felt by guests who remain disconnected despite the opulence."
+          "value": 1,
+          "interaction": "Gatsby's wealth creates a facade of social connection, yet he remains isolated from his guests, highlighting the loneliness that often accompanies great wealth."
         },
         {
           "source": "Wealth And Power",
           "target": "Mystery And Rumor",
-          "value": 2,
-          "interaction": "Gatsby's wealth and power attract mystery and rumor, as guests speculate about his past and the source of his fortune during the party."
+          "value": 1,
+          "interaction": "Gatsby's extravagant parties are shrouded in mystery, with rumors swirling about his past and the source of his wealth, adding an air of intrigue to his character."
         },
         {
           "source": "Wealth And Power",
           "target": "Social Class",
-          "value": 2,
-          "interaction": "The display of wealth at Gatsby's parties emphasizes the social class distinctions among the attendees, revealing tensions between old money and new money."
+          "value": 1,
+          "interaction": "The opulence of Gatsby's parties reflects the social class divide, as the wealthy elite gather while those of lower status remain on the periphery, emphasizing class distinctions."
         },
         {
           "source": "Isolation",
           "target": "Mystery And Rumor",
-          "value": 2,
-          "interaction": "Isolation is deepened by the mystery and rumor surrounding Gatsby, as guests feel intrigued yet distanced from the truth of his character."
+          "value": 1,
+          "interaction": "Gatsby's isolation is compounded by the mystery surrounding him, as guests speculate about his life, further alienating him from genuine connections."
         },
         {
           "source": "Isolation",
           "target": "Social Class",
-          "value": 2,
-          "interaction": "Isolation is felt by characters who are aware of their social class status, making them feel out of place at Gatsby's lavish gatherings."
+          "value": 1,
+          "interaction": "Gatsby's isolation is intensified by his social class status; despite his wealth, he is not fully accepted by the old-money elite, leaving him feeling disconnected."
         },
         {
           "source": "Mystery And Rumor",
           "target": "Social Class",
-          "value": 2,
-          "interaction": "Mystery and rumor swirl around Gatsby's social class, as guests gossip about his origins and the legitimacy of his wealth."
+          "value": 1,
+          "interaction": "The rumors about Gatsby's wealth and origins reflect the social class dynamics at play, as they reveal the prejudices and assumptions held by the upper class."
         },
         {
           "source": "Isolation",
           "target": "Deception",
-          "value": 2,
-          "interaction": "Isolation is compounded by deception, as characters navigate the facade of wealth and the hidden truths behind Gatsby's parties."
+          "value": 1,
+          "interaction": "Gatsby's isolation is a result of the deceptive nature of his social interactions, where appearances mask true feelings and intentions."
         },
         {
           "source": "Isolation",
           "target": "Urban Life",
-          "value": 2,
-          "interaction": "Isolation in urban life is depicted through the crowded yet lonely atmosphere of Gatsby's parties, where many feel disconnected despite being surrounded by others."
+          "value": 1,
+          "interaction": "In the bustling urban setting of the parties, Gatsby's isolation becomes starkly apparent, as he is surrounded by people yet remains emotionally distant."
         },
         {
           "source": "Isolation",
           "target": "Romantic Idealization",
-          "value": 2,
-          "interaction": "Isolation contrasts with romantic idealization, as characters yearn for connection and love amidst the superficiality of the party scene."
+          "value": 1,
+          "interaction": "Gatsby's isolation is contrasted with his romantic idealization of Daisy, showcasing how his dreams create a barrier between him and reality."
         },
         {
           "source": "Deception",
           "target": "Urban Life",
-          "value": 2,
-          "interaction": "Deception is prevalent in urban life, as Gatsby's parties mask the underlying loneliness and disillusionment of the city."
+          "value": 1,
+          "interaction": "The urban life depicted in the parties is filled with deception, as characters present false images of themselves amidst the vibrant social scene."
         },
         {
           "source": "Deception",
           "target": "Romantic Idealization",
-          "value": 2,
-          "interaction": "Deception undermines romantic idealization, as the glamorous facade of Gatsby's parties hides the harsh realities of love and aspiration."
+          "value": 1,
+          "interaction": "Gatsby's romantic idealization of Daisy is built on deception, as he constructs an idealized version of her that does not align with reality."
         },
         {
           "source": "Urban Life",
           "target": "Romantic Idealization",
-          "value": 2,
-          "interaction": "Urban life is romanticized at Gatsby's parties, yet the reality of isolation and superficial connections challenges this idealization."
+          "value": 1,
+          "interaction": "The urban life surrounding Gatsby's parties is infused with romantic idealization, as the glamour of the city contrasts with the harsh realities of the characters' lives."
         }
       ],
       "importance_rank": 3,
@@ -506,14 +506,13 @@
         "Social Status": 1,
         "Isolation": 2,
         "Wealth And Power": 2,
-        "Identity And Status": 1,
+        "Identity And Status": 2,
         "Wealth And Class": 1,
         "Mystery And Rumor": 1,
         "Friendship And Trust": 1,
         "The American Dream": 1,
         "Love And Desire": 1,
         "Disillusionment": 1,
-        "Identity And Self-perception": 1,
         "Unrequited Love": 1,
         "Social Class": 1,
         "Desire And Ambition": 1,
@@ -523,176 +522,176 @@
         {
           "source": "Social Status",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Social status is highlighted as guests at Gatsby's house experience a sense of isolation despite the crowd."
+          "value": 1,
+          "interaction": "The guests at Gatsby's party highlight the isolation felt by those who are not part of the elite social circle, emphasizing how social status can lead to feelings of loneliness."
         },
         {
           "source": "Social Status",
           "target": "Wealth And Power",
-          "value": 2,
-          "interaction": "The gathering at Gatsby's house showcases the interplay between social status and the wealth and power Gatsby possesses."
+          "value": 1,
+          "interaction": "Gatsby's wealth and extravagant parties serve as a means to elevate his social status, showcasing the connection between wealth and social standing."
         },
         {
           "source": "Isolation",
           "target": "Wealth And Power",
-          "value": 2,
-          "interaction": "Despite Gatsby's wealth and power, he remains isolated, as seen in the guests' superficial interactions."
+          "value": 1,
+          "interaction": "Despite Gatsby's wealth and power, he remains isolated, illustrating that material success does not guarantee social connection."
         },
         {
           "source": "Identity And Status",
           "target": "Wealth And Class",
-          "value": 2,
-          "interaction": "The characters' identities are influenced by their wealth and class, as discussed during lunch."
+          "value": 1,
+          "interaction": "Gatsby's identity is closely tied to his wealth, as he attempts to redefine his status through his riches, reflecting the interplay between identity and class."
         },
         {
           "source": "Identity And Status",
           "target": "Mystery And Rumor",
-          "value": 2,
-          "interaction": "Jordan shares rumors about Gatsby, adding to the mystery surrounding his identity and status."
+          "value": 1,
+          "interaction": "Gatsby's mysterious past fuels rumors about his identity, affecting how others perceive his status and character."
         },
         {
           "source": "Identity And Status",
           "target": "Friendship And Trust",
-          "value": 2,
-          "interaction": "Nick's growing friendship with Jordan reflects his evolving understanding of identity and status."
+          "value": 1,
+          "interaction": "Nick's growing friendship with Gatsby challenges his perceptions of identity and status, as he learns more about Gatsby's true character."
         },
         {
           "source": "Identity And Status",
           "target": "The American Dream",
-          "value": 2,
-          "interaction": "The conversation touches on Gatsby's pursuit of the American Dream and how it shapes his identity."
+          "value": 1,
+          "interaction": "Gatsby embodies the American Dream, as he seeks to transform his identity and status through hard work and ambition."
         },
         {
           "source": "Wealth And Class",
           "target": "Mystery And Rumor",
-          "value": 2,
-          "interaction": "The guests speculate about Gatsby's wealth, intertwining class with the mystery surrounding him."
+          "value": 1,
+          "interaction": "The rumors surrounding Gatsby's wealth and class status contribute to the mystery of his character, creating intrigue among the guests."
         },
         {
           "source": "Wealth And Class",
           "target": "Friendship And Trust",
-          "value": 2,
-          "interaction": "Nick's trust in Gatsby contrasts with the superficial friendships formed around wealth."
+          "value": 1,
+          "interaction": "Gatsby's wealth complicates his friendships, as trust is often overshadowed by social class dynamics."
         },
         {
           "source": "Wealth And Class",
           "target": "The American Dream",
-          "value": 2,
-          "interaction": "Gatsby's wealth is portrayed as both a means to achieve the American Dream and a source of class tension."
+          "value": 1,
+          "interaction": "Gatsby's pursuit of wealth is a reflection of the American Dream, yet it raises questions about the true meaning of success and class."
         },
         {
           "source": "Mystery And Rumor",
           "target": "Friendship And Trust",
-          "value": 2,
-          "interaction": "The rumors about Gatsby create a barrier to genuine friendship and trust among the guests."
+          "value": 1,
+          "interaction": "The rumors about Gatsby create a barrier to genuine friendship and trust, as people are hesitant to engage with someone shrouded in mystery."
         },
         {
           "source": "Mystery And Rumor",
           "target": "The American Dream",
-          "value": 2,
-          "interaction": "The mystery surrounding Gatsby's past complicates the narrative of the American Dream."
+          "value": 1,
+          "interaction": "Gatsby's mysterious background contrasts with the ideal of the American Dream, suggesting that not all paths to success are clear or honest."
         },
         {
           "source": "Friendship And Trust",
           "target": "The American Dream",
-          "value": 2,
-          "interaction": "Nick's trust in Gatsby is tested against the backdrop of Gatsby's pursuit of the American Dream."
+          "value": 1,
+          "interaction": "Nick's trust in Gatsby grows as he learns about his pursuit of the American Dream, highlighting the complexities of friendship in the context of ambition."
         },
         {
           "source": "Love And Desire",
           "target": "Wealth And Power",
-          "value": 2,
-          "interaction": "Gatsby's love for Daisy is intertwined with his wealth and power, influencing his actions."
+          "value": 1,
+          "interaction": "Gatsby's love for Daisy is intertwined with his desire for wealth and power, as he believes that these will win her affection."
         },
         {
           "source": "Love And Desire",
           "target": "Disillusionment",
-          "value": 2,
-          "interaction": "The idealization of love leads to disillusionment, particularly in Gatsby's pursuit of Daisy."
+          "value": 1,
+          "interaction": "Gatsby's idealized love for Daisy leads to disillusionment when he realizes that wealth cannot buy her love."
         },
         {
           "source": "Love And Desire",
-          "target": "Identity And Self-perception",
-          "value": 2,
-          "interaction": "Gatsby's desire for Daisy shapes his identity and self-perception throughout the chapter."
+          "target": "Identity And Status",
+          "value": 1,
+          "interaction": "Gatsby's desire for love drives him to reshape his identity and status, as he seeks to become the man he believes Daisy wants."
         },
         {
           "source": "Wealth And Power",
           "target": "Disillusionment",
-          "value": 2,
-          "interaction": "Gatsby's wealth and power do not shield him from disillusionment in his romantic pursuits."
+          "value": 1,
+          "interaction": "The pursuit of wealth and power leads to disillusionment for Gatsby, as he discovers that it does not bring him happiness or fulfillment."
         },
         {
           "source": "Wealth And Power",
-          "target": "Identity And Self-perception",
-          "value": 2,
-          "interaction": "Gatsby's identity is heavily influenced by his wealth and power, affecting how others perceive him."
+          "target": "Identity And Status",
+          "value": 1,
+          "interaction": "Gatsby's wealth is a crucial part of his identity, influencing how he is perceived in terms of status."
         },
         {
           "source": "Disillusionment",
-          "target": "Identity And Self-perception",
-          "value": 2,
-          "interaction": "The theme of disillusionment is tied to characters' struggles with their identities and self-perceptions."
+          "target": "Identity And Status",
+          "value": 1,
+          "interaction": "Gatsby's disillusionment with the American Dream forces him to confront the reality of his identity and status."
         },
         {
           "source": "Unrequited Love",
           "target": "Social Class",
-          "value": 2,
-          "interaction": "The dynamics of unrequited love are complicated by the social class distinctions among the characters."
+          "value": 1,
+          "interaction": "Gatsby's unrequited love for Daisy is complicated by their differing social classes, creating barriers to their relationship."
         },
         {
           "source": "Unrequited Love",
           "target": "Desire And Ambition",
-          "value": 2,
-          "interaction": "Gatsby's unrequited love for Daisy fuels his desire and ambition to rise in social status."
+          "value": 1,
+          "interaction": "Gatsby's ambition to win Daisy's love drives his desire for wealth and status, illustrating the connection between unrequited love and ambition."
         },
         {
           "source": "Unrequited Love",
           "target": "Isolation",
-          "value": 2,
+          "value": 1,
           "interaction": "Gatsby's unrequited love leads to his isolation, as he longs for a connection that remains out of reach."
         },
         {
           "source": "Unrequited Love",
           "target": "Romantic Idealization",
-          "value": 2,
-          "interaction": "Gatsby's idealization of Daisy reflects the theme of unrequited love throughout the chapter."
+          "value": 1,
+          "interaction": "Gatsby's idealization of Daisy fuels his unrequited love, blinding him to the reality of their relationship."
         },
         {
           "source": "Social Class",
           "target": "Desire And Ambition",
-          "value": 2,
-          "interaction": "The characters' ambitions are often dictated by their social class, influencing their desires."
+          "value": 1,
+          "interaction": "The social class divide influences Gatsby's desire and ambition, as he strives to transcend his origins."
         },
         {
           "source": "Social Class",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Social class creates barriers that lead to feelings of isolation among the characters."
+          "value": 1,
+          "interaction": "The rigid social class structure contributes to feelings of isolation among those who do not fit in."
         },
         {
           "source": "Social Class",
           "target": "Romantic Idealization",
-          "value": 2,
-          "interaction": "The idealization of romance is often colored by the characters' social class backgrounds."
+          "value": 1,
+          "interaction": "Social class differences complicate romantic idealization, as characters grapple with the realities of their social standings."
         },
         {
           "source": "Desire And Ambition",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Ambition drives characters but often results in their isolation from genuine connections."
+          "value": 1,
+          "interaction": "Gatsby's desire and ambition lead to his isolation, as he becomes consumed by his goals."
         },
         {
           "source": "Desire And Ambition",
           "target": "Romantic Idealization",
-          "value": 2,
-          "interaction": "The pursuit of romantic ideals is intertwined with the characters' desires and ambitions."
+          "value": 1,
+          "interaction": "Gatsby's ambition is fueled by his romantic idealization of Daisy, driving him to achieve wealth."
         },
         {
           "source": "Isolation",
           "target": "Romantic Idealization",
-          "value": 2,
-          "interaction": "Isolation complicates the characters' romantic idealizations, leading to unattainable dreams."
+          "value": 1,
+          "interaction": "Gatsby's isolation intensifies his romantic idealization of Daisy, as he projects his dreams onto her."
         }
       ],
       "importance_rank": 8,
@@ -703,7 +702,7 @@
       "scenes": 10,
       "length": 27465,
       "num_lines": 416,
-      "summary": "The narrator hosts a tea for Gatsby and Daisy, rekindling their past romance amidst emotional revelations.",
+      "summary": "The chapter depicts the emotional reunion of Gatsby and Daisy at the narrator's house, culminating in Daisy's tears over Gatsby's wealth and their shared past.",
       "importance": 0.81,
       "conflict": 0.36,
       "locations": {
@@ -738,218 +737,218 @@
         {
           "source": "Wealth And Power",
           "target": "Desire And Urgency",
-          "value": 2,
-          "interaction": "Wealth and Power is represented by Gatsby's mansion, which creates a sense of urgency in Desire as Gatsby longs for Daisy."
+          "value": 1,
+          "interaction": "Gatsby's wealth creates a sense of urgency in his desire to impress Daisy, leading to a tense atmosphere as he prepares for their reunion."
         },
         {
           "source": "Wealth And Power",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Gatsby's wealth isolates him emotionally, as he is surrounded by luxury yet feels alone."
+          "value": 1,
+          "interaction": "Despite Gatsby's wealth, he remains isolated in his mansion, highlighting the emptiness of his riches."
         },
         {
           "source": "Wealth And Power",
           "target": "Friendship And Trust",
-          "value": 2,
-          "interaction": "Gatsby's wealth complicates his friendships, as trust is overshadowed by his desire for Daisy."
+          "value": 1,
+          "interaction": "Gatsby's wealth complicates his relationship with the narrator, as trust is overshadowed by materialism."
         },
         {
           "source": "Desire And Urgency",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Desire and Urgency are heightened by Isolation, as Gatsby's longing for Daisy intensifies in his solitude."
+          "value": 1,
+          "interaction": "Gatsby's urgent desire to reconnect with Daisy is intensified by his isolation, making their reunion feel even more critical."
         },
         {
           "source": "Desire And Urgency",
           "target": "Friendship And Trust",
-          "value": 2,
-          "interaction": "The urgency of Gatsby's desire for Daisy strains the friendship and trust between him and the narrator."
+          "value": 1,
+          "interaction": "The urgency of Gatsby's desire for Daisy strains the trust between him and the narrator, as the narrator feels caught in the middle."
         },
         {
           "source": "Isolation",
           "target": "Friendship And Trust",
-          "value": 2,
-          "interaction": "Isolation affects the friendship and trust between Gatsby and the narrator, as Gatsby's loneliness creates distance."
+          "value": 1,
+          "interaction": "Gatsby's isolation contrasts with the budding friendship and trust between him and the narrator as they navigate their complex emotions."
         },
         {
           "source": "Unrequited Love",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Unrequited Love leads to Isolation for Gatsby, as his feelings for Daisy are not reciprocated."
+          "value": 1,
+          "interaction": "Gatsby's unrequited love for Daisy deepens his isolation, as he longs for a connection that feels out of reach."
         },
         {
           "source": "Unrequited Love",
           "target": "Nature's Influence",
-          "value": 2,
-          "interaction": "Nature's Influence, represented by the rain, mirrors Gatsby's Unrequited Love for Daisy."
+          "value": 1,
+          "interaction": "The rain during Daisy's arrival symbolizes Gatsby's unrequited love, creating a melancholic atmosphere that reflects his emotional state."
         },
         {
           "source": "Isolation",
           "target": "Nature's Influence",
-          "value": 2,
-          "interaction": "Isolation is emphasized by Nature's Influence, as the rain creates a somber atmosphere during the tea."
+          "value": 1,
+          "interaction": "The rainy setting emphasizes Gatsby's isolation, as nature mirrors his internal struggles."
         },
         {
           "source": "Nervous Anticipation",
           "target": "Illusion Vs. Reality",
-          "value": 2,
-          "interaction": "Nervous Anticipation builds as Gatsby faces the Illusion of his dreams versus the Reality of his past with Daisy."
+          "value": 1,
+          "interaction": "Gatsby's nervous anticipation of meeting Daisy clashes with the reality of their changed circumstances, creating tension."
         },
         {
           "source": "Nervous Anticipation",
           "target": "Social Status",
-          "value": 2,
-          "interaction": "Gatsby's Nervous Anticipation is tied to his Social Status, as he worries about impressing Daisy."
+          "value": 1,
+          "interaction": "Gatsby's anticipation is heightened by the social status differences between him and Daisy, adding pressure to their reunion."
         },
         {
           "source": "Illusion Vs. Reality",
           "target": "Social Status",
-          "value": 2,
-          "interaction": "The Illusion of Gatsby's wealth contrasts with the Reality of his Social Status, affecting his relationship with Daisy."
+          "value": 1,
+          "interaction": "The illusion of Gatsby's wealth contrasts with the reality of social status, affecting how Daisy perceives him."
         },
         {
           "source": "Love And Desire",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Love and Desire are complicated by Isolation, as Gatsby's feelings for Daisy are intensified by his loneliness."
+          "value": 1,
+          "interaction": "Gatsby's love and desire for Daisy are intensified by his isolation, making their reunion feel even more significant."
         },
         {
           "source": "Love And Desire",
           "target": "Time And Waiting",
-          "value": 2,
-          "interaction": "Love and Desire are intertwined with Time and Waiting, as Gatsby has waited years to reunite with Daisy."
+          "value": 1,
+          "interaction": "Gatsby's love for Daisy has been marred by years of waiting, creating a sense of urgency in their meeting."
         },
         {
           "source": "Isolation",
           "target": "Time And Waiting",
-          "value": 2,
-          "interaction": "Isolation is felt deeply during the Time and Waiting for Daisy's arrival, heightening Gatsby's emotions."
+          "value": 1,
+          "interaction": "Gatsby's isolation has been prolonged by the time he spent waiting for Daisy, emphasizing his loneliness."
         },
         {
           "source": "Nostalgia",
           "target": "Discomfort",
-          "value": 2,
-          "interaction": "Nostalgia for the past brings Discomfort to Gatsby as he confronts the reality of his reunion with Daisy."
+          "value": 1,
+          "interaction": "Gatsby's nostalgia for the past with Daisy brings discomfort as he realizes how much has changed."
         },
         {
           "source": "Nostalgia",
           "target": "Time And Waiting",
-          "value": 2,
-          "interaction": "Nostalgia influences the Time and Waiting for Gatsby, as he reflects on his past with Daisy."
+          "value": 1,
+          "interaction": "The nostalgia Gatsby feels is intertwined with the time he has waited for Daisy, creating a bittersweet longing."
         },
         {
           "source": "Discomfort",
           "target": "Time And Waiting",
-          "value": 2,
-          "interaction": "Discomfort arises during the Time and Waiting for Daisy, as Gatsby grapples with his emotions."
+          "value": 1,
+          "interaction": "The discomfort of waiting for Daisy creates tension in Gatsby, as he grapples with his emotions."
         },
         {
           "source": "Embarrassment",
           "target": "Joy And Hope",
-          "value": 2,
-          "interaction": "Gatsby feels Embarrassment mixed with Joy and Hope as he prepares to meet Daisy again."
+          "value": 1,
+          "interaction": "Gatsby feels embarrassed about his wealth, yet there is joy and hope in the possibility of rekindling his relationship with Daisy."
         },
         {
           "source": "Embarrassment",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Embarrassment from his past leads to Isolation for Gatsby, as he feels unworthy of Daisy."
+          "value": 1,
+          "interaction": "Gatsby's embarrassment about his past and wealth contributes to his isolation, making him feel disconnected."
         },
         {
           "source": "Embarrassment",
           "target": "Materialism",
-          "value": 2,
-          "interaction": "Gatsby's Embarrassment about his Materialism is evident as he tries to impress Daisy."
+          "value": 1,
+          "interaction": "Gatsby's embarrassment over his materialism is evident when he shows Daisy his extravagant possessions."
         },
         {
           "source": "Joy And Hope",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Joy and Hope are tinged with Isolation for Gatsby, as he longs for connection with Daisy."
+          "value": 1,
+          "interaction": "Despite Gatsby's isolation, there is a flicker of joy and hope as he reunites with Daisy."
         },
         {
           "source": "Joy And Hope",
           "target": "Materialism",
-          "value": 2,
-          "interaction": "Joy and Hope are intertwined with Materialism, as Gatsby believes wealth will win Daisy's love."
+          "value": 1,
+          "interaction": "Gatsby's joy and hope are tied to his material possessions, which he believes will impress Daisy."
         },
         {
           "source": "Isolation",
           "target": "Materialism",
-          "value": 2,
-          "interaction": "Isolation is contrasted with Materialism, as Gatsby's wealth does not fill the emotional void."
+          "value": 1,
+          "interaction": "Gatsby's isolation is highlighted by his materialism, as he surrounds himself with wealth yet remains alone."
         },
         {
           "source": "Love And Desire",
           "target": "Materialism",
-          "value": 2,
-          "interaction": "Love and Desire are complicated by Materialism, as Gatsby's wealth is a means to win Daisy."
+          "value": 1,
+          "interaction": "Gatsby's love for Daisy is complicated by his materialism, as he believes wealth will win her affection."
         },
         {
           "source": "Love And Desire",
           "target": "Nostalgia",
-          "value": 4,
-          "interaction": "Love and Desire are fueled by Nostalgia, as Gatsby reminisces about his past with Daisy."
+          "value": 2,
+          "interaction": "Gatsby's love for Daisy is deeply rooted in nostalgia, as he longs for the past they shared."
         },
         {
           "source": "Materialism",
           "target": "Nostalgia",
-          "value": 2,
-          "interaction": "Materialism clashes with Nostalgia, as Gatsby's wealth cannot replace the memories of his love for Daisy."
+          "value": 1,
+          "interaction": "Gatsby's materialism is a reflection of his nostalgia, as he tries to recreate the past through his wealth."
         },
         {
           "source": "Lost Dreams",
           "target": "Love And Distance",
-          "value": 2,
-          "interaction": "Lost Dreams haunt Gatsby as he navigates Love and Distance in his relationship with Daisy."
+          "value": 1,
+          "interaction": "Gatsby's lost dreams of a future with Daisy create a sense of distance between them, despite their reunion."
         },
         {
           "source": "Lost Dreams",
           "target": "Illusion Vs. Reality",
-          "value": 2,
-          "interaction": "Lost Dreams create a tension between Illusion and Reality for Gatsby as he faces his past."
+          "value": 1,
+          "interaction": "Gatsby's lost dreams clash with the reality of his situation, as he realizes that the past cannot be recaptured."
         },
         {
           "source": "Love And Distance",
           "target": "Illusion Vs. Reality",
-          "value": 2,
-          "interaction": "Love and Distance are challenged by the Illusion of Gatsby's dreams versus the Reality of his situation."
+          "value": 1,
+          "interaction": "The illusion of love Gatsby holds onto is challenged by the reality of the distance that has grown between him and Daisy."
         },
         {
           "source": "Illusion Vs. Reality",
           "target": "Love And Desire",
-          "value": 2,
-          "interaction": "The Illusion of Gatsby's perfect love clashes with the Reality of his Desire for Daisy."
+          "value": 1,
+          "interaction": "Gatsby's desire for Daisy is based on an illusion, which is confronted by the reality of their changed lives."
         },
         {
           "source": "Illusion Vs. Reality",
           "target": "Wealth And Class",
-          "value": 2,
-          "interaction": "Illusion and Reality intersect with Wealth and Class, as Gatsby's riches do not guarantee happiness."
+          "value": 1,
+          "interaction": "Gatsby's wealth creates an illusion of success, but the reality of class differences complicates his relationship with Daisy."
         },
         {
           "source": "Illusion Vs. Reality",
           "target": "Nostalgia",
-          "value": 2,
-          "interaction": "Illusion and Reality are influenced by Nostalgia, as Gatsby longs for a past that may never return."
+          "value": 1,
+          "interaction": "The illusion of a perfect past is challenged by the reality of the present, as Gatsby confronts his nostalgia."
         },
         {
           "source": "Love And Desire",
           "target": "Wealth And Class",
-          "value": 2,
-          "interaction": "Love and Desire are entangled with Wealth and Class, as Gatsby believes his riches will win Daisy."
+          "value": 1,
+          "interaction": "Gatsby's love for Daisy is intertwined with his wealth, as he believes it will bridge the class divide."
         },
         {
           "source": "Wealth And Class",
           "target": "Nostalgia",
-          "value": 2,
-          "interaction": "Wealth and Class are viewed through the lens of Nostalgia, as Gatsby reflects on his past with Daisy."
+          "value": 1,
+          "interaction": "Gatsby's nostalgia for the past is influenced by his wealth and class, as he tries to recreate a lost ideal."
         },
         {
           "source": "Isolation",
           "target": "Departure",
-          "value": 2,
-          "interaction": "Isolation is felt deeply as Gatsby faces the Departure of his dreams when Daisy leaves."
+          "value": 1,
+          "interaction": "Gatsby's isolation is emphasized by the impending departure of Daisy, highlighting the fragility of their reunion."
         }
       ],
       "importance_rank": 7,
@@ -960,7 +959,7 @@
       "scenes": 5,
       "length": 26571,
       "num_lines": 398,
-      "summary": "A young reporter seeks a statement from Gatsby, revealing Gatsby's transformation from James Gatz, while Tom and Daisy's unexpected visit to one of Gatsby's lavish parties highlights Gatsby's longing for the past.",
+      "summary": "A young reporter seeks a statement from Gatsby, revealing Gatsby's transformation from James Gatz, while Tom and Daisy attend one of his lavish parties, leading to Gatsby's emotional reflections on Daisy and their past.",
       "importance": 0.82,
       "conflict": 0.54,
       "locations": {
@@ -986,110 +985,110 @@
         {
           "source": "Fame And Notoriety",
           "target": "Ambition And Initiative",
-          "value": 2,
-          "interaction": "The young reporter's ambition drives him to seek out the notorious figure of Gatsby, highlighting the allure of fame."
+          "value": 1,
+          "interaction": "Gatsby's rise to fame is driven by his ambition and initiative, showcasing how his desire for recognition fuels his actions."
         },
         {
           "source": "Fame And Notoriety",
           "target": "Mystery And Rumor",
-          "value": 2,
-          "interaction": "Gatsby's fame is shrouded in mystery, as the reporter uncovers rumors surrounding his extravagant lifestyle."
+          "value": 1,
+          "interaction": "Gatsby's fame is shrouded in mystery, with rumors swirling about his past, creating an enigmatic persona that intrigues others."
         },
         {
           "source": "Ambition And Initiative",
           "target": "Mystery And Rumor",
-          "value": 2,
-          "interaction": "The reporter's initiative to investigate Gatsby reveals the mysterious rumors that surround him."
+          "value": 1,
+          "interaction": "Gatsby's ambitious pursuit of wealth and status generates rumors about his origins, adding to the mystery surrounding him."
         },
         {
           "source": "Identity And Status",
           "target": "Hope And Dreams",
-          "value": 2,
-          "interaction": "Gatsby's identity as a wealthy man is tied to his hopes and dreams of rekindling his romance with Daisy."
+          "value": 1,
+          "interaction": "Gatsby's identity transformation reflects his hopes and dreams of winning Daisy back, highlighting the connection between personal aspirations and social status."
         },
         {
           "source": "Identity And Status",
           "target": "Disillusionment",
-          "value": 2,
-          "interaction": "Gatsby's status is contrasted with his disillusionment regarding the reality of his dreams and the past."
+          "value": 1,
+          "interaction": "Gatsby's struggle with his identity and status leads to disillusionment as he realizes that wealth does not guarantee acceptance or love."
         },
         {
           "source": "Identity And Status",
           "target": "Wealth And Class",
-          "value": 2,
-          "interaction": "Gatsby's identity is heavily influenced by his wealth and class, which he uses to impress Daisy."
+          "value": 1,
+          "interaction": "Gatsby's identity is closely tied to his wealth and class, as he attempts to redefine himself through material success."
         },
         {
           "source": "Hope And Dreams",
           "target": "Disillusionment",
-          "value": 2,
-          "interaction": "Gatsby's hopes for a future with Daisy clash with the disillusionment he faces when confronted with reality."
+          "value": 1,
+          "interaction": "Gatsby's dreams of rekindling his romance with Daisy clash with the harsh reality of disillusionment when faced with the truth of their past."
         },
         {
           "source": "Hope And Dreams",
           "target": "Wealth And Class",
-          "value": 2,
-          "interaction": "Gatsby's dreams are fueled by his wealth and class, which he believes will win Daisy back."
+          "value": 1,
+          "interaction": "Gatsby's hope for a future with Daisy is intertwined with his wealth, as he believes that his riches will help him achieve his dreams."
         },
         {
           "source": "Disillusionment",
           "target": "Wealth And Class",
-          "value": 2,
-          "interaction": "The disillusionment Gatsby feels about his wealth and class becomes apparent as he realizes they do not guarantee happiness."
+          "value": 1,
+          "interaction": "The disillusionment experienced by Gatsby reveals the emptiness of wealth and class, as they fail to bring him true happiness or fulfillment."
         },
         {
           "source": "Social Class",
           "target": "Desire And Rejection",
-          "value": 2,
-          "interaction": "The social class differences between Gatsby and Tom lead to desires that are ultimately rejected."
+          "value": 1,
+          "interaction": "The social class divide creates a barrier for Gatsby, leading to his desire for acceptance and the subsequent rejection he faces from the old-money elite."
         },
         {
           "source": "Social Class",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Gatsby's social class isolates him from the old-money elite, creating a barrier to acceptance."
+          "value": 1,
+          "interaction": "Gatsby's social class status isolates him from others, as he is seen as an outsider despite his wealth."
         },
         {
           "source": "Desire And Rejection",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Gatsby's desire for Daisy leads to his isolation from the social circles he wishes to join."
+          "value": 1,
+          "interaction": "Gatsby's desire for Daisy leads to his isolation, as he is rejected by the very society he longs to be a part of."
         },
         {
           "source": "Disillusionment",
           "target": "Social Status",
-          "value": 2,
-          "interaction": "Gatsby's disillusionment with his social status becomes evident as he grapples with his place in society."
+          "value": 1,
+          "interaction": "Gatsby's disillusionment with his social status highlights the superficial nature of the elite, revealing the emptiness behind their facade."
         },
         {
           "source": "Disillusionment",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Gatsby's feelings of disillusionment contribute to his isolation from others, particularly at his own parties."
+          "value": 1,
+          "interaction": "Gatsby's disillusionment results in profound isolation, as he realizes that his dreams have not brought him the connection he sought."
         },
         {
           "source": "Social Status",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "The social status of characters like Tom and Daisy creates an isolating environment for Gatsby."
+          "value": 1,
+          "interaction": "The pursuit of social status often leads to isolation, as characters like Gatsby find themselves alone despite their wealth."
         },
         {
           "source": "Lost Love",
           "target": "The Past",
-          "value": 2,
-          "interaction": "Gatsby's lost love for Daisy is deeply intertwined with his longing for the past."
+          "value": 1,
+          "interaction": "Gatsby's lost love for Daisy is deeply tied to his memories of the past, driving his actions and desires in the present."
         },
         {
           "source": "Lost Love",
           "target": "Disillusionment",
-          "value": 2,
-          "interaction": "Gatsby's disillusionment stems from his lost love for Daisy and the unattainable nature of his dreams."
+          "value": 1,
+          "interaction": "Gatsby's lost love for Daisy culminates in disillusionment when he confronts the reality of their changed circumstances."
         },
         {
           "source": "The Past",
           "target": "Disillusionment",
-          "value": 2,
-          "interaction": "The idealization of the past leads to disillusionment for Gatsby as he confronts the reality of his memories."
+          "value": 1,
+          "interaction": "The idealization of the past leads to disillusionment for Gatsby, as he struggles to reconcile his memories with the present."
         }
       ],
       "importance_rank": 6,
@@ -1100,7 +1099,7 @@
       "scenes": 7,
       "length": 57925,
       "num_lines": 919,
-      "summary": "Nick witnesses escalating tensions between Gatsby and Tom during a fateful lunch that culminates in a tragic accident.",
+      "summary": "Nick witnesses escalating tensions among Tom, Daisy, and Gatsby, culminating in a tragic hit-and-run accident that changes everything.",
       "importance": 0.84,
       "conflict": 0.67,
       "locations": {
@@ -1137,182 +1136,182 @@
         {
           "source": "Isolation",
           "target": "Change",
-          "value": 2,
-          "interaction": "Nick's visit to Gatsby reflects a change in their relationship, as Gatsby's isolation becomes more apparent."
+          "value": 1,
+          "interaction": "Nick's visit to Gatsby highlights Gatsby's isolation and the changes in his life since he became wealthy."
         },
         {
           "source": "Isolation",
           "target": "Mystery And Rumor",
-          "value": 2,
-          "interaction": "Gatsby's isolated lifestyle is surrounded by mystery and rumors, particularly during Nick's observations."
+          "value": 1,
+          "interaction": "Gatsby's mysterious past creates an atmosphere of isolation for him, as rumors circulate about his life."
         },
         {
           "source": "Change",
           "target": "Mystery And Rumor",
-          "value": 2,
-          "interaction": "The changes in Gatsby's life are fueled by the rumors circulating about him, especially during the lunch at the Buchanans'."
+          "value": 1,
+          "interaction": "The changes in Gatsby's life lead to increased mystery and speculation among the characters."
         },
         {
           "source": "Love And Betrayal",
           "target": "Wealth And Class",
-          "value": 2,
-          "interaction": "The tension during lunch highlights the underlying themes of love and betrayal intertwined with wealth and class dynamics."
+          "value": 1,
+          "interaction": "Tom's betrayal of Daisy is intertwined with the themes of wealth and class, as it influences their relationships."
         },
         {
           "source": "Love And Betrayal",
           "target": "Childhood Innocence",
-          "value": 2,
-          "interaction": "Gatsby's love for Daisy contrasts with the loss of childhood innocence as they confront their past."
+          "value": 1,
+          "interaction": "Daisy's lost innocence is contrasted with her current love and betrayal in her marriage to Tom."
         },
         {
           "source": "Wealth And Class",
           "target": "Childhood Innocence",
-          "value": 2,
-          "interaction": "The Buchanans' wealth creates a stark contrast to the innocence of Gatsby's past with Daisy."
+          "value": 1,
+          "interaction": "The Buchanans' wealth starkly contrasts with the innocence of their past, affecting their current relationships."
         },
         {
           "source": "Love And Desire",
           "target": "Social Class",
-          "value": 2,
+          "value": 1,
           "interaction": "Gatsby's desire for Daisy is complicated by the social class differences that separate them."
         },
         {
           "source": "Love And Desire",
           "target": "Heat And Confusion",
-          "value": 2,
-          "interaction": "The heated emotions during the lunch create confusion regarding love and desire among the characters."
+          "value": 1,
+          "interaction": "The heated emotions during the lunch scene create confusion regarding love and desire among the characters."
         },
         {
           "source": "Social Class",
           "target": "Heat And Confusion",
-          "value": 2,
-          "interaction": "The social class tensions escalate the heat and confusion during the confrontation in town."
+          "value": 1,
+          "interaction": "The social class tensions contribute to the heated arguments and confusion during the lunch."
         },
         {
           "source": "Social Class",
           "target": "Investigation And Truth",
-          "value": 2,
-          "interaction": "Nick's observations serve as an investigation into the truth behind the social class dynamics at play."
+          "value": 1,
+          "interaction": "Nick's observations about social class lead him to investigate the truth behind Gatsby's wealth."
         },
         {
           "source": "Social Class",
           "target": "Irritation And Tension",
-          "value": 2,
-          "interaction": "The social class differences lead to irritation and tension during the lunch and subsequent events."
+          "value": 1,
+          "interaction": "The class differences create irritation and tension among the characters during their interactions."
         },
         {
           "source": "Investigation And Truth",
           "target": "Irritation And Tension",
-          "value": 2,
-          "interaction": "Nick's investigation into Gatsby's life reveals the irritation and tension among the characters."
+          "value": 1,
+          "interaction": "Nick's quest for truth about Gatsby's past leads to irritation and tension with Tom."
         },
         {
           "source": "Desperation",
           "target": "Infidelity",
-          "value": 2,
-          "interaction": "Tom's desperation is highlighted by his infidelity, particularly in the wake of Myrtle's death."
+          "value": 1,
+          "interaction": "Tom's desperation to maintain control leads to his infidelity, impacting his relationship with Daisy."
         },
         {
           "source": "Desperation",
           "target": "Illness",
-          "value": 2,
-          "interaction": "The emotional illness of the characters is exacerbated by their desperation following Myrtle's tragic death."
+          "value": 1,
+          "interaction": "The emotional illness of the characters is exacerbated by their desperation in the face of tragedy."
         },
         {
           "source": "Desperation",
           "target": "Observation",
-          "value": 2,
-          "interaction": "Nick's observations reveal the desperation felt by the characters as they react to the unfolding events."
+          "value": 1,
+          "interaction": "Nick's observations reveal the desperation of the characters as they navigate their tumultuous relationships."
         },
         {
           "source": "Infidelity",
           "target": "Illness",
-          "value": 2,
-          "interaction": "Tom's infidelity leads to an emotional illness that affects all characters involved."
+          "value": 1,
+          "interaction": "Tom's infidelity creates an emotional illness that affects Daisy and their marriage."
         },
         {
           "source": "Infidelity",
           "target": "Observation",
-          "value": 2,
-          "interaction": "Nick observes the effects of Tom's infidelity on the group, particularly during the tense lunch."
+          "value": 1,
+          "interaction": "Nick observes the effects of Tom's infidelity on Daisy, highlighting the emotional turmoil."
         },
         {
           "source": "Illness",
           "target": "Observation",
-          "value": 2,
-          "interaction": "The emotional illness of the characters is evident through Nick's observations of their reactions."
+          "value": 1,
+          "interaction": "Nick's observations of the characters' emotional states reveal their psychological illness."
         },
         {
           "source": "Despair And Suffering",
           "target": "Violence",
-          "value": 2,
-          "interaction": "The despair following Myrtle's death leads to a violent confrontation among the characters."
+          "value": 1,
+          "interaction": "Myrtle's death represents the despair and suffering that violence brings to the characters."
         },
         {
           "source": "Despair And Suffering",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "The characters experience despair and suffering, leading to further isolation, especially Gatsby."
+          "value": 1,
+          "interaction": "The characters' despair leads to a sense of isolation as they cope with their suffering."
         },
         {
           "source": "Despair And Suffering",
           "target": "Tragedy And Loss",
-          "value": 2,
-          "interaction": "Myrtle's death represents a tragedy and loss that deepens the despair among the characters."
+          "value": 1,
+          "interaction": "The tragedy of Myrtle's death brings forth the characters' despair and suffering."
         },
         {
           "source": "Violence",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "The violence stemming from Myrtle's death isolates Tom and Nick from each other emotionally."
+          "value": 1,
+          "interaction": "The violence of Myrtle's death isolates the characters from one another emotionally."
         },
         {
           "source": "Violence",
           "target": "Tragedy And Loss",
-          "value": 2,
-          "interaction": "The violence of the hit-and-run adds to the tragedy and loss felt by the characters."
+          "value": 1,
+          "interaction": "Myrtle's violent death signifies a tragic loss that impacts all the characters."
         },
         {
           "source": "Isolation",
           "target": "Tragedy And Loss",
-          "value": 2,
-          "interaction": "Gatsby's isolation is intensified by the tragedy and loss of Myrtle, affecting his relationship with Daisy."
+          "value": 1,
+          "interaction": "The isolation felt by the characters deepens as they confront the tragedy of loss."
         },
         {
           "source": "Grief And Loss",
           "target": "Guilt And Responsibility",
-          "value": 2,
-          "interaction": "Nick feels guilt and responsibility for not preventing the tragedy, leading to grief and loss."
+          "value": 1,
+          "interaction": "Nick feels guilt and responsibility for not preventing the tragedy, leading to his grief."
         },
         {
           "source": "Grief And Loss",
           "target": "Deception",
-          "value": 2,
-          "interaction": "The grief over Myrtle's death is compounded by the deception surrounding her relationships."
+          "value": 1,
+          "interaction": "The deception surrounding Gatsby's life contributes to the grief and loss experienced by the characters."
         },
         {
           "source": "Grief And Loss",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "The grief experienced by the characters leads to further isolation, particularly for Gatsby."
+          "value": 1,
+          "interaction": "The grief from Myrtle's death isolates the characters as they deal with their emotions."
         },
         {
           "source": "Guilt And Responsibility",
           "target": "Deception",
-          "value": 2,
-          "interaction": "Nick grapples with feelings of guilt and responsibility in light of the deception surrounding Myrtle's death."
+          "value": 1,
+          "interaction": "Nick grapples with feelings of guilt and responsibility due to the deception surrounding Gatsby."
         },
         {
           "source": "Guilt And Responsibility",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Nick's guilt leads to a sense of isolation as he reflects on the events that transpired."
+          "value": 1,
+          "interaction": "Nick's guilt isolates him from the other characters as he reflects on their actions."
         },
         {
           "source": "Deception",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "The deception among the characters fosters a sense of isolation, particularly for Gatsby."
+          "value": 1,
+          "interaction": "The deception in relationships leads to a profound sense of isolation among the characters."
         }
       ],
       "importance_rank": 5,
@@ -1323,7 +1322,7 @@
       "scenes": 8,
       "length": 29555,
       "num_lines": 428,
-      "summary": "Nick learns about Gatsby's past and his feelings for Daisy, while Wilson grieves for Myrtle and Gatsby anticipates a day by the pool.",
+      "summary": "Nick learns about Gatsby's past and his feelings for Daisy, while Wilson grapples with his loss.",
       "importance": 0.89,
       "conflict": 0.64,
       "locations": {
@@ -1361,188 +1360,188 @@
         {
           "source": "Hope And Despair",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Gatsby reflects on his past and the isolation he feels from Daisy, highlighting the tension between hope for their reunion and the despair of their current separation."
+          "value": 1,
+          "interaction": "Gatsby's isolation from society reflects his despair over lost hope for a future with Daisy."
         },
         {
           "source": "Hope And Despair",
           "target": "Dreams Vs. Reality",
-          "value": 2,
-          "interaction": "Gatsby shares his dreams of rekindling his romance with Daisy, contrasting his hopeful aspirations with the harsh reality of their circumstances."
+          "value": 1,
+          "interaction": "Gatsby's dreams of rekindling his romance with Daisy clash with the harsh reality of their circumstances."
         },
         {
           "source": "Isolation",
           "target": "Dreams Vs. Reality",
-          "value": 2,
-          "interaction": "Gatsby's isolation is emphasized as he dreams of a life with Daisy, yet faces the reality that she is now distant and changed."
+          "value": 1,
+          "interaction": "Gatsby's isolation amplifies the disparity between his dreams of love and the reality of his situation."
         },
         {
           "source": "Love And Desire",
           "target": "Wealth And Class",
-          "value": 2,
-          "interaction": "Gatsby's wealth is a symbol of his desire for Daisy, illustrating how love is intertwined with social status in their relationship."
+          "value": 1,
+          "interaction": "Gatsby's wealth is a means to win Daisy's love, highlighting the intersection of desire and social status."
         },
         {
           "source": "Love And Desire",
           "target": "Illusion Vs. Reality",
-          "value": 2,
-          "interaction": "Gatsby's idealized love for Daisy clashes with the reality of who she has become, revealing the illusions he has built around their past."
+          "value": 1,
+          "interaction": "Gatsby's idealized love for Daisy is an illusion that contrasts with the reality of their lives."
         },
         {
           "source": "Love And Desire",
           "target": "Nostalgia",
-          "value": 2,
-          "interaction": "Gatsby's longing for Daisy is steeped in nostalgia, as he reminisces about their past romance and the life he wishes to recreate."
+          "value": 1,
+          "interaction": "Gatsby's desire for Daisy is rooted in nostalgia for their past, complicating his present feelings."
         },
         {
           "source": "Wealth And Class",
           "target": "Illusion Vs. Reality",
-          "value": 2,
-          "interaction": "Gatsby's wealth creates an illusion of happiness and success, but the reality is that it does not guarantee love or fulfillment."
+          "value": 1,
+          "interaction": "Gatsby's wealth creates an illusion of success, masking the reality of his loneliness and unfulfilled desires."
         },
         {
           "source": "Wealth And Class",
           "target": "Nostalgia",
-          "value": 2,
-          "interaction": "Gatsby's wealth is tied to his nostalgic memories of Daisy, as he believes that money can help him reclaim their lost love."
+          "value": 1,
+          "interaction": "Gatsby's wealth is tied to his nostalgic memories of a time when he and Daisy were together."
         },
         {
           "source": "Illusion Vs. Reality",
           "target": "Nostalgia",
-          "value": 2,
-          "interaction": "The chapter explores how Gatsby's nostalgic memories are illusions that distort his perception of reality, particularly regarding Daisy."
+          "value": 1,
+          "interaction": "The illusions created by nostalgia often clash with the stark realities faced by the characters."
         },
         {
           "source": "Love And Desire",
           "target": "Intimacy",
-          "value": 2,
-          "interaction": "Gatsby and Daisy share a brief moment of intimacy, highlighting the deep love and desire that still exists between them despite the years apart."
+          "value": 1,
+          "interaction": "Gatsby and Daisy's brief moment of intimacy reveals the depth of their unresolved feelings."
         },
         {
           "source": "Despair And Suffering",
           "target": "Social Pressure",
-          "value": 2,
-          "interaction": "Gatsby experiences despair over his unfulfilled love for Daisy, compounded by the social pressures of their differing statuses."
+          "value": 1,
+          "interaction": "Gatsby's despair is intensified by the social pressures surrounding his relationship with Daisy."
         },
         {
           "source": "Despair And Suffering",
           "target": "Desire For Decision",
-          "value": 2,
-          "interaction": "Gatsby's despair leads him to a critical moment of decision regarding his future with Daisy, reflecting his inner turmoil."
+          "value": 1,
+          "interaction": "Gatsby's suffering stems from his indecision about pursuing Daisy amidst his despair."
         },
         {
           "source": "Despair And Suffering",
           "target": "Romantic Entanglement",
-          "value": 2,
-          "interaction": "Gatsby's suffering is intensified by his complicated romantic entanglement with Daisy, as he grapples with his feelings."
+          "value": 1,
+          "interaction": "Gatsby's romantic entanglement with Daisy leads to his deepening despair and suffering."
         },
         {
           "source": "Social Pressure",
           "target": "Desire For Decision",
-          "value": 2,
-          "interaction": "The social pressures surrounding Gatsby and Daisy's relationship force them to confront their desires and make difficult decisions."
+          "value": 1,
+          "interaction": "Social expectations create pressure on Gatsby to make decisive moves regarding his feelings for Daisy."
         },
         {
           "source": "Social Pressure",
           "target": "Romantic Entanglement",
-          "value": 2,
-          "interaction": "Gatsby feels the weight of social expectations as he navigates his romantic entanglement with Daisy, complicating their relationship."
+          "value": 1,
+          "interaction": "The social pressures surrounding Gatsby and Daisy's relationship complicate their romantic entanglement."
         },
         {
           "source": "Desire For Decision",
           "target": "Romantic Entanglement",
-          "value": 2,
-          "interaction": "Gatsby's desire for a clear decision about his relationship with Daisy is complicated by their romantic entanglement and the stakes involved."
+          "value": 1,
+          "interaction": "Gatsby's desire to make a decision about his relationship with Daisy is complicated by their romantic history."
         },
         {
           "source": "Love And Loss",
           "target": "Illusion Vs. Reality",
-          "value": 2,
-          "interaction": "Gatsby's love for Daisy is tinged with loss, as he grapples with the illusions he has about their past versus the reality of their present."
+          "value": 1,
+          "interaction": "Gatsby's love for Daisy is intertwined with the illusion of what their relationship could be, contrasting with the reality of their separation."
         },
         {
           "source": "Love And Loss",
           "target": "Friendship And Trust",
-          "value": 2,
-          "interaction": "Gatsby's relationship with Nick reflects themes of friendship and trust, as Nick becomes a confidant in Gatsby's love for Daisy."
+          "value": 1,
+          "interaction": "Gatsby's loss of Daisy strains his friendships and trust with others, particularly Nick."
         },
         {
           "source": "Illusion Vs. Reality",
           "target": "Friendship And Trust",
-          "value": 2,
-          "interaction": "The chapter highlights how illusions in relationships can strain friendships, particularly as Nick witnesses Gatsby's struggles."
+          "value": 1,
+          "interaction": "The illusions surrounding Gatsby's wealth and love affect the trust and friendships he has with others."
         },
         {
           "source": "Uncertainty",
           "target": "Disconnection",
-          "value": 2,
-          "interaction": "Gatsby's uncertainty about Daisy's feelings leads to a sense of disconnection between them, as he fears losing her again."
+          "value": 1,
+          "interaction": "Gatsby's uncertainty about his future with Daisy leads to a sense of disconnection from those around him."
         },
         {
           "source": "Uncertainty",
           "target": "Desire And Urgency",
-          "value": 2,
-          "interaction": "Gatsby's uncertainty about his future with Daisy creates a sense of urgency in his desire to act before it's too late."
+          "value": 1,
+          "interaction": "Gatsby's uncertainty fuels a sense of urgency in his desire to reconnect with Daisy."
         },
         {
           "source": "Disconnection",
           "target": "Desire And Urgency",
-          "value": 2,
-          "interaction": "The disconnection between Gatsby and Daisy fuels his urgent desire to reconnect and rekindle their romance."
+          "value": 1,
+          "interaction": "Gatsby's disconnection from reality creates an urgent desire to bridge the gap with Daisy."
         },
         {
           "source": "Grief And Loss",
           "target": "Betrayal",
-          "value": 2,
-          "interaction": "Gatsby's grief over lost love is compounded by feelings of betrayal as he realizes Daisy's life has moved on without him."
+          "value": 1,
+          "interaction": "Gatsby's grief over lost love is compounded by feelings of betrayal from the past."
         },
         {
           "source": "Grief And Loss",
           "target": "Desperation",
-          "value": 2,
-          "interaction": "Gatsby's grief transforms into desperation as he seeks to reclaim what he has lost with Daisy."
+          "value": 1,
+          "interaction": "Gatsby's grief leads to desperation in his attempts to reclaim his lost love."
         },
         {
           "source": "Grief And Loss",
           "target": "Divine Judgment",
-          "value": 2,
-          "interaction": "Gatsby's sense of grief is intertwined with a feeling of divine judgment, as he questions whether he deserves a second chance with Daisy."
+          "value": 1,
+          "interaction": "Gatsby's sense of loss is intertwined with a feeling of being judged for his past actions."
         },
         {
           "source": "Betrayal",
           "target": "Desperation",
-          "value": 2,
-          "interaction": "Gatsby's feelings of betrayal from Daisy's choices lead to a desperate longing for their past connection."
+          "value": 1,
+          "interaction": "Feelings of betrayal drive Gatsby's desperation to win back Daisy."
         },
         {
           "source": "Betrayal",
           "target": "Divine Judgment",
-          "value": 2,
-          "interaction": "Gatsby grapples with feelings of betrayal and a sense of divine judgment regarding his pursuit of Daisy."
+          "value": 1,
+          "interaction": "Gatsby feels betrayed by the world around him, leading to a sense of divine judgment on his actions."
         },
         {
           "source": "Desperation",
           "target": "Divine Judgment",
-          "value": 2,
-          "interaction": "Gatsby's desperation to win Daisy back is shadowed by a fear of divine judgment for his past actions."
+          "value": 1,
+          "interaction": "Gatsby's desperation to achieve his dreams is shadowed by a looming sense of divine judgment."
         },
         {
           "source": "Isolation",
           "target": "Illusion Vs. Reality",
-          "value": 2,
-          "interaction": "Gatsby's isolation is marked by the illusions he holds about his relationship with Daisy, contrasting sharply with the reality of their situation."
+          "value": 1,
+          "interaction": "Gatsby's isolation creates an illusion of happiness that starkly contrasts with his reality."
         },
         {
           "source": "Isolation",
           "target": "Death",
-          "value": 2,
-          "interaction": "Gatsby's sense of isolation deepens as he contemplates the death of his dreams for a future with Daisy."
+          "value": 1,
+          "interaction": "Gatsby's isolation foreshadows the eventual death of his dreams and relationships."
         },
         {
           "source": "Illusion Vs. Reality",
           "target": "Death",
-          "value": 2,
-          "interaction": "The chapter explores how the illusions surrounding Gatsby's love for Daisy are ultimately leading to the death of his hopes."
+          "value": 1,
+          "interaction": "The illusions surrounding Gatsby's life ultimately lead to the death of his aspirations and relationships."
         }
       ],
       "importance_rank": 2,
@@ -1559,7 +1558,7 @@
       "locations": {
         "Gatsby's House": 2,
         "Gatsby's Funeral": 2,
-        "Union Station, Chicago": 1
+        "New York City": 1
       },
       "characters": {
         "Isolation": 2,
@@ -1578,110 +1577,110 @@
         {
           "source": "Isolation",
           "target": "Media Intrusion",
-          "value": 2,
-          "interaction": "Isolation is heightened as media intrudes on Gatsby's death, creating a sense of public spectacle around a private tragedy."
+          "value": 1,
+          "interaction": "Nick feels isolated as the media intrudes on Gatsby's death, highlighting the contrast between personal grief and public spectacle."
         },
         {
           "source": "Isolation",
           "target": "Grief And Loss",
-          "value": 2,
-          "interaction": "Nick feels isolated in his grief for Gatsby, reflecting on the loneliness that accompanies loss."
+          "value": 1,
+          "interaction": "Nick's isolation deepens as he grapples with the grief of losing Gatsby, feeling alone in his sorrow."
         },
         {
           "source": "Isolation",
           "target": "Guilt And Responsibility",
-          "value": 2,
-          "interaction": "Nick grapples with feelings of guilt and responsibility for not being able to save Gatsby, deepening his sense of isolation."
+          "value": 1,
+          "interaction": "Nick's sense of isolation is compounded by feelings of guilt and responsibility for not being a better friend to Gatsby."
         },
         {
           "source": "Media Intrusion",
           "target": "Grief And Loss",
-          "value": 2,
-          "interaction": "The media's presence amplifies the grief surrounding Gatsby's death, turning personal sorrow into a public affair."
+          "value": 1,
+          "interaction": "The media's presence during Gatsby's funeral underscores the public's lack of genuine grief, contrasting with Nick's personal loss."
         },
         {
           "source": "Media Intrusion",
           "target": "Guilt And Responsibility",
-          "value": 2,
-          "interaction": "Nick feels guilt over Gatsby's fate, exacerbated by the media's relentless coverage of the events."
+          "value": 1,
+          "interaction": "Nick feels guilt over not protecting Gatsby from media scrutiny, which adds to his sense of responsibility for his friend's fate."
         },
         {
           "source": "Grief And Loss",
           "target": "Guilt And Responsibility",
-          "value": 2,
-          "interaction": "Nick's grief for Gatsby is intertwined with guilt, as he reflects on his role in Gatsby's life and death."
+          "value": 1,
+          "interaction": "Nick's grief for Gatsby is intertwined with guilt, as he reflects on his own role in Gatsby's life and death."
         },
         {
           "source": "Grief And Loss",
           "target": "Pride And Legacy",
-          "value": 2,
-          "interaction": "Nick contemplates Gatsby's legacy and the pride Gatsby took in his dreams, contrasting it with the grief of his untimely death."
+          "value": 1,
+          "interaction": "Nick contemplates Gatsby's legacy and the pride Gatsby took in his dreams, which are now overshadowed by loss."
         },
         {
           "source": "Grief And Loss",
           "target": "Helplessness",
-          "value": 2,
-          "interaction": "Nick feels helpless in the face of Gatsby's death, overwhelmed by the loss and the lack of support from others."
+          "value": 1,
+          "interaction": "Nick feels helpless in the face of Gatsby's death, grappling with the futility of his friend's aspirations."
         },
         {
           "source": "Pride And Legacy",
           "target": "Helplessness",
-          "value": 2,
-          "interaction": "Gatsby's pride in his achievements clashes with the helplessness felt by those left behind after his death."
+          "value": 1,
+          "interaction": "Gatsby's pride in his legacy contrasts with the helplessness felt by those left behind, particularly Nick."
         },
         {
           "source": "Friendship And Trust",
           "target": "Isolation",
-          "value": 2,
-          "interaction": "Nick's sense of friendship and trust is tested as he feels isolated in his mourning for Gatsby."
+          "value": 1,
+          "interaction": "Nick's friendship with Gatsby is marked by isolation, as he feels disconnected from others who fail to understand Gatsby's significance."
         },
         {
           "source": "Friendship And Trust",
           "target": "Pride And Legacy",
-          "value": 2,
-          "interaction": "Nick reflects on the pride Gatsby had in his friendships, which now feel hollow in the wake of his death."
+          "value": 1,
+          "interaction": "Nick reflects on the pride Gatsby had in his legacy, which was built on trust and friendship, now lost."
         },
         {
           "source": "Isolation",
           "target": "Pride And Legacy",
-          "value": 2,
-          "interaction": "Nick's isolation is contrasted with Gatsby's pride in his legacy, highlighting the emptiness left after his passing."
+          "value": 1,
+          "interaction": "Nick's isolation is intensified by the realization that Gatsby's pride in his legacy is unrecognized by the world."
         },
         {
           "source": "Isolation And Abandonment",
           "target": "Grief And Loss",
-          "value": 2,
-          "interaction": "The feelings of isolation and abandonment are palpable as Nick mourns Gatsby, who died alone despite his grand aspirations."
+          "value": 1,
+          "interaction": "Nick experiences a profound sense of abandonment in his grief for Gatsby, feeling that few truly cared."
         },
         {
           "source": "Isolation And Abandonment",
           "target": "Disillusionment",
-          "value": 2,
-          "interaction": "Nick experiences disillusionment with the world around him, feeling abandoned in his isolation after Gatsby's death."
+          "value": 1,
+          "interaction": "Nick's feelings of isolation and abandonment lead to disillusionment with the society that failed Gatsby."
         },
         {
           "source": "Grief And Loss",
           "target": "Disillusionment",
-          "value": 2,
-          "interaction": "Nick's grief leads to a sense of disillusionment with the American Dream, as he reflects on the emptiness of Gatsby's life."
+          "value": 1,
+          "interaction": "Nick's grief for Gatsby is intertwined with disillusionment about the American Dream and the emptiness of wealth."
         },
         {
           "source": "Nostalgia",
           "target": "Carelessness",
-          "value": 2,
-          "interaction": "Nick feels nostalgic for the past, contrasting it with the carelessness that led to Gatsby's downfall."
+          "value": 1,
+          "interaction": "Nick's nostalgia for Gatsby's dreams clashes with the carelessness of those who exploit his story."
         },
         {
           "source": "Nostalgia",
           "target": "Disillusionment",
-          "value": 2,
-          "interaction": "Nick's nostalgia for Gatsby's dreams is overshadowed by disillusionment with the reality of his life and death."
+          "value": 1,
+          "interaction": "Nick's nostalgia for the past is tinged with disillusionment as he reflects on the reality of Gatsby's life."
         },
         {
           "source": "Carelessness",
           "target": "Disillusionment",
-          "value": 2,
-          "interaction": "The carelessness of those around Gatsby contributes to the disillusionment felt by Nick as he reflects on the events leading to Gatsby's demise."
+          "value": 1,
+          "interaction": "The carelessness of the characters leads to a broader disillusionment with the values they represent."
         }
       ],
       "importance_rank": 1,
@@ -2725,7 +2724,7 @@
           "importance_rank": 3
         },
         {
-          "name": "Identity And Self-perception",
+          "name": "Identity And Status",
           "role": "Examines Daisy's struggle with her identity amidst societal pressures.",
           "importance": 0.6,
           "emotion": "Confused and lost",
@@ -4538,7 +4537,7 @@
       "text": "One of my most vivid memories is of coming back West from prep school\nand later from college at Christmas time. Those who went farther than\nChicago would gather in the old dim Union Station at six o'clock of a\nDecember evening, with a few Chicago friends, already caught up into\ntheir own holiday gaieties, to bid them a hasty goodbye. I remember\nthe fur coats of the girls returning from Miss This-or-That's and the\nchatter of frozen breath and the hands waving overhead as we caught\nsight of old acquaintances, and the matchings of invitations: \"Are you\ngoing to the Ordways'? the Herseys'? the Schultzes'?\" and the long\ngreen tickets clasped tight in our gloved hands. And last the murky\nyellow cars of the Chicago, Milwaukee and St. Paul railroad looking\ncheerful as Christmas itself on the tracks beside the gate.\nWhen we pulled out into the winter night and the real snow, our snow,\nbegan to stretch out beside us and twinkle against the windows, and\nthe dim lights of small Wisconsin stations moved by, a sharp wild\nbrace came suddenly into the air. We drew in deep breaths of it as we\nwalked back from dinner through the cold vestibules, unutterably aware\nof our identity with this country for one strange hour, before we\nmelted indistinguishably into it again.\nThat's my Middle West\u2014not the wheat or the prairies or the lost Swede\ntowns, but the thrilling returning trains of my youth, and the street\nlamps and sleigh bells in the frosty dark and the shadows of holly\nwreaths thrown by lighted windows on the snow. I am part of that, a\nlittle solemn with the feel of those long winters, a little complacent\nfrom growing up in the Carraway house in a city where dwellings are\nstill called through decades by a family's name. I see now that this\nhas been a story of the West, after all\u2014Tom and Gatsby, Daisy and\nJordan and I, were all Westerners, and perhaps we possessed some\ndeficiency in common which made us subtly unadaptable to Eastern life.\nEven when the East excited me most, even when I was most keenly aware\nof its superiority to the bored, sprawling, swollen towns beyond the\nOhio, with their interminable inquisitions which spared only the\nchildren and the very old\u2014even then it had always for me a quality of\ndistortion. West Egg, especially, still figures in my more fantastic\ndreams. I see it as a night scene by El Greco: a hundred houses, at\nonce conventional and grotesque, crouching under a sullen, overhanging\nsky and a lustreless moon. In the foreground four solemn men in dress\nsuits are walking along the sidewalk with a stretcher on which lies a\ndrunken woman in a white evening dress. Her hand, which dangles over\nthe side, sparkles cold with jewels. Gravely the men turn in at a\nhouse\u2014the wrong house. But no one knows the woman's name, and no one\ncares.\nAfter Gatsby's death the East was haunted for me like that, distorted\nbeyond my eyes' power of correction. So when the blue smoke of brittle\nleaves was in the air and the wind blew the wet laundry stiff on the\nline I decided to come back home.\nThere was one thing to be done before I left, an awkward, unpleasant\nthing that perhaps had better have been let alone. But I wanted to\nleave things in order and not just trust that obliging and indifferent\nsea to sweep my refuse away. I saw Jordan Baker and talked over and\naround what had happened to us together, and what had happened\nafterward to me, and she lay perfectly still, listening, in a big\nchair.\nShe was dressed to play golf, and I remember thinking she looked like\na good illustration, her chin raised a little jauntily, her hair the\ncolour of an autumn leaf, her face the same brown tint as the\nfingerless glove on her knee. When I had finished she told me without\ncomment that she was engaged to another man. I doubted that, though\nthere were several she could have married at a nod of her head, but I\npretended to be surprised. For just a minute I wondered if I wasn't\nmaking a mistake, then I thought it all over again quickly and got up\nto say goodbye.\n\"Nevertheless you did throw me over,\" said Jordan suddenly. \"You threw\nme over on the telephone. I don't give a damn about you now, but it\nwas a new experience for me, and I felt a little dizzy for a while.\"\nWe shook hands.\n\"Oh, and do you remember\"\u2014she added\u2014\"a conversation we had once about\ndriving a car?\"\n\"Why\u2014not exactly.\"\n\"You said a bad driver was only safe until she met another bad driver?\nWell, I met another bad driver, didn't I? I mean it was careless of me\nto make such a wrong guess. I thought you were rather an honest,\nstraightforward person. I thought it was your secret pride.\"\n\"I'm thirty,\" I said. \"I'm five years too old to lie to myself and\ncall it honour.\"\nShe didn't answer. Angry, and half in love with her, and tremendously\nsorry, I turned away.\n------------------------------------------------------------------------\nOne afternoon late in October I saw Tom Buchanan. He was walking ahead\nof me along Fifth Avenue in his alert, aggressive way, his hands out a\nlittle from his body as if to fight off interference, his head moving\nsharply here and there, adapting itself to his restless eyes. Just as\nI slowed up to avoid overtaking him he stopped and began frowning into\nthe windows of a jewellery store. Suddenly he saw me and walked back,\nholding out his hand.\n\"What's the matter, Nick? Do you object to shaking hands with me?\"\n\"Yes. You know what I think of you.\"\n\"You're crazy, Nick,\" he said quickly. \"Crazy as hell. I don't know\nwhat's the matter with you.\"\n\"Tom,\" I inquired, \"what did you say to Wilson that afternoon?\"\nHe stared at me without a word, and I knew I had guessed right about\nthose missing hours. I started to turn away, but he took a step after\nme and grabbed my arm.\n\"I told him the truth,\" he said. \"He came to the door while we were\ngetting ready to leave, and when I sent down word that we weren't in\nhe tried to force his way upstairs. He was crazy enough to kill me if\nI hadn't told him who owned the car. His hand was on a revolver in his\npocket every minute he was in the house\u2014\" He broke off defiantly.\n\"What if I did tell him? That fellow had it coming to him. He threw\ndust into your eyes just like he did in Daisy's, but he was a tough\none. He ran over Myrtle like you'd run over a dog and never even\nstopped his car.\"\nThere was nothing I could say, except the one unutterable fact that it\nwasn't true.\n\"And if you think I didn't have my share of suffering\u2014look here, when\nI went to give up that flat and saw that damn box of dog biscuits\nsitting there on the sideboard, I sat down and cried like a baby. By\nGod it was awful\u2014\"\nI couldn't forgive him or like him, but I saw that what he had done\nwas, to him, entirely justified. It was all very careless and\nconfused. They were careless people, Tom and Daisy\u2014they smashed up\nthings and creatures and then retreated back into their money or their\nvast carelessness, or whatever it was that kept them together, and let\nother people clean up the mess they had made \u2026\nI shook hands with him; it seemed silly not to, for I felt suddenly as\nthough I were talking to a child. Then he went into the jewellery\nstore to buy a pearl necklace\u2014or perhaps only a pair of cuff\nbuttons\u2014rid of my provincial squeamishness forever.\n------------------------------------------------------------------------\nGatsby's house was still empty when I left\u2014the grass on his lawn had\ngrown as long as mine. One of the taxi drivers in the village never\ntook a fare past the entrance gate without stopping for a minute and\npointing inside; perhaps it was he who drove Daisy and Gatsby over to\nEast Egg the night of the accident, and perhaps he had made a story\nabout it all his own. I didn't want to hear it and I avoided him when\nI got off the train.\nI spent my Saturday nights in New York because those gleaming,\ndazzling parties of his were with me so vividly that I could still\nhear the music and the laughter, faint and incessant, from his garden,\nand the cars going up and down his drive. One night I did hear a\nmaterial car there, and saw its lights stop at his front steps. But I\ndidn't investigate. Probably it was some final guest who had been away\nat the ends of the earth and didn't know that the party was over.\nOn the last night, with my trunk packed and my car sold to the grocer,\nI went over and looked at that huge incoherent failure of a house once\nmore. On the white steps an obscene word, scrawled by some boy with a\npiece of brick, stood out clearly in the moonlight, and I erased it,\ndrawing my shoe raspingly along the stone. Then I wandered down to the\nbeach and sprawled out on the sand.\nMost of the big shore places were closed now and there were hardly any\nlights except the shadowy, moving glow of a ferryboat across the\nSound. And as the moon rose higher the inessential houses began to\nmelt away until gradually I became aware of the old island here that\nflowered once for Dutch sailors' eyes\u2014a fresh, green breast of the new\nworld. Its vanished trees, the trees that had made way for Gatsby's\nhouse, had once pandered in whispers to the last and greatest of all\nhuman dreams; for a transitory enchanted moment man must have held his\nbreath in the presence of this continent, compelled into an aesthetic\ncontemplation he neither understood nor desired, face to face for the\nlast time in history with something commensurate to his capacity for\nwonder.\nAnd as I sat there brooding on the old, unknown world, I thought of\nGatsby's wonder when he first picked out the green light at the end of\nDaisy's dock. He had come a long way to this blue lawn, and his dream\nmust have seemed so close that he could hardly fail to grasp it. He\ndid not know that it was already behind him, somewhere back in that\nvast obscurity beyond the city, where the dark fields of the republic\nrolled on under the night.\nGatsby believed in the green light, the orgastic future that year by\nyear recedes before us. It eluded us then, but that's no\nmatter\u2014tomorrow we will run faster, stretch out our arms further \u2026 And\none fine morning\u2014\nSo we beat on, boats against the current, borne back ceaselessly into",
       "length": 10094,
       "num_lines": 163,
-      "location": "Union Station, Chicago",
+      "location": "New York City",
       "importance": 0.9,
       "conflict": 0.7,
       "characters": [
@@ -4590,29 +4589,29 @@
       "name": "Hope And Dreams",
       "quote": "\"it was an extraordinary gift for hope, a romantic readiness such as I have never found in any other person\"",
       "group": "Emotions",
-      "color": "rgb(0, 255, 0)",
-      "explanation": "Bright green represents hope and dreams, embodying the aspirations that drive the characters."
+      "color": "rgb(135, 206, 235)",
+      "explanation": "Sky blue embodies hope and dreams, representing the aspirations and desires of the characters."
     },
     {
       "name": "Disillusionment",
       "quote": "\"I wanted the world to be in uniform and at a sort of moral attention forever; I wanted no more riotous excursions with privileged glimpses into the human heart.\"",
       "group": "Emotions",
-      "color": "rgb(128, 0, 128)",
-      "explanation": "Purple evokes a sense of disappointment and disillusionment, mirroring the narrator's growing cynicism about the world around him."
+      "color": "rgb(255, 215, 0)",
+      "explanation": "Gold reflects the theme of disillusionment, representing the false allure of wealth and success."
     },
     {
       "name": "Social Class",
       "quote": "\"The character expresses a mix of pride and resignation about their living situation, highlighting the disparity between their modest home and the wealth surrounding them, yet finding solace in their view.\"",
       "group": "Social Themes",
-      "color": "rgb(255, 215, 0)",
-      "explanation": "Gold symbolizes wealth and social status, highlighting the disparities between the characters' backgrounds and lifestyles."
+      "color": "rgb(255, 99, 71)",
+      "explanation": "The bright red symbolizes the stark contrasts and tensions between different social classes."
     },
     {
       "name": "Isolation",
       "quote": "\"It was lonely for a day or so until one morning some man, more recently arrived than I, stopped me on the road.\"",
       "group": "Emotions",
-      "color": "rgb(100, 149, 237)",
-      "explanation": "This shade of blue represents the feeling of loneliness and isolation that permeates the narrative, reflecting the emotional distance between characters."
+      "color": "rgb(118, 185, 71)",
+      "explanation": "This green represents the feeling of loneliness and separation from others, reflecting the character's emotional state."
     },
     {
       "name": "New Beginnings",
@@ -4632,15 +4631,15 @@
       "name": "Wealth And Power",
       "quote": "\"He seemed to fill those glistening boots until he strained the top lacing, and you could see a great pack of muscle shifting when his shoulder moved under his thin coat.\"",
       "group": "Social Themes",
-      "color": "rgb(0, 0, 255)",
-      "explanation": "Blue represents the power dynamics at play, particularly in the context of wealth and influence among the characters."
+      "color": "rgb(0, 128, 0)",
+      "explanation": "Dark green symbolizes wealth and power, representing the materialistic pursuits of the characters."
     },
     {
       "name": "Social Facade",
       "quote": "\"They were here, and they accepted Tom and me, making only a polite pleasant effort to entertain or to be entertained.\"",
       "group": "Social Themes",
-      "color": "rgb(192, 192, 192)",
-      "explanation": "Silver symbolizes the facade of social interactions, highlighting the superficiality of the characters' relationships."
+      "color": "rgb(255, 228, 196)",
+      "explanation": "Peach symbolizes the social facade, capturing the superficial interactions among characters."
     },
     {
       "name": "Gender Dynamics",
@@ -4672,14 +4671,14 @@
     },
     {
       "name": "Desolation",
-      "quote": "\"this is a valley of ashes\u0004where ashes grow like wheat into ridges and hills and grotesque gardens; where ashes take the forms of houses and chimneys and rising smoke\"",
+      "quote": "\"this is a valley of ashes\u0004a fantastic farm where ashes grow like wheat into ridges and hills and grotesque gardens; where ashes take the forms of houses and chimneys and rising smoke\"",
       "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Surveillance",
-      "quote": "\"you perceive, after a moment, the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J. Eckleburg are blue and gigantic\u0004\"",
+      "quote": "\"you perceive, after a moment, the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J. Eckleburg are blue and gigantic\u0004their retinas are one yard high\"",
       "group": "Social Themes",
       "color": "",
       "explanation": ""
@@ -4695,15 +4694,15 @@
       "name": "Infidelity",
       "quote": "\"The fact that he had one was insisted upon wherever he was known.\"",
       "group": "Social Themes",
-      "color": "rgb(255, 20, 147)",
-      "explanation": "Deep pink represents betrayal and infidelity, capturing the emotional turmoil caused by unfaithfulness."
+      "color": "rgb(255, 69, 0)",
+      "explanation": "Red-orange represents infidelity, capturing the betrayal and passion intertwined in such relationships."
     },
     {
       "name": "Desperation",
       "quote": "\"I can't complain,\" answered Wilson unconvincingly. \"When are you going to sell me that car?\"",
       "group": "Emotions",
-      "color": "rgb(255, 0, 255)",
-      "explanation": "Magenta reflects the desperation felt by characters as they navigate their tumultuous lives."
+      "color": "rgb(255, 140, 0)",
+      "explanation": "Dark orange signifies desperation, reflecting the characters' urgent struggles and desires."
     },
     {
       "name": "Power Dynamics",
@@ -4716,8 +4715,8 @@
       "name": "Deception",
       "quote": "\"He thinks she goes to see her sister in New York.\"",
       "group": "Social Themes",
-      "color": "rgb(128, 128, 0)",
-      "explanation": "Olive green represents the theme of deception, capturing the lies and facades that characters maintain."
+      "color": "rgb(255, 20, 147)",
+      "explanation": "Magenta represents deception, highlighting the falsehoods and facades present in the narrative."
     },
     {
       "name": "Desire For Companionship",
@@ -4730,33 +4729,33 @@
       "name": "Materialism",
       "quote": "\"How much is it?\"",
       "group": "Social Themes",
-      "color": "rgb(255, 105, 180)",
-      "explanation": "Hot pink symbolizes materialism, reflecting the characters' obsession with wealth and possessions."
+      "color": "rgb(255, 215, 0)",
+      "explanation": "Gold reflects materialism, symbolizing the characters' obsession with wealth and possessions."
     },
     {
       "name": "Identity And Status",
       "quote": "\"I think it's cute,\" said Mrs. Wilson enthusiastically.",
       "group": "Social Themes",
-      "color": "rgb(0, 128, 128)",
-      "explanation": "Teal reflects the complexities of identity and social status, highlighting the characters' struggles with their self-perceptions."
+      "color": "rgb(255, 165, 0)",
+      "explanation": "Orange reflects the quest for identity and status, highlighting the characters' struggles with self-perception."
     },
     {
       "name": "Desire And Urgency",
       "quote": "\"Come on,\" she urged. \"I'll telephone my sister Catherine. She's said to be very beautiful by people who ought to know.\"",
       "group": "Emotions",
-      "color": "rgb(255, 69, 0)",
-      "explanation": "This bright red-orange signifies the urgency of desire, representing the characters' relentless pursuits."
+      "color": "rgb(255, 105, 180)",
+      "explanation": "Hot pink embodies desire and urgency, reflecting the intense emotions driving the characters."
     },
     {
       "name": "Social Status",
       "quote": "\"Throwing a regal homecoming glance around the neighbourhood, Mrs. Wilson gathered up her dog and her other purchases, and went haughtily in.\"",
       "group": "Social Themes",
-      "color": "rgb(255, 255, 0)",
-      "explanation": "Yellow symbolizes the superficial nature of social status, reflecting the characters' preoccupations with appearances."
+      "color": "rgb(0, 0, 255)",
+      "explanation": "Blue signifies social status, representing the characters' preoccupations with their societal positions."
     },
     {
       "name": "Alcohol Influence",
-      "quote": "\"I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it...\"",
+      "quote": "\"I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it.\"",
       "group": "Emotions",
       "color": "",
       "explanation": ""
@@ -4801,39 +4800,39 @@
       "quote": "\"Somebody told me they thought he killed a man once.\"",
       "group": "Social Themes",
       "color": "rgb(75, 0, 130)",
-      "explanation": "Indigo represents the intrigue and mystery surrounding Gatsby, as well as the rumors that circulate about him."
+      "explanation": "Indigo reflects the themes of mystery and rumor, capturing the intrigue surrounding the characters."
     },
     {
       "name": "Urban Life",
-      "quote": "\"I began to like New York, the racy, adventurous feel of it at night...\"",
+      "quote": "\"I began to like New York, the racy, adventurous feel of it at night, and the satisfaction that the constant flicker of men and women and machines gives to the restless eye.\"",
       "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Romantic Idealization",
-      "quote": "\"I liked to walk up Fifth Avenue and pick out romantic women from the crowd...\"",
+      "quote": "\"I liked to walk up Fifth Avenue and pick out romantic women from the crowd and imagine that in a few minutes I was going to enter into their lives, and no one would ever know or disapprove.\"",
       "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Wealth And Class",
-      "quote": "\"They will give you a better impression than my generalities of those who accepted Gatsby's hospitality and paid him the subtle tribute of knowing nothing whatever about him.\"",
+      "quote": "\"That huge place there?\" she cried pointing. \"Do you like it?\"",
       "group": "Social Themes",
-      "color": "rgb(255, 165, 0)",
-      "explanation": "Orange signifies the material wealth and class distinctions that define the characters' interactions and societal standings."
+      "color": "rgb(128, 0, 128)",
+      "explanation": "Purple signifies the complexities of wealth and class, representing both aspiration and exclusivity."
     },
     {
       "name": "Friendship And Trust",
-      "quote": "\"I didn't want you to think I was just some nobody.\"",
+      "quote": "\"I don't want to put you to any trouble, you see.\"",
       "group": "Emotions",
       "color": "rgb(0, 255, 255)",
-      "explanation": "Cyan symbolizes the bonds of friendship and trust, highlighting the connections between characters."
+      "explanation": "Cyan symbolizes friendship and trust, representing the bonds formed between characters."
     },
     {
       "name": "The American Dream",
-      "quote": "\"I am the son of some wealthy people in the Middle West\u2014all dead now.\"",
+      "quote": "\"I want to see her right next door.\"",
       "group": "Social Themes",
       "color": "",
       "explanation": ""
@@ -4842,27 +4841,20 @@
       "name": "Love And Desire",
       "quote": "\"Are you in love with me,\" she said low in my ear, \"or why did I have to come alone?\"",
       "group": "Emotions",
-      "color": "rgb(255, 0, 0)",
-      "explanation": "Red is the color of passion and desire, representing the intense emotions surrounding love and relationships in the story."
-    },
-    {
-      "name": "Identity And Self-perception",
-      "quote": "\"This is a terrible mistake,\" he said, shaking his head from side to side, \"a terrible, terrible mistake.\"",
-      "group": "Emotions",
-      "color": "",
-      "explanation": ""
+      "color": "rgb(255, 20, 147)",
+      "explanation": "This vibrant pink embodies the passionate and often tumultuous nature of love and desire."
     },
     {
       "name": "Unrequited Love",
-      "quote": "\"He wants her to see his house,\" she explained. \"And your house is right next door.\"",
+      "quote": "\"He wants her to see his house.\"",
       "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Desire And Ambition",
-      "quote": "He wants her to see his house.",
-      "group": "Ambition",
+      "quote": "\"He had waited five years and bought a mansion where he dispensed starlight to casual moths\u2014to come over some afternoon to a stranger's garden.\"",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
@@ -4882,10 +4874,10 @@
     },
     {
       "name": "Illusion Vs. Reality",
-      "quote": "Now it was again a green light on a dock.",
-      "group": "Reality",
-      "color": "rgb(0, 255, 127)",
-      "explanation": "This vibrant green reflects the contrast between the characters' illusions and the harsh realities they face."
+      "quote": "but, judging from his expression, I don't believe he saw a thing.",
+      "group": "Social Themes",
+      "color": "rgb(70, 130, 180)",
+      "explanation": "Steel blue signifies the conflict between illusion and reality, capturing the essence of deception."
     },
     {
       "name": "Time And Waiting",
@@ -4897,9 +4889,9 @@
     {
       "name": "Nostalgia",
       "quote": "Five years next November.",
-      "group": "Past",
+      "group": "Emotions",
       "color": "rgb(255, 192, 203)",
-      "explanation": "Light pink evokes feelings of nostalgia, representing the longing for the past and the memories that haunt the characters."
+      "explanation": "Light pink evokes feelings of nostalgia, representing the longing for the past."
     },
     {
       "name": "Discomfort",
@@ -4910,7 +4902,7 @@
     },
     {
       "name": "Embarrassment",
-      "quote": "This is a terrible mistake, a terrible, terrible mistake.",
+      "quote": "This is a terrible mistake,\" he said, shaking his head from side to side, \"a terrible, terrible mistake.",
       "group": "Emotions",
       "color": "",
       "explanation": ""
@@ -4925,21 +4917,21 @@
     {
       "name": "Lost Dreams",
       "quote": "Possibly it had occurred to him that the colossal significance of that light had now vanished forever.",
-      "group": "Past",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Love And Distance",
       "quote": "Compared to the great distance that had separated him from Daisy it had seemed very near to her, almost touching her.",
-      "group": "Love",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Departure",
       "quote": "Then I went out of the room and down the marble steps into the rain, leaving them there together.",
-      "group": "Change",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
@@ -4953,42 +4945,42 @@
     {
       "name": "Ambition And Initiative",
       "quote": "This was his day off and with laudable initiative he had hurried out 'to see.'",
-      "group": "Ambition",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Desire And Rejection",
       "quote": "Gatsby looked at me questioningly. He wanted to go and he didn't see that Mr. Sloane had determined he shouldn't.",
-      "group": "Love",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Lost Love",
-      "quote": "I feel far away from her, it's hard to make her understand.",
-      "group": "Love",
+      "quote": "I feel far away from her,\" he said. \"It's hard to make her understand.",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "The Past",
-      "quote": "Can't repeat the past? Why of course you can!",
-      "group": "Past",
+      "quote": "Can't repeat the past?\" he cried incredulously. \"Why of course you can!",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Change",
       "quote": "My Finn informed me that Gatsby had dismissed every servant in his house a week ago and replaced them with half a dozen others.",
-      "group": "Change",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Love And Betrayal",
       "quote": "You know I love you,",
-      "group": "Love",
+      "group": "Emotions",
       "color": "",
       "explanation": ""
     },
@@ -5001,7 +4993,7 @@
     },
     {
       "name": "Heat And Confusion",
-      "quote": "\"But it's so hot,\" insisted Daisy, on the verge of tears, \"and everything's so confused. Let's all go to town!\"",
+      "quote": "It's far too hot to touch this noon!",
       "group": "Emotions",
       "color": "",
       "explanation": ""
@@ -5050,15 +5042,15 @@
     },
     {
       "name": "Grief And Loss",
-      "quote": "\"Oh, my God!\" uttered Wilson, standing on the raised threshold of his office, swaying back and forth and holding to the doorposts with both hands.",
+      "quote": "\"Oh, my God!\" again in his groaning voice.",
       "group": "Emotions",
-      "color": "rgb(105, 105, 105)",
-      "explanation": "Gray symbolizes the sorrow and loss experienced by the characters, particularly in relation to their pasts."
+      "color": "rgb(128, 128, 128)",
+      "explanation": "Gray symbolizes grief and loss, reflecting the somber emotions associated with these themes."
     },
     {
       "name": "Guilt And Responsibility",
       "quote": "\"I just got here a minute ago, from New York. I was bringing you that coup\u00e9 we've been talking about. That yellow car I was driving this afternoon wasn't mine\u2014do you hear? I haven't seen it all afternoon.\"",
-      "group": "Emotions",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
@@ -5072,7 +5064,7 @@
     {
       "name": "Dreams Vs. Reality",
       "quote": "\"I tossed half-sick between grotesque reality and savage, frightening dreams.\"",
-      "group": "Emotions",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
@@ -5105,23 +5097,16 @@
       "explanation": ""
     },
     {
-      "name": "Love And Loss",
-      "quote": "\"He left feeling that if he had searched harder, he might have found her\u2014that he was leaving her behind.\"",
-      "group": "Emotions",
-      "color": "",
-      "explanation": ""
-    },
-    {
       "name": "Uncertainty",
-      "quote": "\"I couldn't have talked to her across a tea-table that day if I never talked to her again in this world.\"",
+      "quote": "\"the uncertainty of her own movements between hotels and clubs and private houses made her hard to find in any other way.\"",
       "group": "Emotions",
       "color": "",
       "explanation": ""
     },
     {
       "name": "Disconnection",
-      "quote": "\"I found myself on Gatsby's side, and alone.\"",
-      "group": "Emotions",
+      "quote": "\"I couldn't have talked to her across a tea-table that day if I never talked to her again in this world.\"",
+      "group": "Social Themes",
       "color": "",
       "explanation": ""
     },
@@ -5141,7 +5126,7 @@
     },
     {
       "name": "Death",
-      "quote": "the holocaust was complete",
+      "quote": "\"the holocaust was complete\"",
       "group": "Emotions",
       "color": "",
       "explanation": ""
@@ -5180,6 +5165,13 @@
       "group": "Social Themes",
       "color": "",
       "explanation": ""
+    },
+    {
+      "name": "Love And Loss",
+      "quote": "",
+      "group": "misc",
+      "color": "",
+      "explanation": ""
     }
   ],
   "locations": [
@@ -5190,7 +5182,7 @@
     },
     {
       "name": "West Egg, New York",
-      "quote": "I lived at West Egg, the\u2014well, the less fashionable of the two, though this is a most superficial tag to express the bizarre and not a little sinister contrast between them.",
+      "quote": "I lived at West Egg, the\u2014well, the less fashionable of the two.",
       "emoji": "\ud83c\udfe1"
     },
     {
@@ -5201,7 +5193,7 @@
     {
       "name": "Nick's Conversation With Daisy",
       "quote": "Well, I've had a very bad time, Nick, and I'm pretty cynical about everything.",
-      "emoji": "\ud83d\udde3\ufe0f"
+      "emoji": "\ud83d\udcac"
     },
     {
       "name": "Valley Of Ashes",
@@ -5215,13 +5207,13 @@
     },
     {
       "name": "Tom's Apartment",
-      "quote": "Making a short deft movement, Tom Buchanan broke her nose with his open hand.",
+      "quote": "The interior was unprosperous and bare; the only car visible was the dust-covered wreck of a Ford which crouched in a dim corner.",
       "emoji": "\ud83c\udfe2"
     },
     {
       "name": "Gatsby's House",
-      "quote": "In his blue gardens men and girls came and went like moths among the whisperings and the champagne and the stars.",
-      "emoji": "\ud83c\udfd6\ufe0f"
+      "quote": "There was music from my neighbour's house through the summer nights.",
+      "emoji": "\ud83c\udf89"
     },
     {
       "name": "In The Car",
@@ -5230,43 +5222,38 @@
     },
     {
       "name": "In The Yard",
-      "quote": "I was standing beside his bed and he was sitting up between the sheets, clad in his underwear, with a great portfolio in his hands.",
+      "quote": "I was standing beside his bed and he was sitting up between the sheets, clad in his underwear.",
       "emoji": "\ud83c\udf33"
     },
     {
       "name": "Marble Steps In Rain",
-      "quote": "The rain fell in torrents, and the marble steps were slick and treacherous.",
+      "quote": "The rain symbolized isolation, enhancing the mood of Gatsby's loneliness during the reunion with Daisy.",
       "emoji": "\ud83c\udf27\ufe0f"
     },
     {
       "name": "Lake Superior",
-      "quote": "The lake was calm, reflecting the sky like a mirror, a serene contrast to the chaos of the city.",
+      "quote": "Gatsby's hope is fueled by his wealth and class, believing they will help him achieve his dreams of love and acceptance.",
       "emoji": "\ud83c\udfde\ufe0f"
     },
     {
       "name": "Dining-room, Hot Afternoon",
-      "quote": "The dining-room was filled with the scent of rich food and the sound of laughter.",
+      "quote": "The only completely stationary object in the room was an enormous couch on which two young women were buoyed up as though upon an anchored balloon.",
       "emoji": "\ud83c\udf7d\ufe0f"
     },
     {
       "name": "Daisy's Room",
-      "quote": "Her face was sad and lovely with bright things in it, bright eyes and a bright passionate mouth.",
-      "emoji": "\ud83d\udecf\ufe0f"
+      "quote": "Daisy's voice was full of money.",
+      "emoji": "\ud83d\udc8e"
     },
     {
       "name": "Daisy's Social World",
-      "quote": "She laughed again, as if she said something very witty, and held my hand for a moment.",
+      "quote": "She was extended full length at her end of the divan, completely motionless, and with her chin raised a little.",
       "emoji": "\ud83d\udc57"
     },
     {
       "name": "Gatsby's Funeral",
       "quote": "After Gatsby's death, his father arrives, and Nick feels isolated as only a few attend the funeral.",
       "emoji": "\u26b0\ufe0f"
-    },
-    {
-      "name": "Union Station, Chicago",
-      "quote": "The station was bustling with travelers, each lost in their own world, a stark contrast to Gatsby's lonely end.",
-      "emoji": "\ud83d\ude89"
     }
   ]
 }
