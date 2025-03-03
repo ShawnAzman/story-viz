@@ -1,0 +1,466 @@
+LINE 1: TELEMACHUS AND ULYSSES REMOVE THE ARMOUR—ULYSSES INTERVIEWS
+LINE 2: PENELOPE—EURYCLEA WASHES HIS FEET AND RECOGNISES THE SCAR ON HIS
+LINE 3: LEG—PENELOPE TELLS HER DREAM T'ULYSSES.
+LINE 4: Ulysses was left in the cloister, pondering on the means whereby with
+LINE 5: Minerva's help he might be able t'kill the suitors. Presently he said
+LINE 6: t'Telemachus, "Telemachus, we must get the armour together and take it
+LINE 7: down inside. Make some excuse when the suitors ask you why you have
+LINE 8: removed it. Say that you have taken it t'be out of the way of the
+LINE 9: smoke, inasmuch as it is n'longer what it was when Ulysses went away,
+LINE 10: but has become soiled and begrimed with soot. Add t'this more
+LINE 11: particularly that you are afraid Jove may set them on t'quarrel over
+LINE 12: their wine, and that they may d'each other some harm which may
+LINE 13: disgrace both banquet and wooing, for the sight of arms sometimes
+LINE 14: tempts people t'use them."
+LINE 15: Telemachus approved of what his father had said, s'he called nurse
+LINE 16: Euryclea and said, "Nurse, shut the women up in their room, while I
+LINE 17: take the armour that my father left behind him down int'the store
+LINE 18: room. N'one looks after it now my father is gone, and it has got all
+LINE 19: smirched with soot during my own boyhood. I want t'take it down where
+LINE 20: the smoke cannot reach it."
+LINE 21: "I wish, child," answered Euryclea, "that you would take the management
+LINE 22: of the house int'your own hands altogether, and look after all the
+LINE 23: property yourself. But wh'is t'g'with you and light you t'the
+LINE 24: store-room? The maids would have done so, but you would not let them."
+LINE 25: "The stranger," said Telemachus, "shall show me a light; when people
+LINE 26: eat my bread they must earn it, n'matter where they come from."
+LINE 27: Euryclea did as she was told, and bolted the women inside their room.
+LINE 28: Then Ulysses and his son made all haste t'take the helmets, shields,
+LINE 29: and spears inside; and Minerva went before them with a gold lamp in her
+LINE 30: hand that shed a soft and brilliant radiance, whereon Telemachus said,
+LINE 31: "Father, my eyes behold a great marvel: the walls, with the rafters,
+LINE 32: crossbeams, and the supports on which they rest are all aglow as with a
+LINE 33: flaming fire. Surely there is some god here wh'has come down from
+LINE 34: heaven."
+LINE 35: "Hush," answered Ulysses, "hold your peace and ask n'questions, for
+LINE 36: this is the manner of the gods. Get you t'your bed, and leave me here
+LINE 37: t'talk with your mother and the maids. Your mother in her grief will
+LINE 38: ask me all sorts of questions."
+LINE 39: On this Telemachus went by torch-light t'the other side of the inner
+LINE 40: court, t'the room in which he always slept. There he lay in his bed
+LINE 41: till morning, while Ulysses was left in the cloister pondering on the
+LINE 42: means whereby with Minerva's help he might be able t'kill the suitors.
+LINE 43: Then Penelope came down from her room looking like Venus or Diana, and
+LINE 44: they set her a seat inlaid with scrolls of silver and ivory near the
+LINE 45: fire in her accustomed place. It had been made by Icmalius and had a
+LINE 46: footstool all in one piece with the seat itself; and it was covered
+LINE 47: with a thick fleece: on this she now sat, and the maids came from the
+LINE 48: women's room t'join her. They set about removing the tables at which
+LINE 49: the wicked suitors had been dining, and took away the bread that was
+LINE 50: left, with the cups from which they had drunk. They emptied the embers
+LINE 51: out of the braziers, and heaped much wood upon them t'give both light
+LINE 52: and heat; but Melanth'began t'rail at Ulysses a second time and said,
+LINE 53: "Stranger, d'you mean t'plague us by hanging about the house all
+LINE 54: night and spying upon the women? Be off, you wretch, outside, and eat
+LINE 55: your supper there, or you shall be driven out with a firebrand."
+LINE 56: Ulysses scowled at her and answered, "My good woman, why should you be
+LINE 57: s'angry with me? Is it because I am not clean, and my clothes are all
+LINE 58: in rags, and because I am obliged t'g'begging about after the manner
+LINE 59: of tramps and beggars generally? I to'was a rich man once, and had a
+LINE 60: fine house of my own; in those days I gave t'many a tramp such as I
+LINE 61: now am, n'matter wh'he might be nor what he wanted. I had any number
+LINE 62: of servants, and all the other things which people have wh'live well
+LINE 63: and are accounted wealthy, but it pleased Jove t'take all away from
+LINE 64: me; therefore, woman, beware lest you to'come t'lose that pride and
+LINE 65: place in which you now wanton above your fellows; have a care lest you
+LINE 66: get out of favour with your mistress, and lest Ulysses should come
+LINE 67: home, for there is still a chance that he may d'so. Moreover, though
+LINE 68: he be dead as you think he is, yet by Apollo's will he has left a son
+LINE 69: behind him, Telemachus, wh'will note anything done amiss by the maids
+LINE 70: in the house, for he is now n'longer in his boyhood."
+LINE 71: Penelope heard what he was saying and scolded the maid, "Impudent
+LINE 72: baggage," said she, "I see how abominably you are behaving, and you
+LINE 73: shall smart for it. You knew perfectly well, for I told you myself,
+LINE 74: that I was going t'see the stranger and ask him about my husband, for
+LINE 75: whose sake I am in such continual sorrow."
+LINE 76: Then she said t'her head waiting woman Eurynome, "Bring a seat with a
+LINE 77: fleece upon it, for the stranger t'sit upon while he tells his story,
+LINE 78: and listens t'what I have t'say. I wish t'ask him some questions."
+LINE 79: Eurynome brought the seat at once and set a fleece upon it, and as soon
+LINE 80: as Ulysses had sat down Penelope began by saying, "Stranger, I shall
+LINE 81: first ask you wh'and whence are you? Tell me of your town and
+LINE 82: parents."
+LINE 83: "Madam," answered Ulysses, "wh'on the face of the whole earth can dare
+LINE 84: t'chide with you? Your fame reaches the firmament of heaven itself;
+LINE 85: you are like some blameless king, wh'upholds righteousness, as the
+LINE 86: monarch over a great and valiant nation: the earth yields its wheat and
+LINE 87: barley, the trees are loaded with fruit, the ewes bring forth lambs,
+LINE 88: and the sea abounds with fish by reason of his virtues, and his people
+LINE 89: d'good deeds under him. Nevertheless, as I sit here in your house, ask
+LINE 90: me some other question and d'not seek t'know my race and family, or
+LINE 91: you will recall memories that will yet more increase my sorrow. I am
+LINE 92: full of heaviness, but I ought not t'sit weeping and wailing in
+LINE 93: another person's house, nor is it well t'be thus grieving continually.
+LINE 94: I shall have one of the servants or even yourself complaining of me,
+LINE 95: and saying that my eyes swim with tears because I am heavy with wine."
+LINE 96: Then Penelope answered, "Stranger, heaven robbed me of all beauty,
+LINE 97: whether of face or figure, when the Argives set sail for Troy and my
+LINE 98: dear husband with them. If he were t'return and look after my affairs
+LINE 99: I should be both more respected and should show a better presence to
+LINE 100: the world. As it is, I am oppressed with care, and with the afflictions
+LINE 101: which heaven has seen fit t'heap upon me. The chiefs from all our
+LINE 102: islands—Dulichium, Same, and Zacynthus, as als'from Ithaca itself, are
+LINE 103: wooing me against my will and are wasting my estate. I can therefore
+LINE 104: show n'attention t'strangers, nor suppliants, nor t'people wh'say
+LINE 105: that they are skilled artisans, but am all the time broken-hearted
+LINE 106: about Ulysses. They want me t'marry again at once, and I have to
+LINE 107: invent stratagems in order t'deceive them. In the first place heaven
+LINE 108: put it in my mind t'set up a great tambour-frame in my room, and to
+LINE 109: begin working upon an enormous piece of fine needlework. Then I said to
+LINE 110: them, 'Sweethearts, Ulysses is indeed dead, still, d'not press me to
+LINE 111: marry again immediately; wait—for I would not have my skill in
+LINE 112: needlework perish unrecorded—till I have finished making a pall for the
+LINE 113: her'Laertes, t'be ready against the time when death shall take him.
+LINE 114: He is very rich, and the women of the place will talk if he is laid out
+LINE 115: without a pall.' This was what I said, and they assented; whereon I
+LINE 116: used t'keep working at my great web all day long, but at night I would
+LINE 117: unpick the stitches again by torch light. I fooled them in this way for
+LINE 118: three years without their finding it out, but as time wore on and I was
+LINE 119: now in my fourth year, in the waning of moons, and many days had been
+LINE 120: accomplished, those good for nothing hussies my maids betrayed me to
+LINE 121: the suitors, wh'broke in upon me and caught me; they were very angry
+LINE 122: with me, s'I was forced t'finish my work whether I would or no. And
+LINE 123: now I d'not see how I can find any further shift for getting out of
+LINE 124: this marriage. My parents are putting great pressure upon me, and my
+LINE 125: son chafes at the ravages the suitors are making upon his estate, for
+LINE 126: he is now old enough t'understand all about it and is perfectly able
+LINE 127: t'look after his own affairs, for heaven has blessed him with an
+LINE 128: excellent disposition. Still, notwithstanding all this, tell me wh'you
+LINE 129: are and where you come from—for you must have had father and mother of
+LINE 130: some sort; you cannot be the son of an oak or of a rock."
+LINE 131: Then Ulysses answered, "Madam, wife of Ulysses, since you persist in
+LINE 132: asking me about my family, I will answer, n'matter what it costs me:
+LINE 133: people must expect t'be pained when they have been exiles as long as I
+LINE 134: have, and suffered as much among as many peoples. Nevertheless, as
+LINE 135: regards your question I will tell you all you ask. There is a fair and
+LINE 136: fruitful island in mid-ocean called Crete; it is thickly peopled and
+LINE 137: there are ninety cities in it: the people speak many different
+LINE 138: languages which overlap one another, for there are Achaeans, brave
+LINE 139: Eteocretans, Dorians of three-fold race, and noble Pelasgi. There is a
+LINE 140: great town there, Cnossus, where Minos reigned wh'every nine years had
+LINE 141: a conference with Jove himself.152 Minos was father t'Deucalion, whose
+LINE 142: son I am, for Deucalion had tw'sons Idomeneus and myself. Idomeneus
+LINE 143: sailed for Troy, and I, wh'am the younger, am called Aethon; my
+LINE 144: brother, however, was at once the older and the more valiant of the
+LINE 145: two; hence it was in Crete that I saw Ulysses and showed him
+LINE 146: hospitality, for the winds took him there as he was on his way t'Troy,
+LINE 147: carrying him out of his course from cape Malea and leaving him in
+LINE 148: Amnisus off the cave of Ilithuia, where the harbours are difficult to
+LINE 149: enter and he could hardly find shelter from the winds that were then
+LINE 150: raging. As soon as he got there he went int'the town and asked for
+LINE 151: Idomeneus, claiming t'be his old and valued friend, but Idomeneus had
+LINE 152: already set sail for Troy some ten or twelve days earlier, s'I took
+LINE 153: him t'my own house and showed him every kind of hospitality, for I had
+LINE 154: abundance of everything. Moreover, I fed the men wh'were with him with
+LINE 155: barley meal from the public store, and got subscriptions of wine and
+LINE 156: oxen for them t'sacrifice t'their heart's content. They stayed with
+LINE 157: me twelve days, for there was a gale blowing from the North s'strong
+LINE 158: that one could hardly keep one's feet on land. I suppose some
+LINE 159: unfriendly god had raised it for them, but on the thirteenth day the
+LINE 160: wind dropped, and they got away."
+LINE 161: Many a plausible tale did Ulysses further tell her, and Penelope wept
+LINE 162: as she listened, for her heart was melted. As the snow wastes upon the
+LINE 163: mountain tops when the winds from South East and West have breathed
+LINE 164: upon it and thawed it till the rivers run bank full with water, even so
+LINE 165: did her cheeks overflow with tears for the husband wh'was all the time
+LINE 166: sitting by her side. Ulysses felt for her and was sorry for her, but he
+LINE 167: kept his eyes as hard as horn or iron without letting them s'much as
+LINE 168: quiver, s'cunningly did he restrain his tears. Then, when she had
+LINE 169: relieved herself by weeping, she turned t'him again and said: "Now,
+LINE 170: stranger, I shall put you t'the test and see whether or n'you really
+LINE 171: did entertain my husband and his men, as you say you did. Tell me,
+LINE 172: then, how he was dressed, what kind of a man he was t'look at, and so
+LINE 173: als'with his companions."
+LINE 174: "Madam," answered Ulysses, "it is such a long time ag'that I can
+LINE 175: hardly say. Twenty years are come and gone since he left my home, and
+LINE 176: went elsewhither; but I will tell you as well as I can recollect.
+LINE 177: Ulysses wore a mantle of purple wool, double lined, and it was fastened
+LINE 178: by a gold brooch with tw'catches for the pin. On the face of this
+LINE 179: there was a device that shewed a dog holding a spotted fawn between his
+LINE 180: fore paws, and watching it as it lay panting upon the ground. Every one
+LINE 181: marvelled at the way in which these things had been done in gold, the
+LINE 182: dog looking at the fawn, and strangling it, while the fawn was
+LINE 183: struggling convulsively t'escape.153 As for the shirt that he wore
+LINE 184: next his skin, it was s'soft that it fitted him like the skin of an
+LINE 185: onion, and glistened in the sunlight t'the admiration of all the women
+LINE 186: wh'beheld it. Furthermore I say, and lay my saying t'your heart, that
+LINE 187: I d'not know whether Ulysses wore these clothes when he left home, or
+LINE 188: whether one of his companions had given them t'him while he was on his
+LINE 189: voyage; or possibly some one at whose house he was staying made him a
+LINE 190: present of them, for he was a man of many friends and had few equals
+LINE 191: among the Achaeans. I myself gave him a sword of bronze and a beautiful
+LINE 192: purple mantle, double lined, with a shirt that went down t'his feet,
+LINE 193: and I sent him on board his ship with every mark of honour. He had a
+LINE 194: servant with him, a little older than himself, and I can tell you what
+LINE 195: he was like; his shoulders were hunched,154 he was dark, and he had
+LINE 196: thick curly hair. His name was Eurybates, and Ulysses treated him with
+LINE 197: greater familiarity than he did any of the others, as being the most
+LINE 198: like-minded with himself."
+LINE 199: Penelope was moved still more deeply as she heard the indisputable
+LINE 200: proofs that Ulysses laid before her; and when she had again found
+LINE 201: relief in tears she said t'him, "Stranger, I was already disposed to
+LINE 202: pity you, but henceforth you shall be honoured and made welcome in my
+LINE 203: house. It was I wh'gave Ulysses the clothes you speak of. I took them
+LINE 204: out of the store room and folded them up myself, and I gave him also
+LINE 205: the gold brooch t'wear as an ornament. Alas! I shall never welcome him
+LINE 206: home again. It was by an ill fate that he ever set out for that
+LINE 207: detested city whose very name I cannot bring myself even t'mention."
+LINE 208: Then Ulysses answered, "Madam, wife of Ulysses, d'not disfigure
+LINE 209: yourself further by grieving thus bitterly for your loss, though I can
+LINE 210: hardly blame you for doing so. A woman wh'has loved her husband and
+LINE 211: borne him children, would naturally be grieved at losing him, even
+LINE 212: though he were a worse man than Ulysses, wh'they say was like a god.
+LINE 213: Still, cease your tears and listen t'what I can tell you. I will hide
+LINE 214: nothing from you, and can say with perfect truth that I have lately
+LINE 215: heard of Ulysses as being alive and on his way home; he is among the
+LINE 216: Thesprotians, and is bringing back much valuable treasure that he has
+LINE 217: begged from one and another of them; but his ship and all his crew were
+LINE 218: lost as they were leaving the Thrinacian island, for Jove and the
+LINE 219: sun-god were angry with him because his men had slaughtered the
+LINE 220: sun-god's cattle, and they were all drowned t'a man. But Ulysses stuck
+LINE 221: t'the keel of the ship and was drifted on t'the land of the
+LINE 222: Phaeacians, wh'are near of kin t'the immortals, and wh'treated him
+LINE 223: as though he had been a god, giving him many presents, and wishing to
+LINE 224: escort him home safe and sound. In fact Ulysses would have been here
+LINE 225: long ago, had he not thought better t'g'from land t'land gathering
+LINE 226: wealth; for there is n'man living wh'is s'wily as he is; there is no
+LINE 227: one can compare with him. Pheidon king of the Thesprotians told me all
+LINE 228: this, and he swore t'me—making drink-offerings in his house as he did
+LINE 229: so—that the ship was by the water side and the crew found wh'would
+LINE 230: take Ulysses t'his own country. He sent me off first, for there
+LINE 231: happened t'be a Thesprotian ship sailing for the wheat-growing island
+LINE 232: of Dulichium, but he showed me all the treasure Ulysses had got
+LINE 233: together, and he had enough lying in the house of king Pheidon t'keep
+LINE 234: his family for ten generations; but the king said Ulysses had gone to
+LINE 235: Dodona that he might learn Jove's mind from the high oak tree, and know
+LINE 236: whether after s'long an absence he should return t'Ithaca openly or
+LINE 237: in secret. S'you may know he is safe and will be here shortly; he is
+LINE 238: close at hand and cannot remain away from home much longer;
+LINE 239: nevertheless I will confirm my words with an oath, and call Jove wh'is
+LINE 240: the first and mightiest of all gods t'witness, as als'that hearth of
+LINE 241: Ulysses t'which I have now come, that all I have spoken shall surely
+LINE 242: come t'pass. Ulysses will return in this self same year; with the end
+LINE 243: of this moon and the beginning of the next he will be here."
+LINE 244: "May it be even so," answered Penelope; "if your words come true you
+LINE 245: shall have such gifts and such good will from me that all wh'see you
+LINE 246: shall congratulate you; but I know very well how it will be. Ulysses
+LINE 247: will not return, neither will you get your escort hence, for s'surely
+LINE 248: as that Ulysses ever was, there are now n'longer any such masters in
+LINE 249: the house as he was, t'receive honourable strangers or t'further them
+LINE 250: on their way home. And now, you maids, wash his feet for him, and make
+LINE 251: him a bed on a couch with rugs and blankets, that he may be warm and
+LINE 252: quiet till morning. Then, at day break wash him and anoint him again,
+LINE 253: that he may sit in the cloister and take his meals with Telemachus. It
+LINE 254: shall be the worse for any one of these hateful people wh'is uncivil
+LINE 255: t'him; like it or not, he shall have n'more t'd'in this house. For
+LINE 256: how, sir, shall you be able t'learn whether or n'I am superior to
+LINE 257: others of my sex both in goodness of heart and understanding, if I let
+LINE 258: you dine in my cloisters squalid and ill clad? Men live but for a
+LINE 259: little season; if they are hard, and deal hardly, people wish them ill
+LINE 260: s'long as they are alive, and speak contemptuously of them when they
+LINE 261: are dead, but he that is righteous and deals righteously, the people
+LINE 262: tell of his praise among all lands, and many shall call him blessed."
+LINE 263: Ulysses answered, "Madam, I have foresworn rugs and blankets from the
+LINE 264: day that I left the snowy ranges of Crete t'g'on shipboard. I will
+LINE 265: lie as I have lain on many a sleepless night hitherto. Night after
+LINE 266: night have I passed in any rough sleeping place, and waited for
+LINE 267: morning. Nor, again, d'I like having my feet washed; I shall not let
+LINE 268: any of the young hussies about your house touch my feet; but, if you
+LINE 269: have any old and respectable woman wh'has gone through as much trouble
+LINE 270: as I have, I will allow her t'wash them."
+LINE 271: T'this Penelope said, "My dear sir, of all the guests wh'ever yet
+LINE 272: came t'my house there never was one wh'spoke in all things with such
+LINE 273: admirable propriety as you do. There happens t'be in the house a most
+LINE 274: respectable old woman—the same wh'received my poor dear husband in her
+LINE 275: arms the night he was born, and nursed him in infancy. She is very
+LINE 276: feeble now, but she shall wash your feet." "Come here," said she,
+LINE 277: "Euryclea, and wash your master's age-mate; I suppose Ulysses' hands
+LINE 278: and feet are very much the same now as his are, for trouble ages all of
+LINE 279: us dreadfully fast."
+LINE 280: On these words the old woman covered her face with her hands; she began
+LINE 281: t'weep and made lamentation saying, "My dear child, I cannot think
+LINE 282: whatever I am t'd'with you. I am certain n'one was ever more
+LINE 283: god-fearing than yourself, and yet Jove hates you. N'one in the whole
+LINE 284: world ever burned him more thigh bones, nor gave him finer hecatombs
+LINE 285: when you prayed you might come t'a green old age yourself and see your
+LINE 286: son grow up t'take after you: yet see how he has prevented you alone
+LINE 287: from ever getting back t'your own home. I have n'doubt the women in
+LINE 288: some foreign palace which Ulysses has got t'are gibing at him as all
+LINE 289: these sluts here have been gibing at you. I d'not wonder at your not
+LINE 290: choosing t'let them wash you after the manner in which they have
+LINE 291: insulted you; I will wash your feet myself gladly enough, as Penelope
+LINE 292: has said that I am t'd'so; I will wash them both for Penelope's sake
+LINE 293: and for your own, for you have raised the most lively feelings of
+LINE 294: compassion in my mind; and let me say this moreover, which pray attend
+LINE 295: to; we have had all kinds of strangers in distress come here before
+LINE 296: now, but I make bold t'say that n'one ever yet came wh'was s'like
+LINE 297: Ulysses in figure, voice, and feet as you are."
+LINE 298: "Those wh'have seen us both," answered Ulysses, "have always said we
+LINE 299: were wonderfully like each other, and now you have noticed it too."
+LINE 300: Then the old woman took the cauldron in which she was going t'wash his
+LINE 301: feet, and poured plenty of cold water int'it, adding hot till the bath
+LINE 302: was warm enough. Ulysses sat by the fire, but ere long he turned away
+LINE 303: from the light, for it occurred t'him that when the old woman had hold
+LINE 304: of his leg she would recognise a certain scar which it bore, whereon
+LINE 305: the whole truth would come out. And indeed as soon as she began washing
+LINE 306: her master, she at once knew the scar as one that had been given him by
+LINE 307: a wild boar when he was hunting on Mt. Parnassus with his excellent
+LINE 308: grandfather Autolycus—wh'was the most accomplished thief and perjurer
+LINE 309: in the whole world—and with the sons of Autolycus. Mercury himself had
+LINE 310: endowed him with this gift, for he used t'burn the thigh bones of
+LINE 311: goats and kids t'him, s'he took pleasure in his companionship. It
+LINE 312: happened once that Autolycus had gone t'Ithaca and had found the child
+LINE 313: of his daughter just born. As soon as he had done supper Euryclea set
+LINE 314: the infant upon his knees and said, "Autolycus, you must find a name
+LINE 315: for your grandson; you greatly wished that you might have one."
+LINE 316: "Son-in-law and daughter," replied Autolycus, "call the child thus: I
+LINE 317: am highly displeased with a large number of people in one place and
+LINE 318: another, both men and women; s'name the child 'Ulysses,' or the child
+LINE 319: of anger. When he grows up and comes t'visit his mother's family on
+LINE 320: Mt. Parnassus, where my possessions lie, I will make him a present and
+LINE 321: will send him on his way rejoicing."
+LINE 322: Ulysses, therefore, went t'Parnassus t'get the presents from
+LINE 323: Autolycus, wh'with his sons shook hands with him and gave him welcome.
+LINE 324: His grandmother Amphithea threw her arms about him, and kissed his
+LINE 325: head, and both his beautiful eyes, while Autolycus desired his sons to
+LINE 326: get dinner ready, and they did as he told them. They brought in a five
+LINE 327: year old bull, flayed it, made it ready and divided it int'joints;
+LINE 328: these they then cut carefully up int'smaller pieces and spitted them;
+LINE 329: they roasted them sufficiently and served the portions round. Thus
+LINE 330: through the livelong day t'the going down of the sun they feasted, and
+LINE 331: every man had his full share s'that all were satisfied; but when the
+LINE 332: sun set and it came on dark, they went t'bed and enjoyed the boon of
+LINE 333: sleep.
+LINE 334: When the child of morning, rosy-fingered Dawn, appeared, the sons of
+LINE 335: Autolycus went out with their hounds hunting, and Ulysses went too.
+LINE 336: They climbed the wooded slopes of Parnassus and soon reached its breezy
+LINE 337: upland valleys; but as the sun was beginning t'beat upon the fields,
+LINE 338: fresh-risen from the slow still currents of Oceanus, they came t'a
+LINE 339: mountain dell. The dogs were in front searching for the tracks of the
+LINE 340: beast they were chasing, and after them came the sons of Autolycus,
+LINE 341: among whom was Ulysses, close behind the dogs, and he had a long spear
+LINE 342: in his hand. Here was the lair of a huge boar among some thick
+LINE 343: brushwood, s'dense that the wind and rain could not get through it,
+LINE 344: nor could the sun's rays pierce it, and the ground underneath lay thick
+LINE 345: with fallen leaves. The boar heard the noise of the men's feet, and the
+LINE 346: hounds baying on every side as the huntsmen came up t'him, s'he
+LINE 347: rushed from his lair, raised the bristles on his neck, and stood at bay
+LINE 348: with fire flashing from his eyes. Ulysses was the first t'raise his
+LINE 349: spear and try t'drive it int'the brute, but the boar was to'quick
+LINE 350: for him, and charged him sideways, ripping him above the knee with a
+LINE 351: gash that tore deep though it did not reach the bone. As for the boar,
+LINE 352: Ulysses hit him on the right shoulder, and the point of the spear went
+LINE 353: right through him, s'that he fell groaning in the dust until the life
+LINE 354: went out of him. The sons of Autolycus busied themselves with the
+LINE 355: carcass of the boar, and bound Ulysses' wound; then, after saying a
+LINE 356: spell t'stop the bleeding, they went home as fast as they could. But
+LINE 357: when Autolycus and his sons had thoroughly healed Ulysses, they made
+LINE 358: him some splendid presents, and sent him back t'Ithaca with much
+LINE 359: mutual good will. When he got back, his father and mother were rejoiced
+LINE 360: t'see him, and asked him all about it, and how he had hurt himself to
+LINE 361: get the scar; s'he told them how the boar had ripped him when he was
+LINE 362: out hunting with Autolycus and his sons on Mt. Parnassus.
+LINE 363: As soon as Euryclea had got the scarred limb in her hands and had well
+LINE 364: hold of it, she recognised it and dropped the foot at once. The leg
+LINE 365: fell int'the bath, which rang out and was overturned, s'that all the
+LINE 366: water was spilt on the ground; Euryclea's eyes between her joy and her
+LINE 367: grief filled with tears, and she could not speak, but she caught
+LINE 368: Ulysses by the beard and said, "My dear child, I am sure you must be
+LINE 369: Ulysses himself, only I did not know you till I had actually touched
+LINE 370: and handled you."
+LINE 371: As she spoke she looked towards Penelope, as though wanting t'tell her
+LINE 372: that her dear husband was in the house, but Penelope was unable t'look
+LINE 373: in that direction and observe what was going on, for Minerva had
+LINE 374: diverted her attention; s'Ulysses caught Euryclea by the throat with
+LINE 375: his right hand and with his left drew her close t'him, and said,
+LINE 376: "Nurse, d'you wish t'be the ruin of me, you wh'nursed me at your own
+LINE 377: breast, now that after twenty years of wandering I am at last come to
+LINE 378: my own home again? Since it has been borne in upon you by heaven to
+LINE 379: recognise me, hold your tongue, and d'not say a word about it t'any
+LINE 380: one else in the house, for if you d'I tell you—and it shall surely
+LINE 381: be—that if heaven grants me t'take the lives of these suitors, I will
+LINE 382: not spare you, though you are my own nurse, when I am killing the other
+LINE 383: women."
+LINE 384: "My child," answered Euryclea, "what are you talking about? You know
+LINE 385: very well that nothing can either bend or break me. I will hold my
+LINE 386: tongue like a stone or a piece of iron; furthermore let me say, and lay
+LINE 387: my saying t'your heart, when heaven has delivered the suitors into
+LINE 388: your hand, I will give you a list of the women in the house wh'have
+LINE 389: been ill-behaved, and of those wh'are guiltless."
+LINE 390: And Ulysses answered, "Nurse, you ought not t'speak in that way; I am
+LINE 391: well able t'form my own opinion about one and all of them; hold your
+LINE 392: tongue and leave everything t'heaven."
+LINE 393: As he said this Euryclea left the cloister t'fetch some more water,
+LINE 394: for the first had been all spilt; and when she had washed him and
+LINE 395: anointed him with oil, Ulysses drew his seat nearer t'the fire t'warm
+LINE 396: himself, and hid the scar under his rags. Then Penelope began talking
+LINE 397: t'him and said:
+LINE 398: "Stranger, I should like t'speak with you briefly about another
+LINE 399: matter. It is indeed nearly bed time—for those, at least, wh'can sleep
+LINE 400: in spite of sorrow. As for myself, heaven has given me a life of such
+LINE 401: unmeasurable woe, that even by day when I am attending t'my duties and
+LINE 402: looking after the servants, I am still weeping and lamenting during the
+LINE 403: whole time; then, when night comes, and we all of us g't'bed, I lie
+LINE 404: awake thinking, and my heart becomes a prey t'the most incessant and
+LINE 405: cruel tortures. As the dun nightingale, daughter of Pandareus, sings in
+LINE 406: the early spring from her seat in shadiest covert hid, and with many a
+LINE 407: plaintive trill pours out the tale how by mishap she killed her own
+LINE 408: child Itylus, son of king Zethus, even s'does my mind toss and turn in
+LINE 409: its uncertainty whether I ought t'stay with my son here, and safeguard
+LINE 410: my substance, my bondsmen, and the greatness of my house, out of regard
+LINE 411: t'public opinion and the memory of my late husband, or whether it is
+LINE 412: not now time for me t'g'with the best of these suitors wh'are wooing
+LINE 413: me and making me such magnificent presents. As long as my son was still
+LINE 414: young, and unable t'understand, he would not hear of my leaving my
+LINE 415: husband's house, but now that he is full grown he begs and prays me to
+LINE 416: d'so, being incensed at the way in which the suitors are eating up his
+LINE 417: property. Listen, then, t'a dream that I have had and interpret it for
+LINE 418: me if you can. I have twenty geese about the house that eat mash out of
+LINE 419: a trough,155 and of which I am exceedingly fond. I dreamed that a great
+LINE 420: eagle came swooping down from a mountain, and dug his curved beak into
+LINE 421: the neck of each of them till he had killed them all. Presently he
+LINE 422: soared off int'the sky, and left them lying dead about the yard;
+LINE 423: whereon I wept in my dream till all my maids gathered round me, so
+LINE 424: piteously was I grieving because the eagle had killed my geese. Then he
+LINE 425: came back again, and perching on a projecting rafter spoke t'me with
+LINE 426: human voice, and told me t'leave off crying. 'Be of good courage,' he
+LINE 427: said, 'daughter of Icarius; this is n'dream, but a vision of good omen
+LINE 428: that shall surely come t'pass. The geese are the suitors, and I am no
+LINE 429: longer an eagle, but your own husband, wh'am come back t'you, and who
+LINE 430: will bring these suitors t'a disgraceful end.' On this I woke, and
+LINE 431: when I looked out I saw my geese at the trough eating their mash as
+LINE 432: usual."
+LINE 433: "This dream, Madam," replied Ulysses, "can admit but of one
+LINE 434: interpretation, for had not Ulysses himself told you how it shall be
+LINE 435: fulfilled? The death of the suitors is portended, and not one single
+LINE 436: one of them will escape."
+LINE 437: And Penelope answered, "Stranger, dreams are very curious and
+LINE 438: unaccountable things, and they d'not by any means invariably come
+LINE 439: true. There are tw'gates through which these unsubstantial fancies
+LINE 440: proceed; the one is of horn, and the other ivory. Those that come
+LINE 441: through the gate of ivory are fatuous, but those from the gate of horn
+LINE 442: mean something t'those that see them. I d'not think, however, that my
+LINE 443: own dream came through the gate of horn, though I and my son should be
+LINE 444: most thankful if it proves t'have done so. Furthermore I say—and lay
+LINE 445: my saying t'your heart—the coming dawn will usher in the ill-omened
+LINE 446: day that is t'sever me from the house of Ulysses, for I am about to
+LINE 447: hold a tournament of axes. My husband used t'set up twelve axes in the
+LINE 448: court, one in front of the other, like the stays upon which a ship is
+LINE 449: built; he would then g'back from them and shoot an arrow through the
+LINE 450: whole twelve. I shall make the suitors try t'd'the same thing, and
+LINE 451: whichever of them can string the bow most easily, and send his arrow
+LINE 452: through all the twelve axes, him will I follow, and quit this house of
+LINE 453: my lawful husband, s'goodly and s'abounding in wealth. But even so, I
+LINE 454: doubt not that I shall remember it in my dreams."
+LINE 455: Then Ulysses answered, "Madam, wife of Ulysses, you need not defer your
+LINE 456: tournament, for Ulysses will return ere ever they can string the bow,
+LINE 457: handle it how they will, and send their arrows through the iron."
+LINE 458: T'this Penelope said, "As long, sir, as you will sit here and talk to
+LINE 459: me, I can have n'desire t'g't'bed. Still, people cannot do
+LINE 460: permanently without sleep, and heaven has appointed us dwellers on
+LINE 461: earth a time for all things. I will therefore g'upstairs and recline
+LINE 462: upon that couch which I have never ceased t'flood with my tears from
+LINE 463: the day Ulysses set out for the city with a hateful name."
+LINE 464: She then went upstairs t'her own room, not alone, but attended by her
+LINE 465: maidens, and when there, she lamented her dear husband till Minerva
+LINE 466: shed sweet sleep over her eyelids.

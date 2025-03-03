@@ -1,0 +1,381 @@
+LINE 1: TELEMACHUS VISITS NESTOR AT PYLOS.
+LINE 2: but as the sun was rising from the fair sea24 int'the firmament of
+LINE 3: heaven t'shed light on mortals and immortals, they reached Pylos the
+LINE 4: city of Neleus. Now the people of Pylos were gathered on the sea shore
+LINE 5: t'offer sacrifice of black bulls t'Neptune lord of the Earthquake.
+LINE 6: There were nine guilds with five hundred men in each, and there were
+LINE 7: nine bulls t'each guild. As they were eating the inward meats25 and
+LINE 8: burning the thigh bones [on the embers] in the name of Neptune,
+LINE 9: Telemachus and his crew arrived, furled their sails, brought their ship
+LINE 10: t'anchor, and went ashore.
+LINE 11: Minerva led the way and Telemachus followed her. Presently she said,
+LINE 12: "Telemachus, you must not be in the least shy or nervous; you have
+LINE 13: taken this voyage t'try and find out where your father is buried and
+LINE 14: how he came by his end; s'g'straight up t'Nestor that we may see
+LINE 15: what he has got t'tell us. Beg of him t'speak the truth, and he will
+LINE 16: tell n'lies, for he is an excellent person."
+LINE 17: "But how, Mentor," replied Telemachus, "dare I g'up t'Nestor, and how
+LINE 18: am I t'address him? I have never yet been used t'holding long
+LINE 19: conversations with people, and am ashamed t'begin questioning one who
+LINE 20: is s'much older than myself."
+LINE 21: "Some things, Telemachus," answered Minerva, "will be suggested t'you
+LINE 22: by your own instinct, and heaven will prompt you further; for I am
+LINE 23: assured that the gods have been with you from the time of your birth
+LINE 24: until now."
+LINE 25: She then went quickly on, and Telemachus followed in her steps till
+LINE 26: they reached the place where the guilds of the Pylian people were
+LINE 27: assembled. There they found Nestor sitting with his sons, while his
+LINE 28: company round him were busy getting dinner ready, and putting pieces of
+LINE 29: meat on t'the spits26 while other pieces were cooking. When they saw
+LINE 30: the strangers they crowded round them, took them by the hand and bade
+LINE 31: them take their places. Nestor's son Pisistratus at once offered his
+LINE 32: hand t'each of them, and seated them on some soft sheepskins that were
+LINE 33: lying on the sands near his father and his brother Thrasymedes. Then he
+LINE 34: gave them their portions of the inward meats and poured wine for them
+LINE 35: int'a golden cup, handing it t'Minerva first, and saluting her at the
+LINE 36: same time.
+LINE 37: "Offer a prayer, sir," said he, "t'King Neptune, for it is his feast
+LINE 38: that you are joining; when you have duly prayed and made your drink
+LINE 39: offering, pass the cup t'your friend that he may d's'also. I doubt
+LINE 40: not that he to'lifts his hands in prayer, for man cannot live without
+LINE 41: God in the world. Still he is younger than you are, and is much of an
+LINE 42: age with myself, s'I will give you the precedence."
+LINE 43: As he spoke he handed her the cup. Minerva thought it very right and
+LINE 44: proper of him t'have given it t'herself first;27 she accordingly
+LINE 45: began praying heartily t'Neptune. "'thou," she cried, "that
+LINE 46: encirclest the earth, vouchsafe t'grant the prayers of thy servants
+LINE 47: that call upon thee. More especially we pray thee send down thy grace
+LINE 48: on Nestor and on his sons; thereafter als'make the rest of the Pylian
+LINE 49: people some handsome return for the goodly hecatomb they are offering
+LINE 50: you. Lastly, grant Telemachus and myself a happy issue, in respect of
+LINE 51: the matter that has brought us in our ship t'Pylos."
+LINE 52: When she had thus made an end of praying, she handed the cup to
+LINE 53: Telemachus and he prayed likewise. By and by, when the outer meats were
+LINE 54: roasted and had been taken off the spits, the carvers gave every man
+LINE 55: his portion and they all made an excellent dinner. As soon as they had
+LINE 56: had enough t'eat and drink, Nestor, knight of Gerene, began t'speak.
+LINE 57: "Now," said he, "that our guests have done their dinner, it will be
+LINE 58: best t'ask them wh'they are. Who, then, sir strangers, are you, and
+LINE 59: from what port have you sailed? Are you traders? or d'you sail the
+LINE 60: seas as rovers with your hand against every man, and every man's hand
+LINE 61: against you?"
+LINE 62: Telemachus answered boldly, for Minerva had given him courage t'ask
+LINE 63: about his father and get himself a good name.
+LINE 64: "Nestor," said he, "son of Neleus, honour t'the Achaean name, you ask
+LINE 65: whence we come, and I will tell you. We come from Ithaca under
+LINE 66: Neritum,28 and the matter about which I would speak is of private not
+LINE 67: public import. I seek news of my unhappy father Ulysses, wh'is said to
+LINE 68: have sacked the town of Troy in company with yourself. We know what
+LINE 69: fate befell each one of the other heroes wh'fought at Troy, but as
+LINE 70: regards Ulysses heaven has hidden from us the knowledge even that he is
+LINE 71: dead at all, for n'one can certify us in what place he perished, nor
+LINE 72: say whether he fell in battle on the mainland, or was lost at sea amid
+LINE 73: the waves of Amphitrite. Therefore I am suppliant at your knees, if
+LINE 74: haply you may be pleased t'tell me of his melancholy end, whether you
+LINE 75: saw it with your own eyes, or heard it from some other traveller, for
+LINE 76: he was a man born t'trouble. D'not soften things out of any pity for
+LINE 77: me, but tell me in all plainness exactly what you saw. If my brave
+LINE 78: father Ulysses ever did you loyal service, either by word or deed, when
+LINE 79: you Achaeans were harassed among the Trojans, bear it in mind now as in
+LINE 80: my favour and tell me truly all."
+LINE 81: "My friend," answered Nestor, "you recall a time of much sorrow t'my
+LINE 82: mind, for the brave Achaeans suffered much both at sea, while
+LINE 83: privateering under Achilles, and when fighting before the great city of
+LINE 84: king Priam. Our best men all of them fell there—Ajax, Achilles,
+LINE 85: Patroclus peer of gods in counsel, and my own dear son Antilochus, a
+LINE 86: man singularly fleet of foot and in fight valiant. But we suffered much
+LINE 87: more than this; what mortal tongue indeed could tell the whole story?
+LINE 88: Though you were t'stay here and question me for five years, or even
+LINE 89: six, I could not tell you all that the Achaeans suffered, and you would
+LINE 90: turn homeward weary of my tale before it ended. Nine long years did we
+LINE 91: try every kind of stratagem, but the hand of heaven was against us;
+LINE 92: during all this time there was n'one wh'could compare with your
+LINE 93: father in subtlety—if indeed you are his son—I can hardly believe my
+LINE 94: eyes—and you talk just like him too—n'one would say that people of
+LINE 95: such different ages could speak s'much alike. He and I never had any
+LINE 96: kind of difference from first t'last neither in camp nor council, but
+LINE 97: in singleness of heart and purpose we advised the Argives how all might
+LINE 98: be ordered for the best.
+LINE 99: "When, however, we had sacked the city of Priam, and were setting sail
+LINE 100: in our ships as heaven had dispersed us, then Jove saw fit t'vex the
+LINE 101: Argives on their homeward voyage; for they had not all been either wise
+LINE 102: or understanding, and hence many came t'a bad end through the
+LINE 103: displeasure of Jove's daughter Minerva, wh'brought about a quarrel
+LINE 104: between the tw'sons of Atreus.
+LINE 105: "The sons of Atreus called a meeting which was not as it should be, for
+LINE 106: it was sunset and the Achaeans were heavy with wine. When they
+LINE 107: explained why they had called the people together, it seemed that
+LINE 108: Menelaus was for sailing homeward at once, and this displeased
+LINE 109: Agamemnon, wh'thought that we should wait till we had offered
+LINE 110: hecatombs t'appease the anger of Minerva. Fool that he was, he might
+LINE 111: have known that he would not prevail with her, for when the gods have
+LINE 112: made up their minds they d'not change them lightly. S'the tw'stood
+LINE 113: bandying hard words, whereon the Achaeans sprang t'their feet with a
+LINE 114: cry that rent the air, and were of tw'minds as t'what they should do.
+LINE 115: "That night we rested and nursed our anger, for Jove was hatching
+LINE 116: mischief against us. But in the morning some of us drew our ships into
+LINE 117: the water and put our goods with our women on board, while the rest,
+LINE 118: about half in number, stayed behind with Agamemnon. We—the other
+LINE 119: half—embarked and sailed; and the ships went well, for heaven had
+LINE 120: smoothed the sea. When we reached Tenedos we offered sacrifices t'the
+LINE 121: gods, for we were longing t'get home; cruel Jove, however, did not yet
+LINE 122: mean that we should d'so, and raised a second quarrel in the course of
+LINE 123: which some among us turned their ships back again, and sailed away
+LINE 124: under Ulysses t'make their peace with Agamemnon; but I, and all the
+LINE 125: ships that were with me pressed forward, for I saw that mischief was
+LINE 126: brewing. The son of Tydeus went on als'with me, and his crews with
+LINE 127: him. Later on Menelaus joined us at Lesbos, and found us making up our
+LINE 128: minds about our course—for we did not know whether t'g'outside Chios
+LINE 129: by the island of Psyra, keeping this t'our left, or inside Chios, over
+LINE 130: against the stormy headland of Mimas. S'we asked heaven for a sign,
+LINE 131: and were shown one t'the effect that we should be soonest out of
+LINE 132: danger if we headed our ships across the open sea t'Euboea. This we
+LINE 133: therefore did, and a fair wind sprang up which gave us a quick passage
+LINE 134: during the night t'Geraestus,29 where we offered many sacrifices to
+LINE 135: Neptune for having helped us s'far on our way. Four days later Diomed
+LINE 136: and his men stationed their ships in Argos, but I held on for Pylos,
+LINE 137: and the wind never fell light from the day when heaven first made it
+LINE 138: fair for me.
+LINE 139: "Therefore, my dear young friend, I returned without hearing anything
+LINE 140: about the others. I know neither wh'got home safely nor wh'were lost
+LINE 141: but, as in duty bound, I will give you without reserve the reports that
+LINE 142: have reached me since I have been here in my own house. They say the
+LINE 143: Myrmidons returned home safely under Achilles' son Neoptolemus; s'also
+LINE 144: did the valiant son of Poias, Philoctetes. Idomeneus, again, lost no
+LINE 145: men at sea, and all his followers wh'escaped death in the field got
+LINE 146: safe home with him t'Crete. N'matter how far out of the world you
+LINE 147: live, you will have heard of Agamemnon and the bad end he came t'at
+LINE 148: the hands of Aegisthus—and a fearful reckoning did Aegisthus presently
+LINE 149: pay. See what a good thing it is for a man t'leave a son behind him to
+LINE 150: d'as Orestes did, wh'killed false Aegisthus the murderer of his noble
+LINE 151: father. You too, then—for you are a tall smart-looking fellow—show your
+LINE 152: mettle and make yourself a name in story."
+LINE 153: "Nestor son of Neleus," answered Telemachus, "honour t'the Achaean
+LINE 154: name, the Achaeans applaud Orestes and his name will live through all
+LINE 155: time for he has avenged his father nobly. Would that heaven might grant
+LINE 156: me t'd'like vengeance on the insolence of the wicked suitors, wh'are
+LINE 157: ill treating me and plotting my ruin; but the gods have n'such
+LINE 158: happiness in store for me and for my father, s'we must bear it as best
+LINE 159: we may."
+LINE 160: "My friend," said Nestor, "now that you remind me, I remember t'have
+LINE 161: heard that your mother has many suitors, wh'are ill disposed towards
+LINE 162: you and are making havoc of your estate. D'you submit t'this tamely,
+LINE 163: or are public feeling and the voice of heaven against you? Wh'knows
+LINE 164: but what Ulysses may come back after all, and pay these scoundrels in
+LINE 165: full, either single-handed or with a force of Achaeans behind him? If
+LINE 166: Minerva were t'take as great a liking t'you as she did t'Ulysses
+LINE 167: when we were fighting before Troy (for I never yet saw the gods so
+LINE 168: openly fond of any one as Minerva then was of your father), if she
+LINE 169: would take as good care of you as she did of him, these wooers would
+LINE 170: soon some of them forget their wooing."
+LINE 171: Telemachus answered, "I can expect nothing of the kind; it would be far
+LINE 172: to'much t'hope for. I dare not let myself think of it. Even though
+LINE 173: the gods themselves willed it n'such good fortune could befall me."
+LINE 174: On this Minerva said, "Telemachus, what are you talking about? Heaven
+LINE 175: has a long arm if it is minded t'save a man; and if it were me, I
+LINE 176: should not care how much I suffered before getting home, provided I
+LINE 177: could be safe when I was once there. I would rather this, than get home
+LINE 178: quickly, and then be killed in my own house as Agamemnon was by the
+LINE 179: treachery of Aegisthus and his wife. Still, death is certain, and when
+LINE 180: a man's hour is come, not even the gods can save him, n'matter how
+LINE 181: fond they are of him."
+LINE 182: "Mentor," answered Telemachus, "d'not let us talk about it any more.
+LINE 183: There is n'chance of my father's ever coming back; the gods have long
+LINE 184: since counselled his destruction. There is something else, however,
+LINE 185: about which I should like t'ask Nestor, for he knows much more than
+LINE 186: any one else does. They say he has reigned for three generations so
+LINE 187: that it is like talking t'an immortal. Tell me, therefore, Nestor, and
+LINE 188: tell me true; how did Agamemnon come t'die in that way? What was
+LINE 189: Menelaus doing? And how came false Aegisthus t'kill s'far better a
+LINE 190: man than himself? Was Menelaus away from Achaean Argos, voyaging
+LINE 191: elsewhither among mankind, that Aegisthus took heart and killed
+LINE 192: Agamemnon?"
+LINE 193: "I will tell you truly," answered Nestor, "and indeed you have yourself
+LINE 194: divined how it all happened. If Menelaus when he got back from Troy had
+LINE 195: found Aegisthus still alive in his house, there would have been no
+LINE 196: barrow heaped up for him, not even when he was dead, but he would have
+LINE 197: been thrown outside the city t'dogs and vultures, and not a woman
+LINE 198: would have mourned him, for he had done a deed of great wickedness; but
+LINE 199: we were over there, fighting hard at Troy, and Aegisthus, wh'was
+LINE 200: taking his ease quietly in the heart of Argos, cajoled Agamemnon's wife
+LINE 201: Clytemnestra with incessant flattery.
+LINE 202: "At first she would have nothing t'd'with his wicked scheme, for she
+LINE 203: was of a good natural disposition;30 moreover there was a bard with
+LINE 204: her, t'whom Agamemnon had given strict orders on setting out for Troy,
+LINE 205: that he was t'keep guard over his wife; but when heaven had counselled
+LINE 206: her destruction, Aegisthus carried this bard off t'a desert island and
+LINE 207: left him there for crows and seagulls t'batten upon—after which she
+LINE 208: went willingly enough t'the house of Aegisthus. Then he offered many
+LINE 209: burnt sacrifices t'the gods, and decorated many temples with
+LINE 210: tapestries and gilding, for he had succeeded far beyond his
+LINE 211: expectations.
+LINE 212: "Meanwhile Menelaus and I were on our way home from Troy, on good terms
+LINE 213: with one another. When we got t'Sunium, which is the point of Athens,
+LINE 214: Apoll'with his painless shafts killed Phrontis the steersman of
+LINE 215: Menelaus' ship (and never man knew better how t'handle a vessel in
+LINE 216: rough weather) s'that he died then and there with the helm in his
+LINE 217: hand, and Menelaus, though very anxious t'press forward, had t'wait
+LINE 218: in order t'bury his comrade and give him his due funeral rites.
+LINE 219: Presently, when he to'could put t'sea again, and had sailed on as far
+LINE 220: as the Malean heads, Jove counselled evil against him and made it blow
+LINE 221: hard till the waves ran mountains high. Here he divided his fleet and
+LINE 222: took the one half towards Crete where the Cydonians dwell round about
+LINE 223: the waters of the river Iardanus. There is a high headland hereabouts
+LINE 224: stretching out int'the sea from a place called Gortyn, and all along
+LINE 225: this part of the coast as far as Phaestus the sea runs high when there
+LINE 226: is a south wind blowing, but after Phaestus the coast is more
+LINE 227: protected, for a small headland can make a great shelter. Here this
+LINE 228: part of the fleet was driven on t'the rocks and wrecked; but the crews
+LINE 229: just managed t'save themselves. As for the other five ships, they were
+LINE 230: taken by winds and seas t'Egypt, where Menelaus gathered much gold and
+LINE 231: substance among people of an alien speech. Meanwhile Aegisthus here at
+LINE 232: home plotted his evil deed. For seven years after he had killed
+LINE 233: Agamemnon he ruled in Mycene, and the people were obedient under him,
+LINE 234: but in the eighth year Orestes came back from Athens t'be his bane,
+LINE 235: and killed the murderer of his father. Then he celebrated the funeral
+LINE 236: rites of his mother and of false Aegisthus by a banquet t'the people
+LINE 237: of Argos, and on that very day Menelaus came home,31 with as much
+LINE 238: treasure as his ships could carry.
+LINE 239: "Take my advice then, and d'not g'travelling about for long s'far
+LINE 240: from home, nor leave your property with such dangerous people in your
+LINE 241: house; they will eat up everything you have among them, and you will
+LINE 242: have been on a fool's errand. Still, I should advise you by all means
+LINE 243: t'g'and visit Menelaus, wh'has lately come off a voyage among such
+LINE 244: distant peoples as n'man could ever hope t'get back from, when the
+LINE 245: winds had once carried him s'far out of his reckoning; even birds
+LINE 246: cannot fly the distance in a twelve-month, s'vast and terrible are the
+LINE 247: seas that they must cross. G't'him, therefore, by sea, and take your
+LINE 248: own men with you; or if you would rather travel by land you can have a
+LINE 249: chariot, you can have horses, and here are my sons wh'can escort you
+LINE 250: t'Lacedaemon where Menelaus lives. Beg of him t'speak the truth, and
+LINE 251: he will tell you n'lies, for he is an excellent person."
+LINE 252: As he spoke the sun set and it came on dark, whereon Minerva said,
+LINE 253: "Sir, all that you have said is well; now, however, order the tongues
+LINE 254: of the victims t'be cut, and mix wine that we may make drink-offerings
+LINE 255: t'Neptune, and the other immortals, and then g't'bed, for it is bed
+LINE 256: time. People should g'away early and not keep late hours at a
+LINE 257: religious festival."
+LINE 258: Thus spoke the daughter of Jove, and they obeyed her saying. Men
+LINE 259: servants poured water over the hands of the guests, while pages filled
+LINE 260: the mixing-bowls with wine and water, and handed it round after giving
+LINE 261: every man his drink offering; then they threw the tongues of the
+LINE 262: victims int'the fire, and stood up t'make their drink offerings. When
+LINE 263: they had made their offerings and had drunk each as much as he was
+LINE 264: minded, Minerva and Telemachus were for going on board their ship, but
+LINE 265: Nestor caught them up at once and stayed them.
+LINE 266: "Heaven and the immortal gods," he exclaimed, "forbid that you should
+LINE 267: leave my house t'g'on board of a ship. D'you think I am s'poor and
+LINE 268: short of clothes, or that I have s'few cloaks and as t'be unable to
+LINE 269: find comfortable beds both for myself and for my guests? Let me tell
+LINE 270: you I have store both of rugs and cloaks, and shall not permit the son
+LINE 271: of my old friend Ulysses t'camp down on the deck of a ship—not while I
+LINE 272: live—nor yet will my sons after me, but they will keep open house as I
+LINE 273: have done."
+LINE 274: Then Minerva answered, "Sir, you have spoken well, and it will be much
+LINE 275: better that Telemachus should d'as you have said; he, therefore, shall
+LINE 276: return with you and sleep at your house, but I must g'back t'give
+LINE 277: orders t'my crew, and keep them in good heart. I am the only older
+LINE 278: person among them; the rest are all young men of Telemachus' own age,
+LINE 279: wh'have taken this voyage out of friendship; s'I must return t'the
+LINE 280: ship and sleep there. Moreover to-morrow I must g't'the Cauconians
+LINE 281: where I have a large sum of money long owing t'me. As for Telemachus,
+LINE 282: now that he is your guest, send him t'Lacedaemon in a chariot, and let
+LINE 283: one of your sons g'with him. Be pleased t'als'provide him with your
+LINE 284: best and fleetest horses."
+LINE 285: When she had thus spoken, she flew away in the form of an eagle, and
+LINE 286: all marvelled as they beheld it. Nestor was astonished, and took
+LINE 287: Telemachus by the hand. "My friend," said he, "I see that you are going
+LINE 288: t'be a great her'some day, since the gods wait upon you thus while
+LINE 289: you are still s'young. This can have been none other of those who
+LINE 290: dwell in heaven than Jove's redoubtable daughter, the Trito-born, who
+LINE 291: shewed such favour towards your brave father among the Argives. Holy
+LINE 292: queen," he continued, "vouchsafe t'send down thy grace upon myself, my
+LINE 293: good wife, and my children. In return, I will offer you in sacrifice a
+LINE 294: broad-browed heifer of a year old, unbroken, and never yet brought by
+LINE 295: man under the yoke. I will gild her horns, and will offer her up t'you
+LINE 296: in sacrifice."
+LINE 297: Thus did he pray, and Minerva heard his prayer. He then led the way to
+LINE 298: his own house, followed by his sons and sons in law. When they had got
+LINE 299: there and had taken their places on the benches and seats, he mixed
+LINE 300: them a bowl of sweet wine that was eleven years old when the
+LINE 301: housekeeper took the lid off the jar that held it. As he mixed the
+LINE 302: wine, he prayed much and made drink offerings t'Minerva, daughter of
+LINE 303: Aegis-bearing Jove. Then, when they had made their drink offerings and
+LINE 304: had drunk each as much as he was minded, the others went home t'bed
+LINE 305: each in his own abode; but Nestor put Telemachus t'sleep in the room
+LINE 306: that was over the gateway along with Pisistratus, wh'was the only
+LINE 307: unmarried son now left him. As for himself, he slept in an inner room
+LINE 308: of the house, with the queen his wife by his side.
+LINE 309: Now when the child of morning rosy-fingered Dawn appeared, Nestor left
+LINE 310: his couch and took his seat on the benches of white and polished marble
+LINE 311: that stood in front of his house. Here aforetime sat Neleus, peer of
+LINE 312: gods in counsel, but he was now dead, and had gone t'the house of
+LINE 313: Hades; s'Nestor sat in his seat sceptre in hand, as guardian of the
+LINE 314: public weal. His sons as they left their rooms gathered round him,
+LINE 315: Echephron, Stratius, Perseus, Aretus, and Thrasymedes; the sixth son
+LINE 316: was Pisistratus, and when Telemachus joined them they made him sit with
+LINE 317: them. Nestor then addressed them.
+LINE 318: "My sons," said he, "make haste t'd'as I shall bid you. I wish first
+LINE 319: and foremost t'propitiate the great goddess Minerva, wh'manifested
+LINE 320: herself visibly t'me during yesterday's festivities. Go, then, one or
+LINE 321: other of you t'the plain, tell the stockman t'look me out a heifer,
+LINE 322: and come on here with it at once. Another must g't'Telemachus' ship,
+LINE 323: and invite all the crew, leaving tw'men only in charge of the vessel.
+LINE 324: Some one else will run and fetch Laerceus the goldsmith t'gild the
+LINE 325: horns of the heifer. The rest, stay all of you where you are; tell the
+LINE 326: maids in the house t'prepare an excellent dinner, and t'fetch seats,
+LINE 327: and logs of wood for a burnt offering. Tell them als't'bring me some
+LINE 328: clear spring water."
+LINE 329: On this they hurried off on their several errands. The heifer was
+LINE 330: brought in from the plain, and Telemachus's crew came from the ship;
+LINE 331: the goldsmith brought the anvil, hammer, and tongs, with which he
+LINE 332: worked his gold, and Minerva herself came t'accept the sacrifice.
+LINE 333: Nestor gave out the gold, and the smith gilded the horns of the heifer
+LINE 334: that the goddess might have pleasure in their beauty. Then Stratius and
+LINE 335: Echephron brought her in by the horns; Aretus fetched water from the
+LINE 336: house in a ewer that had a flower pattern on it, and in his other hand
+LINE 337: he held a basket of barley meal; sturdy Thrasymedes stood by with a
+LINE 338: sharp axe, ready t'strike the heifer, while Perseus held a bucket.
+LINE 339: Then Nestor began with washing his hands and sprinkling the barley
+LINE 340: meal, and he offered many a prayer t'Minerva as he threw a lock from
+LINE 341: the heifer's head upon the fire.
+LINE 342: When they had done praying and sprinkling the barley meal32 Thrasymedes
+LINE 343: dealt his blow, and brought the heifer down with a stroke that cut
+LINE 344: through the tendons at the base of her neck, whereon the daughters and
+LINE 345: daughters in law of Nestor, and his venerable wife Eurydice (she was
+LINE 346: eldest daughter t'Clymenus) screamed with delight. Then they lifted
+LINE 347: the heifer's head from off the ground, and Pisistratus cut her throat.
+LINE 348: When she had done bleeding and was quite dead, they cut her up. They
+LINE 349: cut out the thigh bones all in due course, wrapped them round in two
+LINE 350: layers of fat, and set some pieces of raw meat on the top of them; then
+LINE 351: Nestor laid them upon the wood fire and poured wine over them, while
+LINE 352: the young men stood near him with five-pronged spits in their hands.
+LINE 353: When the thighs were burned and they had tasted the inward meats, they
+LINE 354: cut the rest of the meat up small, put the pieces on the spits and
+LINE 355: toasted them over the fire.
+LINE 356: Meanwhile lovely Polycaste, Nestor's youngest daughter, washed
+LINE 357: Telemachus. When she had washed him and anointed him with oil, she
+LINE 358: brought him a fair mantle and shirt,33 and he looked like a god as he
+LINE 359: came from the bath and took his seat by the side of Nestor. When the
+LINE 360: outer meats were done they drew them off the spits and sat down to
+LINE 361: dinner where they were waited upon by some worthy henchmen, wh'kept
+LINE 362: pouring them out their wine in cups of gold. As soon as they had had
+LINE 363: enough t'eat and drink Nestor said, "Sons, put Telemachus's horses to
+LINE 364: the chariot that he may start at once."
+LINE 365: Thus did he speak, and they did even as he had said, and yoked the
+LINE 366: fleet horses t'the chariot. The housekeeper packed them up a provision
+LINE 367: of bread, wine, and sweet meats fit for the sons of princes. Then
+LINE 368: Telemachus got int'the chariot, while Pisistratus gathered up the
+LINE 369: reins and took his seat beside him. He lashed the horses on and they
+LINE 370: flew forward nothing loth int'the open country, leaving the high
+LINE 371: citadel of Pylos behind them. All that day did they travel, swaying the
+LINE 372: yoke upon their necks till the sun went down and darkness was over all
+LINE 373: the land. Then they reached Pherae where Diocles lived, wh'was son to
+LINE 374: Ortilochus and grandson t'Alpheus. Here they passed the night and
+LINE 375: Diocles entertained them hospitably. When the child of morning,
+LINE 376: rosy-fingered Dawn, appeared, they again yoked their horses and drove
+LINE 377: out through the gateway under the echoing gatehouse.34 Pisistratus
+LINE 378: lashed the horses on and they flew forward nothing loth; presently they
+LINE 379: came t'the corn lands of the open country, and in the course of time
+LINE 380: completed their journey, s'well did their steeds take them.35
+LINE 381: Now when the sun had set and darkness was over the land,

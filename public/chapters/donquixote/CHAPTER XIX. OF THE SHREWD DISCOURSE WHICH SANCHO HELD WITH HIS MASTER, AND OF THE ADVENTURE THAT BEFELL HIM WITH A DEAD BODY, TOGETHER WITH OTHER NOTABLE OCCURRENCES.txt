@@ -1,0 +1,250 @@
+LINE 1: "It seems to me, señor, that all these mishaps that have befallen us of
+LINE 2: late have been without any doubt a punishment for the offence committed
+LINE 3: by your worship against the order of chivalry in not keeping the oath
+LINE 4: you made not to eat bread off a tablecloth or embrace the queen, and
+LINE 5: all the rest of it that your worship swore to observe until you had
+LINE 6: taken that helmet of Malandrino's, or whatever the Moor is called, for
+LINE 7: I do not very well remember."
+LINE 8: "Thou art very right, Sancho," said Don Quixote, "but to tell the
+LINE 9: truth, it had escaped my memory; and likewise thou mayest rely upon it
+LINE 10: that the affair of the blanket happened to thee because of thy fault in
+LINE 11: not reminding me of it in time; but I will make amends, for there are
+LINE 12: ways of compounding for everything in the order of chivalry."
+LINE 13: "Why! have I taken an oath of some sort, then?" said Sancho.
+LINE 14: "It makes no matter that thou hast not taken an oath," said Don
+LINE 15: Quixote; "suffice it that I see thou art not quite clear of complicity;
+LINE 16: and whether or no, it will not be ill done to provide ourselves with a
+LINE 17: remedy."
+LINE 18: "In that case," said Sancho, "mind that your worship does not forget
+LINE 19: this as you did the oath; perhaps the phantoms may take it into their
+LINE 20: heads to amuse themselves once more with me; or even with your worship
+LINE 21: if they see you so obstinate."
+LINE 22: While engaged in this and other talk, night overtook them on the road
+LINE 23: before they had reached or discovered any place of shelter; and what
+LINE 24: made it still worse was that they were dying of hunger, for with the
+LINE 25: loss of the alforjas they had lost their entire larder and
+LINE 26: commissariat; and to complete the misfortune they met with an adventure
+LINE 27: which without any invention had really the appearance of one. It so
+LINE 28: happened that the night closed in somewhat darkly, but for all that
+LINE 29: they pushed on, Sancho feeling sure that as the road was the king's
+LINE 30: highway they might reasonably expect to find some inn within a league
+LINE 31: or two. Going along, then, in this way, the night dark, the squire
+LINE 32: hungry, the master sharp-set, they saw coming towards them on the road
+LINE 33: they were travelling a great number of lights which looked exactly like
+LINE 34: stars in motion. Sancho was taken aback at the sight of them, nor did
+LINE 35: Don Quixote altogether relish them: the one pulled up his ass by the
+LINE 36: halter, the other his hack by the bridle, and they stood still,
+LINE 37: watching anxiously to see what all this would turn out to be, and found
+LINE 38: that the lights were approaching them, and the nearer they came the
+LINE 39: greater they seemed, at which spectacle Sancho began to shake like a
+LINE 40: man dosed with mercury, and Don Quixote's hair stood on end; he,
+LINE 41: however, plucking up spirit a little, said:
+LINE 42: "This, no doubt, Sancho, will be a most mighty and perilous adventure,
+LINE 43: in which it will be needful for me to put forth all my valour and
+LINE 44: resolution."
+LINE 45: "Unlucky me!" answered Sancho; "if this adventure happens to be one of
+LINE 46: phantoms, as I am beginning to think it is, where shall I find the ribs
+LINE 47: to bear it?"
+LINE 48: "Be they phantoms ever so much," said Don Quixote, "I will not permit
+LINE 49: them to touch a thread of thy garments; for if they played tricks with
+LINE 50: thee the time before, it was because I was unable to leap the walls of
+LINE 51: the yard; but now we are on a wide plain, where I shall be able to
+LINE 52: wield my sword as I please."
+LINE 53: "And if they enchant and cripple you as they did the last time," said
+LINE 54: Sancho, "what difference will it make being on the open plain or not?"
+LINE 55: "For all that," replied Don Quixote, "I entreat thee, Sancho, to keep a
+LINE 56: good heart, for experience will tell thee what mine is."
+LINE 57: "I will, please God," answered Sancho, and the two retiring to one side
+LINE 58: of the road set themselves to observe closely what all these moving
+LINE 59: lights might be; and very soon afterwards they made out some twenty
+LINE 60: encamisados, all on horseback, with lighted torches in their hands, the
+LINE 61: awe-inspiring aspect of whom completely extinguished the courage of
+LINE 62: Sancho, who began to chatter with his teeth like one in the cold fit of
+LINE 63: an ague; and his heart sank and his teeth chattered still more when
+LINE 64: they perceived distinctly that behind them there came a litter covered
+LINE 65: over with black and followed by six more mounted figures in mourning
+LINE 66: down to the very feet of their mules—for they could perceive plainly
+LINE 67: they were not horses by the easy pace at which they went. And as the
+LINE 68: encamisados came along they muttered to themselves in a low plaintive
+LINE 69: tone. This strange spectacle at such an hour and in such a solitary
+LINE 70: place was quite enough to strike terror into Sancho's heart, and even
+LINE 71: into his master's; and (save in Don Quixote's case) did so, for all
+LINE 72: Sancho's resolution had now broken down. It was just the opposite with
+LINE 73: his master, whose imagination immediately conjured up all this to him
+LINE 74: vividly as one of the adventures of his books.
+LINE 75: He took it into his head that the litter was a bier on which was borne
+LINE 76: some sorely wounded or slain knight, to avenge whom was a task reserved
+LINE 77: for him alone; and without any further reasoning he laid his lance in
+LINE 78: rest, fixed himself firmly in his saddle, and with gallant spirit and
+LINE 79: bearing took up his position in the middle of the road where the
+LINE 80: encamisados must of necessity pass; and as soon as he saw them near at
+LINE 81: hand he raised his voice and said:
+LINE 82: "Halt, knights, or whosoever ye may be, and render me account of who ye
+LINE 83: are, whence ye come, where ye go, what it is ye carry upon that bier,
+LINE 84: for, to judge by appearances, either ye have done some wrong or some
+LINE 85: wrong has been done to you, and it is fitting and necessary that I
+LINE 86: should know, either that I may chastise you for the evil ye have done,
+LINE 87: or else that I may avenge you for the injury that has been inflicted
+LINE 88: upon you."
+LINE 89: "We are in haste," answered one of the encamisados, "and the inn is far
+LINE 90: off, and we cannot stop to render you such an account as you demand;"
+LINE 91: and spurring his mule he moved on.
+LINE 92: Don Quixote was mightily provoked by this answer, and seizing the mule
+LINE 93: by the bridle he said, "Halt, and be more mannerly, and render an
+LINE 94: account of what I have asked of you; else, take my defiance to combat,
+LINE 95: all of you."
+LINE 96: The mule was shy, and was so frightened at her bridle being seized that
+LINE 97: rearing up she flung her rider to the ground over her haunches. An
+LINE 98: attendant who was on foot, seeing the encamisado fall, began to abuse
+LINE 99: Don Quixote, who now moved to anger, without any more ado, laying his
+LINE 100: lance in rest charged one of the men in mourning and brought him badly
+LINE 101: wounded to the ground, and as he wheeled round upon the others the
+LINE 102: agility with which he attacked and routed them was a sight to see, for
+LINE 103: it seemed just as if wings had that instant grown upon Rocinante, so
+LINE 104: lightly and proudly did he bear himself. The encamisados were all timid
+LINE 105: folk and unarmed, so they speedily made their escape from the fray and
+LINE 106: set off at a run across the plain with their lighted torches, looking
+LINE 107: exactly like maskers running on some gala or festival night. The
+LINE 108: mourners, too, enveloped and swathed in their skirts and gowns, were
+LINE 109: unable to bestir themselves, and so with entire safety to himself Don
+LINE 110: Quixote belaboured them all and drove them off against their will, for
+LINE 111: they all thought it was no man but a devil from hell come to carry away
+LINE 112: the dead body they had in the litter.
+LINE 113: Sancho beheld all this in astonishment at the intrepidity of his lord,
+LINE 114: and said to himself, "Clearly this master of mine is as bold and
+LINE 115: valiant as he says he is."
+LINE 116: A burning torch lay on the ground near the first man whom the mule had
+LINE 117: thrown, by the light of which Don Quixote perceived him, and coming up
+LINE 118: to him he presented the point of the lance to his face, calling on him
+LINE 119: to yield himself prisoner, or else he would kill him; to which the
+LINE 120: prostrate man replied, "I am prisoner enough as it is; I cannot stir,
+LINE 121: for one of my legs is broken: I entreat you, if you be a Christian
+LINE 122: gentleman, not to kill me, which will be committing grave sacrilege,
+LINE 123: for I am a licentiate and I hold first orders."
+LINE 124: "Then what the devil brought you here, being a churchman?" said Don
+LINE 125: Quixote.
+LINE 126: "What, señor?" said the other. "My bad luck."
+LINE 127: "Then still worse awaits you," said Don Quixote, "if you do not satisfy
+LINE 128: me as to all I asked you at first."
+LINE 129: "You shall be soon satisfied," said the licentiate; "you must know,
+LINE 130: then, that though just now I said I was a licentiate, I am only a
+LINE 131: bachelor, and my name is Alonzo Lopez; I am a native of Alcobendas, I
+LINE 132: come from the city of Baeza with eleven others, priests, the same who
+LINE 133: fled with the torches, and we are going to the city of Segovia
+LINE 134: accompanying a dead body which is in that litter, and is that of a
+LINE 135: gentleman who died in Baeza, where he was interred; and now, as I said,
+LINE 136: we are taking his bones to their burial-place, which is in Segovia,
+LINE 137: where he was born."
+LINE 138: "And who killed him?" asked Don Quixote.
+LINE 139: "God, by means of a malignant fever that took him," answered the
+LINE 140: bachelor.
+LINE 141: "In that case," said Don Quixote, "the Lord has relieved me of the task
+LINE 142: of avenging his death had any other slain him; but, he who slew him
+LINE 143: having slain him, there is nothing for it but to be silent, and shrug
+LINE 144: one's shoulders; I should do the same were he to slay myself; and I
+LINE 145: would have your reverence know that I am a knight of La Mancha, Don
+LINE 146: Quixote by name, and it is my business and calling to roam the world
+LINE 147: righting wrongs and redressing injuries."
+LINE 148: "I do not know how that about righting wrongs can be," said the
+LINE 149: bachelor, "for from straight you have made me crooked, leaving me with
+LINE 150: a broken leg that will never see itself straight again all the days of
+LINE 151: its life; and the injury you have redressed in my case has been to
+LINE 152: leave me injured in such a way that I shall remain injured for ever;
+LINE 153: and the height of misadventure it was to fall in with you who go in
+LINE 154: search of adventures."
+LINE 155: "Things do not all happen in the same way," answered Don Quixote; "it
+LINE 156: all came, Sir Bachelor Alonzo Lopez, of your going, as you did, by
+LINE 157: night, dressed in those surplices, with lighted torches, praying,
+LINE 158: covered with mourning, so that naturally you looked like something evil
+LINE 159: and of the other world; and so I could not avoid doing my duty in
+LINE 160: attacking you, and I should have attacked you even had I known
+LINE 161: positively that you were the very devils of hell, for such I certainly
+LINE 162: believed and took you to be."
+LINE 163: "As my fate has so willed it," said the bachelor, "I entreat you, sir
+LINE 164: knight-errant, whose errand has been such an evil one for me, to help
+LINE 165: me to get from under this mule that holds one of my legs caught between
+LINE 166: the stirrup and the saddle."
+LINE 167: "I would have talked on till to-morrow," said Don Quixote; "how long
+LINE 168: were you going to wait before telling me of your distress?"
+LINE 169: He at once called to Sancho, who, however, had no mind to come, as he
+LINE 170: was just then engaged in unloading a sumpter mule, well laden with
+LINE 171: provender, which these worthy gentlemen had brought with them. Sancho
+LINE 172: made a bag of his coat, and, getting together as much as he could, and
+LINE 173: as the bag would hold, he loaded his beast, and then hastened to obey
+LINE 174: his master's call, and helped him to remove the bachelor from under the
+LINE 175: mule; then putting him on her back he gave him the torch, and Don
+LINE 176: Quixote bade him follow the track of his companions, and beg pardon of
+LINE 177: them on his part for the wrong which he could not help doing them.
+LINE 178: And said Sancho, "If by chance these gentlemen should want to know who
+LINE 179: was the hero that served them so, your worship may tell them that he is
+LINE 180: the famous Don Quixote of La Mancha, otherwise called the Knight of the
+LINE 181: Rueful Countenance."
+LINE 182: The bachelor then took his departure.
+LINE 183: I forgot to mention that before he did so he said to Don Quixote,
+LINE 184: "Remember that you stand excommunicated for having laid violent hands
+LINE 185: on a holy thing, _juxta illud, si quis, suadente diabolo_."
+LINE 186: "I do not understand that Latin," answered Don Quixote, "but I know
+LINE 187: well I did not lay hands, only this pike; besides, I did not think I
+LINE 188: was committing an assault upon priests or things of the Church, which,
+LINE 189: like a Catholic and faithful Christian as I am, I respect and revere,
+LINE 190: but upon phantoms and spectres of the other world; but even so, I
+LINE 191: remember how it fared with Cid Ruy Diaz when he broke the chair of the
+LINE 192: ambassador of that king before his Holiness the Pope, who
+LINE 193: excommunicated him for the same; and yet the good Roderick of Vivar
+LINE 194: bore himself that day like a very noble and valiant knight."
+LINE 195: On hearing this the bachelor took his departure, as has been said,
+LINE 196: without making any reply; and Don Quixote asked Sancho what had induced
+LINE 197: him to call him the "Knight of the Rueful Countenance" more then than
+LINE 198: at any other time.
+LINE 199: "I will tell you," answered Sancho; "it was because I have been looking
+LINE 200: at you for some time by the light of the torch held by that
+LINE 201: unfortunate, and verily your worship has got of late the most
+LINE 202: ill-favoured countenance I ever saw: it must be either owing to the
+LINE 203: fatigue of this combat, or else to the want of teeth and grinders."
+LINE 204: "It is not that," replied Don Quixote, "but because the sage whose duty
+LINE 205: it will be to write the history of my achievements must have thought it
+LINE 206: proper that I should take some distinctive name as all knights of yore
+LINE 207: did; one being 'He of the Burning Sword,' another 'He of the Unicorn,'
+LINE 208: this one 'He of the Damsels,' that 'He of the Phœnix,' another 'The
+LINE 209: Knight of the Griffin,' and another 'He of the Death,' and by these
+LINE 210: names and designations they were known all the world round; and so I
+LINE 211: say that the sage aforesaid must have put it into your mouth and mind
+LINE 212: just now to call me 'The Knight of the Rueful Countenance,' as I intend
+LINE 213: to call myself from this day forward; and that the said name may fit me
+LINE 214: better, I mean, when the opportunity offers, to have a very rueful
+LINE 215: countenance painted on my shield."
+LINE 216: "There is no occasion, señor, for wasting time or money on making that
+LINE 217: countenance," said Sancho; "for all that need be done is for your
+LINE 218: worship to show your own, face to face, to those who look at you, and
+LINE 219: without anything more, either image or shield, they will call you 'Him
+LINE 220: of the Rueful Countenance' and believe me I am telling you the truth,
+LINE 221: for I assure you, señor (and in good part be it said), hunger and the
+LINE 222: loss of your grinders have given you such an ill-favoured face that, as
+LINE 223: I say, the rueful picture may be very well spared."
+LINE 224: Don Quixote laughed at Sancho's pleasantry; nevertheless he resolved to
+LINE 225: call himself by that name, and have his shield or buckler painted as he
+LINE 226: had devised.
+LINE 227: Don Quixote would have looked to see whether the body in the litter
+LINE 228: were bones or not, but Sancho would not have it, saying:
+LINE 229: "Señor, you have ended this perilous adventure more safely for yourself
+LINE 230: than any of those I have seen: perhaps these people, though beaten and
+LINE 231: routed, may bethink themselves that it is a single man that has beaten
+LINE 232: them, and feeling sore and ashamed of it may take heart and come in
+LINE 233: search of us and give us trouble enough. The ass is in proper trim, the
+LINE 234: mountains are near at hand, hunger presses, we have nothing more to do
+LINE 235: but make good our retreat, and, as the saying is, the dead to the grave
+LINE 236: and the living to the loaf."
+LINE 237: And driving his ass before him he begged his master to follow, who,
+LINE 238: feeling that Sancho was right, did so without replying; and after
+LINE 239: proceeding some little distance between two hills they found themselves
+LINE 240: in a wide and retired valley, where they alighted, and Sancho unloaded
+LINE 241: his beast, and stretched upon the green grass, with hunger for sauce,
+LINE 242: they breakfasted, dined, lunched, and supped all at once, satisfying
+LINE 243: their appetites with more than one store of cold meat which the dead
+LINE 244: man's clerical gentlemen (who seldom put themselves on short allowance)
+LINE 245: had brought with them on their sumpter mule. But another piece of
+LINE 246: ill-luck befell them, which Sancho held the worst of all, and that was
+LINE 247: that they had no wine to drink, nor even water to moisten their lips;
+LINE 248: and as thirst tormented them, Sancho, observing that the meadow where
+LINE 249: they were was full of green and tender grass, said what will be told in
+LINE 250: the following chapter.

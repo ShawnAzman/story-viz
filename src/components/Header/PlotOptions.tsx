@@ -127,6 +127,12 @@ function PlotOptions() {
 
     "hamlet-new",
     "hamlet-new-themes",
+
+    "odyssey-new",
+    "odyssey-new-themes",
+
+    "donquixote-new",
+    "donquixote-new-themes",
   ].sort();
 
   const storyOptionsDisplay = storyOptions.filter(

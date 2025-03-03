@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState, useRef } from "react";
 import { storyStore } from "../../stores/storyStore";
-import { onlyLetters } from "../../utils/helpers";
+import { extractChapterName, onlyLetters } from "../../utils/helpers";
 import { dataStore } from "../../stores/dataStore";
 import { Scene } from "../../utils/data";
 import {
@@ -329,7 +329,9 @@ function ChapterText() {
                 onMouseLeave={() => setSceneHover("")}
               >
                 {chapterView ? "" : `Scene ${scene.number}: `}
-                {scene.name}
+                {chapterView && scene.name.length > 60
+                  ? extractChapterName(scene.name)
+                  : scene.name}
               </b>
               <p
                 className="loc"

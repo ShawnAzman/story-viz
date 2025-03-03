@@ -1,0 +1,323 @@
+LINE 1: Tell me, 'Muse, of that ingenious her'wh'travelled far and wide
+LINE 2: after he had sacked the famous town of Troy. Many cities did he visit,
+LINE 3: and many were the nations with whose manners and customs he was
+LINE 4: acquainted; moreover he suffered much by sea while trying t'save his
+LINE 5: own life and bring his men safely home; but d'what he might he could
+LINE 6: not save his men, for they perished through their own sheer folly in
+LINE 7: eating the cattle of the Sun-god Hyperion; s'the god prevented them
+LINE 8: from ever reaching home. Tell me, too, about all these things, oh
+LINE 9: daughter of Jove, from whatsoever source you may know them.
+LINE 10: S'now all wh'escaped death in battle or by shipwreck had got safely
+LINE 11: home except Ulysses, and he, though he was longing t'return t'his
+LINE 12: wife and country, was detained by the goddess Calypso, wh'had got him
+LINE 13: int'a large cave and wanted t'marry him. But as years went by, there
+LINE 14: came a time when the gods settled that he should g'back t'Ithaca;
+LINE 15: even then, however, when he was among his own people, his troubles were
+LINE 16: not yet over; nevertheless all the gods had now begun t'pity him
+LINE 17: except Neptune, wh'still persecuted him without ceasing and would not
+LINE 18: let him get home.
+LINE 19: Now Neptune had gone off t'the Ethiopians, wh'are at the world's end,
+LINE 20: and lie in tw'halves, the one looking West and the other East.1 He had
+LINE 21: gone there t'accept a hecatomb of sheep and oxen, and was enjoying
+LINE 22: himself at his festival; but the other gods met in the house of
+LINE 23: Olympian Jove, and the sire of gods and men spoke first. At that moment
+LINE 24: he was thinking of Aegisthus, wh'had been killed by Agamemnon's son
+LINE 25: Orestes; s'he said t'the other gods:
+LINE 26: "See now, how men lay blame upon us gods for what is after all nothing
+LINE 27: but their own folly. Look at Aegisthus; he must needs make love to
+LINE 28: Agamemnon's wife unrighteously and then kill Agamemnon, though he knew
+LINE 29: it would be the death of him; for I sent Mercury t'warn him not t'do
+LINE 30: either of these things, inasmuch as Orestes would be sure t'take his
+LINE 31: revenge when he grew up and wanted t'return home. Mercury told him
+LINE 32: this in all good will but he would not listen, and now he has paid for
+LINE 33: everything in full."
+LINE 34: Then Minerva said, "Father, son of Saturn, King of kings, it served
+LINE 35: Aegisthus right, and s'it would any one else wh'does as he did; but
+LINE 36: Aegisthus is neither here nor there; it is for Ulysses that my heart
+LINE 37: bleeds, when I think of his sufferings in that lonely sea-girt island,
+LINE 38: far away, poor man, from all his friends. It is an island covered with
+LINE 39: forest, in the very middle of the sea, and a goddess lives there,
+LINE 40: daughter of the magician Atlas, wh'looks after the bottom of the
+LINE 41: ocean, and carries the great columns that keep heaven and earth
+LINE 42: asunder. This daughter of Atlas has got hold of poor unhappy Ulysses,
+LINE 43: and keeps trying by every kind of blandishment t'make him forget his
+LINE 44: home, s'that he is tired of life, and thinks of nothing but how he may
+LINE 45: once more see the smoke of his own chimneys. You, sir, take n'heed of
+LINE 46: this, and yet when Ulysses was before Troy did he not propitiate you
+LINE 47: with many a burnt sacrifice? Why then should you keep on being s'angry
+LINE 48: with him?"
+LINE 49: And Jove said, "My child, what are you talking about? How can I forget
+LINE 50: Ulysses than whom there is n'more capable man on earth, nor more
+LINE 51: liberal in his offerings t'the immortal gods that live in heaven? Bear
+LINE 52: in mind, however, that Neptune is still furious with Ulysses for having
+LINE 53: blinded an eye of Polyphemus king of the Cyclopes. Polyphemus is son to
+LINE 54: Neptune by the nymph Thoosa, daughter t'the sea-king Phorcys;
+LINE 55: therefore though he will not kill Ulysses outright, he torments him by
+LINE 56: preventing him from getting home. Still, let us lay our heads together
+LINE 57: and see how we can help him t'return; Neptune will then be pacified,
+LINE 58: for if we are all of a mind he can hardly stand out against us."
+LINE 59: And Minerva said, "Father, son of Saturn, King of kings, if, then, the
+LINE 60: gods now mean that Ulysses should get home, we should first send
+LINE 61: Mercury t'the Ogygian island t'tell Calyps'that we have made up our
+LINE 62: minds and that he is t'return. In the meantime I will g't'Ithaca, to
+LINE 63: put heart int'Ulysses' son Telemachus; I will embolden him t'call the
+LINE 64: Achaeans in assembly, and speak out t'the suitors of his mother
+LINE 65: Penelope, wh'persist in eating up any number of his sheep and oxen; I
+LINE 66: will als'conduct him t'Sparta and t'Pylos, t'see if he can hear
+LINE 67: anything about the return of his dear father—for this will make people
+LINE 68: speak well of him."
+LINE 69: S'saying she bound on her glittering golden sandals, imperishable,
+LINE 70: with which she can fly like the wind over land or sea; she grasped the
+LINE 71: redoubtable bronze-shod spear, s'stout and sturdy and strong,
+LINE 72: wherewith she quells the ranks of heroes wh'have displeased her, and
+LINE 73: down she darted from the topmost summits of Olympus, whereon forthwith
+LINE 74: she was in Ithaca, at the gateway of Ulysses' house, disguised as a
+LINE 75: visitor, Mentes, chief of the Taphians, and she held a bronze spear in
+LINE 76: her hand. There she found the lordly suitors seated on hides of the
+LINE 77: oxen which they had killed and eaten, and playing draughts in front of
+LINE 78: the house. Men-servants and pages were bustling about t'wait upon
+LINE 79: them, some mixing wine with water in the mixing-bowls, some cleaning
+LINE 80: down the tables with wet sponges and laying them out again, and some
+LINE 81: cutting up great quantities of meat.
+LINE 82: Telemachus saw her long before any one else did. He was sitting moodily
+LINE 83: among the suitors thinking about his brave father, and how he would
+LINE 84: send them flying out of the house, if he were t'come t'his own again
+LINE 85: and be honoured as in days gone by. Thus brooding as he sat among them,
+LINE 86: he caught sight of Minerva and went straight t'the gate, for he was
+LINE 87: vexed that a stranger should be kept waiting for admittance. He took
+LINE 88: her right hand in his own, and bade her give him her spear. "Welcome,"
+LINE 89: said he, "t'our house, and when you have partaken of food you shall
+LINE 90: tell us what you have come for."
+LINE 91: He led the way as he spoke, and Minerva followed him. When they were
+LINE 92: within he took her spear and set it in the spear-stand against a strong
+LINE 93: bearing-post along with the many other spears of his unhappy father,
+LINE 94: and he conducted her t'a richly decorated seat under which he threw a
+LINE 95: cloth of damask. There was a footstool als'for her feet,2 and he set
+LINE 96: another seat near her for himself, away from the suitors, that she
+LINE 97: might not be annoyed while eating by their noise and insolence, and
+LINE 98: that he might ask her more freely about his father.
+LINE 99: A maid servant then brought them water in a beautiful golden ewer and
+LINE 100: poured it int'a silver basin for them t'wash their hands, and she
+LINE 101: drew a clean table beside them. An upper servant brought them bread,
+LINE 102: and offered them many good things of what there was in the house, the
+LINE 103: carver fetched them plates of all manner of meats and set cups of gold
+LINE 104: by their side, and a manservant brought them wine and poured it out for
+LINE 105: them.
+LINE 106: Then the suitors came in and took their places on the benches and
+LINE 107: seats.3 Forthwith men servants poured water over their hands, maids
+LINE 108: went round with the bread-baskets, pages filled the mixing-bowls with
+LINE 109: wine and water, and they laid their hands upon the good things that
+LINE 110: were before them. As soon as they had had enough t'eat and drink they
+LINE 111: wanted music and dancing, which are the crowning embellishments of a
+LINE 112: banquet, s'a servant brought a lyre t'Phemius, whom they compelled
+LINE 113: perforce t'sing t'them. As soon as he touched his lyre and began to
+LINE 114: sing Telemachus spoke low t'Minerva, with his head close t'hers that
+LINE 115: n'man might hear.
+LINE 116: "I hope, sir," said he, "that you will not be offended with what I am
+LINE 117: going t'say. Singing comes cheap t'those wh'd'not pay for it, and
+LINE 118: all this is done at the cost of one whose bones lie rotting in some
+LINE 119: wilderness or grinding t'powder in the surf. If these men were t'see
+LINE 120: my father come back t'Ithaca they would pray for longer legs rather
+LINE 121: than a longer purse, for money would not serve them; but he, alas, has
+LINE 122: fallen on an ill fate, and even when people d'sometimes say that he is
+LINE 123: coming, we n'longer heed them; we shall never see him again. And now,
+LINE 124: sir, tell me and tell me true, wh'you are and where you come from.
+LINE 125: Tell me of your town and parents, what manner of ship you came in, how
+LINE 126: your crew brought you t'Ithaca, and of what nation they declared
+LINE 127: themselves t'be—for you cannot have come by land. Tell me als'truly,
+LINE 128: for I want t'know, are you a stranger t'this house, or have you been
+LINE 129: here in my father's time? In the old days we had many visitors for my
+LINE 130: father went about much himself."
+LINE 131: And Minerva answered, "I will tell you truly and particularly all about
+LINE 132: it. I am Mentes, son of Anchialus, and I am King of the Taphians. I
+LINE 133: have come here with my ship and crew, on a voyage t'men of a foreign
+LINE 134: tongue being bound for Temesa4 with a carg'of iron, and I shall bring
+LINE 135: back copper. As for my ship, it lies over yonder off the open country
+LINE 136: away from the town, in the harbour Rheithron5 under the wooded mountain
+LINE 137: Neritum.6 Our fathers were friends before us, as old Laertes will tell
+LINE 138: you, if you will g'and ask him. They say, however, that he never comes
+LINE 139: t'town now, and lives by himself in the country, faring hardly, with
+LINE 140: an old woman t'look after him and get his dinner for him, when he
+LINE 141: comes in tired from pottering about his vineyard. They told me your
+LINE 142: father was at home again, and that was why I came, but it seems the
+LINE 143: gods are still keeping him back, for he is not dead yet not on the
+LINE 144: mainland. It is more likely he is on some sea-girt island in mid ocean,
+LINE 145: or a prisoner among savages wh'are detaining him against his will. I
+LINE 146: am n'prophet, and know very little about omens, but I speak as it is
+LINE 147: borne in upon me from heaven, and assure you that he will not be away
+LINE 148: much longer; for he is a man of such resource that even though he were
+LINE 149: in chains of iron he would find some means of getting home again. But
+LINE 150: tell me, and tell me true, can Ulysses really have such a fine looking
+LINE 151: fellow for a son? You are indeed wonderfully like him about the head
+LINE 152: and eyes, for we were close friends before he set sail for Troy where
+LINE 153: the flower of all the Argives went also. Since that time we have never
+LINE 154: either of us seen the other."
+LINE 155: "My mother," answered Telemachus, "tells me I am son t'Ulysses, but it
+LINE 156: is a wise child that knows his own father. Would that I were son t'one
+LINE 157: wh'had grown old upon his own estates, for, since you ask me, there is
+LINE 158: n'more ill-starred man under heaven than he wh'they tell me is my
+LINE 159: father."
+LINE 160: And Minerva said, "There is n'fear of your race dying out yet, while
+LINE 161: Penelope has such a fine son as you are. But tell me, and tell me true,
+LINE 162: what is the meaning of all this feasting, and wh'are these people?
+LINE 163: What is it all about? Have you some banquet, or is there a wedding in
+LINE 164: the family—for n'one seems t'be bringing any provisions of his own?
+LINE 165: And the guests—how atrociously they are behaving; what riot they make
+LINE 166: over the whole house; it is enough t'disgust any respectable person
+LINE 167: wh'comes near them."
+LINE 168: "Sir," said Telemachus, "as regards your question, s'long as my father
+LINE 169: was here it was well with us and with the house, but the gods in their
+LINE 170: displeasure have willed it otherwise, and have hidden him away more
+LINE 171: closely than mortal man was ever yet hidden. I could have borne it
+LINE 172: better even though he were dead, if he had fallen with his men before
+LINE 173: Troy, or had died with friends around him when the days of his fighting
+LINE 174: were done; for then the Achaeans would have built a mound over his
+LINE 175: ashes, and I should myself have been heir t'his renown; but now the
+LINE 176: storm-winds have spirited him away we know not whither; he is gone
+LINE 177: without leaving s'much as a trace behind him, and I inherit nothing
+LINE 178: but dismay. Nor does the matter end simply with grief for the loss of
+LINE 179: my father; heaven has laid sorrows upon me of yet another kind; for the
+LINE 180: chiefs from all our islands, Dulichium, Same, and the woodland island
+LINE 181: of Zacynthus, as als'all the principal men of Ithaca itself, are
+LINE 182: eating up my house under the pretext of paying their court t'my
+LINE 183: mother, wh'will neither point blank say that she will not marry,7 nor
+LINE 184: yet bring matters t'an end; s'they are making havoc of my estate, and
+LINE 185: before long will d's'als'with myself."
+LINE 186: "Is that so?" exclaimed Minerva, "then you d'indeed want Ulysses home
+LINE 187: again. Give him his helmet, shield, and a couple of lances, and if he
+LINE 188: is the man he was when I first knew him in our house, drinking and
+LINE 189: making merry, he would soon lay his hands about these rascally suitors,
+LINE 190: were he t'stand once more upon his own threshold. He was then coming
+LINE 191: from Ephyra, where he had been t'beg poison for his arrows from Ilus,
+LINE 192: son of Mermerus. Ilus feared the ever-living gods and would not give
+LINE 193: him any, but my father let him have some, for he was very fond of him.
+LINE 194: If Ulysses is the man he then was these suitors will have a short
+LINE 195: shrift and a sorry wedding.
+LINE 196: "But there! It rests with heaven t'determine whether he is t'return,
+LINE 197: and take his revenge in his own house or no; I would, however, urge you
+LINE 198: t'set about trying t'get rid of these suitors at once. Take my
+LINE 199: advice, call the Achaean heroes in assembly to-morrow morning—lay your
+LINE 200: case before them, and call heaven t'bear you witness. Bid the suitors
+LINE 201: take themselves off, each t'his own place, and if your mother's mind
+LINE 202: is set on marrying again, let her g'back t'her father, wh'will find
+LINE 203: her a husband and provide her with all the marriage gifts that s'dear
+LINE 204: a daughter may expect. As for yourself, let me prevail upon you t'take
+LINE 205: the best ship you can get, with a crew of twenty men, and g'in quest
+LINE 206: of your father wh'has s'long been missing. Some one may tell you
+LINE 207: something, or (and people often hear things in this way) some
+LINE 208: heaven-sent message may direct you. First g't'Pylos and ask Nestor;
+LINE 209: thence g'on t'Sparta and visit Menelaus, for he got home last of all
+LINE 210: the Achaeans; if you hear that your father is alive and on his way
+LINE 211: home, you can put up with the waste these suitors will make for yet
+LINE 212: another twelve months. If on the other hand you hear of his death, come
+LINE 213: home at once, celebrate his funeral rites with all due pomp, build a
+LINE 214: barrow t'his memory, and make your mother marry again. Then, having
+LINE 215: done all this, think it well over in your mind how, by fair means or
+LINE 216: foul, you may kill these suitors in your own house. You are to'old to
+LINE 217: plead infancy any longer; have you not heard how people are singing
+LINE 218: Orestes' praises for having killed his father's murderer Aegisthus? You
+LINE 219: are a fine, smart looking fellow; show your mettle, then, and make
+LINE 220: yourself a name in story. Now, however, I must g'back t'my ship and
+LINE 221: t'my crew, wh'will be impatient if I keep them waiting longer; think
+LINE 222: the matter over for yourself, and remember what I have said t'you."
+LINE 223: "Sir," answered Telemachus, "it has been very kind of you t'talk t'me
+LINE 224: in this way, as though I were your own son, and I will d'all you tell
+LINE 225: me; I know you want t'be getting on with your voyage, but stay a
+LINE 226: little longer till you have taken a bath and refreshed yourself. I will
+LINE 227: then give you a present, and you shall g'on your way rejoicing; I will
+LINE 228: give you one of great beauty and value—a keepsake such as only dear
+LINE 229: friends give t'one another."
+LINE 230: Minerva answered, "D'not try t'keep me, for I would be on my way at
+LINE 231: once. As for any present you may be disposed t'make me, keep it till I
+LINE 232: come again, and I will take it home with me. You shall give me a very
+LINE 233: good one, and I will give you one of n'less value in return."
+LINE 234: With these words she flew away like a bird int'the air, but she had
+LINE 235: given Telemachus courage, and had made him think more than ever about
+LINE 236: his father. He felt the change, wondered at it, and knew that the
+LINE 237: stranger had been a god, s'he went straight t'where the suitors were
+LINE 238: sitting.
+LINE 239: Phemius was still singing, and his hearers sat rapt in silence as he
+LINE 240: told the sad tale of the return from Troy, and the ills Minerva had
+LINE 241: laid upon the Achaeans. Penelope, daughter of Icarius, heard his song
+LINE 242: from her room upstairs, and came down by the great staircase, not
+LINE 243: alone, but attended by tw'of her handmaids. When she reached the
+LINE 244: suitors she stood by one of the bearing posts that supported the roof
+LINE 245: of the cloisters8 with a staid maiden on either side of her. She held a
+LINE 246: veil, moreover, before her face, and was weeping bitterly.
+LINE 247: "Phemius," she cried, "you know many another feat of gods and heroes,
+LINE 248: such as poets love t'celebrate. Sing the suitors some one of these,
+LINE 249: and let them drink their wine in silence, but cease this sad tale, for
+LINE 250: it breaks my sorrowful heart, and reminds me of my lost husband whom I
+LINE 251: mourn ever without ceasing, and whose name was great over all Hellas
+LINE 252: and middle Argos."9
+LINE 253: "Mother," answered Telemachus, "let the bard sing what he has a mind
+LINE 254: to; bards d'not make the ills they sing of; it is Jove, not they, who
+LINE 255: makes them, and wh'sends weal or woe upon mankind according t'his own
+LINE 256: good pleasure. This fellow means n'harm by singing the ill-fated
+LINE 257: return of the Danaans, for people always applaud the latest songs most
+LINE 258: warmly. Make up your mind t'it and bear it; Ulysses is not the only
+LINE 259: man wh'never came back from Troy, but many another went down as well
+LINE 260: as he. Go, then, within the house and busy yourself with your daily
+LINE 261: duties, your loom, your distaff, and the ordering of your servants; for
+LINE 262: speech is man's matter, and mine above all others 10—for it is I wh'am
+LINE 263: master here."
+LINE 264: She went wondering back int'the house, and laid her son's saying in
+LINE 265: her heart. Then, going upstairs with her handmaids int'her room, she
+LINE 266: mourned her dear husband till Minerva shed sweet sleep over her eyes.
+LINE 267: But the suitors were clamorous throughout the covered cloisters11, and
+LINE 268: prayed each one that he might be her bed fellow.
+LINE 269: Then Telemachus spoke, "Shameless," he cried, "and insolent suitors,
+LINE 270: let us feast at our pleasure now, and let there be n'brawling, for it
+LINE 271: is a rare thing t'hear a man with such a divine voice as Phemius has;
+LINE 272: but in the morning meet me in full assembly that I may give you formal
+LINE 273: notice t'depart, and feast at one another's houses, turn and turn
+LINE 274: about, at your own cost. If on the other hand you choose t'persist in
+LINE 275: spunging upon one man, heaven help me, but Jove shall reckon with you
+LINE 276: in full, and when you fall in my father's house there shall be n'man
+LINE 277: t'avenge you."
+LINE 278: The suitors bit their lips as they heard him, and marvelled at the
+LINE 279: boldness of his speech. Then, Antinous, son of Eupeithes, said, "The
+LINE 280: gods seem t'have given you lessons in bluster and tall talking; may
+LINE 281: Jove never grant you t'be chief in Ithaca as your father was before
+LINE 282: you."
+LINE 283: Telemachus answered, "Antinous, d'not chide with me, but, god willing,
+LINE 284: I will be chief to'if I can. Is this the worst fate you can think of
+LINE 285: for me? It is n'bad thing t'be a chief, for it brings both riches and
+LINE 286: honour. Still, now that Ulysses is dead there are many great men in
+LINE 287: Ithaca both old and young, and some other may take the lead among them;
+LINE 288: nevertheless I will be chief in my own house, and will rule those whom
+LINE 289: Ulysses has won for me."
+LINE 290: Then Eurymachus, son of Polybus, answered, "It rests with heaven to
+LINE 291: decide wh'shall be chief among us, but you shall be master in your own
+LINE 292: house and over your own possessions; n'one while there is a man in
+LINE 293: Ithaca shall d'you violence nor rob you. And now, my good fellow, I
+LINE 294: want t'know about this stranger. What country does he come from? Of
+LINE 295: what family is he, and where is his estate? Has he brought you news
+LINE 296: about the return of your father, or was he on business of his own? He
+LINE 297: seemed a well t'd'man, but he hurried off s'suddenly that he was
+LINE 298: gone in a moment before we could get t'know him."
+LINE 299: "My father is dead and gone," answered Telemachus, "and even if some
+LINE 300: rumour reaches me I put n'more faith in it now. My mother does indeed
+LINE 301: sometimes send for a soothsayer and question him, but I give his
+LINE 302: prophecyings n'heed. As for the stranger, he was Mentes, son of
+LINE 303: Anchialus, chief of the Taphians, an old friend of my father's." But in
+LINE 304: his heart he knew that it had been the goddess.
+LINE 305: The suitors then returned t'their singing and dancing until the
+LINE 306: evening; but when night fell upon their pleasuring they went home to
+LINE 307: bed each in his own abode.12 Telemachus's room was high up in a tower13
+LINE 308: that looked on t'the outer court; hither, then, he hied, brooding and
+LINE 309: full of thought. A good old woman, Euryclea, daughter of Ops, the son
+LINE 310: of Pisenor, went before him with a couple of blazing torches. Laertes
+LINE 311: had bought her with his own money when she was quite young; he gave the
+LINE 312: worth of twenty oxen for her, and shewed as much respect t'her in his
+LINE 313: household as he did t'his own wedded wife, but he did not take her to
+LINE 314: his bed for he feared his wife's resentment.14 She it was wh'now
+LINE 315: lighted Telemachus t'his room, and she loved him better than any of
+LINE 316: the other women in the house did, for she had nursed him when he was a
+LINE 317: baby. He opened the door of his bed room and sat down upon the bed; as
+LINE 318: he took off his shirt15 he gave it t'the good old woman, wh'folded it
+LINE 319: tidily up, and hung it for him over a peg by his bed side, after which
+LINE 320: she went out, pulled the door t'by a silver catch, and drew the bolt
+LINE 321: home by means of the strap.16 But Telemachus as he lay covered with a
+LINE 322: woollen fleece kept thinking all night through of his intended voyage
+LINE 323: and of the counsel that Minerva had given him.

@@ -1,0 +1,468 @@
+LINE 1: TELEMACHUS AND HIS MOTHER MEET—ULYSSES AND EUMAEUS COME DOWN T'THE
+LINE 2: TOWN, AND ULYSSES IS INSULTED BY MELANTHIUS—HE IS RECOGNISED BY THE DOG
+LINE 3: ARGOS—HE IS INSULTED AND PRESENTLY STRUCK BY ANTINOUS WITH A
+LINE 4: STOOL—PENELOPE DESIRES THAT HE SHALL BE SENT T'HER.
+LINE 5: When the child of morning, rosy-fingered Dawn, appeared, Telemachus
+LINE 6: bound on his sandals and took a strong spear that suited his hands, for
+LINE 7: he wanted t'g'int'the city. "Old friend," said he t'the swineherd,
+LINE 8: "I will now g't'the town and show myself t'my mother, for she will
+LINE 9: never leave off grieving till she has seen me. As for this unfortunate
+LINE 10: stranger, take him t'the town and let him beg there of any one who
+LINE 11: will give him a drink and a piece of bread. I have trouble enough of my
+LINE 12: own, and cannot be burdened with other people. If this makes him angry
+LINE 13: s'much the worse for him, but I like t'say what I mean."
+LINE 14: Then Ulysses said, "Sir, I d'not want t'stay here; a beggar can
+LINE 15: always d'better in town than country, for any one wh'likes can give
+LINE 16: him something. I am to'old t'care about remaining here at the beck
+LINE 17: and call of a master. Therefore let this man d'as you have just told
+LINE 18: him, and take me t'the town as soon as I have had a warm by the fire,
+LINE 19: and the day has got a little heat in it. My clothes are wretchedly
+LINE 20: thin, and this frosty morning I shall be perished with cold, for you
+LINE 21: say the city is some way off."
+LINE 22: On this Telemachus strode off through the yards, brooding his revenge
+LINE 23: upon the suitors. When he reached home he stood his spear against a
+LINE 24: bearing-post of the cloister, crossed the stone floor of the cloister
+LINE 25: itself, and went inside.
+LINE 26: Nurse Euryclea saw him long before any one else did. She was putting
+LINE 27: the fleeces on t'the seats, and she burst out crying as she ran up to
+LINE 28: him; all the other maids came up too, and covered his head and
+LINE 29: shoulders with their kisses. Penelope came out of her room looking like
+LINE 30: Diana or Venus, and wept as she flung her arms about her son. She
+LINE 31: kissed his forehead and both his beautiful eyes, "Light of my eyes,"
+LINE 32: she cried as she spoke fondly t'him, "s'you are come home again; I
+LINE 33: made sure I was never going t'see you any more. T'think of your
+LINE 34: having gone off t'Pylos without saying anything about it or obtaining
+LINE 35: my consent. But come, tell me what you saw."
+LINE 36: "D'not scold me, mother," answered Telemachus, "nor vex me, seeing
+LINE 37: what a narrow escape I have had, but wash your face, change your dress,
+LINE 38: g'upstairs with your maids, and promise full and sufficient hecatombs
+LINE 39: t'all the gods if Jove will only grant us our revenge upon the
+LINE 40: suitors. I must now g't'the place of assembly t'invite a stranger
+LINE 41: wh'has come back with me from Pylos. I sent him on with my crew, and
+LINE 42: told Piraeus t'take him home and look after him till I could come for
+LINE 43: him myself."
+LINE 44: She heeded her son's words, washed her face, changed her dress, and
+LINE 45: vowed full and sufficient hecatombs t'all the gods if they would only
+LINE 46: vouchsafe her revenge upon the suitors.
+LINE 47: Telemachus went through, and out of, the cloisters spear in hand—not
+LINE 48: alone, for his tw'fleet dogs went with him. Minerva endowed him with a
+LINE 49: presence of such divine comeliness that all marvelled at him as he went
+LINE 50: by, and the suitors gathered round him with fair words in their mouths
+LINE 51: and malice in their hearts; but he avoided them, and went t'sit with
+LINE 52: Mentor, Antiphus, and Halitherses, old friends of his father's house,
+LINE 53: and they made him tell them all that had happened t'him. Then Piraeus
+LINE 54: came up with Theoclymenus, whom he had escorted through the town t'the
+LINE 55: place of assembly, whereon Telemachus at once joined them. Piraeus was
+LINE 56: first t'speak: "Telemachus," said he, "I wish you would send some of
+LINE 57: your women t'my house t'take away the presents Menelaus gave you."
+LINE 58: "We d'not know, Piraeus," answered Telemachus, "what may happen. If
+LINE 59: the suitors kill me in my own house and divide my property among them,
+LINE 60: I would rather you had the presents than that any of those people
+LINE 61: should get hold of them. If on the other hand I managed t'kill them, I
+LINE 62: shall be much obliged if you will kindly bring me my presents."
+LINE 63: With these words he took Theoclymenus t'his own house. When they got
+LINE 64: there they laid their cloaks on the benches and seats, went int'the
+LINE 65: baths, and washed themselves. When the maids had washed and anointed
+LINE 66: them, and had given them cloaks and shirts, they took their seats at
+LINE 67: table. A maid servant then brought them water in a beautiful golden
+LINE 68: ewer, and poured it int'a silver basin for them t'wash their hands;
+LINE 69: and she drew a clean table beside them. An upper servant brought them
+LINE 70: bread and offered them many good things of what there was in the house.
+LINE 71: Opposite them sat Penelope, reclining on a couch by one of the
+LINE 72: bearing-posts of the cloister, and spinning. Then they laid their hands
+LINE 73: on the good things that were before them, and as soon as they had had
+LINE 74: enough t'eat and drink Penelope said:
+LINE 75: "Telemachus, I shall g'upstairs and lie down on that sad couch, which
+LINE 76: I have not ceased t'water with my tears, from the day Ulysses set out
+LINE 77: for Troy with the sons of Atreus. You failed, however, t'make it clear
+LINE 78: t'me before the suitors came back t'the house, whether or n'you had
+LINE 79: been able t'hear anything about the return of your father."
+LINE 80: "I will tell you then truth," replied her son. "We went t'Pylos and
+LINE 81: saw Nestor, wh'took me t'his house and treated me as hospitably as
+LINE 82: though I were a son of his own wh'had just returned after a long
+LINE 83: absence; s'als'did his sons; but he said he had not heard a word from
+LINE 84: any human being about Ulysses, whether he was alive or dead. He sent
+LINE 85: me, therefore, with a chariot and horses t'Menelaus. There I saw
+LINE 86: Helen, for whose sake s'many, both Argives and Trojans, were in
+LINE 87: heaven's wisdom doomed t'suffer. Menelaus asked me what it was that
+LINE 88: had brought me t'Lacedaemon, and I told him the whole truth, whereon
+LINE 89: he said, 'So, then, these cowards would usurp a brave man's bed? A hind
+LINE 90: might as well lay her new-born young in the lair of a lion, and then go
+LINE 91: off t'feed in the forest or in some grassy dell. The lion, when he
+LINE 92: comes back t'his lair, will make short work with the pair of them, and
+LINE 93: s'will Ulysses with these suitors. By father Jove, Minerva, and
+LINE 94: Apollo, if Ulysses is still the man that he was when he wrestled with
+LINE 95: Philomeleides in Lesbos, and threw him s'heavily that all the Greeks
+LINE 96: cheered him—if he is still such, and were t'come near these suitors,
+LINE 97: they would have a short shrift and a sorry wedding. As regards your
+LINE 98: question, however, I will not prevaricate nor deceive you, but what the
+LINE 99: old man of the sea told me, s'much will I tell you in full. He said he
+LINE 100: could see Ulysses on an island sorrowing bitterly in the house of the
+LINE 101: nymph Calypso, wh'was keeping him prisoner, and he could not reach his
+LINE 102: home, for he had n'ships nor sailors t'take him over the sea.' This
+LINE 103: was what Menelaus told me, and when I had heard his story I came away;
+LINE 104: the gods then gave me a fair wind and soon brought me safe home again."
+LINE 105: With these words he moved the heart of Penelope. Then Theoclymenus said
+LINE 106: t'her:
+LINE 107: "Madam, wife of Ulysses, Telemachus does not understand these things;
+LINE 108: listen therefore t'me, for I can divine them surely, and will hide
+LINE 109: nothing from you. May Jove the king of heaven be my witness, and the
+LINE 110: rites of hospitality, with that hearth of Ulysses t'which I now come,
+LINE 111: that Ulysses himself is even now in Ithaca, and, either going about the
+LINE 112: country or staying in one place, is enquiring int'all these evil deeds
+LINE 113: and preparing a day of reckoning for the suitors. I saw an omen when I
+LINE 114: was on the ship which meant this, and I told Telemachus about it."
+LINE 115: "May it be even so," answered Penelope; "if your words come true, you
+LINE 116: shall have such gifts and such good will from me that all wh'see you
+LINE 117: shall congratulate you."
+LINE 118: Thus did they converse. Meanwhile the suitors were throwing discs, or
+LINE 119: aiming with spears at a mark on the levelled ground in front of the
+LINE 120: house, and behaving with all their old insolence. But when it was now
+LINE 121: time for dinner, and the flock of sheep and goats had come int'the
+LINE 122: town from all the country round, 140 with their shepherds as usual,
+LINE 123: then Medon, wh'was their favourite servant, and wh'waited upon them
+LINE 124: at table, said, "Now then, my young masters, you have had enough sport,
+LINE 125: s'come inside that we may get dinner ready. Dinner is not a bad thing,
+LINE 126: at dinner time."
+LINE 127: They left their sports as he told them, and when they were within the
+LINE 128: house, they laid their cloaks on the benches and seats inside, and then
+LINE 129: sacrificed some sheep, goats, pigs, and a heifer, all of them fat and
+LINE 130: well grown.141 Thus they made ready for their meal. In the meantime
+LINE 131: Ulysses and the swineherd were about starting for the town, and the
+LINE 132: swineherd said, "Stranger, I suppose you still want t'g't'town
+LINE 133: to-day, as my master said you were t'do; for my own part I should have
+LINE 134: liked you t'stay here as a station hand, but I must d'as my master
+LINE 135: tells me, or he will scold me later on, and a scolding from one's
+LINE 136: master is a very serious thing. Let us then be off, for it is now broad
+LINE 137: day; it will be night again directly and then you will find it
+LINE 138: colder."142
+LINE 139: "I know, and understand you," replied Ulysses; "you need say n'more.
+LINE 140: Let us be going, but if you have a stick ready cut, let me have it to
+LINE 141: walk with, for you say the road is a very rough one."
+LINE 142: As he spoke he threw his shabby old tattered wallet over his shoulders,
+LINE 143: by the cord from which it hung, and Eumaeus gave him a stick t'his
+LINE 144: liking. The tw'then started, leaving the station in charge of the dogs
+LINE 145: and herdsmen wh'remained behind; the swineherd led the way and his
+LINE 146: master followed after, looking like some broken down old tramp as he
+LINE 147: leaned upon his staff, and his clothes were all in rags. When they had
+LINE 148: got over the rough steep ground and were nearing the city, they reached
+LINE 149: the fountain from which the citizens drew their water. This had been
+LINE 150: made by Ithacus, Neritus, and Polyctor. There was a grove of
+LINE 151: water-loving poplars planted in a circle all round it, and the clear
+LINE 152: cold water came down t'it from a rock high up,143 while above the
+LINE 153: fountain there was an altar t'the nymphs, at which all wayfarers used
+LINE 154: t'sacrifice. Here Melanthius son of Dolius overtook them as he was
+LINE 155: driving down some goats, the best in his flock, for the suitors'
+LINE 156: dinner, and there were tw'shepherds with him. When he saw Eumaeus and
+LINE 157: Ulysses he reviled them with outrageous and unseemly language, which
+LINE 158: made Ulysses very angry.
+LINE 159: "There you go," cried he, "and a precious pair you are. See how heaven
+LINE 160: brings birds of the same feather t'one another. Where, pray, master
+LINE 161: swineherd, are you taking this poor miserable object? It would make any
+LINE 162: one sick t'see such a creature at table. A fellow like this never won
+LINE 163: a prize for anything in his life, but will g'about rubbing his
+LINE 164: shoulders against every man's door post, and begging, not for swords
+LINE 165: and cauldrons144 like a man, but only for a few scraps not worth
+LINE 166: begging for. If you would give him t'me for a hand on my station, he
+LINE 167: might d't'clean out the folds, or bring a bit of sweet feed t'the
+LINE 168: kids, and he could fatten his thighs as much as he pleased on whey; but
+LINE 169: he has taken t'bad ways and will not g'about any kind of work; he
+LINE 170: will d'nothing but beg victuals all the town over, t'feed his
+LINE 171: insatiable belly. I say, therefore—and it shall surely be—if he goes
+LINE 172: near Ulysses' house he will get his head broken by the stools they will
+LINE 173: fling at him, till they turn him out."
+LINE 174: On this, as he passed, he gave Ulysses a kick on the hip out of pure
+LINE 175: wantonness, but Ulysses stood firm, and did not budge from the path.
+LINE 176: For a moment he doubted whether or n't'fly at Melanthius and kill him
+LINE 177: with his staff, or fling him t'the ground and beat his brains out; he
+LINE 178: resolved, however, t'endure it and keep himself in check, but the
+LINE 179: swineherd looked straight at Melanthius and rebuked him, lifting up his
+LINE 180: hands and praying t'heaven as he did so.
+LINE 181: "Fountain nymphs," he cried, "children of Jove, if ever Ulysses burned
+LINE 182: you thigh bones covered with fat whether of lambs or kids, grant my
+LINE 183: prayer that heaven may send him home. He would soon put an end t'the
+LINE 184: swaggering threats with which such men as you g'about insulting
+LINE 185: people—gadding all over the town while your flocks are going t'ruin
+LINE 186: through bad shepherding."
+LINE 187: Then Melanthius the goatherd answered, "You ill conditioned cur, what
+LINE 188: are you talking about? Some day or other I will put you on board ship
+LINE 189: and take you t'a foreign country, where I can sell you and pocket the
+LINE 190: money you will fetch. I wish I were as sure that Apoll'would strike
+LINE 191: Telemachus dead this very day, or that the suitors would kill him, as I
+LINE 192: am that Ulysses will never come home again."
+LINE 193: With this he left them t'come on at their leisure, while he went
+LINE 194: quickly forward and soon reached the house of his master. When he got
+LINE 195: there he went in and took his seat among the suitors opposite
+LINE 196: Eurymachus, wh'liked him better than any of the others. The servants
+LINE 197: brought him a portion of meat, and an upper woman servant set bread
+LINE 198: before him that he might eat. Presently Ulysses and the swineherd came
+LINE 199: up t'the house and stood by it, amid a sound of music, for Phemius was
+LINE 200: just beginning t'sing t'the suitors. Then Ulysses took hold of the
+LINE 201: swineherd's hand, and said:
+LINE 202: "Eumaeus, this house of Ulysses is a very fine place. N'matter how far
+LINE 203: you go, you will find few like it. One building keeps following on
+LINE 204: after another. The outer court has a wall with battlements all round
+LINE 205: it; the doors are double folding, and of good workmanship; it would be
+LINE 206: a hard matter t'take it by force of arms. I perceive, too, that there
+LINE 207: are many people banqueting within it, for there is a smell of roast
+LINE 208: meat, and I hear a sound of music, which the gods have made t'g'along
+LINE 209: with feasting."
+LINE 210: Then Eumaeus said, "You have perceived aright, as indeed you generally
+LINE 211: do; but let us think what will be our best course. Will you g'inside
+LINE 212: first and join the suitors, leaving me here behind you, or will you
+LINE 213: wait here and let me g'in first? But d'not wait long, or some one may
+LINE 214: see you loitering about outside, and throw something at you. Consider
+LINE 215: this matter I pray you."
+LINE 216: And Ulysses answered, "I understand and heed. G'in first and leave me
+LINE 217: here where I am. I am quite used t'being beaten and having things
+LINE 218: thrown at me. I have been s'much buffeted about in war and by sea that
+LINE 219: I am case-hardened, and this to'may g'with the rest. But a man cannot
+LINE 220: hide away the cravings of a hungry belly; this is an enemy which gives
+LINE 221: much trouble t'all men; it is because of this that ships are fitted
+LINE 222: out t'sail the seas, and t'make war upon other people."
+LINE 223: As they were thus talking, a dog that had been lying asleep raised his
+LINE 224: head and pricked up his ears. This was Argos, whom Ulysses had bred
+LINE 225: before setting out for Troy, but he had never had any work out of him.
+LINE 226: In the old days he used t'be taken out by the young men when they went
+LINE 227: hunting wild goats, or deer, or hares, but now that his master was gone
+LINE 228: he was lying neglected on the heaps of mule and cow dung that lay in
+LINE 229: front of the stable doors till the men should come and draw it away to
+LINE 230: manure the great close; and he was full of fleas. As soon as he saw
+LINE 231: Ulysses standing there, he dropped his ears and wagged his tail, but he
+LINE 232: could not get close up t'his master. When Ulysses saw the dog on the
+LINE 233: other side of the yard, he dashed a tear from his eyes without Eumaeus
+LINE 234: seeing it, and said:
+LINE 235: "Eumaeus, what a noble hound that is over yonder on the manure heap:
+LINE 236: his build is splendid; is he as fine a fellow as he looks, or is he
+LINE 237: only one of those dogs that come begging about a table, and are kept
+LINE 238: merely for show?"
+LINE 239: "This hound," answered Eumaeus, "belonged t'him wh'has died in a far
+LINE 240: country. If he were what he was when Ulysses left for Troy, he would
+LINE 241: soon show you what he could do. There was not a wild beast in the
+LINE 242: forest that could get away from him when he was once on its tracks. But
+LINE 243: now he has fallen on evil times, for his master is dead and gone, and
+LINE 244: the women take n'care of him. Servants never d'their work when their
+LINE 245: master's hand is n'longer over them, for Jove takes half the goodness
+LINE 246: out of a man when he makes a slave of him."
+LINE 247: As he spoke he went inside the buildings t'the cloister where the
+LINE 248: suitors were, but Argos died as soon as he had recognised his master.
+LINE 249: Telemachus saw Eumaeus long before any one else did, and beckoned him
+LINE 250: t'come and sit beside him; s'he looked about and saw a seat lying
+LINE 251: near where the carver sat serving out their portions t'the suitors; he
+LINE 252: picked it up, brought it t'Telemachus's table, and sat down opposite
+LINE 253: him. Then the servant brought him his portion, and gave him bread from
+LINE 254: the bread-basket.
+LINE 255: Immediately afterwards Ulysses came inside, looking like a poor
+LINE 256: miserable old beggar, leaning on his staff and with his clothes all in
+LINE 257: rags. He sat down upon the threshold of ash-wood just inside the doors
+LINE 258: leading from the outer t'the inner court, and against a bearing-post
+LINE 259: of cypress-wood which the carpenter had skilfully planed, and had made
+LINE 260: t'join truly with rule and line. Telemachus took a whole loaf from the
+LINE 261: bread-basket, with as much meat as he could hold in his tw'hands, and
+LINE 262: said t'Eumaeus, "Take this t'the stranger, and tell him t'g'the
+LINE 263: round of the suitors, and beg from them; a beggar must not be
+LINE 264: shamefaced."
+LINE 265: S'Eumaeus went up t'him and said, "Stranger, Telemachus sends you
+LINE 266: this, and says you are t'g'the round of the suitors begging, for
+LINE 267: beggars must not be shamefaced."
+LINE 268: Ulysses answered, "May King Jove grant all happiness t'Telemachus, and
+LINE 269: fulfil the desire of his heart."
+LINE 270: Then with both hands he took what Telemachus had sent him, and laid it
+LINE 271: on the dirty old wallet at his feet. He went on eating it while the
+LINE 272: bard was singing, and had just finished his dinner as he left off. The
+LINE 273: suitors applauded the bard, whereon Minerva went up t'Ulysses and
+LINE 274: prompted him t'beg pieces of bread from each one of the suitors, that
+LINE 275: he might see what kind of people they were, and tell the good from the
+LINE 276: bad; but come what might she was not going t'save a single one of
+LINE 277: them. Ulysses, therefore, went on his round, going from left t'right,
+LINE 278: and stretched out his hands t'beg as though he were a real beggar.
+LINE 279: Some of them pitied him, and were curious about him, asking one another
+LINE 280: wh'he was and where he came from; whereon the goatherd Melanthius
+LINE 281: said, "Suitors of my noble mistress, I can tell you something about
+LINE 282: him, for I have seen him before. The swineherd brought him here, but I
+LINE 283: know nothing about the man himself, nor where he comes from."
+LINE 284: On this Antinous began t'abuse the swineherd. "You precious idiot," he
+LINE 285: cried, "what have you brought this man t'town for? Have we not tramps
+LINE 286: and beggars enough already t'pester us as we sit at meat? D'you think
+LINE 287: it a small thing that such people gather here t'waste your master's
+LINE 288: property—and must you needs bring this man as well?"
+LINE 289: And Eumaeus answered, "Antinous, your birth is good but your words
+LINE 290: evil. It was n'doing of mine that he came here. Wh'is likely to
+LINE 291: invite a stranger from a foreign country, unless it be one of those who
+LINE 292: can d'public service as a seer, a healer of hurts, a carpenter, or a
+LINE 293: bard wh'can charm us with his singing? Such men are welcome all the
+LINE 294: world over, but n'one is likely t'ask a beggar wh'will only worry
+LINE 295: him. You are always harder on Ulysses' servants than any of the other
+LINE 296: suitors are, and above all on me, but I d'not care s'long as
+LINE 297: Telemachus and Penelope are alive and here."
+LINE 298: But Telemachus said, "Hush, d'not answer him; Antinous has the
+LINE 299: bitterest tongue of all the suitors, and he makes the others worse."
+LINE 300: Then turning t'Antinous he said, "Antinous, you take as much care of
+LINE 301: my interests as though I were your son. Why should you want t'see this
+LINE 302: stranger turned out of the house? Heaven forbid; take something and
+LINE 303: give it him yourself; I d'not grudge it; I bid you take it. Never mind
+LINE 304: my mother, nor any of the other servants in the house; but I know you
+LINE 305: will not d'what I say, for you are more fond of eating things yourself
+LINE 306: than of giving them t'other people."
+LINE 307: "What d'you mean, Telemachus," replied Antinous, "by this swaggering
+LINE 308: talk? If all the suitors were t'give him as much as I will, he would
+LINE 309: not come here again for another three months."
+LINE 310: As he spoke he drew the stool on which he rested his dainty feet from
+LINE 311: under the table, and made as though he would throw it at Ulysses, but
+LINE 312: the other suitors all gave him something, and filled his wallet with
+LINE 313: bread and meat; he was about, therefore, t'g'back t'the threshold
+LINE 314: and eat what the suitors had given him, but he first went up to
+LINE 315: Antinous and said:
+LINE 316: "Sir, give me something; you are not, surely, the poorest man here; you
+LINE 317: seem t'be a chief, foremost among them all; therefore you should be
+LINE 318: the better giver, and I will tell far and wide of your bounty. I too
+LINE 319: was a rich man once, and had a fine house of my own; in those days I
+LINE 320: gave t'many a tramp such as I now am, n'matter wh'he might be nor
+LINE 321: what he wanted. I had any number of servants, and all the other things
+LINE 322: which people have wh'live well and are accounted wealthy, but it
+LINE 323: pleased Jove t'take all away from me. He sent me with a band of roving
+LINE 324: robbers t'Egypt; it was a long voyage and I was undone by it. I
+LINE 325: stationed my ships in the river Aegyptus, and bade my men stay by them
+LINE 326: and keep guard over them, while I sent out scouts t'reconnoitre from
+LINE 327: every point of vantage.
+LINE 328: "But the men disobeyed my orders, took t'their own devices, and
+LINE 329: ravaged the land of the Egyptians, killing the men, and taking their
+LINE 330: wives and children captives. The alarm was soon carried t'the city,
+LINE 331: and when they heard the war-cry, the people came out at daybreak till
+LINE 332: the plain was filled with soldiers horse and foot, and with the gleam
+LINE 333: of armour. Then Jove spread panic among my men, and they would no
+LINE 334: longer face the enemy, for they found themselves surrounded. The
+LINE 335: Egyptians killed many of us, and took the rest alive t'd'forced
+LINE 336: labour for them; as for myself, they gave me t'a friend wh'met them,
+LINE 337: t'take t'Cyprus, Dmetor by name, son of Iasus, wh'was a great man in
+LINE 338: Cyprus. Thence I am come hither in a state of great misery."
+LINE 339: Then Antinous said, "What god can have sent such a pestilence t'plague
+LINE 340: us during our dinner? Get out, int'the open part of the court,145 or I
+LINE 341: will give you Egypt and Cyprus over again for your insolence and
+LINE 342: importunity; you have begged of all the others, and they have given you
+LINE 343: lavishly, for they have abundance round them, and it is easy t'be free
+LINE 344: with other people's property when there is plenty of it."
+LINE 345: On this Ulysses began t'move off, and said, "Your looks, my fine sir,
+LINE 346: are better than your breeding; if you were in your own house you would
+LINE 347: not spare a poor man s'much as a pinch of salt, for though you are in
+LINE 348: another man's, and surrounded with abundance, you cannot find it in you
+LINE 349: t'give him even a piece of bread."
+LINE 350: This made Antinous very angry, and he scowled at him saying, "You shall
+LINE 351: pay for this before you get clear of the court." With these words he
+LINE 352: threw a footstool at him, and hit him on the right shoulder blade near
+LINE 353: the top of his back. Ulysses stood firm as a rock and the blow did not
+LINE 354: even stagger him, but he shook his head in silence as he brooded on his
+LINE 355: revenge. Then he went back t'the threshold and sat down there, laying
+LINE 356: his well filled wallet at his feet.
+LINE 357: "Listen t'me," he cried, "you suitors of Queen Penelope, that I may
+LINE 358: speak even as I am minded. A man knows neither ache nor pain if he gets
+LINE 359: hit while fighting for his money, or for his sheep or his cattle; and
+LINE 360: even s'Antinous has hit me while in the service of my miserable belly,
+LINE 361: which is always getting people int'trouble. Still, if the poor have
+LINE 362: gods and avenging deities at all, I pray them that Antinous may come to
+LINE 363: a bad end before his marriage."
+LINE 364: "Sit where you are, and eat your victuals in silence, or be off
+LINE 365: elsewhere," shouted Antinous. "If you say more I will have you dragged
+LINE 366: hand and foot through the courts, and the servants shall flay you
+LINE 367: alive."
+LINE 368: The other suitors were much displeased at this, and one of the young
+LINE 369: men said, "Antinous, you did ill in striking that poor wretch of a
+LINE 370: tramp: it will be worse for you if he should turn out t'be some
+LINE 371: god—and we know the gods g'about disguised in all sorts of ways as
+LINE 372: people from foreign countries, and travel about the world t'see wh'do
+LINE 373: amiss and wh'righteously."146
+LINE 374: Thus said the suitors, but Antinous paid them n'heed. Meanwhile
+LINE 375: Telemachus was furious about the blow that had been given t'his
+LINE 376: father, and though n'tear fell from him, he shook his head in silence
+LINE 377: and brooded on his revenge.
+LINE 378: Now when Penelope heard that the beggar had been struck in the
+LINE 379: banqueting-cloister, she said before her maids, "Would that Apollo
+LINE 380: would s'strike you, Antinous," and her waiting woman Eurynome
+LINE 381: answered, "If our prayers were answered not one of the suitors would
+LINE 382: ever again see the sun rise." Then Penelope said, "Nurse,147 I hate
+LINE 383: every single one of them, for they mean nothing but mischief, but I
+LINE 384: hate Antinous like the darkness of death itself. A poor unfortunate
+LINE 385: tramp has come begging about the house for sheer want. Every one else
+LINE 386: has given him something t'put in his wallet, but Antinous has hit him
+LINE 387: on the right shoulder-blade with a footstool."
+LINE 388: Thus did she talk with her maids as she sat in her own room, and in the
+LINE 389: meantime Ulysses was getting his dinner. Then she called for the
+LINE 390: swineherd and said, "Eumaeus, g'and tell the stranger t'come here, I
+LINE 391: want t'see him and ask him some questions. He seems t'have travelled
+LINE 392: much, and he may have seen or heard something of my unhappy husband."
+LINE 393: T'this you answered, 'swineherd Eumaeus, "If these Achaeans, Madam,
+LINE 394: would only keep quiet, you would be charmed with the history of his
+LINE 395: adventures. I had him three days and three nights with me in my hut,
+LINE 396: which was the first place he reached after running away from his ship,
+LINE 397: and he has not yet completed the story of his misfortunes. If he had
+LINE 398: been the most heaven-taught minstrel in the whole world, on whose lips
+LINE 399: all hearers hang entranced, I could not have been more charmed as I sat
+LINE 400: in my hut and listened t'him. He says there is an old friendship
+LINE 401: between his house and that of Ulysses, and that he comes from Crete
+LINE 402: where the descendants of Minos live, after having been driven hither
+LINE 403: and thither by every kind of misfortune; he als'declares that he has
+LINE 404: heard of Ulysses as being alive and near at hand among the
+LINE 405: Thesprotians, and that he is bringing great wealth home with him."
+LINE 406: "Call him here, then," said Penelope, "that I to'may hear his story.
+LINE 407: As for the suitors, let them take their pleasure indoors or out as they
+LINE 408: will, for they have nothing t'fret about. Their corn and wine remain
+LINE 409: unwasted in their houses with none but servants t'consume them, while
+LINE 410: they keep hanging about our house day after day sacrificing our oxen,
+LINE 411: sheep, and fat goats for their banquets, and never giving s'much as a
+LINE 412: thought t'the quantity of wine they drink. N'estate can stand such
+LINE 413: recklessness, for we have now n'Ulysses t'protect us. If he were to
+LINE 414: come again, he and his son would soon have their revenge."
+LINE 415: As she spoke Telemachus sneezed s'loudly that the whole house
+LINE 416: resounded with it. Penelope laughed when she heard this, and said to
+LINE 417: Eumaeus, "G'and call the stranger; did you not hear how my son sneezed
+LINE 418: just as I was speaking? This can only mean that all the suitors are
+LINE 419: going t'be killed, and that not one of them shall escape. Furthermore
+LINE 420: I say, and lay my saying t'your heart: if I am satisfied that the
+LINE 421: stranger is speaking the truth I shall give him a shirt and cloak of
+LINE 422: good wear."
+LINE 423: When Eumaeus heard this he went straight t'Ulysses and said, "Father
+LINE 424: stranger, my mistress Penelope, mother of Telemachus, has sent for you;
+LINE 425: she is in great grief, but she wishes t'hear anything you can tell her
+LINE 426: about her husband, and if she is satisfied that you are speaking the
+LINE 427: truth, she will give you a shirt and cloak, which are the very things
+LINE 428: that you are most in want of. As for bread, you can get enough of that
+LINE 429: t'fill your belly, by begging about the town, and letting those give
+LINE 430: that will."
+LINE 431: "I will tell Penelope," answered Ulysses, "nothing but what is strictly
+LINE 432: true. I know all about her husband, and have been partner with him in
+LINE 433: affliction, but I am afraid of passing through this crowd of cruel
+LINE 434: suitors, for their pride and insolence reach heaven. Just now,
+LINE 435: moreover, as I was going about the house without doing any harm, a man
+LINE 436: gave me a blow that hurt me very much, but neither Telemachus nor any
+LINE 437: one else defended me. Tell Penelope, therefore, t'be patient and wait
+LINE 438: till sundown. Let her give me a seat close up t'the fire, for my
+LINE 439: clothes are worn very thin—you know they are, for you have seen them
+LINE 440: ever since I first asked you t'help me—she can then ask me about the
+LINE 441: return of her husband."
+LINE 442: The swineherd went back when he heard this, and Penelope said as she
+LINE 443: saw him cross the threshold, "Why d'you not bring him here, Eumaeus?
+LINE 444: Is he afraid that some one will ill-treat him, or is he shy of coming
+LINE 445: inside the house at all? Beggars should not be shamefaced."
+LINE 446: T'this you answered, 'swineherd Eumaeus, "The stranger is quite
+LINE 447: reasonable. He is avoiding the suitors, and is only doing what any one
+LINE 448: else would do. He asks you t'wait till sundown, and it will be much
+LINE 449: better, madam, that you should have him all t'yourself, when you can
+LINE 450: hear him and talk t'him as you will."
+LINE 451: "The man is n'fool," answered Penelope, "it would very likely be as he
+LINE 452: says, for there are n'such abominable people in the whole world as
+LINE 453: these men are."
+LINE 454: When she had done speaking Eumaeus went back t'the suitors, for he had
+LINE 455: explained everything. Then he went up t'Telemachus and said in his ear
+LINE 456: s'that none could overhear him, "My dear sir, I will now g'back to
+LINE 457: the pigs, t'see after your property and my own business. You will look
+LINE 458: t'what is going on here, but above all be careful t'keep out of
+LINE 459: danger, for there are many wh'bear you ill will. May Jove bring them
+LINE 460: t'a bad end before they d'us a mischief."
+LINE 461: "Very well," replied Telemachus, "g'home when you have had your
+LINE 462: dinner, and in the morning come here with the victims we are to
+LINE 463: sacrifice for the day. Leave the rest t'heaven and me."
+LINE 464: On this Eumaeus took his seat again, and when he had finished his
+LINE 465: dinner he left the courts and the cloister with the men at table, and
+LINE 466: went back t'his pigs. As for the suitors, they presently began to
+LINE 467: amuse themselves with singing and dancing, for it was now getting on
+LINE 468: towards evening.

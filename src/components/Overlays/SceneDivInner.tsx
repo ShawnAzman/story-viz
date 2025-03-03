@@ -9,7 +9,11 @@ import {
   importanceColor,
   getCustomColor,
 } from "../../utils/colors";
-import { chapterFormatted, normalize } from "../../utils/helpers";
+import {
+  chapterFormatted,
+  extractChapterName,
+  normalize,
+} from "../../utils/helpers";
 import CharacterNetwork from "../Vis/CharacterNetwork";
 import LocationChart from "../Vis/LocationChart";
 import { Button, Select, Switch } from "@mantine/core";
@@ -106,7 +110,9 @@ function SceneDivInner(props: any) {
               <b>
                 {chapterView || inSidebar
                   ? chapterFormatted(scene.chapter)
-                    ? scene.chapter
+                    ? scene.chapter.length > 60
+                      ? extractChapterName(scene.chapter)
+                      : scene.chapter
                     : "Chapter " + scene.chapter
                   : `Scene ${scene.number}: ${scene.name}`}
               </b>
@@ -114,7 +120,9 @@ function SceneDivInner(props: any) {
             {scene && !chapterView && !inSidebar && scene.chapter && (
               <b style={{ fontWeight: 600 }}>
                 {chapterFormatted(scene.chapter)
-                  ? scene.chapter
+                  ? scene.chapter.length > 60
+                    ? extractChapterName(scene.chapter)
+                    : scene.chapter
                   : "Chapter " + scene.chapter}
               </b>
             )}

@@ -1,0 +1,816 @@
+LINE 1: c25a.jpg (168K)
+LINE 2: Full Size
+LINE 3: Don Quixote took leave of the goatherd, and once more mounting
+LINE 4: Rocinante bade Sancho follow him, which he having no ass, did very
+LINE 5: discontentedly. They proceeded slowly, making their way into the most
+LINE 6: rugged part of the mountain, Sancho all the while dying to have a talk
+LINE 7: with his master, and longing for him to begin, so that there should be
+LINE 8: no breach of the injunction laid upon him; but unable to keep silence
+LINE 9: so long he said to him:
+LINE 10: "Señor Don Quixote, give me your worship's blessing and dismissal, for
+LINE 11: I'd like to go home at once to my wife and children with whom I can at
+LINE 12: any rate talk and converse as much as I like; for to want me to go
+LINE 13: through these solitudes day and night and not speak to you when I have
+LINE 14: a mind is burying me alive. If luck would have it that animals spoke as
+LINE 15: they did in the days of Guisopete, it would not be so bad, because I
+LINE 16: could talk to Rocinante about whatever came into my head, and so put up
+LINE 17: with my ill-fortune; but it is a hard case, and not to be borne with
+LINE 18: patience, to go seeking adventures all one's life and get nothing but
+LINE 19: kicks and blanketings, brickbats and punches, and with all this to have
+LINE 20: to sew up one's mouth without daring to say what is in one's heart,
+LINE 21: just as if one were dumb."
+LINE 22: "I understand thee, Sancho," replied Don Quixote; "thou art dying to
+LINE 23: have the interdict I placed upon thy tongue removed; consider it
+LINE 24: removed, and say what thou wilt while we are wandering in these
+LINE 25: mountains."
+LINE 26: "So be it," said Sancho; "let me speak now, for God knows what will
+LINE 27: happen by-and-by; and to take advantage of the permit at once, I ask,
+LINE 28: what made your worship stand up so for that Queen Majimasa, or whatever
+LINE 29: her name is, or what did it matter whether that abbot was a friend of
+LINE 30: hers or not? for if your worship had let that pass—and you were not a
+LINE 31: judge in the matter—it is my belief the madman would have gone on with
+LINE 32: his story, and the blow of the stone, and the kicks, and more than half
+LINE 33: a dozen cuffs would have been escaped."
+LINE 34: "In faith, Sancho," answered Don Quixote, "if thou knewest as I do what
+LINE 35: an honourable and illustrious lady Queen Madasima was, I know thou
+LINE 36: wouldst say I had great patience that I did not break in pieces the
+LINE 37: mouth that uttered such blasphemies, for a very great blasphemy it is
+LINE 38: to say or imagine that a queen has made free with a surgeon. The truth
+LINE 39: of the story is that that Master Elisabad whom the madman mentioned was
+LINE 40: a man of great prudence and sound judgment, and served as governor and
+LINE 41: physician to the queen, but to suppose that she was his mistress is
+LINE 42: nonsense deserving very severe punishment; and as a proof that Cardenio
+LINE 43: did not know what he was saying, remember when he said it he was out of
+LINE 44: his wits."
+LINE 45: "That is what I say," said Sancho; "there was no occasion for minding
+LINE 46: the words of a madman; for if good luck had not helped your worship,
+LINE 47: and he had sent that stone at your head instead of at your breast, a
+LINE 48: fine way we should have been in for standing up for my lady yonder, God
+LINE 49: confound her! And then, would not Cardenio have gone free as a madman?"
+LINE 50: "Against men in their senses or against madmen," said Don Quixote,
+LINE 51: "every knight-errant is bound to stand up for the honour of women,
+LINE 52: whoever they may be, much more for queens of such high degree and
+LINE 53: dignity as Queen Madasima, for whom I have a particular regard on
+LINE 54: account of her amiable qualities; for, besides being extremely
+LINE 55: beautiful, she was very wise, and very patient under her misfortunes,
+LINE 56: of which she had many; and the counsel and society of the Master
+LINE 57: Elisabad were a great help and support to her in enduring her
+LINE 58: afflictions with wisdom and resignation; hence the ignorant and
+LINE 59: ill-disposed vulgar took occasion to say and think that she was his
+LINE 60: mistress; and they lie, I say it once more, and will lie two hundred
+LINE 61: times more, all who think and say so."
+LINE 62: "I neither say nor think so," said Sancho; "let them look to it; with
+LINE 63: their bread let them eat it; they have rendered account to God whether
+LINE 64: they misbehaved or not; I come from my vineyard, I know nothing; I am
+LINE 65: not fond of prying into other men's lives; he who buys and lies feels
+LINE 66: it in his purse; moreover, naked was I born, naked I find myself, I
+LINE 67: neither lose nor gain; but if they did, what is that to me? many think
+LINE 68: there are flitches where there are no hooks; but who can put gates to
+LINE 69: the open plain? moreover they said of God—"
+LINE 70: "God bless me," said Don Quixote, "what a set of absurdities thou art
+LINE 71: stringing together! What has what we are talking about got to do with
+LINE 72: the proverbs thou art threading one after the other? for God's sake
+LINE 73: hold thy tongue, Sancho, and henceforward keep to prodding thy ass and
+LINE 74: don't meddle in what does not concern thee; and understand with all thy
+LINE 75: five senses that everything I have done, am doing, or shall do, is well
+LINE 76: founded on reason and in conformity with the rules of chivalry, for I
+LINE 77: understand them better than all the world that profess them."
+LINE 78: "Señor," replied Sancho, "is it a good rule of chivalry that we should
+LINE 79: go astray through these mountains without path or road, looking for a
+LINE 80: madman who when he is found will perhaps take a fancy to finish what he
+LINE 81: began, not his story, but your worship's head and my ribs, and end by
+LINE 82: breaking them altogether for us?"
+LINE 83: c25b.jpg (330K)
+LINE 84: Full Size
+LINE 85: "Peace, I say again, Sancho," said Don Quixote, "for let me tell thee
+LINE 86: it is not so much the desire of finding that madman that leads me into
+LINE 87: these regions as that which I have of performing among them an
+LINE 88: achievement wherewith I shall win eternal name and fame throughout the
+LINE 89: known world; and it shall be such that I shall thereby set the seal on
+LINE 90: all that can make a knight-errant perfect and famous."
+LINE 91: "And is it very perilous, this achievement?"
+LINE 92: "No," replied he of the Rueful Countenance; "though it may be in the
+LINE 93: dice that we may throw deuce-ace instead of sixes; but all will depend
+LINE 94: on thy diligence."
+LINE 95: "On my diligence!" said Sancho.
+LINE 96: "Yes," said Don Quixote, "for if thou dost return soon from the place
+LINE 97: where I mean to send thee, my penance will be soon over, and my glory
+LINE 98: will soon begin. But as it is not right to keep thee any longer in
+LINE 99: suspense, waiting to see what comes of my words, I would have thee
+LINE 100: know, Sancho, that the famous Amadis of Gaul was one of the most
+LINE 101: perfect knights-errant—I am wrong to say he was one; he stood alone,
+LINE 102: the first, the only one, the lord of all that were in the world in his
+LINE 103: time. A fig for Don Belianis, and for all who say he equalled him in
+LINE 104: any respect, for, my oath upon it, they are deceiving themselves! I
+LINE 105: say, too, that when a painter desires to become famous in his art he
+LINE 106: endeavours to copy the originals of the rarest painters that he knows;
+LINE 107: and the same rule holds good for all the most important crafts and
+LINE 108: callings that serve to adorn a state; thus must he who would be
+LINE 109: esteemed prudent and patient imitate Ulysses, in whose person and
+LINE 110: labours Homer presents to us a lively picture of prudence and patience;
+LINE 111: as Virgil, too, shows us in the person of Æneas the virtue of a pious
+LINE 112: son and the sagacity of a brave and skilful captain; not representing
+LINE 113: or describing them as they were, but as they ought to be, so as to
+LINE 114: leave the example of their virtues to posterity. In the same way Amadis
+LINE 115: was the polestar, day-star, sun of valiant and devoted knights, whom
+LINE 116: all we who fight under the banner of love and chivalry are bound to
+LINE 117: imitate. This, then, being so, I consider, friend Sancho, that the
+LINE 118: knight-errant who shall imitate him most closely will come nearest to
+LINE 119: reaching the perfection of chivalry. Now one of the instances in which
+LINE 120: this knight most conspicuously showed his prudence, worth, valour,
+LINE 121: endurance, fortitude, and love, was when he withdrew, rejected by the
+LINE 122: Lady Oriana, to do penance upon the Peña Pobre, changing his name into
+LINE 123: that of Beltenebros, a name assuredly significant and appropriate to
+LINE 124: the life which he had voluntarily adopted. So, as it is easier for me
+LINE 125: to imitate him in this than in cleaving giants asunder, cutting off
+LINE 126: serpents' heads, slaying dragons, routing armies, destroying fleets,
+LINE 127: and breaking enchantments, and as this place is so well suited for a
+LINE 128: similar purpose, I must not allow the opportunity to escape which now
+LINE 129: so conveniently offers me its forelock."
+LINE 130: "What is it in reality," said Sancho, "that your worship means to do in
+LINE 131: such an out-of-the-way place as this?"
+LINE 132: "Have I not told thee," answered Don Quixote, "that I mean to imitate
+LINE 133: Amadis here, playing the victim of despair, the madman, the maniac, so
+LINE 134: as at the same time to imitate the valiant Don Roland, when at the
+LINE 135: fountain he had evidence of the fair Angelica having disgraced herself
+LINE 136: with Medoro and through grief thereat went mad, and plucked up trees,
+LINE 137: troubled the waters of the clear springs, slew shepherds, destroyed
+LINE 138: flocks, burned down huts, levelled houses, dragged mares after him, and
+LINE 139: perpetrated a hundred thousand other outrages worthy of everlasting
+LINE 140: renown and record? And though I have no intention of imitating Roland,
+LINE 141: or Orlando, or Rotolando (for he went by all these names), step by step
+LINE 142: in all the mad things he did, said, and thought, I will make a rough
+LINE 143: copy to the best of my power of all that seems to me most essential;
+LINE 144: but perhaps I shall content myself with the simple imitation of Amadis,
+LINE 145: who without giving way to any mischievous madness but merely to tears
+LINE 146: and sorrow, gained as much fame as the most famous."
+LINE 147: "It seems to me," said Sancho, "that the knights who behaved in this
+LINE 148: way had provocation and cause for those follies and penances; but what
+LINE 149: cause has your worship for going mad? What lady has rejected you, or
+LINE 150: what evidence have you found to prove that the lady Dulcinea del Toboso
+LINE 151: has been trifling with Moor or Christian?"
+LINE 152: "There is the point," replied Don Quixote, "and that is the beauty of
+LINE 153: this business of mine; no thanks to a knight-errant for going mad when
+LINE 154: he has cause; the thing is to turn crazy without any provocation, and
+LINE 155: let my lady know, if I do this in the dry, what I would do in the
+LINE 156: moist; moreover I have abundant cause in the long separation I have
+LINE 157: endured from my lady till death, Dulcinea del Toboso; for as thou didst
+LINE 158: hear that shepherd Ambrosio say the other day, in absence all ills are
+LINE 159: felt and feared; and so, friend Sancho, waste no time in advising me
+LINE 160: against so rare, so happy, and so unheard-of an imitation; mad I am,
+LINE 161: and mad I must be until thou returnest with the answer to a letter that
+LINE 162: I mean to send by thee to my lady Dulcinea; and if it be such as my
+LINE 163: constancy deserves, my insanity and penance will come to an end; and if
+LINE 164: it be to the opposite effect, I shall become mad in earnest, and, being
+LINE 165: so, I shall suffer no more; thus in whatever way she may answer I shall
+LINE 166: escape from the struggle and affliction in which thou wilt leave me,
+LINE 167: enjoying in my senses the boon thou bearest me, or as a madman not
+LINE 168: feeling the evil thou bringest me. But tell me, Sancho, hast thou got
+LINE 169: Mambrino's helmet safe? for I saw thee take it up from the ground when
+LINE 170: that ungrateful wretch tried to break it in pieces but could not, by
+LINE 171: which the fineness of its temper may be seen."
+LINE 172: To which Sancho made answer, "By the living God, Sir Knight of the
+LINE 173: Rueful Countenance, I cannot endure or bear with patience some of the
+LINE 174: things that your worship says; and from them I begin to suspect that
+LINE 175: all you tell me about chivalry, and winning kingdoms and empires, and
+LINE 176: giving islands, and bestowing other rewards and dignities after the
+LINE 177: custom of knights-errant, must be all made up of wind and lies, and all
+LINE 178: pigments or figments, or whatever we may call them; for what would
+LINE 179: anyone think that heard your worship calling a barber's basin
+LINE 180: Mambrino's helmet without ever seeing the mistake all this time, but
+LINE 181: that one who says and maintains such things must have his brains
+LINE 182: addled? I have the basin in my sack all dinted, and I am taking it home
+LINE 183: to have it mended, to trim my beard in it, if, by God's grace, I am
+LINE 184: allowed to see my wife and children some day or other."
+LINE 185: "Look here, Sancho," said Don Quixote, "by him thou didst swear by just
+LINE 186: now I swear thou hast the most limited understanding that any squire in
+LINE 187: the world has or ever had. Is it possible that all this time thou hast
+LINE 188: been going about with me thou hast never found out that all things
+LINE 189: belonging to knights-errant seem to be illusions and nonsense and
+LINE 190: ravings, and to go always by contraries? And not because it really is
+LINE 191: so, but because there is always a swarm of enchanters in attendance
+LINE 192: upon us that change and alter everything with us, and turn things as
+LINE 193: they please, and according as they are disposed to aid or destroy us;
+LINE 194: thus what seems to thee a barber's basin seems to me Mambrino's helmet,
+LINE 195: and to another it will seem something else; and rare foresight it was
+LINE 196: in the sage who is on my side to make what is really and truly
+LINE 197: Mambrino's helmet seem a basin to everybody, for, being held in such
+LINE 198: estimation as it is, all the world would pursue me to rob me of it; but
+LINE 199: when they see it is only a barber's basin they do not take the trouble
+LINE 200: to obtain it; as was plainly shown by him who tried to break it, and
+LINE 201: left it on the ground without taking it, for, by my faith, had he known
+LINE 202: it he would never have left it behind. Keep it safe, my friend, for
+LINE 203: just now I have no need of it; indeed, I shall have to take off all
+LINE 204: this armour and remain as naked as I was born, if I have a mind to
+LINE 205: follow Roland rather than Amadis in my penance."
+LINE 206: Thus talking they reached the foot of a high mountain which stood like
+LINE 207: an isolated peak among the others that surrounded it. Past its base
+LINE 208: there flowed a gentle brook, all around it spread a meadow so green and
+LINE 209: luxuriant that it was a delight to the eyes to look upon it, and forest
+LINE 210: trees in abundance, and shrubs and flowers, added to the charms of the
+LINE 211: spot. Upon this place the Knight of the Rueful Countenance fixed his
+LINE 212: choice for the performance of his penance, and as he beheld it
+LINE 213: exclaimed in a loud voice as though he were out of his senses:
+LINE 214: "This is the place, oh, ye heavens, that I select and choose for
+LINE 215: bewailing the misfortune in which ye yourselves have plunged me: this
+LINE 216: is the spot where the overflowings of mine eyes shall swell the waters
+LINE 217: of yon little brook, and my deep and endless sighs shall stir
+LINE 218: unceasingly the leaves of these mountain trees, in testimony and token
+LINE 219: of the pain my persecuted heart is suffering. Oh, ye rural deities,
+LINE 220: whoever ye be that haunt this lone spot, give ear to the complaint of a
+LINE 221: wretched lover whom long absence and brooding jealousy have driven to
+LINE 222: bewail his fate among these wilds and complain of the hard heart of
+LINE 223: that fair and ungrateful one, the end and limit of all human beauty!
+LINE 224: Oh, ye wood nymphs and dryads, that dwell in the thickets of the
+LINE 225: forest, so may the nimble wanton satyrs by whom ye are vainly wooed
+LINE 226: never disturb your sweet repose, help me to lament my hard fate or at
+LINE 227: least weary not at listening to it! Oh, Dulcinea del Toboso, day of my
+LINE 228: night, glory of my pain, guide of my path, star of my fortune, so may
+LINE 229: Heaven grant thee in full all thou seekest of it, bethink thee of the
+LINE 230: place and condition to which absence from thee has brought me, and make
+LINE 231: that return in kindness that is due to my fidelity! Oh, lonely trees,
+LINE 232: that from this day forward shall bear me company in my solitude, give
+LINE 233: me some sign by the gentle movement of your boughs that my presence is
+LINE 234: not distasteful to you! Oh, thou, my squire, pleasant companion in my
+LINE 235: prosperous and adverse fortunes, fix well in thy memory what thou shalt
+LINE 236: see me do here, so that thou mayest relate and report it to the sole
+LINE 237: cause of all," and so saying he dismounted from Rocinante, and in an
+LINE 238: instant relieved him of saddle and bridle, and giving him a slap on the
+LINE 239: croup, said, "He gives thee freedom who is bereft of it himself, oh
+LINE 240: steed as excellent in deed as thou art unfortunate in thy lot; begone
+LINE 241: where thou wilt, for thou bearest written on thy forehead that neither
+LINE 242: Astolfo's hippogriff, nor the famed Frontino that cost Bradamante so
+LINE 243: dear, could equal thee in speed."
+LINE 244: Seeing this Sancho said, "Good luck to him who has saved us the trouble
+LINE 245: of stripping the pack-saddle off Dapple! By my faith he would not have
+LINE 246: gone without a slap on the croup and something said in his praise;
+LINE 247: though if he were here I would not let anyone strip him, for there
+LINE 248: would be no occasion, as he had nothing of the lover or victim of
+LINE 249: despair about him, inasmuch as his master, which I was while it was
+LINE 250: God's pleasure, was nothing of the sort; and indeed, Sir Knight of the
+LINE 251: Rueful Countenance, if my departure and your worship's madness are to
+LINE 252: come off in earnest, it will be as well to saddle Rocinante again in
+LINE 253: order that he may supply the want of Dapple, because it will save me
+LINE 254: time in going and returning: for if I go on foot I don't know when I
+LINE 255: shall get there or when I shall get back, as I am, in truth, a bad
+LINE 256: walker."
+LINE 257: "I declare, Sancho," returned Don Quixote, "it shall be as thou wilt,
+LINE 258: for thy plan does not seem to me a bad one, and three days hence thou
+LINE 259: wilt depart, for I wish thee to observe in the meantime what I do and
+LINE 260: say for her sake, that thou mayest be able to tell it."
+LINE 261: "But what more have I to see besides what I have seen?" said Sancho.
+LINE 262: "Much thou knowest about it!" said Don Quixote. "I have now got to tear
+LINE 263: up my garments, to scatter about my armour, knock my head against these
+LINE 264: rocks, and more of the same sort of thing, which thou must witness."
+LINE 265: "For the love of God," said Sancho, "be careful, your worship, how you
+LINE 266: give yourself those knocks on the head, for you may come across such a
+LINE 267: rock, and in such a way, that the very first may put an end to the
+LINE 268: whole contrivance of this penance; and I should think, if indeed knocks
+LINE 269: on the head seem necessary to you, and this business cannot be done
+LINE 270: without them, you might be content—as the whole thing is feigned, and
+LINE 271: counterfeit, and in joke—you might be content, I say, with giving them
+LINE 272: to yourself in the water, or against something soft, like cotton; and
+LINE 273: leave it all to me; for I'll tell my lady that your worship knocked
+LINE 274: your head against a point of rock harder than a diamond."
+LINE 275: "I thank thee for thy good intentions, friend Sancho," answered Don
+LINE 276: Quixote, "but I would have thee know that all these things I am doing
+LINE 277: are not in joke, but very much in earnest, for anything else would be a
+LINE 278: transgression of the ordinances of chivalry, which forbid us to tell
+LINE 279: any lie whatever under the penalties due to apostasy; and to do one
+LINE 280: thing instead of another is just the same as lying; so my knocks on the
+LINE 281: head must be real, solid, and valid, without anything sophisticated or
+LINE 282: fanciful about them, and it will be needful to leave me some lint to
+LINE 283: dress my wounds, since fortune has compelled us to do without the
+LINE 284: balsam we lost."
+LINE 285: "It was worse losing the ass," replied Sancho, "for with him lint and
+LINE 286: all were lost; but I beg of your worship not to remind me again of that
+LINE 287: accursed liquor, for my soul, not to say my stomach, turns at hearing
+LINE 288: the very name of it; and I beg of you, too, to reckon as past the three
+LINE 289: days you allowed me for seeing the mad things you do, for I take them
+LINE 290: as seen already and pronounced upon, and I will tell wonderful stories
+LINE 291: to my lady; so write the letter and send me off at once, for I long to
+LINE 292: return and take your worship out of this purgatory where I am leaving
+LINE 293: you."
+LINE 294: "Purgatory dost thou call it, Sancho?" said Don Quixote, "rather call
+LINE 295: it hell, or even worse if there be anything worse."
+LINE 296: "For one who is in hell," said Sancho, "_nulla est retentio_, as I have
+LINE 297: heard say."
+LINE 298: "I do not understand what _retentio_ means," said Don Quixote.
+LINE 299: "_Retentio_," answered Sancho, "means that whoever is in hell never
+LINE 300: comes nor can come out of it, which will be the opposite case with your
+LINE 301: worship or my legs will be idle, that is if I have spurs to enliven
+LINE 302: Rocinante: let me once get to El Toboso and into the presence of my
+LINE 303: lady Dulcinea, and I will tell her such things of the follies and
+LINE 304: madnesses (for it is all one) that your worship has done and is still
+LINE 305: doing, that I will manage to make her softer than a glove though I find
+LINE 306: her harder than a cork tree; and with her sweet and honeyed answer I
+LINE 307: will come back through the air like a witch, and take your worship out
+LINE 308: of this purgatory that seems to be hell but is not, as there is hope of
+LINE 309: getting out of it; which, as I have said, those in hell have not, and I
+LINE 310: believe your worship will not say anything to the contrary."
+LINE 311: "That is true," said he of the Rueful Countenance, "but how shall we
+LINE 312: manage to write the letter?"
+LINE 313: "And the ass-colt order too," added Sancho.
+LINE 314: "All shall be included," said Don Quixote; "and as there is no paper,
+LINE 315: it would be well done to write it on the leaves of trees, as the
+LINE 316: ancients did, or on tablets of wax; though that would be as hard to
+LINE 317: find just now as paper. But it has just occurred to me how it may be
+LINE 318: conveniently and even more than conveniently written, and that is in
+LINE 319: the notebook that belonged to Cardenio, and thou wilt take care to have
+LINE 320: it copied on paper, in a good hand, at the first village thou comest to
+LINE 321: where there is a schoolmaster, or if not, any sacristan will copy it;
+LINE 322: but see thou give it not to any notary to copy, for they write a law
+LINE 323: hand that Satan could not make out."
+LINE 324: "But what is to be done about the signature?" said Sancho.
+LINE 325: "The letters of Amadis were never signed," said Don Quixote.
+LINE 326: "That is all very well," said Sancho, "but the order must needs be
+LINE 327: signed, and if it is copied they will say the signature is false, and I
+LINE 328: shall be left without ass-colts."
+LINE 329: "The order shall go signed in the same book," said Don Quixote, "and on
+LINE 330: seeing it my niece will make no difficulty about obeying it; as to the
+LINE 331: loveletter thou canst put by way of signature, '_Yours till death, the
+LINE 332: Knight of the Rueful Countenance._' And it will be no great matter if
+LINE 333: it is in some other person's hand, for as well as I recollect Dulcinea
+LINE 334: can neither read nor write, nor in the whole course of her life has she
+LINE 335: seen handwriting or letter of mine, for my love and hers have been
+LINE 336: always platonic, not going beyond a modest look, and even that so
+LINE 337: seldom that I can safely swear I have not seen her four times in all
+LINE 338: these twelve years I have been loving her more than the light of these
+LINE 339: eyes that the earth will one day devour; and perhaps even of those four
+LINE 340: times she has not once perceived that I was looking at her: such is the
+LINE 341: retirement and seclusion in which her father Lorenzo Corchuelo and her
+LINE 342: mother Aldonza Nogales have brought her up."
+LINE 343: "So, so!" said Sancho; "Lorenzo Corchuelo's daughter is the lady
+LINE 344: Dulcinea del Toboso, otherwise called Aldonza Lorenzo?"
+LINE 345: "She it is," said Don Quixote, "and she it is that is worthy to be lady
+LINE 346: of the whole universe."
+LINE 347: "I know her well," said Sancho, "and let me tell you she can fling a
+LINE 348: crowbar as well as the lustiest lad in all the town. Giver of all good!
+LINE 349: but she is a brave lass, and a right and stout one, and fit to be
+LINE 350: helpmate to any knight-errant that is or is to be, who may make her his
+LINE 351: lady: the whoreson wench, what sting she has and what a voice! I can
+LINE 352: tell you one day she posted herself on the top of the belfry of the
+LINE 353: village to call some labourers of theirs that were in a ploughed field
+LINE 354: of her father's, and though they were better than half a league off
+LINE 355: they heard her as well as if they were at the foot of the tower; and
+LINE 356: the best of her is that she is not a bit prudish, for she has plenty of
+LINE 357: affability, and jokes with everybody, and has a grin and a jest for
+LINE 358: everything. So, Sir Knight of the Rueful Countenance, I say you not
+LINE 359: only may and ought to do mad freaks for her sake, but you have a good
+LINE 360: right to give way to despair and hang yourself; and no one who knows of
+LINE 361: it but will say you did well, though the devil should take you; and I
+LINE 362: wish I were on my road already, simply to see her, for it is many a day
+LINE 363: since I saw her, and she must be altered by this time, for going about
+LINE 364: the fields always, and the sun and the air spoil women's looks greatly.
+LINE 365: But I must own the truth to your worship, Señor Don Quixote; until now
+LINE 366: I have been under a great mistake, for I believed truly and honestly
+LINE 367: that the lady Dulcinea must be some princess your worship was in love
+LINE 368: with, or some person great enough to deserve the rich presents you have
+LINE 369: sent her, such as the Biscayan and the galley slaves, and many more no
+LINE 370: doubt, for your worship must have won many victories in the time when I
+LINE 371: was not yet your squire. But all things considered, what good can it do
+LINE 372: the lady Aldonza Lorenzo, I mean the lady Dulcinea del Toboso, to have
+LINE 373: the vanquished your worship sends or will send coming to her and going
+LINE 374: down on their knees before her? Because maybe when they came she'd be
+LINE 375: hackling flax or threshing on the threshing floor, and they'd be
+LINE 376: ashamed to see her, and she'd laugh, or resent the present."
+LINE 377: "I have before now told thee many times, Sancho," said Don Quixote,
+LINE 378: "that thou art a mighty great chatterer, and that with a blunt wit thou
+LINE 379: art always striving at sharpness; but to show thee what a fool thou art
+LINE 380: and how rational I am, I would have thee listen to a short story. Thou
+LINE 381: must know that a certain widow, fair, young, independent, and rich, and
+LINE 382: above all free and easy, fell in love with a sturdy strapping young
+LINE 383: lay-brother; his superior came to know of it, and one day said to the
+LINE 384: worthy widow by way of brotherly remonstrance, 'I am surprised, señora,
+LINE 385: and not without good reason, that a woman of such high standing, so
+LINE 386: fair, and so rich as you are, should have fallen in love with such a
+LINE 387: mean, low, stupid fellow as So-and-so, when in this house there are so
+LINE 388: many masters, graduates, and divinity students from among whom you
+LINE 389: might choose as if they were a lot of pears, saying, 'This one I'll
+LINE 390: take, that I won't take;' but she replied to him with great
+LINE 391: sprightliness and candour, 'My dear sir, you are very much mistaken,
+LINE 392: and your ideas are very old-fashioned, if you think that I have made a
+LINE 393: bad choice in So-and-so, fool as he seems; because for all I want with
+LINE 394: him he knows as much and more philosophy than Aristotle.' In the same
+LINE 395: way, Sancho, for all I want with Dulcinea del Toboso she is just as
+LINE 396: good as the most exalted princess on earth. It is not to be supposed
+LINE 397: that all those poets who sang the praises of ladies under the fancy
+LINE 398: names they give them, had any such mistresses. Thinkest thou that the
+LINE 399: Amarillises, the Phillises, the Sylvias, the Dianas, the Galateas, the
+LINE 400: Fílidas, and all the rest of them, that the books, the ballads, the
+LINE 401: barber's shops, the theatres are full of, were really and truly ladies
+LINE 402: of flesh and blood, and mistresses of those that glorify and have
+LINE 403: glorified them? Nothing of the kind; they only invent them for the most
+LINE 404: part to furnish a subject for their verses, and that they may pass for
+LINE 405: lovers, or for men valiant enough to be so; and so it suffices me to
+LINE 406: think and believe that the good Aldonza Lorenzo is fair and virtuous;
+LINE 407: and as to her pedigree it is very little matter, for no one will
+LINE 408: examine into it for the purpose of conferring any order upon her, and
+LINE 409: I, for my part, reckon her the most exalted princess in the world. For
+LINE 410: thou shouldst know, Sancho, if thou dost not know, that two things
+LINE 411: alone beyond all others are incentives to love, and these are great
+LINE 412: beauty and a good name, and these two things are to be found in
+LINE 413: Dulcinea in the highest degree, for in beauty no one equals her and in
+LINE 414: good name few approach her; and to put the whole thing in a nutshell, I
+LINE 415: persuade myself that all I say is as I say, neither more nor less, and
+LINE 416: I picture her in my imagination as I would have her to be, as well in
+LINE 417: beauty as in condition; Helen approaches her not nor does Lucretia come
+LINE 418: up to her, nor any other of the famous women of times past, Greek,
+LINE 419: Barbarian, or Latin; and let each say what he will, for if in this I am
+LINE 420: taken to task by the ignorant, I shall not be censured by the
+LINE 421: critical."
+LINE 422: "I say that your worship is entirely right," said Sancho, "and that I
+LINE 423: am an ass. But I know not how the name of ass came into my mouth, for a
+LINE 424: rope is not to be mentioned in the house of him who has been hanged;
+LINE 425: but now for the letter, and then, God be with you, I am off."
+LINE 426: Don Quixote took out the notebook, and, retiring to one side, very
+LINE 427: deliberately began to write the letter, and when he had finished it he
+LINE 428: called to Sancho, saying he wished to read it to him, so that he might
+LINE 429: commit it to memory, in case of losing it on the road; for with evil
+LINE 430: fortune like his anything might be apprehended. To which Sancho
+LINE 431: replied, "Write it two or three times there in the book and give it to
+LINE 432: me, and I will carry it very carefully, because to expect me to keep it
+LINE 433: in my memory is all nonsense, for I have such a bad one that I often
+LINE 434: forget my own name; but for all that repeat it to me, as I shall like
+LINE 435: to hear it, for surely it will run as if it was in print."
+LINE 436: "Listen," said Don Quixote, "this is what it says:
+LINE 437: _"Don Quixote's Letter to Dulcinea del Toboso_
+LINE 438: "Sovereign and exalted Lady,—The pierced by the point of absence, the
+LINE 439: wounded to the heart's core, sends thee, sweetest Dulcinea del Toboso,
+LINE 440: the health that he himself enjoys not. If thy beauty despises me, if
+LINE 441: thy worth is not for me, if thy scorn is my affliction, though I be
+LINE 442: sufficiently long-suffering, hardly shall I endure this anxiety, which,
+LINE 443: besides being oppressive, is protracted. My good squire Sancho will
+LINE 444: relate to thee in full, fair ingrate, dear enemy, the condition to
+LINE 445: which I am reduced on thy account: if it be thy pleasure to give me
+LINE 446: relief, I am thine; if not, do as may be pleasing to thee; for by
+LINE 447: ending my life I shall satisfy thy cruelty and my desire.
+LINE 448: "Thine till death,
+LINE 449: "The Knight of the Rueful Countenance."
+LINE 450: "By the life of my father," said Sancho, when he heard the letter, "it
+LINE 451: is the loftiest thing I ever heard. Body of me! how your worship says
+LINE 452: everything as you like in it! And how well you fit in 'The Knight of
+LINE 453: the Rueful Countenance' into the signature. I declare your worship is
+LINE 454: indeed the very devil, and there is nothing you don't know."
+LINE 455: "Everything is needed for the calling I follow," said Don Quixote.
+LINE 456: "Now then," said Sancho, "let your worship put the order for the three
+LINE 457: ass-colts on the other side, and sign it very plainly, that they may
+LINE 458: recognise it at first sight."
+LINE 459: "With all my heart," said Don Quixote, and as he had written it he read
+LINE 460: it to this effect:
+LINE 461: "Mistress Niece,—By this first of ass-colts please pay to Sancho Panza,
+LINE 462: my squire, three of the five I left at home in your charge: said three
+LINE 463: ass-colts to be paid and delivered for the same number received here in
+LINE 464: hand, which upon this and upon his receipt shall be duly paid. Done in
+LINE 465: the heart of the Sierra Morena, the twenty-seventh of August of this
+LINE 466: present year."
+LINE 467: "That will do," said Sancho; "now let your worship sign it."
+LINE 468: "There is no need to sign it," said Don Quixote, "but merely to put my
+LINE 469: flourish, which is the same as a signature, and enough for three asses,
+LINE 470: or even three hundred."
+LINE 471: "I can trust your worship," returned Sancho; "let me go and saddle
+LINE 472: Rocinante, and be ready to give me your blessing, for I mean to go at
+LINE 473: once without seeing the fooleries your worship is going to do; I'll say
+LINE 474: I saw you do so many that she will not want any more."
+LINE 475: "At any rate, Sancho," said Don Quixote, "I should like—and there is
+LINE 476: reason for it—I should like thee, I say, to see me stripped to the skin
+LINE 477: and performing a dozen or two of insanities, which I can get done in
+LINE 478: less than half an hour; for having seen them with thine own eyes, thou
+LINE 479: canst then safely swear to the rest that thou wouldst add; and I
+LINE 480: promise thee thou wilt not tell of as many as I mean to perform."
+LINE 481: "For the love of God, master mine," said Sancho, "let me not see your
+LINE 482: worship stripped, for it will sorely grieve me, and I shall not be able
+LINE 483: to keep from tears, and my head aches so with all I shed last night for
+LINE 484: Dapple, that I am not fit to begin any fresh weeping; but if it is your
+LINE 485: worship's pleasure that I should see some insanities, do them in your
+LINE 486: clothes, short ones, and such as come readiest to hand; for I myself
+LINE 487: want nothing of the sort, and, as I have said, it will be a saving of
+LINE 488: time for my return, which will be with the news your worship desires
+LINE 489: and deserves. If not, let the lady Dulcinea look to it; if she does not
+LINE 490: answer reasonably, I swear as solemnly as I can that I will fetch a
+LINE 491: fair answer out of her stomach with kicks and cuffs; for why should it
+LINE 492: be borne that a knight-errant as famous as your worship should go mad
+LINE 493: without rhyme or reason for a—? Her ladyship had best not drive me to
+LINE 494: say it, for by God I will speak out and let off everything cheap, even
+LINE 495: if it doesn't sell: I am pretty good at that! she little knows me;
+LINE 496: faith, if she knew me she'd be in awe of me."
+LINE 497: "In faith, Sancho," said Don Quixote, "to all appearance thou art no
+LINE 498: sounder in thy wits than I."
+LINE 499: "I am not so mad," answered Sancho, "but I am more peppery; but apart
+LINE 500: from all this, what has your worship to eat until I come back? Will you
+LINE 501: sally out on the road like Cardenio to force it from the shepherds?"
+LINE 502: "Let not that anxiety trouble thee," replied Don Quixote, "for even if
+LINE 503: I had it I should not eat anything but the herbs and the fruits which
+LINE 504: this meadow and these trees may yield me; the beauty of this business
+LINE 505: of mine lies in not eating, and in performing other mortifications."
+LINE 506: "Do you know what I am afraid of?" said Sancho upon this; "that I shall
+LINE 507: not be able to find my way back to this spot where I am leaving you, it
+LINE 508: is such an out-of-the-way place."
+LINE 509: "Observe the landmarks well," said Don Quixote, "for I will try not to
+LINE 510: go far from this neighbourhood, and I will even take care to mount the
+LINE 511: highest of these rocks to see if I can discover thee returning;
+LINE 512: however, not to miss me and lose thyself, the best plan will be to cut
+LINE 513: some branches of the broom that is so abundant about here, and as thou
+LINE 514: goest to lay them at intervals until thou hast come out upon the plain;
+LINE 515: these will serve thee, after the fashion of the clue in the labyrinth
+LINE 516: of Theseus, as marks and signs for finding me on thy return."
+LINE 517: "So I will," said Sancho Panza, and having cut some, he asked his
+LINE 518: master's blessing, and not without many tears on both sides, took his
+LINE 519: leave of him, and mounting Rocinante, of whom Don Quixote charged him
+LINE 520: earnestly to have as much care as of his own person, he set out for the
+LINE 521: plain, strewing at intervals the branches of broom as his master had
+LINE 522: recommended him; and so he went his way, though Don Quixote still
+LINE 523: entreated him to see him do were it only a couple of mad acts. He had
+LINE 524: not gone a hundred paces, however, when he returned and said:
+LINE 525: "I must say, señor, your worship said quite right, that in order to be
+LINE 526: able to swear without a weight on my conscience that I had seen you do
+LINE 527: mad things, it would be well for me to see if it were only one; though
+LINE 528: in your worship's remaining here I have seen a very great one."
+LINE 529: c25c.jpg (261K)
+LINE 530: Full Size
+LINE 531: "Did I not tell thee so?" said Don Quixote. "Wait, Sancho, and I will
+LINE 532: do them in the saying of a credo," and pulling off his breeches in all
+LINE 533: haste he stripped himself to his skin and his shirt, and then, without
+LINE 534: more ado, he cut a couple of gambados in the air, and a couple of
+LINE 535: somersaults, heels over head, making such a display that, not to see it
+LINE 536: a second time, Sancho wheeled Rocinante round, and felt easy, and
+LINE 537: satisfied in his mind that he could swear he had left his master mad;
+LINE 538: and so we will leave him to follow his road until his return, which was
+LINE 539: a quick one.
+LINE 540: c25e.jpg (20K)
+LINE 541: CHAPTER XXVI.
+LINE 542: IN WHICH ARE CONTINUED THE REFINEMENTS WHEREWITH DON QUIXOTE PLAYED THE
+LINE 543: PART OF A LOVER IN THE SIERRA MORENA
+LINE 544: c26a.jpg (111K)
+LINE 545: Full Size
+LINE 546: Returning to the proceedings of him of the Rueful Countenance when he
+LINE 547: found himself alone, the history says that when Don Quixote had
+LINE 548: completed the performance of the somersaults or capers, naked from the
+LINE 549: waist down and clothed from the waist up, and saw that Sancho had gone
+LINE 550: off without waiting to see any more crazy feats, he climbed up to the
+LINE 551: top of a high rock, and there set himself to consider what he had
+LINE 552: several times before considered without ever coming to any conclusion
+LINE 553: on the point, namely whether it would be better and more to his purpose
+LINE 554: to imitate the outrageous madness of Roland, or the melancholy madness
+LINE 555: of Amadis; and communing with himself he said:
+LINE 556: "What wonder is it if Roland was so good a knight and so valiant as
+LINE 557: everyone says he was, when, after all, he was enchanted, and nobody
+LINE 558: could kill him save by thrusting a corking pin into the sole of his
+LINE 559: foot, and he always wore shoes with seven iron soles? Though cunning
+LINE 560: devices did not avail him against Bernardo del Carpio, who knew all
+LINE 561: about them, and strangled him in his arms at Roncesvalles. But putting
+LINE 562: the question of his valour aside, let us come to his losing his wits,
+LINE 563: for certain it is that he did lose them in consequence of the proofs he
+LINE 564: discovered at the fountain, and the intelligence the shepherd gave him
+LINE 565: of Angelica having slept more than two siestas with Medoro, a little
+LINE 566: curly-headed Moor, and page to Agramante. If he was persuaded that this
+LINE 567: was true, and that his lady had wronged him, it is no wonder that he
+LINE 568: should have gone mad; but I, how am I to imitate him in his madness,
+LINE 569: unless I can imitate him in the cause of it? For my Dulcinea, I will
+LINE 570: venture to swear, never saw a Moor in her life, as he is, in his proper
+LINE 571: costume, and she is this day as the mother that bore her, and I should
+LINE 572: plainly be doing her a wrong if, fancying anything else, I were to go
+LINE 573: mad with the same kind of madness as Roland the Furious. On the other
+LINE 574: hand, I see that Amadis of Gaul, without losing his senses and without
+LINE 575: doing anything mad, acquired as a lover as much fame as the most
+LINE 576: famous; for, according to his history, on finding himself rejected by
+LINE 577: his lady Oriana, who had ordered him not to appear in her presence
+LINE 578: until it should be her pleasure, all he did was to retire to the Peña
+LINE 579: Pobre in company with a hermit, and there he took his fill of weeping
+LINE 580: until Heaven sent him relief in the midst of his great grief and need.
+LINE 581: And if this be true, as it is, why should I now take the trouble to
+LINE 582: strip stark naked, or do mischief to these trees which have done me no
+LINE 583: harm, or why am I to disturb the clear waters of these brooks which
+LINE 584: will give me to drink whenever I have a mind? Long live the memory of
+LINE 585: Amadis and let him be imitated so far as is possible by Don Quixote of
+LINE 586: La Mancha, of whom it will be said, as was said of the other, that if
+LINE 587: he did not achieve great things, he died in attempting them; and if I
+LINE 588: am not repulsed or rejected by my Dulcinea, it is enough for me, as I
+LINE 589: have said, to be absent from her. And so, now to business; come to my
+LINE 590: memory ye deeds of Amadis, and show me how I am to begin to imitate
+LINE 591: you. I know already that what he chiefly did was to pray and commend
+LINE 592: himself to God; but what am I to do for a rosary, for I have not got
+LINE 593: one?"
+LINE 594: And then it occurred to him how he might make one, and that was by
+LINE 595: tearing a great strip off the tail of his shirt which hung down, and
+LINE 596: making eleven knots on it, one bigger than the rest, and this served
+LINE 597: him for a rosary all the time he was there, during which he repeated
+LINE 598: countless ave-marias. But what distressed him greatly was not having
+LINE 599: another hermit there to confess him and receive consolation from; and
+LINE 600: so he solaced himself with pacing up and down the little meadow, and
+LINE 601: writing and carving on the bark of the trees and on the fine sand a
+LINE 602: multitude of verses all in harmony with his sadness, and some in praise
+LINE 603: of Dulcinea; but, when he was found there afterwards, the only ones
+LINE 604: completely legible that could be discovered were those that follow
+LINE 605: here:
+LINE 606: Ye on the mountainside that grow,
+LINE 607: Ye green things all, trees, shrubs, and bushes,
+LINE 608: Are ye aweary of the woe
+LINE 609: That this poor aching bosom crushes?
+LINE 610: If it disturb you, and I owe
+LINE 611: Some reparation, it may be a
+LINE 612: Defence for me to let you know
+LINE 613: Don Quixote's tears are on the flow,
+LINE 614: And all for distant Dulcinea
+LINE 615: Del Toboso.
+LINE 616: The lealest lover time can show,
+LINE 617: Doomed for a lady-love to languish,
+LINE 618: Among these solitudes doth go,
+LINE 619: A prey to every kind of anguish.
+LINE 620: Why Love should like a spiteful foe
+LINE 621: Thus use him, he hath no idea,
+LINE 622: But hogsheads full—this doth he know—
+LINE 623: Don Quixote's tears are on the flow,
+LINE 624: And all for distant Dulcinea
+LINE 625: Del Toboso.
+LINE 626: Adventure-seeking doth he go
+LINE 627: Up rugged heights, down rocky valleys,
+LINE 628: But hill or dale, or high or low,
+LINE 629: Mishap attendeth all his sallies:
+LINE 630: Love still pursues him to and fro,
+LINE 631: And plies his cruel scourge—ah me! a
+LINE 632: Relentless fate, an endless woe;
+LINE 633: Don Quixote's tears are on the flow,
+LINE 634: And all for distant Dulcinea
+LINE 635: Del Toboso.
+LINE 636: The addition of "Del Toboso" to Dulcinea's name gave rise to no little
+LINE 637: laughter among those who found the above lines, for they suspected Don
+LINE 638: Quixote must have fancied that unless he added "del Toboso" when he
+LINE 639: introduced the name of Dulcinea the verse would be unintelligible;
+LINE 640: which was indeed the fact, as he himself afterwards admitted. He wrote
+LINE 641: many more, but, as has been said, these three verses were all that
+LINE 642: could be plainly and perfectly deciphered. In this way, and in sighing
+LINE 643: and calling on the fauns and satyrs of the woods and the nymphs of the
+LINE 644: streams, and Echo, moist and mournful, to answer, console, and hear
+LINE 645: him, as well as in looking for herbs to sustain him, he passed his time
+LINE 646: until Sancho's return; and had that been delayed three weeks, as it was
+LINE 647: three days, the Knight of the Rueful Countenance would have worn such
+LINE 648: an altered countenance that the mother that bore him would not have
+LINE 649: known him: and here it will be well to leave him, wrapped up in sighs
+LINE 650: and verses, to relate how Sancho Panza fared on his mission.
+LINE 651: As for him, coming out upon the high road, he made for El Toboso, and
+LINE 652: the next day reached the inn where the mishap of the blanket had
+LINE 653: befallen him. As soon as he recognised it he felt as if he were once
+LINE 654: more living through the air, and he could not bring himself to enter it
+LINE 655: though it was an hour when he might well have done so, for it was
+LINE 656: dinner-time, and he longed to taste something hot as it had been all
+LINE 657: cold fare with him for many days past. This craving drove him to draw
+LINE 658: near to the inn, still undecided whether to go in or not, and as he was
+LINE 659: hesitating there came out two persons who at once recognised him, and
+LINE 660: said one to the other:
+LINE 661: "Señor licentiate, is not he on the horse there Sancho Panza who, our
+LINE 662: adventurer's housekeeper told us, went off with her master as esquire?"
+LINE 663: "So it is," said the licentiate, "and that is our friend Don Quixote's
+LINE 664: horse;" and if they knew him so well it was because they were the
+LINE 665: curate and the barber of his own village, the same who had carried out
+LINE 666: the scrutiny and sentence upon the books; and as soon as they
+LINE 667: recognised Sancho Panza and Rocinante, being anxious to hear of Don
+LINE 668: Quixote, they approached, and calling him by his name the curate said,
+LINE 669: "Friend Sancho Panza, where is your master?"
+LINE 670: Sancho recognised them at once, and determined to keep secret the place
+LINE 671: and circumstances where and under which he had left his master, so he
+LINE 672: replied that his master was engaged in a certain quarter on a certain
+LINE 673: matter of great importance to him which he could not disclose for the
+LINE 674: eyes in his head.
+LINE 675: "Nay, nay," said the barber, "if you don't tell us where he is, Sancho
+LINE 676: Panza, we will suspect as we suspect already, that you have murdered
+LINE 677: and robbed him, for here you are mounted on his horse; in fact, you
+LINE 678: must produce the master of the hack, or else take the consequences."
+LINE 679: "There is no need of threats with me," said Sancho, "for I am not a man
+LINE 680: to rob or murder anybody; let his own fate, or God who made him, kill
+LINE 681: each one; my master is engaged very much to his taste doing penance in
+LINE 682: the midst of these mountains;" and then, offhand and without stopping,
+LINE 683: he told them how he had left him, what adventures had befallen him, and
+LINE 684: how he was carrying a letter to the lady Dulcinea del Toboso, the
+LINE 685: daughter of Lorenzo Corchuelo, with whom he was over head and ears in
+LINE 686: love. They were both amazed at what Sancho Panza told them; for though
+LINE 687: they were aware of Don Quixote's madness and the nature of it, each
+LINE 688: time they heard of it they were filled with fresh wonder. They then
+LINE 689: asked Sancho Panza to show them the letter he was carrying to the lady
+LINE 690: Dulcinea del Toboso. He said it was written in a notebook, and that his
+LINE 691: master's directions were that he should have it copied on paper at the
+LINE 692: first village he came to. On this the curate said if he showed it to
+LINE 693: him, he himself would make a fair copy of it. Sancho put his hand into
+LINE 694: his bosom in search of the notebook but could not find it, nor, if he
+LINE 695: had been searching until now, could he have found it, for Don Quixote
+LINE 696: had kept it, and had never given it to him, nor had he himself thought
+LINE 697: of asking for it. When Sancho discovered he could not find the book his
+LINE 698: face grew deadly pale, and in great haste he again felt his body all
+LINE 699: over, and seeing plainly it was not to be found, without more ado he
+LINE 700: seized his beard with both hands and plucked away half of it, and then,
+LINE 701: as quick as he could and without stopping, gave himself half a dozen
+LINE 702: cuffs on the face and nose till they were bathed in blood.
+LINE 703: Seeing this, the curate and the barber asked him what had happened him
+LINE 704: that he gave himself such rough treatment.
+LINE 705: "What should happen to me?" replied Sancho, "but to have lost from one
+LINE 706: hand to the other, in a moment, three ass-colts, each of them like a
+LINE 707: castle?"
+LINE 708: "How is that?" said the barber.
+LINE 709: "I have lost the notebook," said Sancho, "that contained the letter to
+LINE 710: Dulcinea, and an order signed by my master in which he directed his
+LINE 711: niece to give me three ass-colts out of four or five he had at home;"
+LINE 712: and he then told them about the loss of Dapple.
+LINE 713: The curate consoled him, telling him that when his master was found he
+LINE 714: would get him to renew the order, and make a fresh draft on paper, as
+LINE 715: was usual and customary; for those made in notebooks were never
+LINE 716: accepted or honoured.
+LINE 717: Sancho comforted himself with this, and said if that were so the loss
+LINE 718: of Dulcinea's letter did not trouble him much, for he had it almost by
+LINE 719: heart, and it could be taken down from him wherever and whenever they
+LINE 720: liked.
+LINE 721: "Repeat it then, Sancho," said the barber, "and we will write it down
+LINE 722: afterwards."
+LINE 723: Sancho Panza stopped to scratch his head to bring back the letter to
+LINE 724: his memory, and balanced himself now on one foot, now the other, one
+LINE 725: moment staring at the ground, the next at the sky, and after having
+LINE 726: half gnawed off the end of a finger and kept them in suspense waiting
+LINE 727: for him to begin, he said, after a long pause, "By God, señor
+LINE 728: licentiate, devil a thing can I recollect of the letter; but it said at
+LINE 729: the beginning, 'Exalted and scrubbing Lady.'"
+LINE 730: "It cannot have said 'scrubbing,'" said the barber, "but 'superhuman'
+LINE 731: or 'sovereign.'"
+LINE 732: "That is it," said Sancho; "then, as well as I remember, it went on,
+LINE 733: 'The wounded, and wanting of sleep, and the pierced, kisses your
+LINE 734: worship's hands, ungrateful and very unrecognised fair one; and it said
+LINE 735: something or other about health and sickness that he was sending her;
+LINE 736: and from that it went tailing off until it ended with 'Yours till
+LINE 737: death, the Knight of the Rueful Countenance.'"
+LINE 738: It gave them no little amusement, both of them, to see what a good
+LINE 739: memory Sancho had, and they complimented him greatly upon it, and
+LINE 740: begged him to repeat the letter a couple of times more, so that they
+LINE 741: too might get it by heart to write it out by-and-by. Sancho repeated it
+LINE 742: three times, and as he did, uttered three thousand more absurdities;
+LINE 743: then he told them more about his master but he never said a word about
+LINE 744: the blanketing that had befallen himself in that inn, into which he
+LINE 745: refused to enter. He told them, moreover, how his lord, if he brought
+LINE 746: him a favourable answer from the lady Dulcinea del Toboso, was to put
+LINE 747: himself in the way of endeavouring to become an emperor, or at least a
+LINE 748: monarch; for it had been so settled between them, and with his personal
+LINE 749: worth and the might of his arm it was an easy matter to come to be one:
+LINE 750: and how on becoming one his lord was to make a marriage for him (for he
+LINE 751: would be a widower by that time, as a matter of course) and was to give
+LINE 752: him as a wife one of the damsels of the empress, the heiress of some
+LINE 753: rich and grand state on the mainland, having nothing to do with islands
+LINE 754: of any sort, for he did not care for them now. All this Sancho
+LINE 755: delivered with so much composure—wiping his nose from time to time—and
+LINE 756: with so little common-sense that his two hearers were again filled with
+LINE 757: wonder at the force of Don Quixote's madness that could run away with
+LINE 758: this poor man's reason. They did not care to take the trouble of
+LINE 759: disabusing him of his error, as they considered that since it did not
+LINE 760: in any way hurt his conscience it would be better to leave him in it,
+LINE 761: and they would have all the more amusement in listening to his
+LINE 762: simplicities; and so they bade him pray to God for his lord's health,
+LINE 763: as it was a very likely and a very feasible thing for him in course of
+LINE 764: time to come to be an emperor, as he said, or at least an archbishop or
+LINE 765: some other dignitary of equal rank.
+LINE 766: To which Sancho made answer, "If fortune, sirs, should bring things
+LINE 767: about in such a way that my master should have a mind, instead of being
+LINE 768: an emperor, to be an archbishop, I should like to know what
+LINE 769: archbishops-errant commonly give their squires?"
+LINE 770: "They commonly give them," said the curate, some simple benefice or
+LINE 771: cure, or some place as sacristan which brings them a good fixed income,
+LINE 772: not counting the altar fees, which may be reckoned at as much more."
+LINE 773: "But for that," said Sancho, "the squire must be unmarried, and must
+LINE 774: know, at any rate, how to help at mass, and if that be so, woe is me,
+LINE 775: for I am married already and I don't know the first letter of the A B
+LINE 776: C. What will become of me if my master takes a fancy to be an
+LINE 777: archbishop and not an emperor, as is usual and customary with
+LINE 778: knights-errant?"
+LINE 779: "Be not uneasy, friend Sancho," said the barber, "for we will entreat
+LINE 780: your master, and advise him, even urging it upon him as a case of
+LINE 781: conscience, to become an emperor and not an archbishop, because it will
+LINE 782: be easier for him as he is more valiant than lettered."
+LINE 783: "So I have thought," said Sancho; "though I can tell you he is fit for
+LINE 784: anything: what I mean to do for my part is to pray to our Lord to place
+LINE 785: him where it may be best for him, and where he may be able to bestow
+LINE 786: most favours upon me."
+LINE 787: "You speak like a man of sense," said the curate, "and you will be
+LINE 788: acting like a good Christian; but what must now be done is to take
+LINE 789: steps to coax your master out of that useless penance you say he is
+LINE 790: performing; and we had best turn into this inn to consider what plan to
+LINE 791: adopt, and also to dine, for it is now time."
+LINE 792: Sancho said they might go in, but that he would wait there outside, and
+LINE 793: that he would tell them afterwards the reason why he was unwilling, and
+LINE 794: why it did not suit him to enter it; but he begged them to bring him
+LINE 795: out something to eat, and to let it be hot, and also to bring barley
+LINE 796: for Rocinante. They left him and went in, and presently the barber
+LINE 797: brought him out something to eat. By-and-by, after they had between
+LINE 798: them carefully thought over what they should do to carry out their
+LINE 799: object, the curate hit upon an idea very well adapted to humour Don
+LINE 800: Quixote, and effect their purpose; and his notion, which he explained
+LINE 801: to the barber, was that he himself should assume the disguise of a
+LINE 802: wandering damsel, while the other should try as best he could to pass
+LINE 803: for a squire, and that they should thus proceed to where Don Quixote
+LINE 804: was, and he, pretending to be an aggrieved and distressed damsel,
+LINE 805: should ask a favour of him, which as a valiant knight-errant he could
+LINE 806: not refuse to grant; and the favour he meant to ask him was that he
+LINE 807: should accompany her whither she would conduct him, in order to redress
+LINE 808: a wrong which a wicked knight had done her, while at the same time she
+LINE 809: should entreat him not to require her to remove her mask, nor ask her
+LINE 810: any question touching her circumstances until he had righted her with
+LINE 811: the wicked knight. And he had no doubt that Don Quixote would comply
+LINE 812: with any request made in these terms, and that in this way they might
+LINE 813: remove him and take him to his own village, where they would endeavour
+LINE 814: to find out if his extraordinary madness admitted of any kind of
+LINE 815: remedy.
+LINE 816: c26e.jpg (48K)

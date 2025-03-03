@@ -1,0 +1,505 @@
+LINE 1: c12a.jpg (143K)
+LINE 2: Full Size
+LINE 3: Just then another young man, one of those who fetched their provisions
+LINE 4: from the village, came up and said, "Do you know what is going on in
+LINE 5: the village, comrades?"
+LINE 6: "How could we know it?" replied one of them.
+LINE 7: "Well, then, you must know," continued the young man, "this morning
+LINE 8: that famous student-shepherd called Chrysostom died, and it is rumoured
+LINE 9: that he died of love for that devil of a village girl the daughter of
+LINE 10: Guillermo the Rich, she that wanders about the wolds here in the dress
+LINE 11: of a shepherdess."
+LINE 12: "You mean Marcela?" said one.
+LINE 13: "Her I mean," answered the goatherd; "and the best of it is, he has
+LINE 14: directed in his will that he is to be buried in the fields like a Moor,
+LINE 15: and at the foot of the rock where the Cork-tree spring is, because, as
+LINE 16: the story goes (and they say he himself said so), that was the place
+LINE 17: where he first saw her. And he has also left other directions which the
+LINE 18: clergy of the village say should not and must not be obeyed because
+LINE 19: they savour of paganism. To all which his great friend Ambrosio the
+LINE 20: student, he who, like him, also went dressed as a shepherd, replies
+LINE 21: that everything must be done without any omission according to the
+LINE 22: directions left by Chrysostom, and about this the village is all in
+LINE 23: commotion; however, report says that, after all, what Ambrosio and all
+LINE 24: the shepherds his friends desire will be done, and to-morrow they are
+LINE 25: coming to bury him with great ceremony where I said. I am sure it will
+LINE 26: be something worth seeing; at least I will not fail to go and see it
+LINE 27: even if I knew I should not return to the village to-morrow."
+LINE 28: "We will do the same," answered the goatherds, "and cast lots to see
+LINE 29: who must stay to mind the goats of all."
+LINE 30: "Thou sayest well, Pedro," said one, "though there will be no need of
+LINE 31: taking that trouble, for I will stay behind for all; and don't suppose
+LINE 32: it is virtue or want of curiosity in me; it is that the splinter that
+LINE 33: ran into my foot the other day will not let me walk."
+LINE 34: "For all that, we thank thee," answered Pedro.
+LINE 35: Don Quixote asked Pedro to tell him who the dead man was and who the
+LINE 36: shepherdess, to which Pedro replied that all he knew was that the dead
+LINE 37: man was a wealthy gentleman belonging to a village in those mountains,
+LINE 38: who had been a student at Salamanca for many years, at the end of which
+LINE 39: he returned to his village with the reputation of being very learned
+LINE 40: and deeply read. "Above all, they said, he was learned in the science
+LINE 41: of the stars and of what went on yonder in the heavens and the sun and
+LINE 42: the moon, for he told us of the cris of the sun and moon to exact
+LINE 43: time."
+LINE 44: "Eclipse it is called, friend, not cris, the darkening of those two
+LINE 45: luminaries," said Don Quixote; but Pedro, not troubling himself with
+LINE 46: trifles, went on with his story, saying, "Also he foretold when the
+LINE 47: year was going to be one of abundance or estility."
+LINE 48: "Sterility, you mean," said Don Quixote.
+LINE 49: "Sterility or estility," answered Pedro, "it is all the same in the
+LINE 50: end. And I can tell you that by this his father and friends who
+LINE 51: believed him grew very rich because they did as he advised them,
+LINE 52: bidding them 'sow barley this year, not wheat; this year you may sow
+LINE 53: pulse and not barley; the next there will be a full oil crop, and the
+LINE 54: three following not a drop will be got.'"
+LINE 55: "That science is called astrology," said Don Quixote.
+LINE 56: "I do not know what it is called," replied Pedro, "but I know that he
+LINE 57: knew all this and more besides. But, to make an end, not many months
+LINE 58: had passed after he returned from Salamanca, when one day he appeared
+LINE 59: dressed as a shepherd with his crook and sheepskin, having put off the
+LINE 60: long gown he wore as a scholar; and at the same time his great friend,
+LINE 61: Ambrosio by name, who had been his companion in his studies, took to
+LINE 62: the shepherd's dress with him. I forgot to say that Chrysostom, who is
+LINE 63: dead, was a great man for writing verses, so much so that he made
+LINE 64: carols for Christmas Eve, and plays for Corpus Christi, which the young
+LINE 65: men of our village acted, and all said they were excellent. When the
+LINE 66: villagers saw the two scholars so unexpectedly appearing in shepherd's
+LINE 67: dress, they were lost in wonder, and could not guess what had led them
+LINE 68: to make so extraordinary a change. About this time the father of our
+LINE 69: Chrysostom died, and he was left heir to a large amount of property in
+LINE 70: chattels as well as in land, no small number of cattle and sheep, and a
+LINE 71: large sum of money, of all of which the young man was left dissolute
+LINE 72: owner, and indeed he was deserving of it all, for he was a very good
+LINE 73: comrade, and kind-hearted, and a friend of worthy folk, and had a
+LINE 74: countenance like a benediction. Presently it came to be known that he
+LINE 75: had changed his dress with no other object than to wander about these
+LINE 76: wastes after that shepherdess Marcela our lad mentioned a while ago,
+LINE 77: with whom the deceased Chrysostom had fallen in love. And I must tell
+LINE 78: you now, for it is well you should know it, who this girl is; perhaps,
+LINE 79: and even without any perhaps, you will not have heard anything like it
+LINE 80: all the days of your life, though you should live more years than
+LINE 81: sarna."
+LINE 82: "Say Sarra," said Don Quixote, unable to endure the goatherd's
+LINE 83: confusion of words.
+LINE 84: "The sarna lives long enough," answered Pedro; "and if, señor, you must
+LINE 85: go finding fault with words at every step, we shall not make an end of
+LINE 86: it this twelvemonth."
+LINE 87: "Pardon me, friend," said Don Quixote; "but, as there is such a
+LINE 88: difference between sarna and Sarra, I told you of it; however, you have
+LINE 89: answered very rightly, for sarna lives longer than Sarra: so continue
+LINE 90: your story, and I will not object any more to anything."
+LINE 91: "I say then, my dear sir," said the goatherd, "that in our village
+LINE 92: there was a farmer even richer than the father of Chrysostom, who was
+LINE 93: named Guillermo, and upon whom God bestowed, over and above great
+LINE 94: wealth, a daughter at whose birth her mother died, the most respected
+LINE 95: woman there was in this neighbourhood; I fancy I can see her now with
+LINE 96: that countenance which had the sun on one side and the moon on the
+LINE 97: other; and moreover active, and kind to the poor, for which I trust
+LINE 98: that at the present moment her soul is in bliss with God in the other
+LINE 99: world. Her husband Guillermo died of grief at the death of so good a
+LINE 100: wife, leaving his daughter Marcela, a child and rich, to the care of an
+LINE 101: uncle of hers, a priest and prebendary in our village. The girl grew up
+LINE 102: with such beauty that it reminded us of her mother's, which was very
+LINE 103: great, and yet it was thought that the daughter's would exceed it; and
+LINE 104: so when she reached the age of fourteen to fifteen years nobody beheld
+LINE 105: her but blessed God that had made her so beautiful, and the greater
+LINE 106: number were in love with her past redemption. Her uncle kept her in
+LINE 107: great seclusion and retirement, but for all that the fame of her great
+LINE 108: beauty spread so that, as well for it as for her great wealth, her
+LINE 109: uncle was asked, solicited, and importuned, to give her in marriage not
+LINE 110: only by those of our town but of those many leagues round, and by the
+LINE 111: persons of highest quality in them. But he, being a good Christian man,
+LINE 112: though he desired to give her in marriage at once, seeing her to be old
+LINE 113: enough, was unwilling to do so without her consent, not that he had any
+LINE 114: eye to the gain and profit which the custody of the girl's property
+LINE 115: brought him while he put off her marriage; and, faith, this was said in
+LINE 116: praise of the good priest in more than one set in the town. For I would
+LINE 117: have you know, Sir Errant, that in these little villages everything is
+LINE 118: talked about and everything is carped at, and rest assured, as I am,
+LINE 119: that the priest must be over and above good who forces his parishioners
+LINE 120: to speak well of him, especially in villages."
+LINE 121: "That is the truth," said Don Quixote; "but go on, for the story is
+LINE 122: very good, and you, good Pedro, tell it with very good grace."
+LINE 123: "May that of the Lord not be wanting to me," said Pedro; "that is the
+LINE 124: one to have. To proceed; you must know that though the uncle put before
+LINE 125: his niece and described to her the qualities of each one in particular
+LINE 126: of the many who had asked her in marriage, begging her to marry and
+LINE 127: make a choice according to her own taste, she never gave any other
+LINE 128: answer than that she had no desire to marry just yet, and that being so
+LINE 129: young she did not think herself fit to bear the burden of matrimony. At
+LINE 130: these, to all appearance, reasonable excuses that she made, her uncle
+LINE 131: ceased to urge her, and waited till she was somewhat more advanced in
+LINE 132: age and could mate herself to her own liking. For, said he—and he said
+LINE 133: quite right—parents are not to settle children in life against their
+LINE 134: will. But when one least looked for it, lo and behold! one day the
+LINE 135: demure Marcela makes her appearance turned shepherdess; and, in spite
+LINE 136: of her uncle and all those of the town that strove to dissuade her,
+LINE 137: took to going a-field with the other shepherd-lasses of the village,
+LINE 138: and tending her own flock. And so, since she appeared in public, and
+LINE 139: her beauty came to be seen openly, I could not well tell you how many
+LINE 140: rich youths, gentlemen and peasants, have adopted the costume of
+LINE 141: Chrysostom, and go about these fields making love to her. One of these,
+LINE 142: as has been already said, was our deceased friend, of whom they say
+LINE 143: that he did not love but adore her. But you must not suppose, because
+LINE 144: Marcela chose a life of such liberty and independence, and of so little
+LINE 145: or rather no retirement, that she has given any occasion, or even the
+LINE 146: semblance of one, for disparagement of her purity and modesty; on the
+LINE 147: contrary, such and so great is the vigilance with which she watches
+LINE 148: over her honour, that of all those that court and woo her not one has
+LINE 149: boasted, or can with truth boast, that she has given him any hope
+LINE 150: however small of obtaining his desire. For although she does not avoid
+LINE 151: or shun the society and conversation of the shepherds, and treats them
+LINE 152: courteously and kindly, should any one of them come to declare his
+LINE 153: intention to her, though it be one as proper and holy as that of
+LINE 154: matrimony, she flings him from her like a catapult. And with this kind
+LINE 155: of disposition she does more harm in this country than if the plague
+LINE 156: had got into it, for her affability and her beauty draw on the hearts
+LINE 157: of those that associate with her to love her and to court her, but her
+LINE 158: scorn and her frankness bring them to the brink of despair; and so they
+LINE 159: know not what to say save to proclaim her aloud cruel and hard-hearted,
+LINE 160: and other names of the same sort which well describe the nature of her
+LINE 161: character; and if you should remain here any time, señor, you would
+LINE 162: hear these hills and valleys resounding with the laments of the
+LINE 163: rejected ones who pursue her. Not far from this there is a spot where
+LINE 164: there are a couple of dozen of tall beeches, and there is not one of
+LINE 165: them but has carved and written on its smooth bark the name of Marcela,
+LINE 166: and above some a crown carved on the same tree as though her lover
+LINE 167: would say more plainly that Marcela wore and deserved that of all human
+LINE 168: beauty. Here one shepherd is sighing, there another is lamenting; there
+LINE 169: love songs are heard, here despairing elegies. One will pass all the
+LINE 170: hours of the night seated at the foot of some oak or rock, and there,
+LINE 171: without having closed his weeping eyes, the sun finds him in the
+LINE 172: morning bemused and bereft of sense; and another without relief or
+LINE 173: respite to his sighs, stretched on the burning sand in the full heat of
+LINE 174: the sultry summer noontide, makes his appeal to the compassionate
+LINE 175: heavens, and over one and the other, over these and all, the beautiful
+LINE 176: Marcela triumphs free and careless. And all of us that know her are
+LINE 177: waiting to see what her pride will come to, and who is to be the happy
+LINE 178: man that will succeed in taming a nature so formidable and gaining
+LINE 179: possession of a beauty so supreme. All that I have told you being such
+LINE 180: well-established truth, I am persuaded that what they say of the cause
+LINE 181: of Chrysostom's death, as our lad told us, is the same. And so I advise
+LINE 182: you, señor, fail not to be present to-morrow at his burial, which will
+LINE 183: be well worth seeing, for Chrysostom had many friends, and it is not
+LINE 184: half a league from this place to where he directed he should be
+LINE 185: buried."
+LINE 186: "I will make a point of it," said Don Quixote, "and I thank you for the
+LINE 187: pleasure you have given me by relating so interesting a tale."
+LINE 188: "Oh," said the goatherd, "I do not know even the half of what has
+LINE 189: happened to the lovers of Marcela, but perhaps to-morrow we may fall in
+LINE 190: with some shepherd on the road who can tell us; and now it will be well
+LINE 191: for you to go and sleep under cover, for the night air may hurt your
+LINE 192: wound, though with the remedy I have applied to you there is no fear of
+LINE 193: an untoward result."
+LINE 194: Sancho Panza, who was wishing the goatherd's loquacity at the devil, on
+LINE 195: his part begged his master to go into Pedro's hut to sleep. He did so,
+LINE 196: and passed all the rest of the night in thinking of his lady Dulcinea,
+LINE 197: in imitation of the lovers of Marcela. Sancho Panza settled himself
+LINE 198: between Rocinante and his ass, and slept, not like a lover who had been
+LINE 199: discarded, but like a man who had been soundly kicked.
+LINE 200: c12e.jpg (42K)
+LINE 201: CHAPTER XIII.
+LINE 202: IN WHICH IS ENDED THE STORY OF THE SHEPHERDESS MARCELA, WITH OTHER
+LINE 203: INCIDENTS
+LINE 204: c13a.jpg (181K)
+LINE 205: Full Size
+LINE 206: But hardly had day begun to show itself through the balconies of the
+LINE 207: east, when five of the six goatherds came to rouse Don Quixote and tell
+LINE 208: him that if he was still of a mind to go and see the famous burial of
+LINE 209: Chrysostom they would bear him company. Don Quixote, who desired
+LINE 210: nothing better, rose and ordered Sancho to saddle and pannel at once,
+LINE 211: which he did with all despatch, and with the same they all set out
+LINE 212: forthwith. They had not gone a quarter of a league when at the meeting
+LINE 213: of two paths they saw coming towards them some six shepherds dressed in
+LINE 214: black sheepskins and with their heads crowned with garlands of cypress
+LINE 215: and bitter oleander. Each of them carried a stout holly staff in his
+LINE 216: hand, and along with them there came two men of quality on horseback in
+LINE 217: handsome travelling dress, with three servants on foot accompanying
+LINE 218: them. Courteous salutations were exchanged on meeting, and inquiring
+LINE 219: one of the other which way each party was going, they learned that all
+LINE 220: were bound for the scene of the burial, so they went on all together.
+LINE 221: One of those on horseback addressing his companion said to him, "It
+LINE 222: seems to me, Señor Vivaldo, that we may reckon as well spent the delay
+LINE 223: we shall incur in seeing this remarkable funeral, for remarkable it
+LINE 224: cannot but be judging by the strange things these shepherds have told
+LINE 225: us, of both the dead shepherd and homicide shepherdess."
+LINE 226: "So I think too," replied Vivaldo, "and I would delay not to say a day,
+LINE 227: but four, for the sake of seeing it."
+LINE 228: Don Quixote asked them what it was they had heard of Marcela and
+LINE 229: Chrysostom. The traveller answered that the same morning they had met
+LINE 230: these shepherds, and seeing them dressed in this mournful fashion they
+LINE 231: had asked them the reason of their appearing in such a guise; which one
+LINE 232: of them gave, describing the strange behaviour and beauty of a
+LINE 233: shepherdess called Marcela, and the loves of many who courted her,
+LINE 234: together with the death of that Chrysostom to whose burial they were
+LINE 235: going. In short, he repeated all that Pedro had related to Don Quixote.
+LINE 236: This conversation dropped, and another was commenced by him who was
+LINE 237: called Vivaldo asking Don Quixote what was the reason that led him to
+LINE 238: go armed in that fashion in a country so peaceful. To which Don Quixote
+LINE 239: replied, "The pursuit of my calling does not allow or permit me to go
+LINE 240: in any other fashion; easy life, enjoyment, and repose were invented
+LINE 241: for soft courtiers, but toil, unrest, and arms were invented and made
+LINE 242: for those alone whom the world calls knights-errant, of whom I, though
+LINE 243: unworthy, am the least of all."
+LINE 244: The instant they heard this all set him down as mad, and the better to
+LINE 245: settle the point and discover what kind of madness his was, Vivaldo
+LINE 246: proceeded to ask him what knights-errant meant.
+LINE 247: "Have not your worships," replied Don Quixote, "read the annals and
+LINE 248: histories of England, in which are recorded the famous deeds of King
+LINE 249: Arthur, whom we in our popular Castilian invariably call King Artus,
+LINE 250: with regard to whom it is an ancient tradition, and commonly received
+LINE 251: all over that kingdom of Great Britain, that this king did not die, but
+LINE 252: was changed by magic art into a raven, and that in process of time he
+LINE 253: is to return to reign and recover his kingdom and sceptre; for which
+LINE 254: reason it cannot be proved that from that time to this any Englishman
+LINE 255: ever killed a raven? Well, then, in the time of this good king that
+LINE 256: famous order of chivalry of the Knights of the Round Table was
+LINE 257: instituted, and the amour of Don Lancelot of the Lake with the Queen
+LINE 258: Guinevere occurred, precisely as is there related, the go-between and
+LINE 259: confidante therein being the highly honourable dame Quintañona, whence
+LINE 260: came that ballad so well known and widely spread in our Spain—
+LINE 261: O never surely was there knight
+LINE 262: So served by hand of dame,
+LINE 263: As served was he Sir Lancelot hight
+LINE 264: When he from Britain came—
+LINE 265: with all the sweet and delectable course of his achievements in love
+LINE 266: and war. Handed down from that time, then, this order of chivalry went
+LINE 267: on extending and spreading itself over many and various parts of the
+LINE 268: world; and in it, famous and renowned for their deeds, were the mighty
+LINE 269: Amadis of Gaul with all his sons and descendants to the fifth
+LINE 270: generation, and the valiant Felixmarte of Hircania, and the never
+LINE 271: sufficiently praised Tirante el Blanco, and in our own days almost we
+LINE 272: have seen and heard and talked with the invincible knight Don Belianis
+LINE 273: of Greece. This, then, sirs, is to be a knight-errant, and what I have
+LINE 274: spoken of is the order of his chivalry, of which, as I have already
+LINE 275: said, I, though a sinner, have made profession, and what the aforesaid
+LINE 276: knights professed that same do I profess, and so I go through these
+LINE 277: solitudes and wilds seeking adventures, resolved in soul to oppose my
+LINE 278: arm and person to the most perilous that fortune may offer me in aid of
+LINE 279: the weak and needy."
+LINE 280: By these words of his the travellers were able to satisfy themselves of
+LINE 281: Don Quixote's being out of his senses and of the form of madness that
+LINE 282: overmastered him, at which they felt the same astonishment that all
+LINE 283: felt on first becoming acquainted with it; and Vivaldo, who was a
+LINE 284: person of great shrewdness and of a lively temperament, in order to
+LINE 285: beguile the short journey which they said was required to reach the
+LINE 286: mountain, the scene of the burial, sought to give him an opportunity of
+LINE 287: going on with his absurdities. So he said to him, "It seems to me,
+LINE 288: Señor Knight-errant, that your worship has made choice of one of the
+LINE 289: most austere professions in the world, and I imagine even that of the
+LINE 290: Carthusian monks is not so austere."
+LINE 291: "As austere it may perhaps be," replied our Don Quixote, "but so
+LINE 292: necessary for the world I am very much inclined to doubt. For, if the
+LINE 293: truth is to be told, the soldier who executes what his captain orders
+LINE 294: does no less than the captain himself who gives the order. My meaning,
+LINE 295: is, that churchmen in peace and quiet pray to Heaven for the welfare of
+LINE 296: the world, but we soldiers and knights carry into effect what they pray
+LINE 297: for, defending it with the might of our arms and the edge of our
+LINE 298: swords, not under shelter but in the open air, a target for the
+LINE 299: intolerable rays of the sun in summer and the piercing frosts of
+LINE 300: winter. Thus are we God's ministers on earth and the arms by which his
+LINE 301: justice is done therein. And as the business of war and all that
+LINE 302: relates and belongs to it cannot be conducted without exceeding great
+LINE 303: sweat, toil, and exertion, it follows that those who make it their
+LINE 304: profession have undoubtedly more labour than those who in tranquil
+LINE 305: peace and quiet are engaged in praying to God to help the weak. I do
+LINE 306: not mean to say, nor does it enter into my thoughts, that the
+LINE 307: knight-errant's calling is as good as that of the monk in his cell; I
+LINE 308: would merely infer from what I endure myself that it is beyond a doubt
+LINE 309: a more laborious and a more belaboured one, a hungrier and thirstier, a
+LINE 310: wretcheder, raggeder, and lousier; for there is no reason to doubt that
+LINE 311: the knights-errant of yore endured much hardship in the course of their
+LINE 312: lives. And if some of them by the might of their arms did rise to be
+LINE 313: emperors, in faith it cost them dear in the matter of blood and sweat;
+LINE 314: and if those who attained to that rank had not had magicians and sages
+LINE 315: to help them they would have been completely baulked in their ambition
+LINE 316: and disappointed in their hopes."
+LINE 317: "That is my own opinion," replied the traveller; "but one thing among
+LINE 318: many others seems to me very wrong in knights-errant, and that is that
+LINE 319: when they find themselves about to engage in some mighty and perilous
+LINE 320: adventure in which there is manifest danger of losing their lives, they
+LINE 321: never at the moment of engaging in it think of commending themselves to
+LINE 322: God, as is the duty of every good Christian in like peril; instead of
+LINE 323: which they commend themselves to their ladies with as much devotion as
+LINE 324: if these were their gods, a thing which seems to me to savour somewhat
+LINE 325: of heathenism."
+LINE 326: "Sir," answered Don Quixote, "that cannot be on any account omitted,
+LINE 327: and the knight-errant would be disgraced who acted otherwise: for it is
+LINE 328: usual and customary in knight-errantry that the knight-errant, who on
+LINE 329: engaging in any great feat of arms has his lady before him, should turn
+LINE 330: his eyes towards her softly and lovingly, as though with them
+LINE 331: entreating her to favour and protect him in the hazardous venture he is
+LINE 332: about to undertake, and even though no one hear him, he is bound to say
+LINE 333: certain words between his teeth, commending himself to her with all his
+LINE 334: heart, and of this we have innumerable instances in the histories. Nor
+LINE 335: is it to be supposed from this that they are to omit commending
+LINE 336: themselves to God, for there will be time and opportunity for doing so
+LINE 337: while they are engaged in their task."
+LINE 338: "For all that," answered the traveller, "I feel some doubt still,
+LINE 339: because often I have read how words will arise between two
+LINE 340: knights-errant, and from one thing to another it comes about that their
+LINE 341: anger kindles and they wheel their horses round and take a good stretch
+LINE 342: of field, and then without any more ado at the top of their speed they
+LINE 343: come to the charge, and in mid-career they are wont to commend
+LINE 344: themselves to their ladies; and what commonly comes of the encounter is
+LINE 345: that one falls over the haunches of his horse pierced through and
+LINE 346: through by his antagonist's lance, and as for the other, it is only by
+LINE 347: holding on to the mane of his horse that he can help falling to the
+LINE 348: ground; but I know not how the dead man had time to commend himself to
+LINE 349: God in the course of such rapid work as this; it would have been better
+LINE 350: if those words which he spent in commending himself to his lady in the
+LINE 351: midst of his career had been devoted to his duty and obligation as a
+LINE 352: Christian. Moreover, it is my belief that all knights-errant have not
+LINE 353: ladies to commend themselves to, for they are not all in love."
+LINE 354: "That is impossible," said Don Quixote: "I say it is impossible that
+LINE 355: there could be a knight-errant without a lady, because to such it is as
+LINE 356: natural and proper to be in love as to the heavens to have stars: most
+LINE 357: certainly no history has been seen in which there is to be found a
+LINE 358: knight-errant without an amour, and for the simple reason that without
+LINE 359: one he would be held no legitimate knight but a bastard, and one who
+LINE 360: had gained entrance into the stronghold of the said knighthood, not by
+LINE 361: the door, but over the wall like a thief and a robber."
+LINE 362: "Nevertheless," said the traveller, "if I remember rightly, I think I
+LINE 363: have read that Don Galaor, the brother of the valiant Amadis of Gaul,
+LINE 364: never had any special lady to whom he might commend himself, and yet he
+LINE 365: was not the less esteemed, and was a very stout and famous knight."
+LINE 366: To which our Don Quixote made answer, "Sir, one solitary swallow does
+LINE 367: not make summer; moreover, I know that knight was in secret very deeply
+LINE 368: in love; besides which, that way of falling in love with all that took
+LINE 369: his fancy was a natural propensity which he could not control. But, in
+LINE 370: short, it is very manifest that he had one alone whom he made mistress
+LINE 371: of his will, to whom he commended himself very frequently and very
+LINE 372: secretly, for he prided himself on being a reticent knight."
+LINE 373: "Then if it be essential that every knight-errant should be in love,"
+LINE 374: said the traveller, "it may be fairly supposed that your worship is so,
+LINE 375: as you are of the order; and if you do not pride yourself on being as
+LINE 376: reticent as Don Galaor, I entreat you as earnestly as I can, in the
+LINE 377: name of all this company and in my own, to inform us of the name,
+LINE 378: country, rank, and beauty of your lady, for she will esteem herself
+LINE 379: fortunate if all the world knows that she is loved and served by such a
+LINE 380: knight as your worship seems to be."
+LINE 381: At this Don Quixote heaved a deep sigh and said, "I cannot say
+LINE 382: positively whether my sweet enemy is pleased or not that the world
+LINE 383: should know I serve her; I can only say in answer to what has been so
+LINE 384: courteously asked of me, that her name is Dulcinea, her country El
+LINE 385: Toboso, a village of La Mancha, her rank must be at least that of a
+LINE 386: princess, since she is my queen and lady, and her beauty superhuman,
+LINE 387: since all the impossible and fanciful attributes of beauty which the
+LINE 388: poets apply to their ladies are verified in her; for her hairs are
+LINE 389: gold, her forehead Elysian fields, her eyebrows rainbows, her eyes
+LINE 390: suns, her cheeks roses, her lips coral, her teeth pearls, her neck
+LINE 391: alabaster, her bosom marble, her hands ivory, her fairness snow, and
+LINE 392: what modesty conceals from sight such, I think and imagine, as rational
+LINE 393: reflection can only extol, not compare."
+LINE 394: "We should like to know her lineage, race, and ancestry," said Vivaldo.
+LINE 395: To which Don Quixote replied, "She is not of the ancient Roman Curtii,
+LINE 396: Caii, or Scipios, nor of the modern Colonnas or Orsini, nor of the
+LINE 397: Moncadas or Requesenes of Catalonia, nor yet of the Rebellas or
+LINE 398: Villanovas of Valencia; Palafoxes, Nuzas, Rocabertis, Corellas, Lunas,
+LINE 399: Alagones, Urreas, Foces, or Gurreas of Aragon; Cerdas, Manriques,
+LINE 400: Mendozas, or Guzmans of Castile; Alencastros, Pallas, or Meneses of
+LINE 401: Portugal; but she is of those of El Toboso of La Mancha, a lineage that
+LINE 402: though modern, may furnish a source of gentle blood for the most
+LINE 403: illustrious families of the ages that are to come, and this let none
+LINE 404: dispute with me save on the condition that Zerbino placed at the foot
+LINE 405: of the trophy of Orlando's arms, saying,
+LINE 406: These let none move
+LINE 407: Who dareth not his might with Roland prove."
+LINE 408: "Although mine is of the Cachopins of Laredo," said the traveller, "I
+LINE 409: will not venture to compare it with that of El Toboso of La Mancha,
+LINE 410: though, to tell the truth, no such surname has until now ever reached
+LINE 411: my ears."
+LINE 412: "What!" said Don Quixote, "has that never reached them?"
+LINE 413: The rest of the party went along listening with great attention to the
+LINE 414: conversation of the pair, and even the very goatherds and shepherds
+LINE 415: perceived how exceedingly out of his wits our Don Quixote was. Sancho
+LINE 416: Panza alone thought that what his master said was the truth, knowing
+LINE 417: who he was and having known him from his birth; and all that he felt
+LINE 418: any difficulty in believing was that about the fair Dulcinea del
+LINE 419: Toboso, because neither any such name nor any such princess had ever
+LINE 420: come to his knowledge though he lived so close to El Toboso. They were
+LINE 421: going along conversing in this way, when they saw descending a gap
+LINE 422: between two high mountains some twenty shepherds, all clad in
+LINE 423: sheepskins of black wool, and crowned with garlands which, as
+LINE 424: afterwards appeared, were, some of them of yew, some of cypress. Six of
+LINE 425: the number were carrying a bier covered with a great variety of flowers
+LINE 426: and branches, on seeing which one of the goatherds said, "Those who
+LINE 427: come there are the bearers of Chrysostom's body, and the foot of that
+LINE 428: mountain is the place where he ordered them to bury him." They
+LINE 429: therefore made haste to reach the spot, and did so by the time those
+LINE 430: who came had laid the bier upon the ground, and four of them with sharp
+LINE 431: pickaxes were digging a grave by the side of a hard rock. They greeted
+LINE 432: each other courteously, and then Don Quixote and those who accompanied
+LINE 433: him turned to examine the bier, and on it, covered with flowers, they
+LINE 434: saw a dead body in the dress of a shepherd, to all appearance of one
+LINE 435: thirty years of age, and showing even in death that in life he had been
+LINE 436: of comely features and gallant bearing. Around him on the bier itself
+LINE 437: were laid some books, and several papers open and folded; and those who
+LINE 438: were looking on as well as those who were opening the grave and all the
+LINE 439: others who were there preserved a strange silence, until one of those
+LINE 440: who had borne the body said to another, "Observe carefully, Ambrosio if
+LINE 441: this is the place Chrysostom spoke of, since you are anxious that what
+LINE 442: he directed in his will should be so strictly complied with."
+LINE 443: "This is the place," answered Ambrosio "for in it many a time did my
+LINE 444: poor friend tell me the story of his hard fortune. Here it was, he told
+LINE 445: me, that he saw for the first time that mortal enemy of the human race,
+LINE 446: and here, too, for the first time he declared to her his passion, as
+LINE 447: honourable as it was devoted, and here it was that at last Marcela
+LINE 448: ended by scorning and rejecting him so as to bring the tragedy of his
+LINE 449: wretched life to a close; here, in memory of misfortunes so great, he
+LINE 450: desired to be laid in the bowels of eternal oblivion." Then turning to
+LINE 451: Don Quixote and the travellers he went on to say, "That body, sirs, on
+LINE 452: which you are looking with compassionate eyes, was the abode of a soul
+LINE 453: on which Heaven bestowed a vast share of its riches. That is the body
+LINE 454: of Chrysostom, who was unrivalled in wit, unequalled in courtesy,
+LINE 455: unapproached in gentle bearing, a phœnix in friendship, generous
+LINE 456: without limit, grave without arrogance, gay without vulgarity, and, in
+LINE 457: short, first in all that constitutes goodness and second to none in all
+LINE 458: that makes up misfortune. He loved deeply, he was hated; he adored, he
+LINE 459: was scorned; he wooed a wild beast, he pleaded with marble, he pursued
+LINE 460: the wind, he cried to the wilderness, he served ingratitude, and for
+LINE 461: reward was made the prey of death in the mid-course of life, cut short
+LINE 462: by a shepherdess whom he sought to immortalise in the memory of man, as
+LINE 463: these papers which you see could fully prove, had he not commanded me
+LINE 464: to consign them to the fire after having consigned his body to the
+LINE 465: earth."
+LINE 466: "You would deal with them more harshly and cruelly than their owner
+LINE 467: himself," said Vivaldo, "for it is neither right nor proper to do the
+LINE 468: will of one who enjoins what is wholly unreasonable; it would not have
+LINE 469: been reasonable in Augustus Cæsar had he permitted the directions left
+LINE 470: by the divine Mantuan in his will to be carried into effect. So that,
+LINE 471: Señor Ambrosio while you consign your friend's body to the earth, you
+LINE 472: should not consign his writings to oblivion, for if he gave the order
+LINE 473: in bitterness of heart, it is not right that you should irrationally
+LINE 474: obey it. On the contrary, by granting life to those papers, let the
+LINE 475: cruelty of Marcela live for ever, to serve as a warning in ages to come
+LINE 476: to all men to shun and avoid falling into like danger; or I and all of
+LINE 477: us who have come here know already the story of this your love-stricken
+LINE 478: and heart-broken friend, and we know, too, your friendship, and the
+LINE 479: cause of his death, and the directions he gave at the close of his
+LINE 480: life; from which sad story may be gathered how great was the cruelty of
+LINE 481: Marcela, the love of Chrysostom, and the loyalty of your friendship,
+LINE 482: together with the end awaiting those who pursue rashly the path that
+LINE 483: insane passion opens to their eyes. Last night we learned the death of
+LINE 484: Chrysostom and that he was to be buried here, and out of curiosity and
+LINE 485: pity we left our direct road and resolved to come and see with our eyes
+LINE 486: that which when heard of had so moved our compassion, and in
+LINE 487: consideration of that compassion and our desire to prove it if we might
+LINE 488: by condolence, we beg of you, excellent Ambrosio, or at least I on my
+LINE 489: own account entreat you, that instead of burning those papers you allow
+LINE 490: me to carry away some of them."
+LINE 491: And without waiting for the shepherd's answer, he stretched out his
+LINE 492: hand and took up some of those that were nearest to him; seeing which
+LINE 493: Ambrosio said, "Out of courtesy, señor, I will grant your request as to
+LINE 494: those you have taken, but it is idle to expect me to abstain from
+LINE 495: burning the remainder."
+LINE 496: Vivaldo, who was eager to see what the papers contained, opened one of
+LINE 497: them at once, and saw that its title was "Lay of Despair."
+LINE 498: Ambrosio hearing it said, "That is the last paper the unhappy man
+LINE 499: wrote; and that you may see, señor, to what an end his misfortunes
+LINE 500: brought him, read it so that you may be heard, for you will have time
+LINE 501: enough for that while we are waiting for the grave to be dug."
+LINE 502: "I will do so very willingly," said Vivaldo; and as all the bystanders
+LINE 503: were equally eager they gathered round him, and he, reading in a loud
+LINE 504: voice, found that it ran as follows.
+LINE 505: c13e.jpg (15K)
