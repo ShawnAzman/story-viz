@@ -1,0 +1,186 @@
+LINE 1: The gray-haired valet was sitting drowsily listening to the snoring of
+LINE 2: the prince, who was in his large study. From the far side of the house
+LINE 3: through the closed doors came the sound of difficult passages—twenty
+LINE 4: times repeated—of a sonata by Dussek.
+LINE 5: Just then a closed carriage and another with a hood drove up to the
+LINE 6: porch. Prince Andrew got out of the carriage, helped his little wife to
+LINE 7: alight, and let her pass into the house before him. Old Tíkhon, wearing
+LINE 8: a wig, put his head out of the door of the antechamber, reported in
+LINE 9: a whisper that the prince was sleeping, and hastily closed the door.
+LINE 10: Tíkhon knew that neither the son's arrival nor any other unusual
+LINE 11: event must be allowed to disturb the appointed order of the day. Prince
+LINE 12: Andrew apparently knew this as well as Tíkhon; he looked at his watch
+LINE 13: as if to ascertain whether his father's habits had changed since he
+LINE 14: was at home last, and, having assured himself that they had not, he
+LINE 15: turned to his wife.
+LINE 16: "He will get up in twenty minutes. Let us go across to Mary's
+LINE 17: room," he said.
+LINE 18: The little princess had grown stouter during this time, but her eyes
+LINE 19: and her short, downy, smiling lip lifted when she began to speak just as
+LINE 20: merrily and prettily as ever.
+LINE 21: "Why, this is a palace!" she said to her husband, looking around
+LINE 22: with the expression with which people compliment their host at a ball.
+LINE 23: "Let's come, quick, quick!" And with a glance round, she smiled at
+LINE 24: Tíkhon, at her husband, and at the footman who accompanied them.
+LINE 25: "Is that Mary practicing? Let's go quietly and take her by
+LINE 26: surprise."
+LINE 27: Prince Andrew followed her with a courteous but sad expression.
+LINE 28: "You've grown older, Tíkhon," he said in passing to the old man,
+LINE 29: who kissed his hand.
+LINE 30: Before they reached the room from which the sounds of the clavichord
+LINE 31: came, the pretty, fair-haired Frenchwoman, Mademoiselle Bourienne,
+LINE 32: rushed out apparently beside herself with delight.
+LINE 33: "Ah! what joy for the princess!" exclaimed she: "At last! I must
+LINE 34: let her know."
+LINE 35: "No, no, please not... You are Mademoiselle Bourienne," said
+LINE 36: the little princess, kissing her. "I know you already through my
+LINE 37: sister-in-law's friendship for you. She was not expecting us?"
+LINE 38: They went up to the door of the sitting room from which came the sound
+LINE 39: of the oft-repeated passage of the sonata. Prince Andrew stopped and
+LINE 40: made a grimace, as if expecting something unpleasant.
+LINE 41: The little princess entered the room. The passage broke off in the
+LINE 42: middle, a cry was heard, then Princess Mary's heavy tread and the
+LINE 43: sound of kissing. When Prince Andrew went in the two princesses, who
+LINE 44: had only met once before for a short time at his wedding, were in
+LINE 45: each other's arms warmly pressing their lips to whatever place they
+LINE 46: happened to touch. Mademoiselle Bourienne stood near them pressing her
+LINE 47: hand to her heart, with a beatific smile and obviously equally ready to
+LINE 48: cry or to laugh. Prince Andrew shrugged his shoulders and frowned, as
+LINE 49: lovers of music do when they hear a false note. The two women let go
+LINE 50: of one another, and then, as if afraid of being too late, seized each
+LINE 51: other's hands, kissing them and pulling them away, and again began
+LINE 52: kissing each other on the face, and then to Prince Andrew's surprise
+LINE 53: both began to cry and kissed again. Mademoiselle Bourienne also began to
+LINE 54: cry. Prince Andrew evidently felt ill at ease, but to the two women
+LINE 55: it seemed quite natural that they should cry, and apparently it never
+LINE 56: entered their heads that it could have been otherwise at this meeting.
+LINE 57: "Ah! my dear!... Ah! Mary!..." they suddenly exclaimed, and then
+LINE 58: laughed. "I dreamed last night..."—"You were not expecting
+LINE 59: us?..." "Ah! Mary, you have got thinner?..." "And you have grown
+LINE 60: stouter!..."
+LINE 61: "I knew the princess at once," put in Mademoiselle Bourienne.
+LINE 62: "And I had no idea!..." exclaimed Princess Mary. "Ah, Andrew, I
+LINE 63: did not see you."
+LINE 64: Prince Andrew and his sister, hand in hand, kissed one another, and
+LINE 65: he told her she was still the same crybaby as ever. Princess Mary had
+LINE 66: turned toward her brother, and through her tears the loving, warm,
+LINE 67: gentle look of her large luminous eyes, very beautiful at that moment,
+LINE 68: rested on Prince Andrew's face.
+LINE 69: The little princess talked incessantly, her short, downy upper lip
+LINE 70: continually and rapidly touching her rosy nether lip when necessary
+LINE 71: and drawing up again next moment when her face broke into a smile of
+LINE 72: glittering teeth and sparkling eyes. She told of an accident they had
+LINE 73: had on the Spásski Hill which might have been serious for her in her
+LINE 74: condition, and immediately after that informed them that she had left
+LINE 75: all her clothes in Petersburg and that heaven knew what she would have
+LINE 76: to dress in here; and that Andrew had quite changed, and that Kitty
+LINE 77: Odýntsova had married an old man, and that there was a suitor for Mary,
+LINE 78: a real one, but that they would talk of that later. Princess Mary was
+LINE 79: still looking silently at her brother and her beautiful eyes were full
+LINE 80: of love and sadness. It was plain that she was following a train of
+LINE 81: thought independent of her sister-in-law's words. In the midst of a
+LINE 82: description of the last Petersburg fete she addressed her brother:
+LINE 83: "So you are really going to the war, Andrew?" she said sighing.
+LINE 84: Lise sighed too.
+LINE 85: "Yes, and even tomorrow," replied her brother.
+LINE 86: "He is leaving me here, God knows why, when he might have had
+LINE 87: promotion..."
+LINE 88: Princess Mary did not listen to the end, but continuing her train of
+LINE 89: thought turned to her sister-in-law with a tender glance at her figure.
+LINE 90: "Is it certain?" she said.
+LINE 91: The face of the little princess changed. She sighed and said: "Yes,
+LINE 92: quite certain. Ah! it is very dreadful..."
+LINE 93: Her lip descended. She brought her face close to her sister-in-law's
+LINE 94: and unexpectedly again began to cry.
+LINE 95: "She needs rest," said Prince Andrew with a frown. "Don't you,
+LINE 96: Lise? Take her to your room and I'll go to Father. How is he? Just the
+LINE 97: same?"
+LINE 98: "Yes, just the same. Though I don't know what your opinion will
+LINE 99: be," answered the princess joyfully.
+LINE 100: "And are the hours the same? And the walks in the avenues? And the
+LINE 101: lathe?" asked Prince Andrew with a scarcely perceptible smile which
+LINE 102: showed that, in spite of all his love and respect for his father, he was
+LINE 103: aware of his weaknesses.
+LINE 104: "The hours are the same, and the lathe, and also the mathematics and
+LINE 105: my geometry lessons," said Princess Mary gleefully, as if her lessons
+LINE 106: in geometry were among the greatest delights of her life.
+LINE 107: When the twenty minutes had elapsed and the time had come for the old
+LINE 108: prince to get up, Tíkhon came to call the young prince to his father.
+LINE 109: The old man made a departure from his usual routine in honor of his
+LINE 110: son's arrival: he gave orders to admit him to his apartments while
+LINE 111: he dressed for dinner. The old prince always dressed in old-fashioned
+LINE 112: style, wearing an antique coat and powdered hair; and when Prince Andrew
+LINE 113: entered his father's dressing room (not with the contemptuous look and
+LINE 114: manner he wore in drawing rooms, but with the animated face with which
+LINE 115: he talked to Pierre), the old man was sitting on a large leather-covered
+LINE 116: chair, wrapped in a powdering mantle, entrusting his head to Tíkhon.
+LINE 117: "Ah! here's the warrior! Wants to vanquish Buonaparte?" said the
+LINE 118: old man, shaking his powdered head as much as the tail, which Tíkhon
+LINE 119: was holding fast to plait, would allow.
+LINE 120: "You at least must tackle him properly, or else if he goes on like
+LINE 121: this he'll soon have us, too, for his subjects! How are you?" And he
+LINE 122: held out his cheek.
+LINE 123: The old man was in a good temper after his nap before dinner. (He
+LINE 124: used to say that a nap "after dinner was silver—before dinner,
+LINE 125: golden.") He cast happy, sidelong glances at his son from under his
+LINE 126: thick, bushy eyebrows. Prince Andrew went up and kissed his father on
+LINE 127: the spot indicated to him. He made no reply on his father's favorite
+LINE 128: topic—making fun of the military men of the day, and more particularly
+LINE 129: of Bonaparte.
+LINE 130: "Yes, Father, I have come to you and brought my wife who is
+LINE 131: pregnant," said Prince Andrew, following every movement of his
+LINE 132: father's face with an eager and respectful look. "How is your
+LINE 133: health?"
+LINE 134: "Only fools and rakes fall ill, my boy. You know me: I am busy from
+LINE 135: morning till night and abstemious, so of course I am well."
+LINE 136: "Thank God," said his son smiling.
+LINE 137: "God has nothing to do with it! Well, go on," he continued,
+LINE 138: returning to his hobby; "tell me how the Germans have taught you to
+LINE 139: fight Bonaparte by this new science you call 'strategy.'"
+LINE 140: Prince Andrew smiled.
+LINE 141: "Give me time to collect my wits, Father," said he, with a smile
+LINE 142: that showed that his father's foibles did not prevent his son from
+LINE 143: loving and honoring him. "Why, I have not yet had time to settle
+LINE 144: down!"
+LINE 145: "Nonsense, nonsense!" cried the old man, shaking his pigtail to
+LINE 146: see whether it was firmly plaited, and grasping his by the hand. "The
+LINE 147: house for your wife is ready. Princess Mary will take her there and
+LINE 148: show her over, and they'll talk nineteen to the dozen. That's
+LINE 149: their woman's way! I am glad to have her. Sit down and talk. About
+LINE 150: Mikhelson's army I understand—Tolstóy's too... a simultaneous
+LINE 151: expedition.... But what's the southern army to do? Prussia is
+LINE 152: neutral... I know that. What about Austria?" said he, rising from his
+LINE 153: chair and pacing up and down the room followed by Tíkhon, who ran after
+LINE 154: him, handing him different articles of clothing. "What of Sweden? How
+LINE 155: will they cross Pomerania?"
+LINE 156: Prince Andrew, seeing that his father insisted, began—at first
+LINE 157: reluctantly, but gradually with more and more animation, and from habit
+LINE 158: changing unconsciously from Russian to French as he went on—to explain
+LINE 159: the plan of operation for the coming campaign. He explained how an army,
+LINE 160: ninety thousand strong, was to threaten Prussia so as to bring her out
+LINE 161: of her neutrality and draw her into the war; how part of that army was
+LINE 162: to join some Swedish forces at Stralsund; how two hundred and twenty
+LINE 163: thousand Austrians, with a hundred thousand Russians, were to operate in
+LINE 164: Italy and on the Rhine; how fifty thousand Russians and as many English
+LINE 165: were to land at Naples, and how a total force of five hundred thousand
+LINE 166: men was to attack the French from different sides. The old prince did
+LINE 167: not evince the least interest during this explanation, but as if he were
+LINE 168: not listening to it continued to dress while walking about, and three
+LINE 169: times unexpectedly interrupted. Once he stopped it by shouting: "The
+LINE 170: white one, the white one!"
+LINE 171: This meant that Tíkhon was not handing him the waistcoat he wanted.
+LINE 172: Another time he interrupted, saying:
+LINE 173: "And will she soon be confined?" and shaking his head reproachfully
+LINE 174: said: "That's bad! Go on, go on."
+LINE 175: The third interruption came when Prince Andrew was finishing his
+LINE 176: description. The old man began to sing, in the cracked voice of old age:
+LINE 177: "Malbrook s'en va-t-en guerre. Dieu sait quand reviendra." *
+LINE 178: * "Marlborough is going to the wars; God knows when he'll
+LINE 179: return."
+LINE 180: His son only smiled.
+LINE 181: "I don't say it's a plan I approve of," said the son; "I am
+LINE 182: only telling you what it is. Napoleon has also formed his plan by now,
+LINE 183: not worse than this one."
+LINE 184: "Well, you've told me nothing new," and the old man repeated,
+LINE 185: meditatively and rapidly:
+LINE 186: "Dieu sait quand reviendra. Go to the dining room."

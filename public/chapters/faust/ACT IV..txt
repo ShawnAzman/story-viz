@@ -1,0 +1,1107 @@
+LINE 1: Scene I.
+LINE 2: /Martha's/ _Garden._
+LINE 3: /Margaret/ _on_ /Faust's/ _arm;_ /Martha/ _with_ /Mephistopheles/,
+LINE 4: _walking up and down._
+LINE 5: Margaret.
+LINE 6: I feel it well, 'tis from pure condescension
+LINE 7: You pay to one like me so much attention.
+LINE 8: With travellers 'tis a thing of course,
+LINE 9: To be contented with the best they find;
+LINE 10: For sure a man of cultivated mind
+LINE 11: Can have small pleasure in my poor discourse.
+LINE 12: Faust.
+LINE 13: One look from thee, one word, delights me more
+LINE 14: Than all the world's high-vaunted lore.
+LINE 15: [_He kisses her hand._
+LINE 16: Margaret.
+LINE 17: O trouble not yourself! how could you kiss it so?
+LINE 18: It is so coarse, so rough! for I must go
+LINE 19: Through all the work above stairs and below,
+LINE 20: Mother will have it so.
+LINE 21: [_They pass on._
+LINE 22: Martha.
+LINE 23: And you, sir, will it still
+LINE 24: Be your delight from place to place to roam?
+LINE 25: Mephistopheles.
+LINE 26: In this our duty guides us, not our will.
+LINE 27: With what sad hearts from many a place we go,
+LINE 28: Where we had almost learned to be at home!
+LINE 29: Martha.
+LINE 30: When one is young it seems a harmless gambol,
+LINE 31: Thus round and round through the wide world to ramble:
+LINE 32: But soon the evil day comes on,
+LINE 33: And as a stiff old bachelor to die
+LINE 34: Has never yet done good to any one.
+LINE 35: Mephistopheles.
+LINE 36: I see ahead, and fear such wretched fate.
+LINE 37: Martha.
+LINE 38: Then, sir, take warning ere it be too late!
+LINE 39: [_They pass on._
+LINE 40: Margaret.
+LINE 41: Yes, out of sight, and out of mind!
+LINE 42: You see me now, and are so kind:
+LINE 43: But you have friends at home of station high,
+LINE 44: With far more wit and far more sense than I.
+LINE 45: Faust.
+LINE 46: Their sense, dear girl, is often nothing more
+LINE 47: Than vain conceit of vain short-sighted lore.
+LINE 48: Margaret.
+LINE 49: How mean you that?
+LINE 50: Faust.
+LINE 51: Oh that the innocent heart
+LINE 52: And sweet simplicity, unspoiled by art,
+LINE 53: So seldom knows its own rare quality!
+LINE 54: That fair humility, the comeliest grace
+LINE 55: Which bounteous Nature sheds on blooming face--
+LINE 56: Margaret.
+LINE 57: Do thou bestow a moment's thought on me,
+LINE 58: I shall have time enough to think of thee.
+LINE 59: Faust.
+LINE 60: You are then much alone?
+LINE 61: Margaret.
+LINE 62: Our household is but small, I own,
+LINE 63: And yet must be attended to.
+LINE 64: We keep no maid; I have the whole to do,
+LINE 65: Must wash and brush, and sew and knit,
+LINE 66: And cook, and early run and late;
+LINE 67: And then my mother is, in every whit,
+LINE 68: So accurate!
+LINE 69: Not that she needs to pinch her household; we
+LINE 70: Might do much more than many others do:
+LINE 71: My father left a goodly sum, quite free
+LINE 72: From debt, with a neat house and garden too,
+LINE 73: Close by the town, just as you pass the gate;
+LINE 74: But we have lived retired enough of late.
+LINE 75: My brother is a soldier: he
+LINE 76: Is at the wars: my little sister's dead:
+LINE 77: Poor thing! it caused me many an hour of pain
+LINE 78: To see it pine, and droop its little head,
+LINE 79: But gladly would I suffer all again,
+LINE 80: So much I loved the child!
+LINE 81: Faust.
+LINE 82: An angel, if like thee!
+LINE 83: Margaret.
+LINE 84: I nursed it, and it loved me heartily.
+LINE 85: My father died before it saw the light,
+LINE 86: My mother was despaired of quite,
+LINE 87: So miserably weak she lay.
+LINE 88: Yet she recovered slowly, day by day;
+LINE 89: And as she had not strength herself
+LINE 90: To suckle the poor helpless elf,
+LINE 91: She gave't in charge to me, and I
+LINE 92: With milk and water nursed it carefully.
+LINE 93: Thus in my arm, and on my lap, it grew,
+LINE 94: And smiled and crowed, and flung its legs about,
+LINE 95: And called me mother too.
+LINE 96: Faust.
+LINE 97: To thy pure heart the purest joy, no doubt.
+LINE 98: Margaret.
+LINE 99: Ay! but full many an hour
+LINE 100: Heavy with sorrow, and with labor sour.
+LINE 101: The infant's cradle stood beside
+LINE 102: My bed, and when it stirred or cried,
+LINE 103: I must awake;
+LINE 104: Sometimes to give it drink, sometimes to take
+LINE 105: It with me to my bed, and fondle it:
+LINE 106: And when all this its fretting might not stay,
+LINE 107: I rose, and danced about, and dandled it;
+LINE 108: And after that I must away
+LINE 109: To wash the clothes by break of day.
+LINE 110: I make the markets too, and keep house for my mother,
+LINE 111: One weary day just like another;
+LINE 112: Thus drudging on, the day might lack delights,
+LINE 113: But food went lightly down, and sleep was sweet o' nights.
+LINE 114: [_They pass on._
+LINE 115: Martha.
+LINE 116: A woman's case is not much to be vaunted;
+LINE 117: A hardened bachelor is hard to mend.
+LINE 118: Mephistopheles.
+LINE 119: A few apostles such as you were wanted,
+LINE 120: From evil ways their vagrant steps to bend.
+LINE 121: Martha.
+LINE 122: Speak plainly, sir, have you found nothing yet?
+LINE 123: Are you quite disentangled from the net?
+LINE 124: Mephistopheles.
+LINE 125: A house and hearth, we have been often told,
+LINE 126: With a good wife, is worth its weight in gold.
+LINE 127: Martha.
+LINE 128: I mean, sir, have you never felt the want?
+LINE 129: Mephistopheles.
+LINE 130: A good reception I have always found.
+LINE 131: Martha.
+LINE 132: I mean to say, did your heart never pant?
+LINE 133: Mephistopheles.
+LINE 134: For ladies my respect is too profound
+LINE 135: To jest on such a serious theme as this.
+LINE 136: Martha.
+LINE 137: My meaning still you strangely miss!
+LINE 138: Mephistopheles.
+LINE 139: Alas, that I should be so blind!
+LINE 140: One thing I plainly see, that you are very kind!
+LINE 141: [_They pass on._
+LINE 142: Faust.
+LINE 143: You knew me, then, you little angel! straight,
+LINE 144: When you beheld me at the garden-gate?
+LINE 145: Margaret.
+LINE 146: Marked you it not?--You saw my downward look.
+LINE 147: Faust.
+LINE 148: And you forgive the liberty I took,
+LINE 149: When from the minster you came out that day,
+LINE 150: And I, with forward boldness more than meet,
+LINE 151: Then ventured to address you on the street?
+LINE 152: Margaret.
+LINE 153: I was surprised, I knew not what to say;
+LINE 154: No one could speak an evil word of me.
+LINE 155: Did he, perchance, in my comportment see
+LINE 156: Aught careless or improper on that day,
+LINE 157: That he should take me for a worthless girl,
+LINE 158: Whom round his little finger he might twirl?
+LINE 159: Not yet the favorable thoughts I knew,
+LINE 160: That even then were rising _here_ for you;
+LINE 161: One thing I know, myself I sharply chid,
+LINE 162: That I could treat you then no harshlier than I did.
+LINE 163: Faust.
+LINE 164: Sweet love!
+LINE 165: Margaret.
+LINE 166: Let go!
+LINE 167: [_She plucks a star-flower, and pulls the petals off one after
+LINE 168: another._
+LINE 169: Faust.
+LINE 170: What's that? a nosegay? let me see!
+LINE 171: Margaret.
+LINE 172: 'Tis but a game.
+LINE 173: Faust.
+LINE 174: How so?
+LINE 175: Margaret.
+LINE 176: Go! you would laugh at me.
+LINE 177: [_She continues pulling the petals, and murmuring to herself._
+LINE 178: Faust.
+LINE 179: What are you murmuring now, so sweetly low?
+LINE 180: Margaret. [_half loud_]
+LINE 181: He loves me, yes!--he loves me, no!
+LINE 182: Faust.
+LINE 183: Thou sweet angelic face!
+LINE 184: Margaret. [_murmuring as before_]
+LINE 185: He loves me, yes!--he loves me, no!
+LINE 186: [_Pulling out the last petal with manifest delight._]
+LINE 187: He loves me, yes!
+LINE 188: Faust.
+LINE 189: Yes, child! the fair flower-star hath answered /Yes/!
+LINE 190: In this the judgment of the gods approves thee;
+LINE 191: He loves thee! know'st thou what it means?--He loves thee!
+LINE 192: [_He seizes her by both hands._
+LINE 193: Margaret.
+LINE 194: I scarce can speak for joy!
+LINE 195: Faust.
+LINE 196: Fear thee not, love! But let this look proclaim,
+LINE 197: This pressure of my hand declare
+LINE 198: What words can never name:
+LINE 199: To yield us to an ecstacy of joy,
+LINE 200: And feel this tranceful bliss must be
+LINE 201: Eternal! yes! its end would be despair!
+LINE 202: It hath no end! no end for thee and me!
+LINE 203: [/Margaret/ _presses his hands, makes herself free, and runs away.
+LINE 204: He stands still for a moment thoughtfully, then follows her._
+LINE 205: Martha. [_coming up_]
+LINE 206: 'Tis getting late.
+LINE 207: Mephistopheles.
+LINE 208: Yes, and we must away.
+LINE 209: Martha.
+LINE 210: I fain would have you stay;
+LINE 211: But 'tis an evil neighborhood,
+LINE 212: Where idle gossips find their only good,
+LINE 213: Their pleasure and their business too,
+LINE 214: In spying out all that their neighbors do.
+LINE 215: And thus, the whole town in a moment knows
+LINE 216: The veriest trifle. But where is our young pair?
+LINE 217: Mephistopheles.
+LINE 218: Like wanton birds of summer, through the air
+LINE 219: I saw them dart away.
+LINE 220: Martha.
+LINE 221: He seems well pleased with her.
+LINE 222: Mephistopheles.
+LINE 223: And she with him. 'Tis thus the world goes.
+LINE 224: Scene II.
+LINE 225: _A Summer-house in the Garden._
+LINE 226: [/Margaret/ _comes springing in, and hides herself behind the door.
+LINE 227: She places the point of her finger on her lips, and looks through a
+LINE 228: rent._
+LINE 229: Margaret.
+LINE 230: He comes!
+LINE 231: Faust. [_coming up_]
+LINE 232: Ha! ha! thou cunning soul, and thou
+LINE 233: Would'st trick me thus; but I have caught thee now!
+LINE 234: [_He kisses her._
+LINE 235: Margaret. [_clasping him and returning the kiss_]
+LINE 236: Thou best of men, with my whole heart I love thee!
+LINE 237: [/Mephistopheles/ _heard knocking._
+LINE 238: Faust. [_stamping_]
+LINE 239: Who's there?
+LINE 240: Mephistopheles.
+LINE 241: A friend!
+LINE 242: Faust.
+LINE 243: A beast!
+LINE 244: Mephistopheles.
+LINE 245: 'Tis time now to remove thee.
+LINE 246: Martha. [_coming up_]
+LINE 247: Yes, sir, 'tis getting late.
+LINE 248: Faust.
+LINE 249: May I not take you home?
+LINE 250: Margaret.
+LINE 251: My mother would--farewell!
+LINE 252: Faust.
+LINE 253: And must I leave you then?
+LINE 254: Farewell!
+LINE 255: Martha.
+LINE 256: Adieu!
+LINE 257: Margaret.
+LINE 258: Right soon to meet again!
+LINE 259: [_Exeunt_ /Faust/ _and_ /Mephistopheles/.
+LINE 260: Margaret. [_alone_]
+LINE 261: Dear God! what such a man as this
+LINE 262: Can think on all and everything!
+LINE 263: I stand ashamed, and simple _yes_
+LINE 264: Is the one answer I can bring.
+LINE 265: I wonder what a man, so learned as he,
+LINE 266: Can find in a poor simple girl like me. [_Exit._
+LINE 267: Scene III.
+LINE 268: _Wood and Cavern._
+LINE 269: Faust. [_alone_]
+LINE 270: Spirit Supreme! thou gav'st me--gav'st me all,
+LINE 271: For which I asked thee. Not in vain hast thou
+LINE 272: Turned toward me thy countenance in fire.
+LINE 273: Thou gavest me wide Nature for my kingdom,
+LINE 274: And power to feel it, to enjoy it. Not
+LINE 275: Cold gaze of wonder gav'st thou me alone,
+LINE 276: But even into her bosom's depth to look,
+LINE 277: As it might be the bosom of a friend.
+LINE 278: The grand array of living things thou mad'st
+LINE 279: To pass before me, mad'st me know my brothers
+LINE 280: In silent bush, in water, and in air.
+LINE 281: And when the straining storm loud roars, and raves
+LINE 282: Through the dark forest, and the giant pine,
+LINE 283: Root-wrenched, tears all the neighboring branches down
+LINE 284: And neighboring stems, and strews the ground with wreck,
+LINE 285: And to their fall the hollow mountain thunders;
+LINE 286: Then dost thou guide me to the cave, where safe
+LINE 287: I learn to know myself, and from my breast
+LINE 288: Deep and mysterious wonders are unfolded.
+LINE 289: Then mounts the pure white moon before mine eye
+LINE 290: With mellow ray, and in her softening light,
+LINE 291: From rocky wall, from humid brake, upfloat
+LINE 292: The silvery shapes of times by-gone, and soothe
+LINE 293: The painful pleasure of deep-brooding thought.
+LINE 294: Alas! that man enjoys no perfect bliss,
+LINE 295: I feel it now. Thou gav'st me with this joy,
+LINE 296: Which brings me near and nearer to the gods,
+LINE 297: A fellow, whom I cannot do without.
+LINE 298: All cold and heartless, he debases me
+LINE 299: Before myself, and, with a single breath,
+LINE 300: Blows all the bounties of thy love to nought;
+LINE 301: And fans within my breast a raging fire
+LINE 302: For that fair image, busy to do ill.
+LINE 303: Thus reel I from desire on to enjoyment,
+LINE 304: And in enjoyment languish for desire.
+LINE 305: _Enter_ /Mephistopheles/.
+LINE 306: Mephistopheles.
+LINE 307: What! not yet tired of meditation?
+LINE 308: Methinks this is a sorry recreation.
+LINE 309: To try it once or twice might do;
+LINE 310: But then, again to something new.
+LINE 311: Faust.
+LINE 312: You might employ your time some better way
+LINE 313: Than thus to plague me on a happy day.
+LINE 314: Mephistopheles.
+LINE 315: Well, well! I do not grudge you quiet,
+LINE 316: You need my aid, and you cannot deny it.
+LINE 317: There is not much to lose, I trow,
+LINE 318: With one so harsh, and gruff, and mad as thou.
+LINE 319: Toil! moil! from morn to ev'n, so on it goes!
+LINE 320: And what one should, and what one should not do,
+LINE 321: One cannot always read it on your nose.
+LINE 322: Faust.
+LINE 323: This is the proper tone for you!
+LINE 324: Annoy me first, and then my thanks are due.
+LINE 325: Mephistopheles.
+LINE 326: Poor son of Earth! without my timed assistance,
+LINE 327: How had you ever dragged on your existence?
+LINE 328: From freakish fancy's fevered effervescence,
+LINE 329: I have worked long ago your convalescence,
+LINE 330: And, but for me, you would have marched away,
+LINE 331: In your best youth, from the blest light of day.
+LINE 332: What have you here, in caves and clefts, to do,
+LINE 333: Like an old owl, screeching to-whit, to-whoo?
+LINE 334: Or like a torpid toad, that sits alone
+LINE 335: Sipping the oozing moss and dripping stone?
+LINE 336: A precious condition to be in!
+LINE 337: I see the Doctor sticks yet in your skin.
+LINE 338: Faust.
+LINE 339: Couldst thou but know what re-born vigor springs
+LINE 340: From this lone wandering in the wilderness,
+LINE 341: Couldst thou conceive what heavenly joy it brings,
+LINE 342: Then wert thou fiend enough to envy me my bliss.
+LINE 343: Mephistopheles.
+LINE 344: A supermundane bliss!
+LINE 345: In night and dew to lie upon the height,
+LINE 346: And clasp the heaven and earth in wild delight,
+LINE 347: To swell up to the godhead's stature,
+LINE 348: And pierce with clear miraculous sight
+LINE 349: The inmost pith of central Nature,
+LINE 350: To carry in your breast with strange elation,
+LINE 351: The ferment of the whole six days' creation,
+LINE 352: With proud anticipation of--I know
+LINE 353: Not what--to glow in rapturous overflow,
+LINE 354: And melt into the universal mind,
+LINE 355: Casting the paltry son of earth behind;
+LINE 356: And then, the heaven-sprung intuition
+LINE 357: [_With a gesture._] To end--I shall not say in what--fruition.
+LINE 358: Faust.
+LINE 359: Shame on thee!
+LINE 360: Mephistopheles.
+LINE 361: Yes! that's not quite to your mind.
+LINE 362: You have a privilege to cry out shame,
+LINE 363: When things are mentioned by their proper name.
+LINE 364: Before chaste ears one may not dare to spout
+LINE 365: What chastest hearts yet cannot do without.
+LINE 366: I do not envy you the pleasure
+LINE 367: Of palming lies upon yourself at leisure;
+LINE 368: But long it cannot last, I warrant thee.
+LINE 369: You are returned to your old whims, I see,
+LINE 370: And, at this rate, you soon will wear
+LINE 371: Your strength away, in madness and despair.
+LINE 372: Of this enough! thy love sits waiting thee,
+LINE 373: In doubt and darkness, cabined and confined.
+LINE 374: By day, by night, she has thee in her mind;
+LINE 375: I trow she loves thee in no common kind.
+LINE 376: Thy raging passion 'gan to flow,
+LINE 377: Like a torrent in spring from melted snow;
+LINE 378: Into her heart thy tide gushed high,
+LINE 379: Now is thy shallow streamlet dry.
+LINE 380: Instead of standing here to overbrim
+LINE 381: With fine ecstatic rapture to the trees,
+LINE 382: Methinks the mighty gentleman might please
+LINE 383: To drop some words of fond regard, to ease
+LINE 384: The sweet young chick who droops and pines for him.
+LINE 385: Poor thing, she is half dead of ennui,
+LINE 386: And at the window stands whole hours, to see
+LINE 387: The clouds pass by the old town-wall along.
+LINE 388: Were I a little bird! so goes her song
+LINE 389: The live-long day, and half the night to boot.
+LINE 390: Sometimes she will be merry, mostly sad,
+LINE 391: Now, like a child, weeping her sorrows out,
+LINE 392: Now calm again to look at, never glad;
+LINE 393: Always in love.
+LINE 394: Faust.
+LINE 395: Thou snake! thou snake!
+LINE 396: Mephistopheles. [_to himself_]
+LINE 397: So be it! that my guile thy stubborn will may break!
+LINE 398: Faust.
+LINE 399: Hence and begone, thou son of filth and fire!
+LINE 400: Name not the lovely maid again!
+LINE 401: Bring not that overmastering desire
+LINE 402: Once more to tempt my poor bewildered brain!
+LINE 403: Mephistopheles.
+LINE 404: What then? she deems that you are gone forever;
+LINE 405: And half and half methinks you are.
+LINE 406: Faust.
+LINE 407: No! I am nigh, and were I ne'er so far,
+LINE 408: I could forget her, I could lose her never;
+LINE 409: I envy ev'n the body of the Lord,
+LINE 410: When on the sacred cake her lips she closes.
+LINE 411: Mephistopheles.
+LINE 412: Yes! to be honest, and confess my sins,
+LINE 413: I oft have envied thee the lovely twins
+LINE 414: That have their fragrant pasture among roses.
+LINE 415: Faust.
+LINE 416: Avaunt, thou pimp!
+LINE 417: Mephistopheles.
+LINE 418: Rail you, and I will laugh;
+LINE 419: The God who made the human stuff
+LINE 420: Both male and female, if the book don't lie,
+LINE 421: Himself the noblest trade knew well enough,
+LINE 422: How to carve out an opportunity.
+LINE 423: But come, why peak and pine you here?
+LINE 424: I lead you to the chamber of your dear,
+LINE 425: Not to the gallows.
+LINE 426: Faust.
+LINE 427: Ah! what were Heaven's supremest blessedness
+LINE 428: Within her arms, upon her breast, to me!
+LINE 429: Must I not still be wrung with agony,
+LINE 430: That I should plunge her into such distress?
+LINE 431: I, the poor fugitive! outlaw from my kind,
+LINE 432: Without a friend, without a home,
+LINE 433: With restless heart, and aimless mind,
+LINE 434: Unblest, unblessing, ever doomed to roam;
+LINE 435: Who, like a waterfall, from rock to rock came roaring,
+LINE 436: With greedy rage into the caldron pouring;
+LINE 437: While she, a heedless infant, rears
+LINE 438: Sidewards her hut upon the Alpine field,
+LINE 439: With all her hopes, and all her fears,
+LINE 440: Within this little world concealed.
+LINE 441: And I--the God-detested--not content
+LINE 442: To seize the rocks, and in my headlong bent
+LINE 443: To shatter them to dust, with ruthless tide
+LINE 444: Her little shielding on the mountain side
+LINE 445: Bore down, and wrecked her life's sweet peace with mine.
+LINE 446: And such an offering, Hell, must it be thine?
+LINE 447: Help, Devil, to cut short the hour of ill!
+LINE 448: What happen must, may happen when it will!
+LINE 449: May her sad fate my crashing fall attend,
+LINE 450: And she with me be ruined in the end!
+LINE 451: Mephistopheles.
+LINE 452: Lo! how it boils again and blows
+LINE 453: Like furnace, wherefore no man knows.
+LINE 454: Go in, thou fool, and let her borrow
+LINE 455: From thee, sweet solace to her sorrow!
+LINE 456: When such a brainsick dreamer sees
+LINE 457: No road, where he to walk may please,
+LINE 458: He stands and stares like Balaam's ass,
+LINE 459: As if a god did block the pass.
+LINE 460: A man's a man who does and dares!
+LINE 461: In other points you're spiced not scantly with the devil;
+LINE 462: Nothing more silly moves on earth's wide level,
+LINE 463: Than is a devil who despairs.
+LINE 464: Scene IV.
+LINE 465: /Margaret's/ _Room._
+LINE 466: /Margaret/ _alone, at a Spinning-wheel._
+LINE 467: Margaret.
+LINE 468: My rest is gone,
+LINE 469: My heart is sore;
+LINE 470: Peace find I never,
+LINE 471: And nevermore.
+LINE 472: Where he is not
+LINE 473: Life is the tomb,
+LINE 474: The world is bitterness
+LINE 475: And gloom.
+LINE 476: Crazed is my poor
+LINE 477: Distracted brain,
+LINE 478: My thread of thought
+LINE 479: Is rent in twain.
+LINE 480: My rest is gone,
+LINE 481: My heart is sore;
+LINE 482: Peace find I never,
+LINE 483: And never more.
+LINE 484: I look from the window
+LINE 485: For none but him,
+LINE 486: I go abroad
+LINE 487: For only him.
+LINE 488: His noble air,
+LINE 489: His bearing high,
+LINE 490: The smile of his mouth,
+LINE 491: The might of his eye,
+LINE 492: And, when he speaks,
+LINE 493: What flow of bliss!
+LINE 494: The clasp of his hand,
+LINE 495: And ah! his kiss!
+LINE 496: My rest is gone,
+LINE 497: My heart is sore;
+LINE 498: Peace find I never,
+LINE 499: And nevermore.
+LINE 500: My bosom swells,
+LINE 501: And pants for him,
+LINE 502: O that I might clasp him,
+LINE 503: And cling to him!
+LINE 504: And kiss him, and kiss him
+LINE 505: The live-long day,
+LINE 506: And on his kisses
+LINE 507: Melt away!
+LINE 508: Scene V.
+LINE 509: /Martha's/ _Garden._
+LINE 510: /Margaret/ _and_ /Faust/.
+LINE 511: Margaret.
+LINE 512: Promise me, Henry!
+LINE 513: Faust.
+LINE 514: What I can.
+LINE 515: Margaret.
+LINE 516: Of your religion I am fain to hear;
+LINE 517: I know thou art a most kind-hearted man,
+LINE 518: But as to thy belief I fear--
+LINE 519: Faust.
+LINE 520: Fear not! thou know'st I love thee well: and know
+LINE 521: For whom I love my life's last drop shall flow!
+LINE 522: For other men, I have nor wish nor need
+LINE 523: To rob them of their church, or of their creed.
+LINE 524: Margaret.
+LINE 525: That's not enough; you must believe it too!
+LINE 526: Faust.
+LINE 527: Must I?
+LINE 528: Margaret.
+LINE 529: Alas! that I might work some change on you!
+LINE 530: Not even the holy mass do you revere.
+LINE 531: Faust.
+LINE 532: I do revere 't.
+LINE 533: Margaret.
+LINE 534: Yes, but without desire.
+LINE 535: At mass and at confession, too, I fear,
+LINE 536: Thou hast not shown thyself this many a year.
+LINE 537: Dost thou believe in God?
+LINE 538: Faust.
+LINE 539: My love, who dares aspire
+LINE 540: To say he doth believe in God?
+LINE 541: May'st ask thy priests and sages all,
+LINE 542: Their answer seems like mockery to fall
+LINE 543: Upon the asker's ear.
+LINE 544: Margaret.
+LINE 545: Then thou dost not believe?
+LINE 546: Faust.
+LINE 547: Misunderstand me not, thou sweet, angelic face!
+LINE 548: Who dares pronounce His name?
+LINE 549: And who proclaim--
+LINE 550: I do believe in Him?
+LINE 551: And who dares presume
+LINE 552: To utter--I believe Him not?
+LINE 553: The All-embracer,
+LINE 554: The All-upholder,
+LINE 555: Grasps and upholds He not
+LINE 556: Thee, me, Himself?
+LINE 557: Vaults not the Heaven his vasty dome above thee?
+LINE 558: Stand not the earth's foundations firm beneath thee?
+LINE 559: And climb not, with benignant beaming,
+LINE 560: Up heaven's slope the eternal stars?
+LINE 561: Looks not mine eye now into thine?
+LINE 562: And feel'st thou not an innate force propelling
+LINE 563: Thy tide of life to head and heart,
+LINE 564: A power that, in eternal mystery dwelling,
+LINE 565: Invisible visible moves beside thee?
+LINE 566: Go, fill thy heart therewith, in all its greatness,
+LINE 567: And when thy heart brims with this feeling,
+LINE 568: Then call it what thou wilt,
+LINE 569: Heart! Happiness! Love! God!
+LINE 570: I have no name for that which passes all revealing!
+LINE 571: Feeling is all in all;
+LINE 572: Name is but smoke and sound,
+LINE 573: Enshrouding heaven's pure glow.
+LINE 574: Margaret.
+LINE 575: All that appears most pious and profound;
+LINE 576: Much of the same our parson says,
+LINE 577: Only he clothes it in a different phrase.
+LINE 578: Faust.
+LINE 579: All places speak it forth;
+LINE 580: All hearts, from farthest South to farthest North,
+LINE 581: Proclaim the tale divine,
+LINE 582: Each in its proper speech;
+LINE 583: Wherefore not I in mine?
+LINE 584: Margaret.
+LINE 585: When thus you speak it does not seem so bad,
+LINE 586: And yet is your condition still most sad:
+LINE 587: Unless you are a Christian, all is vain.
+LINE 588: Faust.
+LINE 589: Sweet love!
+LINE 590: Margaret.
+LINE 591: Henry, it gives me pain,
+LINE 592: More than my lips can speak, to see
+LINE 593: Thee joined to such strange company.
+LINE 594: Faust.
+LINE 595: How so?
+LINE 596: Margaret.
+LINE 597: The man whom thou hast made thy mate,
+LINE 598: Deep in my inmost soul I hate;
+LINE 599: Nothing in all my life hath made me smart
+LINE 600: So much as his disgusting leer.
+LINE 601: His face stabs like a dagger through my heart!
+LINE 602: Faust.
+LINE 603: Sweet doll! thou hast no cause to fear.
+LINE 604: Margaret.
+LINE 605: It makes my blood to freeze when he comes near.
+LINE 606: To other men I have no lack
+LINE 607: Of kindly thoughts; but as I long
+LINE 608: To see thy face, I shudder back
+LINE 609: From him. That he's a knave I make no doubt;
+LINE 610: May God forgive me, if I do him wrong!
+LINE 611: Faust.
+LINE 612: Such grim old owls must be; without
+LINE 613: Their help the world could not get on, I fear.
+LINE 614: Margaret.
+LINE 615: With men like him I would have nought to do!
+LINE 616: As often as he shows him here,
+LINE 617: He looks in at the door with such a scornful leer,
+LINE 618: Half angry too;
+LINE 619: Whate'er is done, he takes no kindly part;
+LINE 620: And one can see it written on his face,
+LINE 621: He never loved a son of Adam's race.
+LINE 622: Henry, within thy loving arm
+LINE 623: I feel so free, so trustful-warm;
+LINE 624: But when his foot comes near, I start,
+LINE 625: And feel a freezing grip tie up my heart.
+LINE 626: Faust.
+LINE 627: O thou prophetic angel, thou!
+LINE 628: Margaret.
+LINE 629: This overpowers me so
+LINE 630: That, when his icy foot may cross the door,
+LINE 631: I feel as if I could not love thee more.
+LINE 632: When he is here, too, I could never pray;
+LINE 633: This eats my very heart. Now say,
+LINE 634: Henry, is't not the same with thee?
+LINE 635: Faust.
+LINE 636: Nay now, this is mere blind antipathy!
+LINE 637: Margaret.
+LINE 638: I must be gone.
+LINE 639: Faust.
+LINE 640: Oh! may it never be
+LINE 641: That I shall spend one quiet hour with thee,
+LINE 642: One single little hour, and breast on breast,
+LINE 643: And soul on soul, with panting love, be pressed?
+LINE 644: Margaret.
+LINE 645: Alas! did I but sleep alone, this night
+LINE 646: The door unbarred thy coming should invite;
+LINE 647: But my good mother has but broken sleep;
+LINE 648: And, if her ears an inkling got,
+LINE 649: Then were I dead upon the spot!
+LINE 650: Faust.
+LINE 651: Sweet angel! that's an easy fence to leap.
+LINE 652: Here is a juice, whose grateful power can steep
+LINE 653: Her senses in a slumber soft and deep;
+LINE 654: Three drops mixed with her evening draught will do.
+LINE 655: Margaret.
+LINE 656: I would adventure this and more for you.
+LINE 657: Of course, there's nothing hurtful in the phial?
+LINE 658: Faust.
+LINE 659: If so, would I advise the trial?
+LINE 660: Margaret.
+LINE 661: Thou best of men, if I but look on thee,
+LINE 662: All will deserts me to thy wish untrue;
+LINE 663: So much already have I done for thee
+LINE 664: That now scarce aught remains for me to do. [_Exit._
+LINE 665: _Enter_ /Mephistopheles/.
+LINE 666: Mephistopheles.
+LINE 667: Well, is the monkey gone?
+LINE 668: Faust.
+LINE 669: And you--must I
+LINE 670: Submit again to see you play the spy?
+LINE 671: Mephistopheles.
+LINE 672: I have been duly advertised
+LINE 673: How Doctor Faust was catechised:
+LINE 674: I hope it will agree with you.
+LINE 675: The girls are wont--they have their reasons too--
+LINE 676: To see that one, in every point, believes
+LINE 677: The faith, that from his fathers he receives.
+LINE 678: They think, if little mettle here he shows,
+LINE 679: We too may lead him by the nose.
+LINE 680: Faust.
+LINE 681: Thou monster! dost not know how this fond soul,
+LINE 682: Who yields her being's whole
+LINE 683: To God, and feels and knows
+LINE 684: That from such faith alone her own salvation flows,
+LINE 685: With many an anxious holy fear is tossed,
+LINE 686: Lest he, whom best she loves, should be forever lost?
+LINE 687: Mephistopheles.
+LINE 688: Thou super-sensual sensual fool,
+LINE 689: A silly girl takes thee to school!
+LINE 690: Faust.
+LINE 691: Thou son of filth and fire, thou monster, thou!
+LINE 692: Mephistopheles.
+LINE 693: And then her skill in reading faces
+LINE 694: Is not the least of all her graces!
+LINE 695: When I come near, she feels, she knows not how,
+LINE 696: And through my mask can read it on my brow
+LINE 697: That I must be, if not the very Devil,
+LINE 698: A genius far above the common level.
+LINE 699: And now to-night--
+LINE 700: Faust.
+LINE 701: What's that to thee?
+LINE 702: Mephistopheles.
+LINE 703: What brings my master joy, brings joy to me.
+LINE 704: Scene VI.
+LINE 705: _At the Well._
+LINE 706: /Margaret/ _and_ /Eliza/, _with water-pitchers._
+LINE 707: Eliza.
+LINE 708: Have you heard nought of Barbara?
+LINE 709: Margaret.
+LINE 710: Nothing at all. I seldom stray
+LINE 711: From home, to hear of other folk's affairs.
+LINE 712: Eliza.
+LINE 713: You may believe me every whit;
+LINE 714: Sibylla told it me to-day.
+LINE 715: She too has been befooled: that comes of it,
+LINE 716: When people give themselves such airs!
+LINE 717: Margaret.
+LINE 718: How so?
+LINE 719: Eliza.
+LINE 720: 'Tis rank!
+LINE 721: She eats and drinks for two, not now for one.
+LINE 722: Margaret.
+LINE 723: Poor girl!
+LINE 724: Eliza.
+LINE 725: Well, well! she has herself to thank.
+LINE 726: How long did she not hang upon
+LINE 727: The fellow!--Yes! that was a parading,
+LINE 728: A dancing and a promenading!
+LINE 729: Must always be before the rest!
+LINE 730: And to wines and pasties be pressed;
+LINE 731: Began then to be proud of her beauty,
+LINE 732: And was so reckless of her duty
+LINE 733: As to take presents from him too.
+LINE 734: That was a cooing and a caressing!
+LINE 735: No wonder if the flower too be amissing!
+LINE 736: Margaret.
+LINE 737: I pity her.
+LINE 738: Eliza.
+LINE 739: Methinks you have not much to do.
+LINE 740: When we were not allowed to venture o'er
+LINE 741: The threshold, night and day kept close at spinning,
+LINE 742: There stood she, with her paramour,
+LINE 743: Upon the bench, before the door,
+LINE 744: Or in the lane, and hour for hour
+LINE 745: Scarce knew the end from the beginning.
+LINE 746: 'Tis time that she should go to school
+LINE 747: And learn--on the repentance-stool!
+LINE 748: Margaret.
+LINE 749: But he will take her for his wife.
+LINE 750: Eliza.
+LINE 751: He marry her! not for his life!
+LINE 752: An active youth like him can find,
+LINE 753: Where'er he pleases, quarters to his mind.
+LINE 754: Besides, he's gone!
+LINE 755: Margaret.
+LINE 756: That was not fair.
+LINE 757: Eliza.
+LINE 758: And if he should come back, she'll not enjoy him more.
+LINE 759: Her marriage wreath the boys will tear,
+LINE 760: And we will strew chopped straw before the door.[*n9] [_Exit._
+LINE 761: Margaret. [_going homewards_]
+LINE 762: How could I once so boldly chide
+LINE 763: When a poor maiden stepped aside,
+LINE 764: And scarce found words enough to name
+LINE 765: The measure of a sister's shame!
+LINE 766: If it was black, I blackened it yet more,
+LINE 767: And with that blackness not content,
+LINE 768: More thickly still laid on the paint,
+LINE 769: And blessed my stars, as cased in mail,
+LINE 770: Against all frailties of the frail;
+LINE 771: And now myself am what I chid before!--
+LINE 772: Yet was each step that lured my slippery feet
+LINE 773: So good, so lovely, so enticing sweet!
+LINE 774: Scene VII.
+LINE 775: _An enclosed Area._
+LINE 776: (_In a niche of the wall an image of the Mater dolorosa, with
+LINE 777: flower-jugs before it._)
+LINE 778: Margaret. [_placing fresh flowers in the jugs_]
+LINE 779: O mother rich in sorrows,
+LINE 780: Bend down to hear my cry!
+LINE 781: O bend thee, gracious mother,
+LINE 782: To my sore agony!
+LINE 783: Thy heart with swords is piercèd,
+LINE 784: And tears are in thine eye,
+LINE 785: Because they made thy dear Son
+LINE 786: A cruel death to die.
+LINE 787: Thou lookest up to heaven,
+LINE 788: And deeply thou dost sigh;
+LINE 789: His God and thine beholds thee,
+LINE 790: And heals thine agony.
+LINE 791: Oh! who can know
+LINE 792: What bitter woe
+LINE 793: Doth pierce me through and through?
+LINE 794: The fear, the anguish of my heart,
+LINE 795: Its every pang, its every smart,
+LINE 796: Know'st thou, and only thou.
+LINE 797: And wheresoe'er I wend me,
+LINE 798: What woes, what woes attend me,
+LINE 799: And how my bosom quakes!
+LINE 800: And in my chamber lonely,
+LINE 801: With weeping, weeping only,
+LINE 802: My heart for sorrow breaks.
+LINE 803: These flower-pots on the window
+LINE 804: I wet with tears, ah me!
+LINE 805: When with the early morning,
+LINE 806: I plucked these flowers for thee.
+LINE 807: And when the morn's first sunbeam
+LINE 808: Into my room was shed,
+LINE 809: I sat, in deepest anguish,
+LINE 810: And watched it on my bed.
+LINE 811: O save me, Mother of Sorrows!
+LINE 812: Unto my prayer give heed,
+LINE 813: By all the swords that pierced thee,
+LINE 814: O save me in my need!
+LINE 815: Scene VIII.
+LINE 816: _Night. Street before_ /Margaret's/ _door._
+LINE 817: _Enter_ /Valentin/.
+LINE 818: Valentin.
+LINE 819: When I sat with our merry men,
+LINE 820: At a carousal, now and then,
+LINE 821: Where one may be allowed a boast,
+LINE 822: And my messmates gave toast for toast
+LINE 823: To the girl they prized the most,
+LINE 824: And with a bumper then swilled o'er
+LINE 825: Their praise, when they could praise no more;
+LINE 826: I'd sit at ease, and lean upon
+LINE 827: My elbow, while they prated on,
+LINE 828: Till all the swaggerers had done,
+LINE 829: And smile and stroke my beard, and fill
+LINE 830: The goodly rummer to my hand,
+LINE 831: And say, All that is very well!
+LINE 832: But is there one, in all the land,
+LINE 833: That with my Margaret may compare,
+LINE 834: Or even tie the shoe to her?
+LINE 835: Rap, rap! cling, clang! so went it round!
+LINE 836: From man to man, with gleesome sound,
+LINE 837: And one cried out with lusty breath,
+LINE 838: "Yes, Gretchen! Gretchen! she's the girl,
+LINE 839: Of womanhood the perfect pearl!"
+LINE 840: And all the braggarts were dumb as death.
+LINE 841: And now,--the devil's in the matter!
+LINE 842: It is enough to make one clatter,
+LINE 843: Like a rat, along the walls!
+LINE 844: Shall every boor, with gibe and jeer,
+LINE 845: Turn up his nose when I appear?
+LINE 846: And every pettiest word that falls
+LINE 847: Me, like a purseless debtor, torture?
+LINE 848: And though I bruised them in a mortar,
+LINE 849: I could not say that they were wrong.
+LINE 850: What comes apace?--what creeps along?
+LINE 851: A pair of them comes slinking by.
+LINE 852: If 'tis the man I look for, I
+LINE 853: Will dust his coat so well he'll not,
+LINE 854: By Jove! go living from the spot! [_Retires._
+LINE 855: _Enter_ /Faust/ _and_ /Mephistopheles/.
+LINE 856: Faust.
+LINE 857: As from the window of the vestry there,
+LINE 858: The light of the undying lamp doth glare,
+LINE 859: And sidewards gleameth, dimmer still and dimmer,
+LINE 860: Till darkness closes round its fitful glimmer,
+LINE 861: So murky is it in my soul.
+LINE 862: Mephistopheles.
+LINE 863: And I've a qualmish sort of feeling,
+LINE 864: Like a cat on a rainy day,
+LINE 865: Creeping round the wall, and stealing
+LINE 866: Near the fireplace, if it may.
+LINE 867: Yet am I in most virtuous trim
+LINE 868: For a small turn at stealing, or at lechery;
+LINE 869: So jumps already through my every limb
+LINE 870: Walpurgis-Night, with all its glorious witchery.
+LINE 871: The day after to-morrow brings again
+LINE 872: The Feast, with fun and frolic in its train.
+LINE 873: Faust.
+LINE 874: Is it not time that you were raising
+LINE 875: The treasure there in the distance blazing?
+LINE 876: Mephistopheles.
+LINE 877: Soon shall you sate your eyes with gazing,
+LINE 878: And lift up from the urn yourself
+LINE 879: A little mine of precious pelf.
+LINE 880: I gave it a side-glance before--
+LINE 881: Saw lion-dollars by the score.
+LINE 882: Faust.
+LINE 883: Is there no gaud?--no jewel at all?
+LINE 884: To deck my sweet little mistress withal.
+LINE 885: Mephistopheles.
+LINE 886: O yes! I saw some trinkets for the girls,--
+LINE 887: A sort of necklace strung with pearls.
+LINE 888: Faust.
+LINE 889: 'Tis well that we have this to give her,
+LINE 890: For empty-handed go I never.
+LINE 891: Mephistopheles.
+LINE 892: And yet a wise man ought to learn
+LINE 893: To enjoy gratis, as well as to earn.
+LINE 894: Now, that the stars are bright and clear the sky,
+LINE 895: I'll give you a touch of choicest melody;
+LINE 896: A moral song--that, while we seem to school her,
+LINE 897: With the more certainty we may befool her.
+LINE 898: [_Sings to the guitar._]
+LINE 899: Why stands before
+LINE 900: Her lover's door,
+LINE 901: Young Catherine here,
+LINE 902: At early break of day?
+LINE 903: Beware, beware!
+LINE 904: He lets thee in,
+LINE 905: A maiden in,
+LINE 906: A maiden not away!
+LINE 907: When full it blows,
+LINE 908: He breaks the rose,
+LINE 909: And leaves thee then,
+LINE 910: A wretched outcast thing!
+LINE 911: Take warning, then,
+LINE 912: And yield to none
+LINE 913: But who hath shown,
+LINE 914: And changed with thee the ring.
+LINE 915: Valentin. [_advancing_]
+LINE 916: Ho, serenaders! by the Element!
+LINE 917: You whoreson rascals! you rat-catchers, you!
+LINE 918: First, to the devil with the instrument,
+LINE 919: And, after it, the harper too!
+LINE 920: Mephistopheles.
+LINE 921: Donner and blitz! my good guitar is broken!
+LINE 922: Valentin.
+LINE 923: And your skull, too, anon: by this sure token!
+LINE 924: Mephistopheles.
+LINE 925: Quick, Doctor! here's no time to tarry!
+LINE 926: Keep close, as I shall lead the way.
+LINE 927: Out with your goosewing![*2] out, I say!
+LINE 928: Make you the thrusts, and I will parry.
+LINE 929: Valentin.
+LINE 930: Then parry that!
+LINE 931: Mephistopheles.
+LINE 932: Why not?
+LINE 933: Valentin.
+LINE 934: And that!
+LINE 935: Mephistopheles.
+LINE 936: Of course!
+LINE 937: Valentin.
+LINE 938: I deem the devil is here, or something worse.
+LINE 939: Good God! what's this?--my arm is lamed!
+LINE 940: Mephistopheles. [_to_ /Faust/]
+LINE 941: Have at him there!
+LINE 942: Valentin. [_falls_]
+LINE 943: O woe!
+LINE 944: Mephistopheles.
+LINE 945: Now is the lubber tamed!
+LINE 946: But let's be gone! why stand you gaping there?
+LINE 947: They'll raise a cry of murder! I can play
+LINE 948: A game with the policeman, any day;
+LINE 949: But blood spilt is a dangerous affair.
+LINE 950: [_Exeunt_ /Mephistopheles/ _and_ /Faust/.
+LINE 951: Martha. [_at the window_]
+LINE 952: Ho! murder, ho!
+LINE 953: Margaret. [_at the window_]
+LINE 954: A light! a light!
+LINE 955: Martha. [_as above_]
+LINE 956: They bawl, they brawl, they strike, they fight.
+LINE 957: The People.
+LINE 958: And here lies one already dead!
+LINE 959: Martha. [_appearing below_]
+LINE 960: Where are the murderers? are they fled?
+LINE 961: Margaret. [_below_]
+LINE 962: Who's this lies here?
+LINE 963: The People.
+LINE 964: Thy mother's son.
+LINE 965: Margaret.
+LINE 966: Almighty God! my brother dead!
+LINE 967: Valentin.
+LINE 968: I die! I die!--'tis quickly said,
+LINE 969: And yet more quickly done.
+LINE 970: Why stand you, women, and weep and wail?
+LINE 971: Draw near, and listen to my tale!
+LINE 972: [_They all come round him._]
+LINE 973: My Margaret, mark me, you are young,
+LINE 974: And in sense not overstrong;
+LINE 975: You manage matters ill.
+LINE 976: I tell thee in thine ear, that thou
+LINE 977: Art, once for all, a strumpet,--now
+LINE 978: Mayst go and take thy fill.
+LINE 979: Margaret.
+LINE 980: My brother! God! what do you mean?
+LINE 981: Valentin.
+LINE 982: Leave the Lord God out of the jest;
+LINE 983: Said is said, and done is done;
+LINE 984: Now you may manage, as you best
+LINE 985: Know how to help the matter on.
+LINE 986: You commenced the trade with one,
+LINE 987: We shall have two, three, four, anon,
+LINE 988: Next a dozen, and next a score,
+LINE 989: And then the whole town at your door.
+LINE 990: When sin is born it shuns the light
+LINE 991: (For conscience guilt may not abide it),
+LINE 992: And they draw the veil of night
+LINE 993: Over head and ears, to hide it;
+LINE 994: Yea, they would murder it, if they might.
+LINE 995: But anon it waxes bolder,
+LINE 996: And walks about in broad day-light,
+LINE 997: And, uglier still as it grows older,
+LINE 998: The less it offers to invite,
+LINE 999: The more it courts the public sight.
+LINE 1000: Even now, methinks, I see the day,
+LINE 1001: When every honest citizen,
+LINE 1002: As from a corpse of tainted clay,
+LINE 1003: From thee, thou whore! will turn away.
+LINE 1004: Thy very heart shall fail thee then,
+LINE 1005: When they shall look thee in the face!
+LINE 1006: No more shall golden chain thee grace!
+LINE 1007: The Church shall spurn thee from its door!
+LINE 1008: The altar shall not own thee more!
+LINE 1009: Nor longer, with thy spruce lace-tippet,
+LINE 1010: Where the dance wheels, shalt thou trip it!
+LINE 1011: In some vile den of want and woe,
+LINE 1012: With beggars and cripples thou shalt bed;
+LINE 1013: And, if from Heaven forgiveness flow,
+LINE 1014: Earth shall rain curses on thy head!
+LINE 1015: Martha.
+LINE 1016: Speak softly, and prepare thy soul for death,
+LINE 1017: Nor mingle slander with thy parting breath!
+LINE 1018: Valentin.
+LINE 1019: Could I but reach thy withered skin,
+LINE 1020: Thou hag, thou bawd, so vile and shameless!
+LINE 1021: For such fair deed I might pass blameless,
+LINE 1022: To score the black mark from my blackest sin.
+LINE 1023: Margaret.
+LINE 1024: Brother, thou mak'st me feel a hell of pain!
+LINE 1025: Valentin.
+LINE 1026: I tell thee, all thy tears are vain!
+LINE 1027: When with thy honor thou didst part,
+LINE 1028: Thou dealt the blow that pierced my heart.
+LINE 1029: I go through death, with fearless mood,
+LINE 1030: To meet my God, as a soldier should. [_Dies._
+LINE 1031: Scene IX.
+LINE 1032: _A Cathedral._
+LINE 1033: _Mass, Organ, and Song._ /Margaret/ _amid a crowd of people,_
+LINE 1034: /Evil Spirit/ _behind her._
+LINE 1035: Evil Spirit.
+LINE 1036: How different, Margaret, was thy case,
+LINE 1037: When, in thine innocence, thou didst kneel
+LINE 1038: Before the altar,
+LINE 1039: And from the well-worn book
+LINE 1040: Didst lisp thy prayers,
+LINE 1041: Half childish play,
+LINE 1042: Half God in thy heart!
+LINE 1043: Margaret!
+LINE 1044: Where is thy head?
+LINE 1045: Within thy heart
+LINE 1046: What dire misdeed?
+LINE 1047: Prayest thou for thy mother's soul, whom thou
+LINE 1048: Didst make to sleep a long, long sleep of sorrow?
+LINE 1049: Whose blood is on thy threshold?
+LINE 1050: --And, underneath thy heart,
+LINE 1051: Moves not the swelling germ of life already,
+LINE 1052: And, with its boding presence
+LINE 1053: Thee tortures, and itself?
+LINE 1054: Margaret.
+LINE 1055: Woe, woe!
+LINE 1056: That I might shake away the thoughts,
+LINE 1057: That hither flit and thither,
+LINE 1058: Against me!
+LINE 1059: Quire.
+LINE 1060: _Dies iræ, dies illa,_
+LINE 1061: _Solvet saeclum in favilla._
+LINE 1062: [_The organ sounds._
+LINE 1063: Evil Spirit.
+LINE 1064: Terror doth seize thee!
+LINE 1065: The trumpet sounds!
+LINE 1066: The graves quake!
+LINE 1067: And thy heart,
+LINE 1068: From its rest of ashes,
+LINE 1069: To fiery pain
+LINE 1070: Created again,
+LINE 1071: Quivers to life!
+LINE 1072: Margaret.
+LINE 1073: Would I were hence!
+LINE 1074: I feel as if the organ stopped
+LINE 1075: My breath,
+LINE 1076: And, at the hymn,
+LINE 1077: My inmost heart
+LINE 1078: Melted away!
+LINE 1079: Quire.
+LINE 1080: _Judex ergo cum sedebit,_
+LINE 1081: _Quidquid latet adparebit,_
+LINE 1082: _Nil inultum remanebit._
+LINE 1083: Margaret.
+LINE 1084: I feel so straitened!
+LINE 1085: The pillar shafts
+LINE 1086: Enclasp me round!
+LINE 1087: The vault
+LINE 1088: Is closing o'er me!--Air!
+LINE 1089: Evil Spirit.
+LINE 1090: Yea! let them hide thee! but thy sin and shame
+LINE 1091: No vault can hide!
+LINE 1092: Air? Light? No!
+LINE 1093: Woe on thee! woe!
+LINE 1094: Quire.
+LINE 1095: _Quid sum miser tunc dicturus?_
+LINE 1096: _Quem patronum rogaturus?_
+LINE 1097: _Cum vix justus sit securus._
+LINE 1098: Evil Spirit.
+LINE 1099: The blessèd turn
+LINE 1100: Their looks away,
+LINE 1101: And the pure shudder
+LINE 1102: From touch of thee!
+LINE 1103: Woe!
+LINE 1104: Margaret.
+LINE 1105: Neighbor, help! help! I faint!
+LINE 1106: [_She falls down in a swoon._
+LINE 1107: /end of act fourth/.

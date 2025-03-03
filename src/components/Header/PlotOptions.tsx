@@ -133,6 +133,12 @@ function PlotOptions() {
 
     "donquixote-new",
     "donquixote-new-themes",
+
+    "faust-new",
+    "faust-new-themes",
+
+    "war-new",
+    "war-new-themes",
   ].sort();
 
   const storyOptionsDisplay = storyOptions.filter(

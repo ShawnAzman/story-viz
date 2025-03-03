@@ -1,0 +1,133 @@
+LINE 1: Just then another visitor entered the drawing room: Prince Andrew
+LINE 2: Bolkónski, the little princess' husband. He was a very handsome young
+LINE 3: man, of medium height, with firm, clearcut features. Everything about
+LINE 4: him, from his weary, bored expression to his quiet, measured step,
+LINE 5: offered a most striking contrast to his quiet, little wife. It was
+LINE 6: evident that he not only knew everyone in the drawing room, but had
+LINE 7: found them to be so tiresome that it wearied him to look at or listen to
+LINE 8: them. And among all these faces that he found so tedious, none seemed
+LINE 9: to bore him so much as that of his pretty wife. He turned away from
+LINE 10: her with a grimace that distorted his handsome face, kissed Anna
+LINE 11: Pávlovna's hand, and screwing up his eyes scanned the whole company.
+LINE 12: "You are off to the war, Prince?" said Anna Pávlovna.
+LINE 13: "General Kutúzov," said Bolkónski, speaking French and stressing
+LINE 14: the last syllable of the general's name like a Frenchman, "has been
+LINE 15: pleased to take me as an aide-de-camp...."
+LINE 16: "And Lise, your wife?"
+LINE 17: "She will go to the country."
+LINE 18: "Are you not ashamed to deprive us of your charming wife?"
+LINE 19: "André," said his wife, addressing her husband in the same
+LINE 20: coquettish manner in which she spoke to other men, "the vicomte has
+LINE 21: been telling us such a tale about Mademoiselle George and Buonaparte!"
+LINE 22: Prince Andrew screwed up his eyes and turned away. Pierre, who from
+LINE 23: the moment Prince Andrew entered the room had watched him with glad,
+LINE 24: affectionate eyes, now came up and took his arm. Before he looked round
+LINE 25: Prince Andrew frowned again, expressing his annoyance with whoever was
+LINE 26: touching his arm, but when he saw Pierre's beaming face he gave him an
+LINE 27: unexpectedly kind and pleasant smile.
+LINE 28: "There now!... So you, too, are in the great world?" said he to
+LINE 29: Pierre.
+LINE 30: "I knew you would be here," replied Pierre. "I will come to supper
+LINE 31: with you. May I?" he added in a low voice so as not to disturb the
+LINE 32: vicomte who was continuing his story.
+LINE 33: "No, impossible!" said Prince Andrew, laughing and pressing
+LINE 34: Pierre's hand to show that there was no need to ask the question. He
+LINE 35: wished to say something more, but at that moment Prince Vasíli and his
+LINE 36: daughter got up to go and the two young men rose to let them pass.
+LINE 37: "You must excuse me, dear Vicomte," said Prince Vasíli to the
+LINE 38: Frenchman, holding him down by the sleeve in a friendly way to prevent
+LINE 39: his rising. "This unfortunate fete at the ambassador's deprives me
+LINE 40: of a pleasure, and obliges me to interrupt you. I am very sorry to leave
+LINE 41: your enchanting party," said he, turning to Anna Pávlovna.
+LINE 42: His daughter, Princess Hélène, passed between the chairs, lightly
+LINE 43: holding up the folds of her dress, and the smile shone still more
+LINE 44: radiantly on her beautiful face. Pierre gazed at her with rapturous,
+LINE 45: almost frightened, eyes as she passed him.
+LINE 46: "Very lovely," said Prince Andrew.
+LINE 47: "Very," said Pierre.
+LINE 48: In passing Prince Vasíli seized Pierre's hand and said to Anna
+LINE 49: Pávlovna: "Educate this bear for me! He has been staying with me
+LINE 50: a whole month and this is the first time I have seen him in society.
+LINE 51: Nothing is so necessary for a young man as the society of clever
+LINE 52: women."
+LINE 53: Anna Pávlovna smiled and promised to take Pierre in hand. She knew his
+LINE 54: father to be a connection of Prince Vasíli's. The elderly lady who
+LINE 55: had been sitting with the old aunt rose hurriedly and overtook Prince
+LINE 56: Vasíli in the anteroom. All the affectation of interest she had assumed
+LINE 57: had left her kindly and tear-worn face and it now expressed only anxiety
+LINE 58: and fear.
+LINE 59: "How about my son Borís, Prince?" said she, hurrying after him into
+LINE 60: the anteroom. "I can't remain any longer in Petersburg. Tell me what
+LINE 61: news I may take back to my poor boy."
+LINE 62: Although Prince Vasíli listened reluctantly and not very politely
+LINE 63: to the elderly lady, even betraying some impatience, she gave him an
+LINE 64: ingratiating and appealing smile, and took his hand that he might not go
+LINE 65: away.
+LINE 66: "What would it cost you to say a word to the Emperor, and then he
+LINE 67: would be transferred to the Guards at once?" said she.
+LINE 68: "Believe me, Princess, I am ready to do all I can," answered Prince
+LINE 69: Vasíli, "but it is difficult for me to ask the Emperor. I should
+LINE 70: advise you to appeal to Rumyántsev through Prince Golítsyn. That would
+LINE 71: be the best way."
+LINE 72: The elderly lady was a Princess Drubetskáya, belonging to one of the
+LINE 73: best families in Russia, but she was poor, and having long been out of
+LINE 74: society had lost her former influential connections. She had now come to
+LINE 75: Petersburg to procure an appointment in the Guards for her only son.
+LINE 76: It was, in fact, solely to meet Prince Vasíli that she had obtained an
+LINE 77: invitation to Anna Pávlovna's reception and had sat listening to
+LINE 78: the vicomte's story. Prince Vasíli's words frightened her, an
+LINE 79: embittered look clouded her once handsome face, but only for a moment;
+LINE 80: then she smiled again and clutched Prince Vasíli's arm more tightly.
+LINE 81: "Listen to me, Prince," said she. "I have never yet asked you
+LINE 82: for anything and I never will again, nor have I ever reminded you of my
+LINE 83: father's friendship for you; but now I entreat you for God's sake to
+LINE 84: do this for my son—and I shall always regard you as a benefactor,"
+LINE 85: she added hurriedly. "No, don't be angry, but promise! I have asked
+LINE 86: Golítsyn and he has refused. Be the kindhearted man you always were,"
+LINE 87: she said, trying to smile though tears were in her eyes.
+LINE 88: "Papa, we shall be late," said Princess Hélène, turning her
+LINE 89: beautiful head and looking over her classically molded shoulder as she
+LINE 90: stood waiting by the door.
+LINE 91: Influence in society, however, is a capital which has to be economized
+LINE 92: if it is to last. Prince Vasíli knew this, and having once realized
+LINE 93: that if he asked on behalf of all who begged of him, he would soon be
+LINE 94: unable to ask for himself, he became chary of using his influence. But
+LINE 95: in Princess Drubetskáya's case he felt, after her second appeal,
+LINE 96: something like qualms of conscience. She had reminded him of what was
+LINE 97: quite true; he had been indebted to her father for the first steps in
+LINE 98: his career. Moreover, he could see by her manners that she was one of
+LINE 99: those women—mostly mothers—who, having once made up their minds,
+LINE 100: will not rest until they have gained their end, and are prepared if
+LINE 101: necessary to go on insisting day after day and hour after hour, and even
+LINE 102: to make scenes. This last consideration moved him.
+LINE 103: "My dear Anna Mikháylovna," said he with his usual familiarity and
+LINE 104: weariness of tone, "it is almost impossible for me to do what you
+LINE 105: ask; but to prove my devotion to you and how I respect your father's
+LINE 106: memory, I will do the impossible—your son shall be transferred to the
+LINE 107: Guards. Here is my hand on it. Are you satisfied?"
+LINE 108: "My dear benefactor! This is what I expected from you—I knew your
+LINE 109: kindness!" He turned to go.
+LINE 110: "Wait—just a word! When he has been transferred to the Guards..."
+LINE 111: she faltered. "You are on good terms with Michael Ilariónovich
+LINE 112: Kutúzov ... recommend Borís to him as adjutant! Then I shall be at
+LINE 113: rest, and then..."
+LINE 114: Prince Vasíli smiled.
+LINE 115: "No, I won't promise that. You don't know how Kutúzov is pestered
+LINE 116: since his appointment as Commander in Chief. He told me himself that
+LINE 117: all the Moscow ladies have conspired to give him all their sons as
+LINE 118: adjutants."
+LINE 119: "No, but do promise! I won't let you go! My dear benefactor..."
+LINE 120: "Papa," said his beautiful daughter in the same tone as before,
+LINE 121: "we shall be late."
+LINE 122: "Well, au revoir! Good-by! You hear her?"
+LINE 123: "Then tomorrow you will speak to the Emperor?"
+LINE 124: "Certainly; but about Kutúzov, I don't promise."
+LINE 125: "Do promise, do promise, Vasíli!" cried Anna Mikháylovna as he
+LINE 126: went, with the smile of a coquettish girl, which at one time probably
+LINE 127: came naturally to her, but was now very ill-suited to her careworn face.
+LINE 128: Apparently she had forgotten her age and by force of habit employed
+LINE 129: all the old feminine arts. But as soon as the prince had gone her face
+LINE 130: resumed its former cold, artificial expression. She returned to the
+LINE 131: group where the vicomte was still talking, and again pretended to
+LINE 132: listen, while waiting till it would be time to leave. Her task was
+LINE 133: accomplished.

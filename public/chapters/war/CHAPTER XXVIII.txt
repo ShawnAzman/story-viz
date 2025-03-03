@@ -1,0 +1,307 @@
+LINE 1: Prince Andrew was to leave next evening. The old prince, not altering
+LINE 2: his routine, retired as usual after dinner. The little princess was in
+LINE 3: her sister-in-law's room. Prince Andrew in a traveling coat without
+LINE 4: epaulettes had been packing with his valet in the rooms assigned to him.
+LINE 5: After inspecting the carriage himself and seeing the trunks put in, he
+LINE 6: ordered the horses to be harnessed. Only those things he always kept
+LINE 7: with him remained in his room; a small box, a large canteen fitted
+LINE 8: with silver plate, two Turkish pistols and a saber—a present from
+LINE 9: his father who had brought it from the siege of Ochákov. All these
+LINE 10: traveling effects of Prince Andrew's were in very good order: new,
+LINE 11: clean, and in cloth covers carefully tied with tapes.
+LINE 12: When starting on a journey or changing their mode of life, men capable
+LINE 13: of reflection are generally in a serious frame of mind. At such moments
+LINE 14: one reviews the past and plans for the future. Prince Andrew's face
+LINE 15: looked very thoughtful and tender. With his hands behind him he paced
+LINE 16: briskly from corner to corner of the room, looking straight before him
+LINE 17: and thoughtfully shaking his head. Did he fear going to the war, or was
+LINE 18: he sad at leaving his wife?—perhaps both, but evidently he did not
+LINE 19: wish to be seen in that mood, for hearing footsteps in the passage he
+LINE 20: hurriedly unclasped his hands, stopped at a table as if tying the
+LINE 21: cover of the small box, and assumed his usual tranquil and impenetrable
+LINE 22: expression. It was the heavy tread of Princess Mary that he heard.
+LINE 23: "I hear you have given orders to harness," she cried, panting (she
+LINE 24: had apparently been running), "and I did so wish to have another talk
+LINE 25: with you alone! God knows how long we may again be parted. You are not
+LINE 26: angry with me for coming? You have changed so, Andrúsha," she added,
+LINE 27: as if to explain such a question.
+LINE 28: She smiled as she uttered his pet name, "Andrúsha." It was
+LINE 29: obviously strange to her to think that this stern handsome man should be
+LINE 30: Andrúsha—the slender mischievous boy who had been her playfellow in
+LINE 31: childhood.
+LINE 32: "And where is Lise?" he asked, answering her question only by a
+LINE 33: smile.
+LINE 34: "She was so tired that she has fallen asleep on the sofa in my room.
+LINE 35: Oh, Andrew! What a treasure of a wife you have," said she, sitting
+LINE 36: down on the sofa, facing her brother. "She is quite a child: such a
+LINE 37: dear, merry child. I have grown so fond of her."
+LINE 38: Prince Andrew was silent, but the princess noticed the ironical and
+LINE 39: contemptuous look that showed itself on his face.
+LINE 40: "One must be indulgent to little weaknesses; who is free from them,
+LINE 41: Andrew? Don't forget that she has grown up and been educated in
+LINE 42: society, and so her position now is not a rosy one. We should enter into
+LINE 43: everyone's situation. Tout comprendre, c'est tout pardonner. * Think
+LINE 44: what it must be for her, poor thing, after what she has been used to,
+LINE 45: to be parted from her husband and be left alone in the country, in her
+LINE 46: condition! It's very hard."
+LINE 47: * To understand all is to forgive all.
+LINE 48: Prince Andrew smiled as he looked at his sister, as we smile at those we
+LINE 49: think we thoroughly understand.
+LINE 50: "You live in the country and don't think the life terrible," he
+LINE 51: replied.
+LINE 52: "I... that's different. Why speak of me? I don't want any other
+LINE 53: life, and can't, for I know no other. But think, Andrew: for a young
+LINE 54: society woman to be buried in the country during the best years of her
+LINE 55: life, all alone—for Papa is always busy, and I... well, you know what
+LINE 56: poor resources I have for entertaining a woman used to the best society.
+LINE 57: There is only Mademoiselle Bourienne...."
+LINE 58: "I don't like your Mademoiselle Bourienne at all," said Prince
+LINE 59: Andrew.
+LINE 60: "No? She is very nice and kind and, above all, she's much to be
+LINE 61: pitied. She has no one, no one. To tell the truth, I don't need her,
+LINE 62: and she's even in my way. You know I always was a savage, and now am
+LINE 63: even more so. I like being alone.... Father likes her very much. She and
+LINE 64: Michael Ivánovich are the two people to whom he is always gentle and
+LINE 65: kind, because he has been a benefactor to them both. As Sterne says:
+LINE 66: 'We don't love people so much for the good they have done us, as
+LINE 67: for the good we have done them.' Father took her when she was homeless
+LINE 68: after losing her own father. She is very good-natured, and my father
+LINE 69: likes her way of reading. She reads to him in the evenings and reads
+LINE 70: splendidly."
+LINE 71: "To be quite frank, Mary, I expect Father's character sometimes
+LINE 72: makes things trying for you, doesn't it?" Prince Andrew asked
+LINE 73: suddenly.
+LINE 74: Princess Mary was first surprised and then aghast at this question.
+LINE 75: "For me? For me?... Trying for me!..." said she.
+LINE 76: "He always was rather harsh; and now I should think he's getting
+LINE 77: very trying," said Prince Andrew, apparently speaking lightly of their
+LINE 78: father in order to puzzle or test his sister.
+LINE 79: "You are good in every way, Andrew, but you have a kind of
+LINE 80: intellectual pride," said the princess, following the train of her own
+LINE 81: thoughts rather than the trend of the conversation—"and that's a
+LINE 82: great sin. How can one judge Father? But even if one might, what feeling
+LINE 83: except veneration could such a man as my father evoke? And I am so
+LINE 84: contented and happy with him. I only wish you were all as happy as I
+LINE 85: am."
+LINE 86: Her brother shook his head incredulously.
+LINE 87: "The only thing that is hard for me... I will tell you the truth,
+LINE 88: Andrew... is Father's way of treating religious subjects. I don't
+LINE 89: understand how a man of his immense intellect can fail to see what is
+LINE 90: as clear as day, and can go so far astray. That is the only thing
+LINE 91: that makes me unhappy. But even in this I can see lately a shade of
+LINE 92: improvement. His satire has been less bitter of late, and there was a
+LINE 93: monk he received and had a long talk with."
+LINE 94: "Ah! my dear, I am afraid you and your monk are wasting your
+LINE 95: powder," said Prince Andrew banteringly yet tenderly.
+LINE 96: "Ah! mon ami, I only pray, and hope that God will hear me.
+LINE 97: Andrew..." she said timidly after a moment's silence, "I have a
+LINE 98: great favor to ask of you."
+LINE 99: "What is it, dear?"
+LINE 100: "No—promise that you will not refuse! It will give you no trouble
+LINE 101: and is nothing unworthy of you, but it will comfort me. Promise,
+LINE 102: Andrúsha!..." said she, putting her hand in her reticule but not yet
+LINE 103: taking out what she was holding inside it, as if what she held were
+LINE 104: the subject of her request and must not be shown before the request was
+LINE 105: granted.
+LINE 106: She looked timidly at her brother.
+LINE 107: "Even if it were a great deal of trouble..." answered Prince Andrew,
+LINE 108: as if guessing what it was about.
+LINE 109: "Think what you please! I know you are just like Father. Think as
+LINE 110: you please, but do this for my sake! Please do! Father's father, our
+LINE 111: grandfather, wore it in all his wars." (She still did not take out
+LINE 112: what she was holding in her reticule.) "So you promise?"
+LINE 113: "Of course. What is it?"
+LINE 114: "Andrew, I bless you with this icon and you must promise me you will
+LINE 115: never take it off. Do you promise?"
+LINE 116: "If it does not weigh a hundredweight and won't break my neck...
+LINE 117: To please you..." said Prince Andrew. But immediately, noticing
+LINE 118: the pained expression his joke had brought to his sister's face, he
+LINE 119: repented and added: "I am glad; really, dear, I am very glad."
+LINE 120: "Against your will He will save and have mercy on you and bring you
+LINE 121: to Himself, for in Him alone is truth and peace," said she in a voice
+LINE 122: trembling with emotion, solemnly holding up in both hands before her
+LINE 123: brother a small, oval, antique, dark-faced icon of the Saviour in a gold
+LINE 124: setting, on a finely wrought silver chain.
+LINE 125: She crossed herself, kissed the icon, and handed it to Andrew.
+LINE 126: "Please, Andrew, for my sake!..."
+LINE 127: Rays of gentle light shone from her large, timid eyes. Those eyes lit
+LINE 128: up the whole of her thin, sickly face and made it beautiful. Her brother
+LINE 129: would have taken the icon, but she stopped him. Andrew understood,
+LINE 130: crossed himself and kissed the icon. There was a look of tenderness, for
+LINE 131: he was touched, but also a gleam of irony on his face.
+LINE 132: "Thank you, my dear." She kissed him on the forehead and sat down
+LINE 133: again on the sofa. They were silent for a while.
+LINE 134: "As I was saying to you, Andrew, be kind and generous as you always
+LINE 135: used to be. Don't judge Lise harshly," she began. "She is so
+LINE 136: sweet, so good-natured, and her position now is a very hard one."
+LINE 137: "I do not think I have complained of my wife to you, Másha, or blamed
+LINE 138: her. Why do you say all this to me?"
+LINE 139: Red patches appeared on Princess Mary's face and she was silent as if
+LINE 140: she felt guilty.
+LINE 141: "I have said nothing to you, but you have already been talked to. And
+LINE 142: I am sorry for that," he went on.
+LINE 143: The patches grew deeper on her forehead, neck, and cheeks. She tried to
+LINE 144: say something but could not. Her brother had guessed right: the little
+LINE 145: princess had been crying after dinner and had spoken of her forebodings
+LINE 146: about her confinement, and how she dreaded it, and had complained of her
+LINE 147: fate, her father-in-law, and her husband. After crying she had fallen
+LINE 148: asleep. Prince Andrew felt sorry for his sister.
+LINE 149: "Know this, Másha: I can't reproach, have not reproached, and never
+LINE 150: shall reproach my wife with anything, and I cannot reproach myself
+LINE 151: with anything in regard to her; and that always will be so in whatever
+LINE 152: circumstances I may be placed. But if you want to know the truth... if
+LINE 153: you want to know whether I am happy? No! Is she happy? No! But why this
+LINE 154: is so I don't know..."
+LINE 155: As he said this he rose, went to his sister, and, stooping, kissed
+LINE 156: her forehead. His fine eyes lit up with a thoughtful, kindly, and
+LINE 157: unaccustomed brightness, but he was looking not at his sister but over
+LINE 158: her head toward the darkness of the open doorway.
+LINE 159: "Let us go to her, I must say good-by. Or—go and wake and I'll
+LINE 160: come in a moment. Petrúshka!" he called to his valet: "Come here,
+LINE 161: take these away. Put this on the seat and this to the right."
+LINE 162: Princess Mary rose and moved to the door, then stopped and said:
+LINE 163: "Andrew, if you had faith you would have turned to God and asked Him
+LINE 164: to give you the love you do not feel, and your prayer would have been
+LINE 165: answered."
+LINE 166: "Well, maybe!" said Prince Andrew. "Go, Másha; I'll come
+LINE 167: immediately."
+LINE 168: On the way to his sister's room, in the passage which connected one
+LINE 169: wing with the other, Prince Andrew met Mademoiselle Bourienne smiling
+LINE 170: sweetly. It was the third time that day that, with an ecstatic and
+LINE 171: artless smile, she had met him in secluded passages.
+LINE 172: "Oh! I thought you were in your room," she said, for some reason
+LINE 173: blushing and dropping her eyes.
+LINE 174: Prince Andrew looked sternly at her and an expression of anger suddenly
+LINE 175: came over his face. He said nothing to her but looked at her forehead
+LINE 176: and hair, without looking at her eyes, with such contempt that the
+LINE 177: Frenchwoman blushed and went away without a word. When he reached his
+LINE 178: sister's room his wife was already awake and her merry voice, hurrying
+LINE 179: one word after another, came through the open door. She was speaking as
+LINE 180: usual in French, and as if after long self-restraint she wished to make
+LINE 181: up for lost time.
+LINE 182: "No, but imagine the old Countess Zúbova, with false curls and her
+LINE 183: mouth full of false teeth, as if she were trying to cheat old age....
+LINE 184: Ha, ha, ha! Mary!"
+LINE 185: This very sentence about Countess Zúbova and this same laugh Prince
+LINE 186: Andrew had already heard from his wife in the presence of others some
+LINE 187: five times. He entered the room softly. The little princess, plump and
+LINE 188: rosy, was sitting in an easy chair with her work in her hands, talking
+LINE 189: incessantly, repeating Petersburg reminiscences and even phrases. Prince
+LINE 190: Andrew came up, stroked her hair, and asked if she felt rested after
+LINE 191: their journey. She answered him and continued her chatter.
+LINE 192: The coach with six horses was waiting at the porch. It was an autumn
+LINE 193: night, so dark that the coachman could not see the carriage pole.
+LINE 194: Servants with lanterns were bustling about in the porch. The immense
+LINE 195: house was brilliant with lights shining through its lofty windows. The
+LINE 196: domestic serfs were crowding in the hall, waiting to bid good-by to
+LINE 197: the young prince. The members of the household were all gathered in the
+LINE 198: reception hall: Michael Ivánovich, Mademoiselle Bourienne, Princess
+LINE 199: Mary, and the little princess. Prince Andrew had been called to his
+LINE 200: father's study as the latter wished to say good-by to him alone. All
+LINE 201: were waiting for them to come out.
+LINE 202: When Prince Andrew entered the study the old man in his old-age
+LINE 203: spectacles and white dressing gown, in which he received no one but his
+LINE 204: son, sat at the table writing. He glanced round.
+LINE 205: "Going?" And he went on writing.
+LINE 206: "I've come to say good-by."
+LINE 207: "Kiss me here," and he touched his cheek: "Thanks, thanks!"
+LINE 208: "What do you thank me for?"
+LINE 209: "For not dilly-dallying and not hanging to a woman's apron strings.
+LINE 210: The Service before everything. Thanks, thanks!" And he went on
+LINE 211: writing, so that his quill spluttered and squeaked. "If you have
+LINE 212: anything to say, say it. These two things can be done together," he
+LINE 213: added.
+LINE 214: "About my wife... I am ashamed as it is to leave her on your
+LINE 215: hands...."
+LINE 216: "Why talk nonsense? Say what you want."
+LINE 217: "When her confinement is due, send to Moscow for an accoucheur.... Let
+LINE 218: him be here...."
+LINE 219: The old prince stopped writing and, as if not understanding, fixed his
+LINE 220: stern eyes on his son.
+LINE 221: "I know that no one can help if nature does not do her work," said
+LINE 222: Prince Andrew, evidently confused. "I know that out of a million
+LINE 223: cases only one goes wrong, but it is her fancy and mine. They have been
+LINE 224: telling her things. She has had a dream and is frightened."
+LINE 225: "Hm... Hm..." muttered the old prince to himself, finishing what he
+LINE 226: was writing. "I'll do it."
+LINE 227: He signed with a flourish and suddenly turning to his son began to
+LINE 228: laugh.
+LINE 229: "It's a bad business, eh?"
+LINE 230: "What is bad, Father?"
+LINE 231: "The wife!" said the old prince, briefly and significantly.
+LINE 232: "I don't understand!" said Prince Andrew.
+LINE 233: "No, it can't be helped, lad," said the prince. "They're
+LINE 234: all like that; one can't unmarry. Don't be afraid; I won't tell
+LINE 235: anyone, but you know it yourself."
+LINE 236: He seized his son by the hand with small bony fingers, shook it, looked
+LINE 237: straight into his son's face with keen eyes which seemed to see
+LINE 238: through him, and again laughed his frigid laugh.
+LINE 239: The son sighed, thus admitting that his father had understood him. The
+LINE 240: old man continued to fold and seal his letter, snatching up and throwing
+LINE 241: down the wax, the seal, and the paper, with his accustomed rapidity.
+LINE 242: "What's to be done? She's pretty! I will do everything. Make your
+LINE 243: mind easy," said he in abrupt sentences while sealing his letter.
+LINE 244: Andrew did not speak; he was both pleased and displeased that his father
+LINE 245: understood him. The old man got up and gave the letter to his son.
+LINE 246: "Listen!" said he; "don't worry about your wife: what can be
+LINE 247: done shall be. Now listen! Give this letter to Michael Ilariónovich. *
+LINE 248: I have written that he should make use of you in proper places and not
+LINE 249: keep you long as an adjutant: a bad position! Tell him I remember
+LINE 250: and like him. Write and tell me how he receives you. If he is all
+LINE 251: right—serve him. Nicholas Bolkónski's son need not serve under
+LINE 252: anyone if he is in disfavor. Now come here."
+LINE 253: *Kutúzov.
+LINE 254: He spoke so rapidly that he did not finish half his words, but his son
+LINE 255: was accustomed to understand him. He led him to the desk, raised the
+LINE 256: lid, drew out a drawer, and took out an exercise book filled with his
+LINE 257: bold, tall, close handwriting.
+LINE 258: "I shall probably die before you. So remember, these are my memoirs;
+LINE 259: hand them to the Emperor after my death. Now here is a Lombard bond
+LINE 260: and a letter; it is a premium for the man who writes a history of
+LINE 261: Suvórov's wars. Send it to the Academy. Here are some jottings for
+LINE 262: you to read when I am gone. You will find them useful."
+LINE 263: Andrew did not tell his father that he would no doubt live a long time
+LINE 264: yet. He felt that he must not say it.
+LINE 265: "I will do it all, Father," he said.
+LINE 266: "Well, now, good-by!" He gave his son his hand to kiss, and embraced
+LINE 267: him. "Remember this, Prince Andrew, if they kill you it will hurt me,
+LINE 268: your old father..." he paused unexpectedly, and then in a querulous
+LINE 269: voice suddenly shrieked: "but if I hear that you have not behaved like
+LINE 270: a son of Nicholas Bolkónski, I shall be ashamed!"
+LINE 271: "You need not have said that to me, Father," said the son with a
+LINE 272: smile.
+LINE 273: The old man was silent.
+LINE 274: "I also wanted to ask you," continued Prince Andrew, "if I'm
+LINE 275: killed and if I have a son, do not let him be taken away from you—as I
+LINE 276: said yesterday... let him grow up with you.... Please."
+LINE 277: "Not let the wife have him?" said the old man, and laughed.
+LINE 278: They stood silent, facing one another. The old man's sharp eyes were
+LINE 279: fixed straight on his son's. Something twitched in the lower part of
+LINE 280: the old prince's face.
+LINE 281: "We've said good-by. Go!" he suddenly shouted in a loud, angry
+LINE 282: voice, opening his door.
+LINE 283: "What is it? What?" asked both princesses when they saw for a moment
+LINE 284: at the door Prince Andrew and the figure of the old man in a white
+LINE 285: dressing gown, spectacled and wigless, shouting in an angry voice.
+LINE 286: Prince Andrew sighed and made no reply.
+LINE 287: "Well!" he said, turning to his wife.
+LINE 288: And this "Well!" sounded coldly ironic, as if he were saying: "Now
+LINE 289: go through your performance."
+LINE 290: "Andrew, already!" said the little princess, turning pale and
+LINE 291: looking with dismay at her husband.
+LINE 292: He embraced her. She screamed and fell unconscious on his shoulder.
+LINE 293: He cautiously released the shoulder she leaned on, looked into her face,
+LINE 294: and carefully placed her in an easy chair.
+LINE 295: "Adieu, Mary," said he gently to his sister, taking her by the hand
+LINE 296: and kissing her, and then he left the room with rapid steps.
+LINE 297: The little princess lay in the armchair, Mademoiselle Bourienne chafing
+LINE 298: her temples. Princess Mary, supporting her sister-in-law, still looked
+LINE 299: with her beautiful eyes full of tears at the door through which Prince
+LINE 300: Andrew had gone and made the sign of the cross in his direction. From
+LINE 301: the study, like pistol shots, came the frequent sound of the old man
+LINE 302: angrily blowing his nose. Hardly had Prince Andrew gone when the study
+LINE 303: door opened quickly and the stern figure of the old man in the white
+LINE 304: dressing gown looked out.
+LINE 305: "Gone? That's all right!" said he; and looking angrily at the
+LINE 306: unconscious little princess, he shook his head reprovingly and slammed
+LINE 307: the door.

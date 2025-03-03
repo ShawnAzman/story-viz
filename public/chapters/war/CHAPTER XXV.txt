@@ -1,0 +1,311 @@
+LINE 1: At Bald Hills, Prince Nicholas Andréevich Bolkónski's estate, the
+LINE 2: arrival of young Prince Andrew and his wife was daily expected, but
+LINE 3: this expectation did not upset the regular routine of life in the old
+LINE 4: prince's household. General in Chief Prince Nicholas Andréevich
+LINE 5: (nicknamed in society, "the King of Prussia") ever since the Emperor
+LINE 6: Paul had exiled him to his country estate had lived there continuously
+LINE 7: with his daughter, Princess Mary, and her companion, Mademoiselle
+LINE 8: Bourienne. Though in the new reign he was free to return to the
+LINE 9: capitals, he still continued to live in the country, remarking that
+LINE 10: anyone who wanted to see him could come the hundred miles from Moscow to
+LINE 11: Bald Hills, while he himself needed no one and nothing. He used to
+LINE 12: say that there are only two sources of human vice—idleness and
+LINE 13: superstition, and only two virtues—activity and intelligence. He
+LINE 14: himself undertook his daughter's education, and to develop these two
+LINE 15: cardinal virtues in her gave her lessons in algebra and geometry
+LINE 16: till she was twenty, and arranged her life so that her whole time was
+LINE 17: occupied. He was himself always occupied: writing his memoirs, solving
+LINE 18: problems in higher mathematics, turning snuffboxes on a lathe, working
+LINE 19: in the garden, or superintending the building that was always going on
+LINE 20: at his estate. As regularity is a prime condition facilitating activity,
+LINE 21: regularity in his household was carried to the highest point of
+LINE 22: exactitude. He always came to table under precisely the same conditions,
+LINE 23: and not only at the same hour but at the same minute. With those about
+LINE 24: him, from his daughter to his serfs, the prince was sharp and invariably
+LINE 25: exacting, so that without being a hardhearted man he inspired such fear
+LINE 26: and respect as few hardhearted men would have aroused. Although he was
+LINE 27: in retirement and had now no influence in political affairs, every high
+LINE 28: official appointed to the province in which the prince's estate lay
+LINE 29: considered it his duty to visit him and waited in the lofty antechamber
+LINE 30: just as the architect, gardener, or Princess Mary did, till the prince
+LINE 31: appeared punctually to the appointed hour. Everyone sitting in this
+LINE 32: antechamber experienced the same feeling of respect and even fear when
+LINE 33: the enormously high study door opened and showed the figure of a rather
+LINE 34: small old man, with powdered wig, small withered hands, and bushy gray
+LINE 35: eyebrows which, when he frowned, sometimes hid the gleam of his shrewd,
+LINE 36: youthfully glittering eyes.
+LINE 37: On the morning of the day that the young couple were to arrive, Princess
+LINE 38: Mary entered the antechamber as usual at the time appointed for the
+LINE 39: morning greeting, crossing herself with trepidation and repeating a
+LINE 40: silent prayer. Every morning she came in like that, and every morning
+LINE 41: prayed that the daily interview might pass off well.
+LINE 42: An old powdered manservant who was sitting in the antechamber rose
+LINE 43: quietly and said in a whisper: "Please walk in."
+LINE 44: Through the door came the regular hum of a lathe. The princess timidly
+LINE 45: opened the door which moved noiselessly and easily. She paused at the
+LINE 46: entrance. The prince was working at the lathe and after glancing round
+LINE 47: continued his work.
+LINE 48: The enormous study was full of things evidently in constant use.
+LINE 49: The large table covered with books and plans, the tall glass-fronted
+LINE 50: bookcases with keys in the locks, the high desk for writing while
+LINE 51: standing up, on which lay an open exercise book, and the lathe with
+LINE 52: tools laid ready to hand and shavings scattered around—all indicated
+LINE 53: continuous, varied, and orderly activity. The motion of the small foot
+LINE 54: shod in a Tartar boot embroidered with silver, and the firm pressure
+LINE 55: of the lean sinewy hand, showed that the prince still possessed the
+LINE 56: tenacious endurance and vigor of hardy old age. After a few more turns
+LINE 57: of the lathe he removed his foot from the pedal, wiped his chisel,
+LINE 58: dropped it into a leather pouch attached to the lathe, and, approaching
+LINE 59: the table, summoned his daughter. He never gave his children a blessing,
+LINE 60: so he simply held out his bristly cheek (as yet unshaven) and, regarding
+LINE 61: her tenderly and attentively, said severely:
+LINE 62: "Quite well? All right then, sit down." He took the exercise book
+LINE 63: containing lessons in geometry written by himself and drew up a chair
+LINE 64: with his foot.
+LINE 65: "For tomorrow!" said he, quickly finding the page and making a
+LINE 66: scratch from one paragraph to another with his hard nail.
+LINE 67: The princess bent over the exercise book on the table.
+LINE 68: "Wait a bit, here's a letter for you," said the old man suddenly,
+LINE 69: taking a letter addressed in a woman's hand from a bag hanging above
+LINE 70: the table, onto which he threw it.
+LINE 71: At the sight of the letter red patches showed themselves on the
+LINE 72: princess' face. She took it quickly and bent her head over it.
+LINE 73: "From Héloïse?" asked the prince with a cold smile that showed his
+LINE 74: still sound, yellowish teeth.
+LINE 75: "Yes, it's from Julie," replied the princess with a timid glance
+LINE 76: and a timid smile.
+LINE 77: "I'll let two more letters pass, but the third I'll read," said
+LINE 78: the prince sternly; "I'm afraid you write much nonsense. I'll read
+LINE 79: the third!"
+LINE 80: "Read this if you like, Father," said the princess, blushing still
+LINE 81: more and holding out the letter.
+LINE 82: "The third, I said the third!" cried the prince abruptly, pushing
+LINE 83: the letter away, and leaning his elbows on the table he drew toward him
+LINE 84: the exercise book containing geometrical figures.
+LINE 85: "Well, madam," he began, stooping over the book close to his
+LINE 86: daughter and placing an arm on the back of the chair on which she sat,
+LINE 87: so that she felt herself surrounded on all sides by the acrid scent of
+LINE 88: old age and tobacco, which she had known so long. "Now, madam, these
+LINE 89: triangles are equal; please note that the angle ABC..."
+LINE 90: The princess looked in a scared way at her father's eyes glittering
+LINE 91: close to her; the red patches on her face came and went, and it was
+LINE 92: plain that she understood nothing and was so frightened that her
+LINE 93: fear would prevent her understanding any of her father's further
+LINE 94: explanations, however clear they might be. Whether it was the
+LINE 95: teacher's fault or the pupil's, this same thing happened every day:
+LINE 96: the princess' eyes grew dim, she could not see and could not hear
+LINE 97: anything, but was only conscious of her stern father's withered face
+LINE 98: close to her, of his breath and the smell of him, and could think only
+LINE 99: of how to get away quickly to her own room to make out the problem in
+LINE 100: peace. The old man was beside himself: moved the chair on which he was
+LINE 101: sitting noisily backward and forward, made efforts to control himself
+LINE 102: and not become vehement, but almost always did become vehement, scolded,
+LINE 103: and sometimes flung the exercise book away.
+LINE 104: The princess gave a wrong answer.
+LINE 105: "Well now, isn't she a fool!" shouted the prince, pushing the book
+LINE 106: aside and turning sharply away; but rising immediately, he paced up and
+LINE 107: down, lightly touched his daughter's hair and sat down again.
+LINE 108: He drew up his chair, and continued to explain.
+LINE 109: "This won't do, Princess; it won't do," said he, when Princess
+LINE 110: Mary, having taken and closed the exercise book with the next day's
+LINE 111: lesson, was about to leave: "Mathematics are most important, madam!
+LINE 112: I don't want to have you like our silly ladies. Get used to it and
+LINE 113: you'll like it," and he patted her cheek. "It will drive all the
+LINE 114: nonsense out of your head."
+LINE 115: She turned to go, but he stopped her with a gesture and took an uncut
+LINE 116: book from the high desk.
+LINE 117: "Here is some sort of Key to the Mysteries that your Héloïse has
+LINE 118: sent you. Religious! I don't interfere with anyone's belief... I
+LINE 119: have looked at it. Take it. Well, now go. Go."
+LINE 120: He patted her on the shoulder and himself closed the door after her.
+LINE 121: Princess Mary went back to her room with the sad, scared expression that
+LINE 122: rarely left her and which made her plain, sickly face yet plainer. She
+LINE 123: sat down at her writing table, on which stood miniature portraits and
+LINE 124: which was littered with books and papers. The princess was as untidy as
+LINE 125: her father was tidy. She put down the geometry book and eagerly broke
+LINE 126: the seal of her letter. It was from her most intimate friend from
+LINE 127: childhood; that same Julie Karágina who had been at the Rostóvs'
+LINE 128: name-day party.
+LINE 129: Julie wrote in French:
+LINE 130: Dear and precious Friend, How terrible and frightful a thing is
+LINE 131: separation! Though I tell myself that half my life and half my happiness
+LINE 132: are wrapped up in you, and that in spite of the distance separating us
+LINE 133: our hearts are united by indissoluble bonds, my heart rebels against
+LINE 134: fate and in spite of the pleasures and distractions around me I cannot
+LINE 135: overcome a certain secret sorrow that has been in my heart ever since
+LINE 136: we parted. Why are we not together as we were last summer, in your big
+LINE 137: study, on the blue sofa, the confidential sofa? Why cannot I now, as
+LINE 138: three months ago, draw fresh moral strength from your look, so gentle,
+LINE 139: calm, and penetrating, a look I loved so well and seem to see before me
+LINE 140: as I write?
+LINE 141: Having read thus far, Princess Mary sighed and glanced into the mirror
+LINE 142: which stood on her right. It reflected a weak, ungraceful figure and
+LINE 143: thin face. Her eyes, always sad, now looked with particular hopelessness
+LINE 144: at her reflection in the glass. "She flatters me," thought the
+LINE 145: princess, turning away and continuing to read. But Julie did not flatter
+LINE 146: her friend, the princess' eyes—large, deep and luminous (it seemed
+LINE 147: as if at times there radiated from them shafts of warm light)—were
+LINE 148: so beautiful that very often in spite of the plainness of her face
+LINE 149: they gave her an attraction more powerful than that of beauty. But the
+LINE 150: princess never saw the beautiful expression of her own eyes—the look
+LINE 151: they had when she was not thinking of herself. As with everyone, her
+LINE 152: face assumed a forced unnatural expression as soon as she looked in a
+LINE 153: glass. She went on reading:
+LINE 154: All Moscow talks of nothing but war. One of my two brothers is already
+LINE 155: abroad, the other is with the Guards, who are starting on their march
+LINE 156: to the frontier. Our dear Emperor has left Petersburg and it is thought
+LINE 157: intends to expose his precious person to the chances of war. God grant
+LINE 158: that the Corsican monster who is destroying the peace of Europe may
+LINE 159: be overthrown by the angel whom it has pleased the Almighty, in His
+LINE 160: goodness, to give us as sovereign! To say nothing of my brothers, this
+LINE 161: war has deprived me of one of the associations nearest my heart. I mean
+LINE 162: young Nicholas Rostóv, who with his enthusiasm could not bear to remain
+LINE 163: inactive and has left the university to join the army. I will confess to
+LINE 164: you, dear Mary, that in spite of his extreme youth his departure for
+LINE 165: the army was a great grief to me. This young man, of whom I spoke to you
+LINE 166: last summer, is so noble-minded and full of that real youthfulness which
+LINE 167: one seldom finds nowadays among our old men of twenty and, particularly,
+LINE 168: he is so frank and has so much heart. He is so pure and poetic that
+LINE 169: my relations with him, transient as they were, have been one of the
+LINE 170: sweetest comforts to my poor heart, which has already suffered so much.
+LINE 171: Someday I will tell you about our parting and all that was said then.
+LINE 172: That is still too fresh. Ah, dear friend, you are happy not to know
+LINE 173: these poignant joys and sorrows. You are fortunate, for the latter are
+LINE 174: generally the stronger! I know very well that Count Nicholas is too
+LINE 175: young ever to be more to me than a friend, but this sweet friendship,
+LINE 176: this poetic and pure intimacy, were what my heart needed. But enough of
+LINE 177: this! The chief news, about which all Moscow gossips, is the death of
+LINE 178: old Count Bezúkhov, and his inheritance. Fancy! The three princesses
+LINE 179: have received very little, Prince Vasíli nothing, and it is Monsieur
+LINE 180: Pierre who has inherited all the property and has besides been
+LINE 181: recognized as legitimate; so that he is now Count Bezúkhov and
+LINE 182: possessor of the finest fortune in Russia. It is rumored that Prince
+LINE 183: Vasíli played a very despicable part in this affair and that he
+LINE 184: returned to Petersburg quite crestfallen.
+LINE 185: I confess I understand very little about all these matters of wills and
+LINE 186: inheritance; but I do know that since this young man, whom we all used
+LINE 187: to know as plain Monsieur Pierre, has become Count Bezúkhov and the
+LINE 188: owner of one of the largest fortunes in Russia, I am much amused to
+LINE 189: watch the change in the tone and manners of the mammas burdened by
+LINE 190: marriageable daughters, and of the young ladies themselves, toward
+LINE 191: him, though, between you and me, he always seemed to me a poor sort
+LINE 192: of fellow. As for the past two years people have amused themselves
+LINE 193: by finding husbands for me (most of whom I don't even know), the
+LINE 194: matchmaking chronicles of Moscow now speak of me as the future Countess
+LINE 195: Bezúkhova. But you will understand that I have no desire for the post.
+LINE 196: À propos of marriages: do you know that a while ago that universal
+LINE 197: auntie Anna Mikháylovna told me, under the seal of strict secrecy, of
+LINE 198: a plan of marriage for you. It is neither more nor less than with Prince
+LINE 199: Vasíli's son Anatole, whom they wish to reform by marrying him to
+LINE 200: someone rich and distinguée, and it is on you that his relations'
+LINE 201: choice has fallen. I don't know what you will think of it, but
+LINE 202: I consider it my duty to let you know of it. He is said to be very
+LINE 203: handsome and a terrible scapegrace. That is all I have been able to find
+LINE 204: out about him.
+LINE 205: But enough of gossip. I am at the end of my second sheet of paper, and
+LINE 206: Mamma has sent for me to go and dine at the Apráksins'. Read the
+LINE 207: mystical book I am sending you; it has an enormous success here. Though
+LINE 208: there are things in it difficult for the feeble human mind to grasp, it
+LINE 209: is an admirable book which calms and elevates the soul. Adieu! Give
+LINE 210: my respects to monsieur your father and my compliments to Mademoiselle
+LINE 211: Bourienne. I embrace you as I love you.
+LINE 212: JULIE
+LINE 213: P.S. Let me have news of your brother and his charming little wife.
+LINE 214: The princess pondered awhile with a thoughtful smile and her luminous
+LINE 215: eyes lit up so that her face was entirely transformed. Then she suddenly
+LINE 216: rose and with her heavy tread went up to the table. She took a sheet of
+LINE 217: paper and her hand moved rapidly over it. This is the reply she wrote,
+LINE 218: also in French:
+LINE 219: Dear and precious Friend, Your letter of the 13th has given me great
+LINE 220: delight. So you still love me, my romantic Julie? Separation, of which
+LINE 221: you say so much that is bad, does not seem to have had its usual effect
+LINE 222: on you. You complain of our separation. What then should I say, if I
+LINE 223: dared complain, I who am deprived of all who are dear to me? Ah, if
+LINE 224: we had not religion to console us life would be very sad. Why do you
+LINE 225: suppose that I should look severely on your affection for that young
+LINE 226: man? On such matters I am only severe with myself. I understand such
+LINE 227: feelings in others, and if never having felt them I cannot approve of
+LINE 228: them, neither do I condemn them. Only it seems to me that Christian
+LINE 229: love, love of one's neighbor, love of one's enemy, is worthier,
+LINE 230: sweeter, and better than the feelings which the beautiful eyes of a
+LINE 231: young man can inspire in a romantic and loving young girl like yourself.
+LINE 232: The news of Count Bezúkhov's death reached us before your letter
+LINE 233: and my father was much affected by it. He says the count was the last
+LINE 234: representative but one of the great century, and that it is his own
+LINE 235: turn now, but that he will do all he can to let his turn come as late as
+LINE 236: possible. God preserve us from that terrible misfortune!
+LINE 237: I cannot agree with you about Pierre, whom I knew as a child. He always
+LINE 238: seemed to me to have an excellent heart, and that is the quality I value
+LINE 239: most in people. As to his inheritance and the part played by Prince
+LINE 240: Vasíli, it is very sad for both. Ah, my dear friend, our divine
+LINE 241: Saviour's words, that it is easier for a camel to go through the
+LINE 242: eye of a needle than for a rich man to enter the Kingdom of God, are
+LINE 243: terribly true. I pity Prince Vasíli but am still more sorry for Pierre.
+LINE 244: So young, and burdened with such riches—to what temptations he will be
+LINE 245: exposed! If I were asked what I desire most on earth, it would be to be
+LINE 246: poorer than the poorest beggar. A thousand thanks, dear friend, for the
+LINE 247: volume you have sent me and which has such success in Moscow. Yet since
+LINE 248: you tell me that among some good things it contains others which our
+LINE 249: weak human understanding cannot grasp, it seems to me rather useless to
+LINE 250: spend time in reading what is unintelligible and can therefore bear
+LINE 251: no fruit. I never could understand the fondness some people have for
+LINE 252: confusing their minds by dwelling on mystical books that merely awaken
+LINE 253: their doubts and excite their imagination, giving them a bent for
+LINE 254: exaggeration quite contrary to Christian simplicity. Let us rather read
+LINE 255: the Epistles and Gospels. Let us not seek to penetrate what mysteries
+LINE 256: they contain; for how can we, miserable sinners that we are, know the
+LINE 257: terrible and holy secrets of Providence while we remain in this flesh
+LINE 258: which forms an impenetrable veil between us and the Eternal? Let us
+LINE 259: rather confine ourselves to studying those sublime rules which our
+LINE 260: divine Saviour has left for our guidance here below. Let us try to
+LINE 261: conform to them and follow them, and let us be persuaded that the less
+LINE 262: we let our feeble human minds roam, the better we shall please God, who
+LINE 263: rejects all knowledge that does not come from Him; and the less we seek
+LINE 264: to fathom what He has been pleased to conceal from us, the sooner will
+LINE 265: He vouchsafe its revelation to us through His divine Spirit.
+LINE 266: My father has not spoken to me of a suitor, but has only told me that he
+LINE 267: has received a letter and is expecting a visit from Prince Vasíli. In
+LINE 268: regard to this project of marriage for me, I will tell you, dear sweet
+LINE 269: friend, that I look on marriage as a divine institution to which we must
+LINE 270: conform. However painful it may be to me, should the Almighty lay
+LINE 271: the duties of wife and mother upon me I shall try to perform them as
+LINE 272: faithfully as I can, without disquieting myself by examining my feelings
+LINE 273: toward him whom He may give me for husband.
+LINE 274: I have had a letter from my brother, who announces his speedy arrival
+LINE 275: at Bald Hills with his wife. This pleasure will be but a brief one,
+LINE 276: however, for he will leave us again to take part in this unhappy war
+LINE 277: into which we have been drawn, God knows how or why. Not only where you
+LINE 278: are—at the heart of affairs and of the world—is the talk all of
+LINE 279: war, even here amid fieldwork and the calm of nature—which townsfolk
+LINE 280: consider characteristic of the country—rumors of war are heard
+LINE 281: and painfully felt. My father talks of nothing but marches and
+LINE 282: countermarches, things of which I understand nothing; and the day
+LINE 283: before yesterday during my daily walk through the village I witnessed a
+LINE 284: heartrending scene.... It was a convoy of conscripts enrolled from our
+LINE 285: people and starting to join the army. You should have seen the state of
+LINE 286: the mothers, wives, and children of the men who were going and should
+LINE 287: have heard the sobs. It seems as though mankind has forgotten the
+LINE 288: laws of its divine Saviour, Who preached love and forgiveness of
+LINE 289: injuries—and that men attribute the greatest merit to skill in killing
+LINE 290: one another.
+LINE 291: Adieu, dear and kind friend; may our divine Saviour and His most Holy
+LINE 292: Mother keep you in their holy and all-powerful care!
+LINE 293: MARY
+LINE 294: "Ah, you are sending off a letter, Princess? I have already dispatched
+LINE 295: mine. I have written to my poor mother," said the smiling Mademoiselle
+LINE 296: Bourienne rapidly, in her pleasant mellow tones and with guttural r's.
+LINE 297: She brought into Princess Mary's strenuous, mournful, and gloomy
+LINE 298: world a quite different atmosphere, careless, lighthearted, and
+LINE 299: self-satisfied.
+LINE 300: "Princess, I must warn you," she added, lowering her voice and
+LINE 301: evidently listening to herself with pleasure, and speaking with
+LINE 302: exaggerated grasseyement, "the prince has been scolding Michael
+LINE 303: Ivánovich. He is in a very bad humor, very morose. Be prepared."
+LINE 304: "Ah, dear friend," replied Princess Mary, "I have asked you never
+LINE 305: to warn me of the humor my father is in. I do not allow myself to judge
+LINE 306: him and would not have others do so."
+LINE 307: The princess glanced at her watch and, seeing that she was five minutes
+LINE 308: late in starting her practice on the clavichord, went into the sitting
+LINE 309: room with a look of alarm. Between twelve and two o'clock, as the
+LINE 310: day was mapped out, the prince rested and the princess played the
+LINE 311: clavichord.

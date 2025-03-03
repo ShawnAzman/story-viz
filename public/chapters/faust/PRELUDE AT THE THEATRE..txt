@@ -1,0 +1,239 @@
+LINE 1: /Manager/ of a Strolling Company.--/Stage-poet/--/Merryfellow/.
+LINE 2: Manager.
+LINE 3: Ye twain, in good and evil day
+LINE 4: So oft my solace and my stay,
+LINE 5: Say, have ye heard sure word, or wandering rumor
+LINE 6: How our new scheme affects the public humor?
+LINE 7: Without the multitude we cannot thrive,
+LINE 8: Their maxim is to live and to let live.
+LINE 9: The posts are up, the planks are fastened, and
+LINE 10: Each man's agog for something gay and grand.
+LINE 11: With arched eyebrows they sit already there,
+LINE 12: Gaping for something new to make them stare.
+LINE 13: I know the public taste, and profit by it;
+LINE 14: But still to-day I've fears of our succeeding:
+LINE 15: 'Tis true they're customed to no dainty diet,
+LINE 16: But they've gone through an awful breadth of reading.
+LINE 17: How shall we make our pieces fresh and new,
+LINE 18: And with some meaning in them, pleasing too?
+LINE 19: In sooth, I like to see the people pouring
+LINE 20: Into our booth, like storm and tempest roaring,
+LINE 21: While, as the waving impulse onward heaves them,
+LINE 22: The narrow gate of grace at length receives them,
+LINE 23: When, long ere it be dark, with lusty knocks
+LINE 24: They fight their way on to the money-box,
+LINE 25: And like a starving crowd around a baker's door,
+LINE 26: For tickets as for bread they roar.
+LINE 27: So wonder-working is the poet's sway
+LINE 28: O'er every heart--so may it work to-day!
+LINE 29: Poet.
+LINE 30: O mention not that motley throng to me,
+LINE 31: Which only seen makes frighted genius pause;
+LINE 32: Hide from my view that wild and whirling sea
+LINE 33: That sucks me in, and deep and downward draws.
+LINE 34: No! let some noiseless nook of refuge be
+LINE 35: My heaven, remote from boisterous rude applause,
+LINE 36: Where Love and Friendship, as a God inspires,
+LINE 37: Create and fan the pure heart's chastened fires.
+LINE 38: Alas! what there the shaping thought did rear,
+LINE 39: And scarce the trembling lip might lisping say,
+LINE 40: To Nature's rounded type not always near,
+LINE 41: The greedy moment rudely sweeps away.
+LINE 42: Oft-times a work, through many a patient year
+LINE 43: Must toil to reach its finished fair display;
+LINE 44: The glittering gaud may fix the passing gaze,
+LINE 45: But the pure gem gains Time's enduring praise.
+LINE 46: Merryfellow.
+LINE 47: Pshaw! Time will reap his own; but in our power
+LINE 48: The moment lies, and we must use the hour.
+LINE 49: The Future, no doubt, is the Present's heir,
+LINE 50: But we who live must first enjoy our share.
+LINE 51: Methinks the present of a goodly boy
+LINE 52: Has something that the wisest might enjoy.
+LINE 53: Whose ready lips with easy lightness brim,
+LINE 54: The people's humor need not trouble him;
+LINE 55: He courts a crowd the surer to impart
+LINE 56: The quickening word that stirs the kindred heart.
+LINE 57: Quit ye like men, be honest bards and true,
+LINE 58: Let Fancy with her many-sounding chorus,
+LINE 59: Reason, Sense, Feeling, Passion, move before us,
+LINE 60: But, mark me well--a spice of folly too!
+LINE 61: Manager.
+LINE 62: Give what you please, so that you give but plenty;
+LINE 63: They come to see, and you must feed their eyes;
+LINE 64: Scene upon scene, each act may have its twenty,
+LINE 65: To keep them gaping still in fresh surprise:
+LINE 66: This is the royal road to public favor;
+LINE 67: You snatch it thus, and it is yours for ever.
+LINE 68: A mass of things alone the mass secures;
+LINE 69: Each comes at last and culls his own from yours.
+LINE 70: Bring much, and every one is sure to find,
+LINE 71: In your rich nosegay, something to his mind.
+LINE 72: You give a piece, give it at once in pieces;
+LINE 73: Such a ragout each taste and temper pleases,
+LINE 74: And spares, if only they were wise to know it,
+LINE 75: Much fruitless toil to player and to poet.
+LINE 76: In vain into an artful whole you glue it;
+LINE 77: The public in the long run will undo it.
+LINE 78: Poet.
+LINE 79: What? feel you not the vileness of this trade?
+LINE 80: How much the genuine artist ye degrade?
+LINE 81: The bungling practice of our hasty school
+LINE 82: You raise into a maxim and a rule.
+LINE 83: Manager.
+LINE 84: All very well!--but when a man
+LINE 85: Has forged a scheme, and sketched a plan
+LINE 86: He must have sense to use the tool
+LINE 87: The best that for the job is fit.
+LINE 88: Consider what soft wood you have to split,
+LINE 89: And who the people are for whom you write.
+LINE 90: One comes to kill a few hours o' the night;
+LINE 91: Another, with his drowsy wits oppressed,
+LINE 92: An over-sated banquet to digest;
+LINE 93: And not a few, whom least of all we choose,
+LINE 94: Come to the play from reading the Reviews.
+LINE 95: They drift to us as to a masquerade;
+LINE 96: Mere curiosity wings their paces;
+LINE 97: The ladies show themselves, and show their silks and laces,
+LINE 98: And play their parts well, though they are not paid.
+LINE 99: What dream you of, on your poetic height?
+LINE 100: A crowded house, forsooth, gives you delight!
+LINE 101: Look at your patrons as you should,
+LINE 102: You'll find them one-half cold, and one-half crude.
+LINE 103: One leaves the play to spend the night
+LINE 104: Upon a wench's breast in wild delight;
+LINE 105: Another sets him down to cards, or calls
+LINE 106: For rattling dice, or clicking billiard balls.
+LINE 107: For such like hearers, and for ends like these
+LINE 108: Why should a bard the gentle Muses tease?
+LINE 109: I tell you, give them more, and ever more, and still
+LINE 110: A little more, if you would prove your skill.
+LINE 111: And since they can't discern the finer quality,
+LINE 112: Confound them with broad sweep of triviality--
+LINE 113: But what's the matter?--pain or ravishment?
+LINE 114: Poet.
+LINE 115: If such your service, you must be content
+LINE 116: With other servants who will take your pay!
+LINE 117: Shall then the bard his noblest right betray?
+LINE 118: The right of man, which Nature's gift imparts,
+LINE 119: For brainless plaudits basely jest away?
+LINE 120: What gives him power to move all hearts,
+LINE 121: Each stubborn element to sway,
+LINE 122: What but the harmony, his being's inmost tone,
+LINE 123: That charms all feelings back into his own?
+LINE 124: Where listless Nature, her eternal thread,
+LINE 125: The unwilling spindle twists around,
+LINE 126: And hostile shocks of things that will not wed
+LINE 127: With jarring dissonance resound,
+LINE 128: Who guides with living pulse the rhythmic flow
+LINE 129: Of powers that make sweet music as they go?
+LINE 130: Who consecrates each separate limb and soul
+LINE 131: To beat in glorious concert with the whole?
+LINE 132: Who makes the surgy-swelling billow
+LINE 133: Heave with the wildly heaving breast,
+LINE 134: And on the evening's rosy pillow,
+LINE 135: Invites the brooding heart to rest?
+LINE 136: Who scatters spring's most lovely blooms upon
+LINE 137: The path of the belovèd one?
+LINE 138: Who plaits the leaves that unregarded grow
+LINE 139: Into a crown to deck the honored brow?
+LINE 140: Who charms the gods? who makes Olympos yield?
+LINE 141: The power of man in poet's art revealed.
+LINE 142: Merryfellow.
+LINE 143: Then learn such subtle powers to wield,
+LINE 144: And on the poet's business enter
+LINE 145: As one does on a love-adventure.
+LINE 146: They meet by chance, are pleased, and stay
+LINE 147: On being pressed, just for a day;
+LINE 148: Then hours to hours are sweetly linked in chain,
+LINE 149: Till net-caught by degrees, they find retreat is vain.
+LINE 150: At first the sky is bright, then darkly lowers;
+LINE 151: To-day, fine thrilling rapture wings the hours,
+LINE 152: To-morrow, doubts and anguish have their chance,
+LINE 153: And, ere one knows, they're deep in a romance.
+LINE 154: A play like this both praise and profit brings.
+LINE 155: Plunge yourself boldly in the stream of things--
+LINE 156: What's lived by all, but known to few--
+LINE 157: And bring up something fresh and new,
+LINE 158: No matter what; just use your eyes,
+LINE 159: And all will praise what all can prize;
+LINE 160: Strange motley pictures in a misty mirror,
+LINE 161: A spark of truth in a thick cloud of error;
+LINE 162: 'Tis thus we brew the genuine beverage,
+LINE 163: To edify and to refresh the age.
+LINE 164: The bloom of youth in eager expectation,
+LINE 165: With gaping ears drinks in your revelation;
+LINE 166: Each tender sentimental disposition
+LINE 167: Sucks from your art sweet woe-be-gone nutrition;
+LINE 168: Each hears a part of what his own heart says,
+LINE 169: While over all your quickening sceptre sways.
+LINE 170: These younglings follow where you bid them go.
+LINE 171: Lightly to laughter stirred, or turned to woe,
+LINE 172: They love the show, and with an easy swing,
+LINE 173: Follow the lordly wafture of your wing;
+LINE 174: Your made-up man looks cold on everything,
+LINE 175: But growing minds take in what makes them grow.
+LINE 176: Poet.
+LINE 177: Then give me back the years again,
+LINE 178: When mine own spirit too was growing,
+LINE 179: When my whole being was a vein
+LINE 180: Of thronging songs within me flowing!
+LINE 181: Then slept the world in misty blue,
+LINE 182: Each bud the nascent wonder cherished,
+LINE 183: And all for me the flowerets grew,
+LINE 184: That on each meadow richly flourished.
+LINE 185: Though I had nothing then, I had a treasure,
+LINE 186: The thirst for truth, and in illusion pleasure.
+LINE 187: Give me the free, unshackled pinion,
+LINE 188: The height of joy, the depth of pain,
+LINE 189: Strong hate, and stronger love's dominion;
+LINE 190: O give me back my youth again!
+LINE 191: Merryfellow.
+LINE 192: The fire of youth, good friend, you need, of course,
+LINE 193: Into the hostile ranks to break,
+LINE 194: Or, when the loveliest damsels hang by force,
+LINE 195: With amorous clinging, from your neck,
+LINE 196: When swift your wingèd steps advance
+LINE 197: To where the racer's prize invites you,
+LINE 198: Or, after hours of whirling dance,
+LINE 199: The nightly deep carouse invites you.
+LINE 200: But to awake the well-known lyre
+LINE 201: With graceful touch that tempers fire,
+LINE 202: And to a self-appointed goal,
+LINE 203: With tuneful rambling on to roll,
+LINE 204: Such are your duties, aged sirs; nor we
+LINE 205: Less honor pay for this, nor stint your fee;
+LINE 206: Old age, not childish, makes the old; but they
+LINE 207: Are genuine children of a mellower day.
+LINE 208: Manager.
+LINE 209: Enough of words: 'tis time that we
+LINE 210: Were come to deeds; while you are spinning
+LINE 211: Fine airy phrases, fancy-free,
+LINE 212: We might have made some good beginning.
+LINE 213: What stuff you talk of being in the vein!
+LINE 214: A lazy man is never in the vein.
+LINE 215: If once your names are on the poet's roll,
+LINE 216: The Muses should be under your control.
+LINE 217: You know our want; a good stiff liquor
+LINE 218: To make their creeping blood flow quicker;
+LINE 219: Then brew the brews without delay;
+LINE 220: What was not done to-day, to-morrow
+LINE 221: Will leave undone for greater sorrow.
+LINE 222: Don't stand, and stare, and block the way,
+LINE 223: But with a firm, set purpose lay
+LINE 224: Hold of your bright thoughts as they rise to view,
+LINE 225: And bid them stay;
+LINE 226: Once caught, they will not lightly run away,
+LINE 227: Till they have done what in them lies to do.
+LINE 228: Among the sons of German play,
+LINE 229: Each tries his hand at what he may;
+LINE 230: Therefore be brilliant in your scenery,
+LINE 231: And spare no cost on your machinery.
+LINE 232: Let sun and moon be at your call,
+LINE 233: And scatter stars on stars around;
+LINE 234: Let water, fire, and rocky wall,
+LINE 235: And bird and beast and fish abound.
+LINE 236: Thus in your narrow booth mete forth
+LINE 237: The wide creation's flaming girth,
+LINE 238: And wing your progress, pondered well,
+LINE 239: From heaven to earth, from earth to hell.

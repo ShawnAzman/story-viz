@@ -1,0 +1,542 @@
+LINE 1: Scene I.
+LINE 2: /Night/.
+LINE 3: /Faust/ _discovered sitting restless at his desk, in a narrow
+LINE 4: high-vaulted Gothic chamber._
+LINE 5: Faust.
+LINE 6: There now, I've toiled my way quite through
+LINE 7: Law, Medicine, and Philosophy,
+LINE 8: And, to my sorrow, also thee,
+LINE 9: Theology, with much ado;
+LINE 10: And here I stand, poor human fool,
+LINE 11: As wise as when I went to school.
+LINE 12: Master, ay, Doctor, titled duly,
+LINE 13: An urchin-brood of boys unruly
+LINE 14: For ten slow-creeping years and mo,
+LINE 15: Up and down, and to and fro,
+LINE 16: I lead by the nose: and this I know,
+LINE 17: That vain is all our boasted lore--
+LINE 18: A thought that burns me to the core!
+LINE 19: True, I am wiser than all their tribe,
+LINE 20: Doctor, Master, Priest, and Scribe;
+LINE 21: No scruples nor doubts in my bosom dwell,
+LINE 22: I fear no devil, believe no hell;
+LINE 23: But with my fear all joy is gone,
+LINE 24: All rare conceit of wisdom won;
+LINE 25: All dreams so fond, all faith so fair,
+LINE 26: To make men better than they are.
+LINE 27: Nor gold have I, nor gear, nor fame,
+LINE 28: Station, or rank, or honored name,
+LINE 29: Here like a kennelled cur I lie!
+LINE 30: Therefore the magic art I'll try,
+LINE 31: From spirit's might and mouth to draw,
+LINE 32: Mayhap, some key to Nature's law;
+LINE 33: That I no more, with solemn show,
+LINE 34: May sweat to teach what I do not know;
+LINE 35: That I may ken the bond that holds
+LINE 36: The world, through all its mystic folds;
+LINE 37: The hidden seeds of things explore,
+LINE 38: And cheat my thought with words no more.
+LINE 39: O might thou shine, thou full moon bright,
+LINE 40: For the last time upon my woes,
+LINE 41: Thou whom, by this brown desk alone,
+LINE 42: So oft my wakeful eyes have known.
+LINE 43: Then over books and paper rose
+LINE 44: On me thy sad familiar light!
+LINE 45: Oh, that beneath thy friendly ray,
+LINE 46: On peaky summit I might stray,
+LINE 47: Round mountain caves with spirits hover,
+LINE 48: And flit the glimmering meadows over,
+LINE 49: And from all fevered fumes of thinking free,
+LINE 50: Bathe me to health within thy dewy sea.
+LINE 51: In vain! still pines my prisoned soul
+LINE 52: Within this curst dank dungeon-hole!
+LINE 53: Where dimly finds ev'n heaven's blest ray,
+LINE 54: Through painted glass, its struggling way.
+LINE 55: Shut in by heaps of books up-piled,
+LINE 56: All worm-begnawed and dust-besoiled,
+LINE 57: With yellowed papers, from the ground
+LINE 58: To the smoked ceiling, stuck around;
+LINE 59: Caged in with old ancestral lumber,
+LINE 60: Cases, boxes, without number,
+LINE 61: Broken glass, and crazy chair,
+LINE 62: Dust and brittleness everywhere;
+LINE 63: This is thy world, a world for a man's soul to breathe in!
+LINE 64: And ask I still why in my breast,
+LINE 65: My heart beats heavy and oppressed?
+LINE 66: And why some secret unknown sorrow
+LINE 67: Freezes my blood, and numbs my marrow?
+LINE 68: 'Stead of the living sphere of Nature,
+LINE 69: Where man was placed by his Creator,
+LINE 70: Surrounds thee mouldering dust alone,
+LINE 71: The grinning skull and skeleton.
+LINE 72: Arise! forth to the fields, arise!
+LINE 73: And this mysterious magic page,
+LINE 74: From Nostradamus' hand so sage,[*n1]
+LINE 75: Should guide thee well. Thy raptured eyes
+LINE 76: Shall then behold what force compels
+LINE 77: The tuneful spheres to chime together;
+LINE 78: When, taught by Nature's mightiest spells,
+LINE 79: Thine innate spring of soul upwells,
+LINE 80: As speaks one spirit to another.
+LINE 81: In vain my thought gropes blindly here,
+LINE 82: To make those sacred symbols clear;
+LINE 83: Ye unseen Powers that hover near me,
+LINE 84: Answer, I charge ye, when ye hear me!
+LINE 85: [_He opens the book, and sees the sign of the Macrocosm._][*n2]
+LINE 86: Ha! what ecstatic joy this page reveals,
+LINE 87: At once through all my thrilling senses flowing!
+LINE 88: Young holy zest of life my spirit feels
+LINE 89: In every vein, in every nerve, new glowing!
+LINE 90: Was it a God whose finger drew these signs,
+LINE 91: That, with mild pulse of joy, and breath of rest,
+LINE 92: Smooth the tumultuous heaving of my breast,
+LINE 93: And with mysterious virtue spread the lines
+LINE 94: Of Nature's cipher bare to mortal sight?
+LINE 95: Am I a God? so wondrous pure the light
+LINE 96: Within me! in these tokens I behold
+LINE 97: The powers by which all Nature is besouled.
+LINE 98: Now may I reach the sage's words aright;
+LINE 99: "The world of spirits is not barred;
+LINE 100: Thy sense is shut, thy heart is dead!
+LINE 101: Up, scholars, bathe your hearts so hard,
+LINE 102: In the fresh dew of morning's red!"
+LINE 103: [_He scans carefully the sign._]
+LINE 104: How mingles here in one the soul with soul,
+LINE 105: And lives each portion in the living whole!
+LINE 106: How heavenly Powers, ascending and descending,
+LINE 107: From hand to hand their golden ewers are lending,
+LINE 108: And bliss-exhaling swing from pole to pole!
+LINE 109: From the high welkin to earth's centre bounding,
+LINE 110: Harmonious all through the great All resounding!
+LINE 111: What wondrous show! but ah! 'tis but a show!
+LINE 112: Where grasp I thee, thou infinite Nature, where?
+LINE 113: And you, ye teeming breasts? ye founts whence flow
+LINE 114: All living influences fresh and fair?
+LINE 115: Whereon the heavens and earth dependent hang,
+LINE 116: Where seeks relief the withered bosom's pang?
+LINE 117: Your founts still well, and I must pine in vain!
+LINE 118: [_He turns the book over impatiently, and beholds the sign of the
+LINE 119: Spirit of the Earth._]
+LINE 120: What different working hath this sign?
+LINE 121: Thou Spirit of the Earth, I feel thee nearer;
+LINE 122: Already sees my strengthened spirit clearer;
+LINE 123: I glow as I had drunk new wine.
+LINE 124: New strength I feel to plunge into the strife,
+LINE 125: And bear the woes and share the joys of life,
+LINE 126: Buffet the blasts, and where the wild waves dash,
+LINE 127: Look calmly on the shipwreck's fearful crash!
+LINE 128: Clouds hover o'er me--
+LINE 129: The moon is dim!
+LINE 130: The lamp's flame wanes!
+LINE 131: It smokes!--Red beams dart forth
+LINE 132: Around my head--and from the vaulted roof
+LINE 133: Falls a cold shudder down,
+LINE 134: And grips me!--I feel
+LINE 135: Thou hover'st near me, conjured Spirit, now;
+LINE 136: Reveal thee!
+LINE 137: Ha! how swells with wild delight
+LINE 138: My bursting heart!
+LINE 139: And feelings, strange and new,
+LINE 140: At once through all my ravished senses dart!
+LINE 141: I feel my inmost soul made thrall to thee!
+LINE 142: Thou must! thou must! and were my life the fee!
+LINE 143: [_He seizes the book, and pronounces with a mysterious air the sign
+LINE 144: of the Spirit. A red flame darts forth, and the Spirit appears in the
+LINE 145: flame._
+LINE 146: Spirit.
+LINE 147: Who calls me?
+LINE 148: Faust. [_turning away_]
+LINE 149: Vision of affright!
+LINE 150: Spirit.
+LINE 151: Thou hast with mighty spell invoked me,
+LINE 152: And to obey thy call provoked me,
+LINE 153: And now--
+LINE 154: Faust.
+LINE 155: Hence from my sight!
+LINE 156: Spirit.
+LINE 157: Thy panting prayer besought my might to view,
+LINE 158: To hear my voice, and know my semblance too;
+LINE 159: Now bending from my native sphere to please thee,
+LINE 160: Here am I!--ha! what pitiful terrors seize thee,
+LINE 161: And overman thee quite! where now the call
+LINE 162: Of that proud soul, that scorned to own the thrall
+LINE 163: Of earth, a world within itself created,
+LINE 164: And bore and cherished? that with its fellows sated
+LINE 165: Swelled with prophetic joy to leave its sphere,
+LINE 166: And live a spirit with spirits, their rightful peer.
+LINE 167: Where art thou, Faust? whose invocation rung
+LINE 168: Upon mine ear, whose powers all round me clung?
+LINE 169: Art thou that Faust? whom melts my breath away,
+LINE 170: Trembling even to the life-depths of thy frame,
+LINE 171: Like a poor worm that crawls into his clay!
+LINE 172: Faust.
+LINE 173: Shall I then yield to thee, thou thing of flame?
+LINE 174: I am that Faust, and Spirit is my name!
+LINE 175: Spirit.
+LINE 176: Where life's floods flow
+LINE 177: And its tempests rave,
+LINE 178: Up and down I wave,
+LINE 179: Flit I to and fro!
+LINE 180: Birth and the grave,
+LINE 181: Life's hidden glow,
+LINE 182: A shifting motion,
+LINE 183: A boundless ocean
+LINE 184: Whose waters heave
+LINE 185: Eternally;
+LINE 186: Thus on the sounding loom of Time I weave
+LINE 187: The living mantle of the Deity.
+LINE 188: Faust.
+LINE 189: Thou who round the wide world wendest,
+LINE 190: Thou busy Spirit, how near I feel to thee!
+LINE 191: Spirit.
+LINE 192: Thou'rt like the spirit whom thou comprehendest,
+LINE 193: Not me! [_Vanishes._
+LINE 194: Faust.
+LINE 195: Not thee!
+LINE 196: Whom, then?
+LINE 197: I, image of the Godhead,
+LINE 198: Dwarfed by thee! [_Knocking is heard._]
+LINE 199: O death!--'tis Wagner's knock--I know it well,
+LINE 200: My famulus; he comes to mar the spell!
+LINE 201: Woe's me that such bright vision of the spheres
+LINE 202: Must vanish when this pedant-slave appears!
+LINE 203: Scene II.
+LINE 204: _Enter_ /Wagner/ _in night-gown and night-cap; a lamp in his hand._
+LINE 205: Wagner.
+LINE 206: Your pardon, sir, I heard your voice declaiming,
+LINE 207: No doubt some old Greek drama, and I came in,
+LINE 208: To profit by your learned recitation;
+LINE 209: For in these days the art of declamation
+LINE 210: Is held in highest estimation;
+LINE 211: And I have heard asserted that a preacher
+LINE 212: Might wisely have an actor for his teacher.
+LINE 213: Faust.
+LINE 214: Yes; when our parsons preach to make grimaces,
+LINE 215: As here and there a not uncommon case is.
+LINE 216: Wagner.
+LINE 217: Alack! when a poor wight is so confined
+LINE 218: Amid his books, shut up from all mankind,
+LINE 219: And sees the world scarce on a holiday,
+LINE 220: As through a telescope and far away,
+LINE 221: How may he hope, with nicely tempered skill,
+LINE 222: To bend the hearts he knows not to his will?
+LINE 223: Faust.
+LINE 224: What you don't feel, you'll hunt to find in vain.
+LINE 225: It must gush from the soul, possess the brain,
+LINE 226: And with an instinct kindly force compel
+LINE 227: All captive hearts to own the grateful spell;
+LINE 228: Go to! sit o'er your books, and snip and glue
+LINE 229: Your wretched piece-work, dressing your ragout
+LINE 230: From others' feasts, your piteous flames still blowing
+LINE 231: From sparks beneath dull heaps of ashes glowing;
+LINE 232: Vain wonderment of children and of apes,
+LINE 233: If with such paltry meed content thou art;
+LINE 234: The human heart to heart he only shapes,
+LINE 235: Whose words flow warm from human heart to heart.
+LINE 236: Wagner.
+LINE 237: But the delivery is a chief concern
+LINE 238: In Rhetoric; and alas! here I have much to learn.
+LINE 239: Faust.
+LINE 240: Be thine to seek the honest gain,
+LINE 241: No shallow-tinkling fool!
+LINE 242: Sound sense finds utterance for itself,
+LINE 243: Without the critic's rule.
+LINE 244: If clear your thought, and your intention true,
+LINE 245: What need to hunt for words with much ado?
+LINE 246: The trim orations your fine speaker weaves,
+LINE 247: Crisping light shreds of thought for shallow minds,
+LINE 248: Are unrefreshing as the foggy winds
+LINE 249: That whistle through the sapless autumn leaves.
+LINE 250: Wagner.
+LINE 251: Alas! how long is art,
+LINE 252: And human life how short!
+LINE 253: I feel at times with all my learned pains,
+LINE 254: As if a weight of lead were at my heart,
+LINE 255: And palsy on my brains.
+LINE 256: How high to climb up learning's lofty stair,
+LINE 257: How hard to find the helps that guide us there;
+LINE 258: And when scarce half the way behind him lies,
+LINE 259: His glass is run, and the poor devil dies!
+LINE 260: Faust.
+LINE 261: The parchment-roll is that the holy river,
+LINE 262: From which one draught shall slake the thirst forever?
+LINE 263: The quickening power of science only he
+LINE 264: Can know, from whose own soul it gushes free.
+LINE 265: Wagner.
+LINE 266: And yet the spirit of a bygone age,
+LINE 267: To re-create may well the wise engage;
+LINE 268: To know the choicest thoughts of every ancient sage,
+LINE 269: And think how far above their best we've mounted high!
+LINE 270: Faust.
+LINE 271: O yes, I trow, even to the stars, so high!
+LINE 272: My friend, the ages that are past
+LINE 273: Are as a book with seven seals made fast;
+LINE 274: And what men call the spirit of the age,
+LINE 275: Is but the spirit of the gentlemen
+LINE 276: Who glass their own thoughts in the pliant page,
+LINE 277: And image back themselves. O, then,
+LINE 278: What precious stuff they dish, and call't a book,
+LINE 279: Your stomach turns at the first look;
+LINE 280: A heap of rubbish, and a lumber room,
+LINE 281: At best some great state farce with proclamations,
+LINE 282: Pragmatic maxims, protocols, orations,
+LINE 283: Such as from puppet-mouths do fitly come!
+LINE 284: Wagner.
+LINE 285: But then the world!--the human heart and mind!
+LINE 286: Somewhat of this to know are all inclined.
+LINE 287: Faust.
+LINE 288: Yes! as such knowledge goes! but what man dares
+LINE 289: To call the child by the true name it bears?
+LINE 290: The noble few that something better knew,
+LINE 291: And to the gross reach of the general view,
+LINE 292: Their finer feelings bared, and insight true,
+LINE 293: From oldest times were burnt and crucified.
+LINE 294: I do beseech thee, friend--'tis getting late,
+LINE 295: 'Twere wise to put an end to our debate.
+LINE 296: Wagner.
+LINE 297: Such learned talk to draw through all the night
+LINE 298: With Doctor Faust were my supreme delight;
+LINE 299: But on the morrow, being Easter, I
+LINE 300: Your patience with some questions more may try.
+LINE 301: With zeal I've followed Learning's lofty call,
+LINE 302: Much I have learned, but fain would master all. [_Exit._
+LINE 303: Scene III.
+LINE 304: Faust. [_alone_]
+LINE 305: Strange how his pate alone hope never leaves,
+LINE 306: Who still to shallow husks of learning cleaves!
+LINE 307: With greedy hand who digs for hidden treasure,
+LINE 308: And, when he finds a grub, rejoiceth above measure!
+LINE 309: Durst such a mortal voice usurp mine ear
+LINE 310: When all the spirit-world was floating near?
+LINE 311: Yet, for this once, my thanks are free,
+LINE 312: Thou meanest of earth's sons, to thee!
+LINE 313: Thy presence drew me back from sheer despair,
+LINE 314: And shock too keen for mortal nerve to bear;
+LINE 315: Alas! so giant-great the vision came,
+LINE 316: That I might feel me dwarf, ev'n as I am.
+LINE 317: I, God's own image that already seemed
+LINE 318: To gaze where Truth's eternal mirror gleamed,
+LINE 319: And, clean divested of this cumbering clay,
+LINE 320: Basked in the bliss of heaven's vivific ray;
+LINE 321: I, more than cherub, with fresh pulses glowing,
+LINE 322: Who well nigh seemed through Nature's deep veins flowing
+LINE 323: Like a pure god, creative virtue knowing,
+LINE 324: What sharp reproof my hot presumption found!
+LINE 325: One word of thunder smote me to the ground.
+LINE 326: Alas! 'tis true! not I with thee and thine
+LINE 327: May dare to cope! the strength indeed was mine
+LINE 328: To make thee own my call, but not
+LINE 329: To chain thee to the charmèd spot.
+LINE 330: When that blest rapture thrilled my frame,
+LINE 331: I felt myself so small, so great;
+LINE 332: But thou didst spurn me back with shame,
+LINE 333: Into this crazy human state.
+LINE 334: Where find I aid? what follow? what eschew?
+LINE 335: Shall I that impulse of my soul obey?
+LINE 336: Alas! alas! but I must feel it true,
+LINE 337: The pains we suffer and the deeds we do,
+LINE 338: Are clogs alike in the free spirit's way.
+LINE 339: The godlike essence of our heaven-born powers
+LINE 340: Must yield to strange and still more strange intrusion;
+LINE 341: Soon as the good things of this world are ours,
+LINE 342: We deem our nobler self a vain illusion,
+LINE 343: And heaven-born instincts--very life of life--
+LINE 344: Are strangled in the low terrestrial strife.
+LINE 345: Young fancy, that once soared with flight sublime,
+LINE 346: On venturous vans, ev'n to th' Eternal's throne,
+LINE 347: Now schools her down a little space to own,
+LINE 348: When in the dark engulfing stream of time,
+LINE 349: Our fair-faced pleasures perish one by one.
+LINE 350: Care nestles deep in every heart,
+LINE 351: And, cradling there the secret smart,
+LINE 352: Rocks to and fro, and peace and joy are gone.
+LINE 353: What though new masks she still may wear,
+LINE 354: Wealth, house and hall, with acres rich and rare,
+LINE 355: As wife or child appear she, water, flame,
+LINE 356: Dagger, or poison, she is still the same;
+LINE 357: And still we fear the ill which happens never,
+LINE 358: And what we lose not are bewailing ever.
+LINE 359: Alas! alas! too deep 'tis felt! too deep!
+LINE 360: With gods may vie no son of mortal clay;
+LINE 361: More am I like to worms that crawl and creep,
+LINE 362: And dig, and dig through earth their lightless way,
+LINE 363: Which, while they feed on dust in narrow room,
+LINE 364: Find from the wanderer's foot their death-blow and their tomb.
+LINE 365: Is it not dust that this old wall
+LINE 366: From all its musty benches shows me?
+LINE 367: And dust the trifling trumperies all
+LINE 368: That in this world of moths enclose me?
+LINE 369: Here is it that I hope to find
+LINE 370: Wherewith to sate my craving mind?
+LINE 371: Need I spell out page after page,
+LINE 372: To know that men in every age
+LINE 373: And every clime, have spurred in vain
+LINE 374: The jaded muscle and the tortured brain,
+LINE 375: And here and there, with centuries between,
+LINE 376: One happy man belike hath been?
+LINE 377: Thou grinning skull, what wouldst thou say,
+LINE 378: Save that thy brain, in chase of truth, like mine,
+LINE 379: With patient toil pursued its floundering way
+LINE 380: By glimmering lights that through dim twilight-shine?
+LINE 381: Ye instruments, in sooth, now laugh at me,
+LINE 382: With wheel, and cog-wheel, ring, and cylinder;
+LINE 383: At Nature's door I stood; ye should have been the key,
+LINE 384: But though your ward be good, the bolt ye cannot stir.
+LINE 385: Mysterious Nature may not choose
+LINE 386: To unveil her secrets to the stare of day,
+LINE 387: And what from the mind's eye she stores away,
+LINE 388: Thou canst not force from her with levers and with screws.
+LINE 389: Thou antique gear, why dost thou cumber
+LINE 390: My chamber with thy useless lumber?
+LINE 391: My father housed thee on this spot,
+LINE 392: And I must keep thee, though I need thee not!
+LINE 393: Thou parchment roll that hast been smoked upon
+LINE 394: Long as around this desk the sorry lamp-light shone;
+LINE 395: Much better had I spent my little gear,
+LINE 396: Than with this little to sit mouldering here;
+LINE 397: Why should a man possess ancestral treasures,
+LINE 398: But by possession to enlarge his pleasures?
+LINE 399: The thing we use not a dead burden lies,
+LINE 400: But what the moment brings the wise man knows to prize.
+LINE 401: But what is this? there in the corner; why
+LINE 402: Does that flask play the magnet to mine eye?
+LINE 403: And why within me does this strange light shine,
+LINE 404: As the soft nightly moon through groves of sombre pine?
+LINE 405: I greet thee, matchless phial; and with devotion
+LINE 406: I take thee down, and in thy mellow potion
+LINE 407: I reverence human wit and human skill.
+LINE 408: Fine essence of the opiate dew of sleep,
+LINE 409: Dear extract of all subtle powers that kill,
+LINE 410: Be mine the first-fruits of thy strength to reap!
+LINE 411: I look on thee, and soothed is my heart's pain;
+LINE 412: I grasp thee, straight is lulled my racking brain,
+LINE 413: And wave by wave my soul's flood ebbs away.
+LINE 414: I see wide ocean's swell invite my wistful eyes,
+LINE 415: And at my feet her sparkling mirror lies;
+LINE 416: To brighter shores invites a brighter day.
+LINE 417: A car of fire comes hovering o'er my head,
+LINE 418: With gentle wafture; now let me pursue
+LINE 419: New flight adventurous, through the starry blue,
+LINE 420: And be my wingèd steps unburdened sped
+LINE 421: To spheres of uncramped energy divine!
+LINE 422: And may indeed this life of gods be mine,
+LINE 423: But now a worm, and cased in mortal clay?
+LINE 424: Yes! only let strong will high thought obey,
+LINE 425: To turn thy back on the blest light of day,
+LINE 426: And open burst the portals which by most
+LINE 427: With fear, that fain would pass them by, are crossed.
+LINE 428: Now is the time by deeds, not words, to prove
+LINE 429: That earth-born man yields not to gods above.
+LINE 430: Before that gloomy cavern not to tremble,
+LINE 431: Where all those spectral shapes of dread assemble,
+LINE 432: Which Fancy, slave of every childish fear,
+LINE 433: Bids, to the torment of herself, appear;
+LINE 434: Forward to strive unto that passage dire,
+LINE 435: Whose narrow mouth seems fenced with hell's collected fire;
+LINE 436: With glad resolve this leap to make, even though
+LINE 437: That thing we call our soul should into nothing flow!
+LINE 438: Now come thou forth! thou crystal goblet clear,
+LINE 439: From out thy worshipful old case,
+LINE 440: Where thou hast lain unused this many a year.
+LINE 441: In days of yore right gayly didst thou grace
+LINE 442: The festive meetings of my grey-beard sires,
+LINE 443: When passed from hand to hand the draught that glee inspires.
+LINE 444: Thy goodly round, the figures there
+LINE 445: Pictured with skill so quaint and rare,
+LINE 446: Each lusty drinker's duty to declare
+LINE 447: In ready rhyme what meaning they might bear,
+LINE 448: And at one draught to drain the brimming cup,--
+LINE 449: All this recalls full many a youthful night.
+LINE 450: Now to no comrade shall I yield thee up,
+LINE 451: Nor whet my wit upon thy pictures bright;
+LINE 452: Here is a juice intoxicates the soul
+LINE 453: Quickly. With dark brown flood it crowns the bowl.
+LINE 454: Let this last draught, my mingling and my choice,
+LINE 455: With blithesome heart be quaffed, and joyful voice,
+LINE 456: A solemn greeting to the rising morn!
+LINE 457: [_A sound of bells is heard, and distant quire-singing._
+LINE 458: Quire of Angels.
+LINE 459: Christ is arisen!
+LINE 460: Joy be to mortal man,
+LINE 461: Whom, since the world began,
+LINE 462: Evils inherited,
+LINE 463: By his sins merited,
+LINE 464: Through his veins creeping,
+LINE 465: Sin-bound are keeping.
+LINE 466: Faust.
+LINE 467: What sweet soft peals, what notes, so clear and pure,
+LINE 468: Draw from my lips the glass perforce away?
+LINE 469: Thus early do the bells their homage pay,
+LINE 470: Of holy hymning to new Easter day!
+LINE 471: Already sing the quires the soothing song
+LINE 472: That erst, round the dark grave, an angel throng
+LINE 473: Sang, to proclaim the great salvation sure!
+LINE 474: Quire of Women.
+LINE 475: With spices and balsams
+LINE 476: All sweetly we bathed Him;
+LINE 477: With cloths of fine linen
+LINE 478: All cleanly we swathed Him;
+LINE 479: In the tomb of the rock, where
+LINE 480: His body was lain,
+LINE 481: We come, and we seek
+LINE 482: Our loved Master, in vain!
+LINE 483: Quire of Angels.
+LINE 484: Christ is arisen!
+LINE 485: Praised be His name!
+LINE 486: Whose love shared with sinners
+LINE 487: Their sorrow and shame;
+LINE 488: Who bore the hard trial
+LINE 489: Of self-denial,
+LINE 490: And, victorious, ascends to the skies whence
+LINE 491: He came.
+LINE 492: Faust.
+LINE 493: What seek ye here, ye gently-swaying tones,
+LINE 494: Sweet seraph-music 'mid a mortal's groans?
+LINE 495: Soft-natured men may own that soothing chaunt;
+LINE 496: I hear the message, but the faith I want.
+LINE 497: For still the child to Faith most dear
+LINE 498: Was Miracle: nor I may vaunt
+LINE 499: To mount, and mingle with the sphere
+LINE 500: Whence such fair news floats down to mortal ear.
+LINE 501: And yet, with youthful memories fraught, this strain
+LINE 502: Hath power to call me back to life again.
+LINE 503: A time there was when Heaven's own kiss,
+LINE 504: On solemn Sabbath, seemed to fall on me,
+LINE 505: The minster-bell boomed forth no human bliss,
+LINE 506: And prayer to God was burning ecstasy.
+LINE 507: A dim desire of inarticulate good
+LINE 508: Drove me o'er hill and dale, through wold and wood,
+LINE 509: And, while hot tears streamed from mine eyes,
+LINE 510: I felt a world within me rise.
+LINE 511: This hymn proclaimed the sports of youthful days,
+LINE 512: And merry-makings when the spring began;
+LINE 513: Now Memory's potent spell my spirit sways,
+LINE 514: And thoughts of childhood rule the full-grown man.
+LINE 515: O! sound thou on, thou sweet celestial strain,
+LINE 516: The tear doth gush, Earth claims her truant son again!
+LINE 517: Quire of the Disciples.
+LINE 518: By death untimely, though
+LINE 519: Laid in the lowly grave,
+LINE 520: Soars He sublimely now
+LINE 521: Whence He came us to save.
+LINE 522: He on His Father's breast,
+LINE 523: Fountain of life and light;
+LINE 524: We on the earth oppressed,
+LINE 525: Groping through cloudy night;
+LINE 526: Comfortless left are we,
+LINE 527: Toiling through life's annoy,
+LINE 528: Weeping to envy thee,
+LINE 529: Master, thy joy!
+LINE 530: Quire of Angels.
+LINE 531: Christ is risen
+LINE 532: From Death's corrupting thrall,
+LINE 533: Break from your prison
+LINE 534: And follow His call!
+LINE 535: Praising by deeds of love
+LINE 536: Him who now reigns above,
+LINE 537: Feeding the brethren poor,
+LINE 538: Preaching salvation sure,
+LINE 539: Joys that shall aye endure,
+LINE 540: Knowing nor doubt nor fear,
+LINE 541: While He is near.
+LINE 542: /end of act first/.
