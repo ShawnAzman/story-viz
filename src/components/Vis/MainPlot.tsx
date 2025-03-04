@@ -61,6 +61,7 @@ function MainPlot() {
     chapterDivisions,
     customColorDict,
     character_data,
+    customYAxisOptions,
   } = dataStore();
 
   const activeChapterDivisions = chapterDivisions.filter(
@@ -223,6 +224,7 @@ function MainPlot() {
               {/* dashed line to connect gaps in character y axis view */}
               {yAxis.includes("character") &&
                 !yAxis.includes("#") &&
+                !customYAxisOptions.includes(yAxis) &&
                 characterPaths.length > 1 && (
                   <line
                     x1={charFirstPoint && charFirstPoint.x}
