@@ -1,0 +1,211 @@
+LINE 1: 1. Sun Tzŭ said: In the practical art of war, the best thing of all is
+LINE 2: to take the enemy's country whole and intact; to shatter and destroy it
+LINE 3: is not so good. So, too, it is better to capture an army entire than
+LINE 4: to destroy it, to capture a regiment, a detachment or a company entire
+LINE 5: than to destroy them.
+LINE 6: [The equivalent to an army corps, according to Ssu-ma Fa, consisted
+LINE 7: nominally of 12500 men; according to Ts'ao Kung, the equivalent of a
+LINE 8: regiment contained 500 men, the equivalent to a detachment consists
+LINE 9: from any number between 100 and 500, and the equivalent of a company
+LINE 10: contains from 5 to 100 men. For the last two, however, Chang Yu gives
+LINE 11: the exact figures of 100 and 5 respectively.]
+LINE 12: 2. Hence to fight and conquer in all your battles is not supreme
+LINE 13: excellence; supreme excellence consists in breaking the enemy's
+LINE 14: resistance without fighting.
+LINE 15: [Here again, no modern strategist but will approve the words of the old
+LINE 16: Chinese general. Moltke's greatest triumph, the capitulation of the
+LINE 17: huge French army at Sedan, was won practically without bloodshed.]
+LINE 18: 3. Thus the highest form of generalship is to baulk the enemy's plans;
+LINE 19: [Perhaps the word "balk" falls short of expressing the full force of
+LINE 20: the Chinese word, which implies not an attitude of defence, whereby one
+LINE 21: might be content to foil the enemy's stratagems one after another, but
+LINE 22: an active policy of counter-attack. Ho Shih puts this very clearly in
+LINE 23: his note: "When the enemy has made a plan of attack against us, we must
+LINE 24: anticipate him by delivering our own attack first."]
+LINE 25: the next best is to prevent the junction of the enemy's forces;
+LINE 26: [Isolating him from his allies. We must not forget that Sun Tzŭ, in
+LINE 27: speaking of hostilities, always has in mind the numerous states or
+LINE 28: principalities into which the China of his day was split up.]
+LINE 29: the next in order is to attack the enemy's army in the field;
+LINE 30: [When he is already at full strength.]
+LINE 31: and the worst policy of all is to besiege walled cities.
+LINE 32: 4. The rule is, not to besiege walled cities if it can possibly be
+LINE 33: avoided.
+LINE 34: [Another sound piece of military theory. Had the Boers acted upon it in
+LINE 35: 1899, and refrained from dissipating their strength before Kimberley,
+LINE 36: Mafeking, or even Ladysmith, it is more than probable that they would
+LINE 37: have been masters of the situation before the British were ready
+LINE 38: seriously to oppose them.]
+LINE 39: The preparation of mantlets, movable shelters, and various implements
+LINE 40: of war, will take up three whole months;
+LINE 41: [It is not quite clear what the Chinese word, here translated as
+LINE 42: "mantlets", described. Ts'ao Kung simply defines them as "large
+LINE 43: shields," but we get a better idea of them from Li Ch'uan, who says
+LINE 44: they were to protect the heads of those who were assaulting the city
+LINE 45: walls at close quarters. This seems to suggest a sort of Roman
+LINE 46: _testudo_, ready made. Tu Mu says they were wheeled vehicles used in
+LINE 47: repelling attacks, but this is denied by Ch'en Hao. See _supra_ II. 14.
+LINE 48: The name is also applied to turrets on city walls. Of the "movable
+LINE 49: shelters" we get a fairly clear description from several commentators.
+LINE 50: They were wooden missile-proof structures on four wheels, propelled
+LINE 51: from within, covered over with raw hides, and used in sieges to convey
+LINE 52: parties of men to and from the walls, for the purpose of filling up the
+LINE 53: encircling moat with earth. Tu Mu adds that they are now called "wooden
+LINE 54: donkeys."]
+LINE 55: and the piling up of mounds over against the walls will take three
+LINE 56: months more.
+LINE 57: [These were great mounds or ramparts of earth heaped up to the level of
+LINE 58: the enemy's walls in order to discover the weak points in the defence,
+LINE 59: and also to destroy the fortified turrets mentioned in the preceding
+LINE 60: note.]
+LINE 61: 5. The general, unable to control his irritation, will launch his men
+LINE 62: to the assault like swarming ants,
+LINE 63: [This vivid simile of Ts'ao Kung is taken from the spectacle of an army
+LINE 64: of ants climbing a wall. The meaning is that the general, losing
+LINE 65: patience at the long delay, may make a premature attempt to storm the
+LINE 66: place before his engines of war are ready.]
+LINE 67: with the result that one-third of his men are slain, while the town
+LINE 68: still remains untaken. Such are the disastrous effects of a siege.
+LINE 69: [We are reminded of the terrible losses of the Japanese before Port
+LINE 70: Arthur, in the most recent siege which history has to record.]
+LINE 71: 6. Therefore the skilful leader subdues the enemy's troops without any
+LINE 72: fighting; he captures their cities without laying siege to them; he
+LINE 73: overthrows their kingdom without lengthy operations in the field.
+LINE 74: [Chia Lin notes that he only overthrows the Government, but does no
+LINE 75: harm to individuals. The classical instance is Wu Wang, who after
+LINE 76: having put an end to the Yin dynasty was acclaimed "Father and mother
+LINE 77: of the people."]
+LINE 78: 7. With his forces intact he will dispute the mastery of the Empire,
+LINE 79: and thus, without losing a man, his triumph will be complete.
+LINE 80: [Owing to the double meanings in the Chinese text, the latter part of
+LINE 81: the sentence is susceptible of quite a different meaning: "And thus,
+LINE 82: the weapon not being blunted by use, its keenness remains perfect."]
+LINE 83: This is the method of attacking by stratagem.
+LINE 84: 8. It is the rule in war, if our forces are ten to the enemy's one, to
+LINE 85: surround him; if five to one, to attack him;
+LINE 86: [Straightway, without waiting for any further advantage.]
+LINE 87: if twice as numerous, to divide our army into two.
+LINE 88: [Tu Mu takes exception to the saying; and at first sight, indeed, it
+LINE 89: appears to violate a fundamental principle of war. Ts'ao Kung, however,
+LINE 90: gives a clue to Sun Tzŭ's meaning: "Being two to the enemy's one, we
+LINE 91: may use one part of our army in the regular way, and the other for some
+LINE 92: special diversion." Chang Yu thus further elucidates the point: "If our
+LINE 93: force is twice as numerous as that of the enemy, it should be split up
+LINE 94: into two divisions, one to meet the enemy in front, and one to fall
+LINE 95: upon his rear; if he replies to the frontal attack, he may be crushed
+LINE 96: from behind; if to the rearward attack, he may be crushed in front."
+LINE 97: This is what is meant by saying that 'one part may be used in the
+LINE 98: regular way, and the other for some special diversion.' Tu Mu does not
+LINE 99: understand that dividing one's army is simply an irregular, just as
+LINE 100: concentrating it is the regular, strategical method, and he is too
+LINE 101: hasty in calling this a mistake."]
+LINE 102: 9. If equally matched, we can offer battle;
+LINE 103: [Li Ch'uan, followed by Ho Shih, gives the following paraphrase: "If
+LINE 104: attackers and attacked are equally matched in strength, only the able
+LINE 105: general will fight."]
+LINE 106: if slightly inferior in numbers, we can avoid the enemy;
+LINE 107: [The meaning, "we can _watch_ the enemy," is certainly a great
+LINE 108: improvement on the above; but unfortunately there appears to be no very
+LINE 109: good authority for the variant. Chang Yu reminds us that the saying
+LINE 110: only applies if the other factors are equal; a small difference in
+LINE 111: numbers is often more than counterbalanced by superior energy and
+LINE 112: discipline.]
+LINE 113: if quite unequal in every way, we can flee from him.
+LINE 114: 10. Hence, though an obstinate fight may be made by a small force, in
+LINE 115: the end it must be captured by the larger force.
+LINE 116: 11. Now the general is the bulwark of the State: if the bulwark is
+LINE 117: complete at all points; the State will be strong; if the bulwark is
+LINE 118: defective, the State will be weak.
+LINE 119: [As Li Ch'uan tersely puts it: "Gap indicates deficiency; if the
+LINE 120: general's ability is not perfect (i.e. if he is not thoroughly versed
+LINE 121: in his profession), his army will lack strength."]
+LINE 122: 12. There are three ways in which a ruler can bring misfortune upon his
+LINE 123: army:—
+LINE 124: 13. (1) By commanding the army to advance or to retreat, being ignorant
+LINE 125: of the fact that it cannot obey. This is called hobbling the army.
+LINE 126: [Li Ch'uan adds the comment: "It is like tying together the legs of a
+LINE 127: thoroughbred, so that it is unable to gallop." One would naturally
+LINE 128: think of "the ruler" in this passage as being at home, and trying to
+LINE 129: direct the movements of his army from a distance. But the commentators
+LINE 130: understand just the reverse, and quote the saying of T'ai Kung: "A
+LINE 131: kingdom should not be governed from without, and army should not be
+LINE 132: directed from within." Of course it is true that, during an engagement,
+LINE 133: or when in close touch with the enemy, the general should not be in the
+LINE 134: thick of his own troops, but a little distance apart. Otherwise, he
+LINE 135: will be liable to misjudge the position as a whole, and give wrong
+LINE 136: orders.]
+LINE 137: 14. (2) By attempting to govern an army in the same way as he
+LINE 138: administers a kingdom, being ignorant of the conditions which obtain in
+LINE 139: an army. This causes restlessness in the soldier's minds.
+LINE 140: [Ts'ao Kung's note is, freely translated: "The military sphere and the
+LINE 141: civil sphere are wholly distinct; you can't handle an army in kid
+LINE 142: gloves." And Chang Yu says: "Humanity and justice are the principles on
+LINE 143: which to govern a state, but not an army; opportunism and flexibility,
+LINE 144: on the other hand, are military rather than civil virtues to assimilate
+LINE 145: the governing of an army"—to that of a State, understood.]
+LINE 146: 15. (3) By employing the officers of his army without discrimination,
+LINE 147: [That is, he is not careful to use the right man in the right place.]
+LINE 148: through ignorance of the military principle of adaptation to
+LINE 149: circumstances. This shakes the confidence of the soldiers.
+LINE 150: [I follow Mei Yao-ch'en here. The other commentators refer not to the
+LINE 151: ruler, as in §§ 13, 14, but to the officers he employs. Thus Tu Yu
+LINE 152: says: "If a general is ignorant of the principle of adaptability, he
+LINE 153: must not be entrusted with a position of authority." Tu Mu quotes: "The
+LINE 154: skilful employer of men will employ the wise man, the brave man, the
+LINE 155: covetous man, and the stupid man. For the wise man delights in
+LINE 156: establishing his merit, the brave man likes to show his courage in
+LINE 157: action, the covetous man is quick at seizing advantages, and the stupid
+LINE 158: man has no fear of death."]
+LINE 159: 16. But when the army is restless and distrustful, trouble is sure to
+LINE 160: come from the other feudal princes. This is simply bringing anarchy
+LINE 161: into the army, and flinging victory away.
+LINE 162: 17. Thus we may know that there are five essentials for victory: (1) He
+LINE 163: will win who knows when to fight and when not to fight.
+LINE 164: [Chang Yu says: If he can fight, he advances and takes the offensive;
+LINE 165: if he cannot fight, he retreats and remains on the defensive. He will
+LINE 166: invariably conquer who knows whether it is right to take the offensive
+LINE 167: or the defensive.]
+LINE 168: (2) He will win who knows how to handle both superior and inferior
+LINE 169: forces.
+LINE 170: [This is not merely the general's ability to estimate numbers
+LINE 171: correctly, as Li Ch'uan and others make out. Chang Yu expounds the
+LINE 172: saying more satisfactorily: "By applying the art of war, it is possible
+LINE 173: with a lesser force to defeat a greater, and _vice versa_. The secret
+LINE 174: lies in an eye for locality, and in not letting the right moment slip.
+LINE 175: Thus Wu Tzŭ says: 'With a superior force, make for easy ground; with an
+LINE 176: inferior one, make for difficult ground.'"]
+LINE 177: (3) He will win whose army is animated by the same spirit throughout
+LINE 178: all its ranks.
+LINE 179: (4) He will win who, prepared himself, waits to take the enemy
+LINE 180: unprepared.
+LINE 181: (5) He will win who has military capacity and is not interfered with by
+LINE 182: the sovereign.
+LINE 183: [Tu Yu quotes Wang Tzŭ as saying: "It is the sovereign's function to
+LINE 184: give broad instructions, but to decide on battle it is the function of
+LINE 185: the general." It is needless to dilate on the military disasters which
+LINE 186: have been caused by undue interference with operations in the field on
+LINE 187: the part of the home government. Napoleon undoubtedly owed much of his
+LINE 188: extraordinary success to the fact that he was not hampered by central
+LINE 189: authority.]
+LINE 190: Victory lies in the knowledge of these five points.
+LINE 191: [Literally, "These five things are knowledge of the principle of
+LINE 192: victory."]
+LINE 193: 18. Hence the saying: If you know the enemy and know yourself, you need
+LINE 194: not fear the result of a hundred battles. If you know yourself but not
+LINE 195: the enemy, for every victory gained you will also suffer a defeat.
+LINE 196: [Li Ch'uan cites the case of Fu Chien, prince of Ch'in, who in 383 A.D.
+LINE 197: marched with a vast army against the Chin Emperor. When warned not to
+LINE 198: despise an enemy who could command the services of such men as Hsieh An
+LINE 199: and Huan Ch'ung, he boastfully replied: "I have the population of eight
+LINE 200: provinces at my back, infantry and horsemen to the number of one
+LINE 201: million; why, they could dam up the Yangtsze River itself by merely
+LINE 202: throwing their whips into the stream. What danger have I to fear?"
+LINE 203: Nevertheless, his forces were soon after disastrously routed at the Fei
+LINE 204: River, and he was obliged to beat a hasty retreat.]
+LINE 205: If you know neither the enemy nor yourself, you will succumb in every
+LINE 206: battle.
+LINE 207: [Chang Yu said: "Knowing the enemy enables you to take the offensive,
+LINE 208: knowing yourself enables you to stand on the defensive." He adds:
+LINE 209: "Attack is the secret of defence; defence is the planning of an
+LINE 210: attack." It would be hard to find a better epitome of the
+LINE 211: root-principle of war.]

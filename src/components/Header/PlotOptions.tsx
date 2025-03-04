@@ -151,6 +151,12 @@ function PlotOptions() {
 
     "iliad-new",
     "iliad-new-themes",
+
+    "redchamber-new",
+    "redchamber-new-themes",
+
+    "artofwar-new",
+    "artofwar-new-themes",
   ].sort();
 
   const storyOptionsDisplay = storyOptions.filter(

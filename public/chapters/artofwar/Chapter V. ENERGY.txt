@@ -1,0 +1,222 @@
+LINE 1: 1. Sun Tzŭ said: The control of a large force is the same principle as
+LINE 2: the control of a few men: it is merely a question of dividing up their
+LINE 3: numbers.
+LINE 4: [That is, cutting up the army into regiments, companies, etc., with
+LINE 5: subordinate officers in command of each. Tu Mu reminds us of Han Hsin's
+LINE 6: famous reply to the first Han Emperor, who once said to him: "How large
+LINE 7: an army do you think I could lead?" "Not more than 100,000 men, your
+LINE 8: Majesty." "And you?" asked the Emperor. "Oh!" he answered, "the more
+LINE 9: the better."]
+LINE 10: 2. Fighting with a large army under your command is nowise different
+LINE 11: from fighting with a small one: it is merely a question of instituting
+LINE 12: signs and signals.
+LINE 13: 3. To ensure that your whole host may withstand the brunt of the
+LINE 14: enemy's attack and remain unshaken—this is effected by manœuvers direct
+LINE 15: and indirect.
+LINE 16: [We now come to one of the most interesting parts of Sun Tzŭ's
+LINE 17: treatise, the discussion of the _cheng_ and the _ch'i_." As it is by no
+LINE 18: means easy to grasp the full significance of these two terms, or to
+LINE 19: render them consistently by good English equivalents; it may be as well
+LINE 20: to tabulate some of the commentators' remarks on the subject before
+LINE 21: proceeding further. Li Ch'uan: "Facing the enemy is _cheng_, making
+LINE 22: lateral diversion is _ch'i_. Chia Lin: "In presence of the enemy, your
+LINE 23: troops should be arrayed in normal fashion, but in order to secure
+LINE 24: victory abnormal manœuvers must be employed." Mei Yao-ch'en: "_Ch'i_ is
+LINE 25: active, _cheng_ is passive; passivity means waiting for an opportunity,
+LINE 26: activity brings the victory itself." Ho Shih: "We must cause the enemy
+LINE 27: to regard our straightforward attack as one that is secretly designed,
+LINE 28: and vice versa; thus _cheng_ may also be _ch'i_, and _ch'i_ may also be
+LINE 29: _cheng_." He instances the famous exploit of Han Hsin, who when
+LINE 30: marching ostensibly against Lin-chin (now Chao-i in Shensi), suddenly
+LINE 31: threw a large force across the Yellow River in wooden tubs, utterly
+LINE 32: disconcerting his opponent. [Ch'ien Han Shu, ch. 3.] Here, we are told,
+LINE 33: the march on Lin-chin was _cheng_, and the surprise manœuver was
+LINE 34: _ch'i_." Chang Yu gives the following summary of opinions on the words:
+LINE 35: "Military writers do not agree with regard to the meaning of _ch'i_ and
+LINE 36: _cheng_. Wei Liao Tzŭ [4th cent. B.C.] says: 'Direct warfare favours
+LINE 37: frontal attacks, indirect warfare attacks from the rear.' Ts'ao Kung
+LINE 38: says: 'Going straight out to join battle is a direct operation;
+LINE 39: appearing on the enemy's rear is an indirect manœuver.' Li Wei-kung
+LINE 40: [6th and 7th cent. A.D.] says: 'In war, to march straight ahead is
+LINE 41: _cheng_; turning movements, on the other hand, are _ch'i_.' These
+LINE 42: writers simply regard _cheng_ as _cheng_, and _ch'i_ as _ch'i_; they do
+LINE 43: not note that the two are mutually interchangeable and run into each
+LINE 44: other like the two sides of a circle [see infra, § 11]. A comment on
+LINE 45: the T'ang Emperor T'ai Tsung goes to the root of the matter: 'A _ch'i_
+LINE 46: manœuver may be _cheng_, if we make the enemy look upon it as _cheng_;
+LINE 47: then our real attack will be _ch'i_, and vice versa. The whole secret
+LINE 48: lies in confusing the enemy, so that he cannot fathom our real
+LINE 49: intent.'" To put it perhaps a little more clearly: any attack or other
+LINE 50: operation is _cheng_, on which the enemy has had his attention fixed;
+LINE 51: whereas that is _ch'i_," which takes him by surprise or comes from an
+LINE 52: unexpected quarter. If the enemy perceives a movement which is meant to
+LINE 53: be _ch'i_," it immediately becomes _cheng_."]
+LINE 54: 4. That the impact of your army may be like a grindstone dashed against
+LINE 55: an egg—this is effected by the science of weak points and strong.
+LINE 56: 5. In all fighting, the direct method may be used for joining battle,
+LINE 57: but indirect methods will be needed in order to secure victory.
+LINE 58: [Chang Yu says: "Steadily develop indirect tactics, either by pounding
+LINE 59: the enemy's flanks or falling on his rear." A brilliant example of
+LINE 60: "indirect tactics" which decided the fortunes of a campaign was Lord
+LINE 61: Roberts' night march round the Peiwar Kotal in the second Afghan war.
+LINE 62: [1]
+LINE 63: 6. Indirect tactics, efficiently applied, are inexhausible as Heaven
+LINE 64: and Earth, unending as the flow of rivers and streams; like the sun and
+LINE 65: moon, they end but to begin anew; like the four seasons, they pass away
+LINE 66: but to return once more.
+LINE 67: [Tu Yu and Chang Yu understand this of the permutations of _ch'i_ and
+LINE 68: _cheng_. But at present Sun Tzŭ is not speaking of _cheng_ at all,
+LINE 69: unless, indeed, we suppose with Cheng Yu-hsien that a clause relating
+LINE 70: to it has fallen out of the text. Of course, as has already been
+LINE 71: pointed out, the two are so inextricably interwoven in all military
+LINE 72: operations, that they cannot really be considered apart. Here we simply
+LINE 73: have an expression, in figurative language, of the almost infinite
+LINE 74: resource of a great leader.]
+LINE 75: 7. There are not more than five musical notes, yet the combinations of
+LINE 76: these five give rise to more melodies than can ever be heard.
+LINE 77: 8. There are not more than five primary colours (blue, yellow, red,
+LINE 78: white, and black), yet in combination they produce more hues than can
+LINE 79: ever be seen.
+LINE 80: 9 There are not more than five cardinal tastes (sour, acrid, salt,
+LINE 81: sweet, bitter), yet combinations of them yield more flavours than can
+LINE 82: ever be tasted.
+LINE 83: 10. In battle, there are not more than two methods of attack—the direct
+LINE 84: and the indirect; yet these two in combination give rise to an endless
+LINE 85: series of manœuvers.
+LINE 86: 11. The direct and the indirect lead on to each other in turn. It is
+LINE 87: like moving in a circle—you never come to an end. Who can exhaust the
+LINE 88: possibilities of their combination?
+LINE 89: 12. The onset of troops is like the rush of a torrent which will even
+LINE 90: roll stones along in its course.
+LINE 91: 13. The quality of decision is like the well-timed swoop of a falcon
+LINE 92: which enables it to strike and destroy its victim.
+LINE 93: [The Chinese here is tricky and a certain key word in the context it is
+LINE 94: used defies the best efforts of the translator. Tu Mu defines this word
+LINE 95: as "the measurement or estimation of distance." But this meaning does
+LINE 96: not quite fit the illustrative simile in §. 15. Applying this
+LINE 97: definition to the falcon, it seems to me to denote that instinct of
+LINE 98: _self-restraint_ which keeps the bird from swooping on its quarry until
+LINE 99: the right moment, together with the power of judging when the right
+LINE 100: moment has arrived. The analogous quality in soldiers is the highly
+LINE 101: important one of being able to reserve their fire until the very
+LINE 102: instant at which it will be most effective. When the "Victory" went
+LINE 103: into action at Trafalgar at hardly more than drifting pace, she was for
+LINE 104: several minutes exposed to a storm of shot and shell before replying
+LINE 105: with a single gun. Nelson coolly waited until he was within close
+LINE 106: range, when the broadside he brought to bear worked fearful havoc on
+LINE 107: the enemy's nearest ships.]
+LINE 108: 14. Therefore the good fighter will be terrible in his onset, and
+LINE 109: prompt in his decision.
+LINE 110: [The word "decision" would have reference to the measurement of
+LINE 111: distance mentioned above, letting the enemy get near before striking.
+LINE 112: But I cannot help thinking that Sun Tzŭ meant to use the word in a
+LINE 113: figurative sense comparable to our own idiom "short and sharp." Cf.
+LINE 114: Wang Hsi's note, which after describing the falcon's mode of attack,
+LINE 115: proceeds: "This is just how the 'psychological moment' should be seized
+LINE 116: in war."]
+LINE 117: 15. Energy may be likened to the bending of a crossbow; decision, to
+LINE 118: the releasing of the trigger.
+LINE 119: [None of the commentators seem to grasp the real point of the simile of
+LINE 120: energy and the force stored up in the bent cross-bow until released by
+LINE 121: the finger on the trigger.]
+LINE 122: 16. Amid the turmoil and tumult of battle, there may be seeming
+LINE 123: disorder and yet no real disorder at all; amid confusion and chaos,
+LINE 124: your array may be without head or tail, yet it will be proof against
+LINE 125: defeat.
+LINE 126: [Mei Yao-ch'en says: "The subdivisions of the army having been
+LINE 127: previously fixed, and the various signals agreed upon, the separating
+LINE 128: and joining, the dispersing and collecting which will take place in the
+LINE 129: course of a battle, may give the appearance of disorder when no real
+LINE 130: disorder is possible. Your formation may be without head or tail, your
+LINE 131: dispositions all topsy-turvy, and yet a rout of your forces quite out
+LINE 132: of the question."]
+LINE 133: 17. Simulated disorder postulates perfect discipline; simulated fear
+LINE 134: postulates courage; simulated weakness postulates strength.
+LINE 135: [In order to make the translation intelligible, it is necessary to tone
+LINE 136: down the sharply paradoxical form of the original. Ts'ao Kung throws
+LINE 137: out a hint of the meaning in his brief note: "These things all serve to
+LINE 138: destroy formation and conceal one's condition." But Tu Mu is the first
+LINE 139: to put it quite plainly: "If you wish to feign confusion in order to
+LINE 140: lure the enemy on, you must first have perfect discipline; if you wish
+LINE 141: to display timidity in order to entrap the enemy, you must have extreme
+LINE 142: courage; if you wish to parade your weakness in order to make the enemy
+LINE 143: over-confident, you must have exceeding strength."]
+LINE 144: 18. Hiding order beneath the cloak of disorder is simply a question of
+LINE 145: subdivision;
+LINE 146: [See _supra_, § 1.]
+LINE 147: concealing courage under a show of timidity presupposes a fund of
+LINE 148: latent energy;
+LINE 149: [The commentators strongly understand a certain Chinese word here
+LINE 150: differently than anywhere else in this chapter. Thus Tu Mu says:
+LINE 151: "seeing that we are favourably circumstanced and yet make no move, the
+LINE 152: enemy will believe that we are really afraid."]
+LINE 153: masking strength with weakness is to be effected by tactical
+LINE 154: dispositions.
+LINE 155: [Chang Yu relates the following anecdote of Kao Tsu, the first Han
+LINE 156: Emperor: "Wishing to crush the Hsiung-nu, he sent out spies to report
+LINE 157: on their condition. But the Hsiung-nu, forewarned, carefully concealed
+LINE 158: all their able-bodied men and well-fed horses, and only allowed infirm
+LINE 159: soldiers and emaciated cattle to be seen. The result was that spies one
+LINE 160: and all recommended the Emperor to deliver his attack. Lou Ching alone
+LINE 161: opposed them, saying: 'When two countries go to war, they are naturally
+LINE 162: inclined to make an ostentatious display of their strength. Yet our
+LINE 163: spies have seen nothing but old age and infirmity. This is surely some
+LINE 164: _ruse_ on the part of the enemy, and it would be unwise for us to
+LINE 165: attack.' The Emperor, however, disregarding this advice, fell into the
+LINE 166: trap and found himself surrounded at Po-teng."]
+LINE 167: 19. Thus one who is skilful at keeping the enemy on the move maintains
+LINE 168: deceitful appearances, according to which the enemy will act.
+LINE 169: [Ts'ao Kung's note is "Make a display of weakness and want." Tu Mu
+LINE 170: says: "If our force happens to be superior to the enemy's, weakness may
+LINE 171: be simulated in order to lure him on; but if inferior, he must be led
+LINE 172: to believe that we are strong, in order that he may keep off. In fact,
+LINE 173: all the enemy's movements should be determined by the signs that we
+LINE 174: choose to give him." Note the following anecdote of Sun Pin, a
+LINE 175: descendent of Sun Wu: In 341 B.C., the Ch'i State being at war with
+LINE 176: Wei, sent T'ien Chi and Sun Pin against the general P'ang Chuan, who
+LINE 177: happened to be a deadly personal enemy of the later. Sun Pin said: "The
+LINE 178: Ch'i State has a reputation for cowardice, and therefore our adversary
+LINE 179: despises us. Let us turn this circumstance to account." Accordingly,
+LINE 180: when the army had crossed the border into Wei territory, he gave orders
+LINE 181: to show 100,000 fires on the first night, 50,000 on the next, and the
+LINE 182: night after only 20,000. P'ang Chuan pursued them hotly, saying to
+LINE 183: himself: "I knew these men of Ch'i were cowards: their numbers have
+LINE 184: already fallen away by more than half." In his retreat, Sun Pin came to
+LINE 185: a narrow defile, which he calculated that his pursuers would reach
+LINE 186: after dark. Here he had a tree stripped of its bark, and inscribed upon
+LINE 187: it the words: "Under this tree shall P'ang Chuan die." Then, as night
+LINE 188: began to fall, he placed a strong body of archers in ambush near by,
+LINE 189: with orders to shoot directly if they saw a light. Later on, P'ang
+LINE 190: Chuan arrived at the spot, and noticing the tree, struck a light in
+LINE 191: order to read what was written on it. His body was immediately riddled
+LINE 192: by a volley of arrows, and his whole army thrown into confusion. [The
+LINE 193: above is Tu Mu's version of the story; the _Shih Chi_, less
+LINE 194: dramatically but probably with more historical truth, makes P'ang Chuan
+LINE 195: cut his own throat with an exclamation of despair, after the rout of
+LINE 196: his army.] ]
+LINE 197: He sacrifices something, that the enemy may snatch at it.
+LINE 198: 20. By holding out baits, he keeps him on the march; then with a body
+LINE 199: of picked men he lies in wait for him.
+LINE 200: [With an emendation suggested by Li Ching, this then reads, "He lies in
+LINE 201: wait with the main body of his troops."]
+LINE 202: 21. The clever combatant looks to the effect of combined energy, and
+LINE 203: does not require too much from individuals.
+LINE 204: [Tu Mu says: "He first of all considers the power of his army in the
+LINE 205: bulk; afterwards he takes individual talent into account, and uses each
+LINE 206: men according to his capabilities. He does not demand perfection from
+LINE 207: the untalented."]
+LINE 208: Hence his ability to pick out the right men and utilise combined
+LINE 209: energy.
+LINE 210: 22. When he utilises combined energy, his fighting men become as it
+LINE 211: were like unto rolling logs or stones. For it is the nature of a log or
+LINE 212: stone to remain motionless on level ground, and to move when on a
+LINE 213: slope; if four-cornered, to come to a standstill, but if round-shaped,
+LINE 214: to go rolling down.
+LINE 215: [Ts'au Kung calls this "the use of natural or inherent power."]
+LINE 216: 23. Thus the energy developed by good fighting men is as the momentum
+LINE 217: of a round stone rolled down a mountain thousands of feet in height. So
+LINE 218: much on the subject of energy.
+LINE 219: [The chief lesson of this chapter, in Tu Mu's opinion, is the paramount
+LINE 220: importance in war of rapid evolutions and sudden rushes. "Great
+LINE 221: results," he adds, "can thus be achieved with small forces."]
+LINE 222: [1] "Forty-one Years in India," chapter 46.

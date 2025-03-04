@@ -1,0 +1,565 @@
+LINE 1: Chia Cheng gives good advice to his wayward son.
+LINE 2: Li Kuei receives a reprimand.
+LINE 3: Chia Jui and Li Kuei rebuke the obstinate youths!
+LINE 4: Ming Yen causes trouble in the school-room.
+LINE 5: But to return to our story. Mr. Ch'in, the father, and Ch'in Chung, his
+LINE 6: son, only waited until the receipt, by the hands of a servant, of a
+LINE 7: letter from the Chia family about the date on which they were to go to
+LINE 8: school. Indeed, Pao-yü was only too impatient that he and Ch'in Chung
+LINE 9: should come together, and, without loss of time, he fixed upon two days
+LINE 10: later as the day upon which they were definitely to begin their studies,
+LINE 11: and he despatched a servant with a letter to this effect.
+LINE 12: On the day appointed, as soon as it was daylight, Pao-yü turned out of
+LINE 13: bed. Hsi Jen had already by that time got books, pencils and all writing
+LINE 14: necessaries in perfect readiness, and was sitting on the edge of the bed
+LINE 15: in a moping mood; but as soon as she saw Pao-yü approach, she was
+LINE 16: constrained to wait upon him in his toilette and ablutions.
+LINE 17: Pao-yü, noticing how despondent she was, made it a point to address her.
+LINE 18: "My dear sister," he said, "how is it you aren't again yourself? Is it
+LINE 19: likely that you bear me a grudge for being about to go to school,
+LINE 20: because when I leave you, you'll all feel dull?"
+LINE 21: Hsi Jen smiled. "What an ideal" she replied. "Study is a most excellent
+LINE 22: thing, and without it a whole lifetime is a mere waste, and what good
+LINE 23: comes in the long run? There's only one thing, which is simply that when
+LINE 24: engaged in reading your books, you should set your mind on your books;
+LINE 25: and that you should think of home when not engaged in reading. Whatever
+LINE 26: you do, don't romp together with them, for were you to meet our master,
+LINE 27: your father, it will be no joke! Although it's asserted that a scholar
+LINE 28: must strain every nerve to excel, yet it's preferable that the tasks
+LINE 29: should be somewhat fewer, as, in the first place, when one eats too
+LINE 30: much, one cannot digest it; and, in the second place, good health must
+LINE 31: also be carefully attended to. This is my view on the subject, and you
+LINE 32: should at all times consider it in practice."
+LINE 33: While Hsi Jen gave utterance to a sentence, Pao-yü nodded his head in
+LINE 34: sign of approval of that sentence. Hsi Jen then went on to speak. "I've
+LINE 35: also packed up," she continued, "your long pelisse, and handed it to the
+LINE 36: pages to take it over; so mind, when it's cold in the school-room,
+LINE 37: please remember to put on this extra clothing, for it's not like home,
+LINE 38: where you have people to look after you. The foot-stove and hand-stove,
+LINE 39: I've also sent over; and urge that pack of lazy-bones to attend to their
+LINE 40: work, for if you say nothing, they will be so engrossed in their
+LINE 41: frolics, that they'll be loth to move, and let you, all for nothing,
+LINE 42: take a chill and ruin your constitution."
+LINE 43: "Compose your mind," replied Pao-yü; "when I go out, I know well enough
+LINE 44: how to attend to everything my own self. But you people shouldn't remain
+LINE 45: in this room, and mope yourselves to death; and it would be well if you
+LINE 46: would often go over to cousin Lin's for a romp."
+LINE 47: While saying this, he had completed his toilette, and Hsi Jen pressed
+LINE 48: him to go and wish good morning to dowager lady Chia, Chia Cheng, madame
+LINE 49: Wang, and the other members of the family.
+LINE 50: Pao-yü, after having gone on to give a few orders to Ch'ing Wen and She
+LINE 51: Yueh, at length left his apartments, and coming over, paid his obeisance
+LINE 52: to dowager lady Chia. Her venerable Ladyship had likewise, as a matter
+LINE 53: of course, a few recommendations to make to him, which ended, he next
+LINE 54: went and greeted madame Wang; and leaving again her quarters, he came
+LINE 55: into the library to wish Chia Cheng good morning.
+LINE 56: As it happened, Chia Cheng had on this day returned home at an early
+LINE 57: hour, and was, at this moment, in the library, engaged in a friendly
+LINE 58: chat with a few gentlemen, who were family companions. Suddenly
+LINE 59: perceiving Pao-yü come in to pay his respects, and report that he was
+LINE 60: about to go to school, Chia Cheng gave a sardonic smile. "If you do
+LINE 61: again," he remarked, "make allusions to the words going to school,
+LINE 62: you'll make even me blush to death with shame! My advice to you is that
+LINE 63: you should after all go your own way and play; that's the best thing for
+LINE 64: you; and mind you don't pollute with dirt this floor by standing here,
+LINE 65: and soil this door of mine by leaning against it!"
+LINE 66: The family companions stood up and smilingly expostulated.
+LINE 67: "Venerable Sir," they pleaded, "why need you be so down upon him? Our
+LINE 68: worthy brother is this day going to school, and may in two or three
+LINE 69: years be able to display his abilities and establish his reputation. He
+LINE 70: will, beyond doubt, not behave like a child, as he did in years gone
+LINE 71: past. But as the time for breakfast is also drawing nigh, you should,
+LINE 72: worthy brother, go at once."
+LINE 73: When these words had been spoken, two among them, who were advanced in
+LINE 74: years, readily took Pao-yü by the hand, and led him out of the library.
+LINE 75: "Who are in attendance upon Pao-yü?" Chia Cheng having inquired, he
+LINE 76: heard a suitable reply, "We, Sir!" given from outside; and three or four
+LINE 77: sturdy fellows entered at an early period and fell on one knee, and
+LINE 78: bowed and paid their obeisance.
+LINE 79: When Chia Cheng came to scrutinise who they were, and he recognised Li
+LINE 80: Kuei, the son of Pao-yü's nurse, he addressed himself to him. "You
+LINE 81: people," he said, "remain waiting upon him the whole day long at school,
+LINE 82: but what books has he after all read? Books indeed! why, he has read and
+LINE 83: filled his brains with a lot of trashy words and nonsensical phrases,
+LINE 84: and learnt some ingenious way of waywardness. Wait till I have a little
+LINE 85: leisure, and I'll set to work, first and foremost, and flay your skin
+LINE 86: off, and then settle accounts with that good-for-nothing!"
+LINE 87: This threat so terrified Li Kuei that he hastily fell on both his knees,
+LINE 88: pulled off his hat, knocked his head on the ground, and gave vent to
+LINE 89: repeated assenting utterances: "Oh, quite so, Sir! Our elder brother Mr.
+LINE 90: Pao has," he continued, "already read up to the third book of the Book
+LINE 91: of Odes, up to where there's something or other like: 'Yiu, Yiu, the
+LINE 92: deer bleat; the lotus leaves and duckweed.' Your servant wouldn't
+LINE 93: presume to tell a lie!"
+LINE 94: As he said this, the whole company burst out into a boisterous fit of
+LINE 95: laughter, and Chia Cheng himself could not also contain his countenance
+LINE 96: and had to laugh. "Were he even," he observed, "to read thirty books of
+LINE 97: the Book of Odes, it would be as much an imposition upon people and no
+LINE 98: more, as (when the thief) who, in order to steal the bell, stops up his
+LINE 99: own ears! You go and present my compliments to the gentleman in the
+LINE 100: schoolroom, and tell him, from my part, that the whole lot of Odes and
+LINE 101: old writings are of no use, as they are subjects for empty show; and
+LINE 102: that he should, above all things, take the Four Books, and explain them
+LINE 103: to him, from first to last, and make him know them all thoroughly by
+LINE 104: heart,--that this is the most important thing!"
+LINE 105: Li Kuei signified his obedience with all promptitude, and perceiving
+LINE 106: that Chia Cheng had nothing more to say, he retired out of the room.
+LINE 107: During this while, Pao-yü had been standing all alone outside in the
+LINE 108: court, waiting quietly with suppressed voice, and when they came out he
+LINE 109: at once walked away in their company.
+LINE 110: Li Kuei and his companions observed as they shook their clothes, "Did
+LINE 111: you, worthy brother, hear what he said that he would first of all flay
+LINE 112: our skins off! People's servants acquire some respectability from the
+LINE 113: master whom they serve, but we poor fellows fruitlessly wait upon you,
+LINE 114: and are beaten and blown up in the bargain. It would be well if we were,
+LINE 115: from henceforward, to be treated with a certain amount of regard."
+LINE 116: Pao-yü smiled, "Dear Brother," he added, "don't feel aggrieved; I'll
+LINE 117: invite you to come round to-morrow!"
+LINE 118: "My young ancestor," replied Li Kuei, "who presumes to look forward to
+LINE 119: an invitation? all I entreat you is to listen to one or two words I have
+LINE 120: to say, that's all."
+LINE 121: As they talked they came over once more to dowager lady Chia's on this
+LINE 122: side.
+LINE 123: Ch'in Chung had already arrived, and the old lady was first having a
+LINE 124: chat with him. Forthwith the two of them exchanged salutations, and took
+LINE 125: leave of her ladyship; but Pao-yü, suddenly remembering that he had not
+LINE 126: said good-bye to Tai-yü, promptly betook himself again to Tai-yü's
+LINE 127: quarters to do so.
+LINE 128: Tai-yü was, at this time, below the window, facing the mirror, and
+LINE 129: adjusting her toilette. Upon hearing Pao-yü mention that he was on his
+LINE 130: way to school, she smiled and remarked, "That's right! you're now going
+LINE 131: to school and you'll be sure to reach the lunar palace and pluck the
+LINE 132: olea fragrans; but I can't go along with you."
+LINE 133: "My dear cousin," rejoined Pao-yü, "wait for me to come out from school,
+LINE 134: before you have your evening meal; wait also until I come to prepare the
+LINE 135: cosmetic of rouge."
+LINE 136: After a protracted chat, he at length tore himself away and took his
+LINE 137: departure.
+LINE 138: "How is it," interposed Tai-yü, as she once again called out to him and
+LINE 139: stopped him, "that you don't go and bid farewell to your cousin Pao
+LINE 140: Ch'ai?"
+LINE 141: Pao-yü smiled, and saying not a word by way of reply he straightway
+LINE 142: walked to school, accompanied by Ch'in Chung.
+LINE 143: This public school, which it must be noticed was also not far from his
+LINE 144: quarters, had been originally instituted by the founder of the
+LINE 145: establishment, with the idea that should there be among the young
+LINE 146: fellows of his clan any who had not the means to engage a tutor, they
+LINE 147: should readily be able to enter this class for the prosecution of their
+LINE 148: studies; that all those of the family who held official position should
+LINE 149: all give (the institution) pecuniary assistance, with a view to meet the
+LINE 150: expenses necessary for allowances to the students; and that they were to
+LINE 151: select men advanced in years and possessed of virtue to act as tutors of
+LINE 152: the family school.
+LINE 153: The two of them, Ch'in Chung and Pao-yü, had now entered the class, and
+LINE 154: after they and the whole number of their schoolmates had made each
+LINE 155: other's acquaintance, their studies were commenced. Ever since this
+LINE 156: time, these two were wont to come together, go together, get up
+LINE 157: together, and sit together, till they became more intimate and close.
+LINE 158: Besides, dowager lady Chia got very fond of Ch'in Chung, and would again
+LINE 159: and again keep him to stay with them for three and five days at a time,
+LINE 160: treating him as if he were one of her own great-grandsons. Perceiving
+LINE 161: that in Ch'in Chung's home there was not much in the way of sufficiency,
+LINE 162: she also helped him in clothes and other necessaries; and scarcely had
+LINE 163: one or two months elapsed before Ch'in Chung got on friendly terms with
+LINE 164: every one in the Jung mansion.
+LINE 165: Pao-yü was, however, a human being who could not practise contentment
+LINE 166: and observe propriety; and as his sole delight was to have every caprice
+LINE 167: gratified, he naturally developed a craving disposition. "We two, you
+LINE 168: and I, are," he was also wont secretly to tell Ch'in Chung, "of the same
+LINE 169: age, and fellow-scholars besides, so that there's no need in the future
+LINE 170: to pay any regard to our relationship of uncle and nephew; and we should
+LINE 171: treat each other as brothers or friends, that's all."
+LINE 172: Ch'in Chung at first (explained that) he could not be so presumptuous;
+LINE 173: but as Pao-yü would not listen to any such thing, but went on to address
+LINE 174: him as brother and to call him by his style Ch'ing Ch'ing, he had
+LINE 175: likewise himself no help, but to begin calling him, at random, anything
+LINE 176: and anyhow.
+LINE 177: There were, it is true, a large number of pupils in this school, but
+LINE 178: these consisted of the sons and younger brothers of that same clan, and
+LINE 179: of several sons and nephews of family connections. The proverb
+LINE 180: appositely describes that there are nine species of dragons, and that
+LINE 181: each species differs; and it goes of course without saying that in a
+LINE 182: large number of human beings there were dragons and snakes, confusedly
+LINE 183: admixed, and that creatures of a low standing were included.
+LINE 184: Ever since the arrival of the two young fellows, Ch'in Chung and Pao-yü,
+LINE 185: both of whom were in appearance as handsome as budding flowers, and
+LINE 186: they, on the one hand, saw how modest and genial Ch'in Chung was, how he
+LINE 187: blushed before he uttered a word, how he was timid and demure like a
+LINE 188: girl, and on the other hand, how that Pao-yü was naturally proficient in
+LINE 189: abasing and demeaning himself, how he was so affable and good-natured,
+LINE 190: considerate in his temperament and so full of conversation, and how that
+LINE 191: these two were, in consequence, on such terms of intimate friendship, it
+LINE 192: was, in fact, no matter of surprise that the whole company of
+LINE 193: fellow-students began to foster envious thoughts, that they, behind
+LINE 194: their backs, passed on their account, this one one disparaging remark
+LINE 195: and that one another, and that they insinuated slanderous lies against
+LINE 196: them, which extended inside as well as outside the school-room.
+LINE 197: Indeed, after Hsüeh P'an had come over to take up his quarters in madame
+LINE 198: Wang's suite of apartments, he shortly came to hear of the existence of
+LINE 199: a family school, and that this school was mainly attended by young
+LINE 200: fellows of tender years, and inordinate ideas were suddenly aroused in
+LINE 201: him. While he therefore fictitiously gave out that he went to school,
+LINE 202: [he was as irregular in his attendance as the fisherman] who catches
+LINE 203: fish for three days, and suns his nets for the next two; simply
+LINE 204: presenting his school-fee gift to Chia Tai-jui and making not the least
+LINE 205: progress in his studies; his sole dream being to knit a number of
+LINE 206: familiar friendships. Who would have thought it, there were in this
+LINE 207: school young pupils, who, in their greed to obtain money, clothes and
+LINE 208: eatables from Hsüeh P'an, allowed themselves to be cajoled by him, and
+LINE 209: played tricks upon; but on this topic, it is likewise superfluous to
+LINE 210: dilate at any length.
+LINE 211: There were also two lovable young scholars, relatives of what branch of
+LINE 212: the family is not known, and whose real surnames and names have also not
+LINE 213: been ascertained, who, by reason of their good and winsome looks, were,
+LINE 214: by the pupils in the whole class, given two nicknames, to one that of
+LINE 215: "Hsiang Lin," "Fragrant Love," and to the other "Yü Ai," "Precious
+LINE 216: Affection." But although every one entertained feelings of secret
+LINE 217: admiration for them, and had the wish to take liberties with the young
+LINE 218: fellows, they lived, nevertheless, one and all, in such terror of Hsüeh
+LINE 219: P'an's imperious influence, that they had not the courage to come
+LINE 220: forward and interfere with them.
+LINE 221: As soon as Ch'in Chung and Pao-yü had, at this time, come to school, and
+LINE 222: they had made the acquaintance of these two fellow-pupils, they too
+LINE 223: could not help becoming attached to them and admiring them, but as they
+LINE 224: also came to know that they were great friends of Hsüeh P'an, they did
+LINE 225: not, in consequence, venture to treat them lightly, or to be unseemly in
+LINE 226: their behaviour towards them. Hsiang Lin and Yü Ai both kept to
+LINE 227: themselves the same feelings, which they fostered for Ch'in Chung and
+LINE 228: Pao-yü, and to this reason is to be assigned the fact that though these
+LINE 229: four persons nurtured fond thoughts in their hearts there was however no
+LINE 230: visible sign of them. Day after day, each one of them would, during
+LINE 231: school hours, sit in four distinct places: but their eight eyes were
+LINE 232: secretly linked together; and, while indulging either in innuendoes or
+LINE 233: in double entendres, their hearts, in spite of the distance between
+LINE 234: them, reflected the whole number of their thoughts.
+LINE 235: But though their outward attempts were devoted to evade the detection of
+LINE 236: other people's eyes, it happened again that, while least expected,
+LINE 237: several sly lads discovered the real state of affairs, with the result
+LINE 238: that the whole school stealthily frowned their eyebrows at them, winked
+LINE 239: their eyes at them, or coughed at them, or raised their voices at them;
+LINE 240: and these proceedings were, in fact, not restricted to one single day.
+LINE 241: As luck would have it, on this day Tai-jui was, on account of business,
+LINE 242: compelled to go home; and having left them as a task no more than a
+LINE 243: heptameter line for an antithetical couplet, explaining that they should
+LINE 244: find a sentence to rhyme, and that the following day when he came back,
+LINE 245: he would set them their lessons, he went on to hand the affairs
+LINE 246: connected with the class to his elder grandson, Chia Jui, whom he asked
+LINE 247: to take charge.
+LINE 248: Wonderful to say Hsüeh P'an had of late not frequented school very
+LINE 249: often, not even so much as to answer the roll, so that Ch'in Chung
+LINE 250: availed himself of his absence to ogle and smirk with Hsiang Lin; and
+LINE 251: these two pretending that they had to go out, came into the back court
+LINE 252: for a chat.
+LINE 253: "Does your worthy father at home mind your having any friends?" Ch'in
+LINE 254: Chung was the first to ask. But this sentence was scarcely ended, when
+LINE 255: they heard a sound of coughing coming from behind. Both were taken much
+LINE 256: aback, and, speedily turning their heads round to see, they found that
+LINE 257: it was a fellow-scholar of theirs, called Chin Jung.
+LINE 258: Hsiang Lin was naturally of somewhat hasty temperament, so that with
+LINE 259: shame and anger mutually impelling each other, he inquired of him,
+LINE 260: "What's there to cough at? Is it likely you wouldn't have us speak to
+LINE 261: each other?"
+LINE 262: "I don't mind your speaking," Chin Jung observed laughing; "but would
+LINE 263: you perchance not have me cough? I'll tell you what, however; if you
+LINE 264: have anything to say, why not utter it in intelligible language? Were
+LINE 265: you allowed to go on in this mysterious manner, what strange doings
+LINE 266: would you be up to? But I have sure enough found you out, so what's the
+LINE 267: need of still prevaricating? But if you will, first of all, let me
+LINE 268: partake of a share in your little game, you and I can hold our tongue
+LINE 269: and utter not a word. If not, why the whole school will begin to turn
+LINE 270: the matter over."
+LINE 271: At these words, Ch'in Chung and Hsiang Lin were so exasperated that
+LINE 272: their blood rushed up to their faces. "What have you found out?" they
+LINE 273: hastily asked.
+LINE 274: "What I have now detected," replied Chin Jung smiling, "is the plain
+LINE 275: truth!" and saying this he went on to clap his hands and to call out
+LINE 276: with a loud voice as he laughed: "They have moulded some nice well-baked
+LINE 277: cakes, won't you fellows come and buy one to eat!" (These two have been
+LINE 278: up to larks, won't you come and have some fun!)
+LINE 279: Both Ch'in Chung and Hsiang Lin felt resentful as well as fuming with
+LINE 280: rage, and with hurried step they went in, in search of Chia Jui, to whom
+LINE 281: they reported Chin Jung, explaining that Chin Jung had insulted them
+LINE 282: both, without any rhyme or reason.
+LINE 283: The fact is that this Chia Jui was, in an extraordinary degree, a man
+LINE 284: with an eye to the main chance, and devoid of any sense of propriety.
+LINE 285: His wont was at school to take advantage of public matters to serve his
+LINE 286: private interest, and to bring pressure upon his pupils with the intent
+LINE 287: that they should regale him. While subsequently he also lent his
+LINE 288: countenance to Hsüeh P'an, scheming to get some money or eatables out of
+LINE 289: him, he left him entirely free to indulge in disorderly behaviour; and
+LINE 290: not only did he not go out of his way to hold him in check, but, on the
+LINE 291: contrary, he encouraged him, infamous though he was already, to become a
+LINE 292: bully, so as to curry favour with him.
+LINE 293: But this Hsüeh P'an was, by nature, gifted with a fickle disposition;
+LINE 294: to-day, he would incline to the east, and to-morrow to the west, so that
+LINE 295: having recently obtained new friends, he put Hsiang Lin and Yü Ai aside.
+LINE 296: Chin Jung too was at one time an intimate friend of his, but ever since
+LINE 297: he had acquired the friendship of the two lads, Hsiang Lin and Yü Ai, he
+LINE 298: forthwith deposed Chin Jung. Of late, he had already come to look down
+LINE 299: upon even Hsiang Lin and Yü Ai, with the result that Chia Jui as well
+LINE 300: was deprived of those who could lend him support, or stand by him; but
+LINE 301: he bore Hsüeh P'an no grudge, for wearying with old friends, as soon as
+LINE 302: he found new ones, but felt angry that Hsiang Lin and Yü Ai had not put
+LINE 303: in a word on his behalf with Hsüeh P'an. Chia Jui, Chin Jung and in fact
+LINE 304: the whole crowd of them were, for this reason, just harbouring a jealous
+LINE 305: grudge against these two, so that when he saw Ch'in Chung and Hsiang Lin
+LINE 306: come on this occasion and lodge a complaint against Chin Jung, Chia Jui
+LINE 307: readily felt displeasure creep into his heart; and, although he did not
+LINE 308: venture to call Ch'in Chung to account, he nevertheless made an example
+LINE 309: of Hsiang Lin. And instead (of taking his part), he called him a
+LINE 310: busybody and denounced him in much abusive language, with the result
+LINE 311: that Hsiang Lin did not, contrariwise, profit in any way, but brought
+LINE 312: displeasure upon himself. Even Ch'in Chung grumbled against the
+LINE 313: treatment, as each of them resumed their places.
+LINE 314: Chin Jung became still more haughty, and wagging his head and smacking
+LINE 315: his lips, he gave vent to many more abusive epithets; but as it happened
+LINE 316: that they also reached Yü Ai's ears, the two of them, though seated
+LINE 317: apart, began an altercation in a loud tone of voice.
+LINE 318: Chin Jung, with obstinate pertinacity, clung to his version. "Just a
+LINE 319: short while back," he said, "I actually came upon them, as they were
+LINE 320: indulging in demonstrations of intimate friendship in the back court.
+LINE 321: These two had resolved to be one in close friendship, and were eloquent
+LINE 322: in their protestations, mindful only in persistently talking their
+LINE 323: trash, but they were not aware of the presence of another person."
+LINE 324: But his language had, contrary to all expectations, given, from the very
+LINE 325: first, umbrage to another person, and who do you, (gentle reader,)
+LINE 326: imagine this person to have been?
+LINE 327: This person was, in fact, one whose name was Chia Se; a grandson
+LINE 328: likewise of a main branch of the Ning mansion. His parents had died at
+LINE 329: an early period, and he had, ever since his youth, lived with Chia Chen.
+LINE 330: He had at this time grown to be sixteen years of age, and was, as
+LINE 331: compared with Chia Jung, still more handsome and good looking. These two
+LINE 332: cousins were united by ties of the closest intimacy, and were always
+LINE 333: together, whether they went out or stayed at home.
+LINE 334: The inmates of the Ning mansion were many in number, and their opinions
+LINE 335: of a mixed kind; and that whole bevy of servants, devoid as they were of
+LINE 336: all sense of right, solely excelled in the practice of inventing stories
+LINE 337: to backbite their masters; and this is how some mean person or other
+LINE 338: again, who it was is not known, insinuated slanderous and opprobrious
+LINE 339: reports (against Chia Se). Chia Chen had, presumably, also come to hear
+LINE 340: some unfavourable criticisms (on his account), and having, of course, to
+LINE 341: save himself from odium and suspicion, he had, at this juncture, after
+LINE 342: all, to apportion him separate quarters, and to bid Chia Se move outside
+LINE 343: the Ning mansion, where he went and established a home of his own to
+LINE 344: live in.
+LINE 345: This Chia Se was handsome as far as external appearances went, and
+LINE 346: intelligent withal in his inward natural gifts, but, though he nominally
+LINE 347: came to school, it was simply however as a mere blind; for he treated,
+LINE 348: as he had ever done, as legitimate occupations, such things as cock
+LINE 349: fighting, dog-racing and visiting places of easy virtue. And as, above,
+LINE 350: he had Chia Chen to spoil him by over-indulgence; and below, there was
+LINE 351: Chia Jung to stand by him, who of the clan could consequently presume to
+LINE 352: run counter to him?
+LINE 353: Seeing that he was on the closest terms of friendship with Chia Jung,
+LINE 354: how could he reconcile himself to the harsh treatment which he now saw
+LINE 355: Ch'in Chung receive from some persons? Being now bent upon pushing
+LINE 356: himself forward to revenge the injustice, he was, for the time, giving
+LINE 357: himself up to communing with his own heart. "Chin Jung, Chia Jui and the
+LINE 358: rest are," he pondered, "friends of uncle Hsüeh, but I too am on
+LINE 359: friendly terms with him, and he with me, and if I do come forward and
+LINE 360: they tell old Hsüeh, won't we impair the harmony which exists between
+LINE 361: us? and if I don't concern myself, such idle tales make, when spoken,
+LINE 362: every one feel uncomfortable; and why shouldn't I now devise some means
+LINE 363: to hold them in check, so as to stop their mouths, and prevent any loss
+LINE 364: of face!"
+LINE 365: Having concluded this train of thought, he also pretended that he had to
+LINE 366: go out, and, walking as far as the back, he, with low voice, called to
+LINE 367: his side Ming Yen, the page attending upon Pao-yü in his studies, and in
+LINE 368: one way and another, he made use of several remarks to egg him on.
+LINE 369: This Ming Yen was the smartest of Pao-yü's attendants, but he was also
+LINE 370: young in years and lacked experience, so that he lent a patient ear to
+LINE 371: what Chia Se had to say about the way Chin Jung had insulted Ch'in
+LINE 372: Chung. "Even your own master, Pao-yü," (Chia Se added), "is involved,
+LINE 373: and if you don't let him know a bit of your mind, he will next time be
+LINE 374: still more arrogant."
+LINE 375: This Ming Yen was always ready, even with no valid excuse, to be
+LINE 376: insolent and overbearing to people, so that after hearing the news and
+LINE 377: being furthermore instigated by Chia Se, he speedily rushed into the
+LINE 378: schoolroom and cried out "Chin Jung;" nor did he address him as Mr.
+LINE 379: Chin, but merely shouted "What kind of fellow is this called Chin?"
+LINE 380: Chia Se presently shuffled his feet, while he designedly adjusted his
+LINE 381: dress and looked at the rays of the sun. "It's time," he observed and
+LINE 382: walking forthwith, first up to Chia Jui, he explained to him that he had
+LINE 383: something to attend to and would like to get away a little early; and as
+LINE 384: Chia Jui did not venture to stop him, he had no alternative but to let
+LINE 385: him have his way and go.
+LINE 386: During this while, Ming Yen had entered the room and promptly seizing
+LINE 387: Chin Jung in a grip: "What we do, whether proper or improper," he said,
+LINE 388: "doesn't concern you! It's enough anyway that we don't defile your
+LINE 389: father! A fine brat you are indeed, to come out and meddle with your Mr.
+LINE 390: Ming!"
+LINE 391: These words plunged the scholars of the whole class in such
+LINE 392: consternation that they all wistfully and absently looked at him.
+LINE 393: "Ming Yen," hastily shouted out Chia Jui, "you're not to kick up a
+LINE 394: rumpus."
+LINE 395: Chin Jung was so full of anger that his face was quite yellow. "What a
+LINE 396: subversion of propriety! a slave and a menial to venture to behave in
+LINE 397: this manner! I'll just simply speak to your master," he exclaimed as he
+LINE 398: readily pushed his hands off and was about to go and lay hold of Pao-yü
+LINE 399: to beat him.
+LINE 400: Ch'in Chung was on the point of turning round to leave the room, when
+LINE 401: with a sound of 'whiff' which reached him from behind, he at once caught
+LINE 402: sight of a square inkslab come flying that way. Who had thrown it he
+LINE 403: could not say, but it struck the desk where Chia Lan and Chia Chün were
+LINE 404: seated.
+LINE 405: These two, Chia Lan and Chia Chün, were also the great-grandsons of a
+LINE 406: close branch of the Jung mansion. This Chia Chün had been left
+LINE 407: fatherless at an early age, and his mother doated upon him in an unusual
+LINE 408: manner, and it was because at school he was on most friendly terms with
+LINE 409: Chia Lan, that these two sat together at the same desk. Who would have
+LINE 410: believed that Chia Chün would, in spite of being young in years, have
+LINE 411: had an extremely strong mind, and that he would be mostly up to mischief
+LINE 412: without the least fear of any one. He watched with listless eye from his
+LINE 413: seat Chin Jung's friends stealthily assist Chin Jung, as they flung an
+LINE 414: inkslab to strike Ming Yen, but when, as luck would have it, it hit the
+LINE 415: wrong mark, and fell just in front of him, smashing to atoms the
+LINE 416: porcelain inkslab and water bottle, and smudging his whole book with
+LINE 417: ink, Chia Chün was, of course, much incensed, and hastily gave way to
+LINE 418: abuse. "You consummate pugnacious criminal rowdies! why, doesn't this
+LINE 419: amount to all of you taking a share in the fight!" And as he uttered
+LINE 420: this abuse, he too forthwith seized an inkslab, which he was bent upon
+LINE 421: flinging.
+LINE 422: Chia Lan was one who always tried to avoid trouble, so that he lost no
+LINE 423: time in pressing down the inkslab, while with all the words his mouth
+LINE 424: could express, he tried to pacify him, adding "My dear brother, it's no
+LINE 425: business of yours and mine."
+LINE 426: Chia Chün could not repress his resentment; and perceiving that the
+LINE 427: inkslab was held down, he at once laid hold of a box containing books,
+LINE 428: which he flung in this direction; but being, after all, short of
+LINE 429: stature, and weak of strength, he was unable to send it anywhere near
+LINE 430: the mark; so that it dropped instead when it got as far as the desk
+LINE 431: belonging to Pao-yü and Ch'in Chung, while a dreadful crash became
+LINE 432: audible as it fell smash on the table. The books, papers, pencils,
+LINE 433: inkslabs, and other writing materials were all scattered over the whole
+LINE 434: table; and Pao-yü's cup besides containing tea was itself broken to
+LINE 435: pieces and the tea spilt.
+LINE 436: Chia Chün forthwith jumped forward with the intent of assailing the
+LINE 437: person who had flung the inkslab at the very moment that Chin Jung took
+LINE 438: hold of a long bamboo pole which was near by; but as the space was
+LINE 439: limited, and the pupils many, how could he very well brandish a long
+LINE 440: stick? Ming Yen at an early period received a whack, and he shouted
+LINE 441: wildly, "Don't you fellows yet come to start a fight."
+LINE 442: Pao-yü had, besides, along with him several pages, one of whom was
+LINE 443: called Sao Hung, another Ch'u Yo, another Mo Yü. These three were
+LINE 444: naturally up to every mischief, so that with one voice, bawling
+LINE 445: boisterously, "You children of doubtful mothers, have you taken up
+LINE 446: arms?" Mo Yü promptly took up the bar of a door; while Sao Hung and Ch'u
+LINE 447: Yo both laid hold of horsewhips, and they all rushed forward like a hive
+LINE 448: of bees.
+LINE 449: Chia Jui was driven to a state of exasperation; now he kept this one in
+LINE 450: check, and the next moment he reasoned with another, but who would
+LINE 451: listen to his words? They followed the bent of their inclinations and
+LINE 452: stirred up a serious disturbance.
+LINE 453: Of the whole company of wayward young fellows, some there were who gave
+LINE 454: sly blows for fun's sake; others there were who were not gifted with
+LINE 455: much pluck and hid themselves on one side; there were those too who
+LINE 456: stood on the tables, clapping their hands and laughing immoderately,
+LINE 457: shouting out: "Go at it."
+LINE 458: The row was, at this stage, like water bubbling over in a cauldron, when
+LINE 459: several elderly servants, like Li Kuei and others, who stood outside,
+LINE 460: heard the uproar commence inside, and one and all came in with all haste
+LINE 461: and united in their efforts to pacify them. Upon asking "What's the
+LINE 462: matter?" the whole bevy of voices shouted out different versions; this
+LINE 463: one giving this account, while another again another story. But Li Kuei
+LINE 464: temporised by rebuking Ming Yen and others, four in all, and packing
+LINE 465: them off.
+LINE 466: Ch'in Chung's head had, at an early period, come into contact with Chin
+LINE 467: Jung's pole and had had the skin grazed off. Pao-yü was in the act of
+LINE 468: rubbing it for him, with the overlap of his coat, but realising that the
+LINE 469: whole lot of them had been hushed up, he forthwith bade Li Kuei collect
+LINE 470: his books.
+LINE 471: "Bring my horse round," he cried; "I'm going to tell Mr. Chia Tai-ju
+LINE 472: that we have been insulted. I won't venture to tell him anything else,
+LINE 473: but (tell him I will) that having come with all propriety and made our
+LINE 474: report to Mr. Chia Jui, Mr. Chia Jui instead (of helping us) threw the
+LINE 475: fault upon our shoulders. That while he heard people abuse us, he went
+LINE 476: so far as to instigate them to beat us; that Ming Yen seeing others
+LINE 477: insult us, did naturally take our part; but that they, instead (of
+LINE 478: desisting,) combined together and struck Ming Yen and even broke open
+LINE 479: Ch'in Chung's head. And that how is it possible for us to continue our
+LINE 480: studies in here?"
+LINE 481: "My dear sir," replied Li Kuei coaxingly, "don't be so impatient! As Mr.
+LINE 482: Chia Tai-ju has had something to attend to and gone home, were you now,
+LINE 483: for a trifle like this, to go and disturb that aged gentleman, it will
+LINE 484: make us, indeed, appear as if we had no sense of propriety: my idea is
+LINE 485: that wherever a thing takes place, there should it be settled; and
+LINE 486: what's the need of going and troubling an old man like him. This is all
+LINE 487: you, Mr. Chia Jui, who is to blame; for in the absence of Mr. Chia
+LINE 488: Tai-ju, you, sir, are the head in this school, and every one looks to
+LINE 489: you to take action. Had all the pupils been at fault, those who deserved
+LINE 490: a beating should have been beaten, and those who merited punishment
+LINE 491: should have been punished! and why did you wait until things came to
+LINE 492: such a pass, and didn't even exercise any check?"
+LINE 493: "I blew them up," pleaded Chia Jui, "but not one of them would listen."
+LINE 494: "I'll speak out, whether you, worthy sir, resent what I'm going to say
+LINE 495: or not," ventured Li Kuei. "It's you, sir, who all along have after all
+LINE 496: had considerable blame attached to your name; that's why all these young
+LINE 497: men wouldn't hear you! Now if this affair is bruited, until it reaches
+LINE 498: Mr. Chia Tai-ju's ears, why even you, sir, will not be able to escape
+LINE 499: condemnation; and why don't you at once make up your mind to disentangle
+LINE 500: the ravelled mess and dispel all trouble and have done with it!"
+LINE 501: "Disentangle what?" inquired Pao-yü; "I shall certainly go and make my
+LINE 502: report."
+LINE 503: "If Chin Jung stays here," interposed Ch'in Chung sobbing, "I mean to go
+LINE 504: back home."
+LINE 505: "Why that?" asked Pao-yü. "Is it likely that others can safely come and
+LINE 506: that you and I can't? I feel it my bounden duty to tell every one
+LINE 507: everything at home so as to expel Chin Jung. This Chin Jung," he went on
+LINE 508: to inquire as he turned towards Lei Kuei, "is the relative or friend of
+LINE 509: what branch of the family?"
+LINE 510: Li Kuei gave way to reflection and then said by way of reply: "There's
+LINE 511: no need whatever for you to raise this question; for were you to go and
+LINE 512: report the matter to the branch of the family to which he belongs, the
+LINE 513: harmony which should exist between cousins will be still more impaired."
+LINE 514: "He's the nephew of Mrs. Huang, of the Eastern mansion," interposed Ming
+LINE 515: Yen from outside the window. "What a determined and self-confident
+LINE 516: fellow he must be to even come and bully us; Mrs. Huang is his paternal
+LINE 517: aunt! That mother of yours is only good for tossing about like a
+LINE 518: millstone, for kneeling before our lady Lien, and begging for something
+LINE 519: to pawn. I've no eye for such a specimen of mistress."
+LINE 520: "What!" speedily shouted Li Kuei, "does this son of a dog happen to know
+LINE 521: of the existence of all these gnawing maggots?" (these disparaging
+LINE 522: facts).
+LINE 523: Pao-yü gave a sardonic smile. "I was wondering whose relative he was,"
+LINE 524: he remarked; "is he really sister-in-law Huang's nephew? well, I'll go
+LINE 525: at once and speak to her."
+LINE 526: As he uttered these words, his purpose was to start there and then, and
+LINE 527: he called Ming Yen in, to come and pack up his books. Ming Yen walked in
+LINE 528: and put the books away. "Master," he went on to suggest, in an exultant
+LINE 529: manner, "there's no need for you to go yourself to see her; I'll go to
+LINE 530: her house and tell her that our old lady has something to ask of her. I
+LINE 531: can hire a carriage to bring her over, and then, in the presence of her
+LINE 532: venerable ladyship, she can be spoken to; and won't this way save a lot
+LINE 533: of trouble?"
+LINE 534: "Do you want to die?" speedily shouted Li Kuei; "mind, when you go back,
+LINE 535: whether right or wrong, I'll first give you a good bumping, and then go
+LINE 536: and report you to our master and mistress, and just tell them that it's
+LINE 537: you, and only you, who instigated Mr. Pao-yü! I've succeeded, after ever
+LINE 538: so much trouble, in coaxing them, and mending matters to a certain
+LINE 539: extent, and now you come again to continue a new plan. It's you who
+LINE 540: stirred up this row in the school-room; and not to speak of your
+LINE 541: finding, as would have been the proper course, some way of suppressing
+LINE 542: it, there you are instead still jumping into the fire."
+LINE 543: Ming Yen, at this juncture, could not muster the courage to utter a
+LINE 544: sound. By this time Chia Jui had also apprehended that if the row came
+LINE 545: to be beyond clearing up, he himself would likewise not be clear of
+LINE 546: blame, so that circumstances compelled him to pocket his grievances and
+LINE 547: to come and entreat Ch'in Chung as well as to make apologies to Pao-yü.
+LINE 548: These two young fellows would not at first listen to his advances, but
+LINE 549: Pao-yü at length explained that he would not go and report the
+LINE 550: occurrence, provided only Chin Jung admitted his being in the wrong.
+LINE 551: Chin Jung refused, at the outset, to agree to this, but he ultimately
+LINE 552: could find no way out of it, as Chia Jui himself urged him to make some
+LINE 553: temporising apology.
+LINE 554: Li Kuei and the others felt compelled to tender Chin Jung some good
+LINE 555: advice: "It's you," they said, "who have given rise to the disturbance,
+LINE 556: and if you don't act in this manner, how will the matter ever be brought
+LINE 557: to an end?" so that Chin Jung found it difficult to persist in his
+LINE 558: obstinacy, and was constrained to make a bow to Ch'in Chung.
+LINE 559: Pao-yü was, however, not yet satisfied, but would insist upon his
+LINE 560: knocking his head on the ground, and Chia Jui, whose sole aim was to
+LINE 561: temporarily smother the affair, quietly again urged Chin Jung, adding
+LINE 562: that the proverb has it: "That if you keep down the anger of a minute,
+LINE 563: you will for a whole life-time feel no remorse."
+LINE 564: Whether Chin Jung complied or not to his advice is not known, but the
+LINE 565: following chapter will explain.

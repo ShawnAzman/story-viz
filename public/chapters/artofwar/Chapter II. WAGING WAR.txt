@@ -1,0 +1,149 @@
+LINE 1: [Ts'ao Kung has the note: "He who wishes to fight must first count the
+LINE 2: cost," which prepares us for the discovery that the subject of the
+LINE 3: chapter is not what we might expect from the title, but is primarily a
+LINE 4: consideration of ways and means.]
+LINE 5: 1. Sun Tzŭ said: In the operations of war, where there are in the field
+LINE 6: a thousand swift chariots, as many heavy chariots, and a hundred
+LINE 7: thousand mail-clad soldiers,
+LINE 8: [The "swift chariots" were lightly built and, according to Chang Yu,
+LINE 9: used for the attack; the "heavy chariots" were heavier, and designed
+LINE 10: for purposes of defence. Li Ch'uan, it is true, says that the latter
+LINE 11: were light, but this seems hardly probable. It is interesting to note
+LINE 12: the analogies between early Chinese warfare and that of the Homeric
+LINE 13: Greeks. In each case, the war-chariot was the important factor, forming
+LINE 14: as it did the nucleus round which was grouped a certain number of
+LINE 15: foot-soldiers. With regard to the numbers given here, we are informed
+LINE 16: that each swift chariot was accompanied by 75 footmen, and each heavy
+LINE 17: chariot by 25 footmen, so that the whole army would be divided up into
+LINE 18: a thousand battalions, each consisting of two chariots and a hundred
+LINE 19: men.]
+LINE 20: with provisions enough to carry them a thousand _li_,
+LINE 21: [2.78 modern _li_ go to a mile. The length may have varied slightly
+LINE 22: since Sun Tzŭ's time.]
+LINE 23: the expenditure at home and at the front, including entertainment of
+LINE 24: guests, small items such as glue and paint, and sums spent on chariots
+LINE 25: and armour, will reach the total of a thousand ounces of silver per
+LINE 26: day. Such is the cost of raising an army of 100,000 men.
+LINE 27: 2. When you engage in actual fighting, if victory is long in coming,
+LINE 28: the men's weapons will grow dull and their ardour will be damped. If
+LINE 29: you lay siege to a town, you will exhaust your strength.
+LINE 30: 3. Again, if the campaign is protracted, the resources of the State
+LINE 31: will not be equal to the strain.
+LINE 32: 4. Now, when your weapons are dulled, your ardour damped, your strength
+LINE 33: exhausted and your treasure spent, other chieftains will spring up to
+LINE 34: take advantage of your extremity. Then no man, however wise, will be
+LINE 35: able to avert the consequences that must ensue.
+LINE 36: 5. Thus, though we have heard of stupid haste in war, cleverness has
+LINE 37: never been seen associated with long delays.
+LINE 38: [This concise and difficult sentence is not well explained by any of
+LINE 39: the commentators. Ts'ao Kung, Li Ch'uan, Meng Shih, Tu Yu, Tu Mu and
+LINE 40: Mei Yao-ch'en have notes to the effect that a general, though naturally
+LINE 41: stupid, may nevertheless conquer through sheer force of rapidity. Ho
+LINE 42: Shih says: "Haste may be stupid, but at any rate it saves expenditure
+LINE 43: of energy and treasure; protracted operations may be very clever, but
+LINE 44: they bring calamity in their train." Wang Hsi evades the difficulty by
+LINE 45: remarking: "Lengthy operations mean an army growing old, wealth being
+LINE 46: expended, an empty exchequer and distress among the people; true
+LINE 47: cleverness insures against the occurrence of such calamities." Chang Yu
+LINE 48: says: "So long as victory can be attained, stupid haste is preferable
+LINE 49: to clever dilatoriness." Now Sun Tzŭ says nothing whatever, except
+LINE 50: possibly by implication, about ill-considered haste being better than
+LINE 51: ingenious but lengthy operations. What he does say is something much
+LINE 52: more guarded, namely that, while speed may sometimes be injudicious,
+LINE 53: tardiness can never be anything but foolish—if only because it means
+LINE 54: impoverishment to the nation. In considering the point raised here by
+LINE 55: Sun Tzŭ, the classic example of Fabius Cunctator will inevitably occur
+LINE 56: to the mind. That general deliberately measured the endurance of Rome
+LINE 57: against that of Hannibals's isolated army, because it seemed to him
+LINE 58: that the latter was more likely to suffer from a long campaign in a
+LINE 59: strange country. But it is quite a moot question whether his tactics
+LINE 60: would have proved successful in the long run. Their reversal it is
+LINE 61: true, led to Cannae; but this only establishes a negative presumption
+LINE 62: in their favour.]
+LINE 63: 6. There is no instance of a country having benefited from prolonged
+LINE 64: warfare.
+LINE 65: 7. It is only one who is thoroughly acquainted with the evils of war
+LINE 66: that can thoroughly understand the profitable way of carrying it on.
+LINE 67: [That is, with rapidity. Only one who knows the disastrous effects of a
+LINE 68: long war can realize the supreme importance of rapidity in bringing it
+LINE 69: to a close. Only two commentators seem to favour this interpretation,
+LINE 70: but it fits well into the logic of the context, whereas the rendering,
+LINE 71: "He who does not know the evils of war cannot appreciate its benefits,"
+LINE 72: is distinctly pointless.]
+LINE 73: 8. The skilful soldier does not raise a second levy, neither are his
+LINE 74: supply-waggons loaded more than twice.
+LINE 75: [Once war is declared, he will not waste precious time in waiting for
+LINE 76: reinforcements, nor will he return his army back for fresh supplies,
+LINE 77: but crosses the enemy's frontier without delay. This may seem an
+LINE 78: audacious policy to recommend, but with all great strategists, from
+LINE 79: Julius Caesar to Napoleon Bonaparte, the value of time—that is, being a
+LINE 80: little ahead of your opponent—has counted for more than either
+LINE 81: numerical superiority or the nicest calculations with regard to
+LINE 82: commissariat.]
+LINE 83: 9. Bring war material with you from home, but forage on the enemy. Thus
+LINE 84: the army will have food enough for its needs.
+LINE 85: [The Chinese word translated here as "war material" literally means
+LINE 86: "things to be used", and is meant in the widest sense. It includes all
+LINE 87: the impedimenta of an army, apart from provisions.]
+LINE 88: 10. Poverty of the State exchequer causes an army to be maintained by
+LINE 89: contributions from a distance. Contributing to maintain an army at a
+LINE 90: distance causes the people to be impoverished.
+LINE 91: [The beginning of this sentence does not balance properly with the
+LINE 92: next, though obviously intended to do so. The arrangement, moreover, is
+LINE 93: so awkward that I cannot help suspecting some corruption in the text.
+LINE 94: It never seems to occur to Chinese commentators that an emendation may
+LINE 95: be necessary for the sense, and we get no help from them there. The
+LINE 96: Chinese words Sun Tzŭ used to indicate the cause of the people's
+LINE 97: impoverishment clearly have reference to some system by which the
+LINE 98: husbandmen sent their contributions of corn to the army direct. But why
+LINE 99: should it fall on them to maintain an army in this way, except because
+LINE 100: the State or Government is too poor to do so?]
+LINE 101: 11. On the other hand, the proximity of an army causes prices to go up;
+LINE 102: and high prices cause the people's substance to be drained away.
+LINE 103: [Wang Hsi says high prices occur before the army has left its own
+LINE 104: territory. Ts'ao Kung understands it of an army that has already
+LINE 105: crossed the frontier.]
+LINE 106: 12. When their substance is drained away, the peasantry will be
+LINE 107: afflicted by heavy exactions.
+LINE 108: 13, 14. With this loss of substance and exhaustion of strength, the
+LINE 109: homes of the people will be stripped bare, and three-tenths of their
+LINE 110: incomes will be dissipated;
+LINE 111: [Tu Mu and Wang Hsi agree that the people are not mulcted not of 3/10,
+LINE 112: but of 7/10, of their income. But this is hardly to be extracted from
+LINE 113: our text. Ho Shih has a characteristic tag: "The _people_ being
+LINE 114: regarded as the essential part of the State, and _food_ as the people's
+LINE 115: heaven, is it not right that those in authority should value and be
+LINE 116: careful of both?"]
+LINE 117: while Government expenses for broken chariots, worn-out horses,
+LINE 118: breast-plates and helmets, bows and arrows, spears and shields,
+LINE 119: protective mantlets, draught-oxen and heavy waggons, will amount to
+LINE 120: four-tenths of its total revenue.
+LINE 121: 15. Hence a wise general makes a point of foraging on the enemy. One
+LINE 122: cartload of the enemy's provisions is equivalent to twenty of one's
+LINE 123: own, and likewise a single _picul_ of his provender is equivalent to
+LINE 124: twenty from one's own store.
+LINE 125: [Because twenty cartloads will be consumed in the process of
+LINE 126: transporting one cartload to the front. A _picul_ is a unit of measure
+LINE 127: equal to 133.3 pounds (65.5 kilograms).]
+LINE 128: 16. Now in order to kill the enemy, our men must be roused to anger;
+LINE 129: that there may be advantage from defeating the enemy, they must have
+LINE 130: their rewards.
+LINE 131: [Tu Mu says: "Rewards are necessary in order to make the soldiers see
+LINE 132: the advantage of beating the enemy; thus, when you capture spoils from
+LINE 133: the enemy, they must be used as rewards, so that all your men may have
+LINE 134: a keen desire to fight, each on his own account."]
+LINE 135: 17. Therefore in chariot fighting, when ten or more chariots have been
+LINE 136: taken, those should be rewarded who took the first. Our own flags
+LINE 137: should be substituted for those of the enemy, and the chariots mingled
+LINE 138: and used in conjunction with ours. The captured soldiers should be
+LINE 139: kindly treated and kept.
+LINE 140: 18. This is called, using the conquered foe to augment one's own
+LINE 141: strength.
+LINE 142: 19. In war, then, let your great object be victory, not lengthy
+LINE 143: campaigns.
+LINE 144: [As Ho Shih remarks: "War is not a thing to be trifled with." Sun Tzŭ
+LINE 145: here reiterates the main lesson which this chapter is intended to
+LINE 146: enforce."]
+LINE 147: 20. Thus it may be known that the leader of armies is the arbiter of
+LINE 148: the people's fate, the man on whom it depends whether the nation shall
+LINE 149: be in peace or in peril.

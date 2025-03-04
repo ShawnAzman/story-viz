@@ -1,0 +1,2660 @@
+LINE 1: 1. Sun Tzŭ said: In war, the general receives his commands from the
+LINE 2: sovereign.
+LINE 3: 2. Having collected an army and concentrated his forces, he must blend
+LINE 4: and harmonise the different elements thereof before pitching his camp.
+LINE 5: ["Chang Yu says: "the establishment of harmony and confidence between
+LINE 6: the higher and lower ranks before venturing into the field;" and he
+LINE 7: quotes a saying of Wu Tzŭ (chap. 1 ad init.): "Without harmony in the
+LINE 8: State, no military expedition can be undertaken; without harmony in the
+LINE 9: army, no battle array can be formed." In an historical romance Sun Tzŭ
+LINE 10: is represented as saying to Wu Yuan: "As a general rule, those who are
+LINE 11: waging war should get rid of all the domestic troubles before
+LINE 12: proceeding to attack the external foe."]
+LINE 13: 3. After that, comes tactical manœuvering, than which there is nothing
+LINE 14: more difficult.
+LINE 15: [I have departed slightly from the traditional interpretation of Ts'ao
+LINE 16: Kung, who says: "From the time of receiving the sovereign's
+LINE 17: instructions until our encampment over against the enemy, the tactics
+LINE 18: to be pursued are most difficult." It seems to me that the tactics or
+LINE 19: manœuvers can hardly be said to begin until the army has sallied forth
+LINE 20: and encamped, and Ch'ien Hao's note gives color to this view: "For
+LINE 21: levying, concentrating, harmonizing and entrenching an army, there are
+LINE 22: plenty of old rules which will serve. The real difficulty comes when we
+LINE 23: engage in tactical operations." Tu Yu also observes that "the great
+LINE 24: difficulty is to be beforehand with the enemy in seizing favourable
+LINE 25: position."]
+LINE 26: The difficulty of tactical manœuvering consists in turning the devious
+LINE 27: into the direct, and misfortune into gain.
+LINE 28: [This sentence contains one of those highly condensed and somewhat
+LINE 29: enigmatical expressions of which Sun Tzŭ is so fond. This is how it is
+LINE 30: explained by Ts'ao Kung: "Make it appear that you are a long way off,
+LINE 31: then cover the distance rapidly and arrive on the scene before your
+LINE 32: opponent." Tu Mu says: "Hoodwink the enemy, so that he may be remiss
+LINE 33: and leisurely while you are dashing along with utmost speed." Ho Shih
+LINE 34: gives a slightly different turn: "Although you may have difficult
+LINE 35: ground to traverse and natural obstacles to encounter this is a
+LINE 36: drawback which can be turned into actual advantage by celerity of
+LINE 37: movement." Signal examples of this saying are afforded by the two
+LINE 38: famous passages across the Alps—that of Hannibal, which laid Italy at
+LINE 39: his mercy, and that of Napoleon two thousand years later, which
+LINE 40: resulted in the great victory of Marengo.]
+LINE 41: 4. Thus, to take a long and circuitous route, after enticing the enemy
+LINE 42: out of the way, and though starting after him, to contrive to reach the
+LINE 43: goal before him, shows knowledge of the artifice of _deviation_.
+LINE 44: [Tu Mu cites the famous march of Chao She in 270 B.C. to relieve the
+LINE 45: town of O-yu, which was closely invested by a Ch'in army. The King of
+LINE 46: Chao first consulted Lien P'o on the advisability of attempting a
+LINE 47: relief, but the latter thought the distance too great, and the
+LINE 48: intervening country too rugged and difficult. His Majesty then turned
+LINE 49: to Chao She, who fully admitted the hazardous nature of the march, but
+LINE 50: finally said: "We shall be like two rats fighting in a whole—and the
+LINE 51: pluckier one will win!" So he left the capital with his army, but had
+LINE 52: only gone a distance of 30 _li_ when he stopped and began throwing up
+LINE 53: entrenchments. For 28 days he continued strengthening his
+LINE 54: fortifications, and took care that spies should carry the intelligence
+LINE 55: to the enemy. The Ch'in general was overjoyed, and attributed his
+LINE 56: adversary's tardiness to the fact that the beleaguered city was in the
+LINE 57: Han State, and thus not actually part of Chao territory. But the spies
+LINE 58: had no sooner departed than Chao She began a forced march lasting for
+LINE 59: two days and one night, and arrive on the scene of action with such
+LINE 60: astonishing rapidity that he was able to occupy a commanding position
+LINE 61: on the "North hill" before the enemy had got wind of his movements. A
+LINE 62: crushing defeat followed for the Ch'in forces, who were obliged to
+LINE 63: raise the siege of O-yu in all haste and retreat across the border.]
+LINE 64: 5. Manœuvering with an army is advantageous; with an undisciplined
+LINE 65: multitude, most dangerous.
+LINE 66: [I adopt the reading of the _T'ung Tien_, Cheng Yu-hsien and the _T'u
+LINE 67: Shu_, since they appear to apply the exact nuance required in order to
+LINE 68: make sense. The commentators using the standard text take this line to
+LINE 69: mean that manœuvers may be profitable, or they may be dangerous: it all
+LINE 70: depends on the ability of the general.]
+LINE 71: 6. If you set a fully equipped army in march in order to snatch an
+LINE 72: advantage, the chances are that you will be too late. On the other
+LINE 73: hand, to detach a flying column for the purpose involves the sacrifice
+LINE 74: of its baggage and stores.
+LINE 75: [Some of the Chinese text is unintelligible to the Chinese
+LINE 76: commentators, who paraphrase the sentence. I submit my own rendering
+LINE 77: without much enthusiasm, being convinced that there is some deep-seated
+LINE 78: corruption in the text. On the whole, it is clear that Sun Tzŭ does not
+LINE 79: approve of a lengthy march being undertaken without supplies. Cf.
+LINE 80: infra, § 11.]
+LINE 81: 7. Thus, if you order your men to roll up their buff-coats, and make
+LINE 82: forced marches without halting day or night, covering double the usual
+LINE 83: distance at a stretch,
+LINE 84: [The ordinary day's march, according to Tu Mu, was 30 _li_; but on one
+LINE 85: occasion, when pursuing Liu Pei, Ts'ao Ts'ao is said to have covered
+LINE 86: the incredible distance of 300 _li_ within twenty-four hours.]
+LINE 87: doing a hundred _li_ in order to wrest an advantage, the leaders of all
+LINE 88: your three divisions will fall into the hands of the enemy.
+LINE 89: 8. The stronger men will be in front, the jaded ones will fall behind,
+LINE 90: and on this plan only one-tenth of your army will reach its
+LINE 91: destination.
+LINE 92: [The moral is, as Ts'ao Kung and others point out: Don't march a
+LINE 93: hundred _li_ to gain a tactical advantage, either with or without
+LINE 94: impedimenta. Manœuvers of this description should be confined to short
+LINE 95: distances. Stonewall Jackson said: "The hardships of forced marches are
+LINE 96: often more painful than the dangers of battle." He did not often call
+LINE 97: upon his troops for extraordinary exertions. It was only when he
+LINE 98: intended a surprise, or when a rapid retreat was imperative, that he
+LINE 99: sacrificed everything for speed. [1] ]
+LINE 100: 9. If you march fifty _li_ in order to outmanœuver the enemy, you will
+LINE 101: lose the leader of your first division, and only half your force will
+LINE 102: reach the goal.
+LINE 103: [Literally, "the leader of the first division will be _torn away_."]
+LINE 104: 10. If you march thirty _li_ with the same object, two-thirds of your
+LINE 105: army will arrive.
+LINE 106: [In the _T'ung Tien_ is added: "From this we may know the difficulty of
+LINE 107: manœuvering."]
+LINE 108: 11. We may take it then that an army without its baggage-train is lost;
+LINE 109: without provisions it is lost; without bases of supply it is lost.
+LINE 110: [I think Sun Tzŭ meant "stores accumulated in dépôts." But Tu Yu says
+LINE 111: "fodder and the like," Chang Yu says "Goods in general," and Wang Hsi
+LINE 112: says "fuel, salt, foodstuffs, etc."]
+LINE 113: 12. We cannot enter into alliances until we are acquainted with the
+LINE 114: designs of our neighbours.
+LINE 115: 13. We are not fit to lead an army on the march unless we are familiar
+LINE 116: with the face of the country—its mountains and forests, its pitfalls
+LINE 117: and precipices, its marshes and swamps.
+LINE 118: 14. We shall be unable to turn natural advantages to account unless we
+LINE 119: make use of local guides.
+LINE 120: [§§. 12-14 are repeated in chap. XI. § 52.]
+LINE 121: 15. In war, practise dissimulation, and you will succeed.
+LINE 122: [In the tactics of Turenne, deception of the enemy, especially as to
+LINE 123: the numerical strength of his troops, took a very prominent position.
+LINE 124: [2] ]
+LINE 125: Move only if there is a real advantage to be gained.
+LINE 126: 16. Whether to concentrate or to divide your troops, must be decided by
+LINE 127: circumstances.
+LINE 128: 17. Let your rapidity be that of the wind,
+LINE 129: [The simile is doubly appropriate, because the wind is not only swift
+LINE 130: but, as Mei Yao-ch'en points out, "invisible and leaves no tracks."]
+LINE 131: your compactness that of the forest.
+LINE 132: [Meng Shih comes nearer to the mark in his note: "When slowly marching,
+LINE 133: order and ranks must be preserved"—so as to guard against surprise
+LINE 134: attacks. But natural forest do not grow in rows, whereas they do
+LINE 135: generally possess the quality of density or compactness.]
+LINE 136: 18. In raiding and plundering be like fire,
+LINE 137: [Cf. _Shih Ching_, IV. 3. iv. 6: "Fierce as a blazing fire which no man
+LINE 138: can check."]
+LINE 139: in immovability like a mountain.
+LINE 140: [That is, when holding a position from which the enemy is trying to
+LINE 141: dislodge you, or perhaps, as Tu Yu says, when he is trying to entice
+LINE 142: you into a trap.]
+LINE 143: 19. Let your plans be dark and impenetrable as night, and when you
+LINE 144: move, fall like a thunderbolt.
+LINE 145: [Tu Yu quotes a saying of T'ai Kung which has passed into a proverb:
+LINE 146: "You cannot shut your ears to the thunder or your eyes to the
+LINE 147: lighting—so rapid are they." Likewise, an attack should be made so
+LINE 148: quickly that it cannot be parried.]
+LINE 149: 20. When you plunder a countryside, let the spoil be divided amongst
+LINE 150: your men;
+LINE 151: [Sun Tzŭ wishes to lessen the abuses of indiscriminate plundering by
+LINE 152: insisting that all booty shall be thrown into a common stock, which may
+LINE 153: afterwards be fairly divided amongst all.]
+LINE 154: when you capture new territory, cut it up into allotments for the
+LINE 155: benefit of the soldiery.
+LINE 156: [Ch'en Hao says "quarter your soldiers on the land, and let them sow
+LINE 157: and plant it." It is by acting on this principle, and harvesting the
+LINE 158: lands they invaded, that the Chinese have succeeded in carrying out
+LINE 159: some of their most memorable and triumphant expeditions, such as that
+LINE 160: of Pan Ch'ao who penetrated to the Caspian, and in more recent years,
+LINE 161: those of Fu-k'ang-an and Tso Tsung-t'ang.]
+LINE 162: 21. Ponder and deliberate before you make a move.
+LINE 163: [Chang Yu quotes Wei Liao Tzŭ as saying that we must not break camp
+LINE 164: until we have gained the resisting power of the enemy and the
+LINE 165: cleverness of the opposing general. Cf. the "seven comparisons" in I. §
+LINE 166: 13.]
+LINE 167: 22. He will conquer who has learnt the artifice of deviation.
+LINE 168: [See _supra_, §§ 3, 4.]
+LINE 169: Such is the art of manœuvering.
+LINE 170: [With these words, the chapter would naturally come to an end. But
+LINE 171: there now follows a long appendix in the shape of an extract from an
+LINE 172: earlier book on War, now lost, but apparently extant at the time when
+LINE 173: Sun Tzŭ wrote. The style of this fragment is not noticeably different
+LINE 174: from that of Sun Tzŭ himself, but no commentator raises a doubt as to
+LINE 175: its genuineness.]
+LINE 176: 23. The Book of Army Management says:
+LINE 177: [It is perhaps significant that none of the earlier commentators give
+LINE 178: us any information about this work. Mei Yao- Ch'en calls it "an ancient
+LINE 179: military classic," and Wang Hsi, "an old book on war." Considering the
+LINE 180: enormous amount of fighting that had gone on for centuries before Sun
+LINE 181: Tzŭ's time between the various kingdoms and principalities of China, it
+LINE 182: is not in itself improbable that a collection of military maxims should
+LINE 183: have been made and written down at some earlier period.]
+LINE 184: On the field of battle,
+LINE 185: [Implied, though not actually in the Chinese.]
+LINE 186: the spoken word does not carry far enough: hence the institution of
+LINE 187: gongs and drums. Nor can ordinary objects be seen clearly enough: hence
+LINE 188: the institution of banners and flags.
+LINE 189: 24. Gongs and drums, banners and flags, are means whereby the ears and
+LINE 190: eyes of the host may be focussed on one particular point.
+LINE 191: [Chang Yu says: "If sight and hearing converge simultaneously on the
+LINE 192: same object, the evolutions of as many as a million soldiers will be
+LINE 193: like those of a single man."!]
+LINE 194: 25. The host thus forming a single united body, is it impossible either
+LINE 195: for the brave to advance alone, or for the cowardly to retreat alone.
+LINE 196: [Chuang Yu quotes a saying: "Equally guilty are those who advance
+LINE 197: against orders and those who retreat against orders." Tu Mu tells a
+LINE 198: story in this connection of Wu Ch'i, when he was fighting against the
+LINE 199: Ch'in State. Before the battle had begun, one of his soldiers, a man of
+LINE 200: matchless daring, sallied forth by himself, captured two heads from the
+LINE 201: enemy, and returned to camp. Wu Ch'i had the man instantly executed,
+LINE 202: whereupon an officer ventured to remonstrate, saying: "This man was a
+LINE 203: good soldier, and ought not to have been beheaded." Wu Ch'i replied: "I
+LINE 204: fully believe he was a good soldier, but I had him beheaded because he
+LINE 205: acted without orders."]
+LINE 206: This is the art of handling large masses of men.
+LINE 207: 26. In night-fighting, then, make much use of signal-fires and drums,
+LINE 208: and in fighting by day, of flags and banners, as a means of influencing
+LINE 209: the ears and eyes of your army.
+LINE 210: [Ch'en Hao alludes to Li Kuang-pi's night ride to Ho-yang at the head
+LINE 211: of 500 mounted men; they made such an imposing display with torches,
+LINE 212: that though the rebel leader Shih Ssu-ming had a large army, he did not
+LINE 213: dare to dispute their passage.]
+LINE 214: 27. A whole army may be robbed of its spirit;
+LINE 215: ["In war," says Chang Yu, "if a spirit of anger can be made to pervade
+LINE 216: all ranks of an army at one and the same time, its onset will be
+LINE 217: irresistible. Now the spirit of the enemy's soldiers will be keenest
+LINE 218: when they have newly arrived on the scene, and it is therefore our cue
+LINE 219: not to fight at once, but to wait until their ardor and enthusiasm have
+LINE 220: worn off, and then strike. It is in this way that they may be robbed of
+LINE 221: their keen spirit." Li Ch'uan and others tell an anecdote (to be found
+LINE 222: in the _Tso Chuan_, year 10, § 1) of Ts'ao Kuei, a protege of Duke
+LINE 223: Chuang of Lu. The latter State was attacked by Ch'i, and the duke was
+LINE 224: about to join battle at Ch'ang-cho, after the first roll of the enemy's
+LINE 225: drums, when Ts'ao said: "Not just yet." Only after their drums had
+LINE 226: beaten for the third time, did he give the word for attack. Then they
+LINE 227: fought, and the men of Ch'i were utterly defeated. Questioned
+LINE 228: afterwards by the Duke as to the meaning of his delay, Ts'ao Kuei
+LINE 229: replied: "In battle, a courageous spirit is everything. Now the first
+LINE 230: roll of the drum tends to create this spirit, but with the second it is
+LINE 231: already on the wane, and after the third it is gone altogether. I
+LINE 232: attacked when their spirit was gone and ours was at its height. Hence
+LINE 233: our victory." Wu Tzŭ (chap. 4) puts "spirit" first among the "four
+LINE 234: important influences" in war, and continues: "The value of a whole
+LINE 235: army—a mighty host of a million men—is dependent on one man alone: such
+LINE 236: is the influence of spirit!"]
+LINE 237: a commander-in-chief may be robbed of his presence of mind.
+LINE 238: [Chang Yu says: "Presence of mind is the general's most important
+LINE 239: asset. It is the quality which enables him to discipline disorder and
+LINE 240: to inspire courage into the panic-stricken." The great general Li Ching
+LINE 241: (A.D. 571-649) has a saying: "Attacking does not merely consist in
+LINE 242: assaulting walled cities or striking at an army in battle array; it
+LINE 243: must include the art of assailing the enemy's mental equilibrium."]
+LINE 244: 28. Now a soldier's spirit is keenest in the morning;
+LINE 245: [Always provided, I suppose, that he has had breakfast. At the battle
+LINE 246: of the Trebia, the Romans were foolishly allowed to fight fasting,
+LINE 247: whereas Hannibal's men had breakfasted at their leisure. See Livy, XXI,
+LINE 248: liv. 8, lv. 1 and 8.]
+LINE 249: by noonday it has begun to flag; and in the evening, his mind is bent
+LINE 250: only on returning to camp.
+LINE 251: 29. A clever general, therefore, avoids an army when its spirit is
+LINE 252: keen, but attacks it when it is sluggish and inclined to return. This
+LINE 253: is the art of studying moods.
+LINE 254: 30. Disciplined and calm, to await the appearance of disorder and
+LINE 255: hubbub amongst the enemy:—this is the art of retaining self-possession.
+LINE 256: 31. To be near the goal while the enemy is still far from it, to wait
+LINE 257: at ease while the enemy is toiling and struggling, to be well-fed while
+LINE 258: the enemy is famished:—this is the art of husbanding one's strength.
+LINE 259: 32. To refrain from intercepting an enemy whose banners are in perfect
+LINE 260: order, to refrain from attacking an army drawn up in calm and confident
+LINE 261: array:—this is the art of studying circumstances.
+LINE 262: 33. It is a military axiom not to advance uphill against the enemy, nor
+LINE 263: to oppose him when he comes downhill.
+LINE 264: 34. Do not pursue an enemy who simulates flight; do not attack soldiers
+LINE 265: whose temper is keen.
+LINE 266: 35. Do not swallow a bait offered by the enemy.
+LINE 267: [Li Ch'uan and Tu Mu, with extraordinary inability to see a metaphor,
+LINE 268: take these words quite literally of food and drink that have been
+LINE 269: poisoned by the enemy. Ch'en Hao and Chang Yu carefully point out that
+LINE 270: the saying has a wider application.]
+LINE 271: Do not interfere with an army that is returning home.
+LINE 272: [The commentators explain this rather singular piece of advice by
+LINE 273: saying that a man whose heart is set on returning home will fight to
+LINE 274: the death against any attempt to bar his way, and is therefore too
+LINE 275: dangerous an opponent to be tackled. Chang Yu quotes the words of Han
+LINE 276: Hsin: "Invincible is the soldier who hath his desire and returneth
+LINE 277: homewards." A marvelous tale is told of Ts'ao Ts'ao's courage and
+LINE 278: resource in ch. 1 of the _San Kuo Chi_, In 198 A.D., he was besieging
+LINE 279: Chang Hsiu in Jang, when Liu Piao sent reinforcements with a view to
+LINE 280: cutting off Ts'ao's retreat. The latter was obliged to draw off his
+LINE 281: troops, only to find himself hemmed in between two enemies, who were
+LINE 282: guarding each outlet of a narrow pass in which he had engaged himself.
+LINE 283: In this desperate plight Ts'ao waited until nightfall, when he bored a
+LINE 284: tunnel into the mountain side and laid an ambush in it. As soon as the
+LINE 285: whole army had passed by, the hidden troops fell on his rear, while
+LINE 286: Ts'ao himself turned and met his pursuers in front, so that they were
+LINE 287: thrown into confusion and annihilated. Ts'ao Ts'ao said afterwards:
+LINE 288: "The brigands tried to check my army in its retreat and brought me to
+LINE 289: battle in a desperate position: hence I knew how to overcome them."]
+LINE 290: 36. When you surround an army, leave an outlet free.
+LINE 291: [This does not mean that the enemy is to be allowed to escape. The
+LINE 292: object, as Tu Mu puts it, is "to make him believe that there is a road
+LINE 293: to safety, and thus prevent his fighting with the courage of despair."
+LINE 294: Tu Mu adds pleasantly: "After that, you may crush him."]
+LINE 295: Do not press a desperate foe too hard.
+LINE 296: [Ch'en Hao quotes the saying: "Birds and beasts when brought to bay
+LINE 297: will use their claws and teeth." Chang Yu says: "If your adversary has
+LINE 298: burned his boats and destroyed his cooking-pots, and is ready to stake
+LINE 299: all on the issue of a battle, he must not be pushed to extremities." Ho
+LINE 300: Shih illustrates the meaning by a story taken from the life of
+LINE 301: Yen-ch'ing. That general, together with his colleague Tu Chung-wei was
+LINE 302: surrounded by a vastly superior army of Khitans in the year 945 A.D.
+LINE 303: The country was bare and desert-like, and the little Chinese force was
+LINE 304: soon in dire straits for want of water. The wells they bored ran dry,
+LINE 305: and the men were reduced to squeezing lumps of mud and sucking out the
+LINE 306: moisture. Their ranks thinned rapidly, until at last Fu Yen-ch'ing
+LINE 307: exclaimed: "We are desperate men. Far better to die for our country
+LINE 308: than to go with fettered hands into captivity!" A strong gale happened
+LINE 309: to be blowing from the northeast and darkening the air with dense
+LINE 310: clouds of sandy dust. To Chung-wei was for waiting until this had
+LINE 311: abated before deciding on a final attack; but luckily another officer,
+LINE 312: Li Shou-cheng by name, was quicker to see an opportunity, and said:
+LINE 313: "They are many and we are few, but in the midst of this sandstorm our
+LINE 314: numbers will not be discernible; victory will go to the strenuous
+LINE 315: fighter, and the wind will be our best ally." Accordingly, Fu
+LINE 316: Yen-ch'ing made a sudden and wholly unexpected onslaught with his
+LINE 317: cavalry, routed the barbarians and succeeded in breaking through to
+LINE 318: safety.]
+LINE 319: 37. Such is the art of warfare.
+LINE 320: [1] See Col. Henderson, op. cit. vol. I. p. 426.
+LINE 321: [2] For a number of maxims on this head, see "Marshal Turenne"
+LINE 322: (Longmans, 1907), p. 29.
+LINE 323: Chapter VIII. VARIATION OF TACTICS
+LINE 324: [The heading means literally "The Nine Variations," but as Sun Tzŭ does
+LINE 325: not appear to enumerate these, and as, indeed, he has already told us
+LINE 326: (V §§ 6-11) that such deflections from the ordinary course are
+LINE 327: practically innumerable, we have little option but to follow Wang Hsi,
+LINE 328: who says that "Nine" stands for an indefinitely large number. "All it
+LINE 329: means is that in warfare we ought to vary our tactics to the utmost
+LINE 330: degree…. I do not know what Ts'ao Kung makes these Nine Variations out
+LINE 331: to be, but it has been suggested that they are connected with the Nine
+LINE 332: Situations" - of chapt. XI. This is the view adopted by Chang Yu. The
+LINE 333: only other alternative is to suppose that something has been lost—a
+LINE 334: supposition to which the unusual shortness of the chapter lends some
+LINE 335: weight.]
+LINE 336: 1. Sun Tzŭ said: In war, the general receives his commands from the
+LINE 337: sovereign, collects his army and concentrates his forces.
+LINE 338: [Repeated from VII. § 1, where it is certainly more in place. It may
+LINE 339: have been interpolated here merely in order to supply a beginning to
+LINE 340: the chapter.]
+LINE 341: 2. When in difficult country, do not encamp. In country where high
+LINE 342: roads intersect, join hands with your allies. Do not linger in
+LINE 343: dangerously isolated positions.
+LINE 344: [The last situation is not one of the Nine Situations as given in the
+LINE 345: beginning of chap. XI, but occurs later on (ibid. § 43. q.v.). Chang Yu
+LINE 346: defines this situation as being situated across the frontier, in
+LINE 347: hostile territory. Li Ch'uan says it is "country in which there are no
+LINE 348: springs or wells, flocks or herds, vegetables or firewood;" Chia Lin,
+LINE 349: "one of gorges, chasms and precipices, without a road by which to
+LINE 350: advance."]
+LINE 351: In hemmed-in situations, you must resort to stratagem. In a desperate
+LINE 352: position, you must fight.
+LINE 353: 3. There are roads which must not be followed,
+LINE 354: ["Especially those leading through narrow defiles," says Li Ch'uan,
+LINE 355: "where an ambush is to be feared."]
+LINE 356: armies which must be not attacked,
+LINE 357: [More correctly, perhaps, "there are times when an army must not be
+LINE 358: attacked." Ch'en Hao says: "When you see your way to obtain a rival
+LINE 359: advantage, but are powerless to inflict a real defeat, refrain from
+LINE 360: attacking, for fear of overtaxing your men's strength."]
+LINE 361: towns which must not be besieged,
+LINE 362: [Cf. III. § 4 Ts'ao Kung gives an interesting illustration from his own
+LINE 363: experience. When invading the territory of Hsu-chou, he ignored the
+LINE 364: city of Hua-pi, which lay directly in his path, and pressed on into the
+LINE 365: heart of the country. This excellent strategy was rewarded by the
+LINE 366: subsequent capture of no fewer than fourteen important district cities.
+LINE 367: Chang Yu says: "No town should be attacked which, if taken, cannot be
+LINE 368: held, or if left alone, will not cause any trouble." Hsun Ying, when
+LINE 369: urged to attack Pi-yang, replied: "The city is small and
+LINE 370: well-fortified; even if I succeed intaking it, it will be no great feat
+LINE 371: of arms; whereas if I fail, I shall make myself a laughing-stock." In
+LINE 372: the seventeenth century, sieges still formed a large proportion of war.
+LINE 373: It was Turenne who directed attention to the importance of marches,
+LINE 374: countermarches and manœuvers. He said: "It is a great mistake to waste
+LINE 375: men in taking a town when the same expenditure of soldiers will gain a
+LINE 376: province." [1] ]
+LINE 377: positions which must not be contested, commands of the sovereign which
+LINE 378: must not be obeyed.
+LINE 379: [This is a hard saying for the Chinese, with their reverence for
+LINE 380: authority, and Wei Liao Tzŭ (quoted by Tu Mu) is moved to exclaim:
+LINE 381: "Weapons are baleful instruments, strife is antagonistic to virtue, a
+LINE 382: military commander is the negation of civil order!" The unpalatable
+LINE 383: fact remains, however, that even Imperial wishes must be subordinated
+LINE 384: to military necessity.]
+LINE 385: 4. The general who thoroughly understands the advantages that accompany
+LINE 386: variation of tactics knows how to handle his troops.
+LINE 387: 5. The general who does not understand these, may be well acquainted
+LINE 388: with the configuration of the country, yet he will not be able to turn
+LINE 389: his knowledge to practical account.
+LINE 390: [Literally, "get the advantage of the ground," which means not only
+LINE 391: securing good positions, but availing oneself of natural advantages in
+LINE 392: every possible way. Chang Yu says: "Every kind of ground is
+LINE 393: characterized by certain natural features, and also gives scope for a
+LINE 394: certain variability of plan. How it is possible to turn these natural
+LINE 395: features to account unless topographical knowledge is supplemented by
+LINE 396: versatility of mind?"]
+LINE 397: 6. So, the student of war who is unversed in the art of war of varying
+LINE 398: his plans, even though he be acquainted with the Five Advantages, will
+LINE 399: fail to make the best use of his men.
+LINE 400: [Chia Lin tells us that these imply five obvious and generally
+LINE 401: advantageous lines of action, namely: "if a certain road is short, it
+LINE 402: must be followed; if an army is isolated, it must be attacked; if a
+LINE 403: town is in a parlous condition, it must be besieged; if a position can
+LINE 404: be stormed, it must be attempted; and if consistent with military
+LINE 405: operations, the ruler's commands must be obeyed." But there are
+LINE 406: circumstances which sometimes forbid a general to use these advantages.
+LINE 407: For instance, "a certain road may be the shortest way for him, but if
+LINE 408: he knows that it abounds in natural obstacles, or that the enemy has
+LINE 409: laid an ambush on it, he will not follow that road. A hostile force may
+LINE 410: be open to attack, but if he knows that it is hard-pressed and likely
+LINE 411: to fight with desperation, he will refrain from striking," and so on.]
+LINE 412: 7. Hence in the wise leader's plans, considerations of advantage and of
+LINE 413: disadvantage will be blended together.
+LINE 414: ["Whether in an advantageous position or a disadvantageous one," says
+LINE 415: Ts'ao Kung, "the opposite state should be always present to your
+LINE 416: mind."]
+LINE 417: 8. If our expectation of advantage be tempered in this way, we may
+LINE 418: succeed in accomplishing the essential part of our schemes.
+LINE 419: [Tu Mu says: "If we wish to wrest an advantage from the enemy, we must
+LINE 420: not fix our minds on that alone, but allow for the possibility of the
+LINE 421: enemy also doing some harm to us, and let this enter as a factor into
+LINE 422: our calculations."]
+LINE 423: 9. If, on the other hand, in the midst of difficulties we are always
+LINE 424: ready to seize an advantage, we may extricate ourselves from
+LINE 425: misfortune.
+LINE 426: [Tu Mu says: "If I wish to extricate myself from a dangerous position,
+LINE 427: I must consider not only the enemy's ability to injure me, but also my
+LINE 428: own ability to gain an advantage over the enemy. If in my counsels
+LINE 429: these two considerations are properly blended, I shall succeed in
+LINE 430: liberating myself…. For instance; if I am surrounded by the enemy and
+LINE 431: only think of effecting an escape, the nervelessness of my policy will
+LINE 432: incite my adversary to pursue and crush me; it would be far better to
+LINE 433: encourage my men to deliver a bold counter-attack, and use the
+LINE 434: advantage thus gained to free myself from the enemy's toils." See the
+LINE 435: story of Ts'ao Ts'ao, VII. § 35, note.]
+LINE 436: 10. Reduce the hostile chiefs by inflicting damage on them;
+LINE 437: [Chia Lin enumerates several ways of inflicting this injury, some of
+LINE 438: which would only occur to the Oriental mind:—"Entice away the enemy's
+LINE 439: best and wisest men, so that he may be left without counselors.
+LINE 440: Introduce traitors into his country, that the government policy may be
+LINE 441: rendered futile. Foment intrigue and deceit, and thus sow dissension
+LINE 442: between the ruler and his ministers. By means of every artful
+LINE 443: contrivance, cause deterioration amongst his men and waste of his
+LINE 444: treasure. Corrupt his morals by insidious gifts leading him into
+LINE 445: excess. Disturb and unsettle his mind by presenting him with lovely
+LINE 446: women." Chang Yu (after Wang Hsi) makes a different interpretation of
+LINE 447: Sun Tzŭ here: "Get the enemy into a position where he must suffer
+LINE 448: injury, and he will submit of his own accord."]
+LINE 449: and make trouble for them,
+LINE 450: [Tu Mu, in this phrase, in his interpretation indicates that trouble
+LINE 451: should be made for the enemy affecting their "possessions," or, as we
+LINE 452: might say, "assets," which he considers to be "a large army, a rich
+LINE 453: exchequer, harmony amongst the soldiers, punctual fulfillment of
+LINE 454: commands." These give us a whip-hand over the enemy.]
+LINE 455: and keep them constantly engaged;
+LINE 456: [Literally, "make servants of them." Tu Yu says "prevent them from
+LINE 457: having any rest."]
+LINE 458: hold out specious allurements, and make them rush to any given point.
+LINE 459: [Meng Shih's note contains an excellent example of the idiomatic use
+LINE 460: of: "cause them to forget _pien_ (the reasons for acting otherwise than
+LINE 461: on their first impulse), and hasten in our direction."]
+LINE 462: 11. The art of war teaches us to rely not on the likelihood of the
+LINE 463: enemy's not coming, but on our own readiness to receive him; not on the
+LINE 464: chance of his not attacking, but rather on the fact that we have made
+LINE 465: our position unassailable.
+LINE 466: 12. There are five dangerous faults which may affect a general: (1)
+LINE 467: Recklessness, which leads to destruction;
+LINE 468: ["Bravery without forethought," as Ts'ao Kung analyzes it, which causes
+LINE 469: a man to fight blindly and desperately like a mad bull. Such an
+LINE 470: opponent, says Chang Yu, "must not be encountered with brute force, but
+LINE 471: may be lured into an ambush and slain." Cf. Wu Tzŭ, chap. IV. ad init.:
+LINE 472: "In estimating the character of a general, men are wont to pay
+LINE 473: exclusive attention to his courage, forgetting that courage is only one
+LINE 474: out of many qualities which a general should possess. The merely brave
+LINE 475: man is prone to fight recklessly; and he who fights recklessly, without
+LINE 476: any perception of what is expedient, must be condemned." Ssu-ma Fa,
+LINE 477: too, makes the incisive remark: "Simply going to one's death does not
+LINE 478: bring about victory."]
+LINE 479: (2) cowardice, which leads to capture;
+LINE 480: [Ts'ao Kung defines the Chinese word translated here as "cowardice" as
+LINE 481: being of the man "whom timidity prevents from advancing to seize an
+LINE 482: advantage," and Wang Hsi adds "who is quick to flee at the sight of
+LINE 483: danger." Meng Shih gives the closer paraphrase "he who is bent on
+LINE 484: returning alive," this is, the man who will never take a risk. But, as
+LINE 485: Sun Tzŭ knew, nothing is to be achieved in war unless you are willing
+LINE 486: to take risks. T'ai Kung said: "He who lets an advantage slip will
+LINE 487: subsequently bring upon himself real disaster." In 404 A.D., Liu Yu
+LINE 488: pursued the rebel Huan Hsuan up the Yangtsze and fought a naval battle
+LINE 489: with him at the island of Ch'eng-hung. The loyal troops numbered only a
+LINE 490: few thousands, while their opponents were in great force. But Huan
+LINE 491: Hsuan, fearing the fate which was in store for him should be be
+LINE 492: overcome, had a light boat made fast to the side of his war-junk, so
+LINE 493: that he might escape, if necessary, at a moment's notice. The natural
+LINE 494: result was that the fighting spirit of his soldiers was utterly
+LINE 495: quenched, and when the loyalists made an attack from windward with
+LINE 496: fireships, all striving with the utmost ardor to be first in the fray,
+LINE 497: Huan Hsuan's forces were routed, had to burn all their baggage and fled
+LINE 498: for two days and nights without stopping. Chang Yu tells a somewhat
+LINE 499: similar story of Chao Ying-ch'i, a general of the Chin State who during
+LINE 500: a battle with the army of Ch'u in 597 B.C. had a boat kept in readiness
+LINE 501: for him on the river, wishing in case of defeat to be the first to get
+LINE 502: across.]
+LINE 503: (3) a hasty temper, which can be provoked by insults;
+LINE 504: [Tu Mu tells us that Yao Hsing, when opposed in 357 A.D. by Huang Mei,
+LINE 505: Teng Ch'iang and others shut himself up behind his walls and refused to
+LINE 506: fight. Teng Ch'iang said: "Our adversary is of a choleric temper and
+LINE 507: easily provoked; let us make constant sallies and break down his walls,
+LINE 508: then he will grow angry and come out. Once we can bring his force to
+LINE 509: battle, it is doomed to be our prey." This plan was acted upon, Yao
+LINE 510: Hsiang came out to fight, was lured as far as San-yuan by the enemy's
+LINE 511: pretended flight, and finally attacked and slain.]
+LINE 512: (4) a delicacy of honour which is sensitive to shame;
+LINE 513: This need not be taken to mean that a sense of honour is really a defect
+LINE 514: in a general. What Sun Tzŭ condemns is rather an exaggerated
+LINE 515: sensitiveness to slanderous reports, the thin-skinned man who is stung
+LINE 516: by opprobrium, however undeserved. Mei Yao-ch'en truly observes, though
+LINE 517: somewhat paradoxically: "The seeker after glory should be careless of
+LINE 518: public opinion."]
+LINE 519: (5) over-solicitude for his men, which exposes him to worry and
+LINE 520: trouble.
+LINE 521: [Here again, Sun Tzŭ does not mean that the general is to be careless
+LINE 522: of the welfare of his troops. All he wishes to emphasize is the danger
+LINE 523: of sacrificing any important military advantage to the immediate
+LINE 524: comfort of his men. This is a shortsighted policy, because in the long
+LINE 525: run the troops will suffer more from the defeat, or, at best, the
+LINE 526: prolongation of the war, which will be the consequence. A mistaken
+LINE 527: feeling of pity will often induce a general to relieve a beleaguered
+LINE 528: city, or to reinforce a hard-pressed detachment, contrary to his
+LINE 529: military instincts. It is now generally admitted that our repeated
+LINE 530: efforts to relieve Ladysmith in the South African War were so many
+LINE 531: strategical blunders which defeated their own purpose. And in the end,
+LINE 532: relief came through the very man who started out with the distinct
+LINE 533: resolve no longer to subordinate the interests of the whole to
+LINE 534: sentiment in favour of a part. An old soldier of one of our generals who
+LINE 535: failed most conspicuously in this war, tried once, I remember, to
+LINE 536: defend him to me on the ground that he was always "so good to his men."
+LINE 537: By this plea, had he but known it, he was only condemning him out of
+LINE 538: Sun Tzŭ's mouth.]
+LINE 539: 13. These are the five besetting sins of a general, ruinous to the
+LINE 540: conduct of war.
+LINE 541: 14. When an army is overthrown and its leader slain, the cause will
+LINE 542: surely be found among these five dangerous faults. Let them be a
+LINE 543: subject of meditation.
+LINE 544: [1] "Marshal Turenne," p. 50.
+LINE 545: Chapter IX. THE ARMY ON THE MARCH
+LINE 546: [The contents of this interesting chapter are better indicated in § 1
+LINE 547: than by this heading.]
+LINE 548: 1. Sun Tzŭ said: We come now to the question of encamping the army, and
+LINE 549: observing signs of the enemy. Pass quickly over mountains, and keep in
+LINE 550: the neighbourhood of valleys.
+LINE 551: [The idea is, not to linger among barren uplands, but to keep close to
+LINE 552: supplies of water and grass. Cf. Wu Tzŭ, ch. 3: "Abide not in natural
+LINE 553: ovens," i.e. "the openings of valleys." Chang Yu tells the following
+LINE 554: anecdote: Wu-tu Ch'iang was a robber captain in the time of the Later
+LINE 555: Han, and Ma Yuan was sent to exterminate his gang. Ch'iang having found
+LINE 556: a refuge in the hills, Ma Yuan made no attempt to force a battle, but
+LINE 557: seized all the favourable positions commanding supplies of water and
+LINE 558: forage. Ch'iang was soon in such a desperate plight for want of
+LINE 559: provisions that he was forced to make a total surrender. He did not
+LINE 560: know the advantage of keeping in the neighbourhood of valleys."]
+LINE 561: 2. Camp in high places,
+LINE 562: [Not on high hills, but on knolls or hillocks elevated above the
+LINE 563: surrounding country.]
+LINE 564: facing the sun.
+LINE 565: [Tu Mu takes this to mean "facing south," and Ch'en Hao "facing east."
+LINE 566: Cf. infra, §§ 11, 13.
+LINE 567: Do not climb heights in order to fight. So much for mountain warfare.
+LINE 568: 3. After crossing a river, you should get far away from it.
+LINE 569: ["In order to tempt the enemy to cross after you," according to Ts'ao
+LINE 570: Kung, and also, says Chang Yu, "in order not to be impeded in your
+LINE 571: evolutions." The _T'ung Tien_ reads, "If _the enemy_ crosses a river,"
+LINE 572: etc. But in view of the next sentence, this is almost certainly an
+LINE 573: interpolation.]
+LINE 574: 4. When an invading force crosses a river in its onward march, do not
+LINE 575: advance to meet it in mid-stream. It will be best to let half the army
+LINE 576: get across, and then deliver your attack.
+LINE 577: [Li Ch'uan alludes to the great victory won by Han Hsin over Lung Chu
+LINE 578: at the Wei River. Turning to the _Ch'ien Han Shu_, ch. 34, fol. 6
+LINE 579: verso, we find the battle described as follows: "The two armies were
+LINE 580: drawn up on opposite sides of the river. In the night, Han Hsin ordered
+LINE 581: his men to take some ten thousand sacks filled with sand and construct
+LINE 582: a dam higher up. Then, leading half his army across, he attacked Lung
+LINE 583: Chu; but after a time, pretending to have failed in his attempt, he
+LINE 584: hastily withdrew to the other bank. Lung Chu was much elated by this
+LINE 585: unlooked-for success, and exclaiming: "I felt sure that Han Hsin was
+LINE 586: really a coward!" he pursued him and began crossing the river in his
+LINE 587: turn. Han Hsin now sent a party to cut open the sandbags, thus
+LINE 588: releasing a great volume of water, which swept down and prevented the
+LINE 589: greater portion of Lung Chu's army from getting across. He then turned
+LINE 590: upon the force which had been cut off, and annihilated it, Lung Chu
+LINE 591: himself being amongst the slain. The rest of the army, on the further
+LINE 592: bank, also scattered and fled in all directions.]
+LINE 593: 5. If you are anxious to fight, you should not go to meet the invader
+LINE 594: near a river which he has to cross.
+LINE 595: [For fear of preventing his crossing.]
+LINE 596: 6. Moor your craft higher up than the enemy, and facing the sun.
+LINE 597: [See _supra_, § 2. The repetition of these words in connection with
+LINE 598: water is very awkward. Chang Yu has the note: "Said either of troops
+LINE 599: marshalled on the river-bank, or of boats anchored in the stream itself;
+LINE 600: in either case it is essential to be higher than the enemy and facing
+LINE 601: the sun." The other commentators are not at all explicit.]
+LINE 602: Do not move up-stream to meet the enemy.
+LINE 603: [Tu Mu says: "As water flows downwards, we must not pitch our camp on
+LINE 604: the lower reaches of a river, for fear the enemy should open the
+LINE 605: sluices and sweep us away in a flood. Chu-ko Wu-hou has remarked that
+LINE 606: 'in river warfare we must not advance against the stream,' which is as
+LINE 607: much as to say that our fleet must not be anchored below that of the
+LINE 608: enemy, for then they would be able to take advantage of the current and
+LINE 609: make short work of us." There is also the danger, noted by other
+LINE 610: commentators, that the enemy may throw poison on the water to be
+LINE 611: carried down to us.]
+LINE 612: So much for river warfare.
+LINE 613: 7. In crossing salt-marshes, your sole concern should be to get over
+LINE 614: them quickly, without any delay.
+LINE 615: [Because of the lack of fresh water, the poor quality of the herbage,
+LINE 616: and last but not least, because they are low, flat, and exposed to
+LINE 617: attack.]
+LINE 618: 8. If forced to fight in a salt-marsh, you should have water and grass
+LINE 619: near you, and get your back to a clump of trees.
+LINE 620: [Li Ch'uan remarks that the ground is less likely to be treacherous
+LINE 621: where there are trees, while Tu Mu says that they will serve to protect
+LINE 622: the rear.]
+LINE 623: So much for operations in salt-marshes.
+LINE 624: 9. In dry, level country, take up an easily accessible position with
+LINE 625: rising ground to your right and on your rear,
+LINE 626: [Tu Mu quotes T'ai Kung as saying: "An army should have a stream or a
+LINE 627: marsh on its left, and a hill or tumulus on its right."]
+LINE 628: so that the danger may be in front, and safety lie behind. So much for
+LINE 629: campaigning in flat country.
+LINE 630: 10. These are the four useful branches of military knowledge
+LINE 631: [Those, namely, concerned with (1) mountains, (2) rivers, (3) marshes,
+LINE 632: and (4) plains. Compare Napoleon's "Military Maxims," no. 1.]
+LINE 633: which enabled the Yellow Emperor to vanquish four several sovereigns.
+LINE 634: [Regarding the "Yellow Emperor": Mei Yao-ch'en asks, with some
+LINE 635: plausibility, whether there is an error in the text as nothing is known
+LINE 636: of Huang Ti having conquered four other Emperors. The _Shih Chi_ (ch. 1
+LINE 637: ad init.) speaks only of his victories over Yen Ti and Ch'ih Yu. In the
+LINE 638: _Liu T'ao_ it is mentioned that he "fought seventy battles and pacified
+LINE 639: the Empire." Ts'ao Kung's explanation is, that the Yellow Emperor was
+LINE 640: the first to institute the feudal system of vassals princes, each of
+LINE 641: whom (to the number of four) originally bore the title of Emperor. Li
+LINE 642: Ch'uan tells us that the art of war originated under Huang Ti, who
+LINE 643: received it from his Minister Feng Hou.]
+LINE 644: 11. All armies prefer high ground to low,
+LINE 645: ["High Ground," says Mei Yao-ch'en, "is not only more agreeable and
+LINE 646: salubrious, but more convenient from a military point of view; low
+LINE 647: ground is not only damp and unhealthy, but also disadvantageous for
+LINE 648: fighting."]
+LINE 649: and sunny places to dark.
+LINE 650: 12. If you are careful of your men,
+LINE 651: [Ts'ao Kung says: "Make for fresh water and pasture, where you can turn
+LINE 652: out your animals to graze."]
+LINE 653: and camp on hard ground, the army will be free from disease of every
+LINE 654: kind,
+LINE 655: [Chang Yu says: "The dryness of the climate will prevent the outbreak
+LINE 656: of illness."]
+LINE 657: and this will spell victory.
+LINE 658: 13. When you come to a hill or a bank, occupy the sunny side, with the
+LINE 659: slope on your right rear. Thus you will at once act for the benefit of
+LINE 660: your soldiers and utilise the natural advantages of the ground.
+LINE 661: 14. When, in consequence of heavy rains up-country, a river which you
+LINE 662: wish to ford is swollen and flecked with foam, you must wait until it
+LINE 663: subsides.
+LINE 664: 15. Country in which there are precipitous cliffs with torrents running
+LINE 665: between, deep natural hollows,
+LINE 666: The latter defined as "places enclosed on every side by steep banks,
+LINE 667: with pools of water at the bottom."]
+LINE 668: confined places,
+LINE 669: [Defined as "natural pens or prisons" or "places surrounded by
+LINE 670: precipices on three sides—easy to get into, but hard to get out of."]
+LINE 671: tangled thickets,
+LINE 672: [Defined as "places covered with such dense undergrowth that spears
+LINE 673: cannot be used."]
+LINE 674: quagmires
+LINE 675: [Defined as "low-lying places, so heavy with mud as to be impassable
+LINE 676: for chariots and horsemen."]
+LINE 677: and crevasses,
+LINE 678: [Defined by Mei Yao-ch'en as "a narrow difficult way between beetling
+LINE 679: cliffs." Tu Mu's note is "ground covered with trees and rocks, and
+LINE 680: intersected by numerous ravines and pitfalls." This is very vague, but
+LINE 681: Chia Lin explains it clearly enough as a defile or narrow pass, and
+LINE 682: Chang Yu takes much the same view. On the whole, the weight of the
+LINE 683: commentators certainly inclines to the rendering "defile." But the
+LINE 684: ordinary meaning of the Chinese in one place is "a crack or fissure"
+LINE 685: and the fact that the meaning of the Chinese elsewhere in the sentence
+LINE 686: indicates something in the nature of a defile, make me think that Sun
+LINE 687: Tzŭ is here speaking of crevasses.]
+LINE 688: should be left with all possible speed and not approached.
+LINE 689: 16. While we keep away from such places, we should get the enemy to
+LINE 690: approach them; while we face them, we should let the enemy have them on
+LINE 691: his rear.
+LINE 692: 17. If in the neighbourhood of your camp there should be any hilly
+LINE 693: country, ponds surrounded by aquatic grass, hollow basins filled with
+LINE 694: reeds, or woods with thick undergrowth, they must be carefully routed
+LINE 695: out and searched; for these are places where men in ambush or insidious
+LINE 696: spies are likely to be lurking.
+LINE 697: [Chang Yu has the note: "We must also be on our guard against traitors
+LINE 698: who may lie in close covert, secretly spying out our weaknesses and
+LINE 699: overhearing our instructions."]
+LINE 700: 18. When the enemy is close at hand and remains quiet, he is relying on
+LINE 701: the natural strength of his position.
+LINE 702: [Here begin Sun Tzŭ's remarks on the reading of signs, much of which is
+LINE 703: so good that it could almost be included in a modern manual like Gen.
+LINE 704: Baden-Powell's "Aids to Scouting."]
+LINE 705: 19. When he keeps aloof and tries to provoke a battle, he is anxious
+LINE 706: for the other side to advance.
+LINE 707: [Probably because we are in a strong position from which he wishes to
+LINE 708: dislodge us. "If he came close up to us, says Tu Mu, "and tried to
+LINE 709: force a battle, he would seem to despise us, and there would be less
+LINE 710: probability of our responding to the challenge."]
+LINE 711: 20. If his place of encampment is easy of access, he is tendering a
+LINE 712: bait.
+LINE 713: 21. Movement amongst the trees of a forest shows that the enemy is
+LINE 714: advancing.
+LINE 715: [Ts'ao Kung explains this as "felling trees to clear a passage," and
+LINE 716: Chang Yu says: "Every man sends out scouts to climb high places and
+LINE 717: observe the enemy. If a scout sees that the trees of a forest are
+LINE 718: moving and shaking, he may know that they are being cut down to clear a
+LINE 719: passage for the enemy's march."]
+LINE 720: The appearance of a number of screens in the midst of thick grass means
+LINE 721: that the enemy wants to make us suspicious.
+LINE 722: [Tu Yu's explanation, borrowed from Ts'ao Kung's, is as follows: "The
+LINE 723: presence of a number of screens or sheds in the midst of thick
+LINE 724: vegetation is a sure sign that the enemy has fled and, fearing pursuit,
+LINE 725: has constructed these hiding-places in order to make us suspect an
+LINE 726: ambush." It appears that these "screens" were hastily knotted together
+LINE 727: out of any long grass which the retreating enemy happened to come
+LINE 728: across.]
+LINE 729: 22. The rising of birds in their flight is the sign of an ambuscade.
+LINE 730: [Chang Yu's explanation is doubtless right: "When birds that are flying
+LINE 731: along in a straight line suddenly shoot upwards, it means that soldiers
+LINE 732: are in ambush at the spot beneath."]
+LINE 733: Startled beasts indicate that a sudden attack is coming.
+LINE 734: 23. When there is dust rising in a high column, it is the sign of
+LINE 735: chariots advancing; when the dust is low, but spread over a wide area,
+LINE 736: it betokens the approach of infantry.
+LINE 737: ["High and sharp," or rising to a peak, is of course somewhat
+LINE 738: exaggerated as applied to dust. The commentators explain the phenomenon
+LINE 739: by saying that horses and chariots, being heavier than men, raise more
+LINE 740: dust, and also follow one another in the same wheel-track, whereas
+LINE 741: foot-soldiers would be marching in ranks, many abreast. According to
+LINE 742: Chang Yu, "every army on the march must have scouts some way in
+LINE 743: advance, who on sighting dust raised by the enemy, will gallop back and
+LINE 744: report it to the commander-in-chief." Cf. Gen. Baden-Powell: "As you
+LINE 745: move along, say, in a hostile country, your eyes should be looking afar
+LINE 746: for the enemy or any signs of him: figures, dust rising, birds getting
+LINE 747: up, glitter of arms, etc." [1] ]
+LINE 748: When it branches out in different directions, it shows that parties
+LINE 749: have been sent to collect firewood. A few clouds of dust moving to and
+LINE 750: fro signify that the army is encamping.
+LINE 751: [Chang Yu says: "In apportioning the defences for a cantonment, light
+LINE 752: horse will be sent out to survey the position and ascertain the weak
+LINE 753: and strong points all along its circumference. Hence the small quantity
+LINE 754: of dust and its motion."]
+LINE 755: 24. Humble words and increased preparations are signs that the enemy is
+LINE 756: about to advance.
+LINE 757: ["As though they stood in great fear of us," says Tu Mu. "Their object
+LINE 758: is to make us contemptuous and careless, after which they will attack
+LINE 759: us." Chang Yu alludes to the story of T'ien Tan of the Ch'i-mo against
+LINE 760: the Yen forces, led by Ch'i Chieh. In ch. 82 of the _Shih Chi_ we read:
+LINE 761: "T'ien Tan openly said: 'My only fear is that the Yen army may cut off
+LINE 762: the noses of their Ch'i prisoners and place them in the front rank to
+LINE 763: fight against us; that would be the undoing of our city.' The other
+LINE 764: side being informed of this speech, at once acted on the suggestion;
+LINE 765: but those within the city were enraged at seeing their
+LINE 766: fellow-countrymen thus mutilated, and fearing only lest they should
+LINE 767: fall into the enemy's hands, were nerved to defend themselves more
+LINE 768: obstinately than ever. Once again T'ien Tan sent back converted spies
+LINE 769: who reported these words to the enemy: "What I dread most is that the
+LINE 770: men of Yen may dig up the ancestral tombs outside the town, and by
+LINE 771: inflicting this indignity on our forefathers cause us to become
+LINE 772: faint-hearted.' Forthwith the besiegers dug up all the graves and
+LINE 773: burned the corpses lying in them. And the inhabitants of Chi-mo,
+LINE 774: witnessing the outrage from the city-walls, wept passionately and were
+LINE 775: all impatient to go out and fight, their fury being increased tenfold.
+LINE 776: T'ien Tan knew then that his soldiers were ready for any enterprise.
+LINE 777: But instead of a sword, he himself took a mattock in his hands, and
+LINE 778: ordered others to be distributed amongst his best warriors, while the
+LINE 779: ranks were filled up with their wives and concubines. He then served
+LINE 780: out all the remaining rations and bade his men eat their fill. The
+LINE 781: regular soldiers were told to keep out of sight, and the walls were
+LINE 782: manned with the old and weaker men and with women. This done, envoys
+LINE 783: were dispatched to the enemy's camp to arrange terms of surrender,
+LINE 784: whereupon the Yen army began shouting for joy. T'ien Tan also collected
+LINE 785: 20,000 ounces of silver from the people, and got the wealthy citizens
+LINE 786: of Chi-mo to send it to the Yen general with the prayer that, when the
+LINE 787: town capitulated, he would not allow their homes to be plundered or
+LINE 788: their women to be maltreated. Ch'i Chieh, in high good humor, granted
+LINE 789: their prayer; but his army now became increasingly slack and careless.
+LINE 790: Meanwhile, T'ien Tan got together a thousand oxen, decked them with
+LINE 791: pieces of red silk, painted their bodies, dragon-like, with colored
+LINE 792: stripes, and fastened sharp blades on their horns and well-greased
+LINE 793: rushes on their tails. When night came on, he lighted the ends of the
+LINE 794: rushes, and drove the oxen through a number of holes which he had
+LINE 795: pierced in the walls, backing them up with a force of 5000 picked
+LINE 796: warriors. The animals, maddened with pain, dashed furiously into the
+LINE 797: enemy's camp where they caused the utmost confusion and dismay; for
+LINE 798: their tails acted as torches, showing up the hideous pattern on their
+LINE 799: bodies, and the weapons on their horns killed or wounded any with whom
+LINE 800: they came into contact. In the meantime, the band of 5000 had crept up
+LINE 801: with gags in their mouths, and now threw themselves on the enemy. At
+LINE 802: the same moment a frightful din arose in the city itself, all those
+LINE 803: that remained behind making as much noise as possible by banging drums
+LINE 804: and hammering on bronze vessels, until heaven and earth were convulsed
+LINE 805: by the uproar. Terror-stricken, the Yen army fled in disorder, hotly
+LINE 806: pursued by the men of Ch'i, who succeeded in slaying their general Ch'i
+LINE 807: Chien…. The result of the battle was the ultimate recovery of some
+LINE 808: seventy cities which had belonged to the Ch'i State."]
+LINE 809: Violent language and driving forward as if to the attack are signs that
+LINE 810: he will retreat.
+LINE 811: 25. When the light chariots come out first and take up a position on
+LINE 812: the wings, it is a sign that the enemy is forming for battle.
+LINE 813: 26. Peace proposals unaccompanied by a sworn covenant indicate a plot.
+LINE 814: [The reading here is uncertain. Li Ch'uan indicates "a treaty confirmed
+LINE 815: by oaths and hostages." Wang Hsi and Chang Yu, on the other hand,
+LINE 816: simply say "without reason," "on a frivolous pretext."]
+LINE 817: 27. When there is much running about
+LINE 818: [Every man hastening to his proper place under his own regimental
+LINE 819: banner.]
+LINE 820: and the soldiers fall into rank, it means that the critical moment has
+LINE 821: come.
+LINE 822: 28. When some are seen advancing and some retreating, it is a lure.
+LINE 823: 29. When the soldiers stand leaning on their spears, they are faint
+LINE 824: from want of food.
+LINE 825: 30. If those who are sent to draw water begin by drinking themselves,
+LINE 826: the army is suffering from thirst.
+LINE 827: [As Tu Mu remarks: "One may know the condition of a whole army from the
+LINE 828: behavior of a single man."]
+LINE 829: 31. If the enemy sees an advantage to be gained and makes no effort to
+LINE 830: secure it, the soldiers are exhausted.
+LINE 831: 32. If birds gather on any spot, it is unoccupied.
+LINE 832: [A useful fact to bear in mind when, for instance, as Ch'en Hao says,
+LINE 833: the enemy has secretly abandoned his camp.]
+LINE 834: Clamour by night betokens nervousness.
+LINE 835: 33. If there is disturbance in the camp, the general's authority is
+LINE 836: weak. If the banners and flags are shifted about, sedition is afoot. If
+LINE 837: the officers are angry, it means that the men are weary.
+LINE 838: [Tu Mu understands the sentence differently: "If all the officers of an
+LINE 839: army are angry with their general, it means that they are broken with
+LINE 840: fatigue" owing to the exertions which he has demanded from them.]
+LINE 841: 34. When an army feeds its horses with grain and kills its cattle for
+LINE 842: food,
+LINE 843: [In the ordinary course of things, the men would be fed on grain and
+LINE 844: the horses chiefly on grass.]
+LINE 845: and when the men do not hang their cooking-pots over the camp-fires,
+LINE 846: showing that they will not return to their tents, you may know that
+LINE 847: they are determined to fight to the death.
+LINE 848: [I may quote here the illustrative passage from the _Hou Han Shu_, ch.
+LINE 849: 71, given in abbreviated form by the _P'ei Wen Yun Fu:_ "The rebel Wang
+LINE 850: Kuo of Liang was besieging the town of Ch'en- ts'ang, and Huang-fu
+LINE 851: Sung, who was in supreme command, and Tung Cho were sent out against
+LINE 852: him. The latter pressed for hasty measures, but Sung turned a deaf ear
+LINE 853: to his counsel. At last the rebels were utterly worn out, and began to
+LINE 854: throw down their weapons of their own accord. Sung was not advancing to
+LINE 855: the attack, but Cho said: 'It is a principle of war not to pursue
+LINE 856: desperate men and not to press a retreating host.' Sung answered: 'That
+LINE 857: does not apply here. What I am about to attack is a jaded army, not a
+LINE 858: retreating host; with disciplined troops I am falling on a disorganized
+LINE 859: multitude, not a band of desperate men.' Thereupon he advances to the
+LINE 860: attack unsupported by his colleague, and routed the enemy, Wang Kuo
+LINE 861: being slain."]
+LINE 862: 35. The sight of men whispering together in small knots or speaking in
+LINE 863: subdued tones points to disaffection amongst the rank and file.
+LINE 864: 36. Too frequent rewards signify that the enemy is at the end of his
+LINE 865: resources;
+LINE 866: [Because, when an army is hard pressed, as Tu Mu says, there is always
+LINE 867: a fear of mutiny, and lavish rewards are given to keep the men in good
+LINE 868: temper.]
+LINE 869: too many punishments betray a condition of dire distress.
+LINE 870: [Because in such case discipline becomes relaxed, and unwonted severity
+LINE 871: is necessary to keep the men to their duty.]
+LINE 872: 37. To begin by bluster, but afterwards to take fright at the enemy's
+LINE 873: numbers, shows a supreme lack of intelligence.
+LINE 874: [I follow the interpretation of Ts'ao Kung, also adopted by Li Ch'uan,
+LINE 875: Tu Mu, and Chang Yu. Another possible meaning set forth by Tu Yu, Chia
+LINE 876: Lin, Mei Tao-ch'en and Wang Hsi, is: "The general who is first
+LINE 877: tyrannical towards his men, and then in terror lest they should mutiny,
+LINE 878: etc." This would connect the sentence with what went before about
+LINE 879: rewards and punishments.]
+LINE 880: 38. When envoys are sent with compliments in their mouths, it is a sign
+LINE 881: that the enemy wishes for a truce.
+LINE 882: [Tu Mu says: "If the enemy open friendly relations be sending hostages,
+LINE 883: it is a sign that they are anxious for an armistice, either because
+LINE 884: their strength is exhausted or for some other reason." But it hardly
+LINE 885: needs a Sun Tzŭ to draw such an obvious inference.]
+LINE 886: 39. If the enemy's troops march up angrily and remain facing ours for a
+LINE 887: long time without either joining battle or taking themselves off again,
+LINE 888: the situation is one that demands great vigilance and circumspection.
+LINE 889: [Ts'ao Kung says a manœuver of this sort may be only a ruse to gain
+LINE 890: time for an unexpected flank attack or the laying of an ambush.]
+LINE 891: 40. If our troops are no more in number than the enemy, that is amply
+LINE 892: sufficient; it only means that no direct attack can be made.
+LINE 893: [Literally, "no martial advance." That is to say, _cheng_ tactics and
+LINE 894: frontal attacks must be eschewed, and stratagem resorted to instead.]
+LINE 895: What we can do is simply to concentrate all our available strength,
+LINE 896: keep a close watch on the enemy, and obtain reinforcements.
+LINE 897: [This is an obscure sentence, and none of the commentators succeed in
+LINE 898: squeezing very good sense out of it. I follow Li Ch'uan, who appears to
+LINE 899: offer the simplest explanation: "Only the side that gets more men will
+LINE 900: win." Fortunately we have Chang Yu to expound its meaning to us in
+LINE 901: language which is lucidity itself: "When the numbers are even, and no
+LINE 902: favourable opening presents itself, although we may not be strong enough
+LINE 903: to deliver a sustained attack, we can find additional recruits amongst
+LINE 904: our sutlers and camp-followers, and then, concentrating our forces and
+LINE 905: keeping a close watch on the enemy, contrive to snatch the victory. But
+LINE 906: we must avoid borrowing foreign soldiers to help us." He then quotes
+LINE 907: from Wei Liao Tzŭ, ch. 3: "The nominal strength of mercenary troops may
+LINE 908: be 100,000, but their real value will be not more than half that
+LINE 909: figure."]
+LINE 910: 41. He who exercises no forethought but makes light of his opponents is
+LINE 911: sure to be captured by them.
+LINE 912: [Ch'en Hao, quoting from the _Tso Chuan_, says: "If bees and scorpions
+LINE 913: carry poison, how much more will a hostile state! Even a puny opponent,
+LINE 914: then, should not be treated with contempt."]
+LINE 915: 42. If soldiers are punished before they have grown attached to you,
+LINE 916: they will not prove submissive; and, unless submissive, then will be
+LINE 917: practically useless. If, when the soldiers have become attached to you,
+LINE 918: punishments are not enforced, they will still be useless.
+LINE 919: 43. Therefore soldiers must be treated in the first instance with
+LINE 920: humanity, but kept under control by means of iron discipline.
+LINE 921: [Yen Tzŭ [B.C. 493] said of Ssu-ma Jang-chu: "His civil virtues
+LINE 922: endeared him to the people; his martial prowess kept his enemies in
+LINE 923: awe." Cf. Wu Tzŭ, ch. 4 init.: "The ideal commander unites culture with
+LINE 924: a warlike temper; the profession of arms requires a combination of
+LINE 925: hardness and tenderness."]
+LINE 926: This is a certain road to victory.
+LINE 927: 44. If in training soldiers commands are habitually enforced, the army
+LINE 928: will be well-disciplined; if not, its discipline will be bad.
+LINE 929: 45. If a general shows confidence in his men but always insists on his
+LINE 930: orders being obeyed,
+LINE 931: [Tu Mu says: "A general ought in time of peace to show kindly
+LINE 932: confidence in his men and also make his authority respected, so that
+LINE 933: when they come to face the enemy, orders may be executed and discipline
+LINE 934: maintained, because they all trust and look up to him." What Sun Tzŭ
+LINE 935: has said in § 44, however, would lead one rather to expect something
+LINE 936: like this: "If a general is always confident that his orders will be
+LINE 937: carried out," etc."]
+LINE 938: the gain will be mutual.
+LINE 939: [Chang Yu says: "The general has confidence in the men under his
+LINE 940: command, and the men are docile, having confidence in him. Thus the
+LINE 941: gain is mutual." He quotes a pregnant sentence from Wei Liao Tzŭ, ch.
+LINE 942: 4: "The art of giving orders is not to try to rectify minor blunders
+LINE 943: and not to be swayed by petty doubts." Vacillation and fussiness are
+LINE 944: the surest means of sapping the confidence of an army.]
+LINE 945: [1] "Aids to Scouting," p. 26.
+LINE 946: Chapter X. TERRAIN
+LINE 947: [Only about a third of the chapter, comprising §§ 1-13, deals with
+LINE 948: "terrain," the subject being more fully treated in ch. XI. The "six
+LINE 949: calamities" are discussed in §§ 14-20, and the rest of the chapter is
+LINE 950: again a mere string of desultory remarks, though not less interesting,
+LINE 951: perhaps, on that account.]
+LINE 952: 1. Sun Tzŭ said: We may distinguish six kinds of terrain, to wit: (1)
+LINE 953: Accessible ground;
+LINE 954: [Mei Yao-ch'en says: "plentifully provided with roads and means of
+LINE 955: communications."]
+LINE 956: (2) entangling ground;
+LINE 957: [The same commentator says: "Net-like country, venturing into which you
+LINE 958: become entangled."]
+LINE 959: (3) temporising ground;
+LINE 960: [Ground which allows you to "stave off" or "delay."]
+LINE 961: (4) narrow passes; (5) precipitous heights; (6) positions at a great
+LINE 962: distance from the enemy.
+LINE 963: [It is hardly necessary to point out the faultiness of this
+LINE 964: classification. A strange lack of logical perception is shown in the
+LINE 965: Chinaman's unquestioning acceptance of glaring cross-divisions such as
+LINE 966: the above.]
+LINE 967: 2. Ground which can be freely traversed by both sides is called
+LINE 968: _accessible_.
+LINE 969: 3. With regard to ground of this nature, be before the enemy in
+LINE 970: occupying the raised and sunny spots, and carefully guard your line of
+LINE 971: supplies.
+LINE 972: [The general meaning of the last phrase is doubtlessly, as Tu Yu says,
+LINE 973: "not to allow the enemy to cut your communications." In view of
+LINE 974: Napoleon's dictum, "the secret of war lies in the communications," [1]
+LINE 975: we could wish that Sun Tzŭ had done more than skirt the edge of this
+LINE 976: important subject here and in I. § 10, VII. § 11. Col. Henderson says:
+LINE 977: "The line of supply may be said to be as vital to the existence of an
+LINE 978: army as the heart to the life of a human being. Just as the duelist who
+LINE 979: finds his adversary's point menacing him with certain death, and his
+LINE 980: own guard astray, is compelled to conform to his adversary's movements,
+LINE 981: and to content himself with warding off his thrusts, so the commander
+LINE 982: whose communications are suddenly threatened finds himself in a false
+LINE 983: position, and he will be fortunate if he has not to change all his
+LINE 984: plans, to split up his force into more or less isolated detachments,
+LINE 985: and to fight with inferior numbers on ground which he has not had time
+LINE 986: to prepare, and where defeat will not be an ordinary failure, but will
+LINE 987: entail the ruin or surrender of his whole army." [2]
+LINE 988: Then you will be able to fight with advantage.
+LINE 989: 4. Ground which can be abandoned but is hard to re-occupy is called
+LINE 990: _entangling_.
+LINE 991: 5. From a position of this sort, if the enemy is unprepared, you may
+LINE 992: sally forth and defeat him. But if the enemy is prepared for your
+LINE 993: coming, and you fail to defeat him, then, return being impossible,
+LINE 994: disaster will ensue.
+LINE 995: 6. When the position is such that neither side will gain by making the
+LINE 996: first move, it is called _temporising_ ground.
+LINE 997: [Tu Mu says: "Each side finds it inconvenient to move, and the
+LINE 998: situation remains at a deadlock."]
+LINE 999: 7. In a position of this sort, even though the enemy should offer us an
+LINE 1000: attractive bait,
+LINE 1001: [Tu Yu says, "turning their backs on us and pretending to flee." But
+LINE 1002: this is only one of the lures which might induce us to quit our
+LINE 1003: position.]
+LINE 1004: it will be advisable not to stir forth, but rather to retreat, thus
+LINE 1005: enticing the enemy in his turn; then, when part of his army has come
+LINE 1006: out, we may deliver our attack with advantage.
+LINE 1007: 8. With regard to _narrow passes_, if you can occupy them first, let
+LINE 1008: them be strongly garrisoned and await the advent of the enemy.
+LINE 1009: [Because then, as Tu Yu observes, "the initiative will lie with us, and
+LINE 1010: by making sudden and unexpected attacks we shall have the enemy at our
+LINE 1011: mercy."]
+LINE 1012: 9. Should the enemy forestall you in occupying a pass, do not go after
+LINE 1013: him if the pass is fully garrisoned, but only if it is weakly
+LINE 1014: garrisoned.
+LINE 1015: 10. With regard to _precipitous heights_, if you are beforehand with
+LINE 1016: your adversary, you should occupy the raised and sunny spots, and there
+LINE 1017: wait for him to come up.
+LINE 1018: [Ts'ao Kung says: "The particular advantage of securing heights and
+LINE 1019: defiles is that your actions cannot then be dictated by the enemy."
+LINE 1020: [For the enunciation of the grand principle alluded to, see VI. § 2].
+LINE 1021: Chang Yu tells the following anecdote of P'ei Hsing-chien (A.D.
+LINE 1022: 619-682), who was sent on a punitive expedition against the Turkic
+LINE 1023: tribes. "At night he pitched his camp as usual, and it had already been
+LINE 1024: completely fortified by wall and ditch, when suddenly he gave orders
+LINE 1025: that the army should shift its quarters to a hill near by. This was
+LINE 1026: highly displeasing to his officers, who protested loudly against the
+LINE 1027: extra fatigue which it would entail on the men. P'ei Hsing-chien,
+LINE 1028: however, paid no heed to their remonstrances and had the camp moved as
+LINE 1029: quickly as possible. The same night, a terrific storm came on, which
+LINE 1030: flooded their former place of encampment to the depth of over twelve
+LINE 1031: feet. The recalcitrant officers were amazed at the sight, and owned
+LINE 1032: that they had been in the wrong. 'How did you know what was going to
+LINE 1033: happen?' they asked. P'ei Hsing-chien replied: 'From this time forward
+LINE 1034: be content to obey orders without asking unnecessary questions.' From
+LINE 1035: this it may be seen," Chang Yu continues, "that high and sunny places
+LINE 1036: are advantageous not only for fighting, but also because they are
+LINE 1037: immune from disastrous floods."]
+LINE 1038: 11. If the enemy has occupied them before you, do not follow him, but
+LINE 1039: retreat and try to entice him away.
+LINE 1040: [The turning point of Li Shih-min's campaign in 621 A.D. against the
+LINE 1041: two rebels, Tou Chien-te, King of Hsia, and Wang Shih-ch'ung, Prince of
+LINE 1042: Cheng, was his seizure of the heights of Wu-lao, in spite of which Tou
+LINE 1043: Chien-te persisted in his attempt to relieve his ally in Lo-yang, was
+LINE 1044: defeated and taken prisoner. See _Chiu T'ang Shu_, ch. 2, fol. 5 verso,
+LINE 1045: and also ch. 54.]
+LINE 1046: 12. If you are situated at a great distance from the enemy, and the
+LINE 1047: strength of the two armies is equal, it is not easy to provoke a
+LINE 1048: battle,
+LINE 1049: [The point is that we must not think of undertaking a long and
+LINE 1050: wearisome march, at the end of which, as Tu Yu says, "we should be
+LINE 1051: exhausted and our adversary fresh and keen."]
+LINE 1052: and fighting will be to your disadvantage.
+LINE 1053: 13. These six are the principles connected with Earth.
+LINE 1054: [Or perhaps, "the principles relating to ground." See, however, I. §
+LINE 1055: 8.]
+LINE 1056: The general who has attained a responsible post must be careful to
+LINE 1057: study them.
+LINE 1058: 14. Now an army is exposed to six several calamities, not arising from
+LINE 1059: natural causes, but from faults for which the general is responsible.
+LINE 1060: These are: (1) Flight; (2) insubordination; (3) collapse; (4) ruin; (5)
+LINE 1061: disorganisation; (6) rout.
+LINE 1062: 15. Other conditions being equal, if one force is hurled against
+LINE 1063: another ten times its size, the result will be the _flight_ of the
+LINE 1064: former.
+LINE 1065: 16. When the common soldiers are too strong and their officers too
+LINE 1066: weak, the result is _insubordination_.
+LINE 1067: [Tu Mu cites the unhappy case of T'ien Pu [_Hsin T'ang Shu_, ch. 148],
+LINE 1068: who was sent to Wei in 821 A.D. with orders to lead an army against
+LINE 1069: Wang T'ing-ts'ou. But the whole time he was in command, his soldiers
+LINE 1070: treated him with the utmost contempt, and openly flouted his authority
+LINE 1071: by riding about the camp on donkeys, several thousands at a time. T'ien
+LINE 1072: Pu was powerless to put a stop to this conduct, and when, after some
+LINE 1073: months had passed, he made an attempt to engage the enemy, his troops
+LINE 1074: turned tail and dispersed in every direction. After that, the
+LINE 1075: unfortunate man committed suicide by cutting his throat.]
+LINE 1076: When the officers are too strong and the common soldiers too weak, the
+LINE 1077: result is _collapse_.
+LINE 1078: [Ts'ao Kung says: "The officers are energetic and want to press on, the
+LINE 1079: common soldiers are feeble and suddenly collapse."]
+LINE 1080: 17. When the higher officers are angry and insubordinate, and on
+LINE 1081: meeting the enemy give battle on their own account from a feeling of
+LINE 1082: resentment, before the commander-in-chief can tell whether or no he is
+LINE 1083: in a position to fight, the result is _ruin_.
+LINE 1084: [Wang Hsi's note is: "This means, the general is angry without cause,
+LINE 1085: and at the same time does not appreciate the ability of his subordinate
+LINE 1086: officers; thus he arouses fierce resentment and brings an avalanche of
+LINE 1087: ruin upon his head."]
+LINE 1088: 18. When the general is weak and without authority; when his orders are
+LINE 1089: not clear and distinct;
+LINE 1090: [Wei Liao Tzŭ (ch. 4) says: "If the commander gives his orders with
+LINE 1091: decision, the soldiers will not wait to hear them twice; if his moves
+LINE 1092: are made without vacillation, the soldiers will not be in two minds
+LINE 1093: about doing their duty." General Baden-Powell says, italicizing the
+LINE 1094: words: "The secret of getting successful work out of your trained men
+LINE 1095: lies in one nutshell—in the clearness of the instructions they
+LINE 1096: receive." [3] Cf. also Wu Tzŭ ch. 3: "the most fatal defect in a
+LINE 1097: military leader is difference; the worst calamities that befall an army
+LINE 1098: arise from hesitation."]
+LINE 1099: when there are no fixed duties assigned to officers and men,
+LINE 1100: [Tu Mu says: "Neither officers nor men have any regular routine."]
+LINE 1101: and the ranks are formed in a slovenly haphazard manner, the result is
+LINE 1102: utter _disorganisation_.
+LINE 1103: 19. When a general, unable to estimate the enemy's strength, allows an
+LINE 1104: inferior force to engage a larger one, or hurls a weak detachment
+LINE 1105: against a powerful one, and neglects to place picked soldiers in the
+LINE 1106: front rank, the result must be a _rout_.
+LINE 1107: [Chang Yu paraphrases the latter part of the sentence and continues:
+LINE 1108: "Whenever there is fighting to be done, the keenest spirits should be
+LINE 1109: appointed to serve in the front ranks, both in order to strengthen the
+LINE 1110: resolution of our own men and to demoralize the enemy." Cf. the primi
+LINE 1111: ordines of Caesar ("De Bello Gallico," V. 28, 44, et al.).]
+LINE 1112: 20. These are six ways of courting defeat, which must be carefully
+LINE 1113: noted by the general who has attained a responsible post.
+LINE 1114: [See _supra_, § 13.]
+LINE 1115: 21. The natural formation of the country is the soldier's best ally;
+LINE 1116: [Ch'en Hao says: "The advantages of weather and season are not equal to
+LINE 1117: those connected with ground."]
+LINE 1118: but a power of estimating the adversary, of controlling the forces of
+LINE 1119: victory, and of shrewdly calculating difficulties, dangers and
+LINE 1120: distances, constitutes the test of a great general.
+LINE 1121: 22. He who knows these things, and in fighting puts his knowledge into
+LINE 1122: practice, will win his battles. He who knows them not, nor practises
+LINE 1123: them, will surely be defeated.
+LINE 1124: 23. If fighting is sure to result in victory, then you must fight, even
+LINE 1125: though the ruler forbid it; if fighting will not result in victory,
+LINE 1126: then you must not fight even at the ruler's bidding.
+LINE 1127: [Cf. VIII. § 3 fin. Huang Shih-kung of the Ch'in dynasty, who is said
+LINE 1128: to have been the patron of Chang Liang and to have written the _San
+LINE 1129: Lueh_, has these words attributed to him: "The responsibility of
+LINE 1130: setting an army in motion must devolve on the general alone; if advance
+LINE 1131: and retreat are controlled from the Palace, brilliant results will
+LINE 1132: hardly be achieved. Hence the god-like ruler and the enlightened
+LINE 1133: monarch are content to play a humble part in furthering their country's
+LINE 1134: cause [lit., kneel down to push the chariot wheel]." This means that
+LINE 1135: "in matters lying outside the zenana, the decision of the military
+LINE 1136: commander must be absolute." Chang Yu also quote the saying: "Decrees
+LINE 1137: from the Son of Heaven do not penetrate the walls of a camp."]
+LINE 1138: 24. The general who advances without coveting fame and retreats without
+LINE 1139: fearing disgrace,
+LINE 1140: [It was Wellington, I think, who said that the hardest thing of all for
+LINE 1141: a soldier is to retreat.]
+LINE 1142: whose only thought is to protect his country and do good service for
+LINE 1143: his sovereign, is the jewel of the kingdom.
+LINE 1144: [A noble presentiment, in few words, of the Chinese "happy warrior."
+LINE 1145: Such a man, says Ho Shih, "even if he had to suffer punishment, would
+LINE 1146: not regret his conduct."]
+LINE 1147: 25. Regard your soldiers as your children, and they will follow you
+LINE 1148: into the deepest valleys; look on them as your own beloved sons, and
+LINE 1149: they will stand by you even unto death.
+LINE 1150: [Cf. I. § 6. In this connection, Tu Mu draws for us an engaging picture
+LINE 1151: of the famous general Wu Ch'i, from whose treatise on war I have
+LINE 1152: frequently had occasion to quote: "He wore the same clothes and ate the
+LINE 1153: same food as the meanest of his soldiers, refused to have either a
+LINE 1154: horse to ride or a mat to sleep on, carried his own surplus rations
+LINE 1155: wrapped in a parcel, and shared every hardship with his men. One of his
+LINE 1156: soldiers was suffering from an abscess, and Wu Ch'i himself sucked out
+LINE 1157: the virus. The soldier's mother, hearing this, began wailing and
+LINE 1158: lamenting. Somebody asked her, saying: 'Why do you cry? Your son is
+LINE 1159: only a common soldier, and yet the commander-in-chief himself has
+LINE 1160: sucked the poison from his sore.' The woman replied, 'Many years ago,
+LINE 1161: Lord Wu performed a similar service for my husband, who never left him
+LINE 1162: afterwards, and finally met his death at the hands of the enemy. And
+LINE 1163: now that he has done the same for my son, he too will fall fighting I
+LINE 1164: know not where.'" Li Ch'uan mentions the Viscount of Ch'u, who invaded
+LINE 1165: the small state of Hsiao during the winter. The Duke of Shen said to
+LINE 1166: him: "Many of the soldiers are suffering severely from the cold." So he
+LINE 1167: made a round of the whole army, comforting and encouraging the men; and
+LINE 1168: straightway they felt as if they were clothed in garments lined with
+LINE 1169: floss silk.]
+LINE 1170: 26. If, however, you are indulgent, but unable to make your authority
+LINE 1171: felt; kind-hearted, but unable to enforce your commands; and incapable,
+LINE 1172: moreover, of quelling disorder: then your soldiers must be likened to
+LINE 1173: spoilt children; they are useless for any practical purpose.
+LINE 1174: [Li Ching once said that if you could make your soldiers afraid of you,
+LINE 1175: they would not be afraid of the enemy. Tu Mu recalls an instance of
+LINE 1176: stern military discipline which occurred in 219 A.D., when Lu Meng was
+LINE 1177: occupying the town of Chiang-ling. He had given stringent orders to his
+LINE 1178: army not to molest the inhabitants nor take anything from them by
+LINE 1179: force. Nevertheless, a certain officer serving under his banner, who
+LINE 1180: happened to be a fellow-townsman, ventured to appropriate a bamboo hat
+LINE 1181: belonging to one of the people, in order to wear it over his regulation
+LINE 1182: helmet as a protection against the rain. Lu Meng considered that the
+LINE 1183: fact of his being also a native of Ju-nan should not be allowed to
+LINE 1184: palliate a clear breach of discipline, and accordingly he ordered his
+LINE 1185: summary execution, the tears rolling down his face, however, as he did
+LINE 1186: so. This act of severity filled the army with wholesome awe, and from
+LINE 1187: that time forth even articles dropped in the highway were not picked
+LINE 1188: up.]
+LINE 1189: 27. If we know that our own men are in a condition to attack, but are
+LINE 1190: unaware that the enemy is not open to attack, we have gone only halfway
+LINE 1191: towards victory.
+LINE 1192: [That is, Ts'ao Kung says, "the issue in this case is uncertain."]
+LINE 1193: 28. If we know that the enemy is open to attack, but are unaware that
+LINE 1194: our own men are not in a condition to attack, we have gone only halfway
+LINE 1195: towards victory.
+LINE 1196: [Cf. III. § 13 (1).]
+LINE 1197: 29. If we know that the enemy is open to attack, and also know that our
+LINE 1198: men are in a condition to attack, but are unaware that the nature of
+LINE 1199: the ground makes fighting impracticable, we have still gone only
+LINE 1200: halfway towards victory.
+LINE 1201: 30. Hence the experienced soldier, once in motion, is never bewildered;
+LINE 1202: once he has broken camp, he is never at a loss.
+LINE 1203: [The reason being, according to Tu Mu, that he has taken his measures
+LINE 1204: so thoroughly as to ensure victory beforehand. "He does not move
+LINE 1205: recklessly," says Chang Yu, "so that when he does move, he makes no
+LINE 1206: mistakes."]
+LINE 1207: 31. Hence the saying: If you know the enemy and know yourself, your
+LINE 1208: victory will not stand in doubt; if you know Heaven and know Earth, you
+LINE 1209: may make your victory complete.
+LINE 1210: [Li Ch'uan sums up as follows: "Given a knowledge of three things—the
+LINE 1211: affairs of men, the seasons of heaven and the natural advantages of
+LINE 1212: earth—, victory will invariably crown your battles."]
+LINE 1213: [1] See "Pensees de Napoleon 1er," no. 47.
+LINE 1214: [2] "The Science of War," chap. 2.
+LINE 1215: [3] "Aids to Scouting," p. xii.
+LINE 1216: Chapter XI. THE NINE SITUATIONS
+LINE 1217: 1. Sun Tzŭ said: The art of war recognises nine varieties of ground:
+LINE 1218: (1) Dispersive ground; (2) facile ground; (3) contentious ground; (4)
+LINE 1219: open ground; (5) ground of intersecting highways; (6) serious ground;
+LINE 1220: (7) difficult ground; (8) hemmed-in ground; (9) desperate ground.
+LINE 1221: 2. When a chieftain is fighting in his own territory, it is dispersive
+LINE 1222: ground.
+LINE 1223: [So called because the soldiers, being near to their homes and anxious
+LINE 1224: to see their wives and children, are likely to seize the opportunity
+LINE 1225: afforded by a battle and scatter in every direction. "In their
+LINE 1226: advance," observes Tu Mu, "they will lack the valor of desperation, and
+LINE 1227: when they retreat, they will find harbors of refuge."]
+LINE 1228: 3. When he has penetrated into hostile territory, but to no great
+LINE 1229: distance, it is facile ground.
+LINE 1230: [Li Ch'uan and Ho Shih say "because of the facility for retreating,"
+LINE 1231: and the other commentators give similar explanations. Tu Mu remarks:
+LINE 1232: "When your army has crossed the border, you should burn your boats and
+LINE 1233: bridges, in order to make it clear to everybody that you have no
+LINE 1234: hankering after home."]
+LINE 1235: 4. Ground the possession of which imports great advantage to either
+LINE 1236: side, is contentious ground.
+LINE 1237: [Tu Mu defines the ground as ground "to be contended for." Ts'ao Kung
+LINE 1238: says: "ground on which the few and the weak can defeat the many and the
+LINE 1239: strong," such as "the neck of a pass," instanced by Li Ch'uan. Thus,
+LINE 1240: Thermopylae was of this classification because the possession of it,
+LINE 1241: even for a few days only, meant holding the entire invading army in
+LINE 1242: check and thus gaining invaluable time. Cf. Wu Tzŭ, ch. V. ad init.:
+LINE 1243: "For those who have to fight in the ratio of one to ten, there is
+LINE 1244: nothing better than a narrow pass." When Lu Kuang was returning from
+LINE 1245: his triumphant expedition to Turkestan in 385 A.D., and had got as far
+LINE 1246: as I-ho, laden with spoils, Liang Hsi, administrator of Liang-chou,
+LINE 1247: taking advantage of the death of Fu Chien, King of Ch'in, plotted
+LINE 1248: against him and was for barring his way into the province. Yang Han,
+LINE 1249: governor of Kao-ch'ang, counseled him, saying: "Lu Kuang is fresh from
+LINE 1250: his victories in the west, and his soldiers are vigorous and
+LINE 1251: mettlesome. If we oppose him in the shifting sands of the desert, we
+LINE 1252: shall be no match for him, and we must therefore try a different plan.
+LINE 1253: Let us hasten to occupy the defile at the mouth of the Kao-wu pass,
+LINE 1254: thus cutting him off from supplies of water, and when his troops are
+LINE 1255: prostrated with thirst, we can dictate our own terms without moving. Or
+LINE 1256: if you think that the pass I mention is too far off, we could make a
+LINE 1257: stand against him at the I-wu pass, which is nearer. The cunning and
+LINE 1258: resource of Tzŭ-fang himself would be expended in vain against the
+LINE 1259: enormous strength of these two positions." Liang Hsi, refusing to act
+LINE 1260: on this advice, was overwhelmed and swept away by the invader.]
+LINE 1261: 5. Ground on which each side has liberty of movement is open ground.
+LINE 1262: [There are various interpretations of the Chinese adjective for this
+LINE 1263: type of ground. Ts'ao Kung says it means "ground covered with a network
+LINE 1264: of roads," like a chessboard. Ho Shih suggested: "ground on which
+LINE 1265: intercommunication is easy."]
+LINE 1266: 6. Ground which forms the key to three contiguous states,
+LINE 1267: [Ts'au Kung defines this as: "Our country adjoining the enemy's and a
+LINE 1268: third country conterminous with both." Meng Shih instances the small
+LINE 1269: principality of Cheng, which was bounded on the north-east by Ch'i, on
+LINE 1270: the west by Chin, and on the south by Ch'u.]
+LINE 1271: so that he who occupies it first has most of the Empire at his command,
+LINE 1272: [The belligerent who holds this dominating position can constrain most
+LINE 1273: of them to become his allies.]
+LINE 1274: is ground of intersecting highways.
+LINE 1275: 7. When an army has penetrated into the heart of a hostile country,
+LINE 1276: leaving a number of fortified cities in its rear, it is serious ground.
+LINE 1277: [Wang Hsi explains the name by saying that "when an army has reached
+LINE 1278: such a point, its situation is serious."]
+LINE 1279: 8. Mountain forests,
+LINE 1280: [Or simply "forests."]
+LINE 1281: rugged steeps, marshes and fens—all country that is hard to traverse:
+LINE 1282: this is difficult ground.
+LINE 1283: 9. Ground which is reached through narrow gorges, and from which we can
+LINE 1284: only retire by tortuous paths, so that a small number of the enemy
+LINE 1285: would suffice to crush a large body of our men: this is hemmed in
+LINE 1286: ground.
+LINE 1287: 10. Ground on which we can only be saved from destruction by fighting
+LINE 1288: without delay, is desperate ground.
+LINE 1289: [The situation, as pictured by Ts'ao Kung, is very similar to the
+LINE 1290: "hemmed-in ground" except that here escape is no longer possible: "A
+LINE 1291: lofty mountain in front, a large river behind, advance impossible,
+LINE 1292: retreat blocked." Ch'en Hao says: "to be on 'desperate ground' is like
+LINE 1293: sitting in a leaking boat or crouching in a burning house." Tu Mu
+LINE 1294: quotes from Li Ching a vivid description of the plight of an army thus
+LINE 1295: entrapped: "Suppose an army invading hostile territory without the aid
+LINE 1296: of local guides:—it falls into a fatal snare and is at the enemy's
+LINE 1297: mercy. A ravine on the left, a mountain on the right, a pathway so
+LINE 1298: perilous that the horses have to be roped together and the chariots
+LINE 1299: carried in slings, no passage open in front, retreat cut off behind, no
+LINE 1300: choice but to proceed in single file. Then, before there is time to
+LINE 1301: range our soldiers in order of battle, the enemy is overwhelming
+LINE 1302: strength suddenly appears on the scene. Advancing, we can nowhere take
+LINE 1303: a breathing-space; retreating, we have no haven of refuge. We seek a
+LINE 1304: pitched battle, but in vain; yet standing on the defensive, none of us
+LINE 1305: has a moment's respite. If we simply maintain our ground, whole days
+LINE 1306: and months will crawl by; the moment we make a move, we have to sustain
+LINE 1307: the enemy's attacks on front and rear. The country is wild, destitute
+LINE 1308: of water and plants; the army is lacking in the necessaries of life,
+LINE 1309: the horses are jaded and the men worn-out, all the resources of
+LINE 1310: strength and skill unavailing, the pass so narrow that a single man
+LINE 1311: defending it can check the onset of ten thousand; all means of offense
+LINE 1312: in the hands of the enemy, all points of vantage already forfeited by
+LINE 1313: ourselves:—in this terrible plight, even though we had the most valiant
+LINE 1314: soldiers and the keenest of weapons, how could they be employed with
+LINE 1315: the slightest effect?" Students of Greek history may be reminded of the
+LINE 1316: awful close to the Sicilian expedition, and the agony of the Athenians
+LINE 1317: under Nicias and Demonsthenes. [See Thucydides, VII. 78 sqq.].]
+LINE 1318: 11. On dispersive ground, therefore, fight not. On facile ground, halt
+LINE 1319: not. On contentious ground, attack not.
+LINE 1320: [But rather let all your energies be bent on occupying the advantageous
+LINE 1321: position first. So Ts'ao Kung. Li Ch'uan and others, however, suppose
+LINE 1322: the meaning to be that the enemy has already forestalled us, sot that
+LINE 1323: it would be sheer madness to attack. In the _Sun Tzŭ Hsu Lu_, when the
+LINE 1324: King of Wu inquires what should be done in this case, Sun Tzŭ replies:
+LINE 1325: "The rule with regard to contentious ground is that those in possession
+LINE 1326: have the advantage over the other side. If a position of this kind is
+LINE 1327: secured first by the enemy, beware of attacking him. Lure him away by
+LINE 1328: pretending to flee—show your banners and sound your drums—make a dash
+LINE 1329: for other places that he cannot afford to lose—trail brushwood and
+LINE 1330: raise a dust—confound his ears and eyes—detach a body of your best
+LINE 1331: troops, and place it secretly in ambuscade. Then your opponent will
+LINE 1332: sally forth to the rescue."]
+LINE 1333: 12. On open ground, do not try to block the enemy's way.
+LINE 1334: [Because the attempt would be futile, and would expose the blocking
+LINE 1335: force itself to serious risks. There are two interpretations available
+LINE 1336: here. I follow that of Chang Yu. The other is indicated in Ts'ao Kung's
+LINE 1337: brief note: "Draw closer together"—i.e., see that a portion of your own
+LINE 1338: army is not cut off.]
+LINE 1339: On ground of intersecting highways, join hands with your allies.
+LINE 1340: [Or perhaps, "form alliances with neighbouring states."]
+LINE 1341: 13. On serious ground, gather in plunder.
+LINE 1342: [On this, Li Ch'uan has the following delicious note: "When an army
+LINE 1343: penetrates far into the enemy's country, care must be taken not to
+LINE 1344: alienate the people by unjust treatment. Follow the example of the Han
+LINE 1345: Emperor Kao Tsu, whose march into Ch'in territory was marked by no
+LINE 1346: violation of women or looting of valuables. [Nota bene: this was in 207
+LINE 1347: B.C., and may well cause us to blush for the Christian armies that
+LINE 1348: entered Peking in 1900 A.D.] Thus he won the hearts of all. In the
+LINE 1349: present passage, then, I think that the true reading must be, not
+LINE 1350: 'plunder,' but 'do not plunder.'" Alas, I fear that in this instance
+LINE 1351: the worthy commentator's feelings outran his judgment. Tu Mu, at least,
+LINE 1352: has no such illusions. He says: "When encamped on 'serious ground,'
+LINE 1353: there being no inducement as yet to advance further, and no possibility
+LINE 1354: of retreat, one ought to take measures for a protracted resistance by
+LINE 1355: bringing in provisions from all sides, and keep a close watch on the
+LINE 1356: enemy."]
+LINE 1357: In difficult ground, keep steadily on the march.
+LINE 1358: [Or, in the words of VIII. § 2, "do not encamp.]
+LINE 1359: 14. On hemmed-in ground, resort to stratagem.
+LINE 1360: [Ts'au Kung says: "Try the effect of some unusual artifice;" and Tu Yu
+LINE 1361: amplifies this by saying: "In such a position, some scheme must be
+LINE 1362: devised which will suit the circumstances, and if we can succeed in
+LINE 1363: deluding the enemy, the peril may be escaped." This is exactly what
+LINE 1364: happened on the famous occasion when Hannibal was hemmed in among the
+LINE 1365: mountains on the road to Casilinum, and to all appearances entrapped by
+LINE 1366: the dictator Fabius. The stratagem which Hannibal devised to baffle his
+LINE 1367: foes was remarkably like that which T'ien Tan had also employed with
+LINE 1368: success exactly 62 years before. [See IX. § 24, note.] When night came
+LINE 1369: on, bundles of twigs were fastened to the horns of some 2000 oxen and
+LINE 1370: set on fire, the terrified animals being then quickly driven along the
+LINE 1371: mountain side towards the passes which were beset by the enemy. The
+LINE 1372: strange spectacle of these rapidly moving lights so alarmed and
+LINE 1373: discomfited the Romans that they withdrew from their position, and
+LINE 1374: Hannibal's army passed safely through the defile. [See Polybius, III.
+LINE 1375: 93, 94; Livy, XXII. 16 17.]
+LINE 1376: On desperate ground, fight.
+LINE 1377: [For, as Chia Lin remarks: "if you fight with all your might, there is
+LINE 1378: a chance of life; where as death is certain if you cling to your
+LINE 1379: corner."]
+LINE 1380: 15. Those who were called skilful leaders of old knew how to drive a
+LINE 1381: wedge between the enemy's front and rear;
+LINE 1382: [More literally, "cause the front and rear to lose touch with each
+LINE 1383: other."]
+LINE 1384: to prevent co-operation between his large and small divisions; to
+LINE 1385: hinder the good troops from rescuing the bad, the officers from
+LINE 1386: rallying their men.
+LINE 1387: 16. When the enemy's men were scattered, they prevented them from
+LINE 1388: concentrating; even when their forces were united, they managed to keep
+LINE 1389: them in disorder.
+LINE 1390: 17. When it was to their advantage, they made a forward move; when
+LINE 1391: otherwise, they stopped still.
+LINE 1392: [Mei Yao-ch'en connects this with the foregoing: "Having succeeded in
+LINE 1393: thus dislocating the enemy, they would push forward in order to secure
+LINE 1394: any advantage to be gained; if there was no advantage to be gained,
+LINE 1395: they would remain where they were."]
+LINE 1396: 18. If asked how to cope with a great host of the enemy in orderly
+LINE 1397: array and on the point of marching to the attack, I should say: "Begin
+LINE 1398: by seizing something which your opponent holds dear; then he will be
+LINE 1399: amenable to your will."
+LINE 1400: [Opinions differ as to what Sun Tzŭ had in mind. Ts'ao Kung thinks it
+LINE 1401: is "some strategical advantage on which the enemy is depending." Tu Mu
+LINE 1402: says: "The three things which an enemy is anxious to do, and on the
+LINE 1403: accomplishment of which his success depends, are: (1) to capture our
+LINE 1404: favourable positions; (2) to ravage our cultivated land; (3) to guard
+LINE 1405: his own communications." Our object then must be to thwart his plans in
+LINE 1406: these three directions and thus render him helpless. [Cf. III. § 3.] By
+LINE 1407: boldly seizing the initiative in this way, you at once throw the other
+LINE 1408: side on the defensive.]
+LINE 1409: 19. Rapidity is the essence of war:
+LINE 1410: [According to Tu Mu, "this is a summary of leading principles in
+LINE 1411: warfare," and he adds: "These are the profoundest truths of military
+LINE 1412: science, and the chief business of the general." The following
+LINE 1413: anecdotes, told by Ho Shih, shows the importance attached to speed by
+LINE 1414: two of China's greatest generals. In 227 A.D., Meng Ta, governor of
+LINE 1415: Hsin-ch'eng under the Wei Emperor Wen Ti, was meditating defection to
+LINE 1416: the House of Shu, and had entered into correspondence with Chu-ko
+LINE 1417: Liang, Prime Minister of that State. The Wei general Ssu-ma I was then
+LINE 1418: military governor of Wan, and getting wind of Meng Ta's treachery, he
+LINE 1419: at once set off with an army to anticipate his revolt, having
+LINE 1420: previously cajoled him by a specious message of friendly import.
+LINE 1421: Ssu-ma's officers came to him and said: "If Meng Ta has leagued himself
+LINE 1422: with Wu and Shu, the matter should be thoroughly investigated before we
+LINE 1423: make a move." Ssu-ma I replied: "Meng Ta is an unprincipled man, and we
+LINE 1424: ought to go and punish him at once, while he is still wavering and
+LINE 1425: before he has thrown off the mask." Then, by a series of forced
+LINE 1426: marches, be brought his army under the walls of Hsin-ch'eng with in a
+LINE 1427: space of eight days. Now Meng Ta had previously said in a letter to
+LINE 1428: Chu-ko Liang: "Wan is 1200 _li_ from here. When the news of my revolt
+LINE 1429: reaches Ssu-ma I, he will at once inform his imperial master, but it
+LINE 1430: will be a whole month before any steps can be taken, and by that time
+LINE 1431: my city will be well fortified. Besides, Ssu-ma I is sure not to come
+LINE 1432: himself, and the generals that will be sent against us are not worth
+LINE 1433: troubling about." The next letter, however, was filled with
+LINE 1434: consternation: "Though only eight days have passed since I threw off my
+LINE 1435: allegiance, an army is already at the city-gates. What miraculous
+LINE 1436: rapidity is this!" A fortnight later, Hsin- ch'eng had fallen and Meng
+LINE 1437: Ta had lost his head. [See _Chin Shu_, ch. 1, f. 3.] In 621 A.D., Li
+LINE 1438: Ching was sent from K'uei-chou in Ssu-ch'uan to reduce the successful
+LINE 1439: rebel Hsiao Hsien, who had set up as Emperor at the modern Ching-chou
+LINE 1440: Fu in Hupeh. It was autumn, and the Yangtsze being then in flood, Hsiao
+LINE 1441: Hsien never dreamt that his adversary would venture to come down
+LINE 1442: through the gorges, and consequently made no preparations. But Li Ching
+LINE 1443: embarked his army without loss of time, and was just about to start
+LINE 1444: when the other generals implored him to postpone his departure until
+LINE 1445: the river was in a less dangerous state for navigation. Li Ching
+LINE 1446: replied: "To the soldier, overwhelming speed is of paramount
+LINE 1447: importance, and he must never miss opportunities. Now is the time to
+LINE 1448: strike, before Hsiao Hsien even knows that we have got an army
+LINE 1449: together. If we seize the present moment when the river is in flood, we
+LINE 1450: shall appear before his capital with startling suddenness, like the
+LINE 1451: thunder which is heard before you have time to stop your ears against
+LINE 1452: it. [See VII. § 19, note.] This is the great principle in war. Even if
+LINE 1453: he gets to know of our approach, he will have to levy his soldiers in
+LINE 1454: such a hurry that they will not be fit to oppose us. Thus the full
+LINE 1455: fruits of victory will be ours." All came about as he predicted, and
+LINE 1456: Hsiao Hsien was obliged to surrender, nobly stipulating that his people
+LINE 1457: should be spared and he alone suffer the penalty of death.]
+LINE 1458: take advantage of the enemy's unreadiness, make your way by unexpected
+LINE 1459: routes, and attack unguarded spots.
+LINE 1460: 20. The following are the principles to be observed by an invading
+LINE 1461: force: The further you penetrate into a country, the greater will be
+LINE 1462: the solidarity of your troops, and thus the defenders will not prevail
+LINE 1463: against you.
+LINE 1464: 21. Make forays in fertile country in order to supply your army with
+LINE 1465: food.
+LINE 1466: [Cf. _supra_, § 13. Li Ch'uan does not venture on a note here.]
+LINE 1467: 22. Carefully study the well-being of your men,
+LINE 1468: [For "well-being", Wang Hsi means, "Pet them, humor them, give them
+LINE 1469: plenty of food and drink, and look after them generally."]
+LINE 1470: and do not overtax them. Concentrate your energy and hoard your
+LINE 1471: strength.
+LINE 1472: [Ch'en recalls the line of action adopted in 224 B.C. by the famous
+LINE 1473: general Wang Chien, whose military genius largely contributed to the
+LINE 1474: success of the First Emperor. He had invaded the Ch'u State, where a
+LINE 1475: universal levy was made to oppose him. But, being doubtful of the
+LINE 1476: temper of his troops, he declined all invitations to fight and remained
+LINE 1477: strictly on the defensive. In vain did the Ch'u general try to force a
+LINE 1478: battle: day after day Wang Chien kept inside his walls and would not
+LINE 1479: come out, but devoted his whole time and energy to winning the
+LINE 1480: affection and confidence of his men. He took care that they should be
+LINE 1481: well fed, sharing his own meals with them, provided facilities for
+LINE 1482: bathing, and employed every method of judicious indulgence to weld them
+LINE 1483: into a loyal and homogenous body. After some time had elapsed, he told
+LINE 1484: off certain persons to find out how the men were amusing themselves.
+LINE 1485: The answer was, that they were contending with one another in putting
+LINE 1486: the weight and long-jumping. When Wang Chien heard that they were
+LINE 1487: engaged in these athletic pursuits, he knew that their spirits had been
+LINE 1488: strung up to the required pitch and that they were now ready for
+LINE 1489: fighting. By this time the Ch'u army, after repeating their challenge
+LINE 1490: again and again, had marched away eastwards in disgust. The Ch'in
+LINE 1491: general immediately broke up his camp and followed them, and in the
+LINE 1492: battle that ensued they were routed with great slaughter. Shortly
+LINE 1493: afterwards, the whole of Ch'u was conquered by Ch'in, and the king
+LINE 1494: Fu-ch'u led into captivity.]
+LINE 1495: Keep your army continually on the move,
+LINE 1496: [In order that the enemy may never know exactly where you are. It has
+LINE 1497: struck me, however, that the true reading might be "link your army
+LINE 1498: together."]
+LINE 1499: and devise unfathomable plans.
+LINE 1500: 23. Throw your soldiers into positions whence there is no escape, and
+LINE 1501: they will prefer death to flight. If they will face death, there is
+LINE 1502: nothing they may not achieve.
+LINE 1503: [Chang Yu quotes his favourite Wei Liao Tzŭ (ch. 3): "If one man were to
+LINE 1504: run amok with a sword in the market-place, and everybody else tried to
+LINE 1505: get our of his way, I should not allow that this man alone had courage
+LINE 1506: and that all the rest were contemptible cowards. The truth is, that a
+LINE 1507: desperado and a man who sets some value on his life do not meet on even
+LINE 1508: terms."]
+LINE 1509: Officers and men alike will put forth their uttermost strength.
+LINE 1510: [Chang Yu says: "If they are in an awkward place together, they will
+LINE 1511: surely exert their united strength to get out of it."]
+LINE 1512: 24. Soldiers when in desperate straits lose the sense of fear. If there
+LINE 1513: is no place of refuge, they will stand firm. If they are in the heart
+LINE 1514: of a hostile country, they will show a stubborn front. If there is no
+LINE 1515: help for it, they will fight hard.
+LINE 1516: 25. Thus, without waiting to be marshalled, the soldiers will be
+LINE 1517: constantly on the _qui vive;_ without waiting to be asked, they will do
+LINE 1518: your will;
+LINE 1519: [Literally, "without asking, you will get."]
+LINE 1520: without restrictions, they will be faithful; without giving orders,
+LINE 1521: they can be trusted.
+LINE 1522: 26. Prohibit the taking of omens, and do away with superstitious
+LINE 1523: doubts. Then, until death itself comes, no calamity need be feared.
+LINE 1524: [The superstitious, "bound in to saucy doubts and fears," degenerate
+LINE 1525: into cowards and "die many times before their deaths." Tu Mu quotes
+LINE 1526: Huang Shih-kung: "'Spells and incantations should be strictly
+LINE 1527: forbidden, and no officer allowed to inquire by divination into the
+LINE 1528: fortunes of an army, for fear the soldiers' minds should be seriously
+LINE 1529: perturbed.' The meaning is," he continues, "that if all doubts and
+LINE 1530: scruples are discarded, your men will never falter in their resolution
+LINE 1531: until they die."]
+LINE 1532: 27. If our soldiers are not overburdened with money, it is not because
+LINE 1533: they have a distaste for riches; if their lives are not unduly long, it
+LINE 1534: is not because they are disinclined to longevity.
+LINE 1535: [Chang Yu has the best note on this passage: "Wealth and long life are
+LINE 1536: things for which all men have a natural inclination. Hence, if they
+LINE 1537: burn or fling away valuables, and sacrifice their own lives, it is not
+LINE 1538: that they dislike them, but simply that they have no choice." Sun Tzŭ
+LINE 1539: is slyly insinuating that, as soldiers are but human, it is for the
+LINE 1540: general to see that temptations to shirk fighting and grow rich are not
+LINE 1541: thrown in their way.]
+LINE 1542: 28. On the day they are ordered out to battle, your soldiers may weep,
+LINE 1543: [The word in the Chinese is "snivel." This is taken to indicate more
+LINE 1544: genuine grief than tears alone.]
+LINE 1545: those sitting up bedewing their garments, and those lying down letting
+LINE 1546: the tears run down their cheeks.
+LINE 1547: [Not because they are afraid, but because, as Ts'ao Kung says, "all
+LINE 1548: have embraced the firm resolution to do or die." We may remember that
+LINE 1549: the heroes of the Iliad were equally childlike in showing their
+LINE 1550: emotion. Chang Yu alludes to the mournful parting at the I River
+LINE 1551: between Ching K'o and his friends, when the former was sent to attempt
+LINE 1552: the life of the King of Ch'in (afterwards First Emperor) in 227 B.C.
+LINE 1553: The tears of all flowed down like rain as he bade them farewell and
+LINE 1554: uttered the following lines: "The shrill blast is blowing, Chilly the
+LINE 1555: burn; Your champion is going—Not to return." [1] ]
+LINE 1556: But let them once be brought to bay, and they will display the courage
+LINE 1557: of a Chu or a Kuei.
+LINE 1558: [Chu was the personal name of Chuan Chu, a native of the Wu State and
+LINE 1559: contemporary with Sun Tzŭ himself, who was employed by Kung-tzu Kuang,
+LINE 1560: better known as Ho Lu Wang, to assassinate his sovereign Wang Liao with
+LINE 1561: a dagger which he secreted in the belly of a fish served up at a
+LINE 1562: banquet. He succeeded in his attempt, but was immediately hacked to
+LINE 1563: pieces by the king's bodyguard. This was in 515 B.C. The other hero
+LINE 1564: referred to, Ts'ao Kuei (or Ts'ao Mo), performed the exploit which has
+LINE 1565: made his name famous 166 years earlier, in 681 B.C. Lu had been thrice
+LINE 1566: defeated by Ch'i, and was just about to conclude a treaty surrendering
+LINE 1567: a large slice of territory, when Ts'ao Kuei suddenly seized Huan Kung,
+LINE 1568: the Duke of Ch'i, as he stood on the altar steps and held a dagger
+LINE 1569: against his chest. None of the duke's retainers dared to move a muscle,
+LINE 1570: and Ts'ao Kuei proceeded to demand full restitution, declaring the Lu
+LINE 1571: was being unjustly treated because she was a smaller and a weaker
+LINE 1572: state. Huan Kung, in peril of his life, was obliged to consent,
+LINE 1573: whereupon Ts'ao Kuei flung away his dagger and quietly resumed his
+LINE 1574: place amid the terrified assemblage without having so much as changed
+LINE 1575: color. As was to be expected, the Duke wanted afterwards to repudiate
+LINE 1576: the bargain, but his wise old counselor Kuan Chung pointed out to him
+LINE 1577: the impolicy of breaking his word, and the upshot was that this bold
+LINE 1578: stroke regained for Lu the whole of what she had lost in three pitched
+LINE 1579: battles.]
+LINE 1580: 29. The skilful tactician may be likened to the _shuai-jan_. Now the
+LINE 1581: _shuai-jan_ is a snake that is found in the Ch'ang mountains.
+LINE 1582: ["_Shuai-jan_" means "suddenly" or "rapidly," and the snake in question
+LINE 1583: was doubtless so called owing to the rapidity of its movements. Through
+LINE 1584: this passage, the term in the Chinese has now come to be used in the
+LINE 1585: sense of "military manœuvers."]
+LINE 1586: Strike at its head, and you will be attacked by its tail; strike at its
+LINE 1587: tail, and you will be attacked by its head; strike at its middle, and
+LINE 1588: you will be attacked by head and tail both.
+LINE 1589: 30. Asked if an army can be made to imitate the _shuai-jan_,
+LINE 1590: [That is, as Mei Yao-ch'en says, "Is it possible to make the front and
+LINE 1591: rear of an army each swiftly responsive to attack on the other, just as
+LINE 1592: though they were part of a single living body?"]
+LINE 1593: I should answer, Yes. For the men of Wu and the men of Yüeh are
+LINE 1594: enemies;
+LINE 1595: [Cf. VI. § 21.]
+LINE 1596: yet if they are crossing a river in the same boat and are caught by a
+LINE 1597: storm, they will come to each other's assistance just as the left hand
+LINE 1598: helps the right.
+LINE 1599: [The meaning is: If two enemies will help each other in a time of
+LINE 1600: common peril, how much more should two parts of the same army, bound
+LINE 1601: together as they are by every tie of interest and fellow-feeling. Yet
+LINE 1602: it is notorious that many a campaign has been ruined through lack of
+LINE 1603: cooperation, especially in the case of allied armies.]
+LINE 1604: 31. Hence it is not enough to put one's trust in the tethering of
+LINE 1605: horses, and the burying of chariot wheels in the ground.
+LINE 1606: [These quaint devices to prevent one's army from running away recall
+LINE 1607: the Athenian hero Sophanes, who carried the anchor with him at the
+LINE 1608: battle of Plataea, by means of which he fastened himself firmly to one
+LINE 1609: spot. [See Herodotus, IX. 74.] It is not enough, says Sun Tzŭ, to
+LINE 1610: render flight impossible by such mechanical means. You will not succeed
+LINE 1611: unless your men have tenacity and unity of purpose, and, above all, a
+LINE 1612: spirit of sympathetic cooperation. This is the lesson which can be
+LINE 1613: learned from the _shuai-jan_.]
+LINE 1614: 32. The principle on which to manage an army is to set up one standard
+LINE 1615: of courage which all must reach.
+LINE 1616: [Literally, "level the courage [of all] as though [it were that of]
+LINE 1617: one." If the ideal army is to form a single organic whole, then it
+LINE 1618: follows that the resolution and spirit of its component parts must be
+LINE 1619: of the same quality, or at any rate must not fall below a certain
+LINE 1620: standard. Wellington's seemingly ungrateful description of his army at
+LINE 1621: Waterloo as "the worst he had ever commanded" meant no more than that
+LINE 1622: it was deficient in this important particular—unity of spirit and
+LINE 1623: courage. Had he not foreseen the Belgian defections and carefully kept
+LINE 1624: those troops in the background, he would almost certainly have lost the
+LINE 1625: day.]
+LINE 1626: 33. How to make the best of both strong and weak—that is a question
+LINE 1627: involving the proper use of ground.
+LINE 1628: [Mei Yao-ch'en's paraphrase is: "The way to eliminate the differences
+LINE 1629: of strong and weak and to make both serviceable is to utilize
+LINE 1630: accidental features of the ground." Less reliable troops, if posted in
+LINE 1631: strong positions, will hold out as long as better troops on more
+LINE 1632: exposed terrain. The advantage of position neutralizes the inferiority
+LINE 1633: in stamina and courage. Col. Henderson says: "With all respect to the
+LINE 1634: text books, and to the ordinary tactical teaching, I am inclined to
+LINE 1635: think that the study of ground is often overlooked, and that by no
+LINE 1636: means sufficient importance is attached to the selection of positions…
+LINE 1637: and to the immense advantages that are to be derived, whether you are
+LINE 1638: defending or attacking, from the proper utilization of natural
+LINE 1639: features." [2] ]
+LINE 1640: 34. Thus the skilful general conducts his army just as though he were
+LINE 1641: leading a single man, willy-nilly, by the hand.
+LINE 1642: [Tu Mu says: "The simile has reference to the ease with which he does
+LINE 1643: it."]
+LINE 1644: 35. It is the business of a general to be quiet and thus ensure
+LINE 1645: secrecy; upright and just, and thus maintain order.
+LINE 1646: 36. He must be able to mystify his officers and men by false reports
+LINE 1647: and appearances,
+LINE 1648: [Literally, "to deceive their eyes and ears."]
+LINE 1649: and thus keep them in total ignorance.
+LINE 1650: [Ts'ao Kung gives us one of his excellent apophthegms: "The troops must
+LINE 1651: not be allowed to share your schemes in the beginning; they may only
+LINE 1652: rejoice with you over their happy outcome." "To mystify, mislead, and
+LINE 1653: surprise the enemy," is one of the first principles in war, as had been
+LINE 1654: frequently pointed out. But how about the other process—the
+LINE 1655: mystification of one's own men? Those who may think that Sun Tzŭ is
+LINE 1656: over-emphatic on this point would do well to read Col. Henderson's
+LINE 1657: remarks on Stonewall Jackson's Valley campaign: "The infinite pains,"
+LINE 1658: he says, "with which Jackson sought to conceal, even from his most
+LINE 1659: trusted staff officers, his movements, his intentions, and his
+LINE 1660: thoughts, a commander less thorough would have pronounced useless"—etc.
+LINE 1661: etc. [3] In the year 88 A.D., as we read in ch. 47 of the _Hou Han
+LINE 1662: Shu_, "Pan Ch'ao took the field with 25,000 men from Khotan and other
+LINE 1663: Central Asian states with the object of crushing Yarkand. The King of
+LINE 1664: Kutcha replied by dispatching his chief commander to succour the place
+LINE 1665: with an army drawn from the kingdoms of Wen-su, Ku-mo, and Wei-t'ou,
+LINE 1666: totaling 50,000 men. Pan Ch'ao summoned his officers and also the King
+LINE 1667: of Khotan to a council of war, and said: 'Our forces are now
+LINE 1668: outnumbered and unable to make head against the enemy. The best plan,
+LINE 1669: then, is for us to separate and disperse, each in a different
+LINE 1670: direction. The King of Khotan will march away by the easterly route,
+LINE 1671: and I will then return myself towards the west. Let us wait until the
+LINE 1672: evening drum has sounded and then start.' Pan Ch'ao now secretly
+LINE 1673: released the prisoners whom he had taken alive, and the King of Kutcha
+LINE 1674: was thus informed of his plans. Much elated by the news, the latter set
+LINE 1675: off at once at the head of 10,000 horsemen to bar Pan Ch'ao's retreat
+LINE 1676: in the west, while the King of Wen-su rode eastward with 8000 horse in
+LINE 1677: order to intercept the King of Khotan. As soon as Pan Ch'ao knew that
+LINE 1678: the two chieftains had gone, he called his divisions together, got them
+LINE 1679: well in hand, and at cock-crow hurled them against the army of Yarkand,
+LINE 1680: as it lay encamped. The barbarians, panic-stricken, fled in confusion,
+LINE 1681: and were closely pursued by Pan Ch'ao. Over 5000 heads were brought
+LINE 1682: back as trophies, besides immense spoils in the shape of horses and
+LINE 1683: cattle and valuables of every description. Yarkand then capitulating,
+LINE 1684: Kutcha and the other kingdoms drew off their respective forces. From
+LINE 1685: that time forward, Pan Ch'ao's prestige completely overawed the
+LINE 1686: countries of the west." In this case, we see that the Chinese general
+LINE 1687: not only kept his own officers in ignorance of his real plans, but
+LINE 1688: actually took the bold step of dividing his army in order to deceive
+LINE 1689: the enemy.]
+LINE 1690: 37. By altering his arrangements and changing his plans,
+LINE 1691: [Wang Hsi thinks that this means not using the same stratagem twice.]
+LINE 1692: he keeps the enemy without definite knowledge.
+LINE 1693: [Chang Yu, in a quotation from another work, says: "The axiom, that war
+LINE 1694: is based on deception, does not apply only to deception of the enemy.
+LINE 1695: You must deceive even your own soldiers. Make them follow you, but
+LINE 1696: without letting them know why."]
+LINE 1697: By shifting his camp and taking circuitous routes, he prevents the
+LINE 1698: enemy from anticipating his purpose.
+LINE 1699: 38. At the critical moment, the leader of an army acts like one who has
+LINE 1700: climbed up a height and then kicks away the ladder behind him. He
+LINE 1701: carries his men deep into hostile territory before he shows his hand.
+LINE 1702: [Literally, "releases the spring" (see V. § 15), that is, takes some
+LINE 1703: decisive step which makes it impossible for the army to return—like
+LINE 1704: Hsiang Yu, who sunk his ships after crossing a river. Ch'en Hao,
+LINE 1705: followed by Chia Lin, understands the words less well as "puts forth
+LINE 1706: every artifice at his command."]
+LINE 1707: 39. He burns his boats and breaks his cooking-pots; like a shepherd
+LINE 1708: driving a flock of sheep, he drives his men this way and that, and
+LINE 1709: none knows whither he is going.
+LINE 1710: [Tu Mu says: "The army is only cognizant of orders to advance or
+LINE 1711: retreat; it is ignorant of the ulterior ends of attacking and
+LINE 1712: conquering."]
+LINE 1713: 40. To muster his host and bring it into danger:—this may be termed the
+LINE 1714: business of the general.
+LINE 1715: [Sun Tzŭ means that after mobilization there should be no delay in
+LINE 1716: aiming a blow at the enemy's heart. Note how he returns again and again
+LINE 1717: to this point. Among the warring states of ancient China, desertion was
+LINE 1718: no doubt a much more present fear and serious evil than it is in the
+LINE 1719: armies of today.]
+LINE 1720: 41. The different measures suited to the nine varieties of ground;
+LINE 1721: [Chang Yu says: "One must not be hide-bound in interpreting the rules
+LINE 1722: for the nine varieties of ground."]
+LINE 1723: the expediency of aggressive or defensive tactics; and the fundamental
+LINE 1724: laws of human nature: these are things that must most certainly be
+LINE 1725: studied.
+LINE 1726: 42. When invading hostile territory, the general principle is, that
+LINE 1727: penetrating deeply brings cohesion; penetrating but a short way means
+LINE 1728: dispersion.
+LINE 1729: [Cf. _supra_, § 20.]
+LINE 1730: 43. When you leave your own country behind, and take your army across
+LINE 1731: neighbourhood territory, you find yourself on critical ground.
+LINE 1732: [This "ground" is curiously mentioned in VIII. § 2, but it does not
+LINE 1733: figure among the Nine Situations or the Six Calamities in chap. X.
+LINE 1734: One's first impulse would be to translate it distant ground," but this,
+LINE 1735: if we can trust the commentators, is precisely what is not meant here.
+LINE 1736: Mei Yao-ch'en says it is "a position not far enough advanced to be
+LINE 1737: called 'facile,' and not near enough to home to be 'dispersive,' but
+LINE 1738: something between the two." Wang Hsi says: "It is ground separated from
+LINE 1739: home by an interjacent state, whose territory we have had to cross in
+LINE 1740: order to reach it. Hence, it is incumbent on us to settle our business
+LINE 1741: there quickly." He adds that this position is of rare occurrence, which
+LINE 1742: is the reason why it is not included among the Nine Situations.]
+LINE 1743: When there are means of communication on all four sides, the ground is
+LINE 1744: one of intersecting highways.
+LINE 1745: 44. When you penetrate deeply into a country, it is serious ground.
+LINE 1746: When you penetrate but a little way, it is facile ground.
+LINE 1747: 45. When you have the enemy's strongholds on your rear, and narrow
+LINE 1748: passes in front, it is hemmed-in ground. When there is no place of
+LINE 1749: refuge at all, it is desperate ground.
+LINE 1750: 46. Therefore, on dispersive ground, I would inspire my men with unity
+LINE 1751: of purpose.
+LINE 1752: [This end, according to Tu Mu, is best attained by remaining on the
+LINE 1753: defensive, and avoiding battle. Cf. _supra_, § 11.]
+LINE 1754: On facile ground, I would see that there is close connection between
+LINE 1755: all parts of my army.
+LINE 1756: [As Tu Mu says, the object is to guard against two possible
+LINE 1757: contingencies: "(1) the desertion of our own troops; (2) a sudden
+LINE 1758: attack on the part of the enemy." Cf. VII. § 17. Mei Yao-ch'en says:
+LINE 1759: "On the march, the regiments should be in close touch; in an
+LINE 1760: encampment, there should be continuity between the fortifications."]
+LINE 1761: 47. On contentious ground, I would hurry up my rear.
+LINE 1762: [This is Ts'ao Kung's interpretation. Chang Yu adopts it, saying: "We
+LINE 1763: must quickly bring up our rear, so that head and tail may both reach
+LINE 1764: the goal." That is, they must not be allowed to straggle up a long way
+LINE 1765: apart. Mei Yao-ch'en offers another equally plausible explanation:
+LINE 1766: "Supposing the enemy has not yet reached the coveted position, and we
+LINE 1767: are behind him, we should advance with all speed in order to dispute
+LINE 1768: its possession." Ch'en Hao, on the other hand, assuming that the enemy
+LINE 1769: has had time to select his own ground, quotes VI. § 1, where Sun Tzŭ
+LINE 1770: warns us against coming exhausted to the attack. His own idea of the
+LINE 1771: situation is rather vaguely expressed: "If there is a favourable
+LINE 1772: position lying in front of you, detach a picked body of troops to
+LINE 1773: occupy it, then if the enemy, relying on their numbers, come up to make
+LINE 1774: a fight for it, you may fall quickly on their rear with your main body,
+LINE 1775: and victory will be assured." It was thus, he adds, that Chao She beat
+LINE 1776: the army of Ch'in. (See p. 57.)]
+LINE 1777: 48. On open ground, I would keep a vigilant eye on my defences. On
+LINE 1778: ground of intersecting highways, I would consolidate my alliances.
+LINE 1779: 49. On serious ground, I would try to ensure a continuous stream of
+LINE 1780: supplies.
+LINE 1781: [The commentators take this as referring to forage and plunder, not, as
+LINE 1782: one might expect, to an unbroken communication with a home base.]
+LINE 1783: On difficult ground, I would keep pushing on along the road.
+LINE 1784: 50. On hemmed-in ground, I would block any way of retreat.
+LINE 1785: [Meng Shih says: "To make it seem that I meant to defend the position,
+LINE 1786: whereas my real intention is to burst suddenly through the enemy's
+LINE 1787: lines." Mei Yao-ch'en says: "in order to make my soldiers fight with
+LINE 1788: desperation." Wang Hsi says, "fearing lest my men be tempted to run
+LINE 1789: away." Tu Mu points out that this is the converse of VII. § 36, where
+LINE 1790: it is the enemy who is surrounded. In 532 A.D., Kao Huan, afterwards
+LINE 1791: Emperor and canonized as Shen-wu, was surrounded by a great army under
+LINE 1792: Erh-chu Chao and others. His own force was comparatively small,
+LINE 1793: consisting only of 2000 horse and something under 30,000 foot. The
+LINE 1794: lines of investment had not been drawn very closely together, gaps
+LINE 1795: being left at certain points. But Kao Huan, instead of trying to
+LINE 1796: escape, actually made a shift to block all the remaining outlets
+LINE 1797: himself by driving into them a number of oxen and donkeys roped
+LINE 1798: together. As soon as his officers and men saw that there was nothing
+LINE 1799: for it but to conquer or die, their spirits rose to an extraordinary
+LINE 1800: pitch of exaltation, and they charged with such desperate ferocity that
+LINE 1801: the opposing ranks broke and crumbled under their onslaught.]
+LINE 1802: On desperate ground, I would proclaim to my soldiers the hopelessness
+LINE 1803: of saving their lives.
+LINE 1804: Tu Yu says: "Burn your baggage and impedimenta, throw away your stores
+LINE 1805: and provisions, choke up the wells, destroy your cooking-stoves, and
+LINE 1806: make it plain to your men that they cannot survive, but must fight to
+LINE 1807: the death." Mei Yao-ch'en says: "The only chance of life lies in giving
+LINE 1808: up all hope of it." This concludes what Sun Tzŭ has to say about
+LINE 1809: "grounds" and the "variations" corresponding to them. Reviewing the
+LINE 1810: passages which bear on this important subject, we cannot fail to be
+LINE 1811: struck by the desultory and unmethodical fashion in which it is
+LINE 1812: treated. Sun Tzŭ begins abruptly in VIII. § 2 to enumerate "variations"
+LINE 1813: before touching on "grounds" at all, but only mentions five, namely
+LINE 1814: nos. 7, 5, 8 and 9 of the subsequent list, and one that is not included
+LINE 1815: in it. A few varieties of ground are dealt with in the earlier portion
+LINE 1816: of chap. IX, and then chap. X sets forth six new grounds, with six
+LINE 1817: variations of plan to match. None of these is mentioned again, though
+LINE 1818: the first is hardly to be distinguished from ground no. 4 in the next
+LINE 1819: chapter. At last, in chap. XI, we come to the Nine Grounds par
+LINE 1820: excellence, immediately followed by the variations. This takes us down
+LINE 1821: to § 14. In §§ 43-45, fresh definitions are provided for nos. 5, 6, 2,
+LINE 1822: 8 and 9 (in the order given), as well as for the tenth ground noticed
+LINE 1823: in chap. VIII; and finally, the nine variations are enumerated once
+LINE 1824: more from beginning to end, all, with the exception of 5, 6 and 7,
+LINE 1825: being different from those previously given. Though it is impossible to
+LINE 1826: account for the present state of Sun Tzŭ's text, a few suggestive facts
+LINE 1827: maybe brought into prominence: (1) Chap. VIII, according to the title,
+LINE 1828: should deal with nine variations, whereas only five appear. (2) It is
+LINE 1829: an abnormally short chapter. (3) Chap. XI is entitled The Nine Grounds.
+LINE 1830: Several of these are defined twice over, besides which there are two
+LINE 1831: distinct lists of the corresponding variations. (4) The length of the
+LINE 1832: chapter is disproportionate, being double that of any other except IX.
+LINE 1833: I do not propose to draw any inferences from these facts, beyond the
+LINE 1834: general conclusion that Sun Tzŭ's work cannot have come down to us in
+LINE 1835: the shape in which it left his hands: chap. VIII is obviously defective
+LINE 1836: and probably out of place, while XI seems to contain matter that has
+LINE 1837: either been added by a later hand or ought to appear elsewhere.]
+LINE 1838: 51. For it is the soldier's disposition to offer an obstinate
+LINE 1839: resistance when surrounded, to fight hard when he cannot help himself,
+LINE 1840: and to obey promptly when he has fallen into danger.
+LINE 1841: [Chang Yu alludes to the conduct of Pan Ch'ao's devoted followers in 73
+LINE 1842: A.D. The story runs thus in the _Hou Han Shu_, ch. 47: "When Pan Ch'ao
+LINE 1843: arrived at Shan-shan, Kuang, the King of the country, received him at
+LINE 1844: first with great politeness and respect; but shortly afterwards his
+LINE 1845: behavior underwent a sudden change, and he became remiss and negligent.
+LINE 1846: Pan Ch'ao spoke about this to the officers of his suite: 'Have you
+LINE 1847: noticed,' he said, 'that Kuang's polite intentions are on the wane?
+LINE 1848: This must signify that envoys have come from the Northern barbarians,
+LINE 1849: and that consequently he is in a state of indecision, not knowing with
+LINE 1850: which side to throw in his lot. That surely is the reason. The truly
+LINE 1851: wise man, we are told, can perceive things before they have come to
+LINE 1852: pass; how much more, then, those that are already manifest!' Thereupon
+LINE 1853: he called one of the natives who had been assigned to his service, and
+LINE 1854: set a trap for him, saying: 'Where are those envoys from the Hsiung-nu
+LINE 1855: who arrived some day ago?' The man was so taken aback that between
+LINE 1856: surprise and fear he presently blurted out the whole truth. Pan Ch'ao,
+LINE 1857: keeping his informant carefully under lock and key, then summoned a
+LINE 1858: general gathering of his officers, thirty-six in all, and began
+LINE 1859: drinking with them. When the wine had mounted into their heads a
+LINE 1860: little, he tried to rouse their spirit still further by addressing them
+LINE 1861: thus: 'Gentlemen, here we are in the heart of an isolated region,
+LINE 1862: anxious to achieve riches and honour by some great exploit. Now it
+LINE 1863: happens that an ambassador from the Hsiung-no arrived in this kingdom
+LINE 1864: only a few days ago, and the result is that the respectful courtesy
+LINE 1865: extended towards us by our royal host has disappeared. Should this
+LINE 1866: envoy prevail upon him to seize our party and hand us over to the
+LINE 1867: Hsiung-no, our bones will become food for the wolves of the desert.
+LINE 1868: What are we to do?' With one accord, the officers replied: 'Standing as
+LINE 1869: we do in peril of our lives, we will follow our commander through life
+LINE 1870: and death.' For the sequel of this adventure, see chap. XII. § 1,
+LINE 1871: note.]
+LINE 1872: 52. We cannot enter into alliance with neighbouring princes until we are
+LINE 1873: acquainted with their designs. We are not fit to lead an army on the
+LINE 1874: march unless we are familiar with the face of the country—its mountains
+LINE 1875: and forests, its pitfalls and precipices, its marshes and swamps. We
+LINE 1876: shall be unable to turn natural advantages to account unless we make
+LINE 1877: use of local guides.
+LINE 1878: [These three sentences are repeated from VII. §§ 12-14—in order to
+LINE 1879: emphasize their importance, the commentators seem to think. I prefer to
+LINE 1880: regard them as interpolated here in order to form an antecedent to the
+LINE 1881: following words. With regard to local guides, Sun Tzŭ might have added
+LINE 1882: that there is always the risk of going wrong, either through their
+LINE 1883: treachery or some misunderstanding such as Livy records (XXII. 13):
+LINE 1884: Hannibal, we are told, ordered a guide to lead him into the
+LINE 1885: neighbourhood of Casinum, where there was an important pass to be
+LINE 1886: occupied; but his Carthaginian accent, unsuited to the pronunciation of
+LINE 1887: Latin names, caused the guide to understand Casilinum instead of
+LINE 1888: Casinum, and turning from his proper route, he took the army in that
+LINE 1889: direction, the mistake not being discovered until they had almost
+LINE 1890: arrived.]
+LINE 1891: 53. To be ignorant of any one of the following four or five principles
+LINE 1892: does not befit a warlike prince.
+LINE 1893: 54. When a warlike prince attacks a powerful state, his generalship
+LINE 1894: shows itself in preventing the concentration of the enemy's forces. He
+LINE 1895: overawes his opponents, and their allies are prevented from joining
+LINE 1896: against him.
+LINE 1897: [Mei Tao-ch'en constructs one of the chains of reasoning that are so
+LINE 1898: much affected by the Chinese: "In attacking a powerful state, if you
+LINE 1899: can divide her forces, you will have a superiority in strength; if you
+LINE 1900: have a superiority in strength, you will overawe the enemy; if you
+LINE 1901: overawe the enemy, the neighbouring states will be frightened; and if
+LINE 1902: the neighbouring states are frightened, the enemy's allies will be
+LINE 1903: prevented from joining her." The following gives a stronger meaning:
+LINE 1904: "If the great state has once been defeated (before she has had time to
+LINE 1905: summon her allies), then the lesser states will hold aloof and refrain
+LINE 1906: from massing their forces." Ch'en Hao and Chang Yu take the sentence in
+LINE 1907: quite another way. The former says: "Powerful though a prince may be,
+LINE 1908: if he attacks a large state, he will be unable to raise enough troops,
+LINE 1909: and must rely to some extent on external aid; if he dispenses with
+LINE 1910: this, and with overweening confidence in his own strength, simply tries
+LINE 1911: to intimidate the enemy, he will surely be defeated." Chang Yu puts his
+LINE 1912: view thus: "If we recklessly attack a large state, our own people will
+LINE 1913: be discontented and hang back. But if (as will then be the case) our
+LINE 1914: display of military force is inferior by half to that of the enemy, the
+LINE 1915: other chieftains will take fright and refuse to join us."]
+LINE 1916: 55. Hence he does not strive to ally himself with all and sundry, nor
+LINE 1917: does he foster the power of other states. He carries out his own secret
+LINE 1918: designs, keeping his antagonists in awe.
+LINE 1919: [The train of thought, as said by Li Ch'uan, appears to be this: Secure
+LINE 1920: against a combination of his enemies, "he can afford to reject
+LINE 1921: entangling alliances and simply pursue his own secret designs, his
+LINE 1922: prestige enable him to dispense with external friendships."]
+LINE 1923: Thus he is able to capture their cities and overthrow their kingdoms.
+LINE 1924: [This paragraph, though written many years before the Ch'in State
+LINE 1925: became a serious menace, is not a bad summary of the policy by which
+LINE 1926: the famous Six Chancellors gradually paved the way for her final
+LINE 1927: triumph under Shih Huang Ti. Chang Yu, following up his previous note,
+LINE 1928: thinks that Sun Tzŭ is condemning this attitude of cold-blooded
+LINE 1929: selfishness and haughty isolation.]
+LINE 1930: 56. Bestow rewards without regard to rule,
+LINE 1931: [Wu Tzŭ (ch. 3) less wisely says: "Let advance be richly rewarded and
+LINE 1932: retreat be heavily punished."]
+LINE 1933: issue orders
+LINE 1934: [Literally, "hang" or post up."]
+LINE 1935: without regard to previous arrangements;
+LINE 1936: ["In order to prevent treachery," says Wang Hsi. The general meaning is
+LINE 1937: made clear by Ts'ao Kung's quotation from the _Ssu-ma Fa:_ "Give
+LINE 1938: instructions only on sighting the enemy; give rewards when you see
+LINE 1939: deserving deeds." Ts'ao Kung's paraphrase: "The final instructions you
+LINE 1940: give to your army should not correspond with those that have been
+LINE 1941: previously posted up." Chang Yu simplifies this into "your arrangements
+LINE 1942: should not be divulged beforehand." And Chia Lin says: "there should be
+LINE 1943: no fixity in your rules and arrangements." Not only is there danger in
+LINE 1944: letting your plans be known, but war often necessitates the entire
+LINE 1945: reversal of them at the last moment.]
+LINE 1946: and you will be able to handle a whole army as though you had to do
+LINE 1947: with but a single man.
+LINE 1948: [Cf. _supra_, § 34.]
+LINE 1949: 57. Confront your soldiers with the deed itself; never let them know
+LINE 1950: your design.
+LINE 1951: [Literally, "do not tell them words;" i.e. do not give your reasons for
+LINE 1952: any order. Lord Mansfield once told a junior colleague to "give no
+LINE 1953: reasons" for his decisions, and the maxim is even more applicable to a
+LINE 1954: general than to a judge.]
+LINE 1955: When the outlook is bright, bring it before their eyes; but tell them
+LINE 1956: nothing when the situation is gloomy.
+LINE 1957: 58. Place your army in deadly peril, and it will survive; plunge it
+LINE 1958: into desperate straits, and it will come off in safety.
+LINE 1959: [These words of Sun Tzŭ were once quoted by Han Hsin in explanation of
+LINE 1960: the tactics he employed in one of his most brilliant battles, already
+LINE 1961: alluded to on p. 28. In 204 B.C., he was sent against the army of Chao,
+LINE 1962: and halted ten miles from the mouth of the Ching-hsing pass, where the
+LINE 1963: enemy had mustered in full force. Here, at midnight, he detached a body
+LINE 1964: of 2000 light cavalry, every man of which was furnished with a red
+LINE 1965: flag. Their instructions were to make their way through narrow defiles
+LINE 1966: and keep a secret watch on the enemy. "When the men of Chao see me in
+LINE 1967: full flight," Han Hsin said, "they will abandon their fortifications
+LINE 1968: and give chase. This must be the sign for you to rush in, pluck down
+LINE 1969: the Chao standards and set up the red banners of Han in their stead."
+LINE 1970: Turning then to his other officers, he remarked: "Our adversary holds a
+LINE 1971: strong position, and is not likely to come out and attack us until he
+LINE 1972: sees the standard and drums of the commander-in-chief, for fear I
+LINE 1973: should turn back and escape through the mountains." So saying, he first
+LINE 1974: of all sent out a division consisting of 10,000 men, and ordered them
+LINE 1975: to form in line of battle with their backs to the River Ti. Seeing this
+LINE 1976: manœuver, the whole army of Chao broke into loud laughter. By this time
+LINE 1977: it was broad daylight, and Han Hsin, displaying the generalissimo's
+LINE 1978: flag, marched out of the pass with drums beating, and was immediately
+LINE 1979: engaged by the enemy. A great battle followed, lasting for some time;
+LINE 1980: until at length Han Hsin and his colleague Chang Ni, leaving drums and
+LINE 1981: banner on the field, fled to the division on the river bank, where
+LINE 1982: another fierce battle was raging. The enemy rushed out to pursue them
+LINE 1983: and to secure the trophies, thus denuding their ramparts of men; but
+LINE 1984: the two generals succeeded in joining the other army, which was
+LINE 1985: fighting with the utmost desperation. The time had now come for the
+LINE 1986: 2000 horsemen to play their part. As soon as they saw the men of Chao
+LINE 1987: following up their advantage, they galloped behind the deserted walls,
+LINE 1988: tore up the enemy's flags and replaced them by those of Han. When the
+LINE 1989: Chao army looked back from the pursuit, the sight of these red flags
+LINE 1990: struck them with terror. Convinced that the Hans had got in and
+LINE 1991: overpowered their king, they broke up in wild disorder, every effort of
+LINE 1992: their leader to stay the panic being in vain. Then the Han army fell on
+LINE 1993: them from both sides and completed the rout, killing a number and
+LINE 1994: capturing the rest, amongst whom was King Ya himself…. After the
+LINE 1995: battle, some of Han Hsin's officers came to him and said: "In the _Art
+LINE 1996: of War_ we are told to have a hill or tumulus on the right rear, and a
+LINE 1997: river or marsh on the left front. [This appears to be a blend of Sun
+LINE 1998: Tzŭ and T'ai Kung. See IX § 9, and note.] You, on the contrary, ordered
+LINE 1999: us to draw up our troops with the river at our back. Under these
+LINE 2000: conditions, how did you manage to gain the victory?" The general
+LINE 2001: replied: "I fear you gentlemen have not studied the Art of War with
+LINE 2002: sufficient care. Is it not written there: 'Plunge your army into
+LINE 2003: desperate straits and it will come off in safety; place it in deadly
+LINE 2004: peril and it will survive'? Had I taken the usual course, I should
+LINE 2005: never have been able to bring my colleague round. What says the
+LINE 2006: Military Classic—'Swoop down on the market-place and drive the men off
+LINE 2007: to fight.' [This passage does not occur in the present text of Sun
+LINE 2008: Tzŭ.] If I had not placed my troops in a position where they were
+LINE 2009: obliged to fight for their lives, but had allowed each man to follow
+LINE 2010: his own discretion, there would have been a general _débandade_, and it
+LINE 2011: would have been impossible to do anything with them." The officers
+LINE 2012: admitted the force of his argument, and said: "These are higher tactics
+LINE 2013: than we should have been capable of." [See _Ch'ien Han Shu_, ch. 34,
+LINE 2014: ff. 4, 5.] ]
+LINE 2015: 59. For it is precisely when a force has fallen into harm's way that is
+LINE 2016: capable of striking a blow for victory.
+LINE 2017: [Danger has a bracing effect.]
+LINE 2018: 60. Success in warfare is gained by carefully accommodating ourselves
+LINE 2019: to the enemy's purpose.
+LINE 2020: [Ts'ao Kung says: "Feign stupidity"—by an appearance of yielding and
+LINE 2021: falling in with the enemy's wishes. Chang Yu's note makes the meaning
+LINE 2022: clear: "If the enemy shows an inclination to advance, lure him on to do
+LINE 2023: so; if he is anxious to retreat, delay on purpose that he may carry out
+LINE 2024: his intention." The object is to make him remiss and contemptuous
+LINE 2025: before we deliver our attack.]
+LINE 2026: 61. By persistently hanging on the enemy's flank,
+LINE 2027: [I understand the first four words to mean "accompanying the enemy in
+LINE 2028: one direction." Ts'ao Kung says: "unite the soldiers and make for the
+LINE 2029: enemy." But such a violent displacement of characters is quite
+LINE 2030: indefensible.]
+LINE 2031: we shall succeed in the long run
+LINE 2032: [Literally, "after a thousand _li_."]
+LINE 2033: in killing the commander-in-chief.
+LINE 2034: [Always a great point with the Chinese.]
+LINE 2035: 62. This is called ability to accomplish a thing by sheer cunning.
+LINE 2036: 63. On the day that you take up your command, block the frontier
+LINE 2037: passes, destroy the official tallies,
+LINE 2038: [These were tablets of bamboo or wood, one half of which was issued as
+LINE 2039: a permit or passport by the official in charge of a gate. Cf. the
+LINE 2040: "border-warden" of _Lun Yu_ III. 24, who may have had similar duties.
+LINE 2041: When this half was returned to him, within a fixed period, he was
+LINE 2042: authorized to open the gate and let the traveler through.]
+LINE 2043: and stop the passage of all emissaries.
+LINE 2044: [Either to or from the enemy's country.]
+LINE 2045: 64. Be stern in the council-chamber,
+LINE 2046: [Show no weakness, and insist on your plans being ratified by the
+LINE 2047: sovereign.]
+LINE 2048: so that you may control the situation.
+LINE 2049: [Mei Yao-ch'en understands the whole sentence to mean: Take the
+LINE 2050: strictest precautions to ensure secrecy in your deliberations.]
+LINE 2051: 65. If the enemy leaves a door open, you must rush in.
+LINE 2052: 66. Forestall your opponent by seizing what he holds dear,
+LINE 2053: [Cf. _supra_, § 18.]
+LINE 2054: and subtly contrive to time his arrival on the ground.
+LINE 2055: [Ch'en Hao's explanation: "If I manage to seize a favourable position,
+LINE 2056: but the enemy does not appear on the scene, the advantage thus obtained
+LINE 2057: cannot be turned to any practical account. He who intends therefore, to
+LINE 2058: occupy a position of importance to the enemy, must begin by making an
+LINE 2059: artful appointment, so to speak, with his antagonist, and cajole him
+LINE 2060: into going there as well." Mei Yao-ch'en explains that this "artful
+LINE 2061: appointment" is to be made through the medium of the enemy's own spies,
+LINE 2062: who will carry back just the amount of information that we choose to
+LINE 2063: give them. Then, having cunningly disclosed our intentions, "we must
+LINE 2064: manage, though starting after the enemy, to arrive before him (VII. §
+LINE 2065: 4). We must start after him in order to ensure his marching thither; we
+LINE 2066: must arrive before him in order to capture the place without trouble.
+LINE 2067: Taken thus, the present passage lends some support to Mei Yao-ch'en's
+LINE 2068: interpretation of § 47.]
+LINE 2069: 67. Walk in the path defined by rule,
+LINE 2070: [Chia Lin says: "Victory is the only thing that matters, and this
+LINE 2071: cannot be achieved by adhering to conventional canons." It is
+LINE 2072: unfortunate that this variant rests on very slight authority, for the
+LINE 2073: sense yielded is certainly much more satisfactory. Napoleon, as we
+LINE 2074: know, according to the veterans of the old school whom he defeated, won
+LINE 2075: his battles by violating every accepted canon of warfare.]
+LINE 2076: and accommodate yourself to the enemy until you can fight a decisive
+LINE 2077: battle.
+LINE 2078: [Tu Mu says: "Conform to the enemy's tactics until a favourable
+LINE 2079: opportunity offers; then come forth and engage in a battle that shall
+LINE 2080: prove decisive."]
+LINE 2081: 68. At first, then, exhibit the coyness of a maiden, until the enemy
+LINE 2082: gives you an opening; afterwards emulate the rapidity of a running
+LINE 2083: hare, and it will be too late for the enemy to oppose you.
+LINE 2084: [As the hare is noted for its extreme timidity, the comparison hardly
+LINE 2085: appears felicitous. But of course Sun Tzŭ was thinking only of its
+LINE 2086: speed. The words have been taken to mean: You must flee from the enemy
+LINE 2087: as quickly as an escaping hare; but this is rightly rejected by Tu Mu.]
+LINE 2088: [1] Giles' Biographical Dictionary, no. 399.
+LINE 2089: [2] "The Science of War," p. 333.
+LINE 2090: [3] "Stonewall Jackson," vol. I, p. 421.
+LINE 2091: Chapter XII. THE ATTACK BY FIRE
+LINE 2092: [Rather more than half the chapter (§§ 1-13) is devoted to the subject
+LINE 2093: of fire, after which the author branches off into other topics.]
+LINE 2094: 1. Sun Tzŭ said: There are five ways of attacking with fire. The first
+LINE 2095: is to burn soldiers in their camp;
+LINE 2096: [So Tu Mu. Li Ch'uan says: "Set fire to the camp, and kill the
+LINE 2097: soldiers" (when they try to escape from the flames). Pan Ch'ao, sent on
+LINE 2098: a diplomatic mission to the King of Shan-shan [see XI. § 51, note],
+LINE 2099: found himself placed in extreme peril by the unexpected arrival of an
+LINE 2100: envoy from the Hsiung-nu [the mortal enemies of the Chinese]. In
+LINE 2101: consultation with his officers, he exclaimed: "Never venture, never
+LINE 2102: win! [1] The only course open to us now is to make an assault by fire
+LINE 2103: on the barbarians under cover of night, when they will not be able to
+LINE 2104: discern our numbers. Profiting by their panic, we shall exterminate
+LINE 2105: them completely; this will cool the King's courage and cover us with
+LINE 2106: glory, besides ensuring the success of our mission.' The officers all
+LINE 2107: replied that it would be necessary to discuss the matter first with the
+LINE 2108: Intendant. Pan Ch'ao then fell into a passion: 'It is today,' he cried,
+LINE 2109: 'that our fortunes must be decided! The Intendant is only a humdrum
+LINE 2110: civilian, who on hearing of our project will certainly be afraid, and
+LINE 2111: everything will be brought to light. An inglorious death is no worthy
+LINE 2112: fate for valiant warriors.' All then agreed to do as he wished.
+LINE 2113: Accordingly, as soon as night came on, he and his little band quickly
+LINE 2114: made their way to the barbarian camp. A strong gale was blowing at the
+LINE 2115: time. Pan Ch'ao ordered ten of the party to take drums and hide behind
+LINE 2116: the enemy's barracks, it being arranged that when they saw flames shoot
+LINE 2117: up, they should begin drumming and yelling with all their might. The
+LINE 2118: rest of his men, armed with bows and crossbows, he posted in ambuscade
+LINE 2119: at the gate of the camp. He then set fire to the place from the
+LINE 2120: windward side, whereupon a deafening noise of drums and shouting arose
+LINE 2121: on the front and rear of the Hsiung-nu, who rushed out pell-mell in
+LINE 2122: frantic disorder. Pan Ch'ao slew three of them with his own hand, while
+LINE 2123: his companions cut off the heads of the envoy and thirty of his suite.
+LINE 2124: The remainder, more than a hundred in all, perished in the flames. On
+LINE 2125: the following day, Pan Ch'ao, divining his thoughts, said with uplifted
+LINE 2126: hand: 'Although you did not go with us last night, I should not think,
+LINE 2127: Sir, of taking sole credit for our exploit.' This satisfied Kuo Hsun,
+LINE 2128: and Pan Ch'ao, having sent for Kuang, King of Shan-shan, showed him the
+LINE 2129: head of the barbarian envoy. The whole kingdom was seized with fear and
+LINE 2130: trembling, which Pan Ch'ao took steps to allay by issuing a public
+LINE 2131: proclamation. Then, taking the king's sons as hostage, he returned to
+LINE 2132: make his report to Tou Ku." _Hou Han Shu_, ch. 47, ff. 1, 2.] ]
+LINE 2133: the second is to burn stores;
+LINE 2134: [Tu Mu says: "Provisions, fuel and fodder." In order to subdue the
+LINE 2135: rebellious population of Kiangnan, Kao Keng recommended Wen Ti of the
+LINE 2136: Sui dynasty to make periodical raids and burn their stores of grain, a
+LINE 2137: policy which in the long run proved entirely successful.]
+LINE 2138: the third is to burn baggage-trains;
+LINE 2139: [An example given is the destruction of Yuan Shao's wagons and
+LINE 2140: impedimenta by Ts'ao Ts'ao in 200 A.D.]
+LINE 2141: the fourth is to burn arsenals and magazines;
+LINE 2142: [Tu Mu says that the things contained in "arsenals" and "magazines" are
+LINE 2143: the same. He specifies weapons and other implements, bullion and
+LINE 2144: clothing. Cf. VII. § 11.]
+LINE 2145: the fifth is to hurl dropping fire amongst the enemy.
+LINE 2146: [Tu Yu says in the _T'ung Tien:_ "To drop fire into the enemy's camp.
+LINE 2147: The method by which this may be done is to set the tips of arrows
+LINE 2148: alight by dipping them into a brazier, and then shoot them from
+LINE 2149: powerful crossbows into the enemy's lines."]
+LINE 2150: 2. In order to carry out an attack, we must have means available.
+LINE 2151: [T'sao Kung thinks that "traitors in the enemy's camp" are referred to.
+LINE 2152: But Ch'en Hao is more likely to be right in saying: "We must have
+LINE 2153: favourable circumstances in general, not merely traitors to help us."
+LINE 2154: Chia Lin says: "We must avail ourselves of wind and dry weather."]
+LINE 2155: the material for raising fire should always be kept in readiness.
+LINE 2156: [Tu Mu suggests as material for making fire: "dry vegetable matter,
+LINE 2157: reeds, brushwood, straw, grease, oil, etc." Here we have the material
+LINE 2158: cause. Chang Yu says: "vessels for hoarding fire, stuff for lighting
+LINE 2159: fires."]
+LINE 2160: 3. There is a proper season for making attacks with fire, and special
+LINE 2161: days for starting a conflagration.
+LINE 2162: 4. The proper season is when the weather is very dry; the special days
+LINE 2163: are those when the moon is in the constellations of the Sieve, the
+LINE 2164: Wall, the Wing or the Cross-bar;
+LINE 2165: [These are, respectively, the 7th, 14th, 27th, and 28th of the
+LINE 2166: Twenty-eight Stellar Mansions, corresponding roughly to Sagittarius,
+LINE 2167: Pegasus, Crater and Corvus.]
+LINE 2168: for these four are all days of rising wind.
+LINE 2169: 5. In attacking with fire, one should be prepared to meet five possible
+LINE 2170: developments:
+LINE 2171: 6. (1) When fire breaks out inside the enemy's camp, respond at once
+LINE 2172: with an attack from without.
+LINE 2173: 7. (2) If there is an outbreak of fire, but the enemy's soldiers remain
+LINE 2174: quiet, bide your time and do not attack.
+LINE 2175: [The prime object of attacking with fire is to throw the enemy into
+LINE 2176: confusion. If this effect is not produced, it means that the enemy is
+LINE 2177: ready to receive us. Hence the necessity for caution.]
+LINE 2178: 8. (3) When the force of the flames has reached its height, follow it
+LINE 2179: up with an attack, if that is practicable; if not, stay where you are.
+LINE 2180: [Ts'ao Kung says: "If you see a possible way, advance; but if you find
+LINE 2181: the difficulties too great, retire."]
+LINE 2182: 9. (4) If it is possible to make an assault with fire from without, do
+LINE 2183: not wait for it to break out within, but deliver your attack at a
+LINE 2184: favourable moment.
+LINE 2185: [Tu Mu says that the previous paragraphs had reference to the fire
+LINE 2186: breaking out (either accidentally, we may suppose, or by the agency of
+LINE 2187: incendiaries) inside the enemy's camp. "But," he continues, "if the
+LINE 2188: enemy is settled in a waste place littered with quantities of grass, or
+LINE 2189: if he has pitched his camp in a position which can be burnt out, we
+LINE 2190: must carry our fire against him at any seasonable opportunity, and not
+LINE 2191: await on in hopes of an outbreak occurring within, for fear our
+LINE 2192: opponents should themselves burn up the surrounding vegetation, and
+LINE 2193: thus render our own attempts fruitless." The famous Li Ling once
+LINE 2194: baffled the leader of the Hsiung-nu in this way. The latter, taking
+LINE 2195: advantage of a favourable wind, tried to set fire to the Chinese
+LINE 2196: general's camp, but found that every scrap of combustible vegetation in
+LINE 2197: the neighbourhood had already been burnt down. On the other hand,
+LINE 2198: Po-ts'ai, a general of the Yellow Turban rebels, was badly defeated in
+LINE 2199: 184 A.D. through his neglect of this simple precaution. "At the head of
+LINE 2200: a large army he was besieging Ch'ang-she, which was held by Huang-fu
+LINE 2201: Sung. The garrison was very small, and a general feeling of nervousness
+LINE 2202: pervaded the ranks; so Huang-fu Sung called his officers together and
+LINE 2203: said: "In war, there are various indirect methods of attack, and
+LINE 2204: numbers do not count for everything. [The commentator here quotes Sun
+LINE 2205: Tzŭ, V. §§ 5, 6 and 10.] Now the rebels have pitched their camp in the
+LINE 2206: midst of thick grass which will easily burn when the wind blows. If we
+LINE 2207: set fire to it at night, they will be thrown into a panic, and we can
+LINE 2208: make a sortie and attack them on all sides at once, thus emulating the
+LINE 2209: achievement of T'ien Tan.' [See p. 90.] That same evening, a strong
+LINE 2210: breeze sprang up; so Huang-fu Sung instructed his soldiers to bind
+LINE 2211: reeds together into torches and mount guard on the city walls, after
+LINE 2212: which he sent out a band of daring men, who stealthily made their way
+LINE 2213: through the lines and started the fire with loud shouts and yells.
+LINE 2214: Simultaneously, a glare of light shot up from the city walls, and
+LINE 2215: Huang-fu Sung, sounding his drums, led a rapid charge, which threw the
+LINE 2216: rebels into confusion and put them to headlong flight." [_Hou Han Shu_,
+LINE 2217: ch. 71.]
+LINE 2218: ]
+LINE 2219: ]
+LINE 2220: ]
+LINE 2221: ]
+LINE 2222: ]
+LINE 2223: 10. (5) When you start a fire, be to windward of it. Do not attack from
+LINE 2224: the leeward.
+LINE 2225: [Chang Yu, following Tu Yu, says: "When you make a fire, the enemy will
+LINE 2226: retreat away from it; if you oppose his retreat and attack him then, he
+LINE 2227: will fight desperately, which will not conduce to your success." A
+LINE 2228: rather more obvious explanation is given by Tu Mu: "If the wind is in
+LINE 2229: the east, begin burning to the east of the enemy, and follow up the
+LINE 2230: attack yourself from that side. If you start the fire on the east side,
+LINE 2231: and then attack from the west, you will suffer in the same way as your
+LINE 2232: enemy."]
+LINE 2233: 11. A wind that rises in the daytime lasts long, but a night breeze
+LINE 2234: soon falls.
+LINE 2235: [Cf. Lao Tzŭ's saying: "A violent wind does not last the space of a
+LINE 2236: morning." (_Tao Te Ching_, chap. 23.) Mei Yao-ch'en and Wang Hsi say:
+LINE 2237: "A day breeze dies down at nightfall, and a night breeze at daybreak.
+LINE 2238: This is what happens as a general rule." The phenomenon observed may be
+LINE 2239: correct enough, but how this sense is to be obtained is not apparent.]
+LINE 2240: 12. In every army, the five developments connected with fire must be
+LINE 2241: known, the movements of the stars calculated, and a watch kept for the
+LINE 2242: proper days.
+LINE 2243: [Tu Mu says: "We must make calculations as to the paths of the stars,
+LINE 2244: and watch for the days on which wind will rise, before making our
+LINE 2245: attack with fire." Chang Yu seems to interpret the text differently:
+LINE 2246: "We must not only know how to assail our opponents with fire, but also
+LINE 2247: be on our guard against similar attacks from them."]
+LINE 2248: 13. Hence those who use fire as an aid to the attack show intelligence;
+LINE 2249: those who use water as an aid to the attack gain an accession of
+LINE 2250: strength.
+LINE 2251: 14. By means of water, an enemy may be intercepted, but not robbed of
+LINE 2252: all his belongings.
+LINE 2253: [Ts'ao Kung's note is: "We can merely obstruct the enemy's road or
+LINE 2254: divide his army, but not sweep away all his accumulated stores." Water
+LINE 2255: can do useful service, but it lacks the terrible destructive power of
+LINE 2256: fire. This is the reason, Chang Yu concludes, why the former is
+LINE 2257: dismissed in a couple of sentences, whereas the attack by fire is
+LINE 2258: discussed in detail. Wu Tzŭ (ch. 4) speaks thus of the two elements:
+LINE 2259: "If an army is encamped on low-lying marshy ground, from which the
+LINE 2260: water cannot run off, and where the rainfall is heavy, it may be
+LINE 2261: submerged by a flood. If an army is encamped in wild marsh lands
+LINE 2262: thickly overgrown with weeds and brambles, and visited by frequent
+LINE 2263: gales, it may be exterminated by fire."]
+LINE 2264: 15. Unhappy is the fate of one who tries to win his battles and succeed
+LINE 2265: in his attacks without cultivating the spirit of enterprise; for the
+LINE 2266: result is waste of time and general stagnation.
+LINE 2267: [This is one of the most perplexing passages in Sun Tzŭ. Ts'ao Kung
+LINE 2268: says: "Rewards for good service should not be deferred a single day."
+LINE 2269: And Tu Mu: "If you do not take opportunity to advance and reward the
+LINE 2270: deserving, your subordinates will not carry out your commands, and
+LINE 2271: disaster will ensue." For several reasons, however, and in spite of the
+LINE 2272: formidable array of scholars on the other side, I prefer the
+LINE 2273: interpretation suggested by Mei Yao-ch'en alone, whose words I will
+LINE 2274: quote: "Those who want to make sure of succeeding in their battles and
+LINE 2275: assaults must seize the favourable moments when they come and not shrink
+LINE 2276: on occasion from heroic measures: that is to say, they must resort to
+LINE 2277: such means of attack of fire, water and the like. What they must not
+LINE 2278: do, and what will prove fatal, is to sit still and simply hold to the
+LINE 2279: advantages they have got."]
+LINE 2280: 16. Hence the saying: The enlightened ruler lays his plans well ahead;
+LINE 2281: the good general cultivates his resources.
+LINE 2282: [Tu Mu quotes the following from the _San Lueh_, ch. 2: "The warlike
+LINE 2283: prince controls his soldiers by his authority, kits them together by
+LINE 2284: good faith, and by rewards makes them serviceable. If faith decays,
+LINE 2285: there will be disruption; if rewards are deficient, commands will not
+LINE 2286: be respected."]
+LINE 2287: 17. Move not unless you see an advantage; use not your troops unless
+LINE 2288: there is something to be gained; fight not unless the position is
+LINE 2289: critical.
+LINE 2290: [Sun Tzŭ may at times appear to be over-cautious, but he never goes so
+LINE 2291: far in that direction as the remarkable passage in the _Tao Te Ching_,
+LINE 2292: ch. 69. "I dare not take the initiative, but prefer to act on the
+LINE 2293: defensive; I dare not advance an inch, but prefer to retreat a foot."]
+LINE 2294: 18. No ruler should put troops into the field merely to gratify his own
+LINE 2295: spleen; no general should fight a battle simply out of pique.
+LINE 2296: 19. If it is to your advantage, make a forward move; if not, stay where
+LINE 2297: you are.
+LINE 2298: [This is repeated from XI. § 17. Here I feel convinced that it is an
+LINE 2299: interpolation, for it is evident that § 20 ought to follow immediately
+LINE 2300: on § 18.]
+LINE 2301: 20. Anger may in time change to gladness; vexation may be succeeded by
+LINE 2302: content.
+LINE 2303: 21. But a kingdom that has once been destroyed can never come again
+LINE 2304: into being;
+LINE 2305: [The Wu State was destined to be a melancholy example of this saying.]
+LINE 2306: nor can the dead ever be brought back to life.
+LINE 2307: 22. Hence the enlightened ruler is heedful, and the good general full
+LINE 2308: of caution. This is the way to keep a country at peace and an army
+LINE 2309: intact.
+LINE 2310: [1] "Unless you enter the tiger's lair, you cannot get hold of the
+LINE 2311: tiger's cubs."
+LINE 2312: Chapter XIII. THE USE OF SPIES
+LINE 2313: 1. Sun Tzŭ said: Raising a host of a hundred thousand men and marching
+LINE 2314: them great distances entails heavy loss on the people and a drain on
+LINE 2315: the resources of the State. The daily expenditure will amount to a
+LINE 2316: thousand ounces of silver.
+LINE 2317: [Cf. II. §§ 1, 13, 14.]
+LINE 2318: There will be commotion at home and abroad, and men will drop down
+LINE 2319: exhausted on the highways.
+LINE 2320: [Cf. _Tao Te Ching_, ch. 30: "Where troops have been quartered,
+LINE 2321: brambles and thorns spring up. Chang Yu has the note: "We may be
+LINE 2322: reminded of the saying: 'On serious ground, gather in plunder.' Why
+LINE 2323: then should carriage and transportation cause exhaustion on the
+LINE 2324: highways?—The answer is, that not victuals alone, but all sorts of
+LINE 2325: munitions of war have to be conveyed to the army. Besides, the
+LINE 2326: injunction to 'forage on the enemy' only means that when an army is
+LINE 2327: deeply engaged in hostile territory, scarcity of food must be provided
+LINE 2328: against. Hence, without being solely dependent on the enemy for corn,
+LINE 2329: we must forage in order that there may be an uninterrupted flow of
+LINE 2330: supplies. Then, again, there are places like salt deserts where
+LINE 2331: provisions being unobtainable, supplies from home cannot be dispensed
+LINE 2332: with."]
+LINE 2333: As many as seven hundred thousand families will be impeded in their
+LINE 2334: labor.
+LINE 2335: [Mei Yao-ch'en says: "Men will be lacking at the plough-tail." The
+LINE 2336: allusion is to the system of dividing land into nine parts, each
+LINE 2337: consisting of about 15 acres, the plot in the center being cultivated
+LINE 2338: on behalf of the State by the tenants of the other eight. It was here
+LINE 2339: also, so Tu Mu tells us, that their cottages were built and a well
+LINE 2340: sunk, to be used by all in common. [See II. § 12, note.] In time of
+LINE 2341: war, one of the families had to serve in the army, while the other
+LINE 2342: seven contributed to its support. Thus, by a levy of 100,000 men
+LINE 2343: (reckoning one able-bodied soldier to each family) the husbandry of
+LINE 2344: 700,000 families would be affected.]
+LINE 2345: 2. Hostile armies may face each other for years, striving for the
+LINE 2346: victory which is decided in a single day. This being so, to remain in
+LINE 2347: ignorance of the enemy's condition simply because one grudges the
+LINE 2348: outlay of a hundred ounces of silver in honours and emoluments,
+LINE 2349: ["For spies" is of course the meaning, though it would spoil the effect
+LINE 2350: of this curiously elaborate exordium if spies were actually mentioned
+LINE 2351: at this point.]
+LINE 2352: is the height of inhumanity.
+LINE 2353: [Sun Tzŭ's agreement is certainly ingenious. He begins by adverting to
+LINE 2354: the frightful misery and vast expenditure of blood and treasure which
+LINE 2355: war always brings in its train. Now, unless you are kept informed of
+LINE 2356: the enemy's condition, and are ready to strike at the right moment, a
+LINE 2357: war may drag on for years. The only way to get this information is to
+LINE 2358: employ spies, and it is impossible to obtain trustworthy spies unless
+LINE 2359: they are properly paid for their services. But it is surely false
+LINE 2360: economy to grudge a comparatively trifling amount for this purpose,
+LINE 2361: when every day that the war lasts eats up an incalculably greater sum.
+LINE 2362: This grievous burden falls on the shoulders of the poor, and hence Sun
+LINE 2363: Tzŭ concludes that to neglect the use of spies is nothing less than a
+LINE 2364: crime against humanity.]
+LINE 2365: 3. One who acts thus is no leader of men, no present help to his
+LINE 2366: sovereign, no master of victory.
+LINE 2367: [This idea, that the true object of war is peace, has its root in the
+LINE 2368: national temperament of the Chinese. Even so far back as 597 B.C.,
+LINE 2369: these memorable words were uttered by Prince Chuang of the Ch'u State:
+LINE 2370: "The [Chinese] character for 'prowess' is made up of [the characters
+LINE 2371: for] 'to stay' and 'a spear' (cessation of hostilities). Military
+LINE 2372: prowess is seen in the repression of cruelty, the calling in of
+LINE 2373: weapons, the preservation of the appointment of Heaven, the firm
+LINE 2374: establishment of merit, the bestowal of happiness on the people,
+LINE 2375: putting harmony between the princes, the diffusion of wealth."]
+LINE 2376: 4. Thus, what enables the wise sovereign and the good general to strike
+LINE 2377: and conquer, and achieve things beyond the reach of ordinary men, is
+LINE 2378: _foreknowledge_.
+LINE 2379: [That is, knowledge of the enemy's dispositions, and what he means to
+LINE 2380: do.]
+LINE 2381: 5. Now this foreknowledge cannot be elicited from spirits; it cannot be
+LINE 2382: obtained inductively from experience,
+LINE 2383: [Tu Mu's note is: "[knowledge of the enemy] cannot be gained by
+LINE 2384: reasoning from other analogous cases."]
+LINE 2385: nor by any deductive calculation.
+LINE 2386: [Li Ch'uan says: "Quantities like length, breadth, distance and
+LINE 2387: magnitude, are susceptible of exact mathematical determination; human
+LINE 2388: actions cannot be so calculated."]
+LINE 2389: 6. Knowledge of the enemy's dispositions can only be obtained from
+LINE 2390: other men.
+LINE 2391: [Mei Yao-ch'en has rather an interesting note: "Knowledge of the
+LINE 2392: spirit-world is to be obtained by divination; information in natural
+LINE 2393: science may be sought by inductive reasoning; the laws of the universe
+LINE 2394: can be verified by mathematical calculation: but the dispositions of an
+LINE 2395: enemy are ascertainable through spies and spies alone."]
+LINE 2396: 7. Hence the use of spies, of whom there are five classes: (1) Local
+LINE 2397: spies; (2) inward spies; (3) converted spies; (4) doomed spies; (5)
+LINE 2398: surviving spies.
+LINE 2399: 8. When these five kinds of spy are all at work, none can discover the
+LINE 2400: secret system. This is called "divine manipulation of the threads." It
+LINE 2401: is the sovereign's most precious faculty.
+LINE 2402: [Cromwell, one of the greatest and most practical of all cavalry
+LINE 2403: leaders, had officers styled 'scout masters,' whose business it was to
+LINE 2404: collect all possible information regarding the enemy, through scouts
+LINE 2405: and spies, etc., and much of his success in war was traceable to the
+LINE 2406: previous knowledge of the enemy's moves thus gained." [1] ]
+LINE 2407: 9. Having _local spies_ means employing the services of the inhabitants
+LINE 2408: of a district.
+LINE 2409: [Tu Mu says: "In the enemy's country, win people over by kind
+LINE 2410: treatment, and use them as spies."]
+LINE 2411: 10. Having _inward spies_, making use of officials of the enemy.
+LINE 2412: [Tu Mu enumerates the following classes as likely to do good service in
+LINE 2413: this respect: "Worthy men who have been degraded from office, criminals
+LINE 2414: who have undergone punishment; also, favourite concubines who are greedy
+LINE 2415: for gold, men who are aggrieved at being in subordinate positions, or
+LINE 2416: who have been passed over in the distribution of posts, others who are
+LINE 2417: anxious that their side should be defeated in order that they may have
+LINE 2418: a chance of displaying their ability and talents, fickle turncoats who
+LINE 2419: always want to have a foot in each boat. Officials of these several
+LINE 2420: kinds," he continues, "should be secretly approached and bound to one's
+LINE 2421: interests by means of rich presents. In this way you will be able to
+LINE 2422: find out the state of affairs in the enemy's country, ascertain the
+LINE 2423: plans that are being formed against you, and moreover disturb the
+LINE 2424: harmony and create a breach between the sovereign and his ministers."
+LINE 2425: The necessity for extreme caution, however, in dealing with "inward
+LINE 2426: spies," appears from an historical incident related by Ho Shih: "Lo
+LINE 2427: Shang, Governor of I-Chou, sent his general Wei Po to attack the rebel
+LINE 2428: Li Hsiung of Shu in his stronghold at P'i. After each side had
+LINE 2429: experienced a number of victories and defeats, Li Hsiung had recourse
+LINE 2430: to the services of a certain P'o-t'ai, a native of Wu-tu. He began to
+LINE 2431: have him whipped until the blood came, and then sent him off to Lo
+LINE 2432: Shang, whom he was to delude by offering to cooperate with him from
+LINE 2433: inside the city, and to give a fire signal at the right moment for
+LINE 2434: making a general assault. Lo Shang, confiding in these promises, march
+LINE 2435: out all his best troops, and placed Wei Po and others at their head
+LINE 2436: with orders to attack at P'o-t'ai's bidding. Meanwhile, Li Hsiung's
+LINE 2437: general, Li Hsiang, had prepared an ambuscade on their line of march;
+LINE 2438: and P'o-t'ai, having reared long scaling-ladders against the city
+LINE 2439: walls, now lighted the beacon-fire. Wei Po's men raced up on seeing the
+LINE 2440: signal and began climbing the ladders as fast as they could, while
+LINE 2441: others were drawn up by ropes lowered from above. More than a hundred
+LINE 2442: of Lo Shang's soldiers entered the city in this way, every one of whom
+LINE 2443: was forthwith beheaded. Li Hsiung then charged with all his forces,
+LINE 2444: both inside and outside the city, and routed the enemy completely."
+LINE 2445: [This happened in 303 A.D. I do not know where Ho Shih got the story
+LINE 2446: from. It is not given in the biography of Li Hsiung or that of his
+LINE 2447: father Li T'e, _Chin Shu_, ch. 120, 121.]
+LINE 2448: 11. Having _converted spies_, getting hold of the enemy's spies and
+LINE 2449: using them for our own purposes.
+LINE 2450: [By means of heavy bribes and liberal promises detaching them from the
+LINE 2451: enemy's service, and inducing them to carry back false information as
+LINE 2452: well as to spy in turn on their own countrymen. On the other hand,
+LINE 2453: Hsiao Shih-hsien says that we pretend not to have detected him, but
+LINE 2454: contrive to let him carry away a false impression of what is going on.
+LINE 2455: Several of the commentators accept this as an alternative definition;
+LINE 2456: but that it is not what Sun Tzŭ meant is conclusively proved by his
+LINE 2457: subsequent remarks about treating the converted spy generously (§ 21
+LINE 2458: sqq.). Ho Shih notes three occasions on which converted spies were used
+LINE 2459: with conspicuous success: (1) by T'ien Tan in his defence of Chi-mo
+LINE 2460: (see _supra_, p. 90); (2) by Chao She on his march to O-yu (see p. 57);
+LINE 2461: and by the wily Fan Chu in 260 B.C., when Lien P'o was conducting a
+LINE 2462: defensive campaign against Ch'in. The King of Chao strongly disapproved
+LINE 2463: of Lien P'o's cautious and dilatory methods, which had been unable to
+LINE 2464: avert a series of minor disasters, and therefore lent a ready ear to
+LINE 2465: the reports of his spies, who had secretly gone over to the enemy and
+LINE 2466: were already in Fan Chu's pay. They said: "The only thing which causes
+LINE 2467: Ch'in anxiety is lest Chao Kua should be made general. Lien P'o they
+LINE 2468: consider an easy opponent, who is sure to be vanquished in the long
+LINE 2469: run." Now this Chao Kua was a son of the famous Chao She. From his
+LINE 2470: boyhood, he had been wholly engrossed in the study of war and military
+LINE 2471: matters, until at last he came to believe that there was no commander
+LINE 2472: in the whole Empire who could stand against him. His father was much
+LINE 2473: disquieted by this overweening conceit, and the flippancy with which he
+LINE 2474: spoke of such a serious thing as war, and solemnly declared that if
+LINE 2475: ever Kua was appointed general, he would bring ruin on the armies of
+LINE 2476: Chao. This was the man who, in spite of earnest protests from his own
+LINE 2477: mother and the veteran statesman Lin Hsiang-ju, was now sent to succeed
+LINE 2478: Lien P'o. Needless to say, he proved no match for the redoubtable Po
+LINE 2479: Ch'i and the great military power of Ch'in. He fell into a trap by
+LINE 2480: which his army was divided into two and his communications cut; and
+LINE 2481: after a desperate resistance lasting 46 days, during which the famished
+LINE 2482: soldiers devoured one another, he was himself killed by an arrow, and
+LINE 2483: his whole force, amounting, it is said, to 400,000 men, ruthlessly put
+LINE 2484: to the sword.]
+LINE 2485: 12. Having _doomed spies_, doing certain things openly for purposes of
+LINE 2486: deception, and allowing our own spies to know of them and report them
+LINE 2487: to the enemy.
+LINE 2488: [Tu Yu gives the best exposition of the meaning: "We ostentatiously do
+LINE 2489: things calculated to deceive our own spies, who must be led to believe
+LINE 2490: that they have been unwittingly disclosed. Then, when these spies are
+LINE 2491: captured in the enemy's lines, they will make an entirely false report,
+LINE 2492: and the enemy will take measures accordingly, only to find that we do
+LINE 2493: something quite different. The spies will thereupon be put to death."
+LINE 2494: As an example of doomed spies, Ho Shih mentions the prisoners released
+LINE 2495: by Pan Ch'ao in his campaign against Yarkand. (See p. 132.) He also
+LINE 2496: refers to T'ang Chien, who in 630 A.D. was sent by T'ai Tsung to lull
+LINE 2497: the Turkish Kahn Chieh-li into fancied security, until Li Ching was
+LINE 2498: able to deliver a crushing blow against him. Chang Yu says that the
+LINE 2499: Turks revenged themselves by killing T'ang Chien, but this is a
+LINE 2500: mistake, for we read in both the old and the New T'ang History (ch. 58,
+LINE 2501: fol. 2 and ch. 89, fol. 8 respectively) that he escaped and lived on
+LINE 2502: until 656. Li I-chi played a somewhat similar part in 203 B.C., when
+LINE 2503: sent by the King of Han to open peaceful negotiations with Ch'i. He has
+LINE 2504: certainly more claim to be described a "doomed spy", for the king of
+LINE 2505: Ch'i, being subsequently attacked without warning by Han Hsin, and
+LINE 2506: infuriated by what he considered the treachery of Li I-chi, ordered the
+LINE 2507: unfortunate envoy to be boiled alive.]
+LINE 2508: 13. _Surviving spies_, finally, are those who bring back news from the
+LINE 2509: enemy's camp.
+LINE 2510: [This is the ordinary class of spies, properly so called, forming a
+LINE 2511: regular part of the army. Tu Mu says: "Your surviving spy must be a man
+LINE 2512: of keen intellect, though in outward appearance a fool; of shabby
+LINE 2513: exterior, but with a will of iron. He must be active, robust, endowed
+LINE 2514: with physical strength and courage; thoroughly accustomed to all sorts
+LINE 2515: of dirty work, able to endure hunger and cold, and to put up with shame
+LINE 2516: and ignominy." Ho Shih tells the following story of Ta'hsi Wu of the
+LINE 2517: Sui dynasty: "When he was governor of Eastern Ch'in, Shen-wu of Ch'i
+LINE 2518: made a hostile movement upon Sha-yuan. The Emperor T'ai Tsu [? Kao Tsu]
+LINE 2519: sent Ta-hsi Wu to spy upon the enemy. He was accompanied by two other
+LINE 2520: men. All three were on horseback and wore the enemy's uniform. When it
+LINE 2521: was dark, they dismounted a few hundred feet away from the enemy's camp
+LINE 2522: and stealthily crept up to listen, until they succeeded in catching the
+LINE 2523: passwords used in the army. Then they got on their horses again and
+LINE 2524: boldly passed through the camp under the guise of night-watchmen; and
+LINE 2525: more than once, happening to come across a soldier who was committing
+LINE 2526: some breach of discipline, they actually stopped to give the culprit a
+LINE 2527: sound cudgeling! Thus they managed to return with the fullest possible
+LINE 2528: information about the enemy's dispositions, and received warm
+LINE 2529: commendation from the Emperor, who in consequence of their report was
+LINE 2530: able to inflict a severe defeat on his adversary."]
+LINE 2531: 14. Hence it is that with none in the whole army are more intimate
+LINE 2532: relations to be maintained than with spies.
+LINE 2533: [Tu Mu and Mei Yao-ch'en point out that the spy is privileged to enter
+LINE 2534: even the general's private sleeping-tent.]
+LINE 2535: None should be more liberally rewarded. In no other business should
+LINE 2536: greater secrecy be preserved.
+LINE 2537: [Tu Mu gives a graphic touch: all communication with spies should be
+LINE 2538: carried "mouth-to-ear." The following remarks on spies may be quoted
+LINE 2539: from Turenne, who made perhaps larger use of them than any previous
+LINE 2540: commander: "Spies are attached to those who give them most, he who pays
+LINE 2541: them ill is never served. They should never be known to anybody; nor
+LINE 2542: should they know one another. When they propose anything very material,
+LINE 2543: secure their persons, or have in your possession their wives and
+LINE 2544: children as hostages for their fidelity. Never communicate anything to
+LINE 2545: them but what is absolutely necessary that they should know. [2] ]
+LINE 2546: 15. Spies cannot be usefully employed without a certain intuitive
+LINE 2547: sagacity.
+LINE 2548: [Mei Yao-ch'en says: "In order to use them, one must know fact from
+LINE 2549: falsehood, and be able to discriminate between honesty and
+LINE 2550: double-dealing." Wang Hsi in a different interpretation thinks more
+LINE 2551: along the lines of "intuitive perception" and "practical intelligence."
+LINE 2552: Tu Mu strangely refers these attributes to the spies themselves:
+LINE 2553: "Before using spies we must assure ourselves as to their integrity of
+LINE 2554: character and the extent of their experience and skill." But he
+LINE 2555: continues: "A brazen face and a crafty disposition are more dangerous
+LINE 2556: than mountains or rivers; it takes a man of genius to penetrate such."
+LINE 2557: So that we are left in some doubt as to his real opinion on the
+LINE 2558: passage."]
+LINE 2559: 16. They cannot be properly managed without benevolence and
+LINE 2560: straightforwardness.
+LINE 2561: [Chang Yu says: "When you have attracted them by substantial offers,
+LINE 2562: you must treat them with absolute sincerity; then they will work for
+LINE 2563: you with all their might."]
+LINE 2564: 17. Without subtle ingenuity of mind, one cannot make certain of the
+LINE 2565: truth of their reports.
+LINE 2566: [Mei Yao-ch'en says: "Be on your guard against the possibility of spies
+LINE 2567: going over to the service of the enemy."]
+LINE 2568: 18. Be subtle! be subtle! and use your spies for every kind of
+LINE 2569: business.
+LINE 2570: [Cf. VI. § 9.]
+LINE 2571: 19. If a secret piece of news is divulged by a spy before the time is
+LINE 2572: ripe, he must be put to death together with the man to whom the secret
+LINE 2573: was told.
+LINE 2574: [Word for word, the translation here is: "If spy matters are heard
+LINE 2575: before [our plans] are carried out," etc. Sun Tzŭ's main point in this
+LINE 2576: passage is: Whereas you kill the spy himself "as a punishment for
+LINE 2577: letting out the secret," the object of killing the other man is only,
+LINE 2578: as Ch'en Hao puts it, "to stop his mouth" and prevent news leaking any
+LINE 2579: further. If it had already been repeated to others, this object would
+LINE 2580: not be gained. Either way, Sun Tzŭ lays himself open to the charge of
+LINE 2581: inhumanity, though Tu Mu tries to defend him by saying that the man
+LINE 2582: deserves to be put to death, for the spy would certainly not have told
+LINE 2583: the secret unless the other had been at pains to worm it out of him."]
+LINE 2584: 20. Whether the object be to crush an army, to storm a city, or to
+LINE 2585: assassinate an individual, it is always necessary to begin by finding
+LINE 2586: out the names of the attendants, the aides-de- camp,
+LINE 2587: [Literally "visitors", is equivalent, as Tu Yu says, to "those whose
+LINE 2588: duty it is to keep the general supplied with information," which
+LINE 2589: naturally necessitates frequent interviews with him.]
+LINE 2590: the door-keepers and sentries of the general in command. Our spies must
+LINE 2591: be commissioned to ascertain these.
+LINE 2592: [As the first step, no doubt towards finding out if any of these
+LINE 2593: important functionaries can be won over by bribery.]
+LINE 2594: 21. The enemy's spies who have come to spy on us must be sought out,
+LINE 2595: tempted with bribes, led away and comfortably housed. Thus they will
+LINE 2596: become converted spies and available for our service.
+LINE 2597: 22. It is through the information brought by the converted spy that we
+LINE 2598: are able to acquire and employ local and inward spies.
+LINE 2599: [Tu Yu says: "through conversion of the enemy's spies we learn the
+LINE 2600: enemy's condition." And Chang Yu says: "We must tempt the converted spy
+LINE 2601: into our service, because it is he that knows which of the local
+LINE 2602: inhabitants are greedy of gain, and which of the officials are open to
+LINE 2603: corruption."]
+LINE 2604: 23. It is owing to his information, again, that we can cause the doomed
+LINE 2605: spy to carry false tidings to the enemy.
+LINE 2606: [Chang Yu says, "because the converted spy knows how the enemy can best
+LINE 2607: be deceived."]
+LINE 2608: 24. Lastly, it is by his information that the surviving spy can be used
+LINE 2609: on appointed occasions.
+LINE 2610: 25. The end and aim of spying in all its five varieties is knowledge of
+LINE 2611: the enemy; and this knowledge can only be derived, in the first
+LINE 2612: instance, from the converted spy.
+LINE 2613: [As explained in §§ 22-24. He not only brings information himself, but
+LINE 2614: makes it possible to use the other kinds of spy to advantage.]
+LINE 2615: Hence it is essential that the converted spy be treated with the utmost
+LINE 2616: liberality.
+LINE 2617: 26. Of old, the rise of the Yin dynasty
+LINE 2618: [Sun Tzŭ means the Shang dynasty, founded in 1766 B.C. Its name was
+LINE 2619: changed to Yin by P'an Keng in 1401.
+LINE 2620: was due to I Chih
+LINE 2621: [Better known as I Yin, the famous general and statesman who took part
+LINE 2622: in Ch'eng T'ang's campaign against Chieh Kuei.]
+LINE 2623: who had served under the Hsia. Likewise, the rise of the Chou dynasty
+LINE 2624: was due to Lü Ya
+LINE 2625: [Lu Shang rose to high office under the tyrant Chou Hsin, whom he
+LINE 2626: afterwards helped to overthrow. Popularly known as T'ai Kung, a title
+LINE 2627: bestowed on him by Wen Wang, he is said to have composed a treatise on
+LINE 2628: war, erroneously identified with the _Liu T'ao_.]
+LINE 2629: who had served under the Yin.
+LINE 2630: [There is less precision in the Chinese than I have thought it well to
+LINE 2631: introduce into my translation, and the commentaries on the passage are
+LINE 2632: by no means explicit. But, having regard to the context, we can hardly
+LINE 2633: doubt that Sun Tzŭ is holding up I Chih and Lu Ya as illustrious
+LINE 2634: examples of the converted spy, or something closely analogous. His
+LINE 2635: suggestion is, that the Hsia and Yin dynasties were upset owing to the
+LINE 2636: intimate knowledge of their weaknesses and shortcoming which these
+LINE 2637: former ministers were able to impart to the other side. Mei Yao-ch'en
+LINE 2638: appears to resent any such aspersion on these historic names: "I Yin
+LINE 2639: and Lu Ya," he says, "were not rebels against the Government. Hsia
+LINE 2640: could not employ the former, hence Yin employed him. Yin could not
+LINE 2641: employ the latter, hence Hou employed him. Their great achievements
+LINE 2642: were all for the good of the people." Ho Shih is also indignant: "How
+LINE 2643: should two divinely inspired men such as I and Lu have acted as common
+LINE 2644: spies? Sun Tzŭ's mention of them simply means that the proper use of
+LINE 2645: the five classes of spies is a matter which requires men of the highest
+LINE 2646: mental caliber like I and Lu, whose wisdom and capacity qualified them
+LINE 2647: for the task. The above words only emphasize this point." Ho Shih
+LINE 2648: believes then that the two heroes are mentioned on account of their
+LINE 2649: supposed skill in the use of spies. But this is very weak.]
+LINE 2650: 27. Hence it is only the enlightened ruler and the wise general who
+LINE 2651: will use the highest intelligence of the army for purposes of spying
+LINE 2652: and thereby they achieve great results.
+LINE 2653: [Tu Mu closes with a note of warning: "Just as water, which carries a
+LINE 2654: boat from bank to bank, may also be the means of sinking it, so
+LINE 2655: reliance on spies, while production of great results, is oft-times the
+LINE 2656: cause of utter destruction."]
+LINE 2657: Spies are a most important element in war, because on them depends an
+LINE 2658: army's ability to move.
+LINE 2659: [Chia Lin says that an army without spies is like a man without ears or
+LINE 2660: eyes.
