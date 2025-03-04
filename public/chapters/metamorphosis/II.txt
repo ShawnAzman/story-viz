@@ -1,0 +1,592 @@
+LINE 1: It was not until it was getting dark that evening that Gregor awoke
+LINE 2: from his deep and coma-like sleep. He would have woken soon afterwards
+LINE 3: anyway even if he hadn't been disturbed, as he had had enough sleep and
+LINE 4: felt fully rested. But he had the impression that some hurried steps
+LINE 5: and the sound of the door leading into the front room being carefully
+LINE 6: shut had woken him. The light from the electric street lamps shone
+LINE 7: palely here and there onto the ceiling and tops of the furniture, but
+LINE 8: down below, where Gregor was, it was dark. He pushed himself over to
+LINE 9: the door, feeling his way clumsily with his antennae—of which he was
+LINE 10: now beginning to learn the value—in order to see what had been
+LINE 11: happening there. The whole of his left side seemed like one, painfully
+LINE 12: stretched scar, and he limped badly on his two rows of legs. One of the
+LINE 13: legs had been badly injured in the events of that morning—it was nearly
+LINE 14: a miracle that only one of them had been—and dragged along lifelessly.
+LINE 15: It was only when he had reached the door that he realised what it
+LINE 16: actually was that had drawn him over to it; it was the smell of
+LINE 17: something to eat. By the door there was a dish filled with sweetened
+LINE 18: milk with little pieces of white bread floating in it. He was so
+LINE 19: pleased he almost laughed, as he was even hungrier than he had been
+LINE 20: that morning, and immediately dipped his head into the milk, nearly
+LINE 21: covering his eyes with it. But he soon drew his head back again in
+LINE 22: disappointment; not only did the pain in his tender left side make it
+LINE 23: difficult to eat the food—he was only able to eat if his whole body
+LINE 24: worked together as a snuffling whole—but the milk did not taste at all
+LINE 25: nice. Milk like this was normally his favourite drink, and his sister
+LINE 26: had certainly left it there for him because of that, but he turned,
+LINE 27: almost against his own will, away from the dish and crawled back into
+LINE 28: the centre of the room.
+LINE 29: Through the crack in the door, Gregor could see that the gas had been
+LINE 30: lit in the living room. His father at this time would normally be sat
+LINE 31: with his evening paper, reading it out in a loud voice to Gregor's
+LINE 32: mother, and sometimes to his sister, but there was now not a sound to
+LINE 33: be heard. Gregor's sister would often write and tell him about this
+LINE 34: reading, but maybe his father had lost the habit in recent times. It
+LINE 35: was so quiet all around too, even though there must have been somebody
+LINE 36: in the flat. "What a quiet life it is the family lead", said Gregor to
+LINE 37: himself, and, gazing into the darkness, felt a great pride that he was
+LINE 38: able to provide a life like that in such a nice home for his sister and
+LINE 39: parents. But what now, if all this peace and wealth and comfort should
+LINE 40: come to a horrible and frightening end? That was something that Gregor
+LINE 41: did not want to think about too much, so he started to move about,
+LINE 42: crawling up and down the room.
+LINE 43: Once during that long evening, the door on one side of the room was
+LINE 44: opened very slightly and hurriedly closed again; later on the door on
+LINE 45: the other side did the same; it seemed that someone needed to enter the
+LINE 46: room but thought better of it. Gregor went and waited immediately by
+LINE 47: the door, resolved either to bring the timorous visitor into the room
+LINE 48: in some way or at least to find out who it was; but the door was opened
+LINE 49: no more that night and Gregor waited in vain. The previous morning
+LINE 50: while the doors were locked everyone had wanted to get in there to him,
+LINE 51: but now, now that he had opened up one of the doors and the other had
+LINE 52: clearly been unlocked some time during the day, no-one came, and the
+LINE 53: keys were in the other sides.
+LINE 54: It was not until late at night that the gaslight in the living room was
+LINE 55: put out, and now it was easy to see that his parents and sister had
+LINE 56: stayed awake all that time, as they all could be distinctly heard as
+LINE 57: they went away together on tip-toe. It was clear that no-one would come
+LINE 58: into Gregor's room any more until morning; that gave him plenty of time
+LINE 59: to think undisturbed about how he would have to re-arrange his life.
+LINE 60: For some reason, the tall, empty room where he was forced to remain
+LINE 61: made him feel uneasy as he lay there flat on the floor, even though he
+LINE 62: had been living in it for five years. Hardly aware of what he was doing
+LINE 63: other than a slight feeling of shame, he hurried under the couch. It
+LINE 64: pressed down on his back a little, and he was no longer able to lift
+LINE 65: his head, but he nonetheless felt immediately at ease and his only
+LINE 66: regret was that his body was too broad to get it all underneath.
+LINE 67: He spent the whole night there. Some of the time he passed in a light
+LINE 68: sleep, although he frequently woke from it in alarm because of his
+LINE 69: hunger, and some of the time was spent in worries and vague hopes
+LINE 70: which, however, always led to the same conclusion: for the time being
+LINE 71: he must remain calm, he must show patience and the greatest
+LINE 72: consideration so that his family could bear the unpleasantness that he,
+LINE 73: in his present condition, was forced to impose on them.
+LINE 74: Gregor soon had the opportunity to test the strength of his decisions,
+LINE 75: as early the next morning, almost before the night had ended, his
+LINE 76: sister, nearly fully dressed, opened the door from the front room and
+LINE 77: looked anxiously in. She did not see him straight away, but when she
+LINE 78: did notice him under the couch—he had to be somewhere, for God's sake,
+LINE 79: he couldn't have flown away—she was so shocked that she lost control of
+LINE 80: herself and slammed the door shut again from outside. But she seemed to
+LINE 81: regret her behaviour, as she opened the door again straight away and
+LINE 82: came in on tip-toe as if entering the room of someone seriously ill or
+LINE 83: even of a stranger. Gregor had pushed his head forward, right to the
+LINE 84: edge of the couch, and watched her. Would she notice that he had left
+LINE 85: the milk as it was, realise that it was not from any lack of hunger and
+LINE 86: bring him in some other food that was more suitable? If she didn't do
+LINE 87: it herself he would rather go hungry than draw her attention to it,
+LINE 88: although he did feel a terrible urge to rush forward from under the
+LINE 89: couch, throw himself at his sister's feet and beg her for something
+LINE 90: good to eat. However, his sister noticed the full dish immediately and
+LINE 91: looked at it and the few drops of milk splashed around it with some
+LINE 92: surprise. She immediately picked it up—using a rag, not her bare
+LINE 93: hands—and carried it out. Gregor was extremely curious as to what she
+LINE 94: would bring in its place, imagining the wildest possibilities, but he
+LINE 95: never could have guessed what his sister, in her goodness, actually did
+LINE 96: bring. In order to test his taste, she brought him a whole selection of
+LINE 97: things, all spread out on an old newspaper. There were old, half-rotten
+LINE 98: vegetables; bones from the evening meal, covered in white sauce that
+LINE 99: had gone hard; a few raisins and almonds; some cheese that Gregor had
+LINE 100: declared inedible two days before; a dry roll and some bread spread
+LINE 101: with butter and salt. As well as all that she had poured some water
+LINE 102: into the dish, which had probably been permanently set aside for
+LINE 103: Gregor's use, and placed it beside them. Then, out of consideration for
+LINE 104: Gregor's feelings, as she knew that he would not eat in front of her,
+LINE 105: she hurried out again and even turned the key in the lock so that
+LINE 106: Gregor would know he could make things as comfortable for himself as he
+LINE 107: liked. Gregor's little legs whirred, at last he could eat. What's more,
+LINE 108: his injuries must already have completely healed as he found no
+LINE 109: difficulty in moving. This amazed him, as more than a month earlier he
+LINE 110: had cut his finger slightly with a knife, he thought of how his finger
+LINE 111: had still hurt the day before yesterday. "Am I less sensitive than I
+LINE 112: used to be, then?", he thought, and was already sucking greedily at the
+LINE 113: cheese which had immediately, almost compellingly, attracted him much
+LINE 114: more than the other foods on the newspaper. Quickly one after another,
+LINE 115: his eyes watering with pleasure, he consumed the cheese, the vegetables
+LINE 116: and the sauce; the fresh foods, on the other hand, he didn't like at
+LINE 117: all, and even dragged the things he did want to eat a little way away
+LINE 118: from them because he couldn't stand the smell. Long after he had
+LINE 119: finished eating and lay lethargic in the same place, his sister slowly
+LINE 120: turned the key in the lock as a sign to him that he should withdraw. He
+LINE 121: was immediately startled, although he had been half asleep, and he
+LINE 122: hurried back under the couch. But he needed great self-control to stay
+LINE 123: there even for the short time that his sister was in the room, as
+LINE 124: eating so much food had rounded out his body a little and he could
+LINE 125: hardly breathe in that narrow space. Half suffocating, he watched with
+LINE 126: bulging eyes as his sister unselfconsciously took a broom and swept up
+LINE 127: the left-overs, mixing them in with the food he had not even touched at
+LINE 128: all as if it could not be used any more. She quickly dropped it all
+LINE 129: into a bin, closed it with its wooden lid, and carried everything out.
+LINE 130: She had hardly turned her back before Gregor came out again from under
+LINE 131: the couch and stretched himself.
+LINE 132: This was how Gregor received his food each day now, once in the morning
+LINE 133: while his parents and the maid were still asleep, and the second time
+LINE 134: after everyone had eaten their meal at midday as his parents would
+LINE 135: sleep for a little while then as well, and Gregor's sister would send
+LINE 136: the maid away on some errand. Gregor's father and mother certainly did
+LINE 137: not want him to starve either, but perhaps it would have been more than
+LINE 138: they could stand to have any more experience of his feeding than being
+LINE 139: told about it, and perhaps his sister wanted to spare them what
+LINE 140: distress she could as they were indeed suffering enough.
+LINE 141: It was impossible for Gregor to find out what they had told the doctor
+LINE 142: and the locksmith that first morning to get them out of the flat. As
+LINE 143: nobody could understand him, nobody, not even his sister, thought that
+LINE 144: he could understand them, so he had to be content to hear his sister's
+LINE 145: sighs and appeals to the saints as she moved about his room. It was
+LINE 146: only later, when she had become a little more used to everything—there
+LINE 147: was, of course, no question of her ever becoming fully used to the
+LINE 148: situation—that Gregor would sometimes catch a friendly comment, or at
+LINE 149: least a comment that could be construed as friendly. "He's enjoyed his
+LINE 150: dinner today", she might say when he had diligently cleared away all
+LINE 151: the food left for him, or if he left most of it, which slowly became
+LINE 152: more and more frequent, she would often say, sadly, "now everything's
+LINE 153: just been left there again".
+LINE 154: Although Gregor wasn't able to hear any news directly he did listen to
+LINE 155: much of what was said in the next rooms, and whenever he heard anyone
+LINE 156: speaking he would scurry straight to the appropriate door and press his
+LINE 157: whole body against it. There was seldom any conversation, especially at
+LINE 158: first, that was not about him in some way, even if only in secret. For
+LINE 159: two whole days, all the talk at every mealtime was about what they
+LINE 160: should do now; but even between meals they spoke about the same subject
+LINE 161: as there were always at least two members of the family at home—nobody
+LINE 162: wanted to be at home by themselves and it was out of the question to
+LINE 163: leave the flat entirely empty. And on the very first day the maid had
+LINE 164: fallen to her knees and begged Gregor's mother to let her go without
+LINE 165: delay. It was not very clear how much she knew of what had happened but
+LINE 166: she left within a quarter of an hour, tearfully thanking Gregor's
+LINE 167: mother for her dismissal as if she had done her an enormous service.
+LINE 168: She even swore emphatically not to tell anyone the slightest about what
+LINE 169: had happened, even though no-one had asked that of her.
+LINE 170: Now Gregor's sister also had to help his mother with the cooking;
+LINE 171: although that was not so much bother as no-one ate very much. Gregor
+LINE 172: often heard how one of them would unsuccessfully urge another to eat,
+LINE 173: and receive no more answer than "no thanks, I've had enough" or
+LINE 174: something similar. No-one drank very much either. His sister would
+LINE 175: sometimes ask his father whether he would like a beer, hoping for the
+LINE 176: chance to go and fetch it herself. When his father then said nothing
+LINE 177: she would add, so that he would not feel selfish, that she could send
+LINE 178: the housekeeper for it, but then his father would close the matter with
+LINE 179: a big, loud "No", and no more would be said.
+LINE 180: Even before the first day had come to an end, his father had explained
+LINE 181: to Gregor's mother and sister what their finances and prospects were.
+LINE 182: Now and then he stood up from the table and took some receipt or
+LINE 183: document from the little cash box he had saved from his business when
+LINE 184: it had collapsed five years earlier. Gregor heard how he opened the
+LINE 185: complicated lock and then closed it again after he had taken the item
+LINE 186: he wanted. What he heard his father say was some of the first good news
+LINE 187: that Gregor heard since he had first been incarcerated in his room. He
+LINE 188: had thought that nothing at all remained from his father's business, at
+LINE 189: least he had never told him anything different, and Gregor had never
+LINE 190: asked him about it anyway. Their business misfortune had reduced the
+LINE 191: family to a state of total despair, and Gregor's only concern at that
+LINE 192: time had been to arrange things so that they could all forget about it
+LINE 193: as quickly as possible. So then he started working especially hard,
+LINE 194: with a fiery vigour that raised him from a junior salesman to a
+LINE 195: travelling representative almost overnight, bringing with it the chance
+LINE 196: to earn money in quite different ways. Gregor converted his success at
+LINE 197: work straight into cash that he could lay on the table at home for the
+LINE 198: benefit of his astonished and delighted family. They had been good
+LINE 199: times and they had never come again, at least not with the same
+LINE 200: splendour, even though Gregor had later earned so much that he was in a
+LINE 201: position to bear the costs of the whole family, and did bear them. They
+LINE 202: had even got used to it, both Gregor and the family, they took the
+LINE 203: money with gratitude and he was glad to provide it, although there was
+LINE 204: no longer much warm affection given in return. Gregor only remained
+LINE 205: close to his sister now. Unlike him, she was very fond of music and a
+LINE 206: gifted and expressive violinist, it was his secret plan to send her to
+LINE 207: the conservatory next year even though it would cause great expense
+LINE 208: that would have to be made up for in some other way. During Gregor's
+LINE 209: short periods in town, conversation with his sister would often turn to
+LINE 210: the conservatory but it was only ever mentioned as a lovely dream that
+LINE 211: could never be realised. Their parents did not like to hear this
+LINE 212: innocent talk, but Gregor thought about it quite hard and decided he
+LINE 213: would let them know what he planned with a grand announcement of it on
+LINE 214: Christmas day.
+LINE 215: That was the sort of totally pointless thing that went through his mind
+LINE 216: in his present state, pressed upright against the door and listening.
+LINE 217: There were times when he simply became too tired to continue listening,
+LINE 218: when his head would fall wearily against the door and he would pull it
+LINE 219: up again with a start, as even the slightest noise he caused would be
+LINE 220: heard next door and they would all go silent. "What's that he's doing
+LINE 221: now", his father would say after a while, clearly having gone over to
+LINE 222: the door, and only then would the interrupted conversation slowly be
+LINE 223: taken up again.
+LINE 224: When explaining things, his father repeated himself several times,
+LINE 225: partly because it was a long time since he had been occupied with these
+LINE 226: matters himself and partly because Gregor's mother did not understand
+LINE 227: everything the first time. From these repeated explanations Gregor
+LINE 228: learned, to his pleasure, that despite all their misfortunes there was
+LINE 229: still some money available from the old days. It was not a lot, but it
+LINE 230: had not been touched in the meantime and some interest had accumulated.
+LINE 231: Besides that, they had not been using up all the money that Gregor had
+LINE 232: been bringing home every month, keeping only a little for himself, so
+LINE 233: that that, too, had been accumulating. Behind the door, Gregor nodded
+LINE 234: with enthusiasm in his pleasure at this unexpected thrift and caution.
+LINE 235: He could actually have used this surplus money to reduce his father's
+LINE 236: debt to his boss, and the day when he could have freed himself from
+LINE 237: that job would have come much closer, but now it was certainly better
+LINE 238: the way his father had done things.
+LINE 239: This money, however, was certainly not enough to enable the family to
+LINE 240: live off the interest; it was enough to maintain them for, perhaps, one
+LINE 241: or two years, no more. That's to say, it was money that should not
+LINE 242: really be touched but set aside for emergencies; money to live on had
+LINE 243: to be earned. His father was healthy but old, and lacking in self
+LINE 244: confidence. During the five years that he had not been working—the
+LINE 245: first holiday in a life that had been full of strain and no success—he
+LINE 246: had put on a lot of weight and become very slow and clumsy. Would
+LINE 247: Gregor's elderly mother now have to go and earn money? She suffered
+LINE 248: from asthma and it was a strain for her just to move about the home,
+LINE 249: every other day would be spent struggling for breath on the sofa by the
+LINE 250: open window. Would his sister have to go and earn money? She was still
+LINE 251: a child of seventeen, her life up till then had been very enviable,
+LINE 252: consisting of wearing nice clothes, sleeping late, helping out in the
+LINE 253: business, joining in with a few modest pleasures and most of all
+LINE 254: playing the violin. Whenever they began to talk of the need to earn
+LINE 255: money, Gregor would always first let go of the door and then throw
+LINE 256: himself onto the cool, leather sofa next to it, as he became quite hot
+LINE 257: with shame and regret.
+LINE 258: He would often lie there the whole night through, not sleeping a wink
+LINE 259: but scratching at the leather for hours on end. Or he might go to all
+LINE 260: the effort of pushing a chair to the window, climbing up onto the sill
+LINE 261: and, propped up in the chair, leaning on the window to stare out of it.
+LINE 262: He had used to feel a great sense of freedom from doing this, but doing
+LINE 263: it now was obviously something more remembered than experienced, as
+LINE 264: what he actually saw in this way was becoming less distinct every day,
+LINE 265: even things that were quite near; he had used to curse the ever-present
+LINE 266: view of the hospital across the street, but now he could not see it at
+LINE 267: all, and if he had not known that he lived in Charlottenstrasse, which
+LINE 268: was a quiet street despite being in the middle of the city, he could
+LINE 269: have thought that he was looking out the window at a barren waste where
+LINE 270: the grey sky and the grey earth mingled inseparably. His observant
+LINE 271: sister only needed to notice the chair twice before she would always
+LINE 272: push it back to its exact position by the window after she had tidied
+LINE 273: up the room, and even left the inner pane of the window open from then
+LINE 274: on.
+LINE 275: If Gregor had only been able to speak to his sister and thank her for
+LINE 276: all that she had to do for him it would have been easier for him to
+LINE 277: bear it; but as it was it caused him pain. His sister, naturally, tried
+LINE 278: as far as possible to pretend there was nothing burdensome about it,
+LINE 279: and the longer it went on, of course, the better she was able to do so,
+LINE 280: but as time went by Gregor was also able to see through it all so much
+LINE 281: better. It had even become very unpleasant for him, now, whenever she
+LINE 282: entered the room. No sooner had she come in than she would quickly
+LINE 283: close the door as a precaution so that no-one would have to suffer the
+LINE 284: view into Gregor's room, then she would go straight to the window and
+LINE 285: pull it hurriedly open almost as if she were suffocating. Even if it
+LINE 286: was cold, she would stay at the window breathing deeply for a little
+LINE 287: while. She would alarm Gregor twice a day with this running about and
+LINE 288: noise making; he would stay under the couch shivering the whole while,
+LINE 289: knowing full well that she would certainly have liked to spare him this
+LINE 290: ordeal, but it was impossible for her to be in the same room with him
+LINE 291: with the windows closed.
+LINE 292: One day, about a month after Gregor's transformation when his sister no
+LINE 293: longer had any particular reason to be shocked at his appearance, she
+LINE 294: came into the room a little earlier than usual and found him still
+LINE 295: staring out the window, motionless, and just where he would be most
+LINE 296: horrible. In itself, his sister's not coming into the room would have
+LINE 297: been no surprise for Gregor as it would have been difficult for her to
+LINE 298: immediately open the window while he was still there, but not only did
+LINE 299: she not come in, she went straight back and closed the door behind her,
+LINE 300: a stranger would have thought he had threatened her and tried to bite
+LINE 301: her. Gregor went straight to hide himself under the couch, of course,
+LINE 302: but he had to wait until midday before his sister came back and she
+LINE 303: seemed much more uneasy than usual. It made him realise that she still
+LINE 304: found his appearance unbearable and would continue to do so, she
+LINE 305: probably even had to overcome the urge to flee when she saw the little
+LINE 306: bit of him that protruded from under the couch. One day, in order to
+LINE 307: spare her even this sight, he spent four hours carrying the bedsheet
+LINE 308: over to the couch on his back and arranged it so that he was completely
+LINE 309: covered and his sister would not be able to see him even if she bent
+LINE 310: down. If she did not think this sheet was necessary then all she had to
+LINE 311: do was take it off again, as it was clear enough that it was no
+LINE 312: pleasure for Gregor to cut himself off so completely. She left the
+LINE 313: sheet where it was. Gregor even thought he glimpsed a look of gratitude
+LINE 314: one time when he carefully looked out from under the sheet to see how
+LINE 315: his sister liked the new arrangement.
+LINE 316: For the first fourteen days, Gregor's parents could not bring
+LINE 317: themselves to come into the room to see him. He would often hear them
+LINE 318: say how they appreciated all the new work his sister was doing even
+LINE 319: though, before, they had seen her as a girl who was somewhat useless
+LINE 320: and frequently been annoyed with her. But now the two of them, father
+LINE 321: and mother, would often both wait outside the door of Gregor's room
+LINE 322: while his sister tidied up in there, and as soon as she went out again
+LINE 323: she would have to tell them exactly how everything looked, what Gregor
+LINE 324: had eaten, how he had behaved this time and whether, perhaps, any
+LINE 325: slight improvement could be seen. His mother also wanted to go in and
+LINE 326: visit Gregor relatively soon but his father and sister at first
+LINE 327: persuaded her against it. Gregor listened very closely to all this, and
+LINE 328: approved fully. Later, though, she had to be held back by force, which
+LINE 329: made her call out: "Let me go and see Gregor, he is my unfortunate son!
+LINE 330: Can't you understand I have to see him?", and Gregor would think to
+LINE 331: himself that maybe it would be better if his mother came in, not every
+LINE 332: day of course, but one day a week, perhaps; she could understand
+LINE 333: everything much better than his sister who, for all her courage, was
+LINE 334: still just a child after all, and really might not have had an adult's
+LINE 335: appreciation of the burdensome job she had taken on.
+LINE 336: Gregor's wish to see his mother was soon realised. Out of consideration
+LINE 337: for his parents, Gregor wanted to avoid being seen at the window during
+LINE 338: the day, the few square meters of the floor did not give him much room
+LINE 339: to crawl about, it was hard to just lie quietly through the night, his
+LINE 340: food soon stopped giving him any pleasure at all, and so, to entertain
+LINE 341: himself, he got into the habit of crawling up and down the walls and
+LINE 342: ceiling. He was especially fond of hanging from the ceiling; it was
+LINE 343: quite different from lying on the floor; he could breathe more freely;
+LINE 344: his body had a light swing to it; and up there, relaxed and almost
+LINE 345: happy, it might happen that he would surprise even himself by letting
+LINE 346: go of the ceiling and landing on the floor with a crash. But now, of
+LINE 347: course, he had far better control of his body than before and, even
+LINE 348: with a fall as great as that, caused himself no damage. Very soon his
+LINE 349: sister noticed Gregor's new way of entertaining himself—he had, after
+LINE 350: all, left traces of the adhesive from his feet as he crawled about—and
+LINE 351: got it into her head to make it as easy as possible for him by removing
+LINE 352: the furniture that got in his way, especially the chest of drawers and
+LINE 353: the desk. Now, this was not something that she would be able to do by
+LINE 354: herself; she did not dare to ask for help from her father; the sixteen
+LINE 355: year old maid had carried on bravely since the cook had left but she
+LINE 356: certainly would not have helped in this, she had even asked to be
+LINE 357: allowed to keep the kitchen locked at all times and never to have to
+LINE 358: open the door unless it was especially important; so his sister had no
+LINE 359: choice but to choose some time when Gregor's father was not there and
+LINE 360: fetch his mother to help her. As she approached the room, Gregor could
+LINE 361: hear his mother express her joy, but once at the door she went silent.
+LINE 362: First, of course, his sister came in and looked round to see that
+LINE 363: everything in the room was alright; and only then did she let her
+LINE 364: mother enter. Gregor had hurriedly pulled the sheet down lower over the
+LINE 365: couch and put more folds into it so that everything really looked as if
+LINE 366: it had just been thrown down by chance. Gregor also refrained, this
+LINE 367: time, from spying out from under the sheet; he gave up the chance to
+LINE 368: see his mother until later and was simply glad that she had come. "You
+LINE 369: can come in, he can't be seen", said his sister, obviously leading her
+LINE 370: in by the hand. The old chest of drawers was too heavy for a pair of
+LINE 371: feeble women to be heaving about, but Gregor listened as they pushed it
+LINE 372: from its place, his sister always taking on the heaviest part of the
+LINE 373: work for herself and ignoring her mother's warnings that she would
+LINE 374: strain herself. This lasted a very long time. After labouring at it for
+LINE 375: fifteen minutes or more his mother said it would be better to leave the
+LINE 376: chest where it was, for one thing it was too heavy for them to get the
+LINE 377: job finished before Gregor's father got home and leaving it in the
+LINE 378: middle of the room it would be in his way even more, and for another
+LINE 379: thing it wasn't even sure that taking the furniture away would really
+LINE 380: be any help to him. She thought just the opposite; the sight of the
+LINE 381: bare walls saddened her right to her heart; and why wouldn't Gregor
+LINE 382: feel the same way about it, he'd been used to this furniture in his
+LINE 383: room for a long time and it would make him feel abandoned to be in an
+LINE 384: empty room like that. Then, quietly, almost whispering as if wanting
+LINE 385: Gregor (whose whereabouts she did not know) to hear not even the tone
+LINE 386: of her voice, as she was convinced that he did not understand her
+LINE 387: words, she added "and by taking the furniture away, won't it seem like
+LINE 388: we're showing that we've given up all hope of improvement and we're
+LINE 389: abandoning him to cope for himself? I think it'd be best to leave the
+LINE 390: room exactly the way it was before so that when Gregor comes back to us
+LINE 391: again he'll find everything unchanged and he'll be able to forget the
+LINE 392: time in between all the easier".
+LINE 393: Hearing these words from his mother made Gregor realise that the lack
+LINE 394: of any direct human communication, along with the monotonous life led
+LINE 395: by the family during these two months, must have made him confused—he
+LINE 396: could think of no other way of explaining to himself why he had
+LINE 397: seriously wanted his room emptied out. Had he really wanted to
+LINE 398: transform his room into a cave, a warm room fitted out with the nice
+LINE 399: furniture he had inherited? That would have let him crawl around
+LINE 400: unimpeded in any direction, but it would also have let him quickly
+LINE 401: forget his past when he had still been human. He had come very close to
+LINE 402: forgetting, and it had only been the voice of his mother, unheard for
+LINE 403: so long, that had shaken him out of it. Nothing should be removed;
+LINE 404: everything had to stay; he could not do without the good influence the
+LINE 405: furniture had on his condition; and if the furniture made it difficult
+LINE 406: for him to crawl about mindlessly that was not a loss but a great
+LINE 407: advantage.
+LINE 408: His sister, unfortunately, did not agree; she had become used to the
+LINE 409: idea, not without reason, that she was Gregor's spokesman to his
+LINE 410: parents about the things that concerned him. This meant that his
+LINE 411: mother's advice now was sufficient reason for her to insist on removing
+LINE 412: not only the chest of drawers and the desk, as she had thought at
+LINE 413: first, but all the furniture apart from the all-important couch. It was
+LINE 414: more than childish perversity, of course, or the unexpected confidence
+LINE 415: she had recently acquired, that made her insist; she had indeed noticed
+LINE 416: that Gregor needed a lot of room to crawl about in, whereas the
+LINE 417: furniture, as far as anyone could see, was of no use to him at all.
+LINE 418: Girls of that age, though, do become enthusiastic about things and feel
+LINE 419: they must get their way whenever they can. Perhaps this was what
+LINE 420: tempted Grete to make Gregor's situation seem even more shocking than
+LINE 421: it was so that she could do even more for him. Grete would probably be
+LINE 422: the only one who would dare enter a room dominated by Gregor crawling
+LINE 423: about the bare walls by himself.
+LINE 424: So she refused to let her mother dissuade her. Gregor's mother already
+LINE 425: looked uneasy in his room, she soon stopped speaking and helped
+LINE 426: Gregor's sister to get the chest of drawers out with what strength she
+LINE 427: had. The chest of drawers was something that Gregor could do without if
+LINE 428: he had to, but the writing desk had to stay. Hardly had the two women
+LINE 429: pushed the chest of drawers, groaning, out of the room than Gregor
+LINE 430: poked his head out from under the couch to see what he could do about
+LINE 431: it. He meant to be as careful and considerate as he could, but,
+LINE 432: unfortunately, it was his mother who came back first while Grete in the
+LINE 433: next room had her arms round the chest, pushing and pulling at it from
+LINE 434: side to side by herself without, of course, moving it an inch. His
+LINE 435: mother was not used to the sight of Gregor, he might have made her ill,
+LINE 436: so Gregor hurried backwards to the far end of the couch. In his
+LINE 437: startlement, though, he was not able to prevent the sheet at its front
+LINE 438: from moving a little. It was enough to attract his mother's attention.
+LINE 439: She stood very still, remained there a moment, and then went back out
+LINE 440: to Grete.
+LINE 441: Gregor kept trying to assure himself that nothing unusual was
+LINE 442: happening, it was just a few pieces of furniture being moved after all,
+LINE 443: but he soon had to admit that the women going to and fro, their little
+LINE 444: calls to each other, the scraping of the furniture on the floor, all
+LINE 445: these things made him feel as if he were being assailed from all sides.
+LINE 446: With his head and legs pulled in against him and his body pressed to
+LINE 447: the floor, he was forced to admit to himself that he could not stand
+LINE 448: all of this much longer. They were emptying his room out; taking away
+LINE 449: everything that was dear to him; they had already taken out the chest
+LINE 450: containing his fretsaw and other tools; now they threatened to remove
+LINE 451: the writing desk with its place clearly worn into the floor, the desk
+LINE 452: where he had done his homework as a business trainee, at high school,
+LINE 453: even while he had been at infant school—he really could not wait any
+LINE 454: longer to see whether the two women's intentions were good. He had
+LINE 455: nearly forgotten they were there anyway, as they were now too tired to
+LINE 456: say anything while they worked and he could only hear their feet as
+LINE 457: they stepped heavily on the floor.
+LINE 458: So, while the women were leant against the desk in the other room
+LINE 459: catching their breath, he sallied out, changed direction four times not
+LINE 460: knowing what he should save first before his attention was suddenly
+LINE 461: caught by the picture on the wall—which was already denuded of
+LINE 462: everything else that had been on it—of the lady dressed in copious fur.
+LINE 463: He hurried up onto the picture and pressed himself against its glass,
+LINE 464: it held him firmly and felt good on his hot belly. This picture at
+LINE 465: least, now totally covered by Gregor, would certainly be taken away by
+LINE 466: no-one. He turned his head to face the door into the living room so
+LINE 467: that he could watch the women when they came back.
+LINE 468: They had not allowed themselves a long rest and came back quite soon;
+LINE 469: Grete had put her arm around her mother and was nearly carrying her.
+LINE 470: "What shall we take now, then?", said Grete and looked around. Her eyes
+LINE 471: met those of Gregor on the wall. Perhaps only because her mother was
+LINE 472: there, she remained calm, bent her face to her so that she would not
+LINE 473: look round and said, albeit hurriedly and with a tremor in her voice:
+LINE 474: "Come on, let's go back in the living room for a while?" Gregor could
+LINE 475: see what Grete had in mind, she wanted to take her mother somewhere
+LINE 476: safe and then chase him down from the wall. Well, she could certainly
+LINE 477: try it! He sat unyielding on his picture. He would rather jump at
+LINE 478: Grete's face.
+LINE 479: But Grete's words had made her mother quite worried, she stepped to one
+LINE 480: side, saw the enormous brown patch against the flowers of the
+LINE 481: wallpaper, and before she even realised it was Gregor that she saw
+LINE 482: screamed: "Oh God, oh God!" Arms outstretched, she fell onto the couch
+LINE 483: as if she had given up everything and stayed there immobile. "Gregor!"
+LINE 484: shouted his sister, glowering at him and shaking her fist. That was the
+LINE 485: first word she had spoken to him directly since his transformation. She
+LINE 486: ran into the other room to fetch some kind of smelling salts to bring
+LINE 487: her mother out of her faint; Gregor wanted to help too—he could save
+LINE 488: his picture later, although he stuck fast to the glass and had to pull
+LINE 489: himself off by force; then he, too, ran into the next room as if he
+LINE 490: could advise his sister like in the old days; but he had to just stand
+LINE 491: behind her doing nothing; she was looking into various bottles, he
+LINE 492: startled her when she turned round; a bottle fell to the ground and
+LINE 493: broke; a splinter cut Gregor's face, some kind of caustic medicine
+LINE 494: splashed all over him; now, without delaying any longer, Grete took
+LINE 495: hold of all the bottles she could and ran with them in to her mother;
+LINE 496: she slammed the door shut with her foot. So now Gregor was shut out
+LINE 497: from his mother, who, because of him, might be near to death; he could
+LINE 498: not open the door if he did not want to chase his sister away, and she
+LINE 499: had to stay with his mother; there was nothing for him to do but wait;
+LINE 500: and, oppressed with anxiety and self-reproach, he began to crawl about,
+LINE 501: he crawled over everything, walls, furniture, ceiling, and finally in
+LINE 502: his confusion as the whole room began to spin around him he fell down
+LINE 503: into the middle of the dinner table.
+LINE 504: He lay there for a while, numb and immobile, all around him it was
+LINE 505: quiet, maybe that was a good sign. Then there was someone at the door.
+LINE 506: The maid, of course, had locked herself in her kitchen so that Grete
+LINE 507: would have to go and answer it. His father had arrived home. "What's
+LINE 508: happened?" were his first words; Grete's appearance must have made
+LINE 509: everything clear to him. She answered him with subdued voice, and
+LINE 510: openly pressed her face into his chest: "Mother's fainted, but she's
+LINE 511: better now. Gregor got out." "Just as I expected", said his father,
+LINE 512: "just as I always said, but you women wouldn't listen, would you." It
+LINE 513: was clear to Gregor that Grete had not said enough and that his father
+LINE 514: took it to mean that something bad had happened, that he was
+LINE 515: responsible for some act of violence. That meant Gregor would now have
+LINE 516: to try to calm his father, as he did not have the time to explain
+LINE 517: things to him even if that had been possible. So he fled to the door of
+LINE 518: his room and pressed himself against it so that his father, when he
+LINE 519: came in from the hall, could see straight away that Gregor had the best
+LINE 520: intentions and would go back into his room without delay, that it would
+LINE 521: not be necessary to drive him back but that they had only to open the
+LINE 522: door and he would disappear.
+LINE 523: His father, though, was not in the mood to notice subtleties like that;
+LINE 524: "Ah!", he shouted as he came in, sounding as if he were both angry and
+LINE 525: glad at the same time. Gregor drew his head back from the door and
+LINE 526: lifted it towards his father. He really had not imagined his father the
+LINE 527: way he stood there now; of late, with his new habit of crawling about,
+LINE 528: he had neglected to pay attention to what was going on the rest of the
+LINE 529: flat the way he had done before. He really ought to have expected
+LINE 530: things to have changed, but still, still, was that really his father?
+LINE 531: The same tired man as used to be laying there entombed in his bed when
+LINE 532: Gregor came back from his business trips, who would receive him sitting
+LINE 533: in the armchair in his nightgown when he came back in the evenings; who
+LINE 534: was hardly even able to stand up but, as a sign of his pleasure, would
+LINE 535: just raise his arms and who, on the couple of times a year when they
+LINE 536: went for a walk together on a Sunday or public holiday wrapped up
+LINE 537: tightly in his overcoat between Gregor and his mother, would always
+LINE 538: labour his way forward a little more slowly than them, who were already
+LINE 539: walking slowly for his sake; who would place his stick down carefully
+LINE 540: and, if he wanted to say something would invariably stop and gather his
+LINE 541: companions around him. He was standing up straight enough now; dressed
+LINE 542: in a smart blue uniform with gold buttons, the sort worn by the
+LINE 543: employees at the banking institute; above the high, stiff collar of the
+LINE 544: coat his strong double-chin emerged; under the bushy eyebrows, his
+LINE 545: piercing, dark eyes looked out fresh and alert; his normally unkempt
+LINE 546: white hair was combed down painfully close to his scalp. He took his
+LINE 547: cap, with its gold monogram from, probably, some bank, and threw it in
+LINE 548: an arc right across the room onto the sofa, put his hands in his
+LINE 549: trouser pockets, pushing back the bottom of his long uniform coat, and,
+LINE 550: with look of determination, walked towards Gregor. He probably did not
+LINE 551: even know himself what he had in mind, but nonetheless lifted his feet
+LINE 552: unusually high. Gregor was amazed at the enormous size of the soles of
+LINE 553: his boots, but wasted no time with that—he knew full well, right from
+LINE 554: the first day of his new life, that his father thought it necessary to
+LINE 555: always be extremely strict with him. And so he ran up to his father,
+LINE 556: stopped when his father stopped, scurried forwards again when he moved,
+LINE 557: even slightly. In this way they went round the room several times
+LINE 558: without anything decisive happening, without even giving the impression
+LINE 559: of a chase as everything went so slowly. Gregor remained all this time
+LINE 560: on the floor, largely because he feared his father might see it as
+LINE 561: especially provoking if he fled onto the wall or ceiling. Whatever he
+LINE 562: did, Gregor had to admit that he certainly would not be able to keep up
+LINE 563: this running about for long, as for each step his father took he had to
+LINE 564: carry out countless movements. He became noticeably short of breath,
+LINE 565: even in his earlier life his lungs had not been very reliable. Now, as
+LINE 566: he lurched about in his efforts to muster all the strength he could for
+LINE 567: running he could hardly keep his eyes open; his thoughts became too
+LINE 568: slow for him to think of any other way of saving himself than running;
+LINE 569: he almost forgot that the walls were there for him to use although,
+LINE 570: here, they were concealed behind carefully carved furniture full of
+LINE 571: notches and protrusions—then, right beside him, lightly tossed,
+LINE 572: something flew down and rolled in front of him. It was an apple; then
+LINE 573: another one immediately flew at him; Gregor froze in shock; there was
+LINE 574: no longer any point in running as his father had decided to bombard
+LINE 575: him. He had filled his pockets with fruit from the bowl on the
+LINE 576: sideboard and now, without even taking the time for careful aim, threw
+LINE 577: one apple after another. These little, red apples rolled about on the
+LINE 578: floor, knocking into each other as if they had electric motors. An
+LINE 579: apple thrown without much force glanced against Gregor's back and slid
+LINE 580: off without doing any harm. Another one however, immediately following
+LINE 581: it, hit squarely and lodged in his back; Gregor wanted to drag himself
+LINE 582: away, as if he could remove the surprising, the incredible pain by
+LINE 583: changing his position; but he felt as if nailed to the spot and spread
+LINE 584: himself out, all his senses in confusion. The last thing he saw was the
+LINE 585: door of his room being pulled open, his sister was screaming, his
+LINE 586: mother ran out in front of her in her blouse (as his sister had taken
+LINE 587: off some of her clothes after she had fainted to make it easier for her
+LINE 588: to breathe), she ran to his father, her skirts unfastened and sliding
+LINE 589: one after another to the ground, stumbling over the skirts she pushed
+LINE 590: herself to his father, her arms around him, uniting herself with him
+LINE 591: totally—now Gregor lost his ability to see anything—her hands behind
+LINE 592: his father's head begging him to spare Gregor's life.

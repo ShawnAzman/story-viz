@@ -1,0 +1,699 @@
+LINE 1: ARGUMENT.
+LINE 2: THE NIGHT-ADVENTURE OF DIOMED AND ULYSSES.
+LINE 3: Upon the refusal of Achilles to return to the army, the distress of
+LINE 4: Agamemnon is described in the most lively manner. He takes no rest that
+LINE 5: night, but passes through the camp, awaking the leaders, and contriving
+LINE 6: all possible methods for the public safety. Menelaus, Nestor, Ulysses,
+LINE 7: and Diomed are employed in raising the rest of the captains. They call
+LINE 8: a council of war, and determine to send scouts into the enemies' camp,
+LINE 9: to learn their posture, and discover their intentions. Diomed
+LINE 10: undertakes this hazardous enterprise, and makes choice of Ulysses for
+LINE 11: his companion. In their passage they surprise Dolon, whom Hector had
+LINE 12: sent on a like design to the camp of the Grecians. From him they are
+LINE 13: informed of the situation of the Trojan and auxiliary forces, and
+LINE 14: particularly of Rhesus, and the Thracians who were lately arrived. They
+LINE 15: pass on with success; kill Rhesus, with several of his officers, and
+LINE 16: seize the famous horses of that prince, with which they return in
+LINE 17: triumph to the camp.
+LINE 18: The same night continues; the scene lies in the two camps.
+LINE 19: All night the chiefs before their vessels lay,
+LINE 20: And lost in sleep the labours of the day:
+LINE 21: All but the king: with various thoughts oppress'd,[215]
+LINE 22: His country's cares lay rolling in his breast.
+LINE 23: As when by lightnings Jove's ethereal power
+LINE 24: Foretels the rattling hail, or weighty shower,
+LINE 25: Or sends soft snows to whiten all the shore,
+LINE 26: Or bids the brazen throat of war to roar;
+LINE 27: By fits one flash succeeds as one expires,
+LINE 28: And heaven flames thick with momentary fires:
+LINE 29: So bursting frequent from Atrides' breast,
+LINE 30: Sighs following sighs his inward fears confess'd.
+LINE 31: Now o'er the fields, dejected, he surveys
+LINE 32: From thousand Trojan fires the mounting blaze;
+LINE 33: Hears in the passing wind their music blow,
+LINE 34: And marks distinct the voices of the foe.
+LINE 35: Now looking backwards to the fleet and coast,
+LINE 36: Anxious he sorrows for the endangered host.
+LINE 37: He rends his hair, in sacrifice to Jove,
+LINE 38: And sues to him that ever lives above:
+LINE 39: Inly he groans; while glory and despair
+LINE 40: Divide his heart, and wage a double war.
+LINE 41: A thousand cares his labouring breast revolves;
+LINE 42: To seek sage Nestor now the chief resolves,
+LINE 43: With him, in wholesome counsels, to debate
+LINE 44: What yet remains to save the afflicted state.
+LINE 45: He rose, and first he cast his mantle round,
+LINE 46: Next on his feet the shining sandals bound;
+LINE 47: A lion's yellow spoils his back conceal'd;
+LINE 48: His warlike hand a pointed javelin held.
+LINE 49: Meanwhile his brother, press'd with equal woes,
+LINE 50: Alike denied the gifts of soft repose,
+LINE 51: Laments for Greece, that in his cause before
+LINE 52: So much had suffer'd and must suffer more.
+LINE 53: A leopard's spotted hide his shoulders spread:
+LINE 54: A brazen helmet glitter'd on his head:
+LINE 55: Thus (with a javelin in his hand) he went
+LINE 56: To wake Atrides in the royal tent.
+LINE 57: Already waked, Atrides he descried,
+LINE 58: His armour buckling at his vessel's side.
+LINE 59: Joyful they met; the Spartan thus begun:
+LINE 60: "Why puts my brother his bright armour on?
+LINE 61: Sends he some spy, amidst these silent hours,
+LINE 62: To try yon camp, and watch the Trojan powers?
+LINE 63: But say, what hero shall sustain that task?
+LINE 64: Such bold exploits uncommon courage ask;
+LINE 65: Guideless, alone, through night's dark shade to go,
+LINE 66: And midst a hostile camp explore the foe."
+LINE 67: To whom the king: "In such distress we stand,
+LINE 68: No vulgar counsel our affairs demand;
+LINE 69: Greece to preserve, is now no easy part,
+LINE 70: But asks high wisdom, deep design, and art.
+LINE 71: For Jove, averse, our humble prayer denies,
+LINE 72: And bows his head to Hector's sacrifice.
+LINE 73: What eye has witness'd, or what ear believed,
+LINE 74: In one great day, by one great arm achieved,
+LINE 75: Such wondrous deeds as Hector's hand has done,
+LINE 76: And we beheld, the last revolving sun?
+LINE 77: What honours the beloved of Jove adorn!
+LINE 78: Sprung from no god, and of no goddess born;
+LINE 79: Yet such his acts, as Greeks unborn shall tell,
+LINE 80: And curse the battle where their fathers fell.
+LINE 81: "Now speed thy hasty course along the fleet,
+LINE 82: There call great Ajax, and the prince of Crete;
+LINE 83: Ourself to hoary Nestor will repair;
+LINE 84: To keep the guards on duty be his care,
+LINE 85: (For Nestor's influence best that quarter guides,
+LINE 86: Whose son with Merion, o'er the watch presides.")
+LINE 87: To whom the Spartan: "These thy orders borne,
+LINE 88: Say, shall I stay, or with despatch return?"
+LINE 89: "There shall thou stay, (the king of men replied,)
+LINE 90: Else may we miss to meet, without a guide,
+LINE 91: The paths so many, and the camp so wide.
+LINE 92: Still, with your voice the slothful soldiers raise,
+LINE 93: Urge by their fathers' fame their future praise.
+LINE 94: Forget we now our state and lofty birth;
+LINE 95: Not titles here, but works, must prove our worth.
+LINE 96: To labour is the lot of man below;
+LINE 97: And when Jove gave us life, he gave us woe."
+LINE 98: This said, each parted to his several cares:
+LINE 99: The king to Nestor's sable ship repairs;
+LINE 100: The sage protector of the Greeks he found
+LINE 101: Stretch'd in his bed with all his arms around;
+LINE 102: The various-colour'd scarf, the shield he rears,
+LINE 103: The shining helmet, and the pointed spears;
+LINE 104: The dreadful weapons of the warrior's rage,
+LINE 105: That, old in arms, disdain'd the peace of age.
+LINE 106: Then, leaning on his hand his watchful head,
+LINE 107: The hoary monarch raised his eyes and said:
+LINE 108: "What art thou, speak, that on designs unknown,
+LINE 109: While others sleep, thus range the camp alone;
+LINE 110: Seek'st thou some friend or nightly sentinel?
+LINE 111: Stand off, approach not, but thy purpose tell."
+LINE 112: "O son of Neleus, (thus the king rejoin'd,)
+LINE 113: Pride of the Greeks, and glory of thy kind!
+LINE 114: Lo, here the wretched Agamemnon stands,
+LINE 115: The unhappy general of the Grecian bands,
+LINE 116: Whom Jove decrees with daily cares to bend,
+LINE 117: And woes, that only with his life shall end!
+LINE 118: Scarce can my knees these trembling limbs sustain,
+LINE 119: And scarce my heart support its load of pain.
+LINE 120: No taste of sleep these heavy eyes have known,
+LINE 121: Confused, and sad, I wander thus alone,
+LINE 122: With fears distracted, with no fix'd design;
+LINE 123: And all my people's miseries are mine.
+LINE 124: If aught of use thy waking thoughts suggest,
+LINE 125: (Since cares, like mine, deprive thy soul of rest,)
+LINE 126: Impart thy counsel, and assist thy friend;
+LINE 127: Now let us jointly to the trench descend,
+LINE 128: At every gate the fainting guard excite,
+LINE 129: Tired with the toils of day and watch of night;
+LINE 130: Else may the sudden foe our works invade,
+LINE 131: So near, and favour'd by the gloomy shade."
+LINE 132: To him thus Nestor: "Trust the powers above,
+LINE 133: Nor think proud Hector's hopes confirm'd by Jove:
+LINE 134: How ill agree the views of vain mankind,
+LINE 135: And the wise counsels of the eternal mind!
+LINE 136: Audacious Hector, if the gods ordain
+LINE 137: That great Achilles rise and rage again,
+LINE 138: What toils attend thee, and what woes remain!
+LINE 139: Lo, faithful Nestor thy command obeys;
+LINE 140: The care is next our other chiefs to raise:
+LINE 141: Ulysses, Diomed, we chiefly need;
+LINE 142: Meges for strength, Oïleus famed for speed.
+LINE 143: Some other be despatch'd of nimbler feet,
+LINE 144: To those tall ships, remotest of the fleet,
+LINE 145: Where lie great Ajax and the king of Crete.[216]
+LINE 146: To rouse the Spartan I myself decree;
+LINE 147: Dear as he is to us, and dear to thee,
+LINE 148: Yet must I tax his sloth, that claims no share
+LINE 149: With his great brother in his martial care:
+LINE 150: Him it behoved to every chief to sue,
+LINE 151: Preventing every part perform'd by you;
+LINE 152: For strong necessity our toils demands,
+LINE 153: Claims all our hearts, and urges all our hands."
+LINE 154: To whom the king: "With reverence we allow
+LINE 155: Thy just rebukes, yet learn to spare them now:
+LINE 156: My generous brother is of gentle kind,
+LINE 157: He seems remiss, but bears a valiant mind;
+LINE 158: Through too much deference to our sovereign sway,
+LINE 159: Content to follow when we lead the way:
+LINE 160: But now, our ills industrious to prevent,
+LINE 161: Long ere the rest he rose, and sought my tent.
+LINE 162: The chiefs you named, already at his call,
+LINE 163: Prepare to meet us near the navy-wall;
+LINE 164: Assembling there, between the trench and gates,
+LINE 165: Near the night-guards, our chosen council waits."
+LINE 166: "Then none (said Nestor) shall his rule withstand,
+LINE 167: For great examples justify command."
+LINE 168: With that, the venerable warrior rose;
+LINE 169: The shining greaves his manly legs enclose;
+LINE 170: His purple mantle golden buckles join'd,
+LINE 171: Warm with the softest wool, and doubly lined.
+LINE 172: Then rushing from his tent, he snatch'd in haste
+LINE 173: His steely lance, that lighten'd as he pass'd.
+LINE 174: The camp he traversed through the sleeping crowd,
+LINE 175: Stopp'd at Ulysses' tent, and call'd aloud.
+LINE 176: Ulysses, sudden as the voice was sent,
+LINE 177: Awakes, starts up, and issues from his tent.
+LINE 178: "What new distress, what sudden cause of fright,
+LINE 179: Thus leads you wandering in the silent night?"
+LINE 180: "O prudent chief! (the Pylian sage replied)
+LINE 181: Wise as thou art, be now thy wisdom tried:
+LINE 182: Whatever means of safety can be sought,
+LINE 183: Whatever counsels can inspire our thought,
+LINE 184: Whatever methods, or to fly or fight;
+LINE 185: All, all depend on this important night!"
+LINE 186: He heard, return'd, and took his painted shield;
+LINE 187: Then join'd the chiefs, and follow'd through the field.
+LINE 188: Without his tent, bold Diomed they found,
+LINE 189: All sheathed in arms, his brave companions round:
+LINE 190: Each sunk in sleep, extended on the field,
+LINE 191: His head reclining on his bossy shield.
+LINE 192: A wood of spears stood by, that, fix'd upright,
+LINE 193: Shot from their flashing points a quivering light.
+LINE 194: A bull's black hide composed the hero's bed;
+LINE 195: A splendid carpet roll'd beneath his head.
+LINE 196: Then, with his foot, old Nestor gently shakes
+LINE 197: The slumbering chief, and in these words awakes:
+LINE 198: "Rise, son of Tydeus! to the brave and strong
+LINE 199: Rest seems inglorious, and the night too long.
+LINE 200: But sleep'st thou now, when from yon hill the foe
+LINE 201: Hangs o'er the fleet, and shades our walls below?"
+LINE 202: At this, soft slumber from his eyelids fled;
+LINE 203: The warrior saw the hoary chief, and said:
+LINE 204: "Wondrous old man! whose soul no respite knows,
+LINE 205: Though years and honours bid thee seek repose,
+LINE 206: Let younger Greeks our sleeping warriors wake;
+LINE 207: Ill fits thy age these toils to undertake."
+LINE 208: "My friend, (he answered,) generous is thy care;
+LINE 209: These toils, my subjects and my sons might bear;
+LINE 210: Their loyal thoughts and pious love conspire
+LINE 211: To ease a sovereign and relieve a sire:
+LINE 212: But now the last despair surrounds our host;
+LINE 213: No hour must pass, no moment must be lost;
+LINE 214: Each single Greek, in this conclusive strife,
+LINE 215: Stands on the sharpest edge of death or life:
+LINE 216: Yet, if my years thy kind regard engage,
+LINE 217: Employ thy youth as I employ my age;
+LINE 218: Succeed to these my cares, and rouse the rest;
+LINE 219: He serves me most, who serves his country best."
+LINE 220: This said, the hero o'er his shoulders flung
+LINE 221: A lion's spoils, that to his ankles hung;
+LINE 222: Then seized his ponderous lance, and strode along.
+LINE 223: Meges the bold, with Ajax famed for speed,
+LINE 224: The warrior roused, and to the entrenchments lead.
+LINE 225: And now the chiefs approach the nightly guard;
+LINE 226: A wakeful squadron, each in arms prepared:
+LINE 227: The unwearied watch their listening leaders keep,
+LINE 228: And, couching close, repel invading sleep.
+LINE 229: So faithful dogs their fleecy charge maintain,
+LINE 230: With toil protected from the prowling train;
+LINE 231: When the gaunt lioness, with hunger bold,
+LINE 232: Springs from the mountains toward the guarded fold:
+LINE 233: Through breaking woods her rustling course they hear;
+LINE 234: Loud, and more loud, the clamours strike their ear
+LINE 235: Of hounds and men: they start, they gaze around,
+LINE 236: Watch every side, and turn to every sound.
+LINE 237: Thus watch'd the Grecians, cautious of surprise,
+LINE 238: Each voice, each motion, drew their ears and eyes:
+LINE 239: Each step of passing feet increased the affright;
+LINE 240: And hostile Troy was ever full in sight.
+LINE 241: Nestor with joy the wakeful band survey'd,
+LINE 242: And thus accosted through the gloomy shade.
+LINE 243: "'Tis well, my sons! your nightly cares employ;
+LINE 244: Else must our host become the scorn of Troy.
+LINE 245: Watch thus, and Greece shall live." The hero said;
+LINE 246: Then o'er the trench the following chieftains led.
+LINE 247: His son, and godlike Merion, march'd behind
+LINE 248: (For these the princes to their council join'd).
+LINE 249: The trenches pass'd, the assembled kings around
+LINE 250: In silent state the consistory crown'd.
+LINE 251: A place there was, yet undefiled with gore,
+LINE 252: The spot where Hector stopp'd his rage before;
+LINE 253: When night descending, from his vengeful hand
+LINE 254: Reprieved the relics of the Grecian band:
+LINE 255: (The plain beside with mangled corps was spread,
+LINE 256: And all his progress mark'd by heaps of dead:)
+LINE 257: There sat the mournful kings: when Neleus' son,
+LINE 258: The council opening, in these words begun:
+LINE 259: "Is there (said he) a chief so greatly brave,
+LINE 260: His life to hazard, and his country save?
+LINE 261: Lives there a man, who singly dares to go
+LINE 262: To yonder camp, or seize some straggling foe?
+LINE 263: Or favour'd by the night approach so near,
+LINE 264: Their speech, their counsels, and designs to hear?
+LINE 265: If to besiege our navies they prepare,
+LINE 266: Or Troy once more must be the seat of war?
+LINE 267: This could he learn, and to our peers recite,
+LINE 268: And pass unharm'd the dangers of the night;
+LINE 269: What fame were his through all succeeding days,
+LINE 270: While Phœbus shines, or men have tongues to praise!
+LINE 271: What gifts his grateful country would bestow!
+LINE 272: What must not Greece to her deliverer owe?
+LINE 273: A sable ewe each leader should provide,
+LINE 274: With each a sable lambkin by her side;
+LINE 275: At every rite his share should be increased,
+LINE 276: And his the foremost honours of the feast."
+LINE 277: Fear held them mute: alone, untaught to fear,
+LINE 278: Tydides spoke—"The man you seek is here.
+LINE 279: Through yon black camps to bend my dangerous way,
+LINE 280: Some god within commands, and I obey.
+LINE 281: But let some other chosen warrior join,
+LINE 282: To raise my hopes, and second my design.
+LINE 283: By mutual confidence and mutual aid,
+LINE 284: Great deeds are done, and great discoveries made;
+LINE 285: The wise new prudence from the wise acquire,
+LINE 286: And one brave hero fans another's fire."
+LINE 287: Contending leaders at the word arose;
+LINE 288: Each generous breast with emulation glows;
+LINE 289: So brave a task each Ajax strove to share,
+LINE 290: Bold Merion strove, and Nestor's valiant heir;
+LINE 291: The Spartan wish'd the second place to gain,
+LINE 292: And great Ulysses wish'd, nor wish'd in vain.
+LINE 293: Then thus the king of men the contest ends:
+LINE 294: "Thou first of warriors, and thou best of friends,
+LINE 295: Undaunted Diomed! what chief to join
+LINE 296: In this great enterprise, is only thine.
+LINE 297: Just be thy choice, without affection made;
+LINE 298: To birth, or office, no respect be paid;
+LINE 299: Let worth determine here." The monarch spake,
+LINE 300: And inly trembled for his brother's sake.
+LINE 301: "Then thus (the godlike Diomed rejoin'd)
+LINE 302: My choice declares the impulse of my mind.
+LINE 303: How can I doubt, while great Ulysses stands
+LINE 304: To lend his counsels and assist our hands?
+LINE 305: A chief, whose safety is Minerva's care;
+LINE 306: So famed, so dreadful, in the works of war:
+LINE 307: Bless'd in his conduct, I no aid require;
+LINE 308: Wisdom like his might pass through flames of fire."
+LINE 309: "It fits thee not, before these chiefs of fame,
+LINE 310: (Replied the sage,) to praise me, or to blame:
+LINE 311: Praise from a friend, or censure from a foe,
+LINE 312: Are lost on hearers that our merits know.
+LINE 313: But let us haste—Night rolls the hours away,
+LINE 314: The reddening orient shows the coming day,
+LINE 315: The stars shine fainter on the ethereal plains,
+LINE 316: And of night's empire but a third remains."
+LINE 317: Thus having spoke, with generous ardour press'd,
+LINE 318: In arms terrific their huge limbs they dress'd.
+LINE 319: A two-edged falchion Thrasymed the brave,
+LINE 320: And ample buckler, to Tydides gave:
+LINE 321: Then in a leathern helm he cased his head,
+LINE 322: Short of its crest, and with no plume o'erspread:
+LINE 323: (Such as by youths unused to arms are worn:)
+LINE 324: No spoils enrich it, and no studs adorn.
+LINE 325: Next him Ulysses took a shining sword,
+LINE 326: A bow and quiver, with bright arrows stored:
+LINE 327: A well-proved casque, with leather braces bound,
+LINE 328: (Thy gift, Meriones,) his temples crown'd;
+LINE 329: Soft wool within; without, in order spread,[217]
+LINE 330: A boar's white teeth grinn'd horrid o'er his head.
+LINE 331: This from Amyntor, rich Ormenus' son,
+LINE 332: Autolycus by fraudful rapine won,
+LINE 333: And gave Amphidamas; from him the prize
+LINE 334: Molus received, the pledge of social ties;
+LINE 335: The helmet next by Merion was possess'd,
+LINE 336: And now Ulysses' thoughtful temples press'd.
+LINE 337: Thus sheathed in arms, the council they forsake,
+LINE 338: And dark through paths oblique their progress take.
+LINE 339: Just then, in sign she favour'd their intent,
+LINE 340: A long-wing'd heron great Minerva sent:
+LINE 341: This, though surrounding shades obscured their view,
+LINE 342: By the shrill clang and whistling wings they knew.
+LINE 343: As from the right she soar'd, Ulysses pray'd,
+LINE 344: Hail'd the glad omen, and address'd the maid:
+LINE 345: "O daughter of that god whose arm can wield
+LINE 346: The avenging bolt, and shake the saber shield!
+LINE 347: O thou! for ever present in my way,
+LINE 348: Who all my motions, all my toils survey!
+LINE 349: Safe may we pass beneath the gloomy shade,
+LINE 350: Safe by thy succour to our ships convey'd,
+LINE 351: And let some deed this signal night adorn,
+LINE 352: To claim the tears of Trojans yet unborn."
+LINE 353: Then godlike Diomed preferr'd his prayer:
+LINE 354: "Daughter of Jove, unconquer'd Pallas! hear.
+LINE 355: Great queen of arms, whose favour Tydeus won,
+LINE 356: As thou defend'st the sire, defend the son.
+LINE 357: When on Æsopus' banks the banded powers
+LINE 358: Of Greece he left, and sought the Theban towers,
+LINE 359: Peace was his charge; received with peaceful show,
+LINE 360: He went a legate, but return'd a foe:
+LINE 361: Then help'd by thee, and cover'd by thy shield,
+LINE 362: He fought with numbers, and made numbers yield.
+LINE 363: So now be present, O celestial maid!
+LINE 364: So still continue to the race thine aid!
+LINE 365: A youthful steer shall fall beneath the stroke,
+LINE 366: Untamed, unconscious of the galling yoke,
+LINE 367: With ample forehead, and with spreading horns,
+LINE 368: Whose taper tops refulgent gold adorns."
+LINE 369: The heroes pray'd, and Pallas from the skies
+LINE 370: Accords their vow, succeeds their enterprise.
+LINE 371: Now, like two lions panting for the prey,
+LINE 372: With dreadful thoughts they trace the dreary way,
+LINE 373: Through the black horrors of the ensanguined plain,
+LINE 374: Through dust, through blood, o'er arms, and hills of slain.
+LINE 375: Nor less bold Hector, and the sons of Troy,
+LINE 376: On high designs the wakeful hours employ;
+LINE 377: The assembled peers their lofty chief enclosed;
+LINE 378: Who thus the counsels of his breast proposed:
+LINE 379: "What glorious man, for high attempts prepared,
+LINE 380: Dares greatly venture for a rich reward?
+LINE 381: Of yonder fleet a bold discovery make,
+LINE 382: What watch they keep, and what resolves they take?
+LINE 383: If now subdued they meditate their flight,
+LINE 384: And, spent with toil, neglect the watch of night?
+LINE 385: His be the chariot that shall please him most,
+LINE 386: Of all the plunder of the vanquish'd host;
+LINE 387: His the fair steeds that all the rest excel,
+LINE 388: And his the glory to have served so well."
+LINE 389: A youth there was among the tribes of Troy,
+LINE 390: Dolon his name, Eumedes' only boy,
+LINE 391: (Five girls beside the reverend herald told.)
+LINE 392: Rich was the son in brass, and rich in gold;
+LINE 393: Not bless'd by nature with the charms of face,
+LINE 394: But swift of foot, and matchless in the race.
+LINE 395: "Hector! (he said) my courage bids me meet
+LINE 396: This high achievement, and explore the fleet:
+LINE 397: But first exalt thy sceptre to the skies,
+LINE 398: And swear to grant me the demanded prize;
+LINE 399: The immortal coursers, and the glittering car,
+LINE 400: That bear Pelides through the ranks of war.
+LINE 401: Encouraged thus, no idle scout I go,
+LINE 402: Fulfil thy wish, their whole intention know,
+LINE 403: Even to the royal tent pursue my way,
+LINE 404: And all their counsels, all their aims betray."
+LINE 405: The chief then heaved the golden sceptre high,
+LINE 406: Attesting thus the monarch of the sky:
+LINE 407: "Be witness thou! immortal lord of all!
+LINE 408: Whose thunder shakes the dark aerial hall:
+LINE 409: By none but Dolon shall this prize be borne,
+LINE 410: And him alone the immortal steeds adorn."
+LINE 411: Thus Hector swore: the gods were call'd in vain,
+LINE 412: But the rash youth prepares to scour the plain:
+LINE 413: Across his back the bended bow he flung,
+LINE 414: A wolf's grey hide around his shoulders hung,
+LINE 415: A ferret's downy fur his helmet lined,
+LINE 416: And in his hand a pointed javelin shined.
+LINE 417: Then (never to return) he sought the shore,
+LINE 418: And trod the path his feet must tread no more.
+LINE 419: Scarce had he pass'd the steeds and Trojan throng,
+LINE 420: (Still bending forward as he coursed along,)
+LINE 421: When, on the hollow way, the approaching tread
+LINE 422: Ulysses mark'd, and thus to Diomed;
+LINE 423: "O friend! I hear some step of hostile feet,
+LINE 424: Moving this way, or hastening to the fleet;
+LINE 425: Some spy, perhaps, to lurk beside the main;
+LINE 426: Or nightly pillager that strips the slain.
+LINE 427: Yet let him pass, and win a little space;
+LINE 428: Then rush behind him, and prevent his pace.
+LINE 429: But if too swift of foot he flies before,
+LINE 430: Confine his course along the fleet and shore,
+LINE 431: Betwixt the camp and him our spears employ,
+LINE 432: And intercept his hoped return to Troy."
+LINE 433: With that they stepp'd aside, and stoop'd their head,
+LINE 434: (As Dolon pass'd,) behind a heap of dead:
+LINE 435: Along the path the spy unwary flew;
+LINE 436: Soft, at just distance, both the chiefs pursue.
+LINE 437: So distant they, and such the space between,
+LINE 438: As when two teams of mules divide the green,
+LINE 439: (To whom the hind like shares of land allows,)
+LINE 440: When now new furrows part the approaching ploughs.
+LINE 441: Now Dolon, listening, heard them as they pass'd;
+LINE 442: Hector (he thought) had sent, and check'd his haste,
+LINE 443: Till scarce at distance of a javelin's throw,
+LINE 444: No voice succeeding, he perceived the foe.
+LINE 445: As when two skilful hounds the leveret wind;
+LINE 446: Or chase through woods obscure the trembling hind;
+LINE 447: Now lost, now seen, they intercept his way,
+LINE 448: And from the herd still turn the flying prey:
+LINE 449: So fast, and with such fears, the Trojan flew;
+LINE 450: So close, so constant, the bold Greeks pursue.
+LINE 451: Now almost on the fleet the dastard falls,
+LINE 452: And mingles with the guards that watch the walls;
+LINE 453: When brave Tydides stopp'd; a gen'rous thought
+LINE 454: (Inspired by Pallas) in his bosom wrought,
+LINE 455: Lest on the foe some forward Greek advance,
+LINE 456: And snatch the glory from his lifted lance.
+LINE 457: Then thus aloud: "Whoe'er thou art, remain;
+LINE 458: This javelin else shall fix thee to the plain."
+LINE 459: He said, and high in air the weapon cast,
+LINE 460: Which wilful err'd, and o'er his shoulder pass'd;
+LINE 461: Then fix'd in earth. Against the trembling wood
+LINE 462: The wretch stood propp'd, and quiver'd as he stood;
+LINE 463: A sudden palsy seized his turning head;
+LINE 464: His loose teeth chatter'd, and his colour fled;
+LINE 465: The panting warriors seize him as he stands,
+LINE 466: And with unmanly tears his life demands.
+LINE 467: "O spare my youth, and for the breath I owe,
+LINE 468: Large gifts of price my father shall bestow:
+LINE 469: Vast heaps of brass shall in your ships be told,
+LINE 470: And steel well-temper'd and refulgent gold."
+LINE 471: To whom Ulysses made this wise reply:
+LINE 472: "Whoe'er thou art, be bold, nor fear to die.
+LINE 473: What moves thee, say, when sleep has closed the sight,
+LINE 474: To roam the silent fields in dead of night?
+LINE 475: Cam'st thou the secrets of our camp to find,
+LINE 476: By Hector prompted, or thy daring mind?
+LINE 477: Or art some wretch by hopes of plunder led,
+LINE 478: Through heaps of carnage, to despoil the dead?"
+LINE 479: Then thus pale Dolon, with a fearful look:
+LINE 480: (Still, as he spoke, his limbs with horror shook:)
+LINE 481: "Hither I came, by Hector's words deceived;
+LINE 482: Much did he promise, rashly I believed:
+LINE 483: No less a bribe than great Achilles' car,
+LINE 484: And those swift steeds that sweep the ranks of war,
+LINE 485: Urged me, unwilling, this attempt to make;
+LINE 486: To learn what counsels, what resolves you take:
+LINE 487: If now subdued, you fix your hopes on flight,
+LINE 488: And, tired with toils, neglect the watch of night."
+LINE 489: "Bold was thy aim, and glorious was the prize,
+LINE 490: (Ulysses, with a scornful smile, replies,)
+LINE 491: Far other rulers those proud steeds demand,
+LINE 492: And scorn the guidance of a vulgar hand;
+LINE 493: Even great Achilles scarce their rage can tame,
+LINE 494: Achilles sprung from an immortal dame.
+LINE 495: But say, be faithful, and the truth recite!
+LINE 496: Where lies encamp'd the Trojan chief to-night?
+LINE 497: Where stand his coursers? in what quarter sleep
+LINE 498: Their other princes? tell what watch they keep:
+LINE 499: Say, since this conquest, what their counsels are;
+LINE 500: Or here to combat, from their city far,
+LINE 501: Or back to Ilion's walls transfer the war?"
+LINE 502: Ulysses thus, and thus Eumedes' son:
+LINE 503: "What Dolon knows, his faithful tongue shall own.
+LINE 504: Hector, the peers assembling in his tent,
+LINE 505: A council holds at Ilus' monument.
+LINE 506: No certain guards the nightly watch partake;
+LINE 507: Where'er yon fires ascend, the Trojans wake:
+LINE 508: Anxious for Troy, the guard the natives keep;
+LINE 509: Safe in their cares, the auxiliar forces sleep,
+LINE 510: Whose wives and infants, from the danger far,
+LINE 511: Discharge their souls of half the fears of war."
+LINE 512: "Then sleep those aids among the Trojan train,
+LINE 513: (Inquired the chief,) or scattered o'er the plain?"
+LINE 514: To whom the spy: "Their powers they thus dispose
+LINE 515: The Paeons, dreadful with their bended bows,
+LINE 516: The Carians, Caucons, the Pelasgian host,
+LINE 517: And Leleges, encamp along the coast.
+LINE 518: Not distant far, lie higher on the land
+LINE 519: The Lycian, Mysian, and Mæonian band,
+LINE 520: And Phrygia's horse, by Thymbras' ancient wall;
+LINE 521: The Thracians utmost, and apart from all.
+LINE 522: These Troy but lately to her succour won,
+LINE 523: Led on by Rhesus, great Eioneus' son:
+LINE 524: I saw his coursers in proud triumph go,
+LINE 525: Swift as the wind, and white as winter-snow;
+LINE 526: Rich silver plates his shining car infold;
+LINE 527: His solid arms, refulgent, flame with gold;
+LINE 528: No mortal shoulders suit the glorious load,
+LINE 529: Celestial panoply, to grace a god!
+LINE 530: Let me, unhappy, to your fleet be borne,
+LINE 531: Or leave me here, a captive's fate to mourn,
+LINE 532: In cruel chains, till your return reveal
+LINE 533: The truth or falsehood of the news I tell."
+LINE 534: To this Tydides, with a gloomy frown:
+LINE 535: "Think not to live, though all the truth be shown:
+LINE 536: Shall we dismiss thee, in some future strife
+LINE 537: To risk more bravely thy now forfeit life?
+LINE 538: Or that again our camps thou may'st explore?
+LINE 539: No—once a traitor, thou betray'st no more."
+LINE 540: Sternly he spoke, and as the wretch prepared
+LINE 541: With humble blandishment to stroke his beard,
+LINE 542: Like lightning swift the wrathful falchion flew,
+LINE 543: Divides the neck, and cuts the nerves in two;
+LINE 544: One instant snatch'd his trembling soul to hell,
+LINE 545: The head, yet speaking, mutter'd as it fell.
+LINE 546: The furry helmet from his brow they tear,
+LINE 547: The wolf's grey hide, the unbended bow and spear;
+LINE 548: These great Ulysses lifting to the skies,
+LINE 549: To favouring Pallas dedicates the prize:
+LINE 550: "Great queen of arms, receive this hostile spoil,
+LINE 551: And let the Thracian steeds reward our toil;
+LINE 552: Thee, first of all the heavenly host, we praise;
+LINE 553: O speed our labours, and direct our ways!"
+LINE 554: This said, the spoils, with dropping gore defaced,
+LINE 555: High on a spreading tamarisk he placed;
+LINE 556: Then heap'd with reeds and gathered boughs the plain,
+LINE 557: To guide their footsteps to the place again.
+LINE 558: Through the still night they cross the devious fields,
+LINE 559: Slippery with blood, o'er arms and heaps of shields,
+LINE 560: Arriving where the Thracian squadrons lay,
+LINE 561: And eased in sleep the labours of the day.
+LINE 562: Ranged in three lines they view the prostrate band:
+LINE 563: The horses yoked beside each warrior stand.
+LINE 564: Their arms in order on the ground reclined,
+LINE 565: Through the brown shade the fulgid weapons shined:
+LINE 566: Amidst lay Rhesus, stretch'd in sleep profound,
+LINE 567: And the white steeds behind his chariot bound.
+LINE 568: The welcome sight Ulysses first descries,
+LINE 569: And points to Diomed the tempting prize.
+LINE 570: "The man, the coursers, and the car behold!
+LINE 571: Described by Dolon, with the arms of gold.
+LINE 572: Now, brave Tydides! now thy courage try,
+LINE 573: Approach the chariot, and the steeds untie;
+LINE 574: Or if thy soul aspire to fiercer deeds,
+LINE 575: Urge thou the slaughter, while I seize the steeds."
+LINE 576: Pallas (this said) her hero's bosom warms,
+LINE 577: Breathed in his heart, and strung his nervous arms;
+LINE 578: Where'er he pass'd, a purple stream pursued
+LINE 579: His thirsty falchion, fat with hostile blood,
+LINE 580: Bathed all his footsteps, dyed the fields with gore,
+LINE 581: And a low groan remurmur'd through the shore.
+LINE 582: So the grim lion, from his nightly den,
+LINE 583: O'erleaps the fences, and invades the pen,
+LINE 584: On sheep or goats, resistless in his way,
+LINE 585: He falls, and foaming rends the guardless prey;
+LINE 586: Nor stopp'd the fury of his vengeful hand,
+LINE 587: Till twelve lay breathless of the Thracian band.
+LINE 588: Ulysses following, as his partner slew,
+LINE 589: Back by the foot each slaughter'd warrior drew;
+LINE 590: The milk-white coursers studious to convey
+LINE 591: Safe to the ships, he wisely cleared the way:
+LINE 592: Lest the fierce steeds, not yet to battles bred,
+LINE 593: Should start, and tremble at the heaps of dead.
+LINE 594: Now twelve despatch'd, the monarch last they found;
+LINE 595: Tydides' falchion fix'd him to the ground.
+LINE 596: Just then a deathful dream Minerva sent,
+LINE 597: A warlike form appear'd before his tent,
+LINE 598: Whose visionary steel his bosom tore:
+LINE 599: So dream'd the monarch, and awaked no more.[218]
+LINE 600: Ulysses now the snowy steeds detains,
+LINE 601: And leads them, fasten'd by the silver reins;
+LINE 602: These, with his bow unbent, he lash'd along;
+LINE 603: (The scourge forgot, on Rhesus' chariot hung;)
+LINE 604: Then gave his friend the signal to retire;
+LINE 605: But him, new dangers, new achievements fire;
+LINE 606: Doubtful he stood, or with his reeking blade
+LINE 607: To send more heroes to the infernal shade,
+LINE 608: Drag off the car where Rhesus' armour lay,
+LINE 609: Or heave with manly force, and lift away.
+LINE 610: While unresolved the son of Tydeus stands,
+LINE 611: Pallas appears, and thus her chief commands:
+LINE 612: "Enough, my son; from further slaughter cease,
+LINE 613: Regard thy safety, and depart in peace;
+LINE 614: Haste to the ships, the gotten spoils enjoy,
+LINE 615: Nor tempt too far the hostile gods of Troy."
+LINE 616: The voice divine confess'd the martial maid;
+LINE 617: In haste he mounted, and her word obey'd;
+LINE 618: The coursers fly before Ulysses' bow,
+LINE 619: Swift as the wind, and white as winter-snow.
+LINE 620: Not unobserved they pass'd: the god of light
+LINE 621: Had watch'd his Troy, and mark'd Minerva's flight,
+LINE 622: Saw Tydeus' son with heavenly succour bless'd,
+LINE 623: And vengeful anger fill'd his sacred breast.
+LINE 624: Swift to the Trojan camp descends the power,
+LINE 625: And wakes Hippocoon in the morning-hour;
+LINE 626: (On Rhesus' side accustom'd to attend,
+LINE 627: A faithful kinsman, and instructive friend;)
+LINE 628: He rose, and saw the field deform'd with blood,
+LINE 629: An empty space where late the coursers stood,
+LINE 630: The yet-warm Thracians panting on the coast;
+LINE 631: For each he wept, but for his Rhesus most:
+LINE 632: Now while on Rhesus' name he calls in vain,
+LINE 633: The gathering tumult spreads o'er all the plain;
+LINE 634: On heaps the Trojans rush, with wild affright,
+LINE 635: And wondering view the slaughters of the night.
+LINE 636: Meanwhile the chiefs, arriving at the shade
+LINE 637: Where late the spoils of Hector's spy were laid,
+LINE 638: Ulysses stopp'd; to him Tydides bore
+LINE 639: The trophy, dropping yet with Dolon's gore:
+LINE 640: Then mounts again; again their nimbler feet
+LINE 641: The coursers ply, and thunder towards the fleet.
+LINE 642: [Illustration: ] DIOMED AND ULYSSES RETURNING WITH THE SPOILS OF RHESUS
+LINE 643: Old Nestor first perceived the approaching sound,
+LINE 644: Bespeaking thus the Grecian peers around:
+LINE 645: "Methinks the noise of trampling steeds I hear,
+LINE 646: Thickening this way, and gathering on my ear;
+LINE 647: Perhaps some horses of the Trojan breed
+LINE 648: (So may, ye gods! my pious hopes succeed)
+LINE 649: The great Tydides and Ulysses bear,
+LINE 650: Return'd triumphant with this prize of war.
+LINE 651: Yet much I fear (ah, may that fear be vain!)
+LINE 652: The chiefs outnumber'd by the Trojan train;
+LINE 653: Perhaps, even now pursued, they seek the shore;
+LINE 654: Or, oh! perhaps those heroes are no more."
+LINE 655: Scarce had he spoke, when, lo! the chiefs appear,
+LINE 656: And spring to earth; the Greeks dismiss their fear:
+LINE 657: With words of friendship and extended hands
+LINE 658: They greet the kings; and Nestor first demands:
+LINE 659: "Say thou, whose praises all our host proclaim,
+LINE 660: Thou living glory of the Grecian name!
+LINE 661: Say whence these coursers? by what chance bestow'd,
+LINE 662: The spoil of foes, or present of a god?
+LINE 663: Not those fair steeds, so radiant and so gay,
+LINE 664: That draw the burning chariot of the day.
+LINE 665: Old as I am, to age I scorn to yield,
+LINE 666: And daily mingle in the martial field;
+LINE 667: But sure till now no coursers struck my sight
+LINE 668: Like these, conspicuous through the ranks of fight.
+LINE 669: Some god, I deem, conferred the glorious prize,
+LINE 670: Bless'd as ye are, and favourites of the skies;
+LINE 671: The care of him who bids the thunder roar,
+LINE 672: And her, whose fury bathes the world with gore."
+LINE 673: "Father! not so, (sage Ithacus rejoin'd,)
+LINE 674: The gifts of heaven are of a nobler kind.
+LINE 675: Of Thracian lineage are the steeds ye view,
+LINE 676: Whose hostile king the brave Tydides slew;
+LINE 677: Sleeping he died, with all his guards around,
+LINE 678: And twelve beside lay gasping on the ground.
+LINE 679: These other spoils from conquer'd Dolon came,
+LINE 680: A wretch, whose swiftness was his only fame;
+LINE 681: By Hector sent our forces to explore,
+LINE 682: He now lies headless on the sandy shore."
+LINE 683: Then o'er the trench the bounding coursers flew;
+LINE 684: The joyful Greeks with loud acclaim pursue.
+LINE 685: Straight to Tydides' high pavilion borne,
+LINE 686: The matchless steeds his ample stalls adorn:
+LINE 687: The neighing coursers their new fellows greet,
+LINE 688: And the full racks are heap'd with generous wheat.
+LINE 689: But Dolon's armour, to his ships convey'd,
+LINE 690: High on the painted stern Ulysses laid,
+LINE 691: A trophy destin'd to the blue-eyed maid.
+LINE 692: Now from nocturnal sweat and sanguine stain
+LINE 693: They cleanse their bodies in the neighb'ring main:
+LINE 694: Then in the polished bath, refresh'd from toil,
+LINE 695: Their joints they supple with dissolving oil,
+LINE 696: In due repast indulge the genial hour,
+LINE 697: And first to Pallas the libations pour:
+LINE 698: They sit, rejoicing in her aid divine,
+LINE 699: And the crown'd goblet foams with floods of wine.

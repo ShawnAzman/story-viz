@@ -1,0 +1,491 @@
+LINE 1: ARGUMENT.
+LINE 2: THE RECONCILIATION OF ACHILLES AND AGAMEMNON.
+LINE 3: Thetis brings to her son the armour made by Vulcan. She preserves the
+LINE 4: body of his friend from corruption, and commands him to assemble the
+LINE 5: army, to declare his resentment at an end. Agamemnon and Achilles are
+LINE 6: solemnly reconciled: the speeches, presents, and ceremonies on that
+LINE 7: occasion. Achilles is with great difficulty persuaded to refrain from
+LINE 8: the battle till the troops have refreshed themselves by the advice of
+LINE 9: Ulysses. The presents are conveyed to the tent of Achilles, where
+LINE 10: Briseïs laments over the body of Patroclus. The hero obstinately
+LINE 11: refuses all repast, and gives himself up to lamentations for his
+LINE 12: friend. Minerva descends to strengthen him, by the order of Jupiter. He
+LINE 13: arms for the fight: his appearance described. He addresses himself to
+LINE 14: his horses, and reproaches them with the death of Patroclus. One of
+LINE 15: them is miraculously endued with voice, and inspired to prophesy his
+LINE 16: fate: but the hero, not astonished by that prodigy, rushes with fury to
+LINE 17: the combat.
+LINE 18: The thirtieth day. The scene is on the sea-shore.
+LINE 19: Soon as Aurora heaved her Orient head
+LINE 20: Above the waves, that blush'd with early red,
+LINE 21: (With new-born day to gladden mortal sight,
+LINE 22: And gild the courts of heaven with sacred light,)
+LINE 23: The immortal arms the goddess-mother bears
+LINE 24: Swift to her son: her son she finds in tears
+LINE 25: Stretch'd o'er Patroclus' corse; while all the rest
+LINE 26: Their sovereign's sorrows in their own express'd.
+LINE 27: A ray divine her heavenly presence shed,
+LINE 28: And thus, his hand soft touching, Thetis said:
+LINE 29: "Suppress, my son, this rage of grief, and know
+LINE 30: It was not man, but heaven, that gave the blow;
+LINE 31: Behold what arms by Vulcan are bestow'd,
+LINE 32: Arms worthy thee, or fit to grace a god."
+LINE 33: Then drops the radiant burden on the ground;
+LINE 34: Clang the strong arms, and ring the shores around;
+LINE 35: Back shrink the Myrmidons with dread surprise,
+LINE 36: And from the broad effulgence turn their eyes.
+LINE 37: Unmoved the hero kindles at the show,
+LINE 38: And feels with rage divine his bosom glow;
+LINE 39: From his fierce eyeballs living flames expire,
+LINE 40: And flash incessant like a stream of fire:
+LINE 41: He turns the radiant gift: and feeds his mind
+LINE 42: On all the immortal artist had design'd.
+LINE 43: "Goddess! (he cried,) these glorious arms, that shine
+LINE 44: With matchless art, confess the hand divine.
+LINE 45: Now to the bloody battle let me bend:
+LINE 46: But ah! the relics of my slaughter'd friend!
+LINE 47: In those wide wounds through which his spirit fled,
+LINE 48: Shall flies, and worms obscene, pollute the dead?"
+LINE 49: "That unavailing care be laid aside,
+LINE 50: (The azure goddess to her son replied,)
+LINE 51: Whole years untouch'd, uninjured shall remain,
+LINE 52: Fresh as in life, the carcase of the slain.
+LINE 53: But go, Achilles, as affairs require,
+LINE 54: Before the Grecian peers renounce thine ire:
+LINE 55: Then uncontroll'd in boundless war engage,
+LINE 56: And heaven with strength supply the mighty rage!"
+LINE 57: [Illustration: ] THETIS BRINGING THE ARMOUR TO ACHILLES
+LINE 58: Then in the nostrils of the slain she pour'd
+LINE 59: Nectareous drops, and rich ambrosia shower'd
+LINE 60: O'er all the corse. The flies forbid their prey,
+LINE 61: Untouch'd it rests, and sacred from decay.
+LINE 62: Achilles to the strand obedient went:
+LINE 63: The shores resounded with the voice he sent.
+LINE 64: The heroes heard, and all the naval train
+LINE 65: That tend the ships, or guide them o'er the main,
+LINE 66: Alarm'd, transported, at the well-known sound,
+LINE 67: Frequent and full, the great assembly crown'd;
+LINE 68: Studious to see the terror of the plain,
+LINE 69: Long lost to battle, shine in arms again.
+LINE 70: Tydides and Ulysses first appear,
+LINE 71: Lame with their wounds, and leaning on the spear;
+LINE 72: These on the sacred seats of council placed,
+LINE 73: The king of men, Atrides, came the last:
+LINE 74: He too sore wounded by Agenor's son.
+LINE 75: Achilles (rising in the midst) begun:
+LINE 76: "O monarch! better far had been the fate
+LINE 77: Of thee, of me, of all the Grecian state,
+LINE 78: If (ere the day when by mad passion sway'd,
+LINE 79: Rash we contended for the black-eyed maid)
+LINE 80: Preventing Dian had despatch'd her dart,
+LINE 81: And shot the shining mischief to the heart!
+LINE 82: Then many a hero had not press'd the shore,
+LINE 83: Nor Troy's glad fields been fatten'd with our gore.
+LINE 84: Long, long shall Greece the woes we caused bewail,
+LINE 85: And sad posterity repeat the tale.
+LINE 86: But this, no more the subject of debate,
+LINE 87: Is past, forgotten, and resign'd to fate.
+LINE 88: Why should, alas, a mortal man, as I,
+LINE 89: Burn with a fury that can never die?
+LINE 90: Here then my anger ends: let war succeed,
+LINE 91: And even as Greece has bled, let Ilion bleed.
+LINE 92: Now call the hosts, and try if in our sight
+LINE 93: Troy yet shall dare to camp a second night!
+LINE 94: I deem, their mightiest, when this arm he knows,
+LINE 95: Shall 'scape with transport, and with joy repose."
+LINE 96: He said: his finish'd wrath with loud acclaim
+LINE 97: The Greeks accept, and shout Pelides' name.
+LINE 98: When thus, not rising from his lofty throne,
+LINE 99: In state unmoved, the king of men begun:
+LINE 100: "Hear me, ye sons of Greece! with silence hear!
+LINE 101: And grant your monarch an impartial ear:
+LINE 102: Awhile your loud, untimely joy suspend,
+LINE 103: And let your rash, injurious clamours end:
+LINE 104: Unruly murmurs, or ill-timed applause,
+LINE 105: Wrong the best speaker, and the justest cause.
+LINE 106: Nor charge on me, ye Greeks, the dire debate:
+LINE 107: Know, angry Jove, and all-compelling Fate,
+LINE 108: With fell Erinnys, urged my wrath that day
+LINE 109: When from Achilles' arms I forced the prey.
+LINE 110: What then could I against the will of heaven?
+LINE 111: Not by myself, but vengeful Ate driven;
+LINE 112: She, Jove's dread daughter, fated to infest
+LINE 113: The race of mortals, enter'd in my breast.
+LINE 114: Not on the ground that haughty fury treads,
+LINE 115: But prints her lofty footsteps on the heads
+LINE 116: Of mighty men; inflicting as she goes
+LINE 117: Long-festering wounds, inextricable woes!
+LINE 118: Of old, she stalk'd amid the bright abodes;
+LINE 119: And Jove himself, the sire of men and gods,
+LINE 120: The world's great ruler, felt her venom'd dart;
+LINE 121: Deceived by Juno's wiles, and female art:
+LINE 122: For when Alcmena's nine long months were run,
+LINE 123: And Jove expected his immortal son,
+LINE 124: To gods and goddesses the unruly joy
+LINE 125: He show'd, and vaunted of his matchless boy:
+LINE 126: 'From us, (he said) this day an infant springs,
+LINE 127: Fated to rule, and born a king of kings.'
+LINE 128: Saturnia ask'd an oath, to vouch the truth,
+LINE 129: And fix dominion on the favour'd youth.
+LINE 130: The Thunderer, unsuspicious of the fraud,
+LINE 131: Pronounced those solemn words that bind a god.
+LINE 132: The joyful goddess, from Olympus' height,
+LINE 133: Swift to Achaian Argos bent her flight:
+LINE 134: Scarce seven moons gone, lay Sthenelus's wife;
+LINE 135: She push'd her lingering infant into life:
+LINE 136: Her charms Alcmena's coming labours stay,
+LINE 137: And stop the babe, just issuing to the day.
+LINE 138: Then bids Saturnius bear his oath in mind;
+LINE 139: 'A youth (said she) of Jove's immortal kind
+LINE 140: Is this day born: from Sthenelus he springs,
+LINE 141: And claims thy promise to be king of kings.'
+LINE 142: Grief seized the Thunderer, by his oath engaged;
+LINE 143: Stung to the soul, he sorrow'd, and he raged.
+LINE 144: From his ambrosial head, where perch'd she sate,
+LINE 145: He snatch'd the fury-goddess of debate,
+LINE 146: The dread, the irrevocable oath he swore,
+LINE 147: The immortal seats should ne'er behold her more;
+LINE 148: And whirl'd her headlong down, for ever driven
+LINE 149: From bright Olympus and the starry heaven:
+LINE 150: Thence on the nether world the fury fell;
+LINE 151: Ordain'd with man's contentious race to dwell.
+LINE 152: Full oft the god his son's hard toils bemoan'd,
+LINE 153: Cursed the dire fury, and in secret groan'd.[258]
+LINE 154: Even thus, like Jove himself, was I misled,
+LINE 155: While raging Hector heap'd our camps with dead.
+LINE 156: What can the errors of my rage atone?
+LINE 157: My martial troops, my treasures are thy own:
+LINE 158: This instant from the navy shall be sent
+LINE 159: Whate'er Ulysses promised at thy tent:
+LINE 160: But thou! appeased, propitious to our prayer,
+LINE 161: Resume thy arms, and shine again in war."
+LINE 162: "O king of nations! whose superior sway
+LINE 163: (Returns Achilles) all our hosts obey!
+LINE 164: To keep or send the presents, be thy care;
+LINE 165: To us, 'tis equal: all we ask is war.
+LINE 166: While yet we talk, or but an instant shun
+LINE 167: The fight, our glorious work remains undone.
+LINE 168: Let every Greek, who sees my spear confound
+LINE 169: The Trojan ranks, and deal destruction round,
+LINE 170: With emulation, what I act survey,
+LINE 171: And learn from thence the business of the day."
+LINE 172: The son of Peleus thus; and thus replies
+LINE 173: The great in councils, Ithacus the wise:
+LINE 174: "Though, godlike, thou art by no toils oppress'd,
+LINE 175: At least our armies claim repast and rest:
+LINE 176: Long and laborious must the combat be,
+LINE 177: When by the gods inspired, and led by thee.
+LINE 178: Strength is derived from spirits and from blood,
+LINE 179: And those augment by generous wine and food:
+LINE 180: What boastful son of war, without that stay,
+LINE 181: Can last a hero through a single day?
+LINE 182: Courage may prompt; but, ebbing out his strength,
+LINE 183: Mere unsupported man must yield at length;
+LINE 184: Shrunk with dry famine, and with toils declined,
+LINE 185: The drooping body will desert the mind:
+LINE 186: But built anew with strength-conferring fare,
+LINE 187: With limbs and soul untamed, he tires a war.
+LINE 188: Dismiss the people, then, and give command,
+LINE 189: With strong repast to hearten every band;
+LINE 190: But let the presents to Achilles made,
+LINE 191: In full assembly of all Greece be laid.
+LINE 192: The king of men shall rise in public sight,
+LINE 193: And solemn swear (observant of the rite)
+LINE 194: That, spotless, as she came, the maid removes,
+LINE 195: Pure from his arms, and guiltless of his loves.
+LINE 196: That done, a sumptuous banquet shall be made,
+LINE 197: And the full price of injured honour paid.
+LINE 198: Stretch not henceforth, O prince! thy sovereign might
+LINE 199: Beyond the bounds of reason and of right;
+LINE 200: 'Tis the chief praise that e'er to kings belong'd,
+LINE 201: To right with justice whom with power they wrong'd."
+LINE 202: To him the monarch: "Just is thy decree,
+LINE 203: Thy words give joy, and wisdom breathes in thee.
+LINE 204: Each due atonement gladly I prepare;
+LINE 205: And heaven regard me as I justly swear!
+LINE 206: Here then awhile let Greece assembled stay,
+LINE 207: Nor great Achilles grudge this short delay.
+LINE 208: Till from the fleet our presents be convey'd,
+LINE 209: And Jove attesting, the firm compact made.
+LINE 210: A train of noble youths the charge shall bear;
+LINE 211: These to select, Ulysses, be thy care:
+LINE 212: In order rank'd let all our gifts appear,
+LINE 213: And the fair train of captives close the rear:
+LINE 214: Talthybius shall the victim boar convey,
+LINE 215: Sacred to Jove, and yon bright orb of day."
+LINE 216: "For this (the stern Æacides replies)
+LINE 217: Some less important season may suffice,
+LINE 218: When the stern fury of the war is o'er,
+LINE 219: And wrath, extinguish'd, burns my breast no more.
+LINE 220: By Hector slain, their faces to the sky,
+LINE 221: All grim with gaping wounds, our heroes lie:
+LINE 222: Those call to war! and might my voice incite,
+LINE 223: Now, now, this instant, shall commence the fight:
+LINE 224: Then, when the day's complete, let generous bowls,
+LINE 225: And copious banquets, glad your weary souls.
+LINE 226: Let not my palate know the taste of food,
+LINE 227: Till my insatiate rage be cloy'd with blood:
+LINE 228: Pale lies my friend, with wounds disfigured o'er,
+LINE 229: And his cold feet are pointed to the door.
+LINE 230: Revenge is all my soul! no meaner care,
+LINE 231: Interest, or thought, has room to harbour there;
+LINE 232: Destruction be my feast, and mortal wounds,
+LINE 233: And scenes of blood, and agonizing sounds."
+LINE 234: "O first of Greeks, (Ulysses thus rejoin'd,)
+LINE 235: The best and bravest of the warrior kind!
+LINE 236: Thy praise it is in dreadful camps to shine,
+LINE 237: But old experience and calm wisdom mine.
+LINE 238: Then hear my counsel, and to reason yield,
+LINE 239: The bravest soon are satiate of the field;
+LINE 240: Though vast the heaps that strow the crimson plain,
+LINE 241: The bloody harvest brings but little gain:
+LINE 242: The scale of conquest ever wavering lies,
+LINE 243: Great Jove but turns it, and the victor dies!
+LINE 244: The great, the bold, by thousands daily fall,
+LINE 245: And endless were the grief, to weep for all.
+LINE 246: Eternal sorrows what avails to shed?
+LINE 247: Greece honours not with solemn fasts the dead:
+LINE 248: Enough, when death demands the brave, to pay
+LINE 249: The tribute of a melancholy day.
+LINE 250: One chief with patience to the grave resign'd,
+LINE 251: Our care devolves on others left behind.
+LINE 252: Let generous food supplies of strength produce,
+LINE 253: Let rising spirits flow from sprightly juice,
+LINE 254: Let their warm heads with scenes of battle glow,
+LINE 255: And pour new furies on the feebler foe.
+LINE 256: Yet a short interval, and none shall dare
+LINE 257: Expect a second summons to the war;
+LINE 258: Who waits for that, the dire effects shall find,
+LINE 259: If trembling in the ships he lags behind.
+LINE 260: Embodied, to the battle let us bend,
+LINE 261: And all at once on haughty Troy descend."
+LINE 262: And now the delegates Ulysses sent,
+LINE 263: To bear the presents from the royal tent:
+LINE 264: The sons of Nestor, Phyleus' valiant heir,
+LINE 265: Thias and Merion, thunderbolts of war,
+LINE 266: With Lycomedes of Creiontian strain,
+LINE 267: And Melanippus, form'd the chosen train.
+LINE 268: Swift as the word was given, the youths obey'd:
+LINE 269: Twice ten bright vases in the midst they laid;
+LINE 270: A row of six fair tripods then succeeds;
+LINE 271: And twice the number of high-bounding steeds:
+LINE 272: Seven captives next a lovely line compose;
+LINE 273: The eighth Briseïs, like the blooming rose,
+LINE 274: Closed the bright band: great Ithacus, before,
+LINE 275: First of the train, the golden talents bore:
+LINE 276: The rest in public view the chiefs dispose,
+LINE 277: A splendid scene! then Agamemnon rose:
+LINE 278: The boar Talthybius held: the Grecian lord
+LINE 279: Drew the broad cutlass sheath'd beside his sword:
+LINE 280: The stubborn bristles from the victim's brow
+LINE 281: He crops, and offering meditates his vow.
+LINE 282: His hands uplifted to the attesting skies,
+LINE 283: On heaven's broad marble roof were fixed his eyes.
+LINE 284: The solemn words a deep attention draw,
+LINE 285: And Greece around sat thrill'd with sacred awe.
+LINE 286: "Witness thou first! thou greatest power above,
+LINE 287: All-good, all-wise, and all-surveying Jove!
+LINE 288: And mother-earth, and heaven's revolving light,
+LINE 289: And ye, fell furies of the realms of night,
+LINE 290: Who rule the dead, and horrid woes prepare
+LINE 291: For perjured kings, and all who falsely swear!
+LINE 292: The black-eyed maid inviolate removes,
+LINE 293: Pure and unconscious of my manly loves.
+LINE 294: If this be false, heaven all its vengeance shed,
+LINE 295: And levell'd thunder strike my guilty head!"
+LINE 296: With that, his weapon deep inflicts the wound;
+LINE 297: The bleeding savage tumbles to the ground;
+LINE 298: The sacred herald rolls the victim slain
+LINE 299: (A feast for fish) into the foaming main.
+LINE 300: Then thus Achilles: "Hear, ye Greeks! and know
+LINE 301: Whate'er we feel, 'tis Jove inflicts the woe;
+LINE 302: Not else Atrides could our rage inflame,
+LINE 303: Nor from my arms, unwilling, force the dame.
+LINE 304: 'Twas Jove's high will alone, o'erruling all,
+LINE 305: That doom'd our strife, and doom'd the Greeks to fall.
+LINE 306: Go then, ye chiefs! indulge the genial rite;
+LINE 307: Achilles waits ye, and expects the fight."
+LINE 308: The speedy council at his word adjourn'd:
+LINE 309: To their black vessels all the Greeks return'd.
+LINE 310: Achilles sought his tent. His train before
+LINE 311: March'd onward, bending with the gifts they bore.
+LINE 312: Those in the tents the squires industrious spread:
+LINE 313: The foaming coursers to the stalls they led;
+LINE 314: To their new seats the female captives move.
+LINE 315: Briseïs, radiant as the queen of love,
+LINE 316: Slow as she pass'd, beheld with sad survey
+LINE 317: Where, gash'd with cruel wounds, Patroclus lay.
+LINE 318: Prone on the body fell the heavenly fair,
+LINE 319: Beat her sad breast, and tore her golden hair;
+LINE 320: All beautiful in grief, her humid eyes
+LINE 321: Shining with tears she lifts, and thus she cries:
+LINE 322: "Ah, youth for ever dear, for ever kind,
+LINE 323: Once tender friend of my distracted mind!
+LINE 324: I left thee fresh in life, in beauty gay;
+LINE 325: Now find thee cold, inanimated clay!
+LINE 326: What woes my wretched race of life attend!
+LINE 327: Sorrows on sorrows, never doom'd to end!
+LINE 328: The first loved consort of my virgin bed
+LINE 329: Before these eyes in fatal battle bled:
+LINE 330: My three brave brothers in one mournful day
+LINE 331: All trod the dark, irremeable way:
+LINE 332: Thy friendly hand uprear'd me from the plain,
+LINE 333: And dried my sorrows for a husband slain;
+LINE 334: Achilles' care you promised I should prove,
+LINE 335: The first, the dearest partner of his love;
+LINE 336: That rites divine should ratify the band,
+LINE 337: And make me empress in his native land.
+LINE 338: Accept these grateful tears! for thee they flow,
+LINE 339: For thee, that ever felt another's woe!"
+LINE 340: Her sister captives echoed groan for groan,
+LINE 341: Nor mourn'd Patroclus' fortunes, but their own.
+LINE 342: The leaders press'd the chief on every side;
+LINE 343: Unmoved he heard them, and with sighs denied.
+LINE 344: "If yet Achilles have a friend, whose care
+LINE 345: Is bent to please him, this request forbear;
+LINE 346: Till yonder sun descend, ah, let me pay
+LINE 347: To grief and anguish one abstemious day."
+LINE 348: He spoke, and from the warriors turn'd his face:
+LINE 349: Yet still the brother-kings of Atreus' race.
+LINE 350: Nestor, Idomeneus, Ulysses sage,
+LINE 351: And Phœnix, strive to calm his grief and rage:
+LINE 352: His rage they calm not, nor his grief control;
+LINE 353: He groans, he raves, he sorrows from his soul.
+LINE 354: "Thou too, Patroclus! (thus his heart he vents)
+LINE 355: Once spread the inviting banquet in our tents:
+LINE 356: Thy sweet society, thy winning care,
+LINE 357: Once stay'd Achilles, rushing to the war.
+LINE 358: But now, alas! to death's cold arms resign'd,
+LINE 359: What banquet but revenge can glad my mind?
+LINE 360: What greater sorrow could afflict my breast,
+LINE 361: What more if hoary Peleus were deceased?
+LINE 362: Who now, perhaps, in Phthia dreads to hear
+LINE 363: His son's sad fate, and drops a tender tear.
+LINE 364: What more, should Neoptolemus the brave,
+LINE 365: My only offspring, sink into the grave?
+LINE 366: If yet that offspring lives; (I distant far,
+LINE 367: Of all neglectful, wage a hateful war.)
+LINE 368: I could not this, this cruel stroke attend;
+LINE 369: Fate claim'd Achilles, but might spare his friend.
+LINE 370: I hoped Patroclus might survive, to rear
+LINE 371: My tender orphan with a parent's care,
+LINE 372: From Scyros' isle conduct him o'er the main,
+LINE 373: And glad his eyes with his paternal reign,
+LINE 374: The lofty palace, and the large domain.
+LINE 375: For Peleus breathes no more the vital air;
+LINE 376: Or drags a wretched life of age and care,
+LINE 377: But till the news of my sad fate invades
+LINE 378: His hastening soul, and sinks him to the shades."
+LINE 379: Sighing he said: his grief the heroes join'd,
+LINE 380: Each stole a tear for what he left behind.
+LINE 381: Their mingled grief the sire of heaven survey'd,
+LINE 382: And thus with pity to his blue-eyed maid:
+LINE 383: "Is then Achilles now no more thy care,
+LINE 384: And dost thou thus desert the great in war?
+LINE 385: Lo, where yon sails their canvas wings extend,
+LINE 386: All comfortless he sits, and wails his friend:
+LINE 387: Ere thirst and want his forces have oppress'd,
+LINE 388: Haste and infuse ambrosia in his breast."
+LINE 389: He spoke; and sudden, at the word of Jove,
+LINE 390: Shot the descending goddess from above.
+LINE 391: So swift through ether the shrill harpy springs,
+LINE 392: The wide air floating to her ample wings,
+LINE 393: To great Achilles she her flight address'd,
+LINE 394: And pour'd divine ambrosia in his breast,[259]
+LINE 395: With nectar sweet, (refection of the gods!)
+LINE 396: Then, swift ascending, sought the bright abodes.
+LINE 397: Now issued from the ships the warrior-train,
+LINE 398: And like a deluge pour'd upon the plain.
+LINE 399: As when the piercing blasts of Boreas blow,
+LINE 400: And scatter o'er the fields the driving snow;
+LINE 401: From dusky clouds the fleecy winter flies,
+LINE 402: Whose dazzling lustre whitens all the skies:
+LINE 403: So helms succeeding helms, so shields from shields,
+LINE 404: Catch the quick beams, and brighten all the fields;
+LINE 405: Broad glittering breastplates, spears with pointed rays,
+LINE 406: Mix in one stream, reflecting blaze on blaze;
+LINE 407: Thick beats the centre as the coursers bound;
+LINE 408: With splendour flame the skies, and laugh the fields around,
+LINE 409: Full in the midst, high-towering o'er the rest,
+LINE 410: His limbs in arms divine Achilles dress'd;
+LINE 411: Arms which the father of the fire bestow'd,
+LINE 412: Forged on the eternal anvils of the god.
+LINE 413: Grief and revenge his furious heart inspire,
+LINE 414: His glowing eyeballs roll with living fire;
+LINE 415: He grinds his teeth, and furious with delay
+LINE 416: O'erlooks the embattled host, and hopes the bloody day.
+LINE 417: The silver cuishes first his thighs infold;
+LINE 418: Then o'er his breast was braced the hollow gold;
+LINE 419: The brazen sword a various baldric tied,
+LINE 420: That, starr'd with gems, hung glittering at his side;
+LINE 421: And, like the moon, the broad refulgent shield
+LINE 422: Blazed with long rays, and gleam'd athwart the field.
+LINE 423: So to night-wandering sailors, pale with fears,
+LINE 424: Wide o'er the watery waste, a light appears,
+LINE 425: Which on the far-seen mountain blazing high,
+LINE 426: Streams from some lonely watch-tower to the sky:
+LINE 427: With mournful eyes they gaze, and gaze again;
+LINE 428: Loud howls the storm, and drives them o'er the main.
+LINE 429: Next, his high head the helmet graced; behind
+LINE 430: The sweepy crest hung floating in the wind:
+LINE 431: Like the red star, that from his flaming hair
+LINE 432: Shakes down diseases, pestilence, and war;
+LINE 433: So stream'd the golden honours from his head,
+LINE 434: Trembled the sparkling plumes, and the loose glories shed.
+LINE 435: The chief beholds himself with wondering eyes;
+LINE 436: His arms he poises, and his motions tries;
+LINE 437: Buoy'd by some inward force, he seems to swim,
+LINE 438: And feels a pinion lifting every limb.
+LINE 439: And now he shakes his great paternal spear,
+LINE 440: Ponderous and huge, which not a Greek could rear,
+LINE 441: From Pelion's cloudy top an ash entire
+LINE 442: Old Chiron fell'd, and shaped it for his sire;
+LINE 443: A spear which stern Achilles only wields,
+LINE 444: The death of heroes, and the dread of fields.
+LINE 445: Automedon and Alcimus prepare
+LINE 446: The immortal coursers, and the radiant car;
+LINE 447: (The silver traces sweeping at their side;)
+LINE 448: Their fiery mouths resplendent bridles tied;
+LINE 449: The ivory-studded reins, return'd behind,
+LINE 450: Waved o'er their backs, and to the chariot join'd.
+LINE 451: The charioteer then whirl'd the lash around,
+LINE 452: And swift ascended at one active bound.
+LINE 453: All bright in heavenly arms, above his squire
+LINE 454: Achilles mounts, and sets the field on fire;
+LINE 455: Not brighter Phœbus in the ethereal way
+LINE 456: Flames from his chariot, and restores the day.
+LINE 457: High o'er the host, all terrible he stands,
+LINE 458: And thunders to his steeds these dread commands:
+LINE 459: "Xanthus and Balius! of Podarges' strain,
+LINE 460: (Unless ye boast that heavenly race in vain,)
+LINE 461: Be swift, be mindful of the load ye bear,
+LINE 462: And learn to make your master more your care:
+LINE 463: Through falling squadrons bear my slaughtering sword,
+LINE 464: Nor, as ye left Patroclus, leave your lord."
+LINE 465: The generous Xanthus, as the words he said,
+LINE 466: Seem'd sensible of woe, and droop'd his head:
+LINE 467: Trembling he stood before the golden wain,
+LINE 468: And bow'd to dust the honours of his mane.
+LINE 469: When, strange to tell! (so Juno will'd) he broke
+LINE 470: Eternal silence, and portentous spoke.
+LINE 471: "Achilles! yes! this day at least we bear
+LINE 472: Thy rage in safety through the files of war:
+LINE 473: But come it will, the fatal time must come,
+LINE 474: Not ours the fault, but God decrees thy doom.
+LINE 475: Not through our crime, or slowness in the course,
+LINE 476: Fell thy Patroclus, but by heavenly force;
+LINE 477: The bright far-shooting god who gilds the day
+LINE 478: (Confess'd we saw him) tore his arms away.
+LINE 479: No—could our swiftness o'er the winds prevail,
+LINE 480: Or beat the pinions of the western gale,
+LINE 481: All were in vain—the Fates thy death demand,
+LINE 482: Due to a mortal and immortal hand."
+LINE 483: Then ceased for ever, by the Furies tied,
+LINE 484: His fateful voice. The intrepid chief replied
+LINE 485: With unabated rage—"So let it be!
+LINE 486: Portents and prodigies are lost on me.
+LINE 487: I know my fate: to die, to see no more
+LINE 488: My much-loved parents, and my native shore—
+LINE 489: Enough—when heaven ordains, I sink in night:
+LINE 490: Now perish Troy!" He said, and rush'd to fight.
+LINE 491: [Illustration: ] HERCULES

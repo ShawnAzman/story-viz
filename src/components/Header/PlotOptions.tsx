@@ -145,6 +145,12 @@ function PlotOptions() {
 
     "trial-new",
     "trial-new-themes",
+
+    "metamorphosis-new",
+    "metamorphosis-new-themes",
+
+    "iliad-new",
+    "iliad-new-themes",
   ].sort();
 
   const storyOptionsDisplay = storyOptions.filter(

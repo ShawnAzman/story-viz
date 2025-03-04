@@ -1,0 +1,1040 @@
+LINE 1: ARGUMENT.
+LINE 2: THE REDEMPTION OF THE BODY OF HECTOR.
+LINE 3: The gods deliberate about the redemption of Hector's body. Jupiter
+LINE 4: sends Thetis to Achilles, to dispose him for the restoring it, and Iris
+LINE 5: to Priam, to encourage him to go in person and treat for it. The old
+LINE 6: king, notwithstanding the remonstrances of his queen, makes ready for
+LINE 7: the journey, to which he is encouraged by an omen from Jupiter. He sets
+LINE 8: forth in his chariot, with a waggon loaded with presents, under the
+LINE 9: charge of Idæus the herald. Mercury descends in the shape of a young
+LINE 10: man, and conducts him to the pavilion of Achilles. Their conversation
+LINE 11: on the way. Priam finds Achilles at his table, casts himself at his
+LINE 12: feet, and begs for the body of his son: Achilles, moved with
+LINE 13: compassion, grants his request, detains him one night in his tent, and
+LINE 14: the next morning sends him home with the body: the Trojans run out to
+LINE 15: meet him. The lamentations of Andromache, Hecuba, and Helen, with the
+LINE 16: solemnities of the funeral.
+LINE 17: The time of twelve days is employed in this book, while the body of
+LINE 18: Hector lies in the tent of Achilles; and as many more are spent in
+LINE 19: the truce allowed for his interment. The scene is partly in
+LINE 20: Achilles' camp, and partly in Troy.
+LINE 21: Now from the finish'd games the Grecian band
+LINE 22: Seek their black ships, and clear the crowded strand,
+LINE 23: All stretch'd at ease the genial banquet share,
+LINE 24: And pleasing slumbers quiet all their care.
+LINE 25: Not so Achilles: he, to grief resign'd,
+LINE 26: His friend's dear image present to his mind,
+LINE 27: Takes his sad couch, more unobserved to weep;
+LINE 28: Nor tastes the gifts of all-composing sleep.
+LINE 29: Restless he roll'd around his weary bed,
+LINE 30: And all his soul on his Patroclus fed:
+LINE 31: The form so pleasing, and the heart so kind,
+LINE 32: That youthful vigour, and that manly mind,
+LINE 33: What toils they shared, what martial works they wrought,
+LINE 34: What seas they measured, and what fields they fought;
+LINE 35: All pass'd before him in remembrance dear,
+LINE 36: Thought follows thought, and tear succeeds to tear.
+LINE 37: And now supine, now prone, the hero lay,
+LINE 38: Now shifts his side, impatient for the day:
+LINE 39: Then starting up, disconsolate he goes
+LINE 40: Wide on the lonely beach to vent his woes.
+LINE 41: There as the solitary mourner raves,
+LINE 42: The ruddy morning rises o'er the waves:
+LINE 43: Soon as it rose, his furious steeds he join'd!
+LINE 44: The chariot flies, and Hector trails behind.
+LINE 45: And thrice, Patroclus! round thy monument
+LINE 46: Was Hector dragg'd, then hurried to the tent.
+LINE 47: There sleep at last o'ercomes the hero's eyes;
+LINE 48: While foul in dust the unhonour'd carcase lies,
+LINE 49: But not deserted by the pitying skies:
+LINE 50: For Phœbus watch'd it with superior care,
+LINE 51: Preserved from gaping wounds and tainting air;
+LINE 52: And, ignominious as it swept the field,
+LINE 53: Spread o'er the sacred corse his golden shield.
+LINE 54: All heaven was moved, and Hermes will'd to go
+LINE 55: By stealth to snatch him from the insulting foe:
+LINE 56: But Neptune this, and Pallas this denies,
+LINE 57: And th' unrelenting empress of the skies,
+LINE 58: E'er since that day implacable to Troy,
+LINE 59: What time young Paris, simple shepherd boy,
+LINE 60: Won by destructive lust (reward obscene),
+LINE 61: Their charms rejected for the Cyprian queen.
+LINE 62: But when the tenth celestial morning broke,
+LINE 63: To heaven assembled, thus Apollo spoke:
+LINE 64: [Illustration: ] HECTOR'S BODY AT THE CAR OF ACHILLES
+LINE 65: "Unpitying powers! how oft each holy fane
+LINE 66: Has Hector tinged with blood of victims slain?
+LINE 67: And can ye still his cold remains pursue?
+LINE 68: Still grudge his body to the Trojans' view?
+LINE 69: Deny to consort, mother, son, and sire,
+LINE 70: The last sad honours of a funeral fire?
+LINE 71: Is then the dire Achilles all your care?
+LINE 72: That iron heart, inflexibly severe;
+LINE 73: A lion, not a man, who slaughters wide,
+LINE 74: In strength of rage, and impotence of pride;
+LINE 75: Who hastes to murder with a savage joy,
+LINE 76: Invades around, and breathes but to destroy!
+LINE 77: Shame is not of his soul; nor understood,
+LINE 78: The greatest evil and the greatest good.
+LINE 79: Still for one loss he rages unresign'd,
+LINE 80: Repugnant to the lot of all mankind;
+LINE 81: To lose a friend, a brother, or a son,
+LINE 82: Heaven dooms each mortal, and its will is done:
+LINE 83: Awhile they sorrow, then dismiss their care;
+LINE 84: Fate gives the wound, and man is born to bear.
+LINE 85: But this insatiate, the commission given
+LINE 86: By fate exceeds, and tempts the wrath of heaven:
+LINE 87: Lo, how his rage dishonest drags along
+LINE 88: Hector's dead earth, insensible of wrong!
+LINE 89: Brave though he be, yet by no reason awed,
+LINE 90: He violates the laws of man and god."
+LINE 91: [Illustration: ] THE JUDGMENT OF PARIS
+LINE 92: "If equal honours by the partial skies
+LINE 93: Are doom'd both heroes, (Juno thus replies,)
+LINE 94: If Thetis' son must no distinction know,
+LINE 95: Then hear, ye gods! the patron of the bow.
+LINE 96: But Hector only boasts a mortal claim,
+LINE 97: His birth deriving from a mortal dame:
+LINE 98: Achilles, of your own ethereal race,
+LINE 99: Springs from a goddess by a man's embrace
+LINE 100: (A goddess by ourself to Peleus given,
+LINE 101: A man divine, and chosen friend of heaven)
+LINE 102: To grace those nuptials, from the bright abode
+LINE 103: Yourselves were present; where this minstrel-god,
+LINE 104: Well pleased to share the feast, amid the quire
+LINE 105: Stood proud to hymn, and tune his youthful lyre."
+LINE 106: Then thus the Thunderer checks the imperial dame:
+LINE 107: "Let not thy wrath the court of heaven inflame;
+LINE 108: Their merits, nor their honours, are the same.
+LINE 109: But mine, and every god's peculiar grace
+LINE 110: Hector deserves, of all the Trojan race:
+LINE 111: Still on our shrines his grateful offerings lay,
+LINE 112: (The only honours men to gods can pay,)
+LINE 113: Nor ever from our smoking altar ceased
+LINE 114: The pure libation, and the holy feast:
+LINE 115: Howe'er by stealth to snatch the corse away,
+LINE 116: We will not: Thetis guards it night and day.
+LINE 117: But haste, and summon to our courts above
+LINE 118: The azure queen; let her persuasion move
+LINE 119: Her furious son from Priam to receive
+LINE 120: The proffer'd ransom, and the corse to leave."
+LINE 121: He added not: and Iris from the skies,
+LINE 122: Swift as a whirlwind, on the message flies,
+LINE 123: Meteorous the face of ocean sweeps,
+LINE 124: Refulgent gliding o'er the sable deeps.
+LINE 125: Between where Samos wide his forests spreads,
+LINE 126: And rocky Imbrus lifts its pointed heads,
+LINE 127: Down plunged the maid; (the parted waves resound;)
+LINE 128: She plunged and instant shot the dark profound.
+LINE 129: As bearing death in the fallacious bait,
+LINE 130: From the bent angle sinks the leaden weight;
+LINE 131: So pass'd the goddess through the closing wave,
+LINE 132: Where Thetis sorrow'd in her secret cave:
+LINE 133: There placed amidst her melancholy train
+LINE 134: (The blue-hair'd sisters of the sacred main)
+LINE 135: Pensive she sat, revolving fates to come,
+LINE 136: And wept her godlike son's approaching doom.
+LINE 137: Then thus the goddess of the painted bow:
+LINE 138: "Arise, O Thetis! from thy seats below,
+LINE 139: 'Tis Jove that calls."—"And why (the dame replies)
+LINE 140: Calls Jove his Thetis to the hated skies?
+LINE 141: Sad object as I am for heavenly sight!
+LINE 142: Ah may my sorrows ever shun the light!
+LINE 143: Howe'er, be heaven's almighty sire obey'd—"
+LINE 144: She spake, and veil'd her head in sable shade,
+LINE 145: Which, flowing long, her graceful person clad;
+LINE 146: And forth she paced, majestically sad.
+LINE 147: Then through the world of waters they repair
+LINE 148: (The way fair Iris led) to upper air.
+LINE 149: The deeps dividing, o'er the coast they rise,
+LINE 150: And touch with momentary flight the skies.
+LINE 151: There in the lightning's blaze the sire they found,
+LINE 152: And all the gods in shining synod round.
+LINE 153: Thetis approach'd with anguish in her face,
+LINE 154: (Minerva rising, gave the mourner place,)
+LINE 155: Even Juno sought her sorrows to console,
+LINE 156: And offer'd from her hand the nectar-bowl:
+LINE 157: She tasted, and resign'd it: then began
+LINE 158: The sacred sire of gods and mortal man:
+LINE 159: "Thou comest, fair Thetis, but with grief o'ercast;
+LINE 160: Maternal sorrows; long, ah, long to last!
+LINE 161: Suffice, we know and we partake thy cares;
+LINE 162: But yield to fate, and hear what Jove declares.
+LINE 163: Nine days are past since all the court above
+LINE 164: In Hector's cause have moved the ear of Jove;
+LINE 165: 'Twas voted, Hermes from his godlike foe
+LINE 166: By stealth should bear him, but we will'd not so:
+LINE 167: We will, thy son himself the corse restore,
+LINE 168: And to his conquest add this glory more.
+LINE 169: Then hie thee to him, and our mandate bear:
+LINE 170: Tell him he tempts the wrath of heaven too far;
+LINE 171: Nor let him more (our anger if he dread)
+LINE 172: Vent his mad vengeance on the sacred dead;
+LINE 173: But yield to ransom and the father's prayer;
+LINE 174: The mournful father, Iris shall prepare
+LINE 175: With gifts to sue; and offer to his hands
+LINE 176: Whate'er his honour asks, or heart demands."
+LINE 177: His word the silver-footed queen attends,
+LINE 178: And from Olympus' snowy tops descends.
+LINE 179: Arrived, she heard the voice of loud lament,
+LINE 180: And echoing groans that shook the lofty tent:
+LINE 181: His friends prepare the victim, and dispose
+LINE 182: Repast unheeded, while he vents his woes;
+LINE 183: The goddess seats her by her pensive son,
+LINE 184: She press'd his hand, and tender thus begun:
+LINE 185: "How long, unhappy! shall thy sorrows flow,
+LINE 186: And thy heart waste with life-consuming woe:
+LINE 187: Mindless of food, or love, whose pleasing reign
+LINE 188: Soothes weary life, and softens human pain?
+LINE 189: O snatch the moments yet within thy power;
+LINE 190: Not long to live, indulge the amorous hour!
+LINE 191: Lo! Jove himself (for Jove's command I bear)
+LINE 192: Forbids to tempt the wrath of heaven too far.
+LINE 193: No longer then (his fury if thou dread)
+LINE 194: Detain the relics of great Hector dead;
+LINE 195: Nor vent on senseless earth thy vengeance vain,
+LINE 196: But yield to ransom, and restore the slain."
+LINE 197: To whom Achilles: "Be the ransom given,
+LINE 198: And we submit, since such the will of heaven."
+LINE 199: While thus they communed, from the Olympian bowers
+LINE 200: Jove orders Iris to the Trojan towers:
+LINE 201: "Haste, winged goddess! to the sacred town,
+LINE 202: And urge her monarch to redeem his son.
+LINE 203: Alone the Ilian ramparts let him leave,
+LINE 204: And bear what stern Achilles may receive:
+LINE 205: Alone, for so we will; no Trojan near
+LINE 206: Except, to place the dead with decent care,
+LINE 207: Some aged herald, who with gentle hand
+LINE 208: May the slow mules and funeral car command.
+LINE 209: Nor let him death, nor let him danger dread,
+LINE 210: Safe through the foe by our protection led:
+LINE 211: Him Hermes to Achilles shall convey,
+LINE 212: Guard of his life, and partner of his way.
+LINE 213: Fierce as he is, Achilles' self shall spare
+LINE 214: His age, nor touch one venerable hair:
+LINE 215: Some thought there must be in a soul so brave,
+LINE 216: Some sense of duty, some desire to save."
+LINE 217: [Illustration: ] IRIS ADVISES PRIAM TO OBTAIN THE BODY OF HECTOR
+LINE 218: Then down her bow the winged Iris drives,
+LINE 219: And swift at Priam's mournful court arrives:
+LINE 220: Where the sad sons beside their father's throne
+LINE 221: Sat bathed in tears, and answer'd groan with groan.
+LINE 222: And all amidst them lay the hoary sire,
+LINE 223: (Sad scene of woe!) his face his wrapp'd attire
+LINE 224: Conceal'd from sight; with frantic hands he spread
+LINE 225: A shower of ashes o'er his neck and head.
+LINE 226: From room to room his pensive daughters roam;
+LINE 227: Whose shrieks and clamours fill the vaulted dome;
+LINE 228: Mindful of those, who late their pride and joy,
+LINE 229: Lie pale and breathless round the fields of Troy!
+LINE 230: Before the king Jove's messenger appears,
+LINE 231: And thus in whispers greets his trembling ears:
+LINE 232: "Fear not, O father! no ill news I bear;
+LINE 233: From Jove I come, Jove makes thee still his care;
+LINE 234: For Hector's sake these walls he bids thee leave,
+LINE 235: And bear what stern Achilles may receive;
+LINE 236: Alone, for so he wills; no Trojan near,
+LINE 237: Except, to place the dead with decent care,
+LINE 238: Some aged herald, who with gentle hand
+LINE 239: May the slow mules and funeral car command.
+LINE 240: Nor shalt thou death, nor shalt thou danger dread:
+LINE 241: Safe through the foe by his protection led:
+LINE 242: Thee Hermes to Pelides shall convey,
+LINE 243: Guard of thy life, and partner of thy way.
+LINE 244: Fierce as he is, Achilles' self shall spare
+LINE 245: Thy age, nor touch one venerable hair;
+LINE 246: Some thought there must be in a soul so brave,
+LINE 247: Some sense of duty, some desire to save."
+LINE 248: She spoke, and vanish'd. Priam bids prepare
+LINE 249: His gentle mules and harness to the car;
+LINE 250: There, for the gifts, a polish'd casket lay:
+LINE 251: His pious sons the king's command obey.
+LINE 252: Then pass'd the monarch to his bridal-room,
+LINE 253: Where cedar-beams the lofty roofs perfume,
+LINE 254: And where the treasures of his empire lay;
+LINE 255: Then call'd his queen, and thus began to say:
+LINE 256: "Unhappy consort of a king distress'd!
+LINE 257: Partake the troubles of thy husband's breast:
+LINE 258: I saw descend the messenger of Jove,
+LINE 259: Who bids me try Achilles' mind to move;
+LINE 260: Forsake these ramparts, and with gifts obtain
+LINE 261: The corse of Hector, at yon navy slain.
+LINE 262: Tell me thy thought: my heart impels to go
+LINE 263: Through hostile camps, and bears me to the foe."
+LINE 264: The hoary monarch thus. Her piercing cries
+LINE 265: Sad Hecuba renews, and then replies:
+LINE 266: "Ah! whither wanders thy distemper'd mind?
+LINE 267: And where the prudence now that awed mankind?
+LINE 268: Through Phrygia once and foreign regions known;
+LINE 269: Now all confused, distracted, overthrown!
+LINE 270: Singly to pass through hosts of foes! to face
+LINE 271: (O heart of steel!) the murderer of thy race!
+LINE 272: To view that deathful eye, and wander o'er
+LINE 273: Those hands yet red with Hector's noble gore!
+LINE 274: Alas! my lord! he knows not how to spare,
+LINE 275: And what his mercy, thy slain sons declare;
+LINE 276: So brave! so many fallen! To claim his rage
+LINE 277: Vain were thy dignity, and vain thy age.
+LINE 278: No—pent in this sad palace, let us give
+LINE 279: To grief the wretched days we have to live.
+LINE 280: Still, still for Hector let our sorrows flow,
+LINE 281: Born to his own, and to his parents' woe!
+LINE 282: Doom'd from the hour his luckless life begun,
+LINE 283: To dogs, to vultures, and to Peleus' son!
+LINE 284: Oh! in his dearest blood might I allay
+LINE 285: My rage, and these barbarities repay!
+LINE 286: For ah! could Hector merit thus, whose breath
+LINE 287: Expired not meanly, in unactive death?
+LINE 288: He poured his latest blood in manly fight,
+LINE 289: And fell a hero in his country's right."
+LINE 290: "Seek not to stay me, nor my soul affright
+LINE 291: With words of omen, like a bird of night,
+LINE 292: (Replied unmoved the venerable man;)
+LINE 293: 'Tis heaven commands me, and you urge in vain.
+LINE 294: Had any mortal voice the injunction laid,
+LINE 295: Nor augur, priest, nor seer, had been obey'd.
+LINE 296: A present goddess brought the high command,
+LINE 297: I saw, I heard her, and the word shall stand.
+LINE 298: I go, ye gods! obedient to your call:
+LINE 299: If in yon camp your powers have doom'd my fall,
+LINE 300: Content—By the same hand let me expire!
+LINE 301: Add to the slaughter'd son the wretched sire!
+LINE 302: One cold embrace at least may be allow'd,
+LINE 303: And my last tears flow mingled with his blood!"
+LINE 304: From forth his open'd stores, this said, he drew
+LINE 305: Twelve costly carpets of refulgent hue,
+LINE 306: As many vests, as many mantles told,
+LINE 307: And twelve fair veils, and garments stiff with gold,
+LINE 308: Two tripods next, and twice two chargers shine,
+LINE 309: With ten pure talents from the richest mine;
+LINE 310: And last a large well-labour'd bowl had place,
+LINE 311: (The pledge of treaties once with friendly Thrace:)
+LINE 312: Seem'd all too mean the stores he could employ,
+LINE 313: For one last look to buy him back to Troy!
+LINE 314: Lo! the sad father, frantic with his pain,
+LINE 315: Around him furious drives his menial train:
+LINE 316: In vain each slave with duteous care attends,
+LINE 317: Each office hurts him, and each face offends.
+LINE 318: "What make ye here, officious crowds! (he cries):
+LINE 319: Hence! nor obtrude your anguish on my eyes.
+LINE 320: Have ye no griefs at home, to fix ye there:
+LINE 321: Am I the only object of despair?
+LINE 322: Am I become my people's common show,
+LINE 323: Set up by Jove your spectacle of woe?
+LINE 324: No, you must feel him too; yourselves must fall;
+LINE 325: The same stern god to ruin gives you all:
+LINE 326: Nor is great Hector lost by me alone;
+LINE 327: Your sole defence, your guardian power is gone!
+LINE 328: I see your blood the fields of Phrygia drown,
+LINE 329: I see the ruins of your smoking town!
+LINE 330: O send me, gods! ere that sad day shall come,
+LINE 331: A willing ghost to Pluto's dreary dome!"
+LINE 332: He said, and feebly drives his friends away:
+LINE 333: The sorrowing friends his frantic rage obey.
+LINE 334: Next on his sons his erring fury falls,
+LINE 335: Polites, Paris, Agathon, he calls;
+LINE 336: His threats Deiphobus and Dius hear,
+LINE 337: Hippothous, Pammon, Helenes the seer,
+LINE 338: And generous Antiphon: for yet these nine
+LINE 339: Survived, sad relics of his numerous line.
+LINE 340: "Inglorious sons of an unhappy sire!
+LINE 341: Why did not all in Hector's cause expire?
+LINE 342: Wretch that I am! my bravest offspring slain.
+LINE 343: You, the disgrace of Priam's house, remain!
+LINE 344: Mestor the brave, renown'd in ranks of war,
+LINE 345: With Troilus, dreadful on his rushing car,[293]
+LINE 346: And last great Hector, more than man divine,
+LINE 347: For sure he seem'd not of terrestrial line!
+LINE 348: All those relentless Mars untimely slew,
+LINE 349: And left me these, a soft and servile crew,
+LINE 350: Whose days the feast and wanton dance employ,
+LINE 351: Gluttons and flatterers, the contempt of Troy!
+LINE 352: Why teach ye not my rapid wheels to run,
+LINE 353: And speed my journey to redeem my son?"
+LINE 354: The sons their father's wretched age revere,
+LINE 355: Forgive his anger, and produce the car.
+LINE 356: High on the seat the cabinet they bind:
+LINE 357: The new-made car with solid beauty shined;
+LINE 358: Box was the yoke, emboss'd with costly pains,
+LINE 359: And hung with ringlets to receive the reins;
+LINE 360: Nine cubits long, the traces swept the ground:
+LINE 361: These to the chariot's polish'd pole they bound.
+LINE 362: Then fix'd a ring the running reins to guide,
+LINE 363: And close beneath the gather'd ends were tied.
+LINE 364: Next with the gifts (the price of Hector slain)
+LINE 365: The sad attendants load the groaning wain:
+LINE 366: Last to the yoke the well-matched mules they bring,
+LINE 367: (The gift of Mysia to the Trojan king.)
+LINE 368: But the fair horses, long his darling care,
+LINE 369: Himself received, and harness'd to his car:
+LINE 370: Grieved as he was, he not this task denied;
+LINE 371: The hoary herald help'd him, at his side.
+LINE 372: While careful these the gentle coursers join'd,
+LINE 373: Sad Hecuba approach'd with anxious mind;
+LINE 374: A golden bowl that foam'd with fragrant wine,
+LINE 375: (Libation destined to the power divine,)
+LINE 376: Held in her right, before the steed she stands,
+LINE 377: And thus consigns it to the monarch's hands:
+LINE 378: "Take this, and pour to Jove; that safe from harms
+LINE 379: His grace restore thee to our roof and arms.
+LINE 380: Since victor of thy fears, and slighting mine,
+LINE 381: Heaven, or thy soul, inspires this bold design;
+LINE 382: Pray to that god, who high on Ida's brow
+LINE 383: Surveys thy desolated realms below,
+LINE 384: His winged messenger to send from high,
+LINE 385: And lead thy way with heavenly augury:
+LINE 386: Let the strong sovereign of the plumy race
+LINE 387: Tower on the right of yon ethereal space.
+LINE 388: That sign beheld, and strengthen'd from above,
+LINE 389: Boldly pursue the journey mark'd by Jove:
+LINE 390: But if the god his augury denies,
+LINE 391: Suppress thy impulse, nor reject advice."
+LINE 392: "'Tis just (said Priam) to the sire above
+LINE 393: To raise our hands; for who so good as Jove?"
+LINE 394: He spoke, and bade the attendant handmaid bring
+LINE 395: The purest water of the living spring:
+LINE 396: (Her ready hands the ewer and bason held:)
+LINE 397: Then took the golden cup his queen had fill'd;
+LINE 398: On the mid pavement pours the rosy wine,
+LINE 399: Uplifts his eyes, and calls the power divine:
+LINE 400: "O first and greatest! heaven's imperial lord!
+LINE 401: On lofty Ida's holy hill adored!
+LINE 402: To stern Achilles now direct my ways,
+LINE 403: And teach him mercy when a father prays.
+LINE 404: If such thy will, despatch from yonder sky
+LINE 405: Thy sacred bird, celestial augury!
+LINE 406: Let the strong sovereign of the plumy race
+LINE 407: Tower on the right of yon ethereal space;
+LINE 408: So shall thy suppliant, strengthen'd from above,
+LINE 409: Fearless pursue the journey mark'd by Jove."
+LINE 410: Jove heard his prayer, and from the throne on high,
+LINE 411: Despatch'd his bird, celestial augury!
+LINE 412: The swift-wing'd chaser of the feather'd game,
+LINE 413: And known to gods by Percnos' lofty name.
+LINE 414: Wide as appears some palace-gate display'd,
+LINE 415: So broad, his pinions stretch'd their ample shade,
+LINE 416: As stooping dexter with resounding wings
+LINE 417: The imperial bird descends in airy rings.
+LINE 418: A dawn of joy in every face appears:
+LINE 419: The mourning matron dries her timorous tears:
+LINE 420: Swift on his car the impatient monarch sprung;
+LINE 421: The brazen portal in his passage rung;
+LINE 422: The mules preceding draw the loaded wain,
+LINE 423: Charged with the gifts: Idæus holds the rein:
+LINE 424: The king himself his gentle steeds controls,
+LINE 425: And through surrounding friends the chariot rolls.
+LINE 426: On his slow wheels the following people wait,
+LINE 427: Mourn at each step, and give him up to fate;
+LINE 428: With hands uplifted eye him as he pass'd,
+LINE 429: And gaze upon him as they gazed their last.
+LINE 430: Now forward fares the father on his way,
+LINE 431: Through the lone fields, and back to Ilion they.
+LINE 432: Great Jove beheld him as he cross'd the plain,
+LINE 433: And felt the woes of miserable man.
+LINE 434: Then thus to Hermes: "Thou whose constant cares
+LINE 435: Still succour mortals, and attend their prayers;
+LINE 436: Behold an object to thy charge consign'd:
+LINE 437: If ever pity touch'd thee for mankind,
+LINE 438: Go, guard the sire: the observing foe prevent,
+LINE 439: And safe conduct him to Achilles' tent."
+LINE 440: The god obeys, his golden pinions binds,[294]
+LINE 441: And mounts incumbent on the wings of winds,
+LINE 442: That high, through fields of air, his flight sustain,
+LINE 443: O'er the wide earth, and o'er the boundless main;
+LINE 444: Then grasps the wand that causes sleep to fly,
+LINE 445: Or in soft slumbers seals the wakeful eye:
+LINE 446: Thus arm'd, swift Hermes steers his airy way,
+LINE 447: And stoops on Hellespont's resounding sea.
+LINE 448: A beauteous youth, majestic and divine,
+LINE 449: He seem'd; fair offspring of some princely line!
+LINE 450: Now twilight veil'd the glaring face of day,
+LINE 451: And clad the dusky fields in sober grey;
+LINE 452: What time the herald and the hoary king
+LINE 453: (Their chariots stopping at the silver spring,
+LINE 454: That circling Ilus' ancient marble flows)
+LINE 455: Allow'd their mules and steeds a short repose,
+LINE 456: Through the dim shade the herald first espies
+LINE 457: A man's approach, and thus to Priam cries:
+LINE 458: "I mark some foe's advance: O king! beware;
+LINE 459: This hard adventure claims thy utmost care!
+LINE 460: For much I fear destruction hovers nigh:
+LINE 461: Our state asks counsel; is it best to fly?
+LINE 462: Or old and helpless, at his feet to fall,
+LINE 463: Two wretched suppliants, and for mercy call?"
+LINE 464: The afflicted monarch shiver'd with despair;
+LINE 465: Pale grew his face, and upright stood his hair;
+LINE 466: Sunk was his heart; his colour went and came;
+LINE 467: A sudden trembling shook his aged frame:
+LINE 468: When Hermes, greeting, touch'd his royal hand,
+LINE 469: And, gentle, thus accosts with kind demand:
+LINE 470: "Say whither, father! when each mortal sight
+LINE 471: Is seal'd in sleep, thou wanderest through the night?
+LINE 472: Why roam thy mules and steeds the plains along,
+LINE 473: Through Grecian foes, so numerous and so strong?
+LINE 474: What couldst thou hope, should these thy treasures view;
+LINE 475: These, who with endless hate thy race pursue?
+LINE 476: For what defence, alas! could'st thou provide;
+LINE 477: Thyself not young, a weak old man thy guide?
+LINE 478: Yet suffer not thy soul to sink with dread;
+LINE 479: From me no harm shall touch thy reverend head;
+LINE 480: From Greece I'll guard thee too; for in those lines
+LINE 481: The living image of my father shines."
+LINE 482: "Thy words, that speak benevolence of mind,
+LINE 483: Are true, my son! (the godlike sire rejoin'd:)
+LINE 484: Great are my hazards; but the gods survey
+LINE 485: My steps, and send thee, guardian of my way.
+LINE 486: Hail, and be bless'd! For scarce of mortal kind
+LINE 487: Appear thy form, thy feature, and thy mind."
+LINE 488: "Nor true are all thy words, nor erring wide;
+LINE 489: (The sacred messenger of heaven replied;)
+LINE 490: But say, convey'st thou through the lonely plains
+LINE 491: What yet most precious of thy store remains,
+LINE 492: To lodge in safety with some friendly hand:
+LINE 493: Prepared, perchance, to leave thy native land?
+LINE 494: Or fliest thou now?—What hopes can Troy retain,
+LINE 495: Thy matchless son, her guard and glory, slain?"
+LINE 496: The king, alarm'd: "Say what, and whence thou art
+LINE 497: Who search the sorrows of a parent's heart,
+LINE 498: And know so well how godlike Hector died?"
+LINE 499: Thus Priam spoke, and Hermes thus replied:
+LINE 500: "You tempt me, father, and with pity touch:
+LINE 501: On this sad subject you inquire too much.
+LINE 502: Oft have these eyes that godlike Hector view'd
+LINE 503: In glorious fight, with Grecian blood embrued:
+LINE 504: I saw him when, like Jove, his flames he toss'd
+LINE 505: On thousand ships, and wither'd half a host:
+LINE 506: I saw, but help'd not: stern Achilles' ire
+LINE 507: Forbade assistance, and enjoy'd the fire.
+LINE 508: For him I serve, of Myrmidonian race;
+LINE 509: One ship convey'd us from our native place;
+LINE 510: Polyctor is my sire, an honour'd name,
+LINE 511: Old like thyself, and not unknown to fame;
+LINE 512: Of seven his sons, by whom the lot was cast
+LINE 513: To serve our prince, it fell on me, the last.
+LINE 514: To watch this quarter, my adventure falls:
+LINE 515: For with the morn the Greeks attack your walls;
+LINE 516: Sleepless they sit, impatient to engage,
+LINE 517: And scarce their rulers check their martial rage."
+LINE 518: "If then thou art of stern Pelides' train,
+LINE 519: (The mournful monarch thus rejoin'd again,)
+LINE 520: Ah tell me truly, where, oh! where are laid
+LINE 521: My son's dear relics? what befalls him dead?
+LINE 522: Have dogs dismember'd (on the naked plains),
+LINE 523: Or yet unmangled rest, his cold remains?"
+LINE 524: "O favour'd of the skies! (thus answered then
+LINE 525: The power that mediates between god and men)
+LINE 526: Nor dogs nor vultures have thy Hector rent,
+LINE 527: But whole he lies, neglected in the tent:
+LINE 528: This the twelfth evening since he rested there,
+LINE 529: Untouch'd by worms, untainted by the air.
+LINE 530: Still as Aurora's ruddy beam is spread,
+LINE 531: Round his friend's tomb Achilles drags the dead:
+LINE 532: Yet undisfigured, or in limb or face,
+LINE 533: All fresh he lies, with every living grace,
+LINE 534: Majestical in death! No stains are found
+LINE 535: O'er all the corse, and closed is every wound,
+LINE 536: Though many a wound they gave. Some heavenly care,
+LINE 537: Some hand divine, preserves him ever fair:
+LINE 538: Or all the host of heaven, to whom he led
+LINE 539: A life so grateful, still regard him dead."
+LINE 540: Thus spoke to Priam the celestial guide,
+LINE 541: And joyful thus the royal sire replied:
+LINE 542: "Blest is the man who pays the gods above
+LINE 543: The constant tribute of respect and love!
+LINE 544: Those who inhabit the Olympian bower
+LINE 545: My son forgot not, in exalted power;
+LINE 546: And heaven, that every virtue bears in mind,
+LINE 547: Even to the ashes of the just is kind.
+LINE 548: But thou, O generous youth! this goblet take,
+LINE 549: A pledge of gratitude for Hector's sake;
+LINE 550: And while the favouring gods our steps survey,
+LINE 551: Safe to Pelides' tent conduct my way."
+LINE 552: To whom the latent god: "O king, forbear
+LINE 553: To tempt my youth, for apt is youth to err.
+LINE 554: But can I, absent from my prince's sight,
+LINE 555: Take gifts in secret, that must shun the light?
+LINE 556: What from our master's interest thus we draw,
+LINE 557: Is but a licensed theft that 'scapes the law.
+LINE 558: Respecting him, my soul abjures the offence;
+LINE 559: And as the crime, I dread the consequence.
+LINE 560: Thee, far as Argos, pleased I could convey;
+LINE 561: Guard of thy life, and partner of thy way:
+LINE 562: On thee attend, thy safety to maintain,
+LINE 563: O'er pathless forests, or the roaring main."
+LINE 564: He said, then took the chariot at a bound,
+LINE 565: And snatch'd the reins, and whirl'd the lash around:
+LINE 566: Before the inspiring god that urged them on,
+LINE 567: The coursers fly with spirit not their own.
+LINE 568: And now they reach'd the naval walls, and found
+LINE 569: The guards repasting, while the bowls go round;
+LINE 570: On these the virtue of his wand he tries,
+LINE 571: And pours deep slumber on their watchful eyes:
+LINE 572: Then heaved the massy gates, removed the bars,
+LINE 573: And o'er the trenches led the rolling cars.
+LINE 574: Unseen, through all the hostile camp they went,
+LINE 575: And now approach'd Pelides' lofty tent.
+LINE 576: On firs the roof was raised, and cover'd o'er
+LINE 577: With reeds collected from the marshy shore;
+LINE 578: And, fenced with palisades, a hall of state,
+LINE 579: (The work of soldiers,) where the hero sat:
+LINE 580: Large was the door, whose well-compacted strength
+LINE 581: A solid pine-tree barr'd of wondrous length:
+LINE 582: Scarce three strong Greeks could lift its mighty weight,
+LINE 583: But great Achilles singly closed the gate.
+LINE 584: This Hermes (such the power of gods) set wide;
+LINE 585: Then swift alighted the celestial guide,
+LINE 586: And thus reveal'd—"Hear, prince! and understand
+LINE 587: Thou ow'st thy guidance to no mortal hand:
+LINE 588: Hermes I am, descended from above,
+LINE 589: The king of arts, the messenger of Jove,
+LINE 590: Farewell: to shun Achilles' sight I fly;
+LINE 591: Uncommon are such favours of the sky,
+LINE 592: Nor stand confess'd to frail mortality.
+LINE 593: Now fearless enter, and prefer thy prayers;
+LINE 594: Adjure him by his father's silver hairs,
+LINE 595: His son, his mother! urge him to bestow
+LINE 596: Whatever pity that stern heart can know."
+LINE 597: Thus having said, he vanish'd from his eyes,
+LINE 598: And in a moment shot into the skies:
+LINE 599: The king, confirm'd from heaven, alighted there,
+LINE 600: And left his aged herald on the car,
+LINE 601: With solemn pace through various rooms he went,
+LINE 602: And found Achilles in his inner tent:
+LINE 603: There sat the hero: Alcimus the brave,
+LINE 604: And great Automedon, attendance gave:
+LINE 605: These served his person at the royal feast;
+LINE 606: Around, at awful distance, stood the rest.
+LINE 607: Unseen by these, the king his entry made:
+LINE 608: And, prostrate now before Achilles laid,
+LINE 609: Sudden (a venerable sight!) appears;
+LINE 610: Embraced his knees, and bathed his hands in tears;
+LINE 611: Those direful hands his kisses press'd, embrued
+LINE 612: Even with the best, the dearest of his blood!
+LINE 613: As when a wretch (who, conscious of his crime,
+LINE 614: Pursued for murder, flies his native clime)
+LINE 615: Just gains some frontier, breathless, pale, amazed,
+LINE 616: All gaze, all wonder: thus Achilles gazed:
+LINE 617: Thus stood the attendants stupid with surprise:
+LINE 618: All mute, yet seem'd to question with their eyes:
+LINE 619: Each look'd on other, none the silence broke,
+LINE 620: Till thus at last the kingly suppliant spoke:
+LINE 621: "Ah think, thou favour'd of the powers divine![295]
+LINE 622: Think of thy father's age, and pity mine!
+LINE 623: In me that father's reverend image trace,
+LINE 624: Those silver hairs, that venerable face;
+LINE 625: His trembling limbs, his helpless person, see!
+LINE 626: In all my equal, but in misery!
+LINE 627: Yet now, perhaps, some turn of human fate
+LINE 628: Expels him helpless from his peaceful state;
+LINE 629: Think, from some powerful foe thou seest him fly,
+LINE 630: And beg protection with a feeble cry.
+LINE 631: Yet still one comfort in his soul may rise;
+LINE 632: He hears his son still lives to glad his eyes,
+LINE 633: And, hearing, still may hope a better day
+LINE 634: May send him thee, to chase that foe away.
+LINE 635: No comfort to my griefs, no hopes remain,
+LINE 636: The best, the bravest, of my sons are slain!
+LINE 637: Yet what a race! ere Greece to Ilion came,
+LINE 638: The pledge of many a loved and loving dame:
+LINE 639: Nineteen one mother bore—Dead, all are dead!
+LINE 640: How oft, alas! has wretched Priam bled!
+LINE 641: Still one was left their loss to recompense;
+LINE 642: His father's hope, his country's last defence.
+LINE 643: Him too thy rage has slain! beneath thy steel,
+LINE 644: Unhappy in his country's cause he fell!
+LINE 645: "For him through hostile camps I bent my way,
+LINE 646: For him thus prostrate at thy feet I lay;
+LINE 647: Large gifts proportion'd to thy wrath I bear;
+LINE 648: O hear the wretched, and the gods revere!
+LINE 649: "Think of thy father, and this face behold!
+LINE 650: See him in me, as helpless and as old!
+LINE 651: Though not so wretched: there he yields to me,
+LINE 652: The first of men in sovereign misery!
+LINE 653: Thus forced to kneel, thus grovelling to embrace
+LINE 654: The scourge and ruin of my realm and race;
+LINE 655: Suppliant my children's murderer to implore,
+LINE 656: And kiss those hands yet reeking with their gore!"
+LINE 657: These words soft pity in the chief inspire,
+LINE 658: Touch'd with the dear remembrance of his sire.
+LINE 659: Then with his hand (as prostrate still he lay)
+LINE 660: The old man's cheek he gently turn'd away.
+LINE 661: Now each by turns indulged the gush of woe;
+LINE 662: And now the mingled tides together flow:
+LINE 663: This low on earth, that gently bending o'er;
+LINE 664: A father one, and one a son deplore:
+LINE 665: But great Achilles different passions rend,
+LINE 666: And now his sire he mourns, and now his friend.
+LINE 667: The infectious softness through the heroes ran;
+LINE 668: One universal solemn shower began;
+LINE 669: They bore as heroes, but they felt as man.
+LINE 670: Satiate at length with unavailing woes,
+LINE 671: From the high throne divine Achilles rose;
+LINE 672: The reverend monarch by the hand he raised;
+LINE 673: On his white beard and form majestic gazed,
+LINE 674: Not unrelenting; then serene began
+LINE 675: With words to soothe the miserable man:
+LINE 676: "Alas, what weight of anguish hast thou known,
+LINE 677: Unhappy prince! thus guardless and alone
+LINE 678: To pass through foes, and thus undaunted face
+LINE 679: The man whose fury has destroy'd thy race!
+LINE 680: Heaven sure has arm'd thee with a heart of steel,
+LINE 681: A strength proportion'd to the woes you feel.
+LINE 682: Rise, then: let reason mitigate your care:
+LINE 683: To mourn avails not: man is born to bear.
+LINE 684: Such is, alas! the gods' severe decree:
+LINE 685: They, only they are blest, and only free.
+LINE 686: Two urns by Jove's high throne have ever stood,
+LINE 687: The source of evil one, and one of good;
+LINE 688: From thence the cup of mortal man he fills,
+LINE 689: Blessings to these, to those distributes ill;
+LINE 690: To most he mingles both: the wretch decreed
+LINE 691: To taste the bad unmix'd, is cursed indeed;
+LINE 692: Pursued by wrongs, by meagre famine driven,
+LINE 693: He wanders, outcast both of earth and heaven.
+LINE 694: The happiest taste not happiness sincere;
+LINE 695: But find the cordial draught is dash'd with care.
+LINE 696: Who more than Peleus shone in wealth and power
+LINE 697: What stars concurring bless'd his natal hour!
+LINE 698: A realm, a goddess, to his wishes given;
+LINE 699: Graced by the gods with all the gifts of heaven.
+LINE 700: One evil yet o'ertakes his latest day:
+LINE 701: No race succeeding to imperial sway;
+LINE 702: An only son; and he, alas! ordain'd
+LINE 703: To fall untimely in a foreign land.
+LINE 704: See him, in Troy, the pious care decline
+LINE 705: Of his weak age, to live the curse of thine!
+LINE 706: Thou too, old man, hast happier days beheld;
+LINE 707: In riches once, in children once excell'd;
+LINE 708: Extended Phrygia own'd thy ample reign,
+LINE 709: And all fair Lesbos' blissful seats contain,
+LINE 710: And all wide Hellespont's unmeasured main.
+LINE 711: But since the god his hand has pleased to turn,
+LINE 712: And fill thy measure from his bitter urn,
+LINE 713: What sees the sun, but hapless heroes' falls?
+LINE 714: War, and the blood of men, surround thy walls!
+LINE 715: What must be, must be. Bear thy lot, nor shed
+LINE 716: These unavailing sorrows o'er the dead;
+LINE 717: Thou canst not call him from the Stygian shore,
+LINE 718: But thou, alas! may'st live to suffer more!"
+LINE 719: To whom the king: "O favour'd of the skies!
+LINE 720: Here let me grow to earth! since Hector lies
+LINE 721: On the bare beach deprived of obsequies.
+LINE 722: O give me Hector! to my eyes restore
+LINE 723: His corse, and take the gifts: I ask no more.
+LINE 724: Thou, as thou may'st, these boundless stores enjoy;
+LINE 725: Safe may'st thou sail, and turn thy wrath from Troy;
+LINE 726: So shall thy pity and forbearance give
+LINE 727: A weak old man to see the light and live!"
+LINE 728: "Move me no more, (Achilles thus replies,
+LINE 729: While kindling anger sparkled in his eyes,)
+LINE 730: Nor seek by tears my steady soul to bend:
+LINE 731: To yield thy Hector I myself intend:
+LINE 732: For know, from Jove my goddess-mother came,
+LINE 733: (Old Ocean's daughter, silver-footed dame,)
+LINE 734: Nor comest thou but by heaven; nor comest alone,
+LINE 735: Some god impels with courage not thy own:
+LINE 736: No human hand the weighty gates unbarr'd,
+LINE 737: Nor could the boldest of our youth have dared
+LINE 738: To pass our outworks, or elude the guard.
+LINE 739: Cease; lest, neglectful of high Jove's command,
+LINE 740: I show thee, king! thou tread'st on hostile land;
+LINE 741: Release my knees, thy suppliant arts give o'er,
+LINE 742: And shake the purpose of my soul no more."
+LINE 743: The sire obey'd him, trembling and o'eraw'd.
+LINE 744: Achilles, like a lion, rush'd abroad:
+LINE 745: Automedon and Alcimus attend,
+LINE 746: (Whom most he honour'd, since he lost his friend,)
+LINE 747: These to unyoke the mules and horses went,
+LINE 748: And led the hoary herald to the tent;
+LINE 749: Next, heap'd on high, the numerous presents bear,
+LINE 750: (Great Hector's ransom,) from the polish'd car.
+LINE 751: Two splendid mantles, and a carpet spread,
+LINE 752: They leave: to cover and enwrap the dead.
+LINE 753: Then call the handmaids, with assistant toil
+LINE 754: To wash the body and anoint with oil,
+LINE 755: Apart from Priam: lest the unhappy sire,
+LINE 756: Provoked to passion, once more rouse to ire
+LINE 757: The stern Pelides; and nor sacred age,
+LINE 758: Nor Jove's command, should check the rising rage.
+LINE 759: This done, the garments o'er the corse they spread;
+LINE 760: Achilles lifts it to the funeral bed:
+LINE 761: Then, while the body on the car they laid,
+LINE 762: He groans, and calls on loved Patroclus' shade:
+LINE 763: "If, in that gloom which never light must know,
+LINE 764: The deeds of mortals touch the ghosts below,
+LINE 765: O friend! forgive me, that I thus fulfil
+LINE 766: (Restoring Hector) heaven's unquestion'd will.
+LINE 767: The gifts the father gave, be ever thine,
+LINE 768: To grace thy manes, and adorn thy shrine."[296]
+LINE 769: He said, and, entering, took his seat of state;
+LINE 770: Where full before him reverend Priam sate;
+LINE 771: To whom, composed, the godlike chief begun:
+LINE 772: "Lo! to thy prayer restored, thy breathless son;
+LINE 773: Extended on the funeral couch he lies;
+LINE 774: And soon as morning paints the eastern skies,
+LINE 775: The sight is granted to thy longing eyes:
+LINE 776: But now the peaceful hours of sacred night
+LINE 777: Demand reflection, and to rest invite:
+LINE 778: Nor thou, O father! thus consumed with woe,
+LINE 779: The common cares that nourish life forego.
+LINE 780: Not thus did Niobe, of form divine,
+LINE 781: A parent once, whose sorrows equall'd thine:
+LINE 782: Six youthful sons, as many blooming maids,
+LINE 783: In one sad day beheld the Stygian shades;
+LINE 784: Those by Apollo's silver bow were slain,
+LINE 785: These, Cynthia's arrows stretch'd upon the plain:
+LINE 786: So was her pride chastised by wrath divine,
+LINE 787: Who match'd her own with bright Latona's line;
+LINE 788: But two the goddess, twelve the queen enjoy'd;
+LINE 789: Those boasted twelve, the avenging two destroy'd.
+LINE 790: Steep'd in their blood, and in the dust outspread,
+LINE 791: Nine days, neglected, lay exposed the dead;
+LINE 792: None by to weep them, to inhume them none;
+LINE 793: (For Jove had turn'd the nation all to stone.)
+LINE 794: The gods themselves, at length relenting gave
+LINE 795: The unhappy race the honours of a grave.
+LINE 796: Herself a rock (for such was heaven's high will)
+LINE 797: Through deserts wild now pours a weeping rill;
+LINE 798: Where round the bed whence Achelous springs,
+LINE 799: The watery fairies dance in mazy rings;
+LINE 800: There high on Sipylus's shaggy brow,
+LINE 801: She stands, her own sad monument of woe;
+LINE 802: The rock for ever lasts, the tears for ever flow.
+LINE 803: "Such griefs, O king! have other parents known;
+LINE 804: Remember theirs, and mitigate thy own.
+LINE 805: The care of heaven thy Hector has appear'd,
+LINE 806: Nor shall he lie unwept, and uninterr'd;
+LINE 807: Soon may thy aged cheeks in tears be drown'd,
+LINE 808: And all the eyes of Ilion stream around."
+LINE 809: He said, and, rising, chose the victim ewe
+LINE 810: With silver fleece, which his attendants slew.
+LINE 811: The limbs they sever from the reeking hide,
+LINE 812: With skill prepare them, and in parts divide:
+LINE 813: Each on the coals the separate morsels lays,
+LINE 814: And, hasty, snatches from the rising blaze.
+LINE 815: With bread the glittering canisters they load,
+LINE 816: Which round the board Automedon bestow'd.
+LINE 817: The chief himself to each his portion placed,
+LINE 818: And each indulging shared in sweet repast.
+LINE 819: When now the rage of hunger was repress'd,
+LINE 820: The wondering hero eyes his royal guest:
+LINE 821: No less the royal guest the hero eyes,
+LINE 822: His godlike aspect and majestic size;
+LINE 823: Here, youthful grace and noble fire engage;
+LINE 824: And there, the mild benevolence of age.
+LINE 825: Thus gazing long, the silence neither broke,
+LINE 826: (A solemn scene!) at length the father spoke:
+LINE 827: "Permit me now, beloved of Jove! to steep
+LINE 828: My careful temples in the dew of sleep:
+LINE 829: For, since the day that number'd with the dead
+LINE 830: My hapless son, the dust has been my bed;
+LINE 831: Soft sleep a stranger to my weeping eyes;
+LINE 832: My only food, my sorrows and my sighs!
+LINE 833: Till now, encouraged by the grace you give,
+LINE 834: I share thy banquet, and consent to live."
+LINE 835: With that, Achilles bade prepare the bed,
+LINE 836: With purple soft and shaggy carpets spread;
+LINE 837: Forth, by the flaming lights, they bend their way,
+LINE 838: And place the couches, and the coverings lay.
+LINE 839: Then he: "Now, father, sleep, but sleep not here;
+LINE 840: Consult thy safety, and forgive my fear,
+LINE 841: Lest any Argive, at this hour awake,
+LINE 842: To ask our counsel, or our orders take,
+LINE 843: Approaching sudden to our open'd tent,
+LINE 844: Perchance behold thee, and our grace prevent.
+LINE 845: Should such report thy honour'd person here,
+LINE 846: The king of men the ransom might defer;
+LINE 847: But say with speed, if aught of thy desire
+LINE 848: Remains unask'd; what time the rites require
+LINE 849: To inter thy Hector? For, so long we stay
+LINE 850: Our slaughtering arm, and bid the hosts obey."
+LINE 851: "If then thy will permit (the monarch said)
+LINE 852: To finish all due honours to the dead,
+LINE 853: This of thy grace accord: to thee are known
+LINE 854: The fears of Ilion, closed within her town;
+LINE 855: And at what distance from our walls aspire
+LINE 856: The hills of Ide, and forests for the fire.
+LINE 857: Nine days to vent our sorrows I request,
+LINE 858: The tenth shall see the funeral and the feast;
+LINE 859: The next, to raise his monument be given;
+LINE 860: The twelfth we war, if war be doom'd by heaven!"
+LINE 861: "This thy request (replied the chief) enjoy:
+LINE 862: Till then our arms suspend the fall of Troy."
+LINE 863: Then gave his hand at parting, to prevent
+LINE 864: The old man's fears, and turn'd within the tent;
+LINE 865: Where fair Briseïs, bright in blooming charms,
+LINE 866: Expects her hero with desiring arms.
+LINE 867: But in the porch the king and herald rest;
+LINE 868: Sad dreams of care yet wandering in their breast.
+LINE 869: Now gods and men the gifts of sleep partake;
+LINE 870: Industrious Hermes only was awake,
+LINE 871: The king's return revolving in his mind,
+LINE 872: To pass the ramparts, and the watch to blind.
+LINE 873: The power descending hover'd o'er his head:
+LINE 874: "And sleep'st thou, father! (thus the vision said:)
+LINE 875: Now dost thou sleep, when Hector is restored?
+LINE 876: Nor fear the Grecian foes, or Grecian lord?
+LINE 877: Thy presence here should stern Atrides see,
+LINE 878: Thy still surviving sons may sue for thee;
+LINE 879: May offer all thy treasures yet contain,
+LINE 880: To spare thy age; and offer all in vain."
+LINE 881: Waked with the word the trembling sire arose,
+LINE 882: And raised his friend: the god before him goes:
+LINE 883: He joins the mules, directs them with his hand,
+LINE 884: And moves in silence through the hostile land.
+LINE 885: When now to Xanthus' yellow stream they drove,
+LINE 886: (Xanthus, immortal progeny of Jove,)
+LINE 887: The winged deity forsook their view,
+LINE 888: And in a moment to Olympus flew.
+LINE 889: Now shed Aurora round her saffron ray,
+LINE 890: Sprang through the gates of light, and gave the day:
+LINE 891: Charged with the mournful load, to Ilion go
+LINE 892: The sage and king, majestically slow.
+LINE 893: Cassandra first beholds, from Ilion's spire,
+LINE 894: The sad procession of her hoary sire;
+LINE 895: Then, as the pensive pomp advanced more near,
+LINE 896: (Her breathless brother stretched upon the bier,)
+LINE 897: A shower of tears o'erflows her beauteous eyes,
+LINE 898: Alarming thus all Ilion with her cries:
+LINE 899: "Turn here your steps, and here your eyes employ,
+LINE 900: Ye wretched daughters, and ye sons of Troy!
+LINE 901: If e'er ye rush'd in crowds, with vast delight,
+LINE 902: To hail your hero glorious from the fight,
+LINE 903: Now meet him dead, and let your sorrows flow;
+LINE 904: Your common triumph, and your common woe."
+LINE 905: In thronging crowds they issue to the plains;
+LINE 906: Nor man nor woman in the walls remains;
+LINE 907: In every face the self-same grief is shown;
+LINE 908: And Troy sends forth one universal groan.
+LINE 909: At Scæa's gates they meet the mourning wain,
+LINE 910: Hang on the wheels, and grovel round the slain.
+LINE 911: The wife and mother, frantic with despair,
+LINE 912: Kiss his pale cheek, and rend their scatter'd hair:
+LINE 913: Thus wildly wailing, at the gates they lay;
+LINE 914: And there had sigh'd and sorrow'd out the day;
+LINE 915: But godlike Priam from the chariot rose:
+LINE 916: "Forbear (he cried) this violence of woes;
+LINE 917: First to the palace let the car proceed,
+LINE 918: Then pour your boundless sorrows o'er the dead."
+LINE 919: The waves of people at his word divide,
+LINE 920: Slow rolls the chariot through the following tide;
+LINE 921: Even to the palace the sad pomp they wait:
+LINE 922: They weep, and place him on the bed of state.
+LINE 923: A melancholy choir attend around,
+LINE 924: With plaintive sighs, and music's solemn sound:
+LINE 925: Alternately they sing, alternate flow
+LINE 926: The obedient tears, melodious in their woe.
+LINE 927: While deeper sorrows groan from each full heart,
+LINE 928: And nature speaks at every pause of art.
+LINE 929: First to the corse the weeping consort flew;
+LINE 930: Around his neck her milk-white arms she threw,
+LINE 931: "And oh, my Hector! Oh, my lord! (she cries)
+LINE 932: Snatch'd in thy bloom from these desiring eyes!
+LINE 933: Thou to the dismal realms for ever gone!
+LINE 934: And I abandon'd, desolate, alone!
+LINE 935: An only son, once comfort of our pains,
+LINE 936: Sad product now of hapless love, remains!
+LINE 937: Never to manly age that son shall rise,
+LINE 938: Or with increasing graces glad my eyes:
+LINE 939: For Ilion now (her great defender slain)
+LINE 940: Shall sink a smoking ruin on the plain.
+LINE 941: Who now protects her wives with guardian care?
+LINE 942: Who saves her infants from the rage of war?
+LINE 943: Now hostile fleets must waft those infants o'er
+LINE 944: (Those wives must wait them) to a foreign shore:
+LINE 945: Thou too, my son, to barbarous climes shall go,
+LINE 946: The sad companion of thy mother's woe;
+LINE 947: Driven hence a slave before the victor's sword
+LINE 948: Condemn'd to toil for some inhuman lord:
+LINE 949: Or else some Greek whose father press'd the plain,
+LINE 950: Or son, or brother, by great Hector slain,
+LINE 951: In Hector's blood his vengeance shall enjoy,
+LINE 952: And hurl thee headlong from the towers of Troy.[297]
+LINE 953: For thy stern father never spared a foe:
+LINE 954: Thence all these tears, and all this scene of woe!
+LINE 955: Thence many evils his sad parents bore,
+LINE 956: His parents many, but his consort more.
+LINE 957: Why gav'st thou not to me thy dying hand?
+LINE 958: And why received not I thy last command?
+LINE 959: Some word thou would'st have spoke, which, sadly dear,
+LINE 960: My soul might keep, or utter with a tear;
+LINE 961: Which never, never could be lost in air,
+LINE 962: Fix'd in my heart, and oft repeated there!"
+LINE 963: Thus to her weeping maids she makes her moan,
+LINE 964: Her weeping handmaids echo groan for groan.
+LINE 965: The mournful mother next sustains her part:
+LINE 966: "O thou, the best, the dearest to my heart!
+LINE 967: Of all my race thou most by heaven approved,
+LINE 968: And by the immortals even in death beloved!
+LINE 969: While all my other sons in barbarous bands
+LINE 970: Achilles bound, and sold to foreign lands,
+LINE 971: This felt no chains, but went a glorious ghost,
+LINE 972: Free, and a hero, to the Stygian coast.
+LINE 973: Sentenced, 'tis true, by his inhuman doom,
+LINE 974: Thy noble corse was dragg'd around the tomb;
+LINE 975: (The tomb of him thy warlike arm had slain;)
+LINE 976: Ungenerous insult, impotent and vain!
+LINE 977: Yet glow'st thou fresh with every living grace;
+LINE 978: No mark of pain, or violence of face:
+LINE 979: Rosy and fair! as Phœbus' silver bow
+LINE 980: Dismiss'd thee gently to the shades below."
+LINE 981: Thus spoke the dame, and melted into tears.
+LINE 982: Sad Helen next in pomp of grief appears;
+LINE 983: Fast from the shining sluices of her eyes
+LINE 984: Fall the round crystal drops, while thus she cries.
+LINE 985: "Ah, dearest friend! in whom the gods had join'd[298]
+LINE 986: The mildest manners with the bravest mind,
+LINE 987: Now twice ten years (unhappy years) are o'er
+LINE 988: Since Paris brought me to the Trojan shore,
+LINE 989: (O had I perish'd, ere that form divine
+LINE 990: Seduced this soft, this easy heart of mine!)
+LINE 991: Yet was it ne'er my fate, from thee to find
+LINE 992: A deed ungentle, or a word unkind.
+LINE 993: When others cursed the authoress of their woe,
+LINE 994: Thy pity check'd my sorrows in their flow.
+LINE 995: If some proud brother eyed me with disdain,
+LINE 996: Or scornful sister with her sweeping train,
+LINE 997: Thy gentle accents soften'd all my pain.
+LINE 998: For thee I mourn, and mourn myself in thee,
+LINE 999: The wretched source of all this misery.
+LINE 1000: The fate I caused, for ever I bemoan;
+LINE 1001: Sad Helen has no friend, now thou art gone!
+LINE 1002: Through Troy's wide streets abandon'd shall I roam!
+LINE 1003: In Troy deserted, as abhorr'd at home!"
+LINE 1004: So spoke the fair, with sorrow-streaming eye.
+LINE 1005: Distressful beauty melts each stander-by.
+LINE 1006: On all around the infectious sorrow grows;
+LINE 1007: But Priam check'd the torrent as it rose:
+LINE 1008: "Perform, ye Trojans! what the rites require,
+LINE 1009: And fell the forests for a funeral pyre;
+LINE 1010: Twelve days, nor foes nor secret ambush dread;
+LINE 1011: Achilles grants these honours to the dead."[299]
+LINE 1012: [Illustration: ] FUNERAL OF HECTOR
+LINE 1013: He spoke, and, at his word, the Trojan train
+LINE 1014: Their mules and oxen harness to the wain,
+LINE 1015: Pour through the gates, and fell'd from Ida's crown,
+LINE 1016: Roll back the gather'd forests to the town.
+LINE 1017: These toils continue nine succeeding days,
+LINE 1018: And high in air a sylvan structure raise.
+LINE 1019: But when the tenth fair morn began to shine,
+LINE 1020: Forth to the pile was borne the man divine,
+LINE 1021: And placed aloft; while all, with streaming eyes,
+LINE 1022: Beheld the flames and rolling smokes arise.
+LINE 1023: Soon as Aurora, daughter of the dawn,
+LINE 1024: With rosy lustre streak'd the dewy lawn,
+LINE 1025: Again the mournful crowds surround the pyre,
+LINE 1026: And quench with wine the yet remaining fire.
+LINE 1027: The snowy bones his friends and brothers place
+LINE 1028: (With tears collected) in a golden vase;
+LINE 1029: The golden vase in purple palls they roll'd,
+LINE 1030: Of softest texture, and inwrought with gold.
+LINE 1031: Last o'er the urn the sacred earth they spread,
+LINE 1032: And raised the tomb, memorial of the dead.
+LINE 1033: (Strong guards and spies, till all the rites were done,
+LINE 1034: Watch'd from the rising to the setting sun.)
+LINE 1035: All Troy then moves to Priam's court again,
+LINE 1036: A solemn, silent, melancholy train:
+LINE 1037: Assembled there, from pious toil they rest,
+LINE 1038: And sadly shared the last sepulchral feast.
+LINE 1039: Such honours Ilion to her hero paid,
+LINE 1040: And peaceful slept the mighty Hector's shade.

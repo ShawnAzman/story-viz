@@ -1,0 +1,597 @@
+LINE 1: ARGUMENT.
+LINE 2: THE DUEL OF MENELAUS AND PARIS.
+LINE 3: The armies being ready to engage, a single combat is agreed upon
+LINE 4: between Menelaus and Paris (by the intervention of Hector) for the
+LINE 5: determination of the war. Iris is sent to call Helen to behold the
+LINE 6: fight. She leads her to the walls of Troy, where Priam sat with his
+LINE 7: counsellers observing the Grecian leaders on the plain below, to whom
+LINE 8: Helen gives an account of the chief of them. The kings on either part
+LINE 9: take the solemn oath for the conditions of the combat. The duel ensues;
+LINE 10: wherein Paris being overcome, he is snatched away in a cloud by Venus,
+LINE 11: and transported to his apartment. She then calls Helen from the walls,
+LINE 12: and brings the lovers together. Agamemnon, on the part of the Grecians,
+LINE 13: demands the restoration of Helen, and the performance of the articles.
+LINE 14: The three-and-twentieth day still continues throughout this book.
+LINE 15: The scene is sometimes in the fields before Troy, and sometimes in
+LINE 16: Troy itself.
+LINE 17: Thus by their leaders' care each martial band
+LINE 18: Moves into ranks, and stretches o'er the land.
+LINE 19: With shouts the Trojans, rushing from afar,
+LINE 20: Proclaim their motions, and provoke the war.
+LINE 21: So when inclement winters vex the plain
+LINE 22: With piercing frosts, or thick-descending rain,
+LINE 23: To warmer seas the cranes embodied fly,[108]
+LINE 24: With noise, and order, through the midway sky;
+LINE 25: To pigmy nations wounds and death they bring,
+LINE 26: And all the war descends upon the wing,
+LINE 27: But silent, breathing rage, resolved and skill'd[109]
+LINE 28: By mutual aids to fix a doubtful field,
+LINE 29: Swift march the Greeks: the rapid dust around
+LINE 30: Darkening arises from the labour'd ground.
+LINE 31: Thus from his flaggy wings when Notus sheds
+LINE 32: A night of vapours round the mountain heads,
+LINE 33: Swift-gliding mists the dusky fields invade,
+LINE 34: To thieves more grateful than the midnight shade;
+LINE 35: While scarce the swains their feeding flocks survey,
+LINE 36: Lost and confused amidst the thicken'd day:
+LINE 37: So wrapp'd in gathering dust, the Grecian train,
+LINE 38: A moving cloud, swept on, and hid the plain.
+LINE 39: Now front to front the hostile armies stand,
+LINE 40: Eager of fight, and only wait command;
+LINE 41: When, to the van, before the sons of fame
+LINE 42: Whom Troy sent forth, the beauteous Paris came:
+LINE 43: In form a god! the panther's speckled hide
+LINE 44: Flow'd o'er his armour with an easy pride:
+LINE 45: His bended bow across his shoulders flung,
+LINE 46: His sword beside him negligently hung;
+LINE 47: Two pointed spears he shook with gallant grace,
+LINE 48: And dared the bravest of the Grecian race.
+LINE 49: As thus, with glorious air and proud disdain,
+LINE 50: He boldly stalk'd, the foremost on the plain,
+LINE 51: Him Menelaus, loved of Mars, espies,
+LINE 52: With heart elated, and with joyful eyes:
+LINE 53: So joys a lion, if the branching deer,
+LINE 54: Or mountain goat, his bulky prize, appear;
+LINE 55: Eager he seizes and devours the slain,
+LINE 56: Press'd by bold youths and baying dogs in vain.
+LINE 57: Thus fond of vengeance, with a furious bound,
+LINE 58: In clanging arms he leaps upon the ground
+LINE 59: From his high chariot: him, approaching near,
+LINE 60: The beauteous champion views with marks of fear,
+LINE 61: Smit with a conscious sense, retires behind,
+LINE 62: And shuns the fate he well deserved to find.
+LINE 63: As when some shepherd, from the rustling trees[110]
+LINE 64: Shot forth to view, a scaly serpent sees,
+LINE 65: Trembling and pale, he starts with wild affright
+LINE 66: And all confused precipitates his flight:
+LINE 67: So from the king the shining warrior flies,
+LINE 68: And plunged amid the thickest Trojans lies.
+LINE 69: As godlike Hector sees the prince retreat,
+LINE 70: He thus upbraids him with a generous heat:
+LINE 71: "Unhappy Paris![111] but to women brave!
+LINE 72: So fairly form'd, and only to deceive!
+LINE 73: Oh, hadst thou died when first thou saw'st the light,
+LINE 74: Or died at least before thy nuptial rite!
+LINE 75: A better fate than vainly thus to boast,
+LINE 76: And fly, the scandal of thy Trojan host.
+LINE 77: Gods! how the scornful Greeks exult to see
+LINE 78: Their fears of danger undeceived in thee!
+LINE 79: Thy figure promised with a martial air,
+LINE 80: But ill thy soul supplies a form so fair.
+LINE 81: In former days, in all thy gallant pride,
+LINE 82: When thy tall ships triumphant stemm'd the tide,
+LINE 83: When Greece beheld thy painted canvas flow,
+LINE 84: And crowds stood wondering at the passing show,
+LINE 85: Say, was it thus, with such a baffled mien,
+LINE 86: You met the approaches of the Spartan queen,
+LINE 87: Thus from her realm convey'd the beauteous prize,
+LINE 88: And both her warlike lords outshined in Helen's eyes?
+LINE 89: This deed, thy foes' delight, thy own disgrace,
+LINE 90: Thy father's grief, and ruin of thy race;
+LINE 91: This deed recalls thee to the proffer'd fight;
+LINE 92: Or hast thou injured whom thou dar'st not right?
+LINE 93: Soon to thy cost the field would make thee know
+LINE 94: Thou keep'st the consort of a braver foe.
+LINE 95: Thy graceful form instilling soft desire,
+LINE 96: Thy curling tresses, and thy silver lyre,
+LINE 97: Beauty and youth; in vain to these you trust,
+LINE 98: When youth and beauty shall be laid in dust:
+LINE 99: Troy yet may wake, and one avenging blow
+LINE 100: Crush the dire author of his country's woe."
+LINE 101: His silence here, with blushes, Paris breaks:
+LINE 102: "'Tis just, my brother, what your anger speaks:
+LINE 103: But who like thee can boast a soul sedate,
+LINE 104: So firmly proof to all the shocks of fate?
+LINE 105: Thy force, like steel, a temper'd hardness shows,
+LINE 106: Still edged to wound, and still untired with blows,
+LINE 107: Like steel, uplifted by some strenuous swain,
+LINE 108: With falling woods to strew the wasted plain.
+LINE 109: Thy gifts I praise; nor thou despise the charms
+LINE 110: With which a lover golden Venus arms;
+LINE 111: Soft moving speech, and pleasing outward show,
+LINE 112: No wish can gain them, but the gods bestow.
+LINE 113: Yet, would'st thou have the proffer'd combat stand,
+LINE 114: The Greeks and Trojans seat on either hand;
+LINE 115: Then let a midway space our hosts divide,
+LINE 116: And, on that stage of war, the cause be tried:
+LINE 117: By Paris there the Spartan king be fought,
+LINE 118: For beauteous Helen and the wealth she brought;
+LINE 119: And who his rival can in arms subdue,
+LINE 120: His be the fair, and his the treasure too.
+LINE 121: Thus with a lasting league your toils may cease,
+LINE 122: And Troy possess her fertile fields in peace;
+LINE 123: Thus may the Greeks review their native shore,
+LINE 124: Much famed for generous steeds, for beauty more."
+LINE 125: He said. The challenge Hector heard with joy,
+LINE 126: Then with his spear restrain'd the youth of Troy,
+LINE 127: Held by the midst, athwart; and near the foe
+LINE 128: Advanced with steps majestically slow:
+LINE 129: While round his dauntless head the Grecians pour
+LINE 130: Their stones and arrows in a mingled shower.
+LINE 131: Then thus the monarch, great Atrides, cried:
+LINE 132: "Forbear, ye warriors! lay the darts aside:
+LINE 133: A parley Hector asks, a message bears;
+LINE 134: We know him by the various plume he wears."
+LINE 135: Awed by his high command the Greeks attend,
+LINE 136: The tumult silence, and the fight suspend.
+LINE 137: While from the centre Hector rolls his eyes
+LINE 138: On either host, and thus to both applies:
+LINE 139: "Hear, all ye Trojan, all ye Grecian bands,
+LINE 140: What Paris, author of the war, demands.
+LINE 141: Your shining swords within the sheath restrain,
+LINE 142: And pitch your lances in the yielding plain.
+LINE 143: Here in the midst, in either army's sight,
+LINE 144: He dares the Spartan king to single fight;
+LINE 145: And wills that Helen and the ravish'd spoil,
+LINE 146: That caused the contest, shall reward the toil.
+LINE 147: Let these the brave triumphant victor grace,
+LINE 148: And different nations part in leagues of peace."
+LINE 149: He spoke: in still suspense on either side
+LINE 150: Each army stood: the Spartan chief replied:
+LINE 151: "Me too, ye warriors, hear, whose fatal right
+LINE 152: A world engages in the toils of fight.
+LINE 153: To me the labour of the field resign;
+LINE 154: Me Paris injured; all the war be mine.
+LINE 155: Fall he that must, beneath his rival's arms;
+LINE 156: And live the rest, secure of future harms.
+LINE 157: Two lambs, devoted by your country's rite,
+LINE 158: To earth a sable, to the sun a white,
+LINE 159: Prepare, ye Trojans! while a third we bring
+LINE 160: Select to Jove, the inviolable king.
+LINE 161: Let reverend Priam in the truce engage,
+LINE 162: And add the sanction of considerate age;
+LINE 163: His sons are faithless, headlong in debate,
+LINE 164: And youth itself an empty wavering state;
+LINE 165: Cool age advances, venerably wise,
+LINE 166: Turns on all hands its deep-discerning eyes;
+LINE 167: Sees what befell, and what may yet befall,
+LINE 168: Concludes from both, and best provides for all.
+LINE 169: The nations hear with rising hopes possess'd,
+LINE 170: And peaceful prospects dawn in every breast.
+LINE 171: Within the lines they drew their steeds around,
+LINE 172: And from their chariots issued on the ground;
+LINE 173: Next, all unbuckling the rich mail they wore,
+LINE 174: Laid their bright arms along the sable shore.
+LINE 175: On either side the meeting hosts are seen
+LINE 176: With lances fix'd, and close the space between.
+LINE 177: Two heralds now, despatch'd to Troy, invite
+LINE 178: The Phrygian monarch to the peaceful rite.
+LINE 179: Talthybius hastens to the fleet, to bring
+LINE 180: The lamb for Jove, the inviolable king.
+LINE 181: Meantime to beauteous Helen, from the skies
+LINE 182: The various goddess of the rainbow flies:
+LINE 183: (Like fair Laodice in form and face,
+LINE 184: The loveliest nymph of Priam's royal race:)
+LINE 185: Her in the palace, at her loom she found;
+LINE 186: The golden web her own sad story crown'd,
+LINE 187: The Trojan wars she weaved (herself the prize)
+LINE 188: And the dire triumphs of her fatal eyes.
+LINE 189: To whom the goddess of the painted bow:
+LINE 190: "Approach, and view the wondrous scene below![112]
+LINE 191: Each hardy Greek, and valiant Trojan knight,
+LINE 192: So dreadful late, and furious for the fight,
+LINE 193: Now rest their spears, or lean upon their shields;
+LINE 194: Ceased is the war, and silent all the fields.
+LINE 195: Paris alone and Sparta's king advance,
+LINE 196: In single fight to toss the beamy lance;
+LINE 197: Each met in arms, the fate of combat tries,
+LINE 198: Thy love the motive, and thy charms the prize."
+LINE 199: This said, the many-coloured maid inspires
+LINE 200: Her husband's love, and wakes her former fires;
+LINE 201: Her country, parents, all that once were dear,
+LINE 202: Rush to her thought, and force a tender tear,
+LINE 203: O'er her fair face a snowy veil she threw,
+LINE 204: And, softly sighing, from the loom withdrew.
+LINE 205: Her handmaids, Clymene and Æthra, wait
+LINE 206: Her silent footsteps to the Scæan gate.
+LINE 207: There sat the seniors of the Trojan race:
+LINE 208: (Old Priam's chiefs, and most in Priam's grace,)
+LINE 209: The king the first; Thymœtes at his side;
+LINE 210: Lampus and Clytius, long in council tried;
+LINE 211: Panthus, and Hicetaon, once the strong;
+LINE 212: And next, the wisest of the reverend throng,
+LINE 213: Antenor grave, and sage Ucalegon,
+LINE 214: Lean'd on the walls and bask'd before the sun:
+LINE 215: Chiefs, who no more in bloody fights engage,
+LINE 216: But wise through time, and narrative with age,
+LINE 217: In summer days, like grasshoppers rejoice,
+LINE 218: A bloodless race, that send a feeble voice.
+LINE 219: These, when the Spartan queen approach'd the tower,
+LINE 220: In secret own'd resistless beauty's power:
+LINE 221: They cried, "No wonder[113] such celestial charms
+LINE 222: For nine long years have set the world in arms;
+LINE 223: What winning graces! what majestic mien!
+LINE 224: She moves a goddess, and she looks a queen!
+LINE 225: Yet hence, O Heaven, convey that fatal face,
+LINE 226: And from destruction save the Trojan race."
+LINE 227: The good old Priam welcomed her, and cried,
+LINE 228: "Approach, my child, and grace thy father's side.
+LINE 229: See on the plain thy Grecian spouse appears,
+LINE 230: The friends and kindred of thy former years.
+LINE 231: No crime of thine our present sufferings draws,
+LINE 232: Not thou, but Heaven's disposing will, the cause
+LINE 233: The gods these armies and this force employ,
+LINE 234: The hostile gods conspire the fate of Troy.
+LINE 235: But lift thy eyes, and say, what Greek is he
+LINE 236: (Far as from hence these aged orbs can see)
+LINE 237: Around whose brow such martial graces shine,
+LINE 238: So tall, so awful, and almost divine!
+LINE 239: Though some of larger stature tread the green,
+LINE 240: None match his grandeur and exalted mien:
+LINE 241: He seems a monarch, and his country's pride."
+LINE 242: Thus ceased the king, and thus the fair replied:
+LINE 243: "Before thy presence, father, I appear,
+LINE 244: With conscious shame and reverential fear.
+LINE 245: Ah! had I died, ere to these walls I fled,
+LINE 246: False to my country, and my nuptial bed;
+LINE 247: My brothers, friends, and daughter left behind,
+LINE 248: False to them all, to Paris only kind!
+LINE 249: For this I mourn, till grief or dire disease
+LINE 250: Shall waste the form whose fault it was to please!
+LINE 251: The king of kings, Atrides, you survey,
+LINE 252: Great in the war, and great in arts of sway:
+LINE 253: My brother once, before my days of shame!
+LINE 254: And oh! that still he bore a brother's name!"
+LINE 255: With wonder Priam view'd the godlike man,
+LINE 256: Extoll'd the happy prince, and thus began:
+LINE 257: "O bless'd Atrides! born to prosperous fate,
+LINE 258: Successful monarch of a mighty state!
+LINE 259: How vast thy empire! Of your matchless train
+LINE 260: What numbers lost, what numbers yet remain!
+LINE 261: In Phrygia once were gallant armies known,
+LINE 262: In ancient time, when Otreus fill'd the throne,
+LINE 263: When godlike Mygdon led their troops of horse,
+LINE 264: And I, to join them, raised the Trojan force:
+LINE 265: Against the manlike Amazons we stood,[114]
+LINE 266: And Sangar's stream ran purple with their blood.
+LINE 267: But far inferior those, in martial grace,
+LINE 268: And strength of numbers, to this Grecian race."
+LINE 269: This said, once more he view'd the warrior train;
+LINE 270: "What's he, whose arms lie scatter'd on the plain?
+LINE 271: Broad is his breast, his shoulders larger spread,
+LINE 272: Though great Atrides overtops his head.
+LINE 273: Nor yet appear his care and conduct small;
+LINE 274: From rank to rank he moves, and orders all.
+LINE 275: The stately ram thus measures o'er the ground,
+LINE 276: And, master of the flock, surveys them round."
+LINE 277: Then Helen thus: "Whom your discerning eyes
+LINE 278: Have singled out, is Ithacus the wise;
+LINE 279: A barren island boasts his glorious birth;
+LINE 280: His fame for wisdom fills the spacious earth."
+LINE 281: Antenor took the word, and thus began:[115]
+LINE 282: "Myself, O king! have seen that wondrous man
+LINE 283: When, trusting Jove and hospitable laws,
+LINE 284: To Troy he came, to plead the Grecian cause;
+LINE 285: (Great Menelaus urged the same request;)
+LINE 286: My house was honour'd with each royal guest:
+LINE 287: I knew their persons, and admired their parts,
+LINE 288: Both brave in arms, and both approved in arts.
+LINE 289: Erect, the Spartan most engaged our view;
+LINE 290: Ulysses seated, greater reverence drew.
+LINE 291: When Atreus' son harangued the listening train,
+LINE 292: Just was his sense, and his expression plain,
+LINE 293: His words succinct, yet full, without a fault;
+LINE 294: He spoke no more than just the thing he ought.
+LINE 295: But when Ulysses rose, in thought profound,[116]
+LINE 296: His modest eyes he fix'd upon the ground;
+LINE 297: As one unskill'd or dumb, he seem'd to stand,
+LINE 298: Nor raised his head, nor stretch'd his sceptred hand;
+LINE 299: But, when he speaks, what elocution flows!
+LINE 300: Soft as the fleeces of descending snows,[117]
+LINE 301: The copious accents fall, with easy art;
+LINE 302: Melting they fall, and sink into the heart!
+LINE 303: Wondering we hear, and fix'd in deep surprise,
+LINE 304: Our ears refute the censure of our eyes."
+LINE 305: The king then ask'd (as yet the camp he view'd)
+LINE 306: "What chief is that, with giant strength endued,
+LINE 307: Whose brawny shoulders, and whose swelling chest,
+LINE 308: And lofty stature, far exceed the rest?
+LINE 309: "Ajax the great, (the beauteous queen replied,)
+LINE 310: Himself a host: the Grecian strength and pride.
+LINE 311: See! bold Idomeneus superior towers
+LINE 312: Amid yon circle of his Cretan powers,
+LINE 313: Great as a god! I saw him once before,
+LINE 314: With Menelaus on the Spartan shore.
+LINE 315: The rest I know, and could in order name;
+LINE 316: All valiant chiefs, and men of mighty fame.
+LINE 317: Yet two are wanting of the numerous train,
+LINE 318: Whom long my eyes have sought, but sought in vain:
+LINE 319: Castor and Pollux, first in martial force,
+LINE 320: One bold on foot, and one renown'd for horse.
+LINE 321: My brothers these; the same our native shore,
+LINE 322: One house contain'd us, as one mother bore.
+LINE 323: Perhaps the chiefs, from warlike toils at ease,
+LINE 324: For distant Troy refused to sail the seas;
+LINE 325: Perhaps their swords some nobler quarrel draws,
+LINE 326: Ashamed to combat in their sister's cause."
+LINE 327: So spoke the fair, nor knew her brothers' doom;[118]
+LINE 328: Wrapt in the cold embraces of the tomb;
+LINE 329: Adorn'd with honours in their native shore,
+LINE 330: Silent they slept, and heard of wars no more.
+LINE 331: Meantime the heralds, through the crowded town,
+LINE 332: Bring the rich wine and destined victims down.
+LINE 333: Idæus' arms the golden goblets press'd,[119]
+LINE 334: Who thus the venerable king address'd:
+LINE 335: "Arise, O father of the Trojan state!
+LINE 336: The nations call, thy joyful people wait
+LINE 337: To seal the truce, and end the dire debate.
+LINE 338: Paris, thy son, and Sparta's king advance,
+LINE 339: In measured lists to toss the weighty lance;
+LINE 340: And who his rival shall in arms subdue,
+LINE 341: His be the dame, and his the treasure too.
+LINE 342: Thus with a lasting league our toils may cease,
+LINE 343: And Troy possess her fertile fields in peace:
+LINE 344: So shall the Greeks review their native shore,
+LINE 345: Much famed for generous steeds, for beauty more."
+LINE 346: With grief he heard, and bade the chiefs prepare
+LINE 347: To join his milk-white coursers to the car;
+LINE 348: He mounts the seat, Antenor at his side;
+LINE 349: The gentle steeds through Scæa's gates they guide:[120]
+LINE 350: Next from the car descending on the plain,
+LINE 351: Amid the Grecian host and Trojan train,
+LINE 352: Slow they proceed: the sage Ulysses then
+LINE 353: Arose, and with him rose the king of men.
+LINE 354: On either side a sacred herald stands,
+LINE 355: The wine they mix, and on each monarch's hands
+LINE 356: Pour the full urn; then draws the Grecian lord
+LINE 357: His cutlass sheathed beside his ponderous sword;
+LINE 358: From the sign'd victims crops the curling hair;[121]
+LINE 359: The heralds part it, and the princes share;
+LINE 360: Then loudly thus before the attentive bands
+LINE 361: He calls the gods, and spreads his lifted hands:
+LINE 362: "O first and greatest power! whom all obey,
+LINE 363: Who high on Ida's holy mountain sway,
+LINE 364: Eternal Jove! and you bright orb that roll
+LINE 365: From east to west, and view from pole to pole!
+LINE 366: Thou mother Earth! and all ye living floods!
+LINE 367: Infernal furies, and Tartarean gods,
+LINE 368: Who rule the dead, and horrid woes prepare
+LINE 369: For perjured kings, and all who falsely swear!
+LINE 370: Hear, and be witness. If, by Paris slain,
+LINE 371: Great Menelaus press the fatal plain;
+LINE 372: The dame and treasures let the Trojan keep,
+LINE 373: And Greece returning plough the watery deep.
+LINE 374: If by my brother's lance the Trojan bleed,
+LINE 375: Be his the wealth and beauteous dame decreed:
+LINE 376: The appointed fine let Ilion justly pay,
+LINE 377: And every age record the signal day.
+LINE 378: This if the Phrygians shall refuse to yield,
+LINE 379: Arms must revenge, and Mars decide the field."
+LINE 380: With that the chief the tender victims slew,
+LINE 381: And in the dust their bleeding bodies threw;
+LINE 382: The vital spirit issued at the wound,
+LINE 383: And left the members quivering on the ground.
+LINE 384: From the same urn they drink the mingled wine,
+LINE 385: And add libations to the powers divine.
+LINE 386: While thus their prayers united mount the sky,
+LINE 387: "Hear, mighty Jove! and hear, ye gods on high!
+LINE 388: And may their blood, who first the league confound,
+LINE 389: Shed like this wine, disdain the thirsty ground;
+LINE 390: May all their consorts serve promiscuous lust,
+LINE 391: And all their lust be scatter'd as the dust!"
+LINE 392: Thus either host their imprecations join'd,
+LINE 393: Which Jove refused, and mingled with the wind.
+LINE 394: The rites now finish'd, reverend Priam rose,
+LINE 395: And thus express'd a heart o'ercharged with woes:
+LINE 396: "Ye Greeks and Trojans, let the chiefs engage,
+LINE 397: But spare the weakness of my feeble age:
+LINE 398: In yonder walls that object let me shun,
+LINE 399: Nor view the danger of so dear a son.
+LINE 400: Whose arms shall conquer and what prince shall fall,
+LINE 401: Heaven only knows; for heaven disposes all."
+LINE 402: This said, the hoary king no longer stay'd,
+LINE 403: But on his car the slaughter'd victims laid:
+LINE 404: Then seized the reins his gentle steeds to guide,
+LINE 405: And drove to Troy, Antenor at his side.
+LINE 406: Bold Hector and Ulysses now dispose
+LINE 407: The lists of combat, and the ground inclose:
+LINE 408: Next to decide, by sacred lots prepare,
+LINE 409: Who first shall launch his pointed spear in air.
+LINE 410: The people pray with elevated hands,
+LINE 411: And words like these are heard through all the bands:
+LINE 412: "Immortal Jove, high Heaven's superior lord,
+LINE 413: On lofty Ida's holy mount adored!
+LINE 414: Whoe'er involved us in this dire debate,
+LINE 415: O give that author of the war to fate
+LINE 416: And shades eternal! let division cease,
+LINE 417: And joyful nations join in leagues of peace."
+LINE 418: With eyes averted Hector hastes to turn
+LINE 419: The lots of fight and shakes the brazen urn.
+LINE 420: Then, Paris, thine leap'd forth; by fatal chance
+LINE 421: Ordain'd the first to whirl the weighty lance.
+LINE 422: Both armies sat the combat to survey.
+LINE 423: Beside each chief his azure armour lay,
+LINE 424: And round the lists the generous coursers neigh.
+LINE 425: The beauteous warrior now arrays for fight,
+LINE 426: In gilded arms magnificently bright:
+LINE 427: The purple cuishes clasp his thighs around,
+LINE 428: With flowers adorn'd, with silver buckles bound:
+LINE 429: Lycaon's corslet his fair body dress'd,
+LINE 430: Braced in and fitted to his softer breast;
+LINE 431: A radiant baldric, o'er his shoulder tied,
+LINE 432: Sustain'd the sword that glitter'd at his side:
+LINE 433: His youthful face a polish'd helm o'erspread;
+LINE 434: The waving horse-hair nodded on his head:
+LINE 435: His figured shield, a shining orb, he takes,
+LINE 436: And in his hand a pointed javelin shakes.
+LINE 437: With equal speed and fired by equal charms,
+LINE 438: The Spartan hero sheathes his limbs in arms.
+LINE 439: Now round the lists the admiring armies stand,
+LINE 440: With javelins fix'd, the Greek and Trojan band.
+LINE 441: Amidst the dreadful vale, the chiefs advance,
+LINE 442: All pale with rage, and shake the threatening lance.
+LINE 443: The Trojan first his shining javelin threw;
+LINE 444: Full on Atrides' ringing shield it flew,
+LINE 445: Nor pierced the brazen orb, but with a bound[122]
+LINE 446: Leap'd from the buckler, blunted, on the ground.
+LINE 447: Atrides then his massy lance prepares,
+LINE 448: In act to throw, but first prefers his prayers:
+LINE 449: "Give me, great Jove! to punish lawless lust,
+LINE 450: And lay the Trojan gasping in the dust:
+LINE 451: Destroy the aggressor, aid my righteous cause,
+LINE 452: Avenge the breach of hospitable laws!
+LINE 453: Let this example future times reclaim,
+LINE 454: And guard from wrong fair friendship's holy name,"
+LINE 455: He said, and poised in air the javelin sent,
+LINE 456: Through Paris' shield the forceful weapon went,
+LINE 457: His corslet pierces, and his garment rends,
+LINE 458: And glancing downward, near his flank descends.
+LINE 459: The wary Trojan, bending from the blow,
+LINE 460: Eludes the death, and disappoints his foe:
+LINE 461: But fierce Atrides waved his sword, and strook
+LINE 462: Full on his casque: the crested helmet shook;
+LINE 463: The brittle steel, unfaithful to his hand,
+LINE 464: Broke short: the fragments glitter'd on the sand.
+LINE 465: The raging warrior to the spacious skies
+LINE 466: Raised his upbraiding voice and angry eyes:
+LINE 467: "Then is it vain in Jove himself to trust?
+LINE 468: And is it thus the gods assist the just?
+LINE 469: When crimes provoke us, Heaven success denies;
+LINE 470: The dart falls harmless, and the falchion flies."
+LINE 471: Furious he said, and towards the Grecian crew
+LINE 472: (Seized by the crest) the unhappy warrior drew;
+LINE 473: Struggling he followed, while the embroider'd thong
+LINE 474: That tied his helmet, dragg'd the chief along.
+LINE 475: Then had his ruin crown'd Atrides' joy,
+LINE 476: But Venus trembled for the prince of Troy:
+LINE 477: Unseen she came, and burst the golden band;
+LINE 478: And left an empty helmet in his hand.
+LINE 479: The casque, enraged, amidst the Greeks he threw;
+LINE 480: The Greeks with smiles the polish'd trophy view.
+LINE 481: Then, as once more he lifts the deadly dart,
+LINE 482: In thirst of vengeance, at his rival's heart;
+LINE 483: The queen of love her favour'd champion shrouds
+LINE 484: (For gods can all things) in a veil of clouds.
+LINE 485: Raised from the field the panting youth she led,
+LINE 486: And gently laid him on the bridal bed,
+LINE 487: With pleasing sweets his fainting sense renews,
+LINE 488: And all the dome perfumes with heavenly dews.
+LINE 489: Meantime the brightest of the female kind,
+LINE 490: The matchless Helen, o'er the walls reclined;
+LINE 491: To her, beset with Trojan beauties, came,
+LINE 492: In borrow'd form, the laughter-loving dame.
+LINE 493: (She seem'd an ancient maid, well-skill'd to cull
+LINE 494: The snowy fleece, and wind the twisted wool.)
+LINE 495: The goddess softly shook her silken vest,
+LINE 496: That shed perfumes, and whispering thus address'd:
+LINE 497: [Illustration: ] VENUS, DISGUISED, INVITING HELEN TO THE CHAMBER OF
+LINE 498: PARIS
+LINE 499: "Haste, happy nymph! for thee thy Paris calls,
+LINE 500: Safe from the fight, in yonder lofty walls,
+LINE 501: Fair as a god; with odours round him spread,
+LINE 502: He lies, and waits thee on the well-known bed;
+LINE 503: Not like a warrior parted from the foe,
+LINE 504: But some gay dancer in the public show."
+LINE 505: She spoke, and Helen's secret soul was moved;
+LINE 506: She scorn'd the champion, but the man she loved.
+LINE 507: Fair Venus' neck, her eyes that sparkled fire,
+LINE 508: And breast, reveal'd the queen of soft desire.[123]
+LINE 509: Struck with her presence, straight the lively red
+LINE 510: Forsook her cheek; and trembling, thus she said:
+LINE 511: "Then is it still thy pleasure to deceive?
+LINE 512: And woman's frailty always to believe!
+LINE 513: Say, to new nations must I cross the main,
+LINE 514: Or carry wars to some soft Asian plain?
+LINE 515: For whom must Helen break her second vow?
+LINE 516: What other Paris is thy darling now?
+LINE 517: Left to Atrides, (victor in the strife,)
+LINE 518: An odious conquest and a captive wife,
+LINE 519: Hence let me sail; and if thy Paris bear
+LINE 520: My absence ill, let Venus ease his care.
+LINE 521: A handmaid goddess at his side to wait,
+LINE 522: Renounce the glories of thy heavenly state,
+LINE 523: Be fix'd for ever to the Trojan shore,
+LINE 524: His spouse, or slave; and mount the skies no more.
+LINE 525: For me, to lawless love no longer led,
+LINE 526: I scorn the coward, and detest his bed;
+LINE 527: Else should I merit everlasting shame,
+LINE 528: And keen reproach, from every Phrygian dame:
+LINE 529: Ill suits it now the joys of love to know,
+LINE 530: Too deep my anguish, and too wild my woe."
+LINE 531: [Illustration: ] VENUS PRESENTING HELEN TO PARIS
+LINE 532: Then thus incensed, the Paphian queen replies:
+LINE 533: "Obey the power from whom thy glories rise:
+LINE 534: Should Venus leave thee, every charm must fly,
+LINE 535: Fade from thy cheek, and languish in thy eye.
+LINE 536: Cease to provoke me, lest I make thee more
+LINE 537: The world's aversion, than their love before;
+LINE 538: Now the bright prize for which mankind engage,
+LINE 539: Than, the sad victim, of the public rage."
+LINE 540: At this, the fairest of her sex obey'd,
+LINE 541: And veil'd her blushes in a silken shade;
+LINE 542: Unseen, and silent, from the train she moves,
+LINE 543: Led by the goddess of the Smiles and Loves.
+LINE 544: Arrived, and enter'd at the palace gate,
+LINE 545: The maids officious round their mistress wait;
+LINE 546: Then, all dispersing, various tasks attend;
+LINE 547: The queen and goddess to the prince ascend.
+LINE 548: Full in her Paris' sight, the queen of love
+LINE 549: Had placed the beauteous progeny of Jove;
+LINE 550: Where, as he view'd her charms, she turn'd away
+LINE 551: Her glowing eyes, and thus began to say:
+LINE 552: "Is this the chief, who, lost to sense of shame,
+LINE 553: Late fled the field, and yet survives his fame?
+LINE 554: O hadst thou died beneath the righteous sword
+LINE 555: Of that brave man whom once I call'd my lord!
+LINE 556: The boaster Paris oft desired the day
+LINE 557: With Sparta's king to meet in single fray:
+LINE 558: Go now, once more thy rival's rage excite,
+LINE 559: Provoke Atrides, and renew the fight:
+LINE 560: Yet Helen bids thee stay, lest thou unskill'd
+LINE 561: Shouldst fall an easy conquest on the field."
+LINE 562: The prince replies: "Ah cease, divinely fair,
+LINE 563: Nor add reproaches to the wounds I bear;
+LINE 564: This day the foe prevail'd by Pallas' power:
+LINE 565: We yet may vanquish in a happier hour:
+LINE 566: There want not gods to favour us above;
+LINE 567: But let the business of our life be love:
+LINE 568: These softer moments let delights employ,
+LINE 569: And kind embraces snatch the hasty joy.
+LINE 570: Not thus I loved thee, when from Sparta's shore
+LINE 571: My forced, my willing heavenly prize I bore,
+LINE 572: When first entranced in Cranae's isle I lay,[124]
+LINE 573: Mix'd with thy soul, and all dissolved away!"
+LINE 574: Thus having spoke, the enamour'd Phrygian boy
+LINE 575: Rush'd to the bed, impatient for the joy.
+LINE 576: Him Helen follow'd slow with bashful charms,
+LINE 577: And clasp'd the blooming hero in her arms.
+LINE 578: While these to love's delicious rapture yield,
+LINE 579: The stern Atrides rages round the field:
+LINE 580: So some fell lion whom the woods obey,
+LINE 581: Roars through the desert, and demands his prey.
+LINE 582: Paris he seeks, impatient to destroy,
+LINE 583: But seeks in vain along the troops of Troy;
+LINE 584: Even those had yielded to a foe so brave
+LINE 585: The recreant warrior, hateful as the grave.
+LINE 586: Then speaking thus, the king of kings arose,
+LINE 587: "Ye Trojans, Dardans, all our generous foes!
+LINE 588: Hear and attest! from Heaven with conquest crown'd,
+LINE 589: Our brother's arms the just success have found:
+LINE 590: Be therefore now the Spartan wealth restor'd,
+LINE 591: Let Argive Helen own her lawful lord;
+LINE 592: The appointed fine let Ilion justly pay,
+LINE 593: And age to age record this signal day."
+LINE 594: He ceased; his army's loud applauses rise,
+LINE 595: And the long shout runs echoing through the skies.
+LINE 596: [Illustration: ] VENUS
+LINE 597: [Illustration: ] Map, titled "GRÆCIÆ ANTIQUÆ"
