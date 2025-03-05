@@ -356,7 +356,7 @@ function SceneDivInner(props: any) {
                 </b>
                 {(chapterView || inSidebar) && (
                   <span className="key-text">
-                    circle size = importance, line thickness = # of mutual
+                    circle size = # of scenes, line thickness = # of mutual
                     scenes
                   </span>
                 )}

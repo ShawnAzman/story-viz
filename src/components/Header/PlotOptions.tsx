@@ -513,7 +513,14 @@ function PlotOptions() {
               label={
                 <span>
                   Y-axis
-                  <InfoTooltip label="change what the y-axis represents" />
+                  <InfoTooltip
+                    label={
+                      "change what the y-axis represents" +
+                      (chapterView && yAxis === "importance"
+                        ? "; importance is determined by # of scenes"
+                        : "")
+                    }
+                  />
                 </span>
               }
               value={yAxis}

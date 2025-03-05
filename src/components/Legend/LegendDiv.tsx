@@ -268,7 +268,10 @@ function LegendDiv(props: any) {
                 onMouseEnter={() => setGroupHover(group)}
                 onMouseLeave={() => setGroupHover("")}
               >
-                <b onClick={() => updateMinimized(group)}>
+                <b
+                  onClick={() => updateMinimized(group)}
+                  style={{ maxWidth: "260px" }}
+                >
                   <span className="expand-button">
                     {minimized.includes(group) ? <FaPlus /> : <FaMinus />}
                   </span>
