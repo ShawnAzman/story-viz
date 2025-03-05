@@ -1,0 +1,257 @@
+LINE 1: "Stay here beside her, major. I shall not he needed for an hour yet.
+LINE 2: Meanwhile I'll go downstairs and snatch a bit of sleep, or talk to old
+LINE 3: Jane."
+LINE 4: The night was hot and sultry. Though the windows of the chamber were
+LINE 5: wide open, and the muslin curtains looped back, not a breath of air was
+LINE 6: stirring. Only the shrill chirp of the cicada and the muffled croaking
+LINE 7: of the frogs in some distant marsh broke the night silence. The heavy
+LINE 8: scent of magnolias, overpowering even the strong smell of drugs in the
+LINE 9: sickroom, suggested death and funeral wreaths, sorrow and tears, the
+LINE 10: long home, the last sleep. The major shivered with apprehension as the
+LINE 11: slender hand which he held in his own contracted nervously and in a
+LINE 12: spasm of pain clutched his fingers with a viselike grip.
+LINE 13: Major Carteret, though dressed in brown linen, had thrown off his coat
+LINE 14: for greater comfort. The stifling heat, in spite of the palm-leaf fan
+LINE 15: which he plied mechanically, was scarcely less oppressive than his own
+LINE 16: thoughts. Long ago, while yet a mere boy in years, he had come back from
+LINE 17: Appomattox to find his family, one of the oldest and proudest in the
+LINE 18: state, hopelessly impoverished by the war,--even their ancestral home
+LINE 19: swallowed up in the common ruin. His elder brother had sacrificed his
+LINE 20: life on the bloody altar of the lost cause, and his father, broken and
+LINE 21: chagrined, died not many years later, leaving the major the last of his
+LINE 22: line. He had tried in various pursuits to gain a foothold in the new
+LINE 23: life, but with indifferent success until he won the hand of Olivia
+LINE 24: Merkell, whom he had seen grow from a small girl to glorious womanhood.
+LINE 25: With her money he had founded the Morning Chronicle, which he had made
+LINE 26: the leading organ of his party and the most influential paper in the
+LINE 27: State. The fine old house in which they lived was hers. In this very
+LINE 28: room she had first drawn the breath of life; it had been their nuptial
+LINE 29: chamber; and here, too, within a few hours, she might die, for it seemed
+LINE 30: impossible that one could long endure such frightful agony and live.
+LINE 31: One cloud alone had marred the otherwise perfect serenity of their
+LINE 32: happiness. Olivia was childless. To have children to perpetuate the name
+LINE 33: of which he was so proud, to write it still higher on the roll of
+LINE 34: honor, had been his dearest hope. His disappointment had been
+LINE 35: proportionately keen. A few months ago this dead hope had revived, and
+LINE 36: altered the whole aspect of their lives. But as time went on, his wife's
+LINE 37: age had begun to tell upon her, until even Dr. Price, the most cheerful
+LINE 38: and optimistic of physicians, had warned him, while hoping for the best,
+LINE 39: to be prepared for the worst. To add to the danger, Mrs. Carteret had
+LINE 40: only this day suffered from a nervous shock, which, it was feared, had
+LINE 41: hastened by several weeks the expected event.
+LINE 42: Dr. Price went downstairs to the library, where a dim light was
+LINE 43: burning. An old black woman, dressed in a gingham frock, with a red
+LINE 44: bandana handkerchief coiled around her head by way of turban, was seated
+LINE 45: by an open window. She rose and curtsied as the doctor entered and
+LINE 46: dropped into a willow rocking-chair near her own.
+LINE 47: "How did this happen, Jane?" he asked in a subdued voice, adding, with
+LINE 48: assumed severity, "You ought to have taken better care of your
+LINE 49: mistress."
+LINE 50: "Now look a-hyuh, Doctuh Price," returned the old woman in an unctuous
+LINE 51: whisper, "you don' wanter come talkin' none er yo' foolishness 'bout my
+LINE 52: not takin' keer er Mis' 'Livy. _She_ never would 'a' said sech a thing!
+LINE 53: Seven er eight mont's ago, w'en she sent fer me, I says ter her, says
+LINE 54: I:--
+LINE 55: "'Lawd, Lawd, honey! You don' tell me dat after all dese long w'ary
+LINE 56: years er waitin' de good Lawd is done heared yo' prayer an' is gwine ter
+LINE 57: sen' you de chile you be'n wantin' so long an' so bad? Bless his holy
+LINE 58: name! Will I come an' nuss yo' baby? Why, honey, I nussed you, an'
+LINE 59: nussed yo' mammy thoo her las' sickness, an' laid her out w'en she died.
+LINE 60: I wouldn' _let_ nobody e'se nuss yo' baby; an' mo'over, I'm gwine ter
+LINE 61: come an' nuss you too. You're young side er me, Mis' 'Livy, but you're
+LINE 62: ove'ly ole ter be havin' yo' fus' baby, an' you'll need somebody roun',
+LINE 63: honey, w'at knows all 'bout de fam'ly, an' deir ways an' deir
+LINE 64: weaknesses, an' I don' know who dat'd be ef it wa'n't me.'
+LINE 65: "''Deed, Mammy Jane,' says she, 'dere ain' nobody e'se I'd have but you.
+LINE 66: You kin come ez soon ez you wanter an' stay ez long ez you mineter.'
+LINE 67: "An hyuh I is, an' hyuh I'm gwine ter stay. Fer Mis' 'Livy is my ole
+LINE 68: mist'ess's daughter, an' my ole mist'ess wuz good ter me, an' dey ain'
+LINE 69: none er her folks gwine ter suffer ef ole Jane kin he'p it."
+LINE 70: "Your loyalty does you credit, Jane," observed the doctor; "but you
+LINE 71: haven't told me yet what happened to Mrs. Carteret to-day. Did the horse
+LINE 72: run away, or did she see something that frightened her?"
+LINE 73: "No, suh, de hoss didn' git skeered at nothin', but Mis' 'Livy did see
+LINE 74: somethin', er somebody; an' it wa'n't no fault er mine ner her'n
+LINE 75: neither,--it goes fu'ther back, suh, fu'ther dan dis day er dis year.
+LINE 76: Does you 'member de time w'en my ole mist'ess, Mis' 'Livy upstairs's
+LINE 77: mammy, died? No? Well, you wuz prob'ly 'way ter school den, studyin' ter
+LINE 78: be a doctuh. But I'll tell you all erbout it.
+LINE 79: "Wen my ole mist'ess, Mis' 'Liz'beth Merkell,--an' a good mist'ess she
+LINE 80: wuz,--tuck sick fer de las' time, her sister Polly--ole Mis' Polly
+LINE 81: Ochiltree w'at is now--come ter de house ter he'p nuss her. Mis' 'Livy
+LINE 82: upstairs yander wuz erbout six years ole den, de sweetes' little angel
+LINE 83: you ever laid eyes on; an' on her dyin' bed Mis' 'Liz'beth ax' Mis'
+LINE 84: Polly fer ter stay hyuh an' take keer er her chile, an' Mis' Polly she
+LINE 85: promise'. She wuz a widder fer de secon' time, an' didn' have no
+LINE 86: child'en, an' could jes' as well come as not.
+LINE 87: "But dere wuz trouble after de fune'al, an' it happen' right hyuh in dis
+LINE 88: lib'ary. Mars Sam wuz settin' by de table, w'en Mis' Polly come
+LINE 89: downstairs, slow an' solemn, an' stood dere in de middle er de flo', all
+LINE 90: in black, till Mars Sam sot a cheer fer her.
+LINE 91: "'Well, Samuel,' says she, 'now dat we've done all we can fer po'
+LINE 92: 'Liz'beth, it only 'mains fer us ter consider Olivia's future.'
+LINE 93: "Mars Sam nodded his head, but didn' say nothin'.
+LINE 94: "'I don' need ter tell you,' says she,' dat I am willin' ter carry out
+LINE 95: de wishes er my dead sister, an' sac'ifice my own comfo't, an' make
+LINE 96: myse'f yo' housekeeper an' yo' child's nuss, fer my dear sister's sake.
+LINE 97: It wuz her dyin' wish, an' on it I will ac', ef it is also yo'n.'
+LINE 98: "Mars Sam didn' want Mis' Polly ter come, suh; fur he didn' like Mis'
+LINE 99: Polly. He wuz skeered er Miss Polly."
+LINE 100: "I don't wonder," yawned the doctor, "if she was anything like she is
+LINE 101: now."
+LINE 102: "Wuss, suh, fer she wuz younger, an' stronger. She always would have her
+LINE 103: say, no matter 'bout what, an' her own way, no matter who 'posed her.
+LINE 104: She had already be'n in de house fer a week, an' Mars Sam knowed ef she
+LINE 105: once come ter stay, she'd be de mist'ess of eve'ybody in it an' him
+LINE 106: too. But w'at could he do but say yas?
+LINE 107: "'Den it is unde'stood, is it,' says Mis' Polly, w'en he had spoke, 'dat
+LINE 108: I am ter take cha'ge er de house?'
+LINE 109: "'All right, Polly,' says Mars Sam, wid a deep sigh.
+LINE 110: "Mis' Polly 'lowed he wuz sighin' fer my po' dead mist'ess, fer she didn'
+LINE 111: have no idee er his feelin's to'ds her,--she alluz did 'low dat all
+LINE 112: de gent'emen wuz in love wid 'er.
+LINE 113: "'You won' fin' much ter do,' Mars Sam went on, 'fer Julia is a good
+LINE 114: housekeeper, an' kin ten' ter mos' eve'ything, under yo' d'rections.'
+LINE 115: "Mis' Polly stiffen' up like a ramrod. 'It mus' be unde'stood, Samuel,'
+LINE 116: says she, 'dat w'en I 'sumes cha'ge er yo' house, dere ain' gwine ter be
+LINE 117: no 'vided 'sponsibility; an' as fer dis Julia, me an' her couldn' git
+LINE 118: 'long tergether nohow. Ef I stays, Julia goes.'
+LINE 119: "Wen Mars Sam beared dat, he felt better, an' 'mence' ter pick up his
+LINE 120: courage. Mis' Polly had showed her ban' too plain. My mist'ess hadn'
+LINE 121: got col' yit, an' Mis' Polly, who'd be'n a widder fer two years dis
+LINE 122: las' time, wuz already fig'rin' on takin' her place fer good, an' she
+LINE 123: did n! want no other woman roun' de house dat Mars Sam might take a'
+LINE 124: intrus' in.
+LINE 125: "'My dear Polly,' says Mars Sam, quite determine', 'I couldn' possibly
+LINE 126: sen' Julia 'way. Fac' is, I couldn' git 'long widout Julia. She'd be'n
+LINE 127: runnin' dis house like clockwo'k befo' you come, an' I likes her ways.
+LINE 128: My dear, dead 'Liz'beth sot a heap er sto' by Julia, an' I'm gwine ter
+LINE 129: keep her here fer 'Liz'beth's sake.'
+LINE 130: "Mis' Polly's eyes flash' fire.
+LINE 131: "'Ah,' says she,' I see--I see! You perfers her housekeepin' ter mine,
+LINE 132: indeed! Dat is a fine way ter talk ter a lady! An' a heap er rispec' you
+LINE 133: is got fer de mem'ry er my po' dead sister!'
+LINE 134: "Mars Sam knowed w'at she 'lowed she seed wa'n't so; but he didn' let
+LINE 135: on, fer it only made him de safer. He wuz willin' fer her ter 'magine w'at
+LINE 136: she please', jes' so long ez she kep' out er his house an' let him
+LINE 137: alone.
+LINE 138: "'No, Polly,' says he, gittin' bolder ez she got madder, 'dere ain' no
+LINE 139: use talkin'. Nothin' in de worl' would make me part wid Julia.'
+LINE 140: "Mis' Polly she r'ared an' she pitch', but Mars Sam helt on like grim
+LINE 141: death. Mis' Polly wouldn' give in neither, an' so she fin'lly went
+LINE 142: away. Dey made some kind er 'rangement afterwa'ds, an' Miss Polly tuck
+LINE 143: Mis' 'Livy ter her own house. Mars Sam paid her bo'd an' 'lowed Mis'
+LINE 144: Polly somethin' fer takin' keer er her."
+LINE 145: "And Julia stayed?"
+LINE 146: "Julia stayed, suh, an' a couple er years later her chile wuz bawn,
+LINE 147: right here in dis house."
+LINE 148: "But you said," observed the doctor, "that Mrs. Ochiltree was in error
+LINE 149: about Julia."
+LINE 150: "Yas, suh, so she wuz, w'en my ole mist'ess died. But dis wuz two years
+LINE 151: after,--an' w'at has ter be has ter be. Julia had a easy time; she had a
+LINE 152: black gal ter wait on her, a buggy to ride in, an' eve'ything she
+LINE 153: wanted. Eve'ybody s'posed Mars Sam would give her a house an' lot, er
+LINE 154: leave her somethin' in his will. But he died suddenly, and didn' leave
+LINE 155: no will, an' Mis' Polly got herse'f 'pinted gyardeen ter young Mis'
+LINE 156: 'Livy, an' driv Julia an' her young un out er de house, an' lived here
+LINE 157: in dis house wid Mis' 'Livy till Mis' 'Livy ma'ied Majah Carteret."
+LINE 158: "And what became of Julia?" asked Dr. Price.
+LINE 159: Such relations, the doctor knew very well, had been all too common in
+LINE 160: the old slavery days, and not a few of them had been projected into the
+LINE 161: new era. Sins, like snakes, die hard. The habits and customs of a people
+LINE 162: were not to be changed in a day, nor by the stroke of a pen. As family
+LINE 163: physician, and father confessor by brevet, Dr. Price had looked upon
+LINE 164: more than one hidden skeleton; and no one in town had had better
+LINE 165: opportunities than old Jane for learning the undercurrents in the lives
+LINE 166: of the old families.
+LINE 167: "Well," resumed Jane, "eve'ybody s'posed, after w'at had happen', dat
+LINE 168: Julia'd keep on livin' easy, fer she wuz young an' good-lookin'. But
+LINE 169: she didn'. She tried ter make a livin' sewin', but Mis' Polly wouldn'
+LINE 170: let de bes' w'ite folks hire her. Den she tuck up washin', but didn' do
+LINE 171: no better at dat; an' bimeby she got so discourage' dat she ma'ied a
+LINE 172: shif'less yaller man, an' died er consumption soon after,--an' wuz
+LINE 173: 'bout ez well off, fer dis man couldn' hardly feed her nohow."
+LINE 174: "And the child?"
+LINE 175: "One er de No'the'n w'ite lady teachers at de mission school tuck a
+LINE 176: likin' ter little Janet, an' put her thoo school, an' den sent her off
+LINE 177: ter de No'th fer ter study ter be a school teacher. W'en she come back,
+LINE 178: 'stead er teachin' she ma'ied ole Adam Miller's son."
+LINE 179: "The rich stevedore's son, Dr. Miller?"
+LINE 180: "Yas, suh, dat's de man,--you knows 'im. Dis yer boy wuz jes' gwine
+LINE 181: 'way fer ter study ter be a doctuh, an' he ma'ied dis Janet, an' tuck
+LINE 182: her 'way wid 'im. Dey went off ter Europe, er Irope, er Orope, er
+LINE 183: somewhere er 'nother, 'way off yander, an' come back here las' year an'
+LINE 184: sta'ted dis yer horspital an' school fer ter train de black gals fer
+LINE 185: nusses."
+LINE 186: "He's a very good doctor, Jane, and is doing a useful work. Your
+LINE 187: chapter of family history is quite interesting,--I knew part of it
+LINE 188: before, in a general way; but you haven't yet told me what brought on
+LINE 189: Mrs. Carteret's trouble."
+LINE 190: "I'm jes' comin' ter dat dis minute, suh,--w'at I be'n tellin' you is
+LINE 191: all a part of it. Dis yer Janet, w'at's Mis' 'Livy's half-sister, is ez
+LINE 192: much like her ez ef dey wuz twins. Folks sometimes takes 'em fer one
+LINE 193: ernudder,--I s'pose it tickles Janet mos' ter death, but it do make Mis'
+LINE 194: 'Livy rippin'. An' den 'way back yander jes' after de wah, w'en de ole
+LINE 195: Carteret mansion had ter be sol', Adam Miller bought it, an' dis yer
+LINE 196: Janet an' her husban' is be'n livin' in it ever sence ole Adam died,
+LINE 197: 'bout a year ago; an' dat makes de majah mad, 'ca'se he don' wanter see
+LINE 198: cullud folks livin' in de ole fam'ly mansion w'at he wuz bawn in. An'
+LINE 199: mo'over, an' dat's de wust of all, w'iles Mis' 'Livy ain' had no
+LINE 200: child'en befo', dis yer sister er her'n is got a fine-lookin' little
+LINE 201: yaller boy, w'at favors de fam'ly so dat ef Mis' 'Livy'd see de chile
+LINE 202: anywhere, it'd mos' break her heart fer ter think 'bout her not havin'
+LINE 203: no child'en herse'f. So ter-day, w'en Mis' 'Livy wuz out ridin' an' met
+LINE 204: dis yer Janet wid her boy, an' w'en Mis' 'Livy got ter studyin' 'bout
+LINE 205: her own chances, an' how she mought not come thoo safe, she jes' had a
+LINE 206: fit er hysterics right dere in de buggy. She wuz mos' home, an' William
+LINE 207: got her here, an' you knows de res'."
+LINE 208: Major Carteret, from the head of the stairs, called the doctor
+LINE 209: anxiously.
+LINE 210: "You had better come along up now, Jane," said the doctor.
+LINE 211: For two long hours they fought back the grim spectre that stood by the
+LINE 212: bedside. The child was born at dawn. Both mother and child, the doctor
+LINE 213: said, would live.
+LINE 214: "Bless its 'ittle hea't!" exclaimed Mammy Jane, as she held up the tiny
+LINE 215: mite, which bore as much resemblance to mature humanity as might be
+LINE 216: expected of an infant which had for only a few minutes drawn the breath
+LINE 217: of life. "Bless its 'ittle hea't! it's de we'y spit an' image er its
+LINE 218: pappy!"
+LINE 219: The doctor smiled. The major laughed aloud. Jane's unconscious
+LINE 220: witticism, or conscious flattery, whichever it might be, was a welcome
+LINE 221: diversion from the tense strain of the last few hours.
+LINE 222: "Be that as it may," said Dr. Price cheerfully, "and I'll not dispute
+LINE 223: it, the child is a very fine boy,--a very fine boy, indeed! Take care of
+LINE 224: it, major," he added with a touch of solemnity, "for your wife can never
+LINE 225: bear another."
+LINE 226: With the child's first cry a refreshing breeze from the distant ocean
+LINE 227: cooled the hot air of the chamber; the heavy odor of the magnolias, with
+LINE 228: its mortuary suggestiveness, gave place to the scent of rose and lilac
+LINE 229: and honeysuckle. The birds in the garden were singing lustily.
+LINE 230: All these sweet and pleasant things found an echo in the major's heart.
+LINE 231: He stood by the window, and looking toward the rising sun, breathed a
+LINE 232: silent prayer of thanksgiving. All nature seemed to rejoice in sympathy
+LINE 233: with his happiness at the fruition of this long-deferred hope, and to
+LINE 234: predict for this wonderful child a bright and glorious future.
+LINE 235: Old Mammy Jane, however, was not entirely at ease concerning the child.
+LINE 236: She had discovered, under its left ear, a small mole, which led her to
+LINE 237: fear that the child was born for bad luck. Had the baby been black, or
+LINE 238: yellow, or poor-white, Jane would unhesitatingly have named, as his
+LINE 239: ultimate fate, a not uncommon form of taking off, usually resultant upon
+LINE 240: the infraction of certain laws, or, in these swift modern days, upon too
+LINE 241: violent a departure from established social customs. It was manifestly
+LINE 242: impossible that a child of such high quality as the grandson of her old
+LINE 243: mistress should die by judicial strangulation; but nevertheless the
+LINE 244: warning was a serious thing, and not to be lightly disregarded.
+LINE 245: Not wishing to be considered as a prophet of evil omen, Jane kept her
+LINE 246: own counsel in regard to this significant discovery. But later, after
+LINE 247: the child was several days old, she filled a small vial with water in
+LINE 248: which the infant had been washed, and took it to a certain wise old
+LINE 249: black woman, who lived on the farther edge of the town and was well
+LINE 250: known to be versed in witchcraft and conjuration. The conjure woman
+LINE 251: added to the contents of the bottle a bit of calamus root, and one of
+LINE 252: the cervical vertebrae from the skeleton of a black cat, with several
+LINE 253: other mysterious ingredients, the nature of which she did not disclose.
+LINE 254: Following instructions given her, Aunt Jane buried the bottle in
+LINE 255: Carteret's back yard, one night during the full moon, as a good-luck
+LINE 256: charm to ward off evil from the little grandson of her dear mistress, so
+LINE 257: long since dead and gone to heaven.

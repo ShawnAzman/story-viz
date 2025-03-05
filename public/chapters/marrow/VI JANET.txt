@@ -1,0 +1,101 @@
+LINE 1: As the train drew up at the station platform, Dr. Price came forward
+LINE 2: from the white waiting-room, and stood expectantly by the door of the
+LINE 3: white coach. Miller, having left his car, came down the platform in time
+LINE 4: to intercept Burns as he left the train, and to introduce him to Dr.
+LINE 5: Price.
+LINE 6: "My carriage is in waiting," said Dr. Price. "I should have liked to
+LINE 7: have you at my own house, but my wife is out of town. We have a good
+LINE 8: hotel, however, and you will doubtless find it more convenient."
+LINE 9: "You are very kind, Dr. Price. Miller, won't you come up and dine with
+LINE 10: me?"
+LINE 11: "Thank you, no," said Miller, "I am expected at home. My wife and child
+LINE 12: are waiting for me in the buggy yonder by the platform."
+LINE 13: "Oh, very well; of course you must go; but don't forget our appointment.
+LINE 14: Let's see, Dr. Price, I can eat and get ready in half an hour--that will
+LINE 15: make it"--
+LINE 16: "I have asked several of the local physicians to be present at eight
+LINE 17: o'clock," said Dr. Price. "The case can safely wait until then."
+LINE 18: "Very well, Miller, be on hand at eight. I shall expect you without
+LINE 19: fail. Where shall he come, Dr. Price?"
+LINE 20: "To the residence of Major Philip Carteret, on Vine Street."
+LINE 21: "I have invited Dr. Miller to be present and assist in the operation,"
+LINE 22: Dr. Burns continued, as they drove toward the hotel. "He was a favorite
+LINE 23: pupil of mine, and is a credit to the profession. I presume you saw his
+LINE 24: article in the Medical Gazette?"
+LINE 25: "Yes, and I assisted him in the case," returned Dr. Price. "It was a
+LINE 26: colored lad, one of his patients, and he called me in to help him. He is
+LINE 27: a capable man, and very much liked by the white physicians."
+LINE 28: Miller's wife and child were waiting for him in fluttering anticipation.
+LINE 29: He kissed them both as he climbed into the buggy.
+LINE 30: "We came at four o'clock," said Mrs. Miller, a handsome young woman, who
+LINE 31: might be anywhere between twenty-five and thirty, and whose complexion,
+LINE 32: in the twilight, was not distinguishable from that of a white person,
+LINE 33: "but the train was late two hours, they said. We came back at six, and
+LINE 34: have been waiting ever since."
+LINE 35: "Yes, papa," piped the child, a little boy of six or seven, who sat
+LINE 36: between them, "and I am very hungry."
+LINE 37: Miller felt very much elated as he drove homeward through the twilight.
+LINE 38: By his side sat the two persons whom he loved best in all the world. His
+LINE 39: affairs were prosperous. Upon opening his office in the city, he had
+LINE 40: been received by the members of his own profession with a cordiality
+LINE 41: generally frank, and in no case much reserved. The colored population of
+LINE 42: the city was large, but in the main poor, and the white physicians were
+LINE 43: not unwilling to share this unprofitable practice with a colored doctor
+LINE 44: worthy of confidence. In the intervals of the work upon his hospital, he
+LINE 45: had built up a considerable practice among his own people; but except in
+LINE 46: the case of some poor unfortunate whose pride had been lost in poverty
+LINE 47: or sin, no white patient had ever called upon him for treatment. He knew
+LINE 48: very well the measure of his powers,--a liberal education had given him
+LINE 49: opportunity to compare himself with other men,--and was secretly
+LINE 50: conscious that in point of skill and knowledge he did not suffer by
+LINE 51: comparison with any other physician in the town. He liked to believe
+LINE 52: that the race antagonism which hampered his progress and that of his
+LINE 53: people was a mere temporary thing, the outcome of former conditions, and
+LINE 54: bound to disappear in time, and that when a colored man should
+LINE 55: demonstrate to the community in which he lived that he possessed
+LINE 56: character and power, that community would find a way in which to enlist
+LINE 57: his services for the public good.
+LINE 58: He had already made himself useful, and had received many kind words and
+LINE 59: other marks of appreciation. He was now offered a further confirmation
+LINE 60: of his theory: having recognized his skill, the white people were now
+LINE 61: ready to take advantage of it. Any lurking doubt he may have felt when
+LINE 62: first invited by Dr. Burns to participate in the operation, had been
+LINE 63: dispelled by Dr. Price's prompt acquiescence.
+LINE 64: On the way homeward Miller told his wife of this appointment. She was
+LINE 65: greatly interested; she was herself a mother, with an only child.
+LINE 66: Moreover, there was a stronger impulse than mere humanity to draw her
+LINE 67: toward the stricken mother. Janet had a tender heart, and could have
+LINE 68: loved this white sister, her sole living relative of whom she knew. All
+LINE 69: her life long she had yearned for a kind word, a nod, a smile, the least
+LINE 70: thing that imagination might have twisted into a recognition of the tie
+LINE 71: between them. But it had never come.
+LINE 72: And yet Janet was not angry. She was of a forgiving temper; she could
+LINE 73: never bear malice. She was educated, had read many books, and
+LINE 74: appreciated to the full the social forces arrayed against any such
+LINE 75: recognition as she had dreamed of. Of the two barriers between them a
+LINE 76: man might have forgiven the one; a woman would not be likely to overlook
+LINE 77: either the bar sinister or the difference of race, even to the slight
+LINE 78: extent of a silent recognition. Blood is thicker than water, but, if it
+LINE 79: flow too far from conventional channels, may turn to gall and wormwood.
+LINE 80: Nevertheless, when the heart speaks, reason falls into the background,
+LINE 81: and Janet would have worshiped this sister, even afar off, had she
+LINE 82: received even the slightest encouragement. So strong was this weakness
+LINE 83: that she had been angry with herself for her lack of pride, or even of a
+LINE 84: decent self-respect. It was, she sometimes thought, the heritage of her
+LINE 85: mother's race, and she was ashamed of it as part of the taint of
+LINE 86: slavery. She had never acknowledged, even to her husband, from whom she
+LINE 87: concealed nothing else, her secret thoughts upon this lifelong sorrow.
+LINE 88: This silent grief was nature's penalty, or society's revenge, for
+LINE 89: whatever heritage of beauty or intellect or personal charm had come to
+LINE 90: her with her father's blood. For she had received no other inheritance.
+LINE 91: Her sister was rich by right of her birth; if Janet had been fortunate,
+LINE 92: her good fortune had not been due to any provision made for her by her
+LINE 93: white father.
+LINE 94: She knew quite well how passionately, for many years, her proud sister
+LINE 95: had longed and prayed in vain for the child which had at length brought
+LINE 96: joy into her household, and she could feel, by sympathy, all the
+LINE 97: sickening suspense with which the child's parents must await the result
+LINE 98: of this dangerous operation.
+LINE 99: "O Will," she adjured her husband anxiously, when he had told her of the
+LINE 100: engagement, "you must be very careful. Think of the child's poor mother!
+LINE 101: Think of our own dear child, and what it would mean to lose him!"

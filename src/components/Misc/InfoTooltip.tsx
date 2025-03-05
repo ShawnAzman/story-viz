@@ -2,6 +2,7 @@ import { Tooltip } from "@mantine/core";
 import { IoInformationCircleOutline } from "react-icons/io5";
 
 function InfoTooltip(props: any) {
+  const tooltipType = props.type ? props.type : "default";
   return (
     <Tooltip
       className={"info-tooltip " + (props.smaller ? "smaller" : "")}
@@ -23,13 +24,17 @@ function InfoTooltip(props: any) {
       }}
     >
       <span>
-        <IoInformationCircleOutline
-          style={{
-            marginBottom: -2,
-            marginLeft: 5,
-            opacity: 0.7,
-          }}
-        />
+        {tooltipType === "default" ? (
+          <IoInformationCircleOutline
+            style={{
+              marginBottom: -2,
+              marginLeft: 5,
+              opacity: 0.7,
+            }}
+          />
+        ) : (
+          " 💡"
+        )}
       </span>
     </Tooltip>
   );

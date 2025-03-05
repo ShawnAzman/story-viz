@@ -1,0 +1,138 @@
+LINE 1: Miller did not reach his destination without interruption. At one point
+LINE 2: a considerable stretch of the road was under repair, which made it
+LINE 3: necessary for him to travel slowly. His horse cast a shoe, and
+LINE 4: threatened to go lame; but in the course of time he arrived at the
+LINE 5: entrance gate of Belleview, entering which he struck into a private
+LINE 6: road, bordered by massive oaks, whose multitudinous branches, hung with
+LINE 7: long streamers of trailing moss, formed for much of the way a thick
+LINE 8: canopy above his head. It took him only a few minutes to traverse the
+LINE 9: quarter of a mile that lay between the entrance gate and the house
+LINE 10: itself.
+LINE 11: This old colonial plantation, rich in legendary lore and replete with
+LINE 12: historic distinction, had been in the Delamere family for nearly two
+LINE 13: hundred years. Along the bank of the river which skirted its domain the
+LINE 14: famous pirate Blackbeard had held high carnival, and was reputed to have
+LINE 15: buried much treasure, vague traditions of which still lingered among the
+LINE 16: negroes and poor-whites of the country roundabout. The beautiful
+LINE 17: residence, rising white and stately in a grove of ancient oaks, dated
+LINE 18: from 1750, and was built of brick which had been brought from England.
+LINE 19: Enlarged and improved from generation to generation, it stood, like a
+LINE 20: baronial castle, upon a slight eminence from which could be surveyed
+LINE 21: the large demesne still belonging to the estate, which had shrunk
+LINE 22: greatly from its colonial dimensions. While still embracing several
+LINE 23: thousand acres, part forest and part cleared land, it had not of late
+LINE 24: years been profitable; in spite of which Mr. Delamere, with the
+LINE 25: conservatism of his age and caste, had never been able to make up his
+LINE 26: mind to part with any considerable portion of it. His grandson, he
+LINE 27: imagined, could make the estate pay and yet preserve it in its
+LINE 28: integrity. Here, in pleasant weather, surrounded by the scenes which he
+LINE 29: loved, old Mr. Delamere spent much of the time during his declining
+LINE 30: years.
+LINE 31: Dr. Miller had once passed a day at Belleview, upon Mr. Delamere's
+LINE 32: invitation. For this old-fashioned gentleman, whose ideals not even
+LINE 33: slavery had been able to spoil, regarded himself as a trustee for the
+LINE 34: great public, which ought, in his opinion, to take as much pride as he
+LINE 35: in the contemplation of this historic landmark. In earlier years Mr.
+LINE 36: Delamere had been a practicing lawyer, and had numbered Miller's father
+LINE 37: among his clients. He had always been regarded as friendly to the
+LINE 38: colored people, and, until age and ill health had driven him from active
+LINE 39: life, had taken a lively interest in their advancement since the
+LINE 40: abolition of slavery. Upon the public opening of Miller's new hospital,
+LINE 41: he had made an effort to be present, and had made a little speech of
+LINE 42: approval and encouragement which had manifested his kindliness and given
+LINE 43: Miller much pleasure.
+LINE 44: It was with the consciousness, therefore, that he was approaching a
+LINE 45: friend, as well as Sandy's master, that Miller's mind was chiefly
+LINE 46: occupied as his tired horse, scenting the end of his efforts, bore him
+LINE 47: with a final burst of speed along the last few rods of the journey; for
+LINE 48: the urgency of Miller's errand, involving as it did the issues of life
+LINE 49: and death, did not permit him to enjoy the charm of mossy oak or forest
+LINE 50: reaches, or even to appreciate the noble front of Belleview House when
+LINE 51: it at last loomed up before him.
+LINE 52: "Well, William," said Mr. Delamere, as he gave his hand to Miller from
+LINE 53: the armchair in which he was seated under the broad and stately portico,
+LINE 54: "I didn't expect to see you out here. You'll excuse my not
+LINE 55: rising,--I'm none too firm on my legs. Did you see anything of my man
+LINE 56: Sandy back there on the road? He ought to have been here by nine
+LINE 57: o'clock, and it's now one. Sandy is punctuality itself, and I don't know
+LINE 58: how to account for his delay."
+LINE 59: Clearly there need be no time wasted in preliminaries. Mr. Delamere had
+LINE 60: gone directly to the subject in hand.
+LINE 61: "He will not be here to-day, sir," replied Miller. "I have come to you
+LINE 62: on his account."
+LINE 63: In a few words Miller stated the situation.
+LINE 64: "Preposterous!" exclaimed the old gentleman, with more vigor than Miller
+LINE 65: had supposed him to possess. "Sandy is absolutely incapable of such a
+LINE 66: crime as robbery, to say nothing of murder; and as for the rest, that is
+LINE 67: absurd upon the face of it! And so the poor old woman is dead! Well,
+LINE 68: well, well! she could not have lived much longer anyway; but Sandy did
+LINE 69: not kill her,--it's simply impossible! Why, _I_ raised that boy! He was
+LINE 70: born on my place. I'd as soon believe such a thing of my own grandson
+LINE 71: as of Sandy! No negro raised by a Delamere would ever commit such a
+LINE 72: crime. I really believe, William, that Sandy has the family honor of the
+LINE 73: Delameres quite as much at heart as I have. Just tell them I say Sandy
+LINE 74: is innocent, and it will be all right."
+LINE 75: "I'm afraid, sir," rejoined Miller, who kept his voice up so that the
+LINE 76: old gentleman could understand without having it suggested that Miller
+LINE 77: knew he was hard of hearing, "that you don't quite appreciate the
+LINE 78: situation. _I_ believe Sandy innocent; _you_ believe him innocent; but
+LINE 79: there are suspicious circumstances which do not explain themselves, and
+LINE 80: the white people of the city believe him guilty, and are going to lynch
+LINE 81: him before he has a chance to clear himself."
+LINE 82: "Why doesn't he explain the suspicious circumstances?" asked Mr.
+LINE 83: Delamere. "Sandy is truthful and can be believed. I would take Sandy's
+LINE 84: word as quickly as another man's oath."
+LINE 85: "He has no chance to explain," said Miller. "The case is prejudged. A
+LINE 86: crime has been committed. Sandy is charged with it. He is black, and
+LINE 87: therefore he is guilty. No colored lawyer would be allowed in the jail,
+LINE 88: if one should dare to go there. No white lawyer will intervene. He'll
+LINE 89: be lynched to-night, without judge, jury, or preacher, unless we can
+LINE 90: stave the thing off for a day or two."
+LINE 91: "Have you seen my grandson?" asked the old gentleman. "Is he not looking
+LINE 92: after Sandy?"
+LINE 93: "No, sir. It seems he went down the river this morning to fish, before
+LINE 94: the murder was discovered; no one knows just where he has gone, or at
+LINE 95: what hour he will return."
+LINE 96: "Well, then," said Mr. Delamere, rising from his chair with surprising
+LINE 97: vigor, "I shall have to go myself. No faithful servant of mine shall be
+LINE 98: hanged for a crime he didn't commit, so long as I have a voice to
+LINE 99: speak or a dollar to spend. There'll be no trouble after I get there,
+LINE 100: William. The people are naturally wrought up at such a crime. A fine old
+LINE 101: woman,--she had some detestable traits, and I was always afraid she
+LINE 102: wanted to marry me, but she was of an excellent family and had many good
+LINE 103: points,--an old woman of one of the best families, struck down by the
+LINE 104: hand of a murderer! You must remember, William, that blood is thicker
+LINE 105: than water, and that the provocation is extreme, and that a few hotheads
+LINE 106: might easily lose sight of the great principles involved and seek
+LINE 107: immediate vengeance, without too much discrimination. But they are good
+LINE 108: people, William, and when I have spoken, and they have an opportunity
+LINE 109: for the sober second thought, they will do nothing rashly, but will wait
+LINE 110: for the operation of the law, which will, of course, clear Sandy."
+LINE 111: "I'm sure I hope so," returned Miller. "Shall I try to drive you back,
+LINE 112: sir, or will you order your own carriage?"
+LINE 113: "My horses are fresher, William, and I'll have them brought around. You
+LINE 114: can take the reins, if you will,--I'm rather old to drive,--and my man
+LINE 115: will come behind with your buggy."
+LINE 116: In a few minutes they set out along the sandy road. Having two fresh
+LINE 117: horses, they made better headway than Miller had made coming out, and
+LINE 118: reached Wellington easily by three o'clock.
+LINE 119: "I think, William," said Mr. Delamere, as they drove into the town,
+LINE 120: "that I had first better talk with Sandy. He may be able to explain away
+LINE 121: the things that seem to connect him with this atrocious affair; and that
+LINE 122: will put me in a better position to talk to other people about it."
+LINE 123: Miller drove directly to the county jail. Thirty or forty white men, who
+LINE 124: seemed to be casually gathered near the door, closed up when the
+LINE 125: carriage approached. The sheriff, who had seen them from the inside,
+LINE 126: came to the outer door and spoke to the visitor through a grated wicket.
+LINE 127: "Mr. Wemyss," said Mr. Delamere, when he had made his way to the
+LINE 128: entrance with the aid of his cane, "I wish to see my servant, Sandy
+LINE 129: Campbell, who is said to be in your custody."
+LINE 130: The sheriff hesitated. Meantime there was some parleying in low tones
+LINE 131: among the crowd outside. No one interfered, however, and in a moment the
+LINE 132: door opened sufficiently to give entrance to the old gentleman, after
+LINE 133: which it closed quickly and clangorously behind him.
+LINE 134: Feeling no desire to linger in the locality, Miller, having seen his
+LINE 135: companion enter the jail, drove the carriage round to Mr. Delamere's
+LINE 136: house, and leaving it in charge of a servant with instructions to return
+LINE 137: for his master in a quarter of an hour, hastened to his own home to meet
+LINE 138: Watson and Josh and report the result of his efforts.

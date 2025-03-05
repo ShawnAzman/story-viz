@@ -1,0 +1,219 @@
+LINE 1: When Mrs. Carteret had fully recovered from the shock attendant upon the
+LINE 2: accident at the window, where little Dodie had so narrowly escaped death
+LINE 3: or serious injury, she ordered her carriage one afternoon and directed
+LINE 4: the coachman to drive her to Mrs. Ochiltree's.
+LINE 5: Mrs. Carteret had discharged her young nurse only the day before, and
+LINE 6: had sent for Mammy Jane, who was now recovered from her rheumatism, to
+LINE 7: stay until she could find another girl. The nurse had been ordered not
+LINE 8: to take the child to negroes' houses. Yesterday, in driving past the old
+LINE 9: homestead of her husband's family, now occupied by Dr. Miller and his
+LINE 10: family, Mrs. Carteret had seen her own baby's carriage standing in the
+LINE 11: yard.
+LINE 12: When the nurse returned home, she was immediately discharged. She
+LINE 13: offered some sort of explanation, to the effect that her sister worked
+LINE 14: for Mrs. Miller, and that some family matter had rendered it necessary
+LINE 15: for her to see her sister. The explanation only aggravated the offense:
+LINE 16: if Mrs. Carteret could have overlooked the disobedience, she would by no
+LINE 17: means have retained in her employment a servant whose sister worked for
+LINE 18: the Miller woman.
+LINE 19: Old Mrs. Ochiltree had within a few months begun to show signs of
+LINE 20: breaking up. She was over seventy years old, and had been of late, by
+LINE 21: various afflictions, confined to the house much of the time. More than
+LINE 22: once within the year, Mrs. Carteret had asked her aunt to come and live
+LINE 23: with her; but Mrs. Ochiltree, who would have regarded such a step as an
+LINE 24: acknowledgment of weakness, preferred her lonely independence. She
+LINE 25: resided in a small, old-fashioned house, standing back in the middle of
+LINE 26: a garden on a quiet street. Two old servants made up her modest
+LINE 27: household.
+LINE 28: This refusal to live with her niece had been lightly borne, for Mrs.
+LINE 29: Ochiltree was a woman of strong individuality, whose comments upon her
+LINE 30: acquaintance, present or absent, were marked by a frankness at times no
+LINE 31: less than startling. This characteristic caused her to be more or less
+LINE 32: avoided. Mrs. Ochiltree was aware of this sentiment on the part of her
+LINE 33: acquaintance, and rather exulted in it. She hated fools. Only fools ran
+LINE 34: away from her, and that because they were afraid she would expose their
+LINE 35: folly. If most people were fools, it was no fault of hers, and she was
+LINE 36: not obliged to indulge them by pretending to believe that they knew
+LINE 37: anything. She had once owned considerable property, but was reticent
+LINE 38: about her affairs, and told no one how much she was worth, though it was
+LINE 39: supposed that she had considerable ready money, besides her house and
+LINE 40: some other real estate. Mrs. Carteret was her nearest living relative,
+LINE 41: though her grand-nephew Tom Delamere had been a great favorite with her.
+LINE 42: If she did not spare him her tongue-lashings, it was nevertheless
+LINE 43: expected in the family that she would leave him something handsome in
+LINE 44: her will.
+LINE 45: Mrs. Ochiltree had shared in the general rejoicing upon the advent of
+LINE 46: the Carteret baby. She had been one of his godmothers, and had hinted at
+LINE 47: certain intentions held by her concerning him. During Mammy Jane's
+LINE 48: administration she had tried the old nurse's patience more or less by
+LINE 49: her dictatorial interference. Since her partial confinement to the
+LINE 50: house, she had gone, when her health and the weather would permit, to
+LINE 51: see the child, and at other times had insisted that it be sent to her in
+LINE 52: charge of the nurse at least every other day.
+LINE 53: Mrs. Ochiltree's faculties had shared insensibly in the decline of her
+LINE 54: health. This weakness manifested itself by fits of absent-mindedness, in
+LINE 55: which she would seemingly lose connection with the present, and live
+LINE 56: over again, in imagination, the earlier years of her life. She had
+LINE 57: buried two husbands, had tried in vain to secure a third, and had never
+LINE 58: borne any children. Long ago she had petrified into a character which
+LINE 59: nothing under heaven could change, and which, if death is to take us as
+LINE 60: it finds us, and the future life to keep us as it takes us, promised
+LINE 61: anything but eternal felicity to those with whom she might associate
+LINE 62: after this life. Tom Delamere had been heard to say, profanely, that if
+LINE 63: his Aunt Polly went to heaven, he would let his mansion in the skies on
+LINE 64: a long lease, at a low figure.
+LINE 65: When the carriage drove up with Mrs. Carteret, her aunt was seated on
+LINE 66: the little front piazza, with her wrinkled hands folded in her lap,
+LINE 67: dozing the afternoon away in fitful slumber.
+LINE 68: "Tie the horse, William," said Mrs. Carteret, "and then go in and wake
+LINE 69: Aunt Polly, and tell her I want her to come and drive with me."
+LINE 70: Mrs. Ochiltree had not observed her niece's approach, nor did she look
+LINE 71: up when William drew near. Her eyes were closed, and she would let her
+LINE 72: head sink slowly forward, recovering it now and then with a spasmodic
+LINE 73: jerk.
+LINE 74: "Colonel Ochiltree," she muttered, "was shot at the battle of Culpepper
+LINE 75: Court House, and left me a widow for the second time. But I would not
+LINE 76: have married any man on earth after him."
+LINE 77: "Mis' Ochiltree!" cried William, raising his voice, "oh, Mis'
+LINE 78: Ochiltree!"
+LINE 79: "If I had found a man,--a real man,--I might have married again. I did
+LINE 80: not care for weaklings. I could have married John Delamere if I had
+LINE 81: wanted him. But pshaw! I could have wound him round"--
+LINE 82: "Go round to the kitchen, William," interrupted Mrs. Carteret
+LINE 83: impatiently, "and tell Aunt Dinah to come and wake her up."
+LINE 84: William returned in a few moments with a fat, comfortable looking black
+LINE 85: woman, who curtsied to Mrs. Carteret at the gate, and then going up to
+LINE 86: her mistress seized her by the shoulder and shook her vigorously.
+LINE 87: "Wake up dere, Mis' Polly," she screamed, as harshly as her mellow voice
+LINE 88: would permit. "Mis' 'Livy wants you ter go drivin' wid 'er!"
+LINE 89: "Dinah," exclaimed the old lady, sitting suddenly upright with a defiant
+LINE 90: assumption of wakefulness, "why do you take so long to come when I call?
+LINE 91: Bring me my bonnet and shawl. Don't you see my niece waiting for me at
+LINE 92: the gate?"
+LINE 93: "Hyuh dey is, hyuh dey is!" returned Dinah, producing the bonnet and
+LINE 94: shawl, and assisting Mrs. Ochiltree to put them on.
+LINE 95: Leaning on William's arm, the old lady went slowly down the walk, and
+LINE 96: was handed to the rear seat with Mrs. Carteret.
+LINE 97: "How's the baby to-day, Olivia, and why didn't you bring him?"
+LINE 98: "He has a cold to-day, and is a little hoarse," replied Mrs. Carteret,
+LINE 99: "so I thought it best not to bring him out. Drive out the Weldon road,
+LINE 100: William, and back by Pine Street."
+LINE 101: The drive led past an eminence crowned by a handsome brick building of
+LINE 102: modern construction, evidently an institution of some kind, surrounded
+LINE 103: on three sides by a grove of venerable oaks.
+LINE 104: "Hugh Poindexter," Mrs. Ochiltree exclaimed explosively, after a
+LINE 105: considerable silence, "has been building a new house, in place of the
+LINE 106: old family mansion burned during the war."
+LINE 107: "It isn't Mr. Poindexter's house, Aunt Polly. That is the new colored
+LINE 108: hospital built by the colored doctor."
+LINE 109: "The new colored hospital, indeed, and the colored doctor! Before the
+LINE 110: war the negroes were all healthy, and when they got sick we took care of
+LINE 111: them ourselves! Hugh Poindexter has sold the graves of his ancestors to
+LINE 112: a negro,--I should have starved first!"
+LINE 113: "He had his grandfather's grave opened, and there was nothing to remove,
+LINE 114: except a few bits of heart-pine from the coffin. All the rest had
+LINE 115: crumbled into dust."
+LINE 116: "And he sold the dust to a negro! The world is upside down."
+LINE 117: "He had the tombstone transferred to the white cemetery, Aunt Polly, and
+LINE 118: he has moved away."
+LINE 119: "Esau sold his birthright for a mess of pottage. When I die, if you
+LINE 120: outlive me, Olivia, which is not likely, I shall leave my house and
+LINE 121: land to this child! He is a Carteret,--he would never sell them to a
+LINE 122: negro. I can't trust Tom Delamere, I'm afraid."
+LINE 123: The carriage had skirted the hill, passing to the rear of the new
+LINE 124: building.
+LINE 125: "Turn to the right, William," ordered Mrs. Carteret, addressing the
+LINE 126: coachman, "and come back past the other side of the hospital."
+LINE 127: A turn to the right into another road soon brought them to the front of
+LINE 128: the building, which stood slightly back from the street, with no
+LINE 129: intervening fence or inclosure. A sorrel pony in a light buggy was
+LINE 130: fastened to a hitching-post near the entrance. As they drove past, a
+LINE 131: lady came out of the front door and descended the steps, holding by the
+LINE 132: hand a very pretty child about six years old.
+LINE 133: "Who is that woman, Olivia?" asked Mrs. Ochiltree abruptly, with signs
+LINE 134: of agitation.
+LINE 135: The lady coming down the steps darted at the approaching carriage a look
+LINE 136: which lingered involuntarily.
+LINE 137: Mrs. Carteret, perceiving this glance, turned away coldly.
+LINE 138: With a sudden hardening of her own features the other woman lifted the
+LINE 139: little boy into the buggy and drove sharply away in the direction
+LINE 140: opposite to that taken by Mrs. Carteret's carriage.
+LINE 141: "Who is that woman, Olivia?" repeated Mrs. Ochiltree, with marked
+LINE 142: emotion.
+LINE 143: "I have not the honor of her acquaintance," returned Mrs. Carteret
+LINE 144: sharply. "Drive faster, William."
+LINE 145: "I want to know who that woman is," persisted Mrs. Ochiltree
+LINE 146: querulously. "William," she cried shrilly, poking the coachman in the
+LINE 147: back with the end of her cane, "who is that woman?"
+LINE 148: "Dat's Mis' Miller, ma'am," returned the coachman, touching his hat;
+LINE 149: "Doctuh Miller's wife."
+LINE 150: "What was her mother's name?"
+LINE 151: "Her mother's name wuz Julia Brown. She's be'n dead dese twenty years
+LINE 152: er mo'. Why, you knowed Julia, Mis' Polly!--she used ter b'long ter yo'
+LINE 153: own father befo' de wah; an' after de wah she kep' house fer"--
+LINE 154: "Look to your horses, William!" exclaimed Mrs. Carteret sharply.
+LINE 155: "It's that hussy's child," said Mrs. Ochiltree, turning to her niece
+LINE 156: with great excitement. "When your father died, I turned the mother and
+LINE 157: the child out into the street. The mother died and went to--the place
+LINE 158: provided for such as she. If I hadn't been just in time, Olivia, they
+LINE 159: would have turned you out. I saved the property for you and your son!
+LINE 160: You can thank me for it all!"
+LINE 161: "Hush, Aunt Polly, for goodness' sake! William will hear you. Tell me
+LINE 162: about it when you get home."
+LINE 163: Mrs. Ochiltree was silent, except for a few incoherent mumblings. What
+LINE 164: she might say, what distressing family secret she might repeat in
+LINE 165: William's hearing, should she take another talkative turn, was beyond
+LINE 166: conjecture.
+LINE 167: Olivia looked anxiously around for something to distract her aunt's
+LINE 168: attention, and caught sight of a colored man, dressed in sober gray, who
+LINE 169: was coming toward the carriage.
+LINE 170: "There's Mr. Delamere's Sandy!" exclaimed Mrs. Carteret, touching her
+LINE 171: aunt on the arm. "I wonder how his master is? Sandy, oh, Sandy!"
+LINE 172: Sandy approached the carriage, lifting his hat with a slight
+LINE 173: exaggeration of Chesterfieldian elegance. Sandy, no less than his
+LINE 174: master, was a survival of an interesting type. He had inherited the
+LINE 175: feudal deference for his superiors in position, joined to a certain
+LINE 176: self-respect which saved him from sycophancy. His manners had been
+LINE 177: formed upon those of old Mr. Delamere, and were not a bad imitation; for
+LINE 178: in the man, as in the master, they were the harmonious reflection of a
+LINE 179: mental state.
+LINE 180: "How is Mr. Delamere, Sandy?" asked Mrs. Carteret, acknowledging Sandy's
+LINE 181: salutation with a nod and a smile.
+LINE 182: "He ain't ez peart ez he has be'n, ma'am," replied Sandy, "but he's
+LINE 183: doin' tol'able well. De doctuh say he's good fer a dozen years yit, ef
+LINE 184: he'll jes' take good keer of hisse'f an' keep f'm gittin' excited; fer
+LINE 185: sence dat secon' stroke, excitement is dange'ous fer 'im."
+LINE 186: "I'm sure you take the best care of him," returned Mrs. Carteret kindly.
+LINE 187: "You can't do anything for him, Sandy," interposed old Mrs. Ochiltree,
+LINE 188: shaking her head slowly to emphasize her dissent. "All the doctors in
+LINE 189: creation couldn't keep him alive another year. I shall outlive him by
+LINE 190: twenty years, though we are not far from the same age."
+LINE 191: "Lawd, ma'am!" exclaimed Sandy, lifting his hands in affected
+LINE 192: amazement,--his study of gentle manners had been more than
+LINE 193: superficial,--"whoever would 'a' s'picion' dat you an' Mars John wuz
+LINE 194: nigh de same age? I'd 'a' 'lowed you wuz ten years younger 'n him, easy,
+LINE 195: ef you wuz a day!"
+LINE 196: "Give my compliments to the poor old gentleman," returned Mrs.
+LINE 197: Ochiltree, with a simper of senile vanity, though her back was
+LINE 198: weakening under the strain of the effort to sit erect that she might
+LINE 199: maintain this illusion of comparative youthfulness. "Bring him to see me
+LINE 200: some day when he is able to walk."
+LINE 201: "Yas'm, I will," rejoined Sandy. "He's gwine out ter Belleview nex'
+LINE 202: week, fer ter stay a mont' er so, but I'll fetch him 'roun' w'en he
+LINE 203: comes back. I'll tell 'im dat you ladies 'quired fer 'im."
+LINE 204: Sandy made another deep bow, and held his hat in his hand until the
+LINE 205: carriage had moved away. He had not condescended to notice the coachman
+LINE 206: at all, who was one of the young negroes of the new generation; while
+LINE 207: Sandy regarded himself as belonging to the quality, and seldom stooped
+LINE 208: to notice those beneath him. It would not have been becoming in him,
+LINE 209: either, while conversing with white ladies, to have noticed a colored
+LINE 210: servant. Moreover, the coachman was a Baptist, while Sandy was a
+LINE 211: Methodist, though under a cloud, and considered a Methodist in poor
+LINE 212: standing as better than a Baptist of any degree of sanctity.
+LINE 213: "Lawd, Lawd!" chuckled Sandy, after the carriage had departed, "I never
+LINE 214: seed nothin' lack de way dat ole lady do keep up her temper! Wid one
+LINE 215: foot in de grave, an' de other hov'rin' on de edge, she talks 'bout my
+LINE 216: ole marster lack he wuz in his secon' chil'hood. But I'm jes' willin'
+LINE 217: ter bet dat he'll outlas' her! She ain't half de woman she wuz dat
+LINE 218: night I waited on de table at de christenin' pa'ty, w'en she 'lowed she
+LINE 219: wuzn' feared er no man livin'."

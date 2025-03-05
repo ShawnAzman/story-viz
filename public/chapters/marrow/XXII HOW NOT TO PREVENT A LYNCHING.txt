@@ -1,0 +1,208 @@
+LINE 1: Dr. Miller, who had sat up late the night before with a difficult case
+LINE 2: at the hospital, was roused, about eleven o'clock, from a deep and
+LINE 3: dreamless sleep. Struggling back into consciousness, he was informed by
+LINE 4: his wife, who stood by his bedside, that Mr. Watson, the colored lawyer,
+LINE 5: wished to see him upon a matter of great importance.
+LINE 6: "Nothing but a matter of life and death would make me get up just now,"
+LINE 7: he said with a portentous yawn.
+LINE 8: "This is a matter of life and death," replied Janet. "Old Mrs. Polly
+LINE 9: Ochiltree was robbed and murdered last night, and Sandy Campbell has
+LINE 10: been arrested for the crime,--and they are going to lynch him!"
+LINE 11: "Tell Watson to come right up," exclaimed Miller, springing out of bed.
+LINE 12: "We can talk while I'm dressing."
+LINE 13: While Miller made a hasty toilet Watson explained the situation.
+LINE 14: Campbell had been arrested on the charge of murder. He had been seen,
+LINE 15: during the night, in the neighborhood of the scene of the crime, by two
+LINE 16: different persons, a negro and a white man, and had been identified
+LINE 17: later while entering Mr. Delamere's house, where he lived, and where
+LINE 18: damning proofs of his guilt had been discovered; the most important item
+LINE 19: of which was an old-fashioned knit silk purse, recognized as Mrs.
+LINE 20: Ochiltree's, and several gold pieces of early coinage, of which the
+LINE 21: murdered woman was known to have a number. Watson brought with him one
+LINE 22: of the first copies procurable of the extra edition of the Chronicle,
+LINE 23: which contained these facts and further information.
+LINE 24: They were still talking when Mrs. Miller, knocking at the door,
+LINE 25: announced that big Josh Green wished to see the doctor about Sandy
+LINE 26: Campbell. Miller took his collar and necktie in his hand and went
+LINE 27: downstairs, where Josh sat waiting.
+LINE 28: "Doctuh," said Green, "de w'ite folks is talkin' 'bout lynchin' Sandy
+LINE 29: Campbell fer killin' ole Mis' Ochiltree. He never done it, an' dey oughtn'
+LINE 30: ter be 'lowed ter lynch 'im."
+LINE 31: "They ought not to lynch him, even if he committed the crime," returned
+LINE 32: Miller, "but still less if he didn't. What do you know about it?"
+LINE 33: "I know he was wid me, suh, las' night, at de time when dey say ole Mis'
+LINE 34: Ochiltree wuz killed. We wuz down ter Sam Taylor's place, havin' a
+LINE 35: little game of kyards an' a little liquor. Den we lef dere an' went up
+LINE 36: ez fur ez de corner er Main an' Vine Streets, where we pa'ted, an' Sandy
+LINE 37: went 'long to'ds home. Mo'over, dey say he had on check' britches an' a
+LINE 38: blue coat. When Sandy wuz wid me he had on gray clo's, an' when we
+LINE 39: sep'rated he wa'n't in no shape ter be changin' his clo's, let 'lone
+LINE 40: robbin' er killin' anybody."
+LINE 41: "Your testimony ought to prove an alibi for him," declared Miller.
+LINE 42: "Dere ain' gwine ter be no chance ter prove nothin', 'less'n we kin do
+LINE 43: it mighty quick! Dey say dey're gwine ter lynch 'im ter-night,--some on
+LINE 44: 'em is talkin' 'bout burnin' 'im. My idee is ter hunt up de niggers an'
+LINE 45: git 'em ter stan' tergether an' gyard de jail."
+LINE 46: "Why shouldn't we go to the principal white people of the town and tell
+LINE 47: them Josh's story, and appeal to them to stop this thing until Campbell
+LINE 48: can have a hearing?"
+LINE 49: "It wouldn't do any good," said Watson despondently; "their blood is
+LINE 50: up. It seems that some colored man attacked Mrs. Ochiltree,--and he was
+LINE 51: a murderous villain, whoever he may be. To quote Josh would destroy the
+LINE 52: effect of his story,--we know he never harmed any one but himself"--
+LINE 53: "An' a few keerliss people w'at got in my way," corrected Josh.
+LINE 54: "He has been in court several times for fighting,--and that's against
+LINE 55: him. To have been at Sam Taylor's place is against Sandy, too, rather
+LINE 56: than in his favor. No, Josh, the white people would believe that you
+LINE 57: were trying to shield Sandy, and you would probably be arrested as an
+LINE 58: accomplice."
+LINE 59: "But look a-here, Mr. Watson,--Dr. Miller, is we-all jes' got ter set
+LINE 60: down here, widout openin' ou' mouths, an' let dese w'ite folks hang er
+LINE 61: bu'n a man w'at we _know_ ain' guilty? Dat ain't no law, ner jestice,
+LINE 62: ner nothin'! Ef you-all won't he'p, I'll do somethin' myse'f! Dere's
+LINE 63: two niggers ter one white man in dis town, an' I'm sho' I kin fin' fifty
+LINE 64: of 'em w'at 'll fight, ef dey kin fin' anybody ter lead 'em."
+LINE 65: "Now hold on, Josh," argued Miller; "what is to be gained by fighting?
+LINE 66: Suppose you got your crowd together and surrounded the jail,--what
+LINE 67: then?"
+LINE 68: "There'd be a clash," declared Watson, "and instead of one dead negro
+LINE 69: there'd be fifty. The white people are claiming now that Campbell didn't
+LINE 70: stop with robbery and murder. A special edition of the Morning
+LINE 71: Chronicle, just out, suggests a further purpose, and has all the old
+LINE 72: shopworn cant about race purity and supremacy and imperative necessity,
+LINE 73: which always comes to the front whenever it is sought to justify some
+LINE 74: outrage on the colored folks. The blood of the whites is up, I tell
+LINE 75: you!"
+LINE 76: "Is there anything to that suggestion?" asked Miller incredulously.
+LINE 77: "It doesn't matter whether there is or not," returned Watson. "Merely
+LINE 78: to suggest it proves it.
+LINE 79: "Nothing was said about this feature until the paper came out,--and even
+LINE 80: its statement is vague and indefinite,--but now the claim is in every
+LINE 81: mouth. I met only black looks as I came down the street. White men with
+LINE 82: whom I have long been on friendly terms passed me without a word. A
+LINE 83: negro has been arrested on suspicion,--the entire race is condemned on
+LINE 84: general principles."
+LINE 85: "The whole thing is profoundly discouraging," said Miller sadly. "Try as
+LINE 86: we may to build up the race in the essentials of good citizenship and
+LINE 87: win the good opinion of the best people, some black scoundrel comes
+LINE 88: along, and by a single criminal act, committed in the twinkling of an
+LINE 89: eye, neutralizes the effect of a whole year's work."
+LINE 90: "It's mighty easy neut'alize', er whatever you call it," said Josh
+LINE 91: sullenly. "De w'ite folks don' want too good an opinion er de
+LINE 92: niggers,--ef dey had a good opinion of 'em, dey wouldn' have no excuse
+LINE 93: f er 'busin' an' hangin' an' burnin' 'em. But ef dey can't keep from
+LINE 94: doin' it, let 'em git de right man! Dis way er pickin' up de fus' nigger
+LINE 95: dey comes across, an' stringin' 'im up rega'dliss, ought ter be stop',
+LINE 96: an' stop' right now!"
+LINE 97: "Yes, that's the worst of lynch law," said Watson; "but we are wasting
+LINE 98: valuable time,--it's hardly worth while for us to discuss a subject we
+LINE 99: are all agreed upon. One of our race, accused of certain acts, is about
+LINE 100: to be put to death without judge or jury, ostensibly because he committed
+LINE 101: a crime,--really because he is a negro, for if he were white he would not
+LINE 102: be lynched. It is thus made a race issue, on the one side as well as on
+LINE 103: the other. What can we do to protect him?"
+LINE 104: "We kin fight, ef we haf ter," replied Josh resolutely.
+LINE 105: "Well, now, let us see. Suppose the colored people armed themselves?
+LINE 106: Messages would at once be sent to every town and county in the
+LINE 107: neighborhood. White men from all over the state, armed to the teeth,
+LINE 108: would at the slightest word pour into town on every railroad train, and
+LINE 109: extras would be run for their benefit."
+LINE 110: "They're already coming in," said Watson.
+LINE 111: "We might go to the sheriff," suggested Miller, "and demand that he
+LINE 112: telegraph the governor to call out the militia."
+LINE 113: "I spoke to the sheriff an hour ago," replied Watson. "He has a white
+LINE 114: face and a whiter liver. He does not dare call out the militia to
+LINE 115: protect a negro charged with such a brutal crime;--and if he did, the
+LINE 116: militia are white men, and who can say that their efforts would not be
+LINE 117: directed to keeping the negroes out of the way, in order that the white
+LINE 118: devils might do their worst? The whole machinery of the state is in the
+LINE 119: hands of white men, elected partly by our votes. When the color line is
+LINE 120: drawn, if they choose to stand together with the rest of their race
+LINE 121: against us, or to remain passive and let the others work their will, we
+LINE 122: are helpless,--our cause is hopeless."
+LINE 123: "We might call on the general government," said Miller. "Surely the
+LINE 124: President would intervene."
+LINE 125: "Such a demand would be of no avail," returned Watson. "The government
+LINE 126: can only intervene under certain conditions, of which it must be
+LINE 127: informed through designated channels. It never sees anything that is not
+LINE 128: officially called to its attention. The whole negro population of the
+LINE 129: South might be slaughtered before the necessary red tape could be spun
+LINE 130: out to inform the President that a state of anarchy prevailed. There's
+LINE 131: no hope there."
+LINE 132: "Den w'at we gwine ter do?" demanded Josh indignantly; "jes' set here
+LINE 133: an' let 'em hang Sandy, er bu'n 'im?"
+LINE 134: "God knows!" exclaimed Miller. "The outlook is dark, but we should at
+LINE 135: least try to do something. There must be some white men in the town who
+LINE 136: would stand for law and order,--there's no possible chance for Sandy to
+LINE 137: escape hanging by due process of law, if he is guilty. We might at least
+LINE 138: try half a dozen gentlemen."
+LINE 139: "We'd better leave Josh here," said Watson. "He's too truculent. If he
+LINE 140: went on the street he'd make trouble, and if he accompanied us he'd do
+LINE 141: more harm than good. Wait for us here, Josh, until we 'we seen what we
+LINE 142: can do. We'll be back in half an hour."
+LINE 143: In half an hour they had both returned.
+LINE 144: "It's no use," reported Watson gloomily. "I called at the mayor's office
+LINE 145: and found it locked. He is doubtless afraid on his own account, and
+LINE 146: would not dream of asserting his authority. I then looked up Judge
+LINE 147: Everton, who has always seemed to be fair. My reception was cold. He
+LINE 148: admitted that lynching was, as a rule, unjustifiable, but maintained
+LINE 149: that there were exceptions to all rules,--that laws were made, after
+LINE 150: all, to express the will of the people in regard to the ordinary
+LINE 151: administration of justice, but that in an emergency the sovereign people
+LINE 152: might assert itself and take the law into its own hands,--the creature
+LINE 153: was not greater than the creator. He laughed at my suggestion that Sandy
+LINE 154: was innocent. 'If he is innocent,' he said, 'then produce the real
+LINE 155: criminal. You negroes are standing in your own light when you try to
+LINE 156: protect such dastardly scoundrels as this Campbell, who is an enemy of
+LINE 157: society and not fit to live. I shall not move in the matter. If a negro
+LINE 158: wants the protection of the law, let him obey the law.' A wise judge,--a
+LINE 159: second Daniel come to judgment! If this were the law, there would be no
+LINE 160: need of judges or juries."
+LINE 161: "I called on Dr. Price," said Miller, "my good friend Dr. Price, who
+LINE 162: would rather lie than hurt my feelings. 'Miller,' he declared, 'this is
+LINE 163: no affair of mine, or yours. I have too much respect for myself and my
+LINE 164: profession to interfere in such a matter, and you will accomplish
+LINE 165: nothing, and only lessen your own influence, by having anything to say.'
+LINE 166: 'But the man may be innocent,' I replied; 'there is every reason to
+LINE 167: believe that he is.' He shook his head pityingly. 'You are
+LINE 168: self-deceived, Miller; your prejudice has warped your judgment. The
+LINE 169: proof is overwhelming that he robbed this old lady, laid violent hands
+LINE 170: upon her, and left her dead. If he did no more, he has violated the
+LINE 171: written and unwritten law of the Southern States. I could not save him
+LINE 172: if I would, Miller, and frankly, I would not if I could. If he is
+LINE 173: innocent, his people can console themselves with the reflection that
+LINE 174: Mrs. Ochiltree was also innocent, and balance one crime against the
+LINE 175: other, the white against the black. Of course I shall take no part in
+LINE 176: whatever may be done,--but it is not my affair, nor yours. Take my
+LINE 177: advice, Miller, and keep out of it.'
+LINE 178: "That is the situation," added Miller, summing up. "Their friendship for
+LINE 179: us, a slender stream at the best, dries up entirely when it strikes
+LINE 180: their prejudices. There is seemingly not one white man in Wellington who
+LINE 181: will speak a word for law, order, decency, or humanity. Those who do not
+LINE 182: participate will stand idly by and see an untried man deliberately and
+LINE 183: brutally murdered. Race prejudice is the devil unchained."
+LINE 184: "Well, den, suh," said Josh, "where does we stan' now? W'at is we gwine
+LINE 185: ter do? I wouldn' min' fightin', fer my time ain't come yit,--I feels
+LINE 186: dat in my bones. W'at we gwine ter do, dat's w'at I wanter know."
+LINE 187: "What does old Mr. Delamere have to say about the matter?" asked Miller
+LINE 188: suddenly. "Why haven't we thought of him before? Has he been seen?"
+LINE 189: "No," replied Watson gloomily, "and for a good reason,--he is not in
+LINE 190: town. I came by the house just now, and learned that he went out to his
+LINE 191: country place yesterday afternoon, to remain a week. Sandy was to have
+LINE 192: followed him out there this morning,--it's a pity he didn't go
+LINE 193: yesterday. The old gentleman has probably heard nothing about the
+LINE 194: matter."
+LINE 195: "How about young Delamere?"
+LINE 196: "He went away early this morning, down the river, to fish. He'll
+LINE 197: probably not hear of it before night, and he's only a boy anyway, and
+LINE 198: could very likely do nothing," said Watson.
+LINE 199: Miller looked at his watch.
+LINE 200: "Belleview is ten miles away," he said. "It is now eleven o'clock. I can
+LINE 201: drive out there in an hour and a half at the farthest. I'll go and see
+LINE 202: Mr. Delamere,--he can do more than any living man, if he is able to do
+LINE 203: anything at all. There's never been a lynching here, and one good white
+LINE 204: man, if he choose, may stem the flood long enough to give justice a
+LINE 205: chance. Keep track of the white people while I'm gone, Watson; and you,
+LINE 206: Josh, learn what the colored folks are saying, and do nothing rash until
+LINE 207: I return. In the meantime, do all that you can to find out who did
+LINE 208: commit this most atrocious murder."

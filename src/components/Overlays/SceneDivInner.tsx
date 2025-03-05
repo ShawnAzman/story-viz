@@ -275,7 +275,7 @@ function SceneDivInner(props: any) {
               Chapter Text
             </Button>
           </Button.Group>
-          <div className={"scene-select " + (showChapterText ? "hidden" : "")}>
+          <div className={"scene-select "}>
             <b>
               {chapterView ? "Chapter" : "Scene"} view
               <InfoTooltip label="explore chapters or scenes" />
@@ -285,31 +285,48 @@ function SceneDivInner(props: any) {
               checked={chapterView}
               onChange={(event) => setChapterView(event.currentTarget.checked)}
             />
-            <b style={{ marginLeft: "0.5rem" }}>
+            <b
+              style={{ marginLeft: "0.5rem" }}
+              className={showChapterText ? "hidden" : ""}
+            >
               Cumulative mode
               <InfoTooltip label="show isolated or cumulative character network for this chapter" />
             </b>
             <Switch
+              className={showChapterText ? "hidden" : ""}
               size="xs"
               checked={cumulativeMode}
               onChange={(event) =>
                 setCumulativeMode(event.currentTarget.checked)
               }
             />
-          </div>
-          <div className={"scene-select " + (!showChapterText ? "hidden" : "")}>
-            <b>Scroll to</b>
-            <Select
-              size="xs"
-              data={sceneList}
-              value={curScrollScene}
-              onChange={(value) => {
-                if (value) {
-                  setScrollSource(true); // Mark scroll as programmatic
-                  setCurScrollScene(value);
-                }
-              }}
-            />
+            <div
+              style={{ marginLeft: "0.5rem" }}
+              className={"scene-select " + (!showChapterText ? "hidden" : "")}
+            >
+              <b>
+                Scroll to
+                <InfoTooltip
+                  label={
+                    "scroll to a specific scene in this chapter" +
+                    (!chapterView
+                      ? "; hover on a scene name or 💡 below for more info"
+                      : "")
+                  }
+                />
+              </b>
+              <Select
+                size="xs"
+                data={sceneList}
+                value={curScrollScene}
+                onChange={(value) => {
+                  if (value) {
+                    setScrollSource(true); // Mark scroll as programmatic
+                    setCurScrollScene(value);
+                  }
+                }}
+              />
+            </div>
           </div>
         </div>
       )}

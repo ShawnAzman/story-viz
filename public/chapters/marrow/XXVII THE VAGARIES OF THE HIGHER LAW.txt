@@ -1,0 +1,350 @@
+LINE 1: Mr. Delamere went immediately to his grandson's room, which he entered
+LINE 2: alone, closing and locking the door behind him. He had requested Ellis
+LINE 3: to wait in the carriage.
+LINE 4: The bed had been made, and the room was apparently in perfect order.
+LINE 5: There was a bureau in the room, through which Mr. Delamere proceeded to
+LINE 6: look thoroughly. Finding one of the drawers locked, he tried it with a
+LINE 7: key of his own, and being unable to unlock it, took a poker from beside
+LINE 8: the stove and broke it ruthlessly open.
+LINE 9: The contents served to confirm what he had heard concerning his
+LINE 10: grandson's character. Thrown together in disorderly confusion were
+LINE 11: bottles of wine and whiskey; soiled packs of cards; a dice-box with
+LINE 12: dice; a box of poker chips, several revolvers, and a number of
+LINE 13: photographs and paper-covered books at which the old gentleman merely
+LINE 14: glanced to ascertain their nature.
+LINE 15: So far, while his suspicion had been strengthened, he had found nothing
+LINE 16: to confirm it. He searched the room more carefully, and found, in the
+LINE 17: wood-box by the small heating-stove which stood in the room, a torn and
+LINE 18: crumpled bit of paper. Stooping to pick this up, his eye caught a gleam
+LINE 19: of something yellow beneath the bureau, which lay directly in his line
+LINE 20: of vision.
+LINE 21: First he smoothed out the paper. It was apparently the lower half of a
+LINE 22: label, or part of the cover of a small box, torn diagonally from corner
+LINE 23: to corner. From the business card at the bottom, which gave the name, of
+LINE 24: a firm of manufacturers of theatrical supplies in a Northern city, and
+LINE 25: from the letters remaining upon the upper and narrower half, the bit of
+LINE 26: paper had plainly formed part of the wrapper of a package of burnt cork.
+LINE 27: Closing his fingers spasmodically over this damning piece of evidence,
+LINE 28: Mr. Delamere knelt painfully, and with the aid of his cane drew out from
+LINE 29: under the bureau the yellow object which, had attracted his attention.
+LINE 30: It was a five-dollar gold piece of a date back toward the beginning of
+LINE 31: the century.
+LINE 32: To make assurance doubly sure, Mr. Delamere summoned the cook from the
+LINE 33: kitchen in the back yard. In answer to her master's questions, Sally
+LINE 34: averred that Mr. Tom had got up very early, had knocked at her
+LINE 35: window,--she slept in a room off the kitchen in the yard,--and had told
+LINE 36: her that she need not bother about breakfast for him, as he had had a
+LINE 37: cold bite from the pantry; that he was going hunting and fishing, and
+LINE 38: would be gone all day. According to Sally, Mr. Tom had come in about ten
+LINE 39: o'clock the night before. He had forgotten his night-key, Sandy was out,
+LINE 40: and she had admitted him with her own key. He had said that he was very
+LINE 41: tired and was going, immediately to bed.
+LINE 42: Mr. Delamere seemed perplexed; the crime had been committed later in the
+LINE 43: evening than ten o'clock. The cook cleared up the mystery.
+LINE 44: "I reckon he must 'a' be'n dead ti'ed, suh, fer I went back ter his room
+LINE 45: fifteen er twenty minutes after he come in fer ter fin' out w'at he
+LINE 46: wanted fer breakfus'; an' I knock' two or three times, rale ha'd, an'
+LINE 47: Mistuh Tom didn' wake up no mo' d'n de dead. He sho'ly had a good
+LINE 48: sleep, er he'd never 'a' got up so ea'ly."
+LINE 49: "Thank you, Sally," said Mr. Delamere, when the woman had finished,
+LINE 50: "that will do."
+LINE 51: "Will you be home ter suppah, suh?" asked the cook.
+LINE 52: "Yes."
+LINE 53: It was a matter of the supremest indifference to Mr. Delamere whether he
+LINE 54: should ever eat again, but he would not betray his feelings to a
+LINE 55: servant. In a few minutes he was driving rapidly with Ellis toward the
+LINE 56: office of the Morning Chronicle. Ellis could see that Mr. Delamere had
+LINE 57: discovered something of tragic import. Neither spoke. Ellis gave all his
+LINE 58: attention to the horses, and Mr. Delamere remained wrapped in his own
+LINE 59: sombre reflections.
+LINE 60: When they reached the office, they were informed by Jerry that Major
+LINE 61: Carteret was engaged with General Belmont and Captain McBane. Mr.
+LINE 62: Delamere knocked peremptorily at the door of the inner office, which was
+LINE 63: opened by Carteret in person.
+LINE 64: "Oh, it is you, Mr. Delamere."
+LINE 65: "Carteret," exclaimed Mr. Delamere, "I must speak to you immediately,
+LINE 66: and alone."
+LINE 67: "Excuse me a moment, gentlemen," said Carteret, turning to those within
+LINE 68: the room. "I'll be back in a moment--don't go away."
+LINE 69: Ellis had left the room, closing the door behind him. Mr. Delamere and
+LINE 70: Carteret were quite alone.
+LINE 71: "Carteret," declared the old gentleman, "this murder must not take
+LINE 72: place."
+LINE 73: "'Murder' is a hard word," replied the editor, frowning slightly.
+LINE 74: "It is the right word," rejoined Mr. Delamere, decidedly. "It would be a
+LINE 75: foul and most unnatural murder, for Sandy did not kill Mrs. Ochiltree."
+LINE 76: Carteret with difficulty restrained a smile of pity. His old friend was
+LINE 77: very much excited, as the tremor in his voice gave proof. The criminal
+LINE 78: was his trusted servant, who had proved unworthy of confidence. No one
+LINE 79: could question Mr. Delamere's motives; but he was old, his judgment was
+LINE 80: no longer to be relied upon. It was a great pity that he should so
+LINE 81: excite and overstrain himself about a worthless negro, who had forfeited
+LINE 82: his life for a dastardly crime. Mr. Delamere had had two paralytic
+LINE 83: strokes, and a third might prove fatal. He must be dealt with gently.
+LINE 84: "Mr. Delamere," he said, with patient tolerance, "I think you are
+LINE 85: deceived. There is but one sure way to stop this execution. If your
+LINE 86: servant is innocent, you must produce the real criminal. If the negro,
+LINE 87: with such overwhelming proofs against him, is not guilty, who is?"
+LINE 88: "I will tell you who is," replied Mr. Delamere. "The murderer is,"--the
+LINE 89: words came with a note of anguish, as though torn from his very
+LINE 90: heart,--"the murderer is Tom Delamere, my own grandson!"
+LINE 91: "Impossible, sir!" exclaimed Carteret, starting back involuntarily.
+LINE 92: "That could not be! The man was seen leaving the house, and he was
+LINE 93: black!"
+LINE 94: "All cats are gray in the dark, Carteret; and, moreover, nothing is
+LINE 95: easier than for a white man to black his face. God alone knows how many
+LINE 96: crimes have been done in this guise! Tom Delamere, to get the money to
+LINE 97: pay his gambling debts, committed this foul murder, and then tried to
+LINE 98: fasten it upon as honest and faithful a soul as ever trod the earth."
+LINE 99: Carteret, though at first overwhelmed by this announcement, perceived
+LINE 100: with quick intuition that it might easily be true. It was but a step
+LINE 101: from fraud to crime, and in Delamere's need of money there lay a
+LINE 102: palpable motive for robbery,--the murder may have been an afterthought.
+LINE 103: Delamere knew as much about the cedar chest as the negro could have
+LINE 104: known, and more.
+LINE 105: But a white man must not be condemned without proof positive.
+LINE 106: "What foundation is there, sir," he asked, "for this astounding charge?"
+LINE 107: Mr. Delamere related all that had taken place since he had left
+LINE 108: Belleview a couple of hours before, and as he proceeded, step by step,
+LINE 109: every word carried conviction to Carteret. Tom Delamere's skill as a
+LINE 110: mimic and a negro impersonator was well known; he had himself laughed at
+LINE 111: more than one of his performances. There had been a powerful motive, and
+LINE 112: Mr. Delamere's discoveries had made clear the means. Tom's unusual
+LINE 113: departure, before breakfast, on a fishing expedition was a suspicious
+LINE 114: circumstance. There was a certain devilish ingenuity about the affair
+LINE 115: which he would hardly have expected of Tom Delamere, but for which the
+LINE 116: reason was clear enough. One might have thought that Tom would have been
+LINE 117: satisfied with merely blacking his face, and leaving to chance the
+LINE 118: identification of the negro who might be apprehended. He would hardly
+LINE 119: have implicated, out of pure malignity, his grandfather's old servant,
+LINE 120: who had been his own care-taker for many years. Here, however, Carteret
+LINE 121: could see where Tom's own desperate position operated to furnish a
+LINE 122: probable motive for the crime. The surest way to head off suspicion from
+LINE 123: himself was to direct it strongly toward some particular person, and
+LINE 124: this he had been able to do conclusively by his access to Sandy's
+LINE 125: clothes, his skill in making up to resemble him, and by the episode of
+LINE 126: the silk purse. By placing himself beyond reach during the next day, he
+LINE 127: would not be called upon to corroborate or deny any inculpating
+LINE 128: statements which Sandy might make, and in the very probable case that
+LINE 129: the crime should be summarily avenged, any such statements on Sandy's
+LINE 130: part would be regarded as mere desperate subterfuges of the murderer to
+LINE 131: save his own life. It was a bad affair.
+LINE 132: "The case seems clear," said Carteret reluctantly but conclusively. "And
+LINE 133: now, what shall we do about it?"
+LINE 134: "I want you to print a handbill," said Mr. Delamere, "and circulate it
+LINE 135: through the town, stating that Sandy Campbell is innocent and Tom
+LINE 136: Delamere guilty of this crime. If this is not done, I will go myself and
+LINE 137: declare it to all who will listen, and I will publicly disown the
+LINE 138: villain who is no more grandson of mine. There is no deeper sink of
+LINE 139: iniquity into which he could fall."
+LINE 140: Carteret's thoughts were chasing one another tumultuously. There could
+LINE 141: be no doubt that the negro was innocent, from the present aspect of
+LINE 142: affairs, and he must not be lynched; but in what sort of position would
+LINE 143: the white people be placed, if Mr. Delamere carried out his Spartan
+LINE 144: purpose of making the true facts known? The white people of the city had
+LINE 145: raised the issue of their own superior morality, and had themselves made
+LINE 146: this crime a race question. The success of the impending "revolution,"
+LINE 147: for which he and his _confrères_ had labored so long, depended in large
+LINE 148: measure upon the maintenance of their race prestige, which would be
+LINE 149: injured in the eyes of the world by such a fiasco. While they might yet
+LINE 150: win by sheer force, their cause would suffer in the court of morals,
+LINE 151: where they might stand convicted as pirates, instead of being applauded
+LINE 152: as patriots. Even the negroes would have the laugh on them,--the people
+LINE 153: whom they hoped to make approve and justify their own despoilment. To be
+LINE 154: laughed at by the negroes was a calamity only less terrible than failure
+LINE 155: or death.
+LINE 156: Such an outcome of an event which had already been heralded to the four
+LINE 157: corners of the earth would throw a cloud of suspicion upon the stories
+LINE 158: of outrage which had gone up from the South for so many years, and had
+LINE 159: done so much to win the sympathy of the North for the white South and to
+LINE 160: alienate it from the colored people. The reputation of the race was
+LINE 161: threatened. They must not lynch the negro, and yet, for the credit of
+LINE 162: the town, its aristocracy, and the race, the truth of this ghastly story
+LINE 163: must not see the light,--at least not yet.
+LINE 164: "Mr. Delamere," he exclaimed, "I am shocked and humiliated. The negro
+LINE 165: must be saved, of course, but--consider the family honor."
+LINE 166: "Tom is no longer a member of my family. I disown him. He has covered
+LINE 167: the family name--my name, sir--with infamy. We have no longer a family
+LINE 168: honor. I wish never to hear his name spoken again!"
+LINE 169: For several minutes Carteret argued with his old friend. Then he went
+LINE 170: into the other room and consulted with General Belmont. As a result of
+LINE 171: these conferences, and of certain urgent messages sent out, within half
+LINE 172: an hour thirty or forty of the leading citizens of Wellington were
+LINE 173: gathered in the Morning Chronicle office. Several other curious persons,
+LINE 174: observing that there was something in the wind, and supposing correctly
+LINE 175: that it referred to the projected event of the evening, crowded in with
+LINE 176: those who had been invited.
+LINE 177: Carteret was in another room, still arguing with Mr. Delamere. "It's a
+LINE 178: mere formality, sir," he was saying suavely, "accompanied by a mental
+LINE 179: reservation. We know the facts; but this must be done to justify us, in
+LINE 180: the eyes of the mob, in calling them off before they accomplish their
+LINE 181: purpose."
+LINE 182: "Carteret," said the old man, in a voice eloquent of the struggle
+LINE 183: through which he had passed, "I would not perjure myself to prolong my
+LINE 184: own miserable existence another day, but God will forgive a sin
+LINE 185: committed to save another's life. Upon your head be it, Carteret, and
+LINE 186: not on mine!"
+LINE 187: "Gentlemen," said Carteret, entering with Mr. Delamere the room where
+LINE 188: the men were gathered, and raising his hand for silence, "the people of
+LINE 189: Wellington were on the point of wreaking vengeance upon a negro who was
+LINE 190: supposed to have been guilty of a terrible crime. The white men of this
+LINE 191: city, impelled by the highest and holiest sentiments, were about to take
+LINE 192: steps to defend their hearthstones and maintain the purity and
+LINE 193: ascendency of their race. Your purpose sprung from hearts wounded in
+LINE 194: their tenderest susceptibilities."
+LINE 195: "'Rah, 'rah!" shouted a tipsy sailor, who had edged in with the crowd.
+LINE 196: "But this same sense of justice," continued Carteret oratorically,
+LINE 197: "which would lead you to visit swift and terrible punishment upon the
+LINE 198: guilty, would not permit you to slay an innocent man. Even a negro, as
+LINE 199: long as he behaves himself and keeps in his place, is entitled to the
+LINE 200: protection of the law. We may be stern and unbending in the punishment
+LINE 201: of crime, as befits our masterful race, but we hold the scales of
+LINE 202: justice with even and impartial hand."
+LINE 203: "'Rah f' 'mpa'tial ban'!" cried the tipsy sailor, who was immediately
+LINE 204: ejected with slight ceremony.
+LINE 205: "We have discovered, beyond a doubt, that the negro Sandy Campbell, now
+LINE 206: in custody, did not commit this robbery and murder, but that it was
+LINE 207: perpetrated by some unknown man, who has fled from the city. Our
+LINE 208: venerable and distinguished fellow townsman, Mr. Delamere, in whose
+LINE 209: employment this Campbell has been for many years, will vouch for his
+LINE 210: character, and states, furthermore, that Campbell was with him all last
+LINE 211: night, covering any hour at which this crime could have been committed."
+LINE 212: "If Mr. Delamere will swear to that," said some one in the crowd, "the
+LINE 213: negro should not be lynched."
+LINE 214: There were murmurs of dissent. The preparations had all been made. There
+LINE 215: would be great disappointment if the lynching did not occur.
+LINE 216: "Let Mr. Delamere swear, if he wants to save the nigger," came again
+LINE 217: from the crowd.
+LINE 218: "Certainly," assented Carteret. "Mr. Delamere can have no possible
+LINE 219: objection to taking the oath. Is there a notary public present, or a
+LINE 220: justice of the peace?"
+LINE 221: A man stepped forward. "I am a justice of the peace," he announced.
+LINE 222: "Very well, Mr. Smith," said Carteret, recognizing the speaker. "With
+LINE 223: your permission, I will formulate the oath, and Mr. Delamere may repeat
+LINE 224: it after me, if he will. I solemnly swear,"--
+LINE 225: "I solemnly swear,"--
+LINE 226: Mr. Delamere's voice might have come from the tomb, so hollow and
+LINE 227: unnatural did it sound.
+LINE 228: "So help me God,"--
+LINE 229: "So help me God,"--
+LINE 230: "That the negro Sandy Campbell, now in jail on the charge of murder,
+LINE 231: robbery, and assault, was in my presence last night between the hours of
+LINE 232: eight and two o'clock."
+LINE 233: Mr. Delamere repeated this statement in a firm voice; but to Ellis, who
+LINE 234: was in the secret, his words fell upon the ear like clods dropping upon
+LINE 235: the coffin in an open grave.
+LINE 236: "I wish to add," said General Belmont, stepping forward, "that it is not
+LINE 237: our intention to interfere, by anything which may be done at this
+LINE 238: meeting, with the orderly process of the law, or to advise the
+LINE 239: prisoner's immediate release. The prisoner will remain in custody, Mr.
+LINE 240: Delamere, Major Carteret, and I guaranteeing that he will be proved
+LINE 241: entirely innocent at the preliminary hearing to-morrow morning."
+LINE 242: Several of those present looked relieved; others were plainly,
+LINE 243: disappointed; but when the meeting ended, the news went out that the
+LINE 244: lynching had been given up. Carteret immediately wrote and had struck
+LINE 245: off a handbill giving a brief statement of the proceedings, and sent out
+LINE 246: a dozen boys to distribute copies among the people in the streets. That
+LINE 247: no precaution might be omitted, a call was issued to the Wellington
+LINE 248: Grays, the crack independent military company of the city, who in an
+LINE 249: incredibly short time were on guard at the jail. Thus a slight change
+LINE 250: in the point of view had demonstrated the entire ability of the leading
+LINE 251: citizens to maintain the dignified and orderly processes of the law
+LINE 252: whenever they saw fit to do so.
+LINE 253: * * * * *
+LINE 254: The night passed without disorder, beyond the somewhat rough handling of
+LINE 255: two or three careless negroes that came in the way of small parties of
+LINE 256: the disappointed who had sought alcoholic consolation.
+LINE 257: At ten o'clock the next morning, a preliminary hearing of the charge
+LINE 258: against Campbell was had before a magistrate. Mr. Delamere, perceptibly
+LINE 259: older and more wizened than he had seemed the day before, and leaning
+LINE 260: heavily on the arm of a servant, repeated his statement of the evening
+LINE 261: before. Only one or two witnesses were called, among whom was Mr. Ellis,
+LINE 262: who swore positively that in his opinion the prisoner was not the man
+LINE 263: whom he had seen and at first supposed to be Campbell. The most
+LINE 264: sensational piece of testimony was that of Dr. Price, who had examined
+LINE 265: the body, and who swore that the wound in the head was not necessarily
+LINE 266: fatal, and might have been due to a fall,--that she had more than likely
+LINE 267: died of shock attendant upon the robbery, she being of advanced age and
+LINE 268: feeble health. There was no evidence, he said, of any other personal
+LINE 269: violence.
+LINE 270: Sandy was not even bound over to the grand jury, but was discharged upon
+LINE 271: the ground that there was not sufficient evidence upon which to hold
+LINE 272: him. Upon his release he received the congratulations of many present,
+LINE 273: some of whom would cheerfully have done him to death a few hours before.
+LINE 274: With the childish fickleness of a mob, they now experienced a
+LINE 275: satisfaction almost as great as, though less exciting than, that
+LINE 276: attendant upon taking life. We speak of the mysteries of inanimate
+LINE 277: nature. The workings of the human heart are the profoundest mystery of
+LINE 278: the universe. One moment they make us despair of our kind, and the next
+LINE 279: we see in them the reflection of the divine image. Sandy, having thus
+LINE 280: escaped from the Mr. Hyde of the mob, now received the benediction of
+LINE 281: its Dr. Jekyll. Being no cynical philosopher, and realizing how nearly
+LINE 282: the jaws of death had closed upon him, he was profoundly grateful for
+LINE 283: his escape, and felt not the slightest desire to investigate or
+LINE 284: criticise any man's motives.
+LINE 285: With the testimony of Dr. Price, the worst feature of the affair came to
+LINE 286: an end. The murder eliminated or rendered doubtful, the crime became a
+LINE 287: mere vulgar robbery, the extent of which no one could estimate, since no
+LINE 288: living soul knew how much money Mrs. Ochiltree had had in the cedar
+LINE 289: chest. The absurdity of the remaining charge became more fully apparent
+LINE 290: in the light of the reaction from the excitement of the day before.
+LINE 291: Nothing further was ever done about the case; but though the crime went
+LINE 292: unpunished, it carried evil in its train. As we have seen, the charge
+LINE 293: against Campbell had been made against the whole colored race. All over
+LINE 294: the United States the Associated Press had flashed the report of another
+LINE 295: dastardly outrage by a burly black brute,--all black brutes it seems are
+LINE 296: burly,--and of the impending lynching with its prospective horrors. This
+LINE 297: news, being highly sensational in its character, had been displayed in
+LINE 298: large black type on the front pages of the daily papers. The dispatch
+LINE 299: that followed, to the effect that the accused had been found innocent
+LINE 300: and the lynching frustrated, received slight attention, if any, in a
+LINE 301: fine-print paragraph on an inside page. The facts of the case never came
+LINE 302: out at all. The family honor of the Delameres was preserved, and the
+LINE 303: prestige of the white race in Wellington was not seriously impaired.
+LINE 304: * * * * *
+LINE 305: Upon leaving the preliminary hearing, old Mr. Delamere had requested
+LINE 306: General Belmont to call at his house during the day upon professional
+LINE 307: business. This the general did in the course of the afternoon.
+LINE 308: "Belmont," said Mr. Delamere, "I wish to make my will. I should have
+LINE 309: drawn it with my own hand; but you know my motives, and can testify to
+LINE 310: my soundness of mind and memory."
+LINE 311: He thereupon dictated a will, by the terms of which he left to his
+LINE 312: servant, Sandy Campbell, three thousand dollars, as a mark of the
+LINE 313: testator's appreciation of services rendered and sufferings endured by
+LINE 314: Sandy on behalf of his master. After some minor dispositions, the whole
+LINE 315: remainder of the estate was devised to Dr. William Miller, in trust for
+LINE 316: the uses of his hospital and training-school for nurses, on condition
+LINE 317: that the institution be incorporated and placed under the management of
+LINE 318: competent trustees. Tom Delamere was not mentioned in the will.
+LINE 319: "There, Belmont," he said, "that load is off my mind. Now, if you will
+LINE 320: call in some witnesses,--most of my people can write,--I shall feel
+LINE 321: entirely at ease."
+LINE 322: The will was signed by Mr. Delamere, and witnessed by Jeff and Billy,
+LINE 323: two servants in the house, neither of whom received any information as
+LINE 324: to its contents, beyond the statement that they were witnessing their
+LINE 325: master's will. "I wish to leave that with you for safe keeping,
+LINE 326: Belmont," said Mr. Delamere, after the witnesses had retired. "Lock it
+LINE 327: up in your safe until I die, which will not be very long, since I have
+LINE 328: no further desire to live."
+LINE 329: An hour later Mr. Delamere suffered a third paralytic stroke, from which
+LINE 330: he died two days afterwards, without having in the meantime recovered
+LINE 331: the power of speech.
+LINE 332: The will was never produced. The servants stated, and General Belmont
+LINE 333: admitted, that Mr. Delamere had made a will a few days before his death;
+LINE 334: but since it was not discoverable, it seemed probable that the testator
+LINE 335: had destroyed it. This was all the more likely, the general was inclined
+LINE 336: to think, because the will had been of a most unusual character. What
+LINE 337: the contents of the will were, he of course did not state, it having
+LINE 338: been made under the seal of professional secrecy.
+LINE 339: This suppression was justified by the usual race argument: Miller's
+LINE 340: hospital was already well established, and, like most negro
+LINE 341: institutions, could no doubt rely upon Northern philanthropy for any
+LINE 342: further support it might need. Mr. Delamere's property belonged of right
+LINE 343: to the white race, and by the higher law should remain in the possession
+LINE 344: of white people. Loyalty to one's race was a more sacred principle than
+LINE 345: deference to a weak old man's whims.
+LINE 346: Having reached this conclusion, General Belmont's first impulse was to
+LINE 347: destroy the will; on second thoughts he locked it carefully away in his
+LINE 348: safe. He would hold it awhile. It might some time be advisable to talk
+LINE 349: the matter over with young Delamere, who was of a fickle disposition and
+LINE 350: might wish to change his legal adviser.

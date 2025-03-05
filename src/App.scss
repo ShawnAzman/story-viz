@@ -870,7 +870,8 @@ h1 {
       align-items: center;
       transition: 0.3s;
 
-      &.hidden {
+      &.hidden,
+      .hidden {
         visibility: hidden;
         pointer-events: none;
         opacity: 0;
@@ -2147,4 +2148,8 @@ h1 {
       height: 0.6rem !important;
     }
   }
+}
+
+div.info-tooltip {
+  padding-top: 0.15rem !important;
 }

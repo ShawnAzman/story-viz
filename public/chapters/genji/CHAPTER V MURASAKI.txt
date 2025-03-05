@@ -1,0 +1,1279 @@
+LINE 1: He fell sick of an ague, and when numerous charms and spells had been
+LINE 2: tried in vain, the illness many times returning, someone said that in
+LINE 3: a certain temple on the Northern Hills there lived a wise and holy man
+LINE 4: who in the summer of the year before (the ague was then rife and the
+LINE 5: usual spells were giving no relief) was able to work many signal
+LINE 6: cures: 'Lose no time in consulting him, for while you try one useless
+LINE 7: means after another the disease gains greater hold upon you.' At once
+LINE 8: he sent a messenger to fetch the holy man, who however replied that
+LINE 9: the infirmities of old age no longer permitted him to go abroad. 'What
+LINE 10: is to be done?' said Genji; 'I must go secretly to visit him'; and
+LINE 11: taking only four or five trusted servants he set out long before dawn.
+LINE 12: The place lay somewhat deep into the hills. It was the last day of the
+LINE 13: third month and in the Capital the blossoms had all fallen. The
+LINE 14: hill-cherry was not yet out; but as he approached the open country,
+LINE 15: the mists began to assume strange and lovely forms, which pleased him
+LINE 16: the more because, being one whose movements were tethered by many
+LINE 17: proprieties, he had seldom seen such sights before. The temples too
+LINE 18: delighted him. The holy man lived in a deep cave hollowed out of a
+LINE 19: high wall of rock. Genji did not send in his name and was in close
+LINE 20: disguise, but his face was well known and the priest at once
+LINE 21: recognized him.
+LINE 22: 'Forgive me' he said; 'it was you, was it not, who sent for me the
+LINE 23: other day? Alas, I think no longer of the things of this world and I
+LINE 24: am afraid I have forgotten how to work my cures. I am very sorry
+LINE 25: indeed that you have come so far,' and pretending to be very much
+LINE 26: upset, he looked at Genji, laughing. But it was soon apparent that he
+LINE 27: was a man of very great piety and learning. He wrote out certain
+LINE 28: talismans and administered them, and read certain spells. By the time
+LINE 29: this was over, the sun had risen, and Genji went a little way outside
+LINE 30: the cave and looked around him. From the high ground where he was
+LINE 31: standing he looked down on a number of scattered hermitages. A winding
+LINE 32: track led down to a hut which, though it was hedged with the same
+LINE 33: small brushwood as the rest, was more spaciously planned, having a
+LINE 34: pleasant roofed alley running out from it, and there were trim copses
+LINE 35: set around. He asked whose house it was and was told by one of his men
+LINE 36: that a certain abbot had been living there in retirement for two
+LINE 37: years. 'I know him well' said Genji on hearing the abbot's name; 'I
+LINE 38: should not like to meet him dressed and attended as I am. I hope he
+LINE 39: will not hear....' Just then a party of nicely dressed children came
+LINE 40: out of the house and began to pluck such flowers as are used for the
+LINE 41: decoration of altars and holy images. 'There are some girls with them'
+LINE 42: said one of Genji's men. 'We cannot suppose that His Reverence keeps
+LINE 43: them. Who then can they be?' and to satisfy his curiosity he went a
+LINE 44: little way down the hill and watched them. 'Yes, there are some very
+LINE 45: pretty girls, some of them grown up and others quite children,' he
+LINE 46: came back and reported.
+LINE 47: During a great part of the morning Genji was busy with his cure. When
+LINE 48: at last the ceremony was completed his attendants, dreading the hour
+LINE 49: at which the fever usually returned, strove to distract his
+LINE 50: attention by taking him a little way across the mountain to a point
+LINE 51: from which the Capital could be seen. 'How lovely' cried Genji 'are
+LINE 52: those distances half lost in haze, and that blur of shimmering woods
+LINE 53: that stretches out on every side. How could anyone be unhappy for a
+LINE 54: single instant who lived in such a place?' 'This is nothing,' said one
+LINE 55: of his men. 'If I could but show you the lakes and mountains of other
+LINE 56: provinces, you would soon see how far they excel all that you here
+LINE 57: admire'; and he began to tell him first of Mount Fuji and many another
+LINE 58: famous peak, and then of the West Country with all its pleasant bays
+LINE 59: and shores, till he quite forgot that it was the hour of his fever.
+LINE 60: 'Yonder, nearest to us' the man continued, pointing to the sea 'is the
+LINE 61: bay of Akashi in Harima. Note it well; for though it is not a very
+LINE 62: out-of-the-way place, yet the feeling one has there of being shut off
+LINE 63: from everything save one huge waste of sea makes it the strangest and
+LINE 64: most desolate spot I know. And there it is that the daughter of a lay
+LINE 65: priest who was once governor of the province presides over a mansion
+LINE 66: of quite disproportionate and unexpected magnificence. He is the
+LINE 67: descendant of a Prime Minister and was expected to cut a great figure
+LINE 68: in the world. But he is a man of very singular disposition and is
+LINE 69: averse to all society. For a time he was an officer in the Palace
+LINE 70: Guard, but he gave this up and accepted the province of Harima.
+LINE 71: However he soon quarrelled with the local people and, announcing that
+LINE 72: he had been badly treated and was going back to the Capital, he did
+LINE 73: nothing of the sort, but shaved his head and became a lay priest. Then
+LINE 74: instead of settling, as is usually done, on some secluded hillside, he
+LINE 75: built himself a house on the seashore, which may seem to you a very
+LINE 76: strange thing to do; but as a matter of fact, whereas in that province
+LINE 77: in one place or another a good many recluses have taken up their
+LINE 78: abode, the mountain-country is far more dull and lonely and would
+LINE 79: sorely have tried the patience of his young wife and child; and so as
+LINE 80: a compromise he chose the seashore. Once when I was travelling in the
+LINE 81: province of Harima I took occasion to visit his house and noted that,
+LINE 82: though at the Capital he had lived in a very modest style, here he had
+LINE 83: built on the most magnificent and lavish scale; as though determined
+LINE 84: in spite of what had happened (now that he was free from the bother of
+LINE 85: governing the province) to spend the rest of his days in the greatest
+LINE 86: comfort imaginable. But all the while he was making great preparations
+LINE 87: for the life to come and no ordained priest could have led a more
+LINE 88: austere and pious life.'
+LINE 89: 'But you spoke of his daughter?' said Genji. 'She is passably
+LINE 90: good-looking,' he answered, 'and not by any means stupid. Several
+LINE 91: governors and officers of the province have set their hearts upon her
+LINE 92: and pressed their suit most urgently; but her father has sent them all
+LINE 93: away. It seems that though in his own person so indifferent to worldly
+LINE 94: glory, he is determined that this one child, his only object of care,
+LINE 95: should make amends for his obscurity, and has sworn that if ever she
+LINE 96: chooses against his will, and when he is gone flouts his set purpose
+LINE 97: and injunction to satisfy some idle fancy of her own, his ghost will
+LINE 98: rise and call upon the sea to cover her.'
+LINE 99: Genji listened with great attention. 'Why, she is like the vestal
+LINE 100: virgin who may know no husband but the King-Dragon of the Sea,' and
+LINE 101: they laughed at the old ex-Governor's absurd ambitions. The teller of
+LINE 102: the story was a son of the present Governor of Harima, who from being
+LINE 103: a clerk in the Treasury had last year been capped an officer of the
+LINE 104: Fifth Rank. He was famous for his love-adventures and the others
+LINE 105: whispered to one another that it was with every intention of
+LINE 106: persuading the lady to disobey her father's injunctions that he had
+LINE 107: gone out of his way to visit the shore of Akashi.
+LINE 108: 'I fear her breeding must be somewhat countrified,' said one; 'it
+LINE 109: cannot well be otherwise, seeing that she has grown up with no other
+LINE 110: company than that of her old-fashioned parents,—though indeed it
+LINE 111: appears that her mother was a person of some consequence.' 'Why, yes'
+LINE 112: said Yoshikiyo, the Governor's son, 'and for this reason she was able
+LINE 113: to secure little girls and boys from all the best houses in the
+LINE 114: Capital, persuading them to pay visits to the sea-side and be
+LINE 115: playmates to her own little girl, who thus acquired the most polished
+LINE 116: breeding.' 'If an unscrupulous person were to find himself in that
+LINE 117: quarter,' said another, 'I fear that despite the dead father's curse
+LINE 118: he might not find it easy to resist her.'
+LINE 119: The story made a deep impression upon Genji's imagination. As his
+LINE 120: gentlemen well knew, whatever was fantastic or grotesque both in
+LINE 121: people and situations at once strongly attracted him. They were
+LINE 122: therefore not surprised to see him listen with so much attention. 'It
+LINE 123: is now well past noon,' said one of them, 'and I think we may reckon
+LINE 124: that you will get safely through the day without a return of your
+LINE 125: complaint. So let us soon be starting for home.' But the priest
+LINE 126: persuaded him to stay a little longer: 'The sinister influences are
+LINE 127: not yet wholly banished,' he said; 'it would be well that a further
+LINE 128: ritual should continue quietly during the night. By to-morrow morning,
+LINE 129: I think you will be able to proceed.' His gentlemen all urged him to
+LINE 130: stay; nor was he at all unwilling, for the novelty of such a lodging
+LINE 131: amused him. 'Very well then, at dawn' he said, and having nothing to
+LINE 132: do till bed-time which was still a long way off, he went out on to the
+LINE 133: hill-side, and under cover of the heavy evening mist loitered near the
+LINE 134: brushwood hedge. His attendants had gone back to the hermit's
+LINE 135: cave and only Koremitsu was with him. In the western wing, opposite
+LINE 136: which he was standing, was a nun at her devotions. The blind was
+LINE 137: partly raised. He thought she seemed to be dedicating flowers to an
+LINE 138: image. Sitting near the middle pillar, a sutra-book propped upon a
+LINE 139: stool by her side, was another nun. She was reading aloud; there was a
+LINE 140: look of great unhappiness in her face. She seemed to be about forty;
+LINE 141: not a woman of the common people. Her skin was white and very fine,
+LINE 142: and though she was much emaciated, there was a certain roundness and
+LINE 143: fulness in her cheeks, and her hair, clipped short on a level with her
+LINE 144: eyes, hung in so delicate a fringe across her brow that she looked,
+LINE 145: thought Genji, more elegant and even fashionable in this convent
+LINE 146: guise, than if her hair had been long. Two very well-conditioned maids
+LINE 147: waited upon her. Several little girls came running in and out of the
+LINE 148: room at play. Among them was one who seemed to be about ten years old.
+LINE 149: She came running into the room dressed in a rather worn white frock
+LINE 150: lined with stuff of a deep saffron colour. Never had he seen a child
+LINE 151: like this. What an astonishing creature she would grow into! Her hair,
+LINE 152: thick and wavy, stood out fan-wise about her head. She was very
+LINE 153: flushed and her lips were trembling. 'What is it? Have you quarrelled
+LINE 154: with one of the other little girls?' The nun raised her head as she
+LINE 155: spoke and Genji fancied that there was some resemblance between her
+LINE 156: and the child. No doubt she was its mother. 'Inu has let out my
+LINE 157: sparrow—the little one that I kept in the clothes-basket,' she said,
+LINE 158: looking very unhappy. 'What a tiresome boy that Inu is!' said one of
+LINE 159: the two maids. 'He deserves a good scolding for playing such a stupid
+LINE 160: trick. Where can it have got to? And this after we had taken so much
+LINE 161: trouble to tame it nicely! I only hope the crows have not found
+LINE 162: it,' and so saying she left the room. She was a pleasant-looking
+LINE 163: woman, with very long, wavy hair. The others called her Nurse
+LINE 164: Shōnagon, and she seemed to be in charge of the child. 'Come,' said
+LINE 165: the nun to the little girl, 'you must not be such a baby. You are
+LINE 166: thinking all the time of things that do not matter at all. Just fancy!
+LINE 167: Even now when I am so ill that any day I may be taken from you, you do
+LINE 168: not trouble your head about me, but are grieving about a sparrow. It
+LINE 169: is very unkind, particularly as I have told you I don't know how many
+LINE 170: times that it is naughty to shut up live things in cages. Come over
+LINE 171: here!' and the child sat down beside her. Her features were very
+LINE 172: exquisite; but it was above all the way her hair grew, in cloudy
+LINE 173: masses over her temples, but thrust back in childish fashion from her
+LINE 174: forehead, that struck him as marvellously beautiful. As he watched her
+LINE 175: and wondered what she would be like when she grew up it suddenly
+LINE 176: occurred to him that she bore no small resemblance to one whom he had
+LINE 177: loved with all his being,[1] and at the resemblance he secretly wept.
+LINE 178: The nun, stroking the child's hair, now said to her: 'It's a lovely
+LINE 179: mop, though you _are_ so naughty about having it combed. But it
+LINE 180: worries me very much that you are still so babyish. Some children of
+LINE 181: your age are very different. Your dear mother was only twelve when her
+LINE 182: father died; yet she showed herself quite capable of managing her own
+LINE 183: affairs. But if I were taken from you now, I do not know what would
+LINE 184: become of you, I do not indeed,' and she began to weep. Even Genji,
+LINE 185: peeping at the scene from a distance, found himself becoming quite
+LINE 186: distressed. The girl, who had been watching the nun's face with a
+LINE 187: strange unchildish intensity, now dropped her head disconsolately, and
+LINE 188: as she did so her hair fell forward across her cheeks in two
+LINE 189: great waves of black. Looking at her fondly the nun recited the poem:
+LINE 190: 'Not knowing if any will come to nurture the tender leaf whereon it
+LINE 191: lies, how loath is the dewdrop to vanish in the sunny air.' To which
+LINE 192: the waiting-woman replied with a sigh: 'O dewdrop, surely you will
+LINE 193: linger till the young budding leaf has shown in what fair form it
+LINE 194: means to grow.'
+LINE 195: At this moment the priest to whom the house belonged entered the room
+LINE 196: from the other side: 'Pray, ladies,' he said, 'are you not unduly
+LINE 197: exposing yourselves? You have chosen a bad day to take up your stand
+LINE 198: so close to the window. I have just heard that Prince Genji has come
+LINE 199: to the hermit yonder to be cured of an ague. But he has disguised
+LINE 200: himself in so mean a habit that I did not know him, and have been so
+LINE 201: near all day without going to pay my respects to him.' The nun started
+LINE 202: back in horror; 'How distressing! He may even have passed and seen
+LINE 203: us ...' and she hastened to let down the folding blind. 'I am really
+LINE 204: very glad that I am to have an opportunity of visiting this Prince
+LINE 205: Genji of whom one hears so much. He is said to be so handsome that even
+LINE 206: austere old priests like myself forget in his presence the sins and
+LINE 207: sorrows of the life they have discarded and take heart to live a little
+LINE 208: longer in a world where so much beauty dwells. But you shall hear all
+LINE 209: about it....'
+LINE 210: Before the old priest had time to leave the house Genji was on his way
+LINE 211: back to the hermit's cave. What an enchanting creature he had
+LINE 212: discovered! How right too his friends had been on that rainy night
+LINE 213: when they told him that on strange excursions such as this beauty
+LINE 214: might well be found lurking in unexpected quarters! How delightful to
+LINE 215: have strolled out by chance and at once made so astonishing a find!
+LINE 216: Whose could this exquisite child be? He would dearly love to have her
+LINE 217: always near him, to be able to turn to her at any moment for
+LINE 218: comfort and distraction, as once he had turned to the lady in the
+LINE 219: Palace.
+LINE 220: He was already lying down in the hermit's cave when (everything being
+LINE 221: at very close quarters) he heard the voice of the old priest's
+LINE 222: disciple calling for Koremitsu. 'My master has just learnt' said this
+LINE 223: disciple, 'that you were lodged so near at hand; and though it grieves
+LINE 224: him that you did not in passing honour him with a visit, he would at
+LINE 225: once have paid his respects to the Prince, had he not thought that
+LINE 226: Lord Genji could not be unaware of his presence in the neighbourhood
+LINE 227: of this hermitage, and might perhaps have refrained from visiting him
+LINE 228: only because he did not wish to disclose the motive of his present
+LINE 229: pilgrimage. But my master would remind you' continued the man, 'that
+LINE 230: we too in our poor hut could provide you with straw beds to lie on,
+LINE 231: and should be sorry if you left without honouring us....'
+LINE 232: 'For ten days,' answered Genji from within, 'I have been suffering
+LINE 233: from an ague which returned so constantly that I was in despair, when
+LINE 234: someone advised me to consult the hermit of this mountain, whom I
+LINE 235: accordingly visited. But thinking that it would be very disagreeable
+LINE 236: for a sage of his repute if in such a case as mine it became known
+LINE 237: that his treatment had been unsuccessful, I was at greater pains to
+LINE 238: conceal myself than I should have been if visiting an ordinary
+LINE 239: wonder-worker. Pray ask your master to accept this excuse and bid him
+LINE 240: enter the cave.' Thus encouraged, the priest presented himself. Genji
+LINE 241: was rather afraid of him, for though an ecclesiastic he was a man of
+LINE 242: superior genius, very much respected in the secular world, and Genji
+LINE 243: felt that it was not at all proper to receive him in the shabby old
+LINE 244: clothes which he had used for his disguise. After giving some details
+LINE 245: of his life since he had left the Capital and come to live in
+LINE 246: retirement on this mountain, the priest begged Genji to come back
+LINE 247: with him and visit the cold spring which flowed in the garden of his
+LINE 248: hut. Here was an opportunity to see again the people who had so much
+LINE 249: interested him. But the thought of all the stories that the old priest
+LINE 250: might have told them about him made him feel rather uncomfortable.
+LINE 251: What matter? At all costs he must see that lovely child again and he
+LINE 252: followed the old priest back to his hut. In the garden the natural
+LINE 253: vegetation of the hill-side had been turned to skilful use. There was
+LINE 254: no moon, and torches had been lit along the sides of the moat, while
+LINE 255: fairy lanterns hung on the trees. The front parlour was very nicely
+LINE 256: arranged. A heavy perfume of costly and exotic scents stole from
+LINE 257: hidden incense-burners and filled the room with a delicious fragrance.
+LINE 258: These perfumes were quite unfamiliar to Genji and he supposed that
+LINE 259: they must have been prepared by the ladies of the inner room, who
+LINE 260: would seem to have spent considerable ingenuity in the task.
+LINE 261: The priest began to tell stories about the uncertainty of this life
+LINE 262: and the retributions of the life to come. Genji was appalled to think
+LINE 263: how heavy his own sins had already been. It was bad enough to think
+LINE 264: that he would have them on his conscience for the rest of his present
+LINE 265: life. But then there was also the life to come. What terrible
+LINE 266: punishments he had to look forward to! And all the while the priest
+LINE 267: was speaking Genji thought of his own wickedness. What a good idea it
+LINE 268: would be to turn hermit and live in some such place.... But
+LINE 269: immediately his thoughts strayed to the lovely face which he had seen
+LINE 270: that afternoon and longing to know more of her 'Who lives with you
+LINE 271: here?' he asked. 'It interests me to know, because I once saw this
+LINE 272: place in a dream and was astonished to recognize it when I came here
+LINE 273: to-day.' At this the priest laughed: 'Your dream seems to have come
+LINE 274: rather suddenly into the conversation,' he said, 'but I fear that
+LINE 275: if you pursue your enquiry, your expectations will be sadly
+LINE 276: disappointed. You have probably never heard of Azechi no Dainagon, he
+LINE 277: died so long ago. He married my sister, who after his death turned her
+LINE 278: back upon the world. Just at that time I myself was in certain
+LINE 279: difficulties and was unable to visit the Capital; so for company she
+LINE 280: came to join me here in my retreat.'
+LINE 281: 'I have heard that Aseji no Dainagon had a daughter. Is that so?' said
+LINE 282: Genji at a venture; 'I am sure you will not think I ask the question
+LINE 283: with any indiscreet intention....' 'He had an only daughter who died
+LINE 284: about ten years ago. Her father had always wanted to present her at
+LINE 285: Court. But she would not listen, and when he was dead and there was
+LINE 286: only my sister the nun to look after her, she allowed some wretched
+LINE 287: go-between to introduce her to Prince Hyōbukyō whose mistress she
+LINE 288: became. His wife, a proud, relentless woman, from the first pursued
+LINE 289: her with constant vexations and affronts; day in and day out this
+LINE 290: obstinate persecution continued, till at last she died of heartbreak.
+LINE 291: They say that unkindness cannot kill; but I shall never say so, for
+LINE 292: from this cause alone I saw my kinswoman fall sick and perish.'
+LINE 293: 'Then the little girl must be this lady's child,' Genji realized at
+LINE 294: last. And that accounted for her resemblance to the lady in the
+LINE 295: Palace.[2] He felt more drawn towards her than ever. She was of good
+LINE 296: lineage, which is never amiss; and her rather rustic simplicity would
+LINE 297: be an actual advantage when she became his pupil, as he was now
+LINE 298: determined she should; for it would make it the easier for him to
+LINE 299: mould her unformed tastes to the pattern of his own. 'And did the lady
+LINE 300: whose sad story you have told me leave no remembrance behind her?'
+LINE 301: asked Genji, still hoping to turn the conversation on to the
+LINE 302: child herself. 'She died only a short while after her child was born,
+LINE 303: and it too was a girl. The charge of it fell to my sister who is in
+LINE 304: failing health and feels herself by no means equal to such a
+LINE 305: responsibility.' All was now clear. 'You will think it a very strange
+LINE 306: proposal,' said Genji, 'but I feel that I should like to adopt this
+LINE 307: child. Perhaps you would mention this to your sister? Though others
+LINE 308: early involved me in marriage, their choice proved distasteful to me
+LINE 309: and having, as it seems, very little relish for society, I now live
+LINE 310: entirely alone. She is, I quite realize, a mere child, and I am not
+LINE 311: proposing....' Here he paused and the priest answered: 'I am very much
+LINE 312: obliged to you for this offer; but I am afraid it is clear that you do
+LINE 313: _not_ at all realize that the child in question is a mere infant. You
+LINE 314: would not even find her amusing as a casual distraction. But it is
+LINE 315: true that a girl as she grows up needs the backing of powerful friends
+LINE 316: if she is to make her way in the world, and though I cannot promise
+LINE 317: you that anything will come of it, I ought certainly to mention the
+LINE 318: matter to her grandmother.' His manner had suddenly become somewhat
+LINE 319: cool and severe. Genji felt that he had been indiscreet and preserved
+LINE 320: an embarrassed silence. 'There is something which I ought to be doing
+LINE 321: in the Hall of Our Lord Amida,' the priest presently continued, 'so I
+LINE 322: must take leave of you for a while. I must also read my vespers; but I
+LINE 323: will rejoin you afterwards,' and he set out to climb the hill. Genji
+LINE 324: felt very disconsolate. It had begun to rain; a cold wind blew across
+LINE 325: the hill, carrying with it the sound of a waterfall,—audible till then
+LINE 326: as a gentle intermittent plashing, but now a mighty roar; and with it,
+LINE 327: somnolently rising and falling, mingled the monotonous chanting of the
+LINE 328: scriptures. Even the most unimpressionable nature would have been
+LINE 329: plunged into melancholy by such surroundings. How much the more so
+LINE 330: Prince Genji, as he lay sleepless on his bed, continually
+LINE 331: planning and counter-planning! The priest had spoken of 'vespers,' but
+LINE 332: the hour was indeed very late. It was clear however that the nun was
+LINE 333: still awake, for though she was making as little noise as possible,
+LINE 334: every now and then her rosary would knock with a faint click against
+LINE 335: the praying-stool. There was something alluring in the sound of this
+LINE 336: low, delicate tapping. It seemed to come from quite close. He opened a
+LINE 337: small space between the screens which divided the living-room from the
+LINE 338: inner chamber and rustled his fan. He had the impression that someone
+LINE 339: in the inner room after a little hesitation had come towards the
+LINE 340: screen as though saying to herself 'It cannot be so, yet I could have
+LINE 341: sworn I heard ...,' and then retreated a little, as though thinking
+LINE 342: 'Well, it was only my fancy after all!' Now she seemed to be feeling
+LINE 343: her way in the dark, and Genji said aloud 'Follow the Lord Buddha and
+LINE 344: though your way lie in darkness yet shall you not go astray.' Suddenly
+LINE 345: hearing his clear young voice in the darkness, the woman had not at
+LINE 346: first the courage to reply. But at last she managed to answer: 'In
+LINE 347: which direction, please, is He leading me? I am afraid I do not quite
+LINE 348: understand.' 'I am sorry to have startled you,' said Genji. 'I have
+LINE 349: only this small request to make: that you will carry to your mistress
+LINE 350: the following poem: 'Since first he saw the green leaf of the tender
+LINE 351: bush, never for a moment has the dew of longing dried from the
+LINE 352: traveller's sleeve.' 'Surely you must know that there is no one here
+LINE 353: who understands messages of that kind,' said the woman; 'I wonder whom
+LINE 354: you mean?' 'I have a particular reason for wishing your mistress to
+LINE 355: receive the message,' said Genji, 'and I should be obliged if you
+LINE 356: would contrive to deliver it.' The nun at once perceived that the poem
+LINE 357: referred to her grandchild and supposed that Genji, having been
+LINE 358: wrongly informed about her age, was intending to make love to
+LINE 359: her. But how had he discovered her grand-daughter's existence? For
+LINE 360: some while she pondered in great annoyance and perplexity, and at last
+LINE 361: answered prudently with a poem in which she said that 'he who was but
+LINE 362: spending a night upon a traveller's dewy bed could know little of
+LINE 363: those whose home was forever upon the cold moss of the hill-side.'
+LINE 364: Thus she turned his poem to a harmless meaning. 'Tell her,' said Genji
+LINE 365: when the message was brought back, 'that I am not accustomed to carry
+LINE 366: on conversations in this indirect manner. However shy she may be, I
+LINE 367: must ask her on this occasion to dispense with formalities and discuss
+LINE 368: this matter with me seriously!' 'How can he have been thus
+LINE 369: misinformed?' said the nun, still thinking that Genji imagined her
+LINE 370: grand-daughter to be a grown-up woman. She was terrified at being
+LINE 371: suddenly commanded to appear before this illustrious personage and was
+LINE 372: wondering what excuse she would make. Her maids, however, were
+LINE 373: convinced that Genji would be grievously offended if she did not
+LINE 374: appear, and at last, coming out from the women's chamber, she said to
+LINE 375: him: 'Though I am no longer a young woman, I very much doubt whether I
+LINE 376: ought to come like this. But since you sent word that you have serious
+LINE 377: business to discuss with me, I could not refuse....' 'Perhaps' said
+LINE 378: Genji, 'you will think my proposal both ill-timed and frivolous. I can
+LINE 379: only assure you that I mean it very seriously. Let Buddha judge....'
+LINE 380: But here he broke off, intimidated by her age and gravity. 'You have
+LINE 381: certainly chosen a very strange manner of communicating this proposal
+LINE 382: to me. But though you have not yet said what it is, I am sure you are
+LINE 383: quite in earnest about it.' Thus encouraged, Genji continued: 'I was
+LINE 384: deeply touched by the story of your long widowhood and of your
+LINE 385: daughter's death. I too, like this poor child, was deprived in earliest
+LINE 386: infancy of the one being who tenderly loved me, and in my
+LINE 387: childhood suffered long years of loneliness and misery. Thus we are
+LINE 388: both in like case, and this has given me so deep a sympathy for the
+LINE 389: child that I long to make amends for what she has lost. It was, then,
+LINE 390: to ask if you would consent to let me play a mother's part that at
+LINE 391: this strange and inconvenient hour I trespassed so inconsiderately
+LINE 392: upon your patience.' 'I am sure that you are meaning to be very kind,'
+LINE 393: said the nun, 'but—forgive me—you have evidently been misinformed.
+LINE 394: There is indeed a girl living here under my charge; but she is a mere
+LINE 395: infant and could not be of the slightest interest to you in any way,
+LINE 396: so that I cannot consent to your proposal.' 'On the contrary,' said
+LINE 397: Genji, 'I am perfectly conversant with every detail concerning this
+LINE 398: child; but if you think my sympathy for her exaggerated or misplaced,
+LINE 399: pray pardon me for having mentioned it.' It was evident that he did
+LINE 400: not in the least realize the absurdity of what he had proposed, and
+LINE 401: she saw no use in explaining herself any further. The priest was now
+LINE 402: returning and Genji, saying that he had not expected she would at once
+LINE 403: fall in with his idea and was confident that she would soon see the
+LINE 404: matter in a different light, closed the screen behind her.
+LINE 405: The night was almost over. In a chapel near by, the Four Meditations
+LINE 406: of the Law Flower were being practised. The voices of the ministrants
+LINE 407: who were now chanting the Litany of Atonement came floating on the
+LINE 408: gusty mountain-wind, and with this solemn sound was mingled the roar
+LINE 409: of hurrying waters. 'Startled from my dream by a wandering gust of
+LINE 410: the mountain gale, I heard the waterfall, and at the beauty of its
+LINE 411: music wept.' So Genji greeted the priest; and he in turn replied with
+LINE 412: the poem 'At the noise of a torrent wherein I daily fill my bowl I am
+LINE 413: scarce likely to start back in wonder and delight.' 'I get so used to
+LINE 414: it,' he added apologetically. A heavy mist covered the morning
+LINE 415: sky, and even the chirruping of the mountain-birds sounded muffled and
+LINE 416: dim. Such a variety of flowers and blossoming trees (he did not know
+LINE 417: their names) grew upon the hill-side, that the rocks seemed to be
+LINE 418: spread with a many-coloured embroidery. Above all he marvelled at the
+LINE 419: exquisite stepping of the deer who moved across the slope, now
+LINE 420: treading daintily, now suddenly pausing; and as he watched them the
+LINE 421: last remnants of his sickness were dispelled by sheer delight. Though
+LINE 422: the hermit had little use of his limbs, he managed by hook or crook to
+LINE 423: perform the mystic motions of the Guardian Spell,[3] and though his
+LINE 424: aged voice was husky and faltering, he read the sacred text with great
+LINE 425: dignity and fervour. Several of Genji's friends now arrived to
+LINE 426: congratulate him upon his recovery, among them a messenger from the
+LINE 427: Palace. The priest from the hut below brought a present of
+LINE 428: strange-looking roots for which he had gone deep into the ravine. He
+LINE 429: begged to be excused from accompanying Genji on his way. 'Till the end
+LINE 430: of the year,' he said, 'I am bound by a vow which must deprive me of
+LINE 431: what would have been a great pleasure,' and he handed Genji the
+LINE 432: stirrup-cup. 'Were I but able to follow my own desires,' said Genji
+LINE 433: taking the cup, 'I would not leave these hills and streams. But I hear
+LINE 434: that my father the Emperor is making anxious enquiry after me. I will
+LINE 435: come back before the blossom is over.' And he recited the verse 'I
+LINE 436: will go back to the men of the City and tell them to come
+LINE 437: quickly, lest the wild wind outstripping them should toss these
+LINE 438: blossoms from the cherry bough.' The old priest, flattered by Genji's
+LINE 439: politeness and captivated by the charm of his voice, answered with the
+LINE 440: poem: 'Like one who finds the aloe-tree in bloom, to the flower of the
+LINE 441: mountain-cherry I no longer turn my gaze.' 'I am not after all quite
+LINE 442: so great a rarity as the aloe-flower,' said Genji smiling.
+LINE 443: Next the hermit handed him a parting-cup, with the poem 'Though seldom
+LINE 444: I open the pine-tree door of my mountain-cell, yet have I now seen
+LINE 445: face to face the flower few live to see,' and as he looked up at
+LINE 446: Genji, his eyes filled with tears. He gave him, to keep him safe in
+LINE 447: future from all harm, a magical wand; and seeing this the nun's
+LINE 448: brother in his turn presented a rosary brought back from Korea by
+LINE 449: Prince Shōtoku. It was ornamented with jade and was still in the same
+LINE 450: Chinese-looking box in which it had been brought from that country.
+LINE 451: The box was in an open-work bag, and a five-leafed pine-branch was
+LINE 452: with it. He also gave him some little vases of blue crystal to keep
+LINE 453: his medicines in, with sprays of cherry-blossom and wistaria along
+LINE 454: with them, and such other presents as the place could supply. Genji
+LINE 455: had sent to the Capital for gifts with which to repay his reception in
+LINE 456: the mountain. First he gave a reward to the hermit, then distributed
+LINE 457: alms to the priests who had chanted liturgies on his behalf, and
+LINE 458: finally he gave useful presents to the poor villagers of the
+LINE 459: neighbourhood. While he was reading a short passage from the
+LINE 460: scriptures in preparation for his departure, the old priest went into
+LINE 461: his house and asked his sister the nun whether she had any message for
+LINE 462: the Prince. 'It is very hard to say anything at present,' she said.
+LINE 463: 'Perhaps if he still felt the same inclination four, or five years
+LINE 464: hence, we might begin to consider it.' 'That is just what I
+LINE 465: think,' said the priest.
+LINE 466: Genji saw to his regret that he had made no progress whatever. In
+LINE 467: answer to the nun's message he sent a small boy who belonged to the
+LINE 468: priest's household with the following poem: 'Last night indeed, though
+LINE 469: in the greyness of twilight only, I saw the lovely flower. But to-day
+LINE 470: a hateful mist has hidden it utterly from my sight.' The nun replied:
+LINE 471: 'That I may know whether indeed it pains you so deeply to leave this
+LINE 472: flower, I shall watch intently the motions of this hazy sky.' It was
+LINE 473: written in a noteworthy and very aristocratic hand, but quite without
+LINE 474: the graces of deliberate artistry. While his carriage was being got
+LINE 475: ready, a great company of young lords arrived from the Great Hall,
+LINE 476: saying that they had been hard put to it to discover what had become
+LINE 477: of him and now desired to give him their escort. Among them were Tō no
+LINE 478: Chūjō, Sachū Ben, and other lesser lords, who had come out of
+LINE 479: affection for the Prince. 'We like nothing better than waiting upon
+LINE 480: you,' they said, rather aggrieved, 'it was not kind of you to leave us
+LINE 481: behind.' 'But having come so far,' said another, 'it would be a pity
+LINE 482: to go away without resting for a while under the shadow of these
+LINE 483: flowering trees'; whereupon they all sat down in a row upon the moss
+LINE 484: under a tall rock and passed a rough earthenware wine-jar from hand to
+LINE 485: hand. Close by them the stream leaped over the rocks in a magnificent
+LINE 486: cascade. Tō no Chūjō pulled out a flute from the folds of his dress
+LINE 487: and played a few trills upon it. Sachū Ben, tapping idly with his fan,
+LINE 488: began to sing 'The Temple of Toyora.' The young lords who had come to
+LINE 489: fetch him were all persons of great distinction; but so striking was
+LINE 490: Genji's appearance as he sat leaning disconsolately against the rock
+LINE 491: that no eye was likely to be turned in any other direction. One of his
+LINE 492: attendants now performed upon the reed-pipe; someone else turned
+LINE 493: out to be a skilful _shō_[4] player. Presently the old priest came out
+LINE 494: of his house carrying a zithern, and putting it into Genji's hands
+LINE 495: begged him to play something, 'that the birds of the mountain may
+LINE 496: rejoice.' He protested that he was not feeling at all in the mood to
+LINE 497: play; but yielding to the priest's persuasion, he gave what was really
+LINE 498: not at all a contemptible performance. After that, they all got up and
+LINE 499: started for home. Everyone on the mountain, down to the humblest
+LINE 500: priest and youngest neophyte, was bitterly disappointed at the
+LINE 501: shortness of his stay, and there were many tears shed; while the old
+LINE 502: nun within doors was sorry to think that she had had but that one
+LINE 503: brief glimpse of him and might never see him again. The priest
+LINE 504: declared that for his part he thought the Land of the Rising Sun in
+LINE 505: her last degenerate days ill-deserved that such a Prince should be
+LINE 506: born to her, and he wiped his eyes. The little girl too was very much
+LINE 507: pleased with him and said he was a prettier gentleman than her own
+LINE 508: father. 'If you think so, you had better become his little girl
+LINE 509: instead,' said her nurse. At which the child nodded, thinking that it
+LINE 510: would be a very good plan indeed; and in future the best-dressed
+LINE 511: person in the pictures she painted was called 'Prince Genji' and so
+LINE 512: was her handsomest doll.
+LINE 513: On his return to the Capital he went straight to the Palace and
+LINE 514: described to his father the experiences of the last two days. The
+LINE 515: Emperor thought him looking very haggard and was much concerned. He
+LINE 516: asked many questions about the hermit's magical powers, to all of
+LINE 517: which Genji replied in great detail. 'He ought certainly to have been
+LINE 518: made Master Magician long ago,' said His Majesty. 'His ministrations
+LINE 519: have repeatedly been attended with great success, but for some reason
+LINE 520: his services have escaped public acknowledgment,' and he issued a
+LINE 521: proclamation to this effect. The Minister of the Left came to meet him
+LINE 522: on his way from the Presence and apologized for not having come with
+LINE 523: his sons to bring him back from the mountain. 'I thought,' he said,
+LINE 524: 'that as you had gone there secretly, you would dislike being fetched;
+LINE 525: but I very much hope that you will now come and spend a few days with
+LINE 526: us quietly; after which I shall esteem it a privilege to escort you to
+LINE 527: your palace.' He did not in the least want to go, but there was no
+LINE 528: escape. His father-in-law drove him to the Great Hall in his own
+LINE 529: carriage, and when the bullocks had been unyoked dragged it in at the
+LINE 530: gate with his own hands. Such treatment was certainly meant to be very
+LINE 531: friendly; but Genji found the Minister's attentions merely irritating.
+LINE 532: Aoi's quarters had, in anticipation of Genji's coming, just been put
+LINE 533: thoroughly to rights. In the long interval since he last visited her
+LINE 534: many changes had been made; among other improvements, a handsome
+LINE 535: terrace had been built. Not a thing was out of its right place in this
+LINE 536: supremely well-ordered house. Aoi, as usual, was nowhere to be seen.
+LINE 537: It was only after repeated entreaties by her father that she at last
+LINE 538: consented to appear in her husband's presence. Posed like a princess
+LINE 539: in a picture she sat almost motionless. Beautiful she certainly was.
+LINE 540: 'I should like to tell you about my visit to the mountain, if only I
+LINE 541: thought that it would interest you at all or draw an answer from you.
+LINE 542: I hate to go on always like this. Why are you so cold and distant and
+LINE 543: proud? Year after year we fail to reach an understanding and you cut
+LINE 544: yourself off from me more completely than before. Can we not manage
+LINE 545: for a little while to be on ordinary terms? It seems rather strange,
+LINE 546: considering how ill I have been, that you should not attempt to
+LINE 547: enquire after my health. Or rather, it is exactly what I should
+LINE 548: expect; but nevertheless I find it extremely painful.' 'Yes,'
+LINE 549: said Aoi, 'it is extremely painful when people do not care what
+LINE 550: becomes of one.' She glanced back over her shoulder as she spoke, her
+LINE 551: face full of scorn and pride, looking uncommonly handsome as she did
+LINE 552: so. 'You hardly ever speak,' said Genji, 'and when you do, it is only
+LINE 553: to say unkind things and twist one's harmless words so that they seem
+LINE 554: to be insults. And when I try to find some way of helping you for a
+LINE 555: while at least to be a little less disagreeable, you become more
+LINE 556: hopelessly unapproachable than ever. Shall I one day succeed in making
+LINE 557: you understand...?' and so saying he went into their bedroom. She did
+LINE 558: not follow him. He lay for a while in a state of great annoyance and
+LINE 559: distress. But, probably because he did not really care about her very
+LINE 560: much one way or the other, he soon became drowsy and all sorts of
+LINE 561: quite different matters drifted through his head. He wanted as much as
+LINE 562: ever to have the little girl in his keeping and watch her grow to
+LINE 563: womanhood. But the grandmother was right; the child was too absurdly
+LINE 564: young, and it would be very difficult to broach the matter again.
+LINE 565: Would it not however be possible to contrive that she should be
+LINE 566: brought to the Capital? It would be easy then to find excuses for
+LINE 567: fetching her and she might, even through some such arrangement as
+LINE 568: that, become a source of constant delight to him. The father, Prince
+LINE 569: Hyōbukyō, was of course a man of very distinguished manners; but he
+LINE 570: was not at all handsome. How was it that the child resembled one of
+LINE 571: her aunts and was so unlike all the rest? He had an idea that
+LINE 572: Fujitsubo and Prince Hyōbukyō were children of the same mother, while
+LINE 573: the others were only half-sisters. The fact that the little girl was
+LINE 574: closely related to the lady whom he had loved for so long made him all
+LINE 575: the more set upon securing her, and he began again to puzzle his head
+LINE 576: for some means of bringing this about.
+LINE 577: Next day he wrote his letter of thanks to the priest. No doubt it
+LINE 578: contained some allusion to his project. To the nun he wrote: 'Seeing
+LINE 579: you so resolutely averse to what I had proposed, I refrained from
+LINE 580: justifying my intentions so fully as I could have wished. But should
+LINE 581: it prove that, even by the few words I ventured to speak, I was able
+LINE 582: to convince you that this is no mere whim or common fancy, how happy
+LINE 583: would such news make me.' On a slip of paper folded small and tucked
+LINE 584: into the letter he wrote the poem: 'Though with all my heart I tried
+LINE 585: to leave it behind me, never for a moment has it left me,—the fair
+LINE 586: face of that mountain-flower!' Though she had long passed the zenith
+LINE 587: of her years the nun could not but be pleased and flattered by the
+LINE 588: elegance of the note; for it was not only written in an exquisite
+LINE 589: hand, but was folded with a careless dexterity which she greatly
+LINE 590: admired. She felt very sorry for him, and would have been glad, had it
+LINE 591: been in her conscience, to have sent him a more favourable reply. 'We
+LINE 592: were delighted,' she wrote, 'that being in the neighbourhood you took
+LINE 593: occasion to pay us a visit. But I fear that when (as I very much hope
+LINE 594: you will) you come here purposely to visit us, I shall not be able to
+LINE 595: add anything to what I have said already. As for the poem which you
+LINE 596: enclose, do not expect her to answer it, for she cannot yet write her
+LINE 597: "Naniwa Zu"[5] properly, even letter by letter. Let me then answer it
+LINE 598: for her: "For as long as the cherry-blossoms remain unscattered upon
+LINE 599: the shore of Onoe where wild storms blow,—so long have you till now
+LINE 600: been constant!" For my part, I am very uneasy about the matter.'
+LINE 601: The priest replied to the same effect. Genji was very much
+LINE 602: disappointed and after two or three days he sent for Koremitsu and
+LINE 603: gave him a letter for the nun, telling him at the same time to
+LINE 604: find out whatever he could from Shōnagon, the child's nurse. 'What an
+LINE 605: impressionable character he is,' thought Koremitsu. He had only had a
+LINE 606: glimpse of the child; but that had sufficed to convince him that she
+LINE 607: was a mere baby, though he remembered thinking her quite pretty. What
+LINE 608: trick would his master's heart be playing upon him next?
+LINE 609: The old priest was deeply impressed by the arrival of a letter in the
+LINE 610: hands of so special and confidential a messenger. After delivering it,
+LINE 611: Koremitsu sought out the nurse. He repeated all that Genji had told
+LINE 612: him to say and added a great deal of general information about his
+LINE 613: master. Being a man of many words he talked on and on, continually
+LINE 614: introducing some new topic which had suddenly occurred to him as
+LINE 615: relevant. But at the end of it all Shōnagon was just as puzzled as
+LINE 616: everyone else had been to account for Genji's interest in a child so
+LINE 617: ridiculously young. His letter was very deferential. In it he said
+LINE 618: that he longed to see a specimen of her childish writing done letter
+LINE 619: by letter, as the nun had described. As before, he enclosed a poem:
+LINE 620: 'Was it the shadows in the mountain well that told you my purpose was
+LINE 621: but jest?'[6] To which she answered 'Some perhaps that have drawn in
+LINE 622: that well now bitterly repent. Can the shadows tell me if again it
+LINE 623: will be so?' and Koremitsu brought a spoken message to the same
+LINE 624: effect, together with the assurance that so soon as the nun's health
+LINE 625: improved, she intended to visit the Capital and would then communicate
+LINE 626: with him again. The prospect of her visit was very exciting.
+LINE 627: About this time Lady Fujitsubo fell ill and retired for a while from
+LINE 628: the Palace. The sight of the Emperor's grief and anxiety moved Genji's
+LINE 629: pity. But he could not help thinking that this was an opportunity
+LINE 630: which must not be missed. He spent the whole of that day in a
+LINE 631: state of great agitation, unable whether in his own house or at the
+LINE 632: Palace to think of anything else or call upon anyone. When at last the
+LINE 633: day was over, he succeeded in persuading her maid Ōmyōbu to take a
+LINE 634: message. The girl, though she regarded any communication between them
+LINE 635: as most imprudent, seeing a strange look in his face like that of one
+LINE 636: who walks in a dream, took pity on him and went. The Princess looked
+LINE 637: back upon their former relationship as something wicked and horrible
+LINE 638: and the memory of it was a continual torment to her. She had
+LINE 639: determined that such a thing must never happen again.
+LINE 640: She met him with a stern and sorrowful countenance, but this did not
+LINE 641: disguise her charm, and as though conscious that he was unduly
+LINE 642: admiring her she began to treat him with great coldness and disdain.
+LINE 643: He longed to find some blemish in her, to think that he had been
+LINE 644: mistaken, and be at peace.
+LINE 645: I need not tell all that happened. The night passed only too quickly.
+LINE 646: He whispered in her ear the poem: 'Now that at last we have met, would
+LINE 647: that we might vanish forever into the dream we dreamed to-night!' But
+LINE 648: she, still conscience-stricken: 'Though I were to hide in the darkness
+LINE 649: of eternal sleep, yet would my shame run through the world from tongue
+LINE 650: to tongue.' And indeed, as Genji knew, it was not without good cause
+LINE 651: that she had suddenly fallen into this fit of apprehension and
+LINE 652: remorse. As he left, Ōmyōbu came running after him with his cloak and
+LINE 653: other belongings which he had left behind. He lay all day upon his bed
+LINE 654: in great torment. He sent a letter, but it was returned unopened. This
+LINE 655: had happened many times in the past, but now it filled him with such
+LINE 656: consternation that for two or three days he was completely prostrate
+LINE 657: and kept his room. All this while he was in constant dread lest
+LINE 658: his father, full of solicitude, should begin enquiring what new
+LINE 659: trouble had overtaken him. Fujitsubo, convinced that her ruin was
+LINE 660: accomplished, fell into a profound melancholy and her health grew
+LINE 661: daily worse. Messengers arrived constantly from the Court begging her
+LINE 662: to return without delay; but she could not bring herself to go. Her
+LINE 663: disorder had now taken a turn which filled her with secret foreboding,
+LINE 664: and she did nothing all day long but sit distractedly wondering what
+LINE 665: would become of her. When the hot weather set in she ceased to leave
+LINE 666: her bed at all. Three months had now passed and there was no mistaking
+LINE 667: her condition. Soon it would be known and everywhere discussed. She
+LINE 668: was appalled at the calamity which had overtaken her. Not knowing that
+LINE 669: there was any cause for secrecy, her people were astonished that she
+LINE 670: had not long ago informed the Emperor of her condition. Speculations
+LINE 671: were rife, but the question was one which only the Princess herself
+LINE 672: was in a position definitely to solve. Ōmyōbu and her old nurse's
+LINE 673: daughter who waited upon her at her toilet and in the bath-house had
+LINE 674: at once noted the change and were somewhat taken aback. But Ōmyōbu was
+LINE 675: unwilling to discuss the matter. She had an uncomfortable suspicion
+LINE 676: that it was the meeting which she arranged that had now taken effect
+LINE 677: with cruel promptness and precision. It was announced in the Palace
+LINE 678: that other disorders had misled those about her and prevented them
+LINE 679: from recognizing the true nature of her condition. This explanation
+LINE 680: was accepted by everyone.
+LINE 681: The Emperor himself was full of tender concern, and though messengers
+LINE 682: kept him constantly informed, the gloomiest doubts and fancies passed
+LINE 683: continually through his mind. Genji was at this time visited by a most
+LINE 684: terrifying and extraordinary dream. He sent for interpreters, but they
+LINE 685: could make little of it. There were indeed certain passages to
+LINE 686: which they could assign no meaning at all; but this much was clear:
+LINE 687: the dreamer had made a false step and must be on his guard. 'It was
+LINE 688: not _my_ dream' said Genji, feeling somewhat alarmed. 'I am consulting
+LINE 689: you on behalf of someone else,' and he was wondering what this 'false
+LINE 690: step' could have been when news reached him of the Princess's
+LINE 691: condition. This then was the disaster which his dream had portended!
+LINE 692: At once he wrote her an immense letter full of passionate
+LINE 693: self-reproaches and exhortations. But Ōmyōbu, thinking that it would
+LINE 694: only increase her agitation, refused to deliver it, and he could trust
+LINE 695: no other messenger. Even the few wretched lines which she had been in
+LINE 696: the habit of sending to him now and again had for some while utterly
+LINE 697: ceased.
+LINE 698: In her seventh month she again appeared at Court. Overjoyed at her
+LINE 699: return, the Emperor lavished boundless affection upon her. The added
+LINE 700: fulness of her figure, the unwonted pallor and thinness of her face
+LINE 701: gave her, he thought, a new and incomparable charm. As before, all his
+LINE 702: leisure was spent in her company. During this time several Court
+LINE 703: festivals took place and Genji's presence was constantly required;
+LINE 704: sometimes he was called upon to play the _koto_ or flute, sometimes to
+LINE 705: serve his father in other ways. On such occasions, strive as he might
+LINE 706: to show no trace of embarrassment or agitation, he feared more than
+LINE 707: once that he had betrayed himself; while to her such confrontations
+LINE 708: were one long torment.
+LINE 709: The nun had somewhat improved in health and was now living in the
+LINE 710: Capital. He had enquired where she was lodging and sent messages from
+LINE 711: time to time, receiving (which indeed was all he expected) as little
+LINE 712: encouragement as before. In the last months his longing for the child
+LINE 713: had increased rather than diminished, but day after day went by
+LINE 714: without his finding any means to change the situation. As the
+LINE 715: autumn drew to its close, he fell into a state of great despondency.
+LINE 716: One fine moonlit night when he had decided, against his own
+LINE 717: inclination, to pay a certain secret visit,[7] a shower came on. As he
+LINE 718: had started from the Palace and the place to which he was going was in
+LINE 719: the suburbs of the Sixth Ward, it occurred to him that it would be
+LINE 720: disagreeable to go so far in the rain. He was considering what he
+LINE 721: should do when he noticed a tumbled-down house surrounded by very
+LINE 722: ancient trees. He asked whose this gloomy and desolate mansion might
+LINE 723: be, and Koremitsu, who, as usual, was with him replied: 'Why that is
+LINE 724: the late Azechi no Dainagon's house. A day or two ago I took occasion
+LINE 725: to call there and was told that my Lady the nun has grown very weak
+LINE 726: and does not now know what goes on about her.' 'Why did you not tell
+LINE 727: me this before? 'said Genji deeply concerned; 'I should have called at
+LINE 728: once to convey my sympathy to her household. Pray go in at once and
+LINE 729: ask for news.' Koremitsu accordingly sent one of the lesser attendants
+LINE 730: to the house, instructing him to give the impression that Genji had
+LINE 731: come on purpose to enquire. When the man announced that Prince Genji
+LINE 732: had sent him for news and was himself waiting outside, great
+LINE 733: excitement and consternation prevailed in the house. Their mistress,
+LINE 734: the servants said, had for several days been lying in a very parlous
+LINE 735: condition and could not possibly receive a visit. But they dared not
+LINE 736: simply send so distinguished a visitor away, and hastily tidying the
+LINE 737: southern parlour, they bustled him into it, saying, 'You must forgive
+LINE 738: us for showing you into this untidy room. We have done our best to
+LINE 739: make it presentable. Perhaps, on a surprise visit, you will forgive us
+LINE 740: for conducting you to such an out-of-the-way closet....' It was indeed
+LINE 741: not at all the kind of room that he was used to. 'I have been
+LINE 742: meaning for a long while to visit this house,' said Genji; 'but time
+LINE 743: after time the proposals which I made in writing concerning a certain
+LINE 744: project of mine were summarily rejected and this discouraged me. Had I
+LINE 745: but known that your mistress's health had taken this turn for the
+LINE 746: worse....' 'Tell him that at this moment my mind is clear, though it
+LINE 747: may soon be darkened again. I am deeply sensible of the kindness he
+LINE 748: has shown in thus visiting my death-bed, and regret that I cannot
+LINE 749: speak with him face to face. Tell him that if by any chance he has not
+LINE 750: altered his mind with regard to the matter that he has discussed with
+LINE 751: me before, by all means let him, when the time has come, number her
+LINE 752: among the ladies of his household. It is with great anxiety that I
+LINE 753: leave her behind me and I fear that such a bond with earth may hinder
+LINE 754: me from reaching the life for which I have prayed.'
+LINE 755: Her room was so near and the partition so thin that as she gave
+LINE 756: Shōnagon her message he could hear now and again the sound of her sad,
+LINE 757: quavering voice. Presently he heard her saying to someone 'How kind,
+LINE 758: how very kind of him to come. If only the child were old enough to
+LINE 759: thank him nicely!' 'It is indeed no question of kindness,' said Genji
+LINE 760: to Shōnagon. 'Surely it is evident that only some very deep feeling
+LINE 761: would have driven me to display so zealous a persistency! Since first
+LINE 762: I saw this child, a feeling of strange tenderness towards her
+LINE 763: possessed me, and it has grown to such a love as cannot be of this
+LINE 764: world only.[8] Though it is but an idle fancy, I have a longing to
+LINE 765: hear her voice. Could you not send for her before I go?' 'Poor little
+LINE 766: thing,' said Shōnagon. 'She is fast asleep in her room and knows
+LINE 767: nothing of all our troubles.' But as she spoke there was a sound of
+LINE 768: someone moving in the women's quarters and a voice suddenly was heard
+LINE 769: saying: 'Grandmother, Grandmother! Prince Genji who came to see
+LINE 770: us in the mountains is here, paying a visit. Why do you not let him
+LINE 771: come and talk to you?' 'Hush, child, hush!' cried all the gentlewomen,
+LINE 772: scandalized. 'No, no,' said the child; 'Grandmother said that when she
+LINE 773: saw this prince it made her feel better at once. I was not being silly
+LINE 774: at all.' This speech delighted Genji; but the gentlewomen of the
+LINE 775: household thought the child's incursion painful and unseemly, and
+LINE 776: pretended not to hear her last remark. Genji gave up the idea of
+LINE 777: paying a real visit and drove back to his house, thinking as he went
+LINE 778: that her behaviour was indeed still that of a mere infant. Yet how
+LINE 779: easy and delightful it would be to teach her!
+LINE 780: Next day he paid a proper visit. On his arrival he sent in a poem
+LINE 781: written on his usual tiny slip of paper: 'Since first I heard the
+LINE 782: voice of the young crane, my boat shows a strange tendency to stick
+LINE 783: among the reeds!' It was meant for the little girl and was written in
+LINE 784: a large, childish hand, but very beautifully, so that the ladies of
+LINE 785: the house said as soon as they saw it 'This will have to go into the
+LINE 786: child's copy-book.'
+LINE 787: Shōnagon sent him the following note: 'My mistress, feeling that she
+LINE 788: might not live through the day, asked us to have her moved to the
+LINE 789: temple in the hills, and she is already on her way. I shall see to it
+LINE 790: that she learns of your enquiry, if I can but send word to her before
+LINE 791: it is too late.' The letter touched him deeply.
+LINE 792: During these autumn evenings his heart was in a continual ferment. But
+LINE 793: though all his thoughts were occupied in a different quarter, yet
+LINE 794: owing to the curious relationship in which the child stood to the
+LINE 795: being who thus obsessed his mind, the desire to make the girl his own
+LINE 796: throughout this stormy time grew daily stronger. He remembered the
+LINE 797: evening when he had first seen her and the nun's poem, 'Not
+LINE 798: knowing if any will come to nurture the tender leaf....' She would
+LINE 799: always be delightful; but in some respects she might not fulfil her
+LINE 800: early promise. One must take risks. And he made the poem: 'When shall
+LINE 801: I see it lying in my hand, the young grass of the moor-side that
+LINE 802: springs from purple[9] roots?' In the tenth month the Emperor was to
+LINE 803: visit the Suzaku-in for the Festival of Red Leaves. The dancers were
+LINE 804: all to be sons of the noblest houses. The most accomplished among the
+LINE 805: princes, courtiers and other great gentlemen had been chosen for their
+LINE 806: parts by the Emperor himself, and from the Royal Princes and State
+LINE 807: Ministers downward everyone was busy with continual practices and
+LINE 808: rehearsals. Genji suddenly realized that for a long while he had not
+LINE 809: enquired after his friends on the mountain. He at once sent a special
+LINE 810: messenger who brought back this letter from the priest: 'The end came
+LINE 811: on the twentieth day of last month. It is the common lot of mankind;
+LINE 812: yet her loss is very grievous to me!' This and more he wrote, and
+LINE 813: Genji, reading the letter was filled with a bitter sense of life's
+LINE 814: briefness and futility. And what of the child concerning whose future
+LINE 815: the dead woman had shown such anxiety? He could not remember his own
+LINE 816: mother's death at all distinctly; but some dim recollection still
+LINE 817: floated in his mind and gave to his letter of condolence an added
+LINE 818: warmth of feeling. It was answered, not without a certain
+LINE 819: self-importance, by the nurse Shōnagon.
+LINE 820: After the funeral and mourning were over, the child was brought back
+LINE 821: to the Capital. Hearing of this he allowed a short while to elapse and
+LINE 822: then one fine, still night went to the house of his own accord. This
+LINE 823: gloomy, decaying, half-deserted mansion must, he thought, have a most
+LINE 824: depressing effect upon the child who lived there. He was shown
+LINE 825: into the same small room as before. Here Shōnagon told him between her
+LINE 826: sobs the whole tale of their bereavement, at which he too found
+LINE 827: himself strangely moved. 'I would send my little mistress to His
+LINE 828: Highness her father's,' she continued, 'did I not remember how cruelly
+LINE 829: her poor mother was used in that house. And I would do it still if my
+LINE 830: little lady were a child in arms who would not know where she had been
+LINE 831: taken to nor what the people there were feeling towards her. But she
+LINE 832: is now too big a girl to go among a lot of strange children who might
+LINE 833: not treat her kindly. So her poor dead grandmother was always saying
+LINE 834: down to her last day. You, Sir, have been very good to us, and it
+LINE 835: would be a great weight off my mind to know that she was coming to you
+LINE 836: even if it were only for a little while; and I would not worry you
+LINE 837: with asking what was to become of her afterwards. Only for her sake I
+LINE 838: am sorry indeed that she is not some years older, so that you might
+LINE 839: make a match of it. But the way she has been brought up has made her
+LINE 840: young even for her age.' 'You need not so constantly remind me of her
+LINE 841: childishness,' said Genji. 'Though it is indeed her youth and
+LINE 842: helplessness which move my compassion, yet I realize (and why should I
+LINE 843: hide it from myself or from you?) that a far closer bond unites our
+LINE 844: souls. Let me tell her myself what we have just now decided,' and he
+LINE 845: recited a poem in which he asked if 'like the waves that lap the shore
+LINE 846: where young reeds grow he must advance only to recede again.' 'Will
+LINE 847: she be too much surprised?' he added. Shōnagon, saying that the little
+LINE 848: girl should by all means be fetched, answered his poem with another in
+LINE 849: which she warned him that he must not expect her to 'drift
+LINE 850: seaweed-like with the waves,' before she understood his intention.
+LINE 851: 'Now, what made you think I should send you away without letting her
+LINE 852: see you?' she asked, speaking in an off-hand, familiar tone which he
+LINE 853: found it easy to pardon. His appearance, which the gentlewomen of
+LINE 854: the house studied with great care while he sat waiting for the child
+LINE 855: and singing to himself a verse of the song _Why so hard to cross the
+LINE 856: hill?_ made a deep impression upon them, and they did not forget that
+LINE 857: moment for a long while after.
+LINE 858: The child was lying on her bed weeping for her grandmother. 'A
+LINE 859: gentleman in a big cloak has come to play with you,' said one of the
+LINE 860: women who were waiting upon her; 'I wonder if it is your father.' At
+LINE 861: this she jumped up and cried out: 'Nurse, where is the gentleman in a
+LINE 862: cloak? Is he my father?' and she came running into the room. 'No,'
+LINE 863: said Genji, 'it is not your father; but it is someone else who wants
+LINE 864: you to be very fond of him. Come....' She had learnt from the way
+LINE 865: people talked about him that Prince Genji was someone very important,
+LINE 866: and feeling that he must really be very angry with her for speaking of
+LINE 867: him as the 'gentleman in a cloak' she went straight to her nurse and
+LINE 868: whispered 'Please, I am sleepy.' 'You must not be shy of me any more,'
+LINE 869: said Genji. 'If you are sleepy, come here and lie on my knee. Will you
+LINE 870: not even come and talk to me?' 'There,' said Shōnagon, 'you see what a
+LINE 871: little savage she is,' and pushed the child towards him. She stood
+LINE 872: listlessly by his side, passing her hand under her hair so that it
+LINE 873: fell in waves over her soft dress or clasping a great bunch of it
+LINE 874: where it stuck out thick around her shoulders. Presently he took her
+LINE 875: hand in his; but at once, in terror of this close contact with someone
+LINE 876: to whom she was not used, she cried out 'I said I wanted to go to
+LINE 877: bed,' and snatching her hand away she ran into the women's quarters.
+LINE 878: He followed her crying 'Dear one, do not run away from me! Now that
+LINE 879: your granny is gone, you must love me instead.' 'Well!' gasped
+LINE 880: Shōnagon, deeply shocked. 'No, that is too much! How can you bring
+LINE 881: yourself to say such a wicked thing to the poor child? And it is
+LINE 882: not much use _telling_ people to be fond of one, is it?' 'For the
+LINE 883: moment, it may not be,' said Genji. 'But you will see that strange
+LINE 884: things happen if one's heart is set upon a thing as mine is now.'
+LINE 885: Hail was falling. It was a wild and terrible night. The thought of
+LINE 886: leaving her to pass it in this gloomy and half-deserted mansion
+LINE 887: immeasurably depressed him and snatching at this excuse for remaining
+LINE 888: near her: 'Shut the partition-door!' he cried. 'I will stay for a
+LINE 889: while and play the watchman here on this terrible night. Draw near to
+LINE 890: me, all of you!' and so saying, as though it were the most natural
+LINE 891: thing in the world, he picked up the child in his arms and carried her
+LINE 892: to her bed. The gentlewomen were far too astonished and confounded to
+LINE 893: budge from their seats; while Shōnagon, though his high-handed
+LINE 894: proceedings greatly agitated and alarmed her, had to confess to
+LINE 895: herself that there was no real reason to interfere, and could only sit
+LINE 896: moaning in her corner. The little girl was at first terribly
+LINE 897: frightened. She did not know what he was going to do with her and
+LINE 898: shuddered violently. Even the feel of his delicate, cool skin when he
+LINE 899: drew her to him, gave her goose-flesh. He saw this; but none the less
+LINE 900: he began gently and carefully to remove her outer garments, and laid
+LINE 901: her down. Then, though he knew quite well that she was still
+LINE 902: frightened of him, he began talking to her softly and tenderly: 'How
+LINE 903: would you like to come with me one day to a place where there are lots
+LINE 904: of lovely pictures and dolls and toys?' And he went on to speak so
+LINE 905: feelingly of all the things she was most interested in that soon she
+LINE 906: felt almost at home with him. But for a long while she was restless
+LINE 907: and did not go properly to sleep. The storm still raged. 'Whatever
+LINE 908: should we have done if this gentleman had not been here,' whispered
+LINE 909: one of the women; 'I know that for my part I should have been in
+LINE 910: a terrible fright. If only our little lady were nearer to his age!'
+LINE 911: Shōnagon, still mistrustful, sat quite close to Genji all the while.
+LINE 912: At last the wind began to drop. The night was far spent; but his
+LINE 913: return at such an hour would cause no surprise! 'She has become so
+LINE 914: dear to me,' said Genji, 'that, above all at this sad time in her
+LINE 915: life, I am loath to leave her even for a few short hours. I think I
+LINE 916: shall put her somewhere where I can see her whenever I wish. I wonder
+LINE 917: that she is not frightened to live in such a place as this.' 'I think
+LINE 918: her father spoke of coming to fetch her,' said Shōnagon; 'but that is
+LINE 919: not likely to be till the Forty-nine Days are up.' 'It would of course
+LINE 920: under ordinary circumstances be natural that her father should look
+LINE 921: after her,' admitted Genji; 'but as she has been brought up entirely
+LINE 922: by someone else she has no more reason to care for him than for me.
+LINE 923: And though I have known her so short a time, I am certainly far fonder
+LINE 924: of her than her father can possibly be.' So saying he stroked the
+LINE 925: child's hair and then reluctantly, with many backward glances, left
+LINE 926: the room. There was now a heavy white fog, and hoar-frost lay thick on
+LINE 927: the grass. Suddenly he found himself wishing that it were a real
+LINE 928: love-affair, and he became very depressed. It occurred to him that on
+LINE 929: his way home he would pass by a certain house which he had once
+LINE 930: familiarly frequented. He knocked at the door, but no one answered. He
+LINE 931: then ordered one of his servants who had a strong voice to recite the
+LINE 932: following lines: 'By my Sister's gate though morning fog makes all the
+LINE 933: world still dark as night, I could not fail to pause.' When this had
+LINE 934: been sung twice, the lady sent an impertinent coxcomb of a valet to
+LINE 935: the door, who having recited the poem 'If you disliked the hedge of
+LINE 936: fog that lies about this place, a gate of crazy wicker would not keep
+LINE 937: you standing in the street,' at once went back again into the
+LINE 938: house. He waited; but no one else came to the door, and though he was
+LINE 939: in no mood to go dully home since it was now broad daylight, what else
+LINE 940: could be done? At his palace he lay for a long while smiling to
+LINE 941: himself with pleasure as he recollected the child's pretty speeches
+LINE 942: and ways. Towards noon he rose and began to write a letter to her; but
+LINE 943: he could not find the right words, and after many times laying his
+LINE 944: brush aside he determined at last to send her some nice pictures
+LINE 945: instead.
+LINE 946: That day Prince Hyōbukyō paid his long-promised visit to the late
+LINE 947: nun's house. The place seemed to him even more ruinous, vast and
+LINE 948: antiquated than he remembered it years ago. How depressing it must be
+LINE 949: for a handful of persons to live in these decaying halls, and looking
+LINE 950: about him he said to the nurse: 'No child ought to live in a place
+LINE 951: like this even for a little while. I must take her away at once; there
+LINE 952: is plenty of room in my house. You' (turning to Shōnagon) 'shall be
+LINE 953: found a place as a Lady-in-Waiting there. The child will be very well
+LINE 954: off, for there are several other young people for her to play with.'
+LINE 955: He called the little girl to him and noticing the rich perfume that
+LINE 956: clung to her dress since Genji held her in his arms, the Prince said
+LINE 957: 'How nicely your dress is scented. But isn't it rather drab?' No
+LINE 958: sooner had he said this than he remembered that she was in mourning,
+LINE 959: and felt slightly uncomfortable. 'I used sometimes to tell her
+LINE 960: grandmother,' he continued, 'that she ought to let her come to see me
+LINE 961: and get used to our ways; for indeed it was a strange upbringing for
+LINE 962: her to live alone year in year out with one whose health and spirits
+LINE 963: steadily declined. But she for some reason was very unfriendly towards
+LINE 964: me, and there was in another quarter[10] too a reluctance which I fear
+LINE 965: even at such a time as this may not be wholly overcome....' 'If that is
+LINE 966: so,' said Shōnagon, 'dull as it is for her here, I do not think
+LINE 967: she should be moved till she is a little better able to shift for
+LINE 968: herself.'
+LINE 969: For days on end the child had been in a terrible state of grief, and
+LINE 970: not having eaten the least bite of anything she was grown very thin,
+LINE 971: but was none the less lovely for that. He looked at her tenderly and
+LINE 972: said: 'You must not cry any more now. When people die, there is no
+LINE 973: help for it and we must bear it bravely. But now all is well, for I
+LINE 974: have come instead....' But it was getting late and he could not stay
+LINE 975: any longer. As he turned to go he saw that the child, by no means
+LINE 976: consoled at the prospect of falling under his care, was again crying
+LINE 977: bitterly. The Prince, himself shedding a few tears did his best to
+LINE 978: comfort her: 'Do not grieve so,' he said, 'to-day or to-morrow I will
+LINE 979: send for you to come and live with me,' and with that he departed.
+LINE 980: Still the child wept and no way could be found to distract her
+LINE 981: thoughts. It was not of course that she had any anxiety about her own
+LINE 982: future, for about such matters she had not yet begun to think at all;
+LINE 983: but only that she had lost the companion from whom for years on end
+LINE 984: she had never for a moment been separated. Young as she was, she
+LINE 985: suffered so cruelly that all her usual games were quite abandoned, and
+LINE 986: though sometimes during the day her spirits would a little improve, as
+LINE 987: night drew on she became so melancholy that Shōnagon began to wonder
+LINE 988: how much longer things would go on like this, and in despair at not
+LINE 989: being able to comfort her, would herself burst into tears.
+LINE 990: Presently Koremitsu arrived with a message saying that Genji had
+LINE 991: intended to visit them, but owing to a sudden command from the Palace
+LINE 992: was unable to do so, and being very much perturbed at the little one's
+LINE 993: grievous condition had sent for further news. Having delivered this
+LINE 994: message Koremitsu brought in some of Genji's servants whom he had
+LINE 995: sent to mount guard over the house that night. 'This kindness is
+LINE 996: indeed ill-placed,' said Shōnagon. 'It may not seem to him of much
+LINE 997: consequence that his gentlemen should be installed here; but if the
+LINE 998: child's father hears of it, we servants shall get all the blame for
+LINE 999: the little lady's being given away to a married gentleman. It was you
+LINE 1000: who let it all begin, we shall be told. Now be careful,' she said
+LINE 1001: turning to her fellow-servants, 'do not let her even mention these
+LINE 1002: watchmen to her father.' But alas, the child was quite incapable of
+LINE 1003: understanding such a prohibition, and Shōnagon, after pouring out many
+LINE 1004: lamentations to Koremitsu, continued: 'I do not doubt but that in due
+LINE 1005: time she will somehow become his wife, for so their fate seems to
+LINE 1006: decree. But now and for a long while there can be no talk of any such
+LINE 1007: thing, and this, as he has roundly told me, he knows as well as the
+LINE 1008: rest of us. So what he is after I cannot for the life of me imagine.
+LINE 1009: Only to-day when Prince Hyōbukyō was here he bade me keep a sharp eye
+LINE 1010: upon her and not let her be treated with any indiscretion. I confess
+LINE 1011: when he said it I remembered with vexation certain liberties which I
+LINE 1012: have allowed your master to take, thinking little enough of them at
+LINE 1013: the time.' No sooner had she said this than she began to fear that
+LINE 1014: Koremitsu would put a worse construction on her words than she
+LINE 1015: intended, and shaking her head very dolefully she relapsed into
+LINE 1016: silence. Nor was she far wrong, for Koremitsu was indeed wondering of
+LINE 1017: what sort Genji's misdemeanours could have been.
+LINE 1018: On hearing Koremitsu's report Genji's heart was filled with pity for
+LINE 1019: the child's state and he would like to have gone to her at once. But
+LINE 1020: he feared that ignorant people would misunderstand these frequent
+LINE 1021: visits and, thinking the girl older than she was, spread foolish
+LINE 1022: scandals abroad. It would be far simpler to fetch her to his
+LINE 1023: Palace and keep her there. All through the day he sent numerous
+LINE 1024: letters, and at dusk Koremitsu again went to the house saying that
+LINE 1025: urgent business had once more prevented Genji from visiting them, for
+LINE 1026: which remissness he tendered his apologies. Shōnagon answered curtly
+LINE 1027: that the girl's father had suddenly decided to fetch her away next day
+LINE 1028: and that they were too busy to receive visits: 'The servants are all
+LINE 1029: in a fluster at leaving this shabby old house where they have lived so
+LINE 1030: long and going to a strange, grand place....' She answered his further
+LINE 1031: questions so briefly and seemed so intent upon her sewing, that
+LINE 1032: Koremitsu went away.
+LINE 1033: Genji was at the Great Hall, but as usual he had been unable to get a
+LINE 1034: word out of Aoi and in a gloomy mood he was plucking at his zithern
+LINE 1035: and singing 'Why sped you across field and hill So fast upon this
+LINE 1036: rainy night?'[11]
+LINE 1037: The words of the song were aimed at Aoi and he sang them with much
+LINE 1038: feeling. He was thus employed when Koremitsu arrived at the Great
+LINE 1039: Hall. Genji sent for him at once and bade him tell his story.
+LINE 1040: Koremitsu's news was very disquieting. Once she was in her father's
+LINE 1041: palace it would look very odd that Genji should fetch her away, even
+LINE 1042: if she came willingly. It would inevitably be rumoured abroad that he
+LINE 1043: had made off with her like a child-snatcher, a thief. Far better to
+LINE 1044: anticipate his rival and exacting a promise of silence from the people
+LINE 1045: about her, carry her off to his own palace immediately. 'I shall go
+LINE 1046: there at daybreak,' he said to Koremitsu; 'Order the carriage that I
+LINE 1047: came here in, it can be used just as it is, and see to it that one or
+LINE 1048: two attendants are ready to go with me.' Koremitsu bowed and retired.
+LINE 1049: Genji knew that whichever course he chose, there was bound to be
+LINE 1050: a scandal so soon as the thing became known. Inevitably gossips would
+LINE 1051: spread the report that, young though she was, the child by this time
+LINE 1052: knew well enough why she had been invited to live with Prince Genji in
+LINE 1053: his palace. Let them draw their own conclusions. That did not matter.
+LINE 1054: There was a much worse possibility. What if Hyōbukyō found out where
+LINE 1055: she was? His conduct in abducting another man's child would appear in
+LINE 1056: the highest degree outrageous and discreditable. He was sorely
+LINE 1057: puzzled, but he knew that if he let this opportunity slip he would
+LINE 1058: afterwards bitterly repent it, and long before daybreak he started on
+LINE 1059: his way. Aoi was cold and sullen as ever. 'I have just remembered
+LINE 1060: something very important which I must see about at home,' he said; 'I
+LINE 1061: shall not be away long,' and he slipped out so quietly that the
+LINE 1062: servants of the house did not know that he was gone. His cloak was
+LINE 1063: brought to him from his own apartments and he drove off attended only
+LINE 1064: by Koremitsu who followed on horseback. After much knocking they
+LINE 1065: succeeded in getting the gate opened, but by a servant who was not in
+LINE 1066: the secret. Koremitsu ordered the man to pull in Genji's carriage as
+LINE 1067: quietly as he could and himself went straight to the front door, which
+LINE 1068: he rattled, coughing as he did so that Shōnagon might know who was
+LINE 1069: there. 'My lord is waiting,' he said when she came to the door. 'But
+LINE 1070: the young lady is fast asleep,' said Shōnagon; 'his Highness has no
+LINE 1071: business to be up and about at this time of night.' She said this
+LINE 1072: thinking that he was returning from some nocturnal escapade and had
+LINE 1073: only called there in passing. 'I hear,' said Genji now coming forward,
+LINE 1074: 'that the child is to be moved to her father's and I have something of
+LINE 1075: importance which I must say to her before she goes.' 'Whatever
+LINE 1076: business you have to transact with her, I am sure she will give the
+LINE 1077: matter her closest attention,' scoffed Shōnagon. Matters of
+LINE 1078: importance indeed, with a child of ten! Genji entered the women's
+LINE 1079: quarters. 'You cannot go in there,' cried Shōnagon in horror; 'several
+LINE 1080: aged ladies are lying all undressed....' 'They are all fast asleep,'
+LINE 1081: said Genji. 'See, I am only rousing the child,' and bending over her:
+LINE 1082: 'The morning mist is rising,' he cried, 'it is time to wake!' And
+LINE 1083: before Shōnagon had time to utter a sound, he had taken the child in
+LINE 1084: his arms and begun gently to rouse her. Still half-dreaming, she
+LINE 1085: thought it was the prince her father who had come to fetch her. 'Come,'
+LINE 1086: said Genji while he put her hair to rights, 'your father has sent me
+LINE 1087: to bring you back with me to his palace.' For a moment she was dazed
+LINE 1088: to find that it was not her father and shrank from him in fright.
+LINE 1089: 'Never mind whether it is your father or I,' he cried; 'it is all the
+LINE 1090: same,' and so saying he picked her up in his arms and carried her out
+LINE 1091: of the inner room. 'Well!' cried out Koremitsu and Shōnagon in
+LINE 1092: astonishment. What would he do next? 'It seems,' said Genji, 'that you
+LINE 1093: were disquieted at my telling you I could not visit her here as often
+LINE 1094: as I wished and would make arrangements for her to go to a more
+LINE 1095: convenient place. I hear that you are sending her where it will be
+LINE 1096: even more difficult for me to see her. Therefore ... make ready one or
+LINE 1097: the other of you to come with me.'
+LINE 1098: Shōnagon, who now realized that he was going to make off with the
+LINE 1099: child, fell into a terrible fluster. 'O Sir,' she said, 'you could not
+LINE 1100: have chosen a worse time. To-day her father is coming to fetch her,
+LINE 1101: and whatever shall I say to him? If only you would wait, I am sure it
+LINE 1102: would all come right in the end. But by acting so hastily you will do
+LINE 1103: yourself no good and leave the poor servants here in a sad pickle.'
+LINE 1104: 'If that is all,' cried Genji, 'let them follow as soon as they
+LINE 1105: choose,' and to Shōnagon's despair he had the carriage brought in. The
+LINE 1106: child stood by weeping and bewildered. There seemed no way of
+LINE 1107: preventing him from carrying out his purpose and gathering together
+LINE 1108: the child's clothes that she had been sewing the night before, the
+LINE 1109: nurse put on her own best dress and stepped into the carriage. Genji's
+LINE 1110: house was not far off and they arrived before daylight. They drew up
+LINE 1111: in front of the western wing and Genji alighted. Taking the child
+LINE 1112: lightly in his arms he set her on the ground. Shōnagon, to whom these
+LINE 1113: strange events seemed like a dream, hesitated as though still
+LINE 1114: uncertain whether she should enter the house or no. 'There is no need
+LINE 1115: for you to come in if you do not want to,' said Genji. 'Now that the
+LINE 1116: child herself is safely here I am quite content. If you had rather go
+LINE 1117: back, you have only to say so and I will escort you.'
+LINE 1118: Reluctantly she left the carriage. The suddenness of the move was in
+LINE 1119: itself enough to have upset her; but she was also worrying about what
+LINE 1120: Prince Hyōbukyō would think when he found that his child had vanished.
+LINE 1121: And indeed what _was_ going to become of her? One way or another all her
+LINE 1122: mistresses seemed to be taken from her and it was only when she became
+LINE 1123: frightened of having wept for so long on end that she at last dried
+LINE 1124: her eyes and began to pray.
+LINE 1125: The western wing had long been uninhabited and was not completely
+LINE 1126: furnished; but Koremitsu had soon fitted up screens and curtains where
+LINE 1127: they were required. For Genji makeshift quarters were soon contrived
+LINE 1128: by letting down the side-wings of his screen-of-honour. He sent to the
+LINE 1129: other part of the house for his night things and went to sleep. The
+LINE 1130: child, who had been put to bed not far off, was still very
+LINE 1131: apprehensive and ill at ease in these new surroundings. Her lips were
+LINE 1132: trembling, but she dared not cry out loud. 'I want to sleep with
+LINE 1133: Shōnagon,' she said at last in a tearful, babyish voice. 'You are
+LINE 1134: getting too big to sleep with a nurse,' said Genji, who had heard her.
+LINE 1135: 'You must try and go to sleep nicely where you are.' She felt
+LINE 1136: very lonely and lay weeping for a long while. The nurse was far too
+LINE 1137: much upset to think of going to bed and sat up for the rest of the
+LINE 1138: night in the servants' quarters crying so bitterly that she was
+LINE 1139: unconscious of all that went on around her.
+LINE 1140: But when it grew light she began to look about her a little. Not only
+LINE 1141: this great palace with its marvellous pillars and carvings, but the
+LINE 1142: sand in the courtyard outside which seemed to her like a carpet of
+LINE 1143: jewels made so dazzling an impression upon her that at first she felt
+LINE 1144: somewhat overawed. However, the fact that she was now no longer in a
+LINE 1145: household of women gave her an agreeable sense of security.
+LINE 1146: It was the hour at which business brought various strangers to the
+LINE 1147: house. There were several men walking just outside her window and she
+LINE 1148: heard one of them whisper to another: 'They say that someone new has
+LINE 1149: come to live here. Who can it be, I wonder? A lady of note, I'll
+LINE 1150: warrant you.'
+LINE 1151: Bath water was brought from the other wing, and steamed rice for
+LINE 1152: breakfast. Genji did not rise till far on into the morning. 'It is not
+LINE 1153: good for the child to be alone,' he said to Shōnagon, 'so last night
+LINE 1154: before I came to you I arranged for some little people to come and
+LINE 1155: stay here,' and so saying he sent a servant to 'fetch the little girls
+LINE 1156: from the eastern wing.' He had given special orders that they were to
+LINE 1157: be as small as possible and now four of the tiniest and prettiest
+LINE 1158: creatures imaginable arrived upon the scene.
+LINE 1159: Murasaki was still asleep, lying wrapped in Genji's own coat. It was
+LINE 1160: with difficulty that he roused her. 'You must not be sad any more,' he
+LINE 1161: said; 'If I were not very fond of you, should I be looking after you
+LINE 1162: like this? Little girls ought to be very gentle and obedient in their
+LINE 1163: ways.' And thus her education was begun.
+LINE 1164: She seemed to him, now that he could study her at leisure, even
+LINE 1165: more lovely than he had realized and they were soon engaged in an
+LINE 1166: affectionate conversation. He sent for delightful pictures and toys to
+LINE 1167: show her and set to work to amuse her in every way he could. Gradually
+LINE 1168: he persuaded her to get up and look about her. In her shabby dress
+LINE 1169: made of some dark grey material she looked so charming now that she
+LINE 1170: was laughing and playing, with all her woes forgotten, that Genji too
+LINE 1171: laughed with pleasure as he watched her. When at last he retired to
+LINE 1172: the eastern wing, she went out of doors to look at the garden. As she
+LINE 1173: picked her way among the trees and along the side of the lake, and
+LINE 1174: gazed with delight upon the frosty flower-beds that glittered gay as a
+LINE 1175: picture, while a many-coloured throng of unknown people passed
+LINE 1176: constantly in and out of the house, she began to think that this was a
+LINE 1177: very nice place indeed. Then she looked at the wonderful pictures that
+LINE 1178: were painted on all the panels and screens and quite lost her heart to
+LINE 1179: them.
+LINE 1180: For two or three days Genji did not go to the Palace, but spent all
+LINE 1181: his time amusing the little girl. Finally he drew all sorts of
+LINE 1182: pictures for her to put into her copy-book, showing them to her one by
+LINE 1183: one as he did so. She thought them the loveliest set of pictures she
+LINE 1184: had ever seen. Then he wrote part of the _Musashi-no_ poem.[12] She
+LINE 1185: was delighted by the way it was written in bold ink-strokes on a
+LINE 1186: background stained with purple. In a smaller hand was the poem:
+LINE 1187: 'Though the parent-root[13] I cannot see, yet tenderly I love its
+LINE 1188: off-shoot,[14]—the dewy plant that grows upon Musashi Moor.' 'Come'
+LINE 1189: said Genji while she was admiring it, 'you must write something too.'
+LINE 1190: 'I cannot write properly yet' she answered, looking up at him with a
+LINE 1191: witchery so wholly unconscious that Genji laughed. 'Even if you
+LINE 1192: cannot write properly it will never do for us to let you off
+LINE 1193: altogether. Let me give you a lesson.' With many timid glances towards
+LINE 1194: him she began to write. Even the childish manner in which she grasped
+LINE 1195: the brush gave him a thrill of delight which he was at a loss to
+LINE 1196: explain. 'Oh, I have spoiled it' she suddenly cried out and blushing
+LINE 1197: hid from him what she had written. But he forced her to let him see it
+LINE 1198: and found the poem: 'I do not know what put Musashi into your head and
+LINE 1199: am very puzzled. What plant is it that you say is a relative of mine?'
+LINE 1200: It was written in a large childish hand which was indeed very
+LINE 1201: undeveloped, but was nevertheless full of promise. It showed a strong
+LINE 1202: resemblance to the late nun's writing. He felt certain that if she
+LINE 1203: were given up-to-date copy-books she would soon write very nicely.
+LINE 1204: Next they built houses for the dolls and played so long at this game
+LINE 1205: together that Genji forgot for a while the great anxiety[15] which was
+LINE 1206: at that time preying upon his mind.
+LINE 1207: The servants who had been left behind at Murasaki's house were
+LINE 1208: extremely embarrassed when Prince Hyōbukyō came to fetch her. Genji
+LINE 1209: had made them promise for a time at any rate to tell no one of what
+LINE 1210: had happened and Shōnagon had seemed to agree that this was best.
+LINE 1211: Accordingly he could get nothing out of them save that Shōnagon had
+LINE 1212: taken the child away with her without saying anything about where she
+LINE 1213: was going. The Prince felt completely baffled. Perhaps the grandmother
+LINE 1214: had instilled into the nurse's mind the idea that things would not go
+LINE 1215: smoothly for the child at his palace. In that case the nurse with an
+LINE 1216: excess of craftiness might, instead of openly saying that she feared
+LINE 1217: the child would not be well treated under his roof, have thought it
+LINE 1218: wiser to make off with her when opportunity offered. He went home
+LINE 1219: very depressed, asking them to let him know instantly if they had any
+LINE 1220: news, a request which again embarrassed them. He also made enquiries
+LINE 1221: of the priest at the temple in the hills, but could learn nothing. She
+LINE 1222: had seemed to him to be a most lovable and delightful child; it was
+LINE 1223: very disappointing to lose sight of her in this manner. The princess
+LINE 1224: his wife had long ago got over her dislike of the child's mother and
+LINE 1225: was indignant at the idea that she was not to be trusted to do her
+LINE 1226: duty by the child properly.
+LINE 1227: Gradually the servants from Murasaki's house assembled at her new
+LINE 1228: home. The little girls who had been brought to play with her were
+LINE 1229: delighted with their new companion and they were soon all playing
+LINE 1230: together very happily.
+LINE 1231: When her prince was away or busy, on dreary evenings she would still
+LINE 1232: sometimes long for her grandmother the nun and cry a little. But she
+LINE 1233: never thought about her father whom she had never been used to see
+LINE 1234: except at rare intervals. Now indeed she had 'a new father' of whom
+LINE 1235: she was growing every day more fond. When he came back from anywhere
+LINE 1236: she was the first to meet him and then wonderful games and
+LINE 1237: conversations began, she sitting all the while on his lap without the
+LINE 1238: least shyness or restraint. A more charming companion could not have
+LINE 1239: been imagined. It might be that when she grew older, she would not
+LINE 1240: always be so trustful. New aspects of her character might come into
+LINE 1241: play. If she suspected, for example, that he cared for someone else,
+LINE 1242: she might resent it, and in such a case all sorts of unexpected things
+LINE 1243: are apt to happen; but for the present she was a delightful plaything.
+LINE 1244: Had she really been his daughter, convention would not have allowed
+LINE 1245: him to go on much longer living with her on terms of such complete
+LINE 1246: intimacy; but in a case like this he felt that such scruples were not
+LINE 1247: applicable.
+LINE 1248: [1] Fujitsubo, who was indeed the child's aunt.
+LINE 1249: [2] Fujitsubo, who was Hyōbukyō's sister.
+LINE 1250: [3] The Guardian Spell (_goshin_) is practised as follows:
+LINE 1251: The ministrant holds the palms of his hands together with middle
+LINE 1252: fingers touching and extended, first fingers separated and bent,
+LINE 1253: tips of thumbs and little fingers bunched together, and third
+LINE 1254: fingers in line with middle fingers so as to be invisible from in
+LINE 1255: front. With hands in this sacred pose (_mudrā_) he touches the
+LINE 1256: worshipper on forehead, left and right shoulder, heart and throat.
+LINE 1257: At each contact he utters the spell
+LINE 1258: ON · BASARA GONJI HARAJŪBATA · SOHAKA
+LINE 1259: which is corrupt Sanskrit and means 'I invoke thee, thou
+LINE 1260: diamond-fiery very majestic Star.' The deity here invoked is
+LINE 1261: Vairocana, favourite Buddha of the Mystic Sect.
+LINE 1262: [4] A Chinese instrument; often translated 'mouth-organ.'
+LINE 1263: [5] A song the words of which were used as a first writing lesson.
+LINE 1264: [6] There is here a pun, and a reference to poem 3807 in the _Manyōshū_.
+LINE 1265: [7] To Lady Rokujō.
+LINE 1266: [8] Arises out of some connection in a previous existence.
+LINE 1267: [9] Purple is _murasaki_ in Japanese. From this poem the child is
+LINE 1268: known as Murasaki; and hence the authoress derived the nickname by
+LINE 1269: which she too is known.
+LINE 1270: [10] His wife.
+LINE 1271: [11] The song is addressed by a girl to a suspicious lover; Genji
+LINE 1272: reverses the sense.
+LINE 1273: [12] 'Though I know not the place, yet when they told me this was the
+LINE 1274: moor of Musashi, the thought flashed through my mind: "What else
+LINE 1275: indeed could it be, since all its grass is purple-dyed?"'
+LINE 1276: [13] Fujitsubo. The fuji flower is also purple (_murasaki_) in colour.
+LINE 1277: [14] The child Murasaki, who was Fujitsubo's niece. Musashi was famous
+LINE 1278: for the purple dye extracted from the roots of a grass that grew there.
+LINE 1279: [15] The pregnancy of Fujitsubo.

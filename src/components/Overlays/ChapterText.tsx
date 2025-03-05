@@ -12,6 +12,7 @@ import {
   getCustomColor,
 } from "../../utils/colors";
 import chroma from "chroma-js";
+import InfoTooltip from "../Misc/InfoTooltip";
 
 function ChapterText() {
   const [chapterText, setChapterText] = useState([] as string[]);
@@ -194,6 +195,7 @@ function ChapterText() {
       name: string;
       number: number;
       lines: number[];
+      explanation: string;
     }[];
     const chapterScenes = scene_data.filter(
       (scene: Scene) => scene.chapter === chapterHover
@@ -206,12 +208,14 @@ function ChapterText() {
           name: "filler",
           number: 0,
           lines: [cur_max_line + 1, scene.firstLine - 1],
+          explanation: "",
         });
       }
       newSceneMap.push({
         name: scene.name,
         number: scene.number,
         lines: [scene.firstLine, scene.lastLine],
+        explanation: scene.explanation || "",
       });
       cur_max_line = scene.lastLine;
     });
@@ -221,6 +225,7 @@ function ChapterText() {
         name: "filler",
         number: 0,
         lines: [cur_max_line + 1, chapterText.length],
+        explanation: "",
       });
     }
 
@@ -323,15 +328,20 @@ function ChapterText() {
                 "scene-info " + (scene.name === "filler" ? "filler" : "")
               }
             >
-              <b
-                className="scene-name"
-                onMouseEnter={() => setSceneHover(scene.name)}
-                onMouseLeave={() => setSceneHover("")}
-              >
-                {chapterView ? "" : `Scene ${scene.number}: `}
-                {chapterView && scene.name.length > 60
-                  ? extractChapterName(scene.name)
-                  : scene.name}
+              <b>
+                <span
+                  className="scene-name"
+                  onMouseEnter={() => setSceneHover(scene.name)}
+                  onMouseLeave={() => setSceneHover("")}
+                >
+                  {chapterView ? "" : `Scene ${scene.number}: `}
+                  {chapterView && scene.name.length > 60
+                    ? extractChapterName(scene.name)
+                    : scene.name}
+                </span>
+                {!chapterView && scene.explanation !== "" && (
+                  <InfoTooltip type="exp" label={scene.explanation} />
+                )}
               </b>
               <p
                 className="loc"

@@ -1,0 +1,337 @@
+LINE 1: Mrs. Carteret was very much disturbed. It was supposed that the shock of
+LINE 2: her aunt's death had affected her health, for since that event she had
+LINE 3: fallen into a nervous condition which gave the major grave concern. Much
+LINE 4: to the general surprise, Mrs. Ochiltree had left no will, and no
+LINE 5: property of any considerable value except her homestead, which descended
+LINE 6: to Mrs. Carteret as the natural heir. Whatever she may have had on hand
+LINE 7: in the way of ready money had undoubtedly been abstracted from the cedar
+LINE 8: chest by the midnight marauder, to whose visit her death was immediately
+LINE 9: due. Her niece's grief was held to mark a deep-seated affection for the
+LINE 10: grim old woman who had reared her.
+LINE 11: Mrs. Carteret's present state of mind, of which her nervousness was a
+LINE 12: sufficiently accurate reflection, did in truth date from her aunt's
+LINE 13: death, and also in part from the time of the conversation with Mrs.
+LINE 14: Ochiltree, one afternoon, during and after the drive past Miller's new
+LINE 15: hospital. Mrs. Ochiltree had grown steadily more and more childish after
+LINE 16: that time, and her niece had never succeeded in making her pick up the
+LINE 17: thread of thought where it had been dropped. At any rate, Mrs. Ochiltree
+LINE 18: had made no further disclosure upon the subject.
+LINE 19: An examination, not long after her aunt's death, of the papers found
+LINE 20: near the cedar chest on the morning after the murder had contributed to
+LINE 21: Mrs. Carteret's enlightenment, but had not promoted her peace of mind.
+LINE 22: When Mrs. Carteret reached home, after her hurried exploration of the
+LINE 23: cedar chest, she thrust into a bureau drawer the envelope she had found.
+LINE 24: So fully was her mind occupied, for several days, with the funeral, and
+LINE 25: with the excitement attending the arrest of Sandy Campbell, that she
+LINE 26: deferred the examination of the contents of the envelope until near the
+LINE 27: end of the week.
+LINE 28: One morning, while alone in her chamber, she drew the envelope from the
+LINE 29: drawer, and was holding it in her hand, hesitating as to whether or not
+LINE 30: she should open it, when the baby in the next room began to cry.
+LINE 31: The child's cry seemed like a warning, and yielding to a vague
+LINE 32: uneasiness, she put the paper back.
+LINE 33: "Phil," she said to her husband at luncheon, "Aunt Polly said some
+LINE 34: strange things to me one day before she died,--I don't know whether she
+LINE 35: was quite in her right mind or not; but suppose that my father had left
+LINE 36: a will by which it was provided that half his property should go to that
+LINE 37: woman and her child?"
+LINE 38: "It would never have gone by such a will," replied the major easily.
+LINE 39: "Your Aunt Polly was in her dotage, and merely dreaming. Your father
+LINE 40: would never have been such a fool; but even if he had, no such will
+LINE 41: could have stood the test of the courts. It would clearly have been due
+LINE 42: to the improper influence of a designing woman."
+LINE 43: "So that legally, as well as morally," said Mrs. Carteret, "the will
+LINE 44: would have been of no effect?"
+LINE 45: "Not the slightest. A jury would soon have broken down the legal claim.
+LINE 46: As for any moral obligation, there would have been nothing moral about
+LINE 47: the affair. The only possible consideration for such a gift was an
+LINE 48: immoral one. I don't wish to speak harshly of your father, my dear,
+LINE 49: but his conduct was gravely reprehensible. The woman herself had no
+LINE 50: right or claim whatever; she would have been whipped and expelled from
+LINE 51: the town, if justice--blind, bleeding justice, then prostrate at the
+LINE 52: feet of slaves and aliens--could have had her way!"
+LINE 53: "But the child"--
+LINE 54: "The child was in the same category. Who was she, to have inherited the
+LINE 55: estate of your ancestors, of which, a few years before, she would
+LINE 56: herself have formed a part? The child of shame, it was hers to pay the
+LINE 57: penalty. But the discussion is all in the air, Olivia. Your father never
+LINE 58: did and never would have left such a will."
+LINE 59: This conversation relieved Mrs. Carteret's uneasiness. Going to her room
+LINE 60: shortly afterwards, she took the envelope from her bureau drawer and
+LINE 61: drew out a bulky paper. The haunting fear that it might be such a will
+LINE 62: as her aunt had suggested was now removed; for such an instrument, in
+LINE 63: the light of what her husband had said confirming her own intuitions,
+LINE 64: would be of no valid effect. It might be just as well, she thought, to
+LINE 65: throw the paper in the fire without looking at it. She wished to think
+LINE 66: as well as might be of her father, and she felt that her respect for his
+LINE 67: memory would not be strengthened by the knowledge that he had meant to
+LINE 68: leave his estate away from her; for her aunt's words had been open to
+LINE 69: the construction that she was to have been left destitute. Curiosity
+LINE 70: strongly prompted her to read the paper. Perhaps the will contained no
+LINE 71: such provision as she had feared, and it might convey some request or
+LINE 72: direction which ought properly to be complied with.
+LINE 73: She had been standing in front of the bureau while these thoughts passed
+LINE 74: through her mind, and now, dropping the envelope back into the drawer
+LINE 75: mechanically, she unfolded the document. It was written on legal paper,
+LINE 76: in her father's own hand.
+LINE 77: Mrs. Carteret was not familiar with legal verbiage, and there were
+LINE 78: several expressions of which she did not perhaps appreciate the full
+LINE 79: effect; but a very hasty glance enabled her to ascertain the purport of
+LINE 80: the paper. It was a will, by which, in one item, her father devised to
+LINE 81: his daughter Janet, the child of the woman known as Julia Brown, the sum
+LINE 82: of ten thousand dollars, and a certain plantation or tract of land a
+LINE 83: short distance from the town of Wellington. The rest and residue of his
+LINE 84: estate, after deducting all legal charges and expenses, was bequeathed
+LINE 85: to his beloved daughter, Olivia Merkell.
+LINE 86: Mrs. Carteret breathed a sigh of relief. Her father had not preferred
+LINE 87: another to her, but had left to his lawful daughter the bulk of his
+LINE 88: estate. She felt at the same time a growing indignation at the thought
+LINE 89: that that woman should so have wrought upon her father's weakness as to
+LINE 90: induce him to think of leaving so much valuable property to her
+LINE 91: bastard,--property which by right should go, and now would go, to her
+LINE 92: own son, to whom by every rule of law and decency it ought to descend.
+LINE 93: A fire was burning in the next room, on account of the baby,--there had
+LINE 94: been a light frost the night before, and the air was somewhat chilly.
+LINE 95: For the moment the room was empty. Mrs. Carteret came out from her
+LINE 96: chamber and threw the offending paper into the fire, and watched it
+LINE 97: slowly burn. When it had been consumed, the carbon residue of one sheet
+LINE 98: still retained its form, and she could read the words on the charred
+LINE 99: portion. A sentence, which had escaped her eye in her rapid reading,
+LINE 100: stood out in ghostly black upon the gray background:--
+LINE 101: "All the rest and residue of my estate I devise and bequeath to my
+LINE 102: daughter Olivia Merkell, the child of my beloved first wife."
+LINE 103: Mrs. Carteret had not before observed the word "first." Instinctively
+LINE 104: she stretched toward the fire the poker which she held in her hand, and
+LINE 105: at its touch the shadowy remnant fell to pieces, and nothing but ashes
+LINE 106: remained upon the hearth.
+LINE 107: Not until the next morning did she think again of the envelope which had
+LINE 108: contained the paper she had burned. Opening the drawer where it lay, the
+LINE 109: oblong blue envelope confronted her. The sight of it was distasteful.
+LINE 110: The indorsed side lay uppermost, and the words seemed like a mute
+LINE 111: reproach:--
+LINE 112: "The Last Will and Testament of Samuel Merkell."
+LINE 113: Snatching up the envelope, she glanced into it mechanically as she moved
+LINE 114: toward the next room, and perceived a thin folded paper which had
+LINE 115: heretofore escaped her notice. When opened, it proved to be a
+LINE 116: certificate of marriage, in due form, between Samuel Merkell and Julia
+LINE 117: Brown. It was dated from a county in South Carolina, about two years
+LINE 118: before her father's death.
+LINE 119: For a moment Mrs. Carteret stood gazing blankly at this faded slip of
+LINE 120: paper. Her father _had_ married this woman!--at least he had gone
+LINE 121: through the form of marriage with her, for to him it had surely been no
+LINE 122: more than an empty formality. The marriage of white and colored persons
+LINE 123: was forbidden by law. Only recently she had read of a case where both
+LINE 124: the parties to such a crime, a colored man and a white woman, had been
+LINE 125: sentenced to long terms in the penitentiary. She even recalled the
+LINE 126: circumstances. The couple had been living together unlawfully,--they
+LINE 127: were very low people, whose private lives were beneath the public
+LINE 128: notice,--but influenced by a religious movement pervading the community,
+LINE 129: had sought, they said at the trial, to secure the blessing of God upon
+LINE 130: their union. The higher law, which imperiously demanded that the purity
+LINE 131: and prestige of the white race be preserved at any cost, had intervened
+LINE 132: at this point.
+LINE 133: Mechanically she moved toward the fireplace, so dazed by this discovery
+LINE 134: as to be scarcely conscious of her own actions. She surely had not
+LINE 135: formed any definite intention of destroying this piece of paper when her
+LINE 136: fingers relaxed unconsciously and let go their hold upon it. The draught
+LINE 137: swept it toward the fireplace. Ere scarcely touching the flames it
+LINE 138: caught, blazed fiercely, and shot upward with the current of air. A
+LINE 139: moment later the record of poor Julia's marriage was scattered to the
+LINE 140: four winds of heaven, as her poor body had long since mingled with the
+LINE 141: dust of earth.
+LINE 142: The letter remained unread. In her agitation at the discovery of the
+LINE 143: marriage certificate, Olivia had almost forgotten the existence of the
+LINE 144: letter. It was addressed to "John Delamere, Esq., as Executor of my Last
+LINE 145: Will and Testament," while the lower left hand corner bore the
+LINE 146: direction: "To be delivered only after my death, with seal unbroken."
+LINE 147: The seal was broken already; Mr. Delamere was dead; the letter could
+LINE 148: never be delivered. Mrs. Carteret unfolded it and read:--
+LINE 149: MY DEAR DELAMERE,--I have taken the liberty of naming you as executor of
+LINE 150: my last will, because you are my friend, and the only man of my
+LINE 151: acquaintance whom I feel that I can trust to carry out my wishes,
+LINE 152: appreciate my motives, and preserve the silence I desire.
+LINE 153: I have, first, a confession to make. Inclosed in this letter you will
+LINE 154: find a certificate of marriage between my child Janet's mother and
+LINE 155: myself. While I have never exactly repented of this marriage, I have
+LINE 156: never had the courage to acknowledge it openly. If I had not married
+LINE 157: Julia, I fear Polly Ochiltree would have married me by main force,--as
+LINE 158: she would marry you or any other gentleman unfortunate enough to fall in
+LINE 159: the way of this twice-widowed man-hunter. When my wife died, three years
+LINE 160: ago, her sister Polly offered to keep house for me and the child. I
+LINE 161: would sooner have had the devil in the house, and yet I trembled with
+LINE 162: alarm,--there seemed no way of escape,--it was so clearly and obviously
+LINE 163: the proper thing.
+LINE 164: But she herself gave me my opportunity. I was on the point of
+LINE 165: consenting, when she demanded, as a condition of her coming, that I
+LINE 166: discharge Julia, my late wife's maid. She was laboring under a
+LINE 167: misapprehension in regard to the girl, but I grasped at the straw, and
+LINE 168: did everything to foster her delusion. I declared solemnly that nothing
+LINE 169: under heaven would induce me to part with Julia. The controversy
+LINE 170: resulted in my permitting Polly to take the child, while I retained the
+LINE 171: maid.
+LINE 172: Before Polly put this idea into my head, I had scarcely looked at Julia,
+LINE 173: but this outbreak turned my attention toward her. She was a handsome
+LINE 174: girl, and, as I soon found out, a good girl. My wife, who raised her,
+LINE 175: was a Christian woman, and had taught her modesty and virtue. She was
+LINE 176: free. The air was full of liberty, and equal rights, and all the
+LINE 177: abolition claptrap, and she made marriage a condition of her remaining
+LINE 178: longer in the house. In a moment of weakness I took her away to a place
+LINE 179: where we were not known, and married her. If she had left me, I should
+LINE 180: have fallen a victim to Polly Ochiltree,--to which any fate was
+LINE 181: preferable.
+LINE 182: And then, old friend, my weakness kept to the fore. I was ashamed of
+LINE 183: this marriage, and my new wife saw it. Moreover, she loved me,--too
+LINE 184: well, indeed, to wish to make me unhappy. The ceremony had satisfied her
+LINE 185: conscience, had set her right, she said, with God; for the opinions of
+LINE 186: men she did not care, since I loved her,--she only wanted to compensate
+LINE 187: me, as best she could, for the great honor I had done my
+LINE 188: handmaiden,--for she had read her Bible, and I was the Abraham to her
+LINE 189: Hagar, compared with whom she considered herself at a great advantage.
+LINE 190: It was her own proposition that nothing be said of this marriage. If any
+LINE 191: shame should fall on her, it would fall lightly, for it would be
+LINE 192: undeserved. When the child came, she still kept silence. No one, she
+LINE 193: argued, could blame an innocent child for the accident of birth, and in
+LINE 194: the sight of God this child had every right to exist; while among her
+LINE 195: own people illegitimacy would involve but little stigma. I need not
+LINE 196: say that I was easily persuaded to accept this sacrifice; but touched by
+LINE 197: her fidelity, I swore to provide handsomely for them both. This I have
+LINE 198: tried to do by the will of which I ask you to act as executor. Had I
+LINE 199: left the child more, it might serve as a ground for attacking the will;
+LINE 200: my acknowledgment of the tie of blood is sufficient to justify a
+LINE 201: reasonable bequest.
+LINE 202: I have taken this course for the sake of my daughter Olivia, who is dear
+LINE 203: to me, and whom I would not wish to make ashamed; and in deference to
+LINE 204: public opinion, which it is not easy to defy. If, after my death, Julia
+LINE 205: should choose to make our secret known, I shall of course be beyond the
+LINE 206: reach of hard words; but loyalty to my memory will probably keep her
+LINE 207: silent. A strong man would long since have acknowledged her before the
+LINE 208: world and taken the consequences; but, alas! I am only myself, and the
+LINE 209: atmosphere I live in does not encourage moral heroism. I should like to
+LINE 210: be different, but it is God who hath made us, and not we ourselves!
+LINE 211: Nevertheless, old friend, I will ask of you one favor. If in the future
+LINE 212: this child of Julia's and of mine should grow to womanhood; if she
+LINE 213: should prove to have her mother's gentleness and love of virtue; if, in
+LINE 214: the new era which is opening up for her mother's race, to which,
+LINE 215: unfortunately, she must belong, she should become, in time, an educated
+LINE 216: woman; and if the time should ever come when, by virtue of her education
+LINE 217: or the development of her people, it would be to her a source of shame
+LINE 218: or unhappiness that she was an illegitimate child,--if you are still
+LINE 219: alive, old friend, and have the means of knowing or divining this thing,
+LINE 220: go to her and tell her, for me, that she is my lawful child, and ask
+LINE 221: her to forgive her father's weakness.
+LINE 222: When this letter comes to you, I shall have passed to--the Beyond; but I
+LINE 223: am confident that you will accept this trust, for which I thank you now,
+LINE 224: in advance, most heartily.
+LINE 225: The letter was signed with her father's name, the same signature which
+LINE 226: had been attached to the will.
+LINE 227: Having firmly convinced herself of the illegality of the papers, and of
+LINE 228: her own right to destroy them, Mrs. Carteret ought to have felt relieved
+LINE 229: that she had thus removed all traces of her dead father's folly. True,
+LINE 230: the other daughter remained,--she had seen her on the street only the
+LINE 231: day before. The sight of this person she had always found offensive, and
+LINE 232: now, she felt, in view of what she had just learned, it must be even
+LINE 233: more so. Never, while this woman lived in the town, would she be able to
+LINE 234: throw the veil of forgetfulness over this blot upon her father's memory.
+LINE 235: As the day wore on, Mrs. Carteret grew still less at ease. To herself,
+LINE 236: marriage was a serious thing,--to a right-thinking woman the most
+LINE 237: serious concern of life. A marriage certificate, rightfully procured,
+LINE 238: was scarcely less solemn, so far as it went, than the Bible itself. Her
+LINE 239: own she cherished as the apple of her eye. It was the evidence of her
+LINE 240: wifehood, the seal of her child's legitimacy, her patent of
+LINE 241: nobility,--the token of her own and her child's claim to social place
+LINE 242: and consideration. She had burned this pretended marriage certificate
+LINE 243: because it meant nothing. Nevertheless, she could not ignore the
+LINE 244: knowledge of another such marriage, of which every one in the town
+LINE 245: knew,--a celebrated case, indeed, where a white man, of a family quite
+LINE 246: as prominent as her father's, had married a colored woman during the
+LINE 247: military occupation of the state just after the civil war. The legality
+LINE 248: of the marriage had never been questioned. It had been fully consummated
+LINE 249: by twenty years of subsequent cohabitation. No amount of social
+LINE 250: persecution had ever shaken the position of the husband. With an iron
+LINE 251: will he had stayed on in the town, a living protest against the
+LINE 252: established customs of the South, so rudely interrupted for a few short
+LINE 253: years; and, though his children were negroes, though he had never
+LINE 254: appeared in public with his wife, no one had ever questioned the
+LINE 255: validity of his marriage or the legitimacy of his offspring.
+LINE 256: The marriage certificate which Mrs. Carteret had burned dated from the
+LINE 257: period of the military occupation. Hence Mrs. Carteret, who was a good
+LINE 258: woman, and would not have done a dishonest thing, felt decidedly
+LINE 259: uncomfortable. She had destroyed the marriage certificate, but its ghost
+LINE 260: still haunted her.
+LINE 261: Major Carteret, having just eaten a good dinner, was in a very agreeable
+LINE 262: humor when, that same evening, his wife brought up again the subject of
+LINE 263: their previous discussion.
+LINE 264: "Phil," she asked, "Aunt Polly told me that once, long before my father
+LINE 265: died, when she went to remonstrate with him for keeping that Woman in
+LINE 266: the house, he threatened to marry Julia if Aunt Polly ever said another
+LINE 267: word to him about the matter. Suppose he _had_ married her, and had then
+LINE 268: left a will,--would the marriage have made any difference, so far as the
+LINE 269: will was concerned?"
+LINE 270: Major Carteret laughed. "Your Aunt Polly," he said, "was a remarkable
+LINE 271: woman, with a wonderful imagination, which seems to have grown more
+LINE 272: vivid as her memory and judgment weakened. Why should your father marry
+LINE 273: his negro housemaid? Mr. Merkell was never rated as a fool,--he had one
+LINE 274: of the clearest heads in Wellington. I saw him only a day or two before
+LINE 275: he died, and I could swear before any court in Christendom that he was
+LINE 276: of sound mind and memory to the last. These notions of your aunt were
+LINE 277: mere delusions. Your father was never capable of such a folly."
+LINE 278: "Of course I am only supposing a case," returned Olivia. "Imagining such
+LINE 279: a case, just for the argument, would the marriage have been legal?"
+LINE 280: "That would depend. If he had married her during the military
+LINE 281: occupation, or over in South Carolina, the marriage would have been
+LINE 282: legally valid, though morally and socially outrageous."
+LINE 283: "And if he had died afterwards, leaving a will?"
+LINE 284: "The will would have controlled the disposition of his estate, in all
+LINE 285: probability."
+LINE 286: "Suppose he had left no will?"
+LINE 287: "You are getting the matter down pretty fine, my dear! The woman would
+LINE 288: have taken one third of the real estate for life, and could have lived
+LINE 289: in the homestead until she died. She would also have had half the other
+LINE 290: property,--the money and goods and furniture, everything except the
+LINE 291: land,--and the negro child would have shared with you the balance of the
+LINE 292: estate. That, I believe, is according to the law of descent and
+LINE 293: distribution."
+LINE 294: Mrs. Carteret lapsed into a troubled silence. Her father _had_ married
+LINE 295: the woman. In her heart she had no doubt of the validity of the
+LINE 296: marriage, so far as the law was concerned; if one marriage of such a
+LINE 297: kind would stand, another contracted under similar conditions was
+LINE 298: equally as good. If the marriage had been valid, Julia's child had been
+LINE 299: legitimate. The will she had burned gave this sister of hers--she
+LINE 300: shuddered at the word--but a small part of the estate. Under the law,
+LINE 301: which intervened now that there was no will, the property should have
+LINE 302: been equally divided. If the woman had been white,--but the woman had
+LINE 303: _not_ been white, and the same rule of moral conduct did not, _could_
+LINE 304: not, in the very nature of things, apply, as between white people! For,
+LINE 305: if this were not so, slavery had been, not merely an economic mistake,
+LINE 306: but a great crime against humanity. If it had been such a crime, as for
+LINE 307: a moment she dimly perceived it might have been, then through the long
+LINE 308: centuries there had been piled up a catalogue of wrong and outrage
+LINE 309: which, if the law of compensation be a law of nature, must some time,
+LINE 310: somewhere, in some way, be atoned for. She herself had not escaped the
+LINE 311: penalty, of which, she realized, this burden placed upon her conscience
+LINE 312: was but another installment.
+LINE 313: If she should make known the facts she had learned, it would mean
+LINE 314: what?--a division of her father's estate, a recognition of the legality
+LINE 315: of her father's relations with Julia. Such a stain upon her father's
+LINE 316: memory would be infinitely worse than if he had _not_ married her. To
+LINE 317: have lived with her without marriage was a social misdemeanor, at which
+LINE 318: society in the old days had winked, or at most had frowned. To have
+LINE 319: married her was to have committed the unpardonable social sin. Such a
+LINE 320: scandal Mrs. Carteret could not have endured. Should she seek to make
+LINE 321: restitution, it would necessarily involve the disclosure of at least
+LINE 322: some of the facts. Had she not destroyed the will, she might have
+LINE 323: compromised with her conscience by producing it and acting upon its
+LINE 324: terms, which had been so stated as not to disclose the marriage. This
+LINE 325: was now rendered impossible by her own impulsive act; she could not
+LINE 326: mention the will at all, without admitting that she had destroyed it.
+LINE 327: Mrs. Carteret found herself in what might be called, vulgarly, a moral
+LINE 328: "pocket." She could, of course, remain silent. Mrs. Carteret was a good
+LINE 329: woman, according to her lights, with a cultivated conscience, to which
+LINE 330: she had always looked as her mentor and infallible guide.
+LINE 331: Hence Mrs. Carteret, after this painful discovery, remained for a long
+LINE 332: time ill at ease,--so disturbed, indeed, that her mind reacted upon her
+LINE 333: nerves, which had never been strong; and her nervousness affected her
+LINE 334: strength, which had never been great, until Carteret, whose love for her
+LINE 335: had been deepened and strengthened by the advent of his son, became
+LINE 336: alarmed for her health, and spoke very seriously to Dr. Price concerning
+LINE 337: it.

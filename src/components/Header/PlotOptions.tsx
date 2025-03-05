@@ -157,6 +157,12 @@ function PlotOptions() {
 
     "artofwar-new",
     "artofwar-new-themes",
+
+    "genji-new",
+    "genji-new-themes",
+
+    "marrow-new",
+    "marrow-new-themes",
   ].sort();
 
   const storyOptionsDisplay = storyOptions.filter(
@@ -442,16 +448,6 @@ function PlotOptions() {
             }
             onChange={(event) => setFullHeight(event.currentTarget.checked)}
           />
-          {/* <Switch
-            size="xs"
-            label={"Detail view"}
-            labelPosition="left"
-            checked={detailView}
-            disabled={
-              !story.includes("-new") || (!chapterView && chapterHover === "")
-            }
-            onChange={(event) => setDetailView(event.currentTarget.checked)}
-          /> */}
           <Switch
             size="xs"
             label={

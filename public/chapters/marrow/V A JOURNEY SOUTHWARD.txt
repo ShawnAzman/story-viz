@@ -1,0 +1,388 @@
+LINE 1: As the south-bound train was leaving the station at Philadelphia, a
+LINE 2: gentleman took his seat in the single sleeping-car attached to the
+LINE 3: train, and proceeded to make himself comfortable. He hung up his hat and
+LINE 4: opened his newspaper, in which he remained absorbed for a quarter of an
+LINE 5: hour. When the train had left the city behind, he threw the paper aside,
+LINE 6: and looked around at the other occupants of the car. One of these, who
+LINE 7: had been on the car since it had left New York, rose from his seat upon
+LINE 8: perceiving the other's glance, and came down the aisle.
+LINE 9: "How do you do, Dr. Burns?" he said, stopping beside the seat of the
+LINE 10: Philadelphia passenger.
+LINE 11: The gentleman looked up at the speaker with an air of surprise, which,
+LINE 12: after the first keen, incisive glance, gave place to an expression of
+LINE 13: cordial recognition.
+LINE 14: "Why, it's Miller!" he exclaimed, rising and giving the other his hand,
+LINE 15: "William Miller--Dr. Miller, of course. Sit down, Miller, and tell me
+LINE 16: all about yourself,--what you're doing, where you've been, and where
+LINE 17: you're going. I'm delighted to meet you, and to see you looking so
+LINE 18: well--and so prosperous."
+LINE 19: "I deserve no credit for either, sir," returned the other, as he took
+LINE 20: the proffered seat, "for I inherited both health and prosperity. It is a
+LINE 21: fortunate chance that permits me to meet you."
+LINE 22: The two acquaintances, thus opportunely thrown together so that they
+LINE 23: might while away in conversation the tedium of their journey,
+LINE 24: represented very different and yet very similar types of manhood. A
+LINE 25: celebrated traveler, after many years spent in barbarous or savage
+LINE 26: lands, has said that among all varieties of mankind the similarities are
+LINE 27: vastly more important and fundamental than the differences. Looking at
+LINE 28: these two men with the American eye, the differences would perhaps be
+LINE 29: the more striking, or at least the more immediately apparent, for the
+LINE 30: first was white and the second black, or, more correctly speaking,
+LINE 31: brown; it was even a light brown, but both his swarthy complexion and
+LINE 32: his curly hair revealed what has been described in the laws of some of
+LINE 33: our states as a "visible admixture" of African blood.
+LINE 34: Having disposed of this difference, and having observed that the white
+LINE 35: man was perhaps fifty years of age and the other not more than thirty,
+LINE 36: it may be said that they were both tall and sturdy, both well dressed,
+LINE 37: the white man with perhaps a little more distinction; both seemed from
+LINE 38: their faces and their manners to be men of culture and accustomed to the
+LINE 39: society of cultivated people. They were both handsome men, the elder
+LINE 40: representing a fine type of Anglo-Saxon, as the term is used in speaking
+LINE 41: of our composite white population; while the mulatto's erect form, broad
+LINE 42: shoulders, clear eyes, fine teeth, and pleasingly moulded features
+LINE 43: showed nowhere any sign of that degeneration which the pessimist so
+LINE 44: sadly maintains is the inevitable heritage of mixed races.
+LINE 45: As to their personal relations, it has already appeared that they were
+LINE 46: members of the same profession. In past years they had been teacher and
+LINE 47: pupil. Dr. Alvin Burns was professor in the famous medical college
+LINE 48: where Miller had attended lectures. The professor had taken an interest
+LINE 49: in his only colored pupil, to whom he had been attracted by his
+LINE 50: earnestness of purpose, his evident talent, and his excellent manners
+LINE 51: and fine physique. It was in part due to Dr. Burns's friendship that
+LINE 52: Miller had won a scholarship which had enabled him, without drawing too
+LINE 53: heavily upon his father's resources, to spend in Europe, studying in the
+LINE 54: hospitals of Paris and Vienna, the two most delightful years of his
+LINE 55: life. The same influence had strengthened his natural inclination toward
+LINE 56: operative surgery, in which Dr. Burns was a distinguished specialist of
+LINE 57: national reputation.
+LINE 58: Miller's father, Adam Miller, had been a thrifty colored man, the son of
+LINE 59: a slave, who, in the olden time, had bought himself with money which he
+LINE 60: had earned and saved, over and above what he had paid his master for his
+LINE 61: time. Adam Miller had inherited his father's thrift, as well as his
+LINE 62: trade, which was that of a stevedore, or contractor for the loading and
+LINE 63: unloading of vessels at the port of Wellington. In the flush turpentine
+LINE 64: days following a few years after the civil war, he had made money. His
+LINE 65: savings, shrewdly invested, had by constant accessions become a
+LINE 66: competence. He had brought up his eldest son to the trade; the other he
+LINE 67: had given a professional education, in the proud hope that his children
+LINE 68: or his grandchildren might be gentlemen in the town where their
+LINE 69: ancestors had once been slaves.
+LINE 70: Upon his father's death, shortly after Dr. Miller's return from Europe,
+LINE 71: and a year or two before the date at which this story opens, he had
+LINE 72: promptly spent part of his inheritance in founding a hospital, to which
+LINE 73: was to be added a training school for nurses, and in time perhaps a
+LINE 74: medical college and a school of pharmacy. He had been strongly tempted
+LINE 75: to leave the South, and seek a home for his family and a career for
+LINE 76: himself in the freer North, where race antagonism was less keen, or at
+LINE 77: least less oppressive, or in Europe, where he had never found his color
+LINE 78: work to his disadvantage. But his people had needed him, and he had
+LINE 79: wished to help them, and had sought by means of this institution to
+LINE 80: contribute to their uplifting. As he now informed Dr. Burns, he was
+LINE 81: returning from New York, where he had been in order to purchase
+LINE 82: equipment for his new hospital, which would soon be ready for the
+LINE 83: reception of patients.
+LINE 84: "How much I can accomplish I do not know," said Miller, "but I'll do
+LINE 85: what I can. There are eight or nine million of us, and it will take a
+LINE 86: great deal of learning of all kinds to leaven that lump."
+LINE 87: "It is a great problem, Miller, the future of your race," returned the
+LINE 88: other, "a tremendously interesting problem. It is a serial story which
+LINE 89: we are all reading, and which grows in vital interest with each
+LINE 90: successive installment. It is not only your problem, but ours. Your race
+LINE 91: must come up or drag ours down."
+LINE 92: "We shall come up," declared Miller; "slowly and painfully, perhaps, but
+LINE 93: we shall win our way. If our race had made as much progress everywhere
+LINE 94: as they have made in Wellington, the problem would be well on the way
+LINE 95: toward solution."
+LINE 96: "Wellington?" exclaimed Dr. Burns. "That's where I'm going. A Dr. Price,
+LINE 97: of Wellington, has sent for me to perform an operation on a child's
+LINE 98: throat. Do you know Dr. Price?"
+LINE 99: "Quite well," replied Miller, "he is a friend of mine."
+LINE 100: "So much the better. I shall want you to assist me. I read in the
+LINE 101: Medical Gazette, the other day, an account of a very interesting
+LINE 102: operation of yours. I felt proud to number you among my pupils. It was a
+LINE 103: remarkable case--a rare case. I must certainly have you with me in this
+LINE 104: one."
+LINE 105: "I shall be delighted, sir," returned Miller, "if it is agreeable to all
+LINE 106: concerned."
+LINE 107: Several hours were passed in pleasant conversation while the train sped
+LINE 108: rapidly southward. They were already far down in Virginia, and had
+LINE 109: stopped at a station beyond Richmond, when the conductor entered the
+LINE 110: car.
+LINE 111: "All passengers," he announced, "will please transfer to the day coaches
+LINE 112: ahead. The sleeper has a hot box, and must be switched off here."
+LINE 113: Dr. Burns and Miller obeyed the order, the former leading the way into
+LINE 114: the coach immediately in front of the sleeping-car.
+LINE 115: "Let's sit here, Miller," he said, having selected a seat near the rear
+LINE 116: of the car and deposited his suitcase in a rack. "It's on the shady
+LINE 117: side."
+LINE 118: Miller stood a moment hesitatingly, but finally took the seat indicated,
+LINE 119: and a few minutes later the journey was again resumed.
+LINE 120: When the train conductor made his round after leaving the station, he
+LINE 121: paused at the seat occupied by the two doctors, glanced interrogatively
+LINE 122: at Miller, and then spoke to Dr. Burns, who sat in the end of the seat
+LINE 123: nearest the aisle.
+LINE 124: "This man is with you?" he asked, indicating Miller with a slight side
+LINE 125: movement of his head, and a keen glance in his direction.
+LINE 126: "Certainly," replied Dr. Burns curtly, and with some surprise. "Don't
+LINE 127: you see that he is?"
+LINE 128: The conductor passed on. Miller paid no apparent attention to this
+LINE 129: little interlude, though no syllable had escaped him. He resumed the
+LINE 130: conversation where it had been broken off, but nevertheless followed
+LINE 131: with his eyes the conductor, who stopped at a seat near the forward end
+LINE 132: of the car, and engaged in conversation with a man whom Miller had not
+LINE 133: hitherto noticed.
+LINE 134: As this passenger turned his head and looked back toward Miller, the
+LINE 135: latter saw a broad-shouldered, burly white man, and recognized in his
+LINE 136: square-cut jaw, his coarse, firm mouth, and the single gray eye with
+LINE 137: which he swept Miller for an instant with a scornful glance, a
+LINE 138: well-known character of Wellington, with whom the reader has already
+LINE 139: made acquaintance in these pages. Captain McBane wore a frock coat and a
+LINE 140: slouch hat; several buttons of his vest were unbuttoned, and his
+LINE 141: solitaire diamond blazed in his soiled shirt-front like the headlight of
+LINE 142: a locomotive.
+LINE 143: The conductor in his turn looked back at Miller, and retraced his steps.
+LINE 144: Miller braced himself for what he feared was coming, though he had
+LINE 145: hoped, on account of his friend's presence, that it might be avoided.
+LINE 146: "Excuse me, sir," said the conductor, addressing Dr. Burns, "but did I
+LINE 147: understand you to say that this man was your servant?"
+LINE 148: "No, indeed!" replied Dr. Burns indignantly. "The gentleman is not my
+LINE 149: servant, nor anybody's servant, but is my friend. But, by the way, since
+LINE 150: we are on the subject, may I ask what affair it is of yours?"
+LINE 151: "It's very much my affair," returned the conductor, somewhat nettled at
+LINE 152: this questioning of his authority. "I'm sorry to part _friends_, but the
+LINE 153: law of Virginia does not permit colored passengers to ride in the white
+LINE 154: cars. You'll have to go forward to the next coach," he added, addressing
+LINE 155: Miller this time.
+LINE 156: "I have paid my fare on the sleeping-car, where the separate-car law
+LINE 157: does not apply," remonstrated Miller.
+LINE 158: "I can't help that. You can doubtless get your money back from the
+LINE 159: sleeping-car company. But this is a day coach, and is distinctly marked
+LINE 160: 'White,' as you must have seen before you sat down here. The sign is put
+LINE 161: there for that purpose."
+LINE 162: He indicated a large card neatly framed and hung at the end of the car,
+LINE 163: containing the legend, "White," in letters about a foot long, painted in
+LINE 164: white upon a dark background, typical, one might suppose, of the
+LINE 165: distinction thereby indicated.
+LINE 166: "You shall not stir a step, Miller," exclaimed Dr. Burns wrathfully.
+LINE 167: "This is an outrage upon a citizen of a free country. You shall stay
+LINE 168: right here."
+LINE 169: "I'm sorry to discommode you," returned the conductor, "but there's no
+LINE 170: use kicking. It's the law of Virginia, and I am bound by it as well as
+LINE 171: you. I have already come near losing my place because of not enforcing
+LINE 172: it, and I can take no more such chances, since I have a family to
+LINE 173: support."
+LINE 174: "And my friend has his rights to maintain," returned Dr. Burns with
+LINE 175: determination. "There is a vital principle at stake in the matter."
+LINE 176: "Really, sir," argued the conductor, who was a man of peace and not fond
+LINE 177: of controversy, "there's no use talking--he absolutely cannot ride in
+LINE 178: this car."
+LINE 179: "How can you prevent it?" asked Dr. Burns, lapsing into the
+LINE 180: argumentative stage.
+LINE 181: "The law gives me the right to remove him by force. I can call on the
+LINE 182: train crew to assist me, or on the other passengers. If I should choose
+LINE 183: to put him off the train entirely, in the middle of a swamp, he would
+LINE 184: have no redress--the law so provides. If I did not wish to use force, I
+LINE 185: could simply switch this car off at the next siding, transfer the white
+LINE 186: passengers to another, and leave you and your friend in possession until
+LINE 187: you were arrested and fined or imprisoned."
+LINE 188: "What he says is absolutely true, doctor," interposed Miller at this
+LINE 189: point. "It is the law, and we are powerless to resist it. If we made any
+LINE 190: trouble, it would merely delay your journey and imperil a life at the
+LINE 191: other end. I'll go into the other car."
+LINE 192: "You shall not go alone," said Dr. Burns stoutly, rising in his turn. "A
+LINE 193: place that is too good for you is not good enough for me. I will sit
+LINE 194: wherever you do."
+LINE 195: "I'm sorry again," said the conductor, who had quite recovered his
+LINE 196: equanimity, and calmly conscious of his power, could scarcely restrain
+LINE 197: an amused smile; "I dislike to interfere, but white passengers are not
+LINE 198: permitted to ride in the colored car."
+LINE 199: "This is an outrage," declared Dr. Burns, "a d----d outrage! You are
+LINE 200: curtailing the rights, not only of colored people, but of white men as
+LINE 201: well. I shall sit where I please!"
+LINE 202: "I warn you, sir," rejoined the conductor, hardening again, "that the
+LINE 203: law will be enforced. The beauty of the system lies in its strict
+LINE 204: impartiality--it applies to both races alike."
+LINE 205: "And is equally infamous in both cases," declared Dr. Burns. "I shall
+LINE 206: immediately take steps"--
+LINE 207: "Never mind, doctor," interrupted Miller, soothingly, "it's only for a
+LINE 208: little while. I'll reach my destination just as surely in the other car,
+LINE 209: and we can't help it, anyway. I'll see you again at Wellington."
+LINE 210: Dr. Burns, finding resistance futile, at length acquiesced and made way
+LINE 211: for Miller to pass him.
+LINE 212: The colored doctor took up his valise and crossed the platform to the
+LINE 213: car ahead. It was an old car, with faded upholstery, from which the
+LINE 214: stuffing projected here and there through torn places. Apparently the
+LINE 215: floor had not been swept for several days. The dust lay thick upon the
+LINE 216: window sills, and the water-cooler, from which he essayed to get a
+LINE 217: drink, was filled with stale water which had made no recent acquaintance
+LINE 218: with ice. There was no other passenger in the car, and Miller occupied
+LINE 219: himself in making a rough calculation of what it would cost the Southern
+LINE 220: railroads to haul a whole car for every colored passenger. It was
+LINE 221: expensive, to say the least; it would be cheaper, and quite as
+LINE 222: considerate of their feelings, to make the negroes walk.
+LINE 223: The car was conspicuously labeled at either end with large cards,
+LINE 224: similar to those in the other car, except that they bore the word
+LINE 225: "Colored" in black letters upon a white background. The author of this
+LINE 226: piece of legislation had contrived, with an ingenuity worthy of a better
+LINE 227: cause, that not merely should the passengers be separated by the color
+LINE 228: line, but that the reason for this division should be kept constantly in
+LINE 229: mind. Lest a white man should forget that he was white,--not a very
+LINE 230: likely contingency,--these cards would keep him constantly admonished of
+LINE 231: the fact; should a colored person endeavor, for a moment, to lose sight
+LINE 232: of his disability, these staring signs would remind him continually that
+LINE 233: between him and the rest of mankind not of his own color, there was by
+LINE 234: law a great gulf fixed.
+LINE 235: Having composed himself, Miller had opened a newspaper, and was deep in
+LINE 236: an editorial which set forth in glowing language the inestimable
+LINE 237: advantages which would follow to certain recently acquired islands by
+LINE 238: the introduction of American liberty, when the rear door of the car
+LINE 239: opened to give entrance to Captain George McBane, who took a seat near
+LINE 240: the door and lit a cigar. Miller knew him quite well by sight and by
+LINE 241: reputation, and detested him as heartily. He represented the aggressive,
+LINE 242: offensive element among the white people of the New South, who made it
+LINE 243: hard for a negro to maintain his self-respect or to enjoy even the
+LINE 244: rights conceded to colored men by Southern laws. McBane had undoubtedly
+LINE 245: identified him to the conductor in the other car. Miller had no desire
+LINE 246: to thrust himself upon the society of white people, which, indeed, to
+LINE 247: one who had traveled so much and so far, was no novelty; but he very
+LINE 248: naturally resented being at this late day--the law had been in operation
+LINE 249: only a few months--branded and tagged and set apart from the rest of
+LINE 250: mankind upon the public highways, like an unclean thing. Nevertheless,
+LINE 251: he preferred even this to the exclusive society of Captain George
+LINE 252: McBane.
+LINE 253: "Porter," he demanded of the colored train attaché who passed through
+LINE 254: the car a moment later, "is this a smoking car for white men?"
+LINE 255: "No, suh," replied the porter, "but they comes in here sometimes, when
+LINE 256: they ain' no cullud ladies on the kyar."
+LINE 257: "Well, I have paid first-class fare, and I object to that man's smoking
+LINE 258: in here. You tell him to go out."
+LINE 259: "I'll tell the conductor, suh," returned the porter in a low tone. "I
+LINE 260: 'd jus' as soon talk ter the devil as ter that man."
+LINE 261: The white man had spread himself over two seats, and was smoking
+LINE 262: vigorously, from time to time spitting carelessly in the aisle, when the
+LINE 263: conductor entered the compartment.
+LINE 264: "Captain," said Miller, "this car is plainly marked 'Colored.' I have
+LINE 265: paid first-class fare, and I object to riding in a smoking car."
+LINE 266: "All right," returned the conductor, frowning irritably. "I'll speak to
+LINE 267: him."
+LINE 268: He walked over to the white passenger, with whom he was evidently
+LINE 269: acquainted, since he addressed him by name.
+LINE 270: "Captain McBane," he said, "it's against the law for you to ride in the
+LINE 271: nigger car."
+LINE 272: "Who are you talkin' to?" returned the other. "I'll ride where I damn
+LINE 273: please."
+LINE 274: "Yes, sir, but the colored passenger objects. I'm afraid I'll have to
+LINE 275: ask you to go into the smoking-car."
+LINE 276: "The hell you say!" rejoined McBane. "I'll leave this car when I get
+LINE 277: good and ready, and that won't be till I've finished this cigar. See?"
+LINE 278: He was as good as his word. The conductor escaped from the car before
+LINE 279: Miller had time for further expostulation. Finally McBane, having thrown
+LINE 280: the stump of his cigar into the aisle and added to the floor a finishing
+LINE 281: touch in the way of expectoration, rose and went back into the white
+LINE 282: car.
+LINE 283: Left alone in his questionable glory, Miller buried himself again in his
+LINE 284: newspaper, from which he did not look up until the engine stopped at a
+LINE 285: tank station to take water.
+LINE 286: As the train came to a standstill, a huge negro, covered thickly with
+LINE 287: dust, crawled off one of the rear trucks unobserved, and ran round the
+LINE 288: rear end of the car to a watering-trough by a neighboring well. Moved
+LINE 289: either by extreme thirst or by the fear that his time might be too short
+LINE 290: to permit him to draw a bucket of water, he threw himself down by the
+LINE 291: trough, drank long and deep, and plunging his head into the water, shook
+LINE 292: himself like a wet dog, and crept furtively back to his dangerous perch.
+LINE 293: Miller, who had seen this man from the car window, had noticed a very
+LINE 294: singular thing. As the dusty tramp passed the rear coach, he cast toward
+LINE 295: it a glance of intense ferocity. Up to that moment the man's face, which
+LINE 296: Miller had recognized under its grimy coating, had been that of an
+LINE 297: ordinarily good-natured, somewhat reckless, pleasure-loving negro, at
+LINE 298: present rather the worse for wear. The change that now came over it
+LINE 299: suggested a concentrated hatred almost uncanny in its murderousness.
+LINE 300: With awakened curiosity Miller followed the direction of the negro's
+LINE 301: glance, and saw that it rested upon a window where Captain McBane sat
+LINE 302: looking out. When Miller looked back, the negro had disappeared.
+LINE 303: At the next station a Chinaman, of the ordinary laundry type, boarded
+LINE 304: the train, and took his seat in the white car without objection. At
+LINE 305: another point a colored nurse found a place with her mistress.
+LINE 306: "White people," said Miller to himself, who had seen these passengers
+LINE 307: from the window, "do not object to the negro as a servant. As the
+LINE 308: traditional negro,--the servant,--he is welcomed; as an equal, he is
+LINE 309: repudiated."
+LINE 310: Miller was something of a philosopher. He had long ago had the
+LINE 311: conclusion forced upon him that an educated man of his race, in order to
+LINE 312: live comfortably in the United States, must be either a philosopher or
+LINE 313: a fool; and since he wished to be happy, and was not exactly a fool, he
+LINE 314: had cultivated philosophy. By and by he saw a white man, with a dog,
+LINE 315: enter the rear coach. Miller wondered whether the dog would be allowed
+LINE 316: to ride with his master, and if not, what disposition would be made of
+LINE 317: him. He was a handsome dog, and Miller, who was fond of animals, would
+LINE 318: not have objected to the company of a dog, as a dog. He was nevertheless
+LINE 319: conscious of a queer sensation when he saw the porter take the dog by
+LINE 320: the collar and start in his own direction, and felt consciously relieved
+LINE 321: when the canine passenger was taken on past him into the baggage-car
+LINE 322: ahead. Miller's hand was hanging over the arm of his seat, and the dog,
+LINE 323: an intelligent shepherd, licked it as he passed. Miller was not entirely
+LINE 324: sure that he would not have liked the porter to leave the dog there; he
+LINE 325: was a friendly dog, and seemed inclined to be sociable.
+LINE 326: Toward evening the train drew up at a station where quite a party of
+LINE 327: farm laborers, fresh from their daily toil, swarmed out from the
+LINE 328: conspicuously labeled colored waiting-room, and into the car with
+LINE 329: Miller. They were a jolly, good-natured crowd, and, free from the
+LINE 330: embarrassing presence of white people, proceeded to enjoy themselves
+LINE 331: after their own fashion. Here an amorous fellow sat with his arm around
+LINE 332: a buxom girl's waist. A musically inclined individual--his talents did
+LINE 333: not go far beyond inclination--produced a mouth-organ and struck up a
+LINE 334: tune, to which a limber-legged boy danced in the aisle. They were noisy,
+LINE 335: loquacious, happy, dirty, and malodorous. For a while Miller was amused
+LINE 336: and pleased. They were his people, and he felt a certain expansive
+LINE 337: warmth toward them in spite of their obvious shortcomings. By and by,
+LINE 338: however, the air became too close, and he went out upon the platform.
+LINE 339: For the sake of the democratic ideal, which meant so much to his race,
+LINE 340: he might have endured the affliction. He could easily imagine that
+LINE 341: people of refinement, with the power in their hands, might be tempted to
+LINE 342: strain the democratic ideal in order to avoid such contact; but
+LINE 343: personally, and apart from the mere matter of racial sympathy, these
+LINE 344: people were just as offensive to him as to the whites in the other end
+LINE 345: of the train. Surely, if a classification of passengers on trains was at
+LINE 346: all desirable, it might be made upon some more logical and considerate
+LINE 347: basis than a mere arbitrary, tactless, and, by the very nature of
+LINE 348: things, brutal drawing of a color line. It was a veritable bed of
+LINE 349: Procrustes, this standard which the whites had set for the negroes.
+LINE 350: Those who grew above it must have their heads cut off, figuratively
+LINE 351: speaking,--must be forced back to the level assigned to their race;
+LINE 352: those who fell beneath the standard set had their necks stretched,
+LINE 353: literally enough, as the ghastly record in the daily papers gave
+LINE 354: conclusive evidence.
+LINE 355: Miller breathed more freely when the lively crowd got off at the next
+LINE 356: station, after a short ride. Moreover, he had a light heart, a
+LINE 357: conscience void of offense, and was only thirty years old. His
+LINE 358: philosophy had become somewhat jaded on this journey, but he pulled it
+LINE 359: together for a final effort. Was it not, after all, a wise provision of
+LINE 360: nature that had given to a race, destined to a long servitude and a slow
+LINE 361: emergence therefrom, a cheerfulness of spirit which enabled them to
+LINE 362: catch pleasure on the wing, and endure with equanimity the ills that
+LINE 363: seemed inevitable? The ability to live and thrive under adverse
+LINE 364: circumstances is the surest guaranty of the future. The race which at
+LINE 365: the last shall inherit the earth--the residuary legatee of
+LINE 366: civilization--will be the race which remains longest upon it. The negro
+LINE 367: was here before the Anglo-Saxon was evolved, and his thick lips and
+LINE 368: heavy-lidded eyes looked out from the inscrutable face of the Sphinx
+LINE 369: across the sands of Egypt while yet the ancestors of those who now
+LINE 370: oppress him were living in caves, practicing human sacrifice, and
+LINE 371: painting themselves with woad--and the negro is here yet.
+LINE 372: "'Blessed are the meek,'" quoted Miller at the end of these consoling
+LINE 373: reflections, "'for they shall inherit the earth.' If this be true, the
+LINE 374: negro may yet come into his estate, for meekness seems to be set apart
+LINE 375: as his portion."
+LINE 376: The journey came to an end just as the sun had sunk into the west.
+LINE 377: Simultaneously with Miller's exit from the train, a great black figure
+LINE 378: crawled off the trucks of the rear car, on the side opposite the station
+LINE 379: platform. Stretching and shaking himself with a free gesture, the black
+LINE 380: man, seeing himself unobserved, moved somewhat stiffly round the end of
+LINE 381: the car to the station platform.
+LINE 382: "'Fo de Lawd!" he muttered, "ef I hadn' had a cha'm' life, I'd 'a'
+LINE 383: never got here on dat ticket, an' dat's a fac'--it sho' am! I kind er
+LINE 384: 'lowed I wuz gone a dozen times, ez it wuz. But I got my job ter do in
+LINE 385: dis worl', an' I knows I ain' gwine ter die 'tel I've 'complished it. I
+LINE 386: jes' want one mo' look at dat man, an' den I'll haf ter git somethin'
+LINE 387: ter eat; fer two raw turnips in twelve hours is slim pickin's fer a man
+LINE 388: er my size!"

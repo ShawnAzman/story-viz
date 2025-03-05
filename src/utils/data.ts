@@ -93,6 +93,7 @@ export interface Scene {
     [key: string]: number;
   };
   links?: CharacterLink[];
+  explanation?: string;
 }
 
 export interface LocationData {

@@ -1,0 +1,258 @@
+LINE 1: The Wellington riot began at three o'clock in the afternoon of a day as
+LINE 2: fair as was ever selected for a deed of darkness. The sky was clear,
+LINE 3: except for a few light clouds that floated, white and feathery, high in
+LINE 4: air, like distant islands in a sapphire sea. A salt-laden breeze from
+LINE 5: the ocean a few miles away lent a crisp sparkle to the air.
+LINE 6: At three o'clock sharp the streets were filled, as if by magic, with
+LINE 7: armed white men. The negroes, going about, had noted, with uneasy
+LINE 8: curiosity, that the stores and places of business, many of which closed
+LINE 9: at noon, were unduly late in opening for the afternoon, though no one
+LINE 10: suspected the reason for the delay; but at three o'clock every passing
+LINE 11: colored man was ordered, by the first white man he met, to throw up his
+LINE 12: hands. If he complied, he was searched, more or less roughly, for
+LINE 13: firearms, and then warned to get off the street. When he met another
+LINE 14: group of white men the scene was repeated. The man thus summarily held
+LINE 15: up seldom encountered more than two groups before disappearing across
+LINE 16: lots to his own home or some convenient hiding-place. If he resisted any
+LINE 17: demand of those who halted him--But the records of the day are
+LINE 18: historical; they may be found in the newspapers of the following date,
+LINE 19: but they are more firmly engraved upon the hearts and memories of the
+LINE 20: people of Wellington. For many months there were negro families in the
+LINE 21: town whose children screamed with fear and ran to their mothers for
+LINE 22: protection at the mere sight of a white man.
+LINE 23: Dr. Miller had received a call, about one o'clock, to attend a case at
+LINE 24: the house of a well-to-do colored farmer, who lived some three or four
+LINE 25: miles from the town, upon the very road, by the way, along which Miller
+LINE 26: had driven so furiously a few weeks before, in the few hours that
+LINE 27: intervened before Sandy Campbell would probably have been burned at the
+LINE 28: stake. The drive to his patient's home, the necessary inquiries, the
+LINE 29: filling of the prescription from his own medicine-case, which he carried
+LINE 30: along with him, the little friendly conversation about the weather and
+LINE 31: the crops, and, the farmer being an intelligent and thinking man, the
+LINE 32: inevitable subject of the future of their race,--these, added to the
+LINE 33: return journey, occupied at least two hours of Miller's time.
+LINE 34: As he neared the town on his way back, he saw ahead of him half a dozen
+LINE 35: men and women approaching, with fear written in their faces, in every
+LINE 36: degree from apprehension to terror. Women were weeping and children
+LINE 37: crying, and all were going as fast as seemingly lay in their power,
+LINE 38: looking behind now and then as if pursued by some deadly enemy. At sight
+LINE 39: of Miller's buggy they made a dash for cover, disappearing, like a covey
+LINE 40: of frightened partridges, in the underbrush along the road.
+LINE 41: Miller pulled up his horse and looked after them in startled wonder.
+LINE 42: "What on earth can be the matter?" he muttered, struck with a vague
+LINE 43: feeling of alarm. A psychologist, seeking to trace the effects of
+LINE 44: slavery upon the human mind, might find in the South many a curious
+LINE 45: illustration of this curse, abiding long after the actual physical
+LINE 46: bondage had terminated. In the olden time the white South labored under
+LINE 47: the constant fear of negro insurrections. Knowing that they themselves,
+LINE 48: if in the negroes' place, would have risen in the effort to throw off
+LINE 49: the yoke, all their reiterated theories of negro subordination and
+LINE 50: inferiority could not remove that lurking fear, founded upon the obscure
+LINE 51: consciousness that the slaves ought to have risen. Conscience, it has
+LINE 52: been said, makes cowards of us all. There was never, on the continent of
+LINE 53: America, a successful slave revolt, nor one which lasted more than a few
+LINE 54: hours, or resulted in the loss of more than a few white lives; yet never
+LINE 55: was the planter quite free from the fear that there might be one.
+LINE 56: On the other hand, the slave had before his eyes always the fear of the
+LINE 57: master. There were good men, according to their lights,--according to
+LINE 58: their training and environment,--among the Southern slaveholders, who
+LINE 59: treated their slaves kindly, as slaves, from principle, because they
+LINE 60: recognized the claims of humanity, even under the dark skin of a human
+LINE 61: chattel. There was many a one who protected or pampered his negroes, as
+LINE 62: the case might be, just as a man fondles his dog,--because they were
+LINE 63: his; they were a part of his estate, an integral part of the entity of
+LINE 64: property and person which made up the aristocrat; but with all this
+LINE 65: kindness, there was always present, in the consciousness of the lowest
+LINE 66: slave, the knowledge that he was in his master's power, and that he
+LINE 67: could make no effectual protest against the abuse of that authority.
+LINE 68: There was also the knowledge, among those who could think at all, that
+LINE 69: the best of masters was himself a slave to a system, which hampered his
+LINE 70: movements but scarcely less than those of his bondmen.
+LINE 71: When, therefore, Miller saw these men and women scampering into the
+LINE 72: bushes, he divined, with this slumbering race consciousness which years
+LINE 73: of culture had not obliterated, that there was some race trouble on
+LINE 74: foot. His intuition did not long remain unsupported. A black head was
+LINE 75: cautiously protruded from the shrubbery, and a black voice--if such a
+LINE 76: description be allowable--addressed him:--
+LINE 77: "Is dat you, Doctuh Miller?"
+LINE 78: "Yes. Who are you, and what's the trouble?"
+LINE 79: "What's de trouble, suh? Why, all hell's broke loose in town yonduh. De
+LINE 80: w'ite folks is riz 'gins' de niggers, an' say dey're gwine ter kill
+LINE 81: eve'y nigger dey kin lay han's on."
+LINE 82: Miller's heart leaped to his throat, as he thought of his wife and
+LINE 83: child. This story was preposterous; it could not be true, and yet there
+LINE 84: must be something in it. He tried to question his informant, but the man
+LINE 85: was so overcome with excitement and fear that Miller saw clearly that he
+LINE 86: must go farther for information. He had read in the Morning Chronicle, a
+LINE 87: few days before, the obnoxious editorial quoted from the Afro-American
+LINE 88: Banner, and had noted the comment upon it by the white editor. He had
+LINE 89: felt, as at the time of its first publication, that the editorial was
+LINE 90: ill-advised. It could do no good, and was calculated to arouse the
+LINE 91: animosity of those whose friendship, whose tolerance, at least, was
+LINE 92: necessary and almost indispensable to the colored people. They were
+LINE 93: living, at the best, in a sort of armed neutrality with the whites; such
+LINE 94: a publication, however serviceable elsewhere, could have no other
+LINE 95: effect in Wellington than to endanger this truce and defeat the hope of
+LINE 96: a possible future friendship. The right of free speech entitled Barber
+LINE 97: to publish it; a larger measure of common-sense would have made him
+LINE 98: withhold it. Whether it was the republication of this article that had
+LINE 99: stirred up anew the sleeping dogs of race prejudice and whetted their
+LINE 100: thirst for blood, he could not yet tell; but at any rate, there was
+LINE 101: mischief on foot.
+LINE 102: "Fer God's sake, doctuh, don' go no closeter ter dat town," pleaded his
+LINE 103: informant, "er you'll be killt sho'. Come on wid us, suh, an' tek keer
+LINE 104: er yo'se'f. We're gwine ter hide in de swamps till dis thing is over!"
+LINE 105: "God, man!" exclaimed Miller, urging his horse forward, "my wife and
+LINE 106: child are in the town!"
+LINE 107: Fortunately, he reflected, there were no patients confined in the
+LINE 108: hospital,--if there should be anything in this preposterous story. To
+LINE 109: one unfamiliar with Southern life, it might have seemed impossible that
+LINE 110: these good Christian people, who thronged the churches on Sunday, and
+LINE 111: wept over the sufferings of the lowly Nazarene, and sent missionaries to
+LINE 112: the heathen, could be hungering and thirsting for the blood of their
+LINE 113: fellow men; but Miller cherished no such delusion. He knew the history
+LINE 114: of his country; he had the threatened lynching of Sandy Campbell vividly
+LINE 115: in mind; and he was fully persuaded that to race prejudice, once roused,
+LINE 116: any horror was possible. That women or children would be molested of set
+LINE 117: purpose he did not believe, but that they might suffer by accident was
+LINE 118: more than likely.
+LINE 119: As he neared the town, dashing forward at the top of his horse's speed,
+LINE 120: he heard his voice called in a loud and agitated tone, and, glancing
+LINE 121: around him, saw a familiar form standing by the roadside, gesticulating
+LINE 122: vehemently.
+LINE 123: He drew up the horse with a suddenness that threw the faithful and
+LINE 124: obedient animal back upon its haunches. The colored lawyer, Watson, came
+LINE 125: up to the buggy. That he was laboring under great and unusual excitement
+LINE 126: was quite apparent from his pale face and frightened air.
+LINE 127: "What's the matter, Watson?" demanded Miller, hoping now to obtain some
+LINE 128: reliable information.
+LINE 129: "Matter!" exclaimed the other. "Everything's the matter! The white
+LINE 130: people are up in arms. They have disarmed the colored people, killing
+LINE 131: half a dozen in the process, and wounding as many more. They have forced
+LINE 132: the mayor and aldermen to resign, have formed a provisional city
+LINE 133: government _à la Française_, and have ordered me and half a dozen other
+LINE 134: fellows to leave town in forty-eight hours, under pain of sudden death.
+LINE 135: As they seem to mean it, I shall not stay so long. Fortunately, my wife
+LINE 136: and children are away. I knew you were out here, however, and I thought
+LINE 137: I'd come out and wait for you, so that we might talk the matter over. I
+LINE 138: don't imagine they mean you any harm, personally, because you tread on
+LINE 139: nobody's toes; but you're too valuable a man for the race to lose, so I
+LINE 140: thought I'd give you warning. I shall want to sell you my property,
+LINE 141: too, at a bargain. For I'm worth too much to my family to dream of ever
+LINE 142: attempting to live here again."
+LINE 143: "Have you seen anything of my wife and child?" asked Miller, intent upon
+LINE 144: the danger to which they might be exposed.
+LINE 145: "No; I didn't go to the house. I inquired at the drugstore and found
+LINE 146: out where you had gone. You needn't fear for them,--it is not a war on
+LINE 147: women and children."
+LINE 148: "War of any kind is always hardest on the women and children," returned
+LINE 149: Miller; "I must hurry on and see that mine are safe."
+LINE 150: "They'll not carry the war so far into Africa as that," returned
+LINE 151: Watson; "but I never saw anything like it. Yesterday I had a hundred
+LINE 152: white friends in the town, or thought I had,--men who spoke pleasantly
+LINE 153: to me on the street, and sometimes gave me their hands to shake. Not one
+LINE 154: of them said to me today: 'Watson, stay at home this afternoon.' I might
+LINE 155: have been killed, like any one of half a dozen others who have bit the
+LINE 156: dust, for any word that one of my 'friends' had said to warn me. When
+LINE 157: the race cry is started in this neck of the woods, friendship, religion,
+LINE 158: humanity, reason, all shrivel up like dry leaves in a raging furnace."
+LINE 159: The buggy, into which Watson had climbed, was meanwhile rapidly nearing
+LINE 160: the town.
+LINE 161: "I think I'll leave you here, Miller," said Watson, as they approached
+LINE 162: the outskirts, "and make my way home by a roundabout path, as I should
+LINE 163: like to get there unmolested. Home!--a beautiful word that, isn't it,
+LINE 164: for an exiled wanderer? It might not be well, either, for us to be seen
+LINE 165: together. If you put the hood of your buggy down, and sit well back in
+LINE 166: the shadow, you may be able to reach home without interruption; but
+LINE 167: avoid the main streets. I'll see you again this evening, if we're both
+LINE 168: alive, and I can reach you; for my time is short. A committee are to
+LINE 169: call in the morning to escort me to the train. I am to be dismissed from
+LINE 170: the community with public honors." Watson was climbing down from the
+LINE 171: buggy, when a small party of men were seen approaching, and big Josh
+LINE 172: Green, followed by several other resolute-looking colored men, came up
+LINE 173: and addressed them.
+LINE 174: "Dr. Miller," cried Green, "Mr. Watson,--we're lookin' fer a leader. De
+LINE 175: w'ite folks are killin' de niggers, an' we ain' gwine ter stan' up an'
+LINE 176: be shot down like dogs. We're gwine ter defen' ou' lives, an' we ain'
+LINE 177: gwine ter run away f'm no place where we 'we got a right ter be; an' woe
+LINE 178: be ter de w'ite man w'at lays ban's on us! Dere's two niggers in dis
+LINE 179: town ter eve'y w'ite man, an' ef we 'we got ter be killt, we'll take
+LINE 180: some w'ite folks 'long wid us, ez sho' ez dere's a God in heaven,--ez I
+LINE 181: s'pose dere is, dough He mus' be 'sleep, er busy somewhar e'se ter-day.
+LINE 182: Will you-all come an' lead us?"
+LINE 183: "Gentlemen," said Watson, "what is the use? The negroes will not back
+LINE 184: you up. They haven't the arms, nor the moral courage, nor the
+LINE 185: leadership."
+LINE 186: "We'll git de arms, an' we'll git de courage, ef you'll come an' lead
+LINE 187: us! We wants leaders,--dat's w'y we come ter you!"
+LINE 188: "What's the use?" returned Watson despairingly. "The odds are too heavy.
+LINE 189: I've been ordered out of town; if I stayed, I'd be shot on sight,
+LINE 190: unless I had a body-guard around me."
+LINE 191: "We'll be yo' body-guard!" shouted half a dozen voices.
+LINE 192: "And when my body-guard was shot, what then? I have a wife and children.
+LINE 193: It is my duty to live for them. If I died, I should get no glory and no
+LINE 194: reward, and my family would be reduced to beggary,--to which they'll
+LINE 195: soon be near enough as it is. This affair will blow over in a day or
+LINE 196: two. The white people will be ashamed of themselves to-morrow, and
+LINE 197: apprehensive of the consequences for some time to come. Keep quiet,
+LINE 198: boys, and trust in God. You won't gain anything by resistance."
+LINE 199: "'God he'ps dem dat he'ps demselves,'" returned Josh stoutly. "Ef Mr.
+LINE 200: Watson won't lead us, will you, Dr. Miller?" said the spokesman, turning
+LINE 201: to the doctor.
+LINE 202: For Miller it was an agonizing moment. He was no coward, morally or
+LINE 203: physically. Every manly instinct urged him to go forward and take up the
+LINE 204: cause of these leaderless people, and, if need be, to defend their lives
+LINE 205: and their rights with his own,--but to what end?
+LINE 206: "Listen, men," he said. "We would only be throwing our lives away.
+LINE 207: Suppose we made a determined stand and won a temporary victory. By
+LINE 208: morning every train, every boat, every road leading into Wellington,
+LINE 209: would be crowded with white men,--as they probably will be any
+LINE 210: way,--with arms in their hands, curses on their lips, and vengeance in
+LINE 211: their hearts. In the minds of those who make and administer the laws, we
+LINE 212: have no standing in the court of conscience. They would kill us in the
+LINE 213: fight, or they would hang us afterwards,--one way or another, we should
+LINE 214: be doomed. I should like to lead you; I should like to arm every colored
+LINE 215: man in this town, and have them stand firmly in line, not for attack,
+LINE 216: but for defense; but if I attempted it, and they should stand by me,
+LINE 217: which is questionable,--for I have met them fleeing from the town,--my
+LINE 218: life would pay the forfeit. Alive, I may be of some use to you, and you
+LINE 219: are welcome to my life in that way,--I am giving it freely. Dead, I
+LINE 220: should be a mere lump of carrion. Who remembers even the names of those
+LINE 221: who have been done to death in the Southern States for the past twenty
+LINE 222: years?"
+LINE 223: "I 'members de name er one of 'em," said Josh, "an' I 'members de name
+LINE 224: er de man dat killt 'im, an' I s'pec' his time is mighty nigh come."
+LINE 225: "My advice is not heroic, but I think it is wise. In this riot we are
+LINE 226: placed as we should be in a war: we have no territory, no base of
+LINE 227: supplies, no organization, no outside sympathy,--we stand in the
+LINE 228: position of a race, in a case like this, without money and without
+LINE 229: friends. Our time will come,--the time when we can command respect for
+LINE 230: our rights; but it is not yet in sight. Give it up, boys, and wait. Good
+LINE 231: may come of this, after all."
+LINE 232: Several of the men wavered, and looked irresolute.
+LINE 233: "I reckon that's all so, doctuh," returned Josh, "an', de way you put
+LINE 234: it, I don' blame you ner Mr. Watson; but all dem reasons ain' got no
+LINE 235: weight wid me. I'm gwine in dat town, an' ef any w'ite man 'sturbs me,
+LINE 236: dere'll be trouble,--dere'll be double trouble,--I feels it in my
+LINE 237: bones!"
+LINE 238: "Remember your old mother, Josh," said Miller.
+LINE 239: "Yas, sub, I'll 'member her; dat's all I kin do now. I don' need ter
+LINE 240: wait fer her no mo', fer she died dis mo'nin'. I'd lack ter see her
+LINE 241: buried, suh, but I may not have de chance. Ef I gits killt, will you do
+LINE 242: me a favor?"
+LINE 243: "Yes, Josh; what is it?"
+LINE 244: "Ef I should git laid out in dis commotion dat's gwine on, will you
+LINE 245: collec' my wages f'm yo' brother, and see dat de ole 'oman is put away
+LINE 246: right?"
+LINE 247: "Yes, of course."
+LINE 248: "Wid a nice coffin, an' a nice fune'al, an' a head-bo'd an' a
+LINE 249: foot-bo'd?"
+LINE 250: "Yes."
+LINE 251: "All right, suh! Ef I don' live ter do it, I'll know it'll be 'tended
+LINE 252: ter right. Now we're gwine out ter de cotton compress, an' git a lot er
+LINE 253: colored men tergether, an' ef de w'ite folks 'sturbs me, I shouldn't be
+LINE 254: s'prise' ef dere'd be a mix-up;--an' ef dere is, me an _one_ w'ite man
+LINE 255: 'll stan' befo' de jedgment th'one er God dis day; an' it won't be me
+LINE 256: w'at'll be 'feared er de jedgment. Come along, boys! Dese gentlemen may
+LINE 257: have somethin' ter live fer; but ez fer my pa't, I'd ruther be a dead
+LINE 258: nigger any day dan a live dog!"
