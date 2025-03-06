@@ -6,6 +6,7 @@ function ClickMsg() {
 
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
   const [isFrozen, setIsFrozen] = useState(false);
+  const [insideOverlay, setInsideOverlay] = useState(false);
   const buffer = 20;
   useEffect(() => {
     const handleMouseMove = (event: MouseEvent) => {
@@ -13,6 +14,15 @@ function ClickMsg() {
       event.stopPropagation();
 
       const target = event.target as HTMLElement;
+
+      const parent = target.parentElement?.parentElement;
+
+      if (parent && parent.classList.contains("scene-info")) {
+        setInsideOverlay(true);
+      } else {
+        setInsideOverlay(false);
+      }
+
       if (target.classList.contains("frozen")) {
         setIsFrozen(true);
       } else {
@@ -56,7 +66,9 @@ function ClickMsg() {
     <div
       id="click-msg"
       className={
-        sceneHover === "" || !chapterView || !detailView ? "hidden" : ""
+        sceneHover === "" || !chapterView || !detailView || insideOverlay
+          ? "hidden"
+          : ""
       }
       style={{
         left: mousePosition.x + buffer + "px", // Offset slightly from cursor

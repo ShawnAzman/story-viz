@@ -29,6 +29,8 @@ function OverlayHeatmap() {
     detailView,
     chapterView,
     setDetailView,
+    verboseMode,
+    setVerboseMode,
   } = storyStore();
   const { scenePos } = positionStore();
   const {
@@ -82,6 +84,9 @@ function OverlayHeatmap() {
           }
         }
       }
+    } else {
+      // toggle verbose mode
+      setVerboseMode(!verboseMode);
     }
   };
 

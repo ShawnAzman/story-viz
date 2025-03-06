@@ -140,7 +140,6 @@ function Sidebar() {
                       className="two-col"
                       style={{
                         alignItems: "end",
-                        // gridTemplateColumns: "5fr 3fr",
                       }}
                     >
                       <div>
@@ -267,24 +266,6 @@ function Sidebar() {
                         }
                       />
                     </div>
-                    {/* <i className="annotation">
-                      Font = <span>low</span> -{" "}
-                      <span style={{ fontFamily: med_conflict_font }}>
-                        medium
-                      </span>{" "}
-                      -{" "}
-                      <span
-                        style={{
-                          fontFamily: high_conflict_font,
-                          letterSpacing: 1,
-                          transform: "skewX(-10deg)",
-                          display: "inline-block",
-                        }}
-                      >
-                        high
-                      </span>{" "}
-                      conflict in scene
-                    </i> */}
                     <div className="two-col margin-bottom margin-top">
                       <Select
                         size="xs"
@@ -323,7 +304,6 @@ function Sidebar() {
                         }}
                       />
                     </div>
-                    {/* <div className="two-col margin-bottom"> */}
                     <Select
                       size="xs"
                       label={
@@ -342,16 +322,6 @@ function Sidebar() {
                         if (value) setColorBy(value);
                       }}
                     />
-                    {/* <Select
-                        size="xs"
-                        label="Overlay"
-                        data={overlayOptions}
-                        value={overlay}
-                        onChange={(value) => {
-                          if (value) setOverlay(value);
-                        }}
-                      /> */}
-                    {/* </div> */}
                     <div className="margin-bottom">
                       <Colorbar barType={colorBy} />
                     </div>

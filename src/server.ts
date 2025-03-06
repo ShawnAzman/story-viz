@@ -58,6 +58,15 @@ export async function getNewYAxis(data: any, yaxis_desc: string, type: string) {
   return post(`new_yaxis`, payload);
 }
 
+export async function askLLMQuestion(question: string, info: string) {
+  const payload = {
+    question: question,
+    data: info,
+  };
+
+  return post(`ask_llm`, payload);
+}
+
 export async function checkBackendStatus() {
   return get("status");
 }

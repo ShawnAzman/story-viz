@@ -62,6 +62,9 @@ function ChapterSidebar() {
     const handleKeyDown = (event: KeyboardEvent) => {
       if (!detailView) return; // Only respond if detailView is open
 
+      const target = event.target as HTMLElement;
+      if (target.tagName === "TEXTAREA") return; // Ignore keydown events in textareas
+
       event.stopPropagation();
       event.preventDefault();
 

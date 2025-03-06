@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-from prompts import add_yaxis_data, assign_character_attributes
+from prompts import add_yaxis_data, ask_question, assign_character_attributes
 from helpers import load_model
 import time
 
@@ -51,6 +51,21 @@ def add_new_yaxis():
     print(f"Y-axis added in {end_time - start_time} seconds.")
     print("*" * 50)
     return jsonify({"new_data": new_data})
+
+
+@app.route("/ask_llm", methods=['POST'])
+def ask_llm():
+    payload = request.json
+    question = payload.get('question')
+    print("Question:", question)
+    data = payload.get('data')
+    # print("Data:", data)
+    start_time = time.time()
+    answer = ask_question(llm, data, question)
+    end_time = time.time()
+    print(f"Response generated in {end_time - start_time} seconds.")
+    print("*" * 50)
+    return jsonify({"answer": answer})
 
 
 @app.route("/status", methods=['GET'])

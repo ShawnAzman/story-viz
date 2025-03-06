@@ -248,3 +248,19 @@ async def add_yaxis_data_async(llm, sceneData, y_axis, story_type):
 
 def add_yaxis_data(llm, sceneData, y_axis, story_type):
     return asyncio.run(add_yaxis_data_async(llm, sceneData, y_axis, story_type))
+
+# General Q/A
+
+
+def ask_question(llm, data, question):
+    prompt = f"""
+            Answer this question: "{question}" using only the provided information:
+        
+            {data}
+
+            Keep your answer brief, using 1-2 sentences max.
+            """
+
+    response = llm.invoke(prompt)
+    answer = response.content
+    return answer

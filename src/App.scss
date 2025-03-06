@@ -532,6 +532,7 @@ h1 {
   z-index: 800;
   background: rgb(255, 255, 255, 0.9);
   border: 1px solid #eee;
+  // box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
   transition: 0.3s;
   display: flex;
   flex-direction: column;
@@ -545,6 +546,12 @@ h1 {
       position: absolute;
       top: -1.25rem;
       transition: 0.3s;
+    }
+    &.verbose-on::before {
+      content: "Click to turn off verbose mode!";
+    }
+    &.verbose-off::before {
+      content: "Click to turn on verbose mode!";
     }
   }
 
@@ -580,12 +587,6 @@ h1 {
 
       span {
         font-size: 7.5px;
-        // opacity: 0.7;
-        // font-weight: 300;
-        // top: 0;
-        // position: absolute;
-        // z-index: 9;
-        // top: -1px;
       }
 
       &.mini {
@@ -772,9 +773,6 @@ h1 {
 
         .char-header {
           align-items: baseline;
-          // .char-name {
-          //   max-width: 50%;
-          // }
 
           .emotion-box {
             align-items: baseline;
@@ -782,8 +780,8 @@ h1 {
         }
       }
 
-      .character-info {
-        margin-bottom: 0.35rem;
+      .character-info:not(:last-child) {
+        margin-bottom: 0.4rem;
       }
     }
 
@@ -799,17 +797,21 @@ h1 {
         }
       }
 
+      .char-meta {
+        transition: 0.3s;
+        &.hidden {
+          visibility: hidden;
+          opacity: 0 !important;
+          height: 0;
+        }
+      }
+
       .square {
         width: 0.5rem;
         height: 0.5rem;
         margin-right: 5px;
         display: inline-block;
       }
-
-      // display: flex;
-      // justify-content: space-between;
-      // align-items: center;
-      // gap: 1rem;
 
       .emotion-box {
         display: flex;
@@ -836,6 +838,28 @@ h1 {
       &.fake {
         font-style: italic;
         opacity: 0.7;
+      }
+    }
+
+    .char-importance {
+      font-size: 9px;
+      margin-left: 0.75rem;
+      margin-top: 0.25rem;
+      background: #eee;
+      padding: 0.25rem 0.4rem;
+      transition: 0.3s;
+
+      b {
+        font-weight: 500;
+      }
+
+      &.hidden {
+        visibility: hidden;
+        pointer-events: none;
+        opacity: 0;
+        padding: 0;
+        height: 0;
+        margin: 0;
       }
     }
   }
@@ -926,6 +950,7 @@ h1 {
       }
 
       .scene-info {
+        position: relative;
         transition: 0.3s;
 
         &.filler {
@@ -947,6 +972,7 @@ h1 {
           font-family: "Shantell Sans";
           transition: 0.3s;
           cursor: pointer;
+          width: max-content;
 
           &:hover {
             opacity: 0.7;
@@ -960,6 +986,7 @@ h1 {
           font-size: smaller;
           transition: 0.3s;
           cursor: pointer;
+          width: max-content;
 
           &:hover {
             opacity: 0.7;
@@ -1589,6 +1616,7 @@ h1 {
   width: 670px;
   transition: 0.3s;
   z-index: 99;
+  height: fit-content;
 
   &.hidden {
     width: 0;
@@ -1612,7 +1640,7 @@ h1 {
     }
   }
 
-  button:not(.reset) {
+  button:not(.reset):not(.ask-llm) {
     transition: 0.3s !important;
     background: transparent !important;
     outline: transparent !important;
@@ -1627,6 +1655,20 @@ h1 {
     transform-origin: left bottom;
   }
 
+  .ask-llm {
+    margin-top: 0.25rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+
+    span {
+      font-size: 9px !important;
+
+      &.mantine-Button-section {
+        margin-right: 0.3rem !important;
+      }
+    }
+  }
+
   .buttons {
     display: flex;
     justify-content: space-between;
@@ -1637,6 +1679,7 @@ h1 {
     border: 1px solid #eee;
     border-radius: 0.3rem 0.3rem 0 0;
     height: 1.6rem;
+    // box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
   }
 
   #scene-overlay {
@@ -2152,4 +2195,42 @@ h1 {
 
 div.info-tooltip {
   padding-top: 0.15rem !important;
+}
+
+// MANTINE POPOVER
+.mantine-Popover-dropdown {
+  z-index: 999 !important;
+  padding: 0.5rem 0.75rem !important;
+
+  .ask-llm-textarea {
+    textarea {
+      font-size: x-small;
+    }
+  }
+
+  button {
+    margin-top: 0.25rem;
+
+    span {
+      transition: 0.3s;
+      font-size: 9px !important;
+
+      &.loading {
+        animation: loading 2s infinite;
+      }
+    }
+  }
+
+  .ask-llm-answer {
+    transition: 0.3s;
+
+    &.hidden {
+      visibility: hidden;
+      pointer-events: none;
+      opacity: 0;
+      padding: 0 !important;
+      height: 0;
+      margin: 0 !important;
+    }
+  }
 }

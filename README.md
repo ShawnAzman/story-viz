@@ -110,7 +110,9 @@ analysis_type = "character"
 
 7. at the end of the notebook, _after_ running the final **generating the final json file** section, you should see a `final_data.json` file in the subfolder corresponding to your story in [notebooks/json/](notebooks/json/) (e.g., `notebooks/json/gatsby/final_data.json`).
 
-8. take this `final_data.json` file and copy and paste it into the [src/data/](src/data/) folder. rename the file to `yourstory-new.json` (e.g., "gatsby-new.json"). add `-themes` to the file name if you analyzes the themes in your story (e.g., "gatsby-new-themes.json").
+8. you should also see a corresponding json file in the [src/data/](src/data/) folder. for _character_ analyses, your file will be named `yourstory-new.json` (e.g., "gatsby-new.json") and for _theme_ analyses, your file will be named `yourstory-new-themes.json` (e.g., "gatsby-new-themes.json").
+
+- **if you do not see this file**, take your `final_data.json` file and copy and paste it into the [src/data/](src/data/) folder. rename the file accordingly following the instructions above.
 
 9. in [src/components/Header/PlotOptions.tsx](src/components/Header/PlotOptions.tsx), add your file name to the `storyOptions` list. it should look something like this:
 

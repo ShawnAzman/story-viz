@@ -39,6 +39,8 @@ function MainPlot() {
     setChapterHover,
     setDetailView,
     linkHover,
+    verboseMode,
+    setVerboseMode,
   } = storyStore();
   const {
     sceneBoxes,
@@ -101,6 +103,9 @@ function MainPlot() {
           }
         }
       }
+    } else {
+      // toggle verbose mode
+      setVerboseMode(!verboseMode);
     }
   };
 

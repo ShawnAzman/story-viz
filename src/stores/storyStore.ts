@@ -77,6 +77,8 @@ interface IStore {
   setScrollSource: (val: boolean) => void;
   cumulativeMode: boolean;
   setCumulativeMode: (val: boolean) => void;
+  verboseMode: boolean;
+  setVerboseMode: (val: boolean) => void;
 
   modalOpened: boolean;
   setModalOpened: (val: boolean) => void;
@@ -120,11 +122,12 @@ const initialState = {
   minimized: [],
   showLegend: true,
   cumulativeMode: false,
+  verboseMode: true,
 };
 
 export const storyStore = create<IStore>()((set) => ({
-  story: "gatsby",
-  chapterView: false,
+  story: "gatsby-new",
+  chapterView: true,
   themeView: false,
   fullHeight: false,
   yAxisHeight: 0,
@@ -183,6 +186,7 @@ export const storyStore = create<IStore>()((set) => ({
   setCurScrollScene: (val: string) => set({ curScrollScene: val }),
   setScrollSource: (val: boolean) => set({ scrollSource: val }),
   setCumulativeMode: (val: boolean) => set({ cumulativeMode: val }),
+  setVerboseMode: (val: boolean) => set({ verboseMode: val }),
   setModalOpened: (val: boolean) => set({ modalOpened: val }),
   setAboutModalOpened: (val: boolean) => set({ aboutModalOpened: val }),
   setModalLoading: (val: boolean) => set({ modalLoading: val }),

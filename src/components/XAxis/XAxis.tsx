@@ -58,6 +58,8 @@ function XAxis() {
     setDetailView,
     characterColor,
     linkHover,
+    verboseMode,
+    setVerboseMode,
   } = storyStore();
 
   const { scenePos } = positionStore();
@@ -123,6 +125,9 @@ function XAxis() {
           }
         }
       }
+    } else {
+      // toggle verbose mode
+      setVerboseMode(!verboseMode);
     }
   };
 

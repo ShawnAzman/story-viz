@@ -9,7 +9,7 @@ import {
   SceneSummary,
   ChapterDivision,
 } from "../utils/data";
-import init_data from "../data/gatsby.json";
+import init_data from "../data/gatsby-new.json";
 import { CustomColorDict, defaultCharacterColors } from "../utils/colors";
 import { defaultYAxisOptions } from "../utils/consts";
 import localforage from "localforage";

@@ -1,5 +1,5 @@
 from helpers import load_model
-from prompts import add_yaxis_data, assign_character_attributes
+from prompts import add_yaxis_data, ask_question, assign_character_attributes
 import json
 
 # start main method
@@ -10,7 +10,7 @@ def main():
     llm = load_model()
 
     # story
-    story = "gatsby"
+    story = "gatsby-new"
     print(f"Running prompts for {story}...\n")
 
     # load data
@@ -32,10 +32,13 @@ def main():
     # convert charData to JSON string
     charData = json.dumps(charData)
 
+    # convert first scene to JSON string
+    firstScene = sceneData[0]["text"]
+
     # convert sceneData to JSON string
     sceneData = json.dumps(sceneData)
 
-    # test assinging character attributes + colors
+    # TEST ONE: test assinging character attributes + colors
     # char_attrs, color_assignments = assign_character_attributes(
     #     llm, charData, color, "character")
 
@@ -44,11 +47,17 @@ def main():
     # print("\nColor assignments:")
     # print(color_assignments)
 
-    # test adding y-axis data
-    new_data = add_yaxis_data(llm, sceneData, y_axis, "character")
+    # TEST TWO: test adding y-axis data
+    # new_data = add_yaxis_data(llm, sceneData, y_axis, "character")
 
-    print("New data:")
-    print(new_data)
+    # print("New data:")
+    # print(new_data)
+
+    # TEST THREE: test asking question
+    question = "Why is Nick the most important character in this scene?"
+    answer = ask_question(llm, firstScene, question)
+    print(f"Question: {question}")
+    print(f"Answer: {answer}")
 
 
 if __name__ == "__main__":

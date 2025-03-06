@@ -62,11 +62,11 @@ export interface Character {
   name: string;
   importance: number;
   importance_rank: number;
+  importance_exp?: string;
   emotion: string;
   quote: string;
   fake_quote?: string;
   rating: number;
-  role: string;
   numScenes?: number;
   top_scene?: number;
   [key: string]: any; // additional fields that could be added by user
@@ -250,7 +250,6 @@ const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
         ? character.sentiment
         : 0;
       all_sentiments.push(character.rating);
-      character.role = character.role ? character.role : "";
       const og_quote = character.quote;
       character.quote = starts_or_ends_with_quote(og_quote)
         ? og_quote

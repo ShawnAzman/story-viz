@@ -6,7 +6,7 @@ import {
   SceneCharacter,
   CharacterData,
 } from "../utils/data";
-import init_data from "../data/gatsby.json";
+import init_data from "../data/gatsby-new.json";
 import { Box, Position, getAllPositions } from "../utils/positions";
 
 /* INITIAL VALUES */

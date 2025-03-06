@@ -13,6 +13,7 @@ import {
 } from "../../utils/colors";
 import chroma from "chroma-js";
 import InfoTooltip from "../Misc/InfoTooltip";
+import AskLLM from "../Modals/AskLLM";
 
 function ChapterText() {
   const [chapterText, setChapterText] = useState([] as string[]);
@@ -33,6 +34,8 @@ function ChapterText() {
     setCharacterHover,
     setLocationHover,
     setSceneHover,
+    verboseMode,
+    setVerboseMode,
   } = storyStore();
   const {
     chapter_data,
@@ -333,6 +336,12 @@ function ChapterText() {
                   className="scene-name"
                   onMouseEnter={() => setSceneHover(scene.name)}
                   onMouseLeave={() => setSceneHover("")}
+                  onClick={() => {
+                    if (!chapterView) {
+                      // toggle verbose mode
+                      setVerboseMode(!verboseMode);
+                    }
+                  }}
                 >
                   {chapterView ? "" : `Scene ${scene.number}: `}
                   {chapterView && scene.name.length > 60
@@ -402,6 +411,8 @@ function ChapterText() {
                     </p>
                   );
                 })}
+
+              <AskLLM key={scene.name} sceneName={scene.name} />
             </div>
           </div>
         );

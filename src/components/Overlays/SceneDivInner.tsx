@@ -50,6 +50,7 @@ function SceneDivInner(props: any) {
     cumulativeMode,
     setCumulativeMode,
     yAxis,
+    verboseMode,
   } = storyStore();
 
   let scene;
@@ -423,6 +424,24 @@ function SceneDivInner(props: any) {
                 const sent_color = chroma(emotionColor(rating)).css();
                 const imp_color = chroma(importanceColor(importance)).css();
 
+                const backgroundColor =
+                  characterColor === "llm"
+                    ? llmColor
+                    : characterColor === "group"
+                    ? groupColor
+                    : characterColor === "sentiment"
+                    ? sent_color
+                    : characterColor === "importance"
+                    ? imp_color
+                    : Object.keys(customColorDict).includes(characterColor)
+                    ? getCustomColor(
+                        customColorDict[characterColor],
+                        character_data,
+                        char.character,
+                        characterColor
+                      )
+                    : charColor;
+
                 // const top_scene = character.top_scene;
                 return (
                   <div
@@ -434,61 +453,31 @@ function SceneDivInner(props: any) {
                         <div
                           className="square"
                           style={{
-                            backgroundColor:
-                              characterColor === "llm"
-                                ? llmColor
-                                : characterColor === "group"
-                                ? groupColor
-                                : characterColor === "sentiment"
-                                ? sent_color
-                                : characterColor === "importance"
-                                ? imp_color
-                                : Object.keys(customColorDict).includes(
-                                    characterColor
-                                  )
-                                ? getCustomColor(
-                                    customColorDict[characterColor],
-                                    character_data,
-                                    char.character,
-                                    characterColor
-                                  )
-                                : charColor,
+                            backgroundColor: backgroundColor,
                           }}
                         />
                         <div>
                           {char.character}{" "}
                           <span
+                            className={
+                              (verboseMode ? "" : "hidden") + " char-meta"
+                            }
                             style={{
                               fontWeight: 400,
                               opacity: 0.7,
                               fontFamily: "var(--mantine-font-family)",
                             }}
                           >
-                            (importance: {character.importance_rank}
-                            {customYAxisOptions.includes(yAxis) &&
-                              `, ${yAxis}: ${character[yAxis]}`}
-                            {character.numScenes
-                              ? ", scenes: " + character.numScenes
-                              : ""}
+                            (
+                            {customYAxisOptions.includes(yAxis)
+                              ? `${yAxis}: ${character[yAxis]}`
+                              : `importance: ${character.importance_rank}`}
                             )
                           </span>
                         </div>
                       </b>
                       <div className="emotion-box">
-                        <b>
-                          {emotion}
-                          {/* {" "} */}
-                          {/* {rating < -0.2 ? "🙁" : rating > 0.2 ? "🙂" : "😐"} */}
-                        </b>
-                        {/* <div
-                          className="emotion-color"
-                          style={{
-                            backgroundColor: chroma(emotionColor(rating)).css(),
-                            color: textColor(rating, true),
-                          }}
-                        >
-                          {rating.toFixed(2)}
-                        </div> */}
+                        <b>{emotion}</b>
                         <div className="rating-outer">
                           <div className={"rating-colorbar mini"}>
                             <span className="min">{-1}</span>
@@ -497,9 +486,6 @@ function SceneDivInner(props: any) {
                                 className="tip"
                                 style={{ left: `${rating_val_norm * 100}%` }}
                               />
-                              {/* <span className="rating">
-                                {rating.toFixed(2)}
-                              </span> */}
                             </div>
                             <span className="max">{1}</span>
                           </div>
@@ -514,8 +500,20 @@ function SceneDivInner(props: any) {
                       {character.fake_quote
                         ? "💭 " + character.fake_quote
                         : character.quote}
-                      {/* {chapterView && top_scene && " (Scene " + top_scene + ")"} */}
                     </div>
+                    {character.importance_rank === 1 &&
+                      character.importance_exp && (
+                        <div
+                          className={
+                            "char-importance " + (!verboseMode ? "hidden" : "")
+                          }
+                        >
+                          <span>
+                            <b>⭐ Most important because: </b>
+                            {character.importance_exp}
+                          </span>
+                        </div>
+                      )}
                   </div>
                 );
               })

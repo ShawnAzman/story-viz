@@ -9,7 +9,7 @@ import SceneDivInner from "./SceneDivInner";
 
 function SceneDiv() {
   const { scene_data } = dataStore();
-  const { sceneHover, chapterView, detailView } = storyStore();
+  const { sceneHover, chapterView, detailView, verboseMode } = storyStore();
 
   const scene = scene_data.find((scene) => scene.name === sceneHover);
 
@@ -64,14 +64,18 @@ function SceneDiv() {
       className={
         sceneHover === "" || (chapterView && detailView)
           ? "hidden"
-          : "" +
+          : "show-msg" +
             (scene &&
             scene.characters &&
             scene.characters.length > 8 &&
             !chapterView
               ? " wide"
               : "") +
-            (!detailView && chapterView ? " show-msg" : "")
+            (!verboseMode && !chapterView
+              ? " verbose-off"
+              : !chapterView
+              ? " verbose-on"
+              : "")
       }
       style={{
         left: mousePosition.x + buffer + "px", // Offset slightly from cursor
