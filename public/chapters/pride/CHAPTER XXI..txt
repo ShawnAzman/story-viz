@@ -1,174 +1,178 @@
-LINE 1: The discussion of Mr. Collins's offer was now nearly at an end, and
-LINE 2: Elizabeth had only to suffer from the uncomfortable feelings necessarily
-LINE 3: attending it, and occasionally from some peevish allusion of her mother.
-LINE 4: As for the gentleman himself, _his_ feelings were chiefly expressed, not
-LINE 5: by embarrassment or dejection, or by trying to avoid her, but by
-LINE 6: stiffness of manner and resentful silence. He scarcely ever spoke to
-LINE 7: her, and the assiduous attentions which he had been so sensible of
-LINE 8: himself, were transferred for the rest of the day to Miss Lucas, whose
-LINE 9: civility in listening to him, was a seasonable relief to them all, and
-LINE 10: especially to her friend.
-LINE 11: The morrow produced no abatement of Mrs. Bennet's ill humour or ill
-LINE 12: health. Mr. Collins was also in the same state of angry pride. Elizabeth
-LINE 13: had hoped that his resentment might shorten his visit, but his plan did
-LINE 14: not appear in the least affected by it. He was always to have gone on
-LINE 15: Saturday, and to Saturday he still meant to stay.
-LINE 16: After breakfast, the girls walked to Meryton to inquire if Mr. Wickham
-LINE 17: were returned, and to lament over his absence from the Netherfield ball.
-LINE 18: He joined them on their entering the town and attended them to their
-LINE 19: aunt's, where his regret and vexation, and the concern of every body was
-LINE 20: well talked over.--To Elizabeth, however, he voluntarily acknowledged
-LINE 21: that the necessity of his absence _had_ been self imposed.
-LINE 22: "I found," said he, "as the time drew near, that I had better not meet
-LINE 23: Mr. Darcy;--that to be in the same room, the same party with him for so
-LINE 24: many hours together, might be more than I could bear, and that scenes
-LINE 25: might arise unpleasant to more than myself."
-LINE 26: She highly approved his forbearance, and they had leisure for a full
-LINE 27: discussion of it, and for all the commendation which they civilly
-LINE 28: bestowed on each other, as Wickham and another officer walked back with
-LINE 29: them to Longbourn, and during the walk, he particularly attended to her.
-LINE 30: His accompanying them was a double advantage; she felt all the
-LINE 31: compliment it offered to herself, and it was most acceptable as an
-LINE 32: occasion of introducing him to her father and mother.
-LINE 33: Soon after their return, a letter was delivered to Miss Bennet; it came
-LINE 34: from Netherfield, and was opened immediately. The envelope contained a
-LINE 35: sheet of elegant, little, hot pressed paper, well covered with a lady's
-LINE 36: fair, flowing hand; and Elizabeth saw her sister's countenance change as
-LINE 37: she read it, and saw her dwelling intently on some particular passages.
-LINE 38: Jane recollected herself soon, and putting the letter away, tried to
-LINE 39: join with her usual cheerfulness in the general conversation; but
-LINE 40: Elizabeth felt an anxiety on the subject which drew off her attention
-LINE 41: even from Wickham; and no sooner had he and his companion taken leave,
-LINE 42: than a glance from Jane invited her to follow her up stairs. When they
-LINE 43: had gained their own room, Jane taking out the letter, said,
-LINE 44: "This is from Caroline Bingley; what it contains, has surprised me a
-LINE 45: good deal. The whole party have left Netherfield by this time, and are
-LINE 46: on their way to town; and without any intention of coming back again.
-LINE 47: You shall hear what she says."
-LINE 48: She then read the first sentence aloud, which comprised the information
-LINE 49: of their having just resolved to follow their brother to town directly,
-LINE 50: and of their meaning to dine that day in Grosvenor street, where Mr.
-LINE 51: Hurst had a house. The next was in these words. "I do not pretend to
-LINE 52: regret any thing I shall leave in Hertfordshire, except your society, my
-LINE 53: dearest friend; but we will hope at some future period, to enjoy many
-LINE 54: returns of the delightful intercourse we have known, and in the mean
-LINE 55: while may lessen the pain of separation by a very frequent and most
-LINE 56: unreserved correspondence. I depend on you for that." To these high
-LINE 57: flown expressions, Elizabeth listened with all the insensibility of
-LINE 58: distrust; and though the suddenness of their removal surprised her, she
-LINE 59: saw nothing in it really to lament; it was not to be supposed that their
-LINE 60: absence from Netherfield would prevent Mr. Bingley's being there; and as
-LINE 61: to the loss of their society, she was persuaded that Jane must soon
-LINE 62: cease to regard it, in the enjoyment of his.
-LINE 63: "It is unlucky," said she, after a short pause, "that you should not be
-LINE 64: able to see your friends before they leave the country. But may we not
-LINE 65: hope that the period of future happiness to which Miss Bingley looks
-LINE 66: forward, may arrive earlier than she is aware, and that the delightful
-LINE 67: intercourse you have known as friends, will be renewed with yet greater
-LINE 68: satisfaction as sisters?--Mr. Bingley will not be detained in London by
-LINE 69: them."
-LINE 70: "Caroline decidedly says that none of the party will return into
-LINE 71: Hertfordshire this winter. I will read it to you--
-LINE 72: "When my brother left us yesterday, he imagined that the business which
-LINE 73: took him to London, might be concluded in three or four days, but as we
-LINE 74: are certain it cannot be so, and at the same time convinced that when
-LINE 75: Charles gets to town, he will be in no hurry to leave it again, we have
-LINE 76: determined on following him thither, that he may not be obliged to spend
-LINE 77: his vacant hours in a comfortless hotel. Many of my acquaintance are
-LINE 78: already there for the winter; I wish I could hear that you, my dearest
-LINE 79: friend, had any intention of making one in the croud, but of that I
-LINE 80: despair. I sincerely hope your Christmas in Hertfordshire may abound in
-LINE 81: the gaieties which that season generally brings, and that your beaux
-LINE 82: will be so numerous as to prevent your feeling the loss of the three, of
-LINE 83: whom we shall deprive you."
-LINE 84: "It is evident by this," added Jane, "that he comes back no more this
-LINE 85: winter."
-LINE 86: "It is only evident that Miss Bingley does not mean he _should_."
-LINE 87: "Why will you think so? It must be his own doing.--He is his own master.
-LINE 88: But you do not know _all_. I _will_ read you the passage which
-LINE 89: particularly hurts me. I will have no reserves from _you_." "Mr. Darcy
-LINE 90: is impatient to see his sister, and to confess the truth, _we_ are
-LINE 91: scarcely less eager to meet her again. I really do not think Georgiana
-LINE 92: Darcy has her equal for beauty, elegance, and accomplishments; and the
-LINE 93: affection she inspires in Louisa and myself, is heightened into
-LINE 94: something still more interesting, from the hope we dare to entertain of
-LINE 95: her being hereafter our sister. I do not know whether I ever before
-LINE 96: mentioned to you my feelings on this subject, but I will not leave the
-LINE 97: country without confiding them, and I trust you will not esteem them
-LINE 98: unreasonable. My brother admires her greatly already, he will have
-LINE 99: frequent opportunity now of seeing her on the most intimate footing, her
-LINE 100: relations all wish the connection as much as his own, and a sister's
-LINE 101: partiality is not misleading me, I think, when I call Charles most
-LINE 102: capable of engaging any woman's heart. With all these circumstances to
-LINE 103: favour an attachment and nothing to prevent it, am I wrong, my dearest
-LINE 104: Jane, in indulging the hope of an event which will secure the happiness
-LINE 105: of so many?"
-LINE 106: "What think you of _this_ sentence, my dear Lizzy?"--said Jane as she
-LINE 107: finished it. "Is it not clear enough?--Does it not expressly declare
-LINE 108: that Caroline neither expects nor wishes me to be her sister; that she
-LINE 109: is perfectly convinced of her brother's indifference, and that if she
-LINE 110: suspects the nature of my feelings for him, she means (most kindly!) to
-LINE 111: put me on my guard? Can there be any other opinion on the subject?"
-LINE 112: "Yes, there can; for mine is totally different.--Will you hear it?"
-LINE 113: "Most willingly."
-LINE 114: "You shall have it in few words. Miss Bingley sees that her brother is
-LINE 115: in love with you, and wants him to marry Miss Darcy. She follows him to
-LINE 116: town in the hope of keeping him there, and tries to persuade you that he
-LINE 117: does not care about you."
-LINE 118: Jane shook her head.
-LINE 119: "Indeed, Jane, you ought to believe me.--No one who has ever seen you
-LINE 120: together, can doubt his affection. Miss Bingley I am sure cannot. She is
-LINE 121: not such a simpleton. Could she have seen half as much love in Mr. Darcy
-LINE 122: for herself, she would have ordered her wedding clothes. But the case is
-LINE 123: this. We are not rich enough, or grand enough for them; and she is the
-LINE 124: more anxious to get Miss Darcy for her brother, from the notion that
-LINE 125: when there has been _one_ intermarriage, she may have less trouble in
-LINE 126: achieving a second; in which there is certainly some ingenuity, and I
-LINE 127: dare say it would succeed, if Miss de Bourgh were out of the way. But,
-LINE 128: my dearest Jane, you cannot seriously imagine that because Miss Bingley
-LINE 129: tells you her brother greatly admires Miss Darcy, he is in the smallest
-LINE 130: degree less sensible of _your_ merit than when he took leave of you on
-LINE 131: Tuesday, or that it will be in her power to persuade him that instead of
-LINE 132: being in love with you, he is very much in love with her friend."
-LINE 133: "If we thought alike of Miss Bingley," replied Jane, "your
-LINE 134: representation of all this, might make me quite easy. But I know the
-LINE 135: foundation is unjust. Caroline is incapable of wilfully deceiving any
-LINE 136: one; and all that I can hope in this case is, that she is deceived
-LINE 137: herself."
-LINE 138: "That is right.--You could not have started a more happy idea, since you
-LINE 139: will not take comfort in mine. Believe her to be deceived by all means.
-LINE 140: You have now done your duty by her, and must fret no longer."
-LINE 141: "But, my dear sister, can I be happy, even supposing the best, in
-LINE 142: accepting a man whose sisters and friends are all wishing him to marry
-LINE 143: elsewhere?"
-LINE 144: "You must decide for yourself," said Elizabeth, "and if upon mature
-LINE 145: deliberation, you find that the misery of disobliging his two sisters is
-LINE 146: more than equivalent to the happiness of being his wife, I advise you by
-LINE 147: all means to refuse him."
-LINE 148: "How can you talk so?"--said Jane faintly smiling,--"You must know that
-LINE 149: though I should be exceedingly grieved at their disapprobation, I could
-LINE 150: not hesitate."
-LINE 151: "I did not think you would;--and that being the case, I cannot consider
-LINE 152: your situation with much compassion."
-LINE 153: "But if he returns no more this winter, my choice will never be
-LINE 154: required. A thousand things may arise in six months!"
-LINE 155: The idea of his returning no more Elizabeth treated with the utmost
-LINE 156: contempt. It appeared to her merely the suggestion of Caroline's
-LINE 157: interested wishes, and she could not for a moment suppose that those
-LINE 158: wishes, however openly or artfully spoken, could influence a young man
-LINE 159: so totally independent of every one.
-LINE 160: She represented to her sister as forcibly as possible what she felt on
-LINE 161: the subject, and had soon the pleasure of seeing its happy effect.
-LINE 162: Jane's temper was not desponding, and she was gradually led to hope,
-LINE 163: though the diffidence of affection sometimes overcame the hope, that
-LINE 164: Bingley would return to Netherfield and answer every wish of her heart.
-LINE 165: They agreed that Mrs. Bennet should only hear of the departure of the
-LINE 166: family, without being alarmed on the score of the gentleman's conduct;
-LINE 167: but even this partial communication gave her a great deal of concern,
-LINE 168: and she bewailed it as exceedingly unlucky that the ladies should happen
-LINE 169: to go away, just as they were all getting so intimate together. After
-LINE 170: lamenting it however at some length, she had the consolation of thinking
-LINE 171: that Mr. Bingley would be soon down again and soon dining at Longbourn,
-LINE 172: and the conclusion of all was the comfortable declaration that, though
-LINE 173: he had been invited only to a family dinner, she would take care to have
-LINE 174: two full courses.
+LINE 1: [Illustration]
+LINE 2: The discussion of Mr. Collins's offer was now nearly at an end, and
+LINE 3: Elizabeth had only to suffer from the uncomfortable feelings necessarily
+LINE 4: attending it, and occasionally from some peevish allusion of her mother.
+LINE 5: As for the gentleman himself, _his_ feelings were chiefly expressed, not
+LINE 6: by embarrassment or dejection, or by trying to avoid her, but by
+LINE 7: stiffness of manner and resentful silence. He scarcely ever spoke to
+LINE 8: her; and the assiduous attentions which he had been so sensible of
+LINE 9: himself were transferred for the rest of the day to Miss Lucas, whose
+LINE 10: civility in listening to him was a seasonable relief to them all, and
+LINE 11: especially to her friend.
+LINE 12: The morrow produced no abatement of Mrs. Bennet's ill humour or ill
+LINE 13: health. Mr. Collins was also in the same state of angry pride. Elizabeth
+LINE 14: had hoped that his resentment might shorten his visit, but his plan did
+LINE 15: not appear in the least affected by it. He was always to have gone on
+LINE 16: Saturday, and to Saturday he still meant to stay.
+LINE 17: After breakfast, the girls walked to Meryton, to inquire if Mr. Wickham
+LINE 18: were returned, and to lament over his absence from the Netherfield ball.
+LINE 19: He joined them on their entering the town, and attended them to their
+LINE 20: aunt's, where his regret and vexation and the concern of everybody were
+LINE 21: well talked over. To Elizabeth, however, he voluntarily acknowledged
+LINE 22: that the necessity of his absence _had_ been self-imposed.
+LINE 23: "I found," said he, "as the time drew near, that I had better not meet
+LINE 24: Mr. Darcy;--that to be in the same room, the same party with him for so
+LINE 25: many hours together, might be more than I could bear, and that scenes
+LINE 26: might arise unpleasant to more than myself."
+LINE 27: She highly approved his forbearance; and they had leisure for a full
+LINE 28: discussion of it, and for all the commendations which they civilly
+LINE 29: bestowed on each other, as Wickham and another officer walked back with
+LINE 30: them to Longbourn, and during the walk he particularly attended to her.
+LINE 31: His accompanying them was a double advantage: she felt all the
+LINE 32: compliment it offered to herself; and it was most acceptable as an
+LINE 33: occasion of introducing him to her father and mother.
+LINE 34: [Illustration: "Walked back with them"
+LINE 35: [_Copyright 1894 by George Allen._]]
+LINE 36: Soon after their return, a letter was delivered to Miss Bennet; it came
+LINE 37: from Netherfield, and was opened immediately. The envelope contained a
+LINE 38: sheet of elegant, little, hot-pressed paper, well covered with a lady's
+LINE 39: fair, flowing hand; and Elizabeth saw her sister's countenance change as
+LINE 40: she read it, and saw her dwelling intently on some particular passages.
+LINE 41: Jane recollected herself soon; and putting the letter away, tried to
+LINE 42: join, with her usual cheerfulness, in the general conversation: but
+LINE 43: Elizabeth felt an anxiety on the subject which drew off her attention
+LINE 44: even from Wickham; and no sooner had he and his companion taken leave,
+LINE 45: than a glance from Jane invited her to follow her upstairs. When they
+LINE 46: had gained their own room, Jane, taking out her letter, said, "This is
+LINE 47: from Caroline Bingley: what it contains has surprised me a good deal.
+LINE 48: The whole party have left Netherfield by this time, and are on their way
+LINE 49: to town; and without any intention of coming back again. You shall hear
+LINE 50: what she says."
+LINE 51: She then read the first sentence aloud, which comprised the information
+LINE 52: of their having just resolved to follow their brother to town directly,
+LINE 53: and of their meaning to dine that day in Grosvenor Street, where Mr.
+LINE 54: Hurst had a house. The next was in these words:--"'I do not pretend to
+LINE 55: regret anything I shall leave in Hertfordshire except your society, my
+LINE 56: dearest friend; but we will hope, at some future period, to enjoy many
+LINE 57: returns of that delightful intercourse we have known, and in the
+LINE 58: meanwhile may lessen the pain of separation by a very frequent and most
+LINE 59: unreserved correspondence. I depend on you for that.'" To these
+LINE 60: high-flown expressions Elizabeth listened with all the insensibility of
+LINE 61: distrust; and though the suddenness of their removal surprised her, she
+LINE 62: saw nothing in it really to lament: it was not to be supposed that their
+LINE 63: absence from Netherfield would prevent Mr. Bingley's being there; and as
+LINE 64: to the loss of their society, she was persuaded that Jane must soon
+LINE 65: cease to regard it in the enjoyment of his.
+LINE 66: "It is unlucky," said she, after a short pause, "that you should not be
+LINE 67: able to see your friends before they leave the country. But may we not
+LINE 68: hope that the period of future happiness, to which Miss Bingley looks
+LINE 69: forward, may arrive earlier than she is aware, and that the delightful
+LINE 70: intercourse you have known as friends will be renewed with yet greater
+LINE 71: satisfaction as sisters? Mr. Bingley will not be detained in London by
+LINE 72: them."
+LINE 73: "Caroline decidedly says that none of the party will return into
+LINE 74: Hertfordshire this winter. I will read it to you.
+LINE 75: "'When my brother left us yesterday, he imagined that the business which
+LINE 76: took him to London might be concluded in three or four days; but as we
+LINE 77: are certain it cannot be so, and at the same time convinced that when
+LINE 78: Charles gets to town he will be in no hurry to leave it again, we have
+LINE 79: determined on following him thither, that he may not be obliged to spend
+LINE 80: his vacant hours in a comfortless hotel. Many of my acquaintance are
+LINE 81: already there for the winter: I wish I could hear that you, my dearest
+LINE 82: friend, had any intention of making one in the crowd, but of that I
+LINE 83: despair. I sincerely hope your Christmas in Hertfordshire may abound in
+LINE 84: the gaieties which that season generally brings, and that your beaux
+LINE 85: will be so numerous as to prevent your feeling the loss of the three of
+LINE 86: whom we shall deprive you.'
+LINE 87: "It is evident by this," added Jane, "that he comes back no more this
+LINE 88: winter."
+LINE 89: "It is only evident that Miss Bingley does not mean he _should_."
+LINE 90: "Why will you think so? It must be his own doing; he is his own master.
+LINE 91: But you do not know _all_. I _will_ read you the passage which
+LINE 92: particularly hurts me. I will have no reserves from _you_. 'Mr. Darcy is
+LINE 93: impatient to see his sister; and to confess the truth, _we_ are scarcely
+LINE 94: less eager to meet her again. I really do not think Georgiana Darcy has
+LINE 95: her equal for beauty, elegance, and accomplishments; and the affection
+LINE 96: she inspires in Louisa and myself is heightened into something still
+LINE 97: more interesting from the hope we dare to entertain of her being
+LINE 98: hereafter our sister. I do not know whether I ever before mentioned to
+LINE 99: you my feelings on this subject, but I will not leave the country
+LINE 100: without confiding them, and I trust you will not esteem them
+LINE 101: unreasonable. My brother admires her greatly already; he will have
+LINE 102: frequent opportunity now of seeing her on the most intimate footing; her
+LINE 103: relations all wish the connection as much as his own; and a sister's
+LINE 104: partiality is not misleading me, I think, when I call Charles most
+LINE 105: capable of engaging any woman's heart. With all these circumstances to
+LINE 106: favour an attachment, and nothing to prevent it, am I wrong, my dearest
+LINE 107: Jane, in indulging the hope of an event which will secure the happiness
+LINE 108: of so many?' What think you of _this_ sentence, my dear Lizzy?" said
+LINE 109: Jane, as she finished it. "Is it not clear enough? Does it not expressly
+LINE 110: declare that Caroline neither expects nor wishes me to be her sister;
+LINE 111: that she is perfectly convinced of her brother's indifference; and that
+LINE 112: if she suspects the nature of my feelings for him she means (most
+LINE 113: kindly!) to put me on my guard. Can there be any other opinion on the
+LINE 114: subject?"
+LINE 115: "Yes, there can; for mine is totally different. Will you hear it?"
+LINE 116: "Most willingly."
+LINE 117: "You shall have it in a few words. Miss Bingley sees that her brother is
+LINE 118: in love with you and wants him to marry Miss Darcy. She follows him to
+LINE 119: town in the hope of keeping him there, and tries to persuade you that he
+LINE 120: does not care about you."
+LINE 121: Jane shook her head.
+LINE 122: "Indeed, Jane, you ought to believe me. No one who has ever seen you
+LINE 123: together can doubt his affection; Miss Bingley, I am sure, cannot: she
+LINE 124: is not such a simpleton. Could she have seen half as much love in Mr.
+LINE 125: Darcy for herself, she would have ordered her wedding clothes. But the
+LINE 126: case is this:--we are not rich enough or grand enough for them; and she
+LINE 127: is the more anxious to get Miss Darcy for her brother, from the notion
+LINE 128: that when there has been _one_ inter-marriage, she may have less trouble
+LINE 129: in achieving a second; in which there is certainly some ingenuity, and I
+LINE 130: dare say it would succeed if Miss de Bourgh were out of the way. But, my
+LINE 131: dearest Jane, you cannot seriously imagine that, because Miss Bingley
+LINE 132: tells you her brother greatly admires Miss Darcy, he is in the smallest
+LINE 133: degree less sensible of _your_ merit than when he took leave of you on
+LINE 134: Tuesday; or that it will be in her power to persuade him that, instead
+LINE 135: of being in love with you, he is very much in love with her friend."
+LINE 136: "If we thought alike of Miss Bingley," replied Jane, "your
+LINE 137: representation of all this might make me quite easy. But I know the
+LINE 138: foundation is unjust. Caroline is incapable of wilfully deceiving
+LINE 139: anyone; and all that I can hope in this case is, that she is deceived
+LINE 140: herself."
+LINE 141: "That is right. You could not have started a more happy idea, since you
+LINE 142: will not take comfort in mine: believe her to be deceived, by all means.
+LINE 143: You have now done your duty by her, and must fret no longer."
+LINE 144: "But, my dear sister, can I be happy, even supposing the best, in
+LINE 145: accepting a man whose sisters and friends are all wishing him to marry
+LINE 146: elsewhere?"
+LINE 147: "You must decide for yourself," said Elizabeth; "and if, upon mature
+LINE 148: deliberation, you find that the misery of disobliging his two sisters is
+LINE 149: more than equivalent to the happiness of being his wife, I advise you,
+LINE 150: by all means, to refuse him."
+LINE 151: "How can you talk so?" said Jane, faintly smiling; "you must know, that,
+LINE 152: though I should be exceedingly grieved at their disapprobation, I could
+LINE 153: not hesitate."
+LINE 154: "I did not think you would; and that being the case, I cannot consider
+LINE 155: your situation with much compassion."
+LINE 156: "But if he returns no more this winter, my choice will never be
+LINE 157: required. A thousand things may arise in six months."
+LINE 158: The idea of his returning no more Elizabeth treated with the utmost
+LINE 159: contempt. It appeared to her merely the suggestion of Caroline's
+LINE 160: interested wishes; and she could not for a moment suppose that those
+LINE 161: wishes, however openly or artfully spoken, could influence a young man
+LINE 162: so totally independent of everyone.
+LINE 163: She represented to her sister, as forcibly as possible, what she felt on
+LINE 164: the subject, and had soon the pleasure of seeing its happy effect.
+LINE 165: Jane's temper was not desponding; and she was gradually led to hope,
+LINE 166: though the diffidence of affection sometimes overcame the hope, that
+LINE 167: Bingley would return to Netherfield, and answer every wish of her heart.
+LINE 168: They agreed that Mrs. Bennet should only hear of the departure of the
+LINE 169: family, without being alarmed on the score of the gentleman's conduct;
+LINE 170: but even this partial communication gave her a great deal of concern,
+LINE 171: and she bewailed it as exceedingly unlucky that the ladies should happen
+LINE 172: to go away just as they were all getting so intimate together. After
+LINE 173: lamenting it, however, at some length, she had the consolation of
+LINE 174: thinking that Mr. Bingley would be soon down again, and soon dining at
+LINE 175: Longbourn; and the conclusion of all was the comfortable declaration,
+LINE 176: that, though he had been invited only to a family dinner, she would take
+LINE 177: care to have two full courses.
+LINE 178: [Illustration]

@@ -1,0 +1,134 @@
+LINE 1: [Illustration]
+LINE 2: Every object in the next day's journey was new and interesting to
+LINE 3: Elizabeth; and her spirits were in a state of enjoyment; for she had
+LINE 4: seen her sister looking so well as to banish all fear for her health,
+LINE 5: and the prospect of her northern tour was a constant source of delight.
+LINE 6: When they left the high road for the lane to Hunsford, every eye was in
+LINE 7: search of the Parsonage, and every turning expected to bring it in view.
+LINE 8: The paling of Rosings park was their boundary on one side. Elizabeth
+LINE 9: smiled at the recollection of all that she had heard of its inhabitants.
+LINE 10: At length the Parsonage was discernible. The garden sloping to the
+LINE 11: road, the house standing in it, the green pales and the laurel hedge,
+LINE 12: everything declared they were arriving. Mr. Collins and Charlotte
+LINE 13: appeared at the door, and the carriage stopped at the small gate, which
+LINE 14: led by a short gravel walk to the house, amidst the nods and smiles of
+LINE 15: the whole party. In a moment they were all out of the chaise, rejoicing
+LINE 16: at the sight of each other. Mrs. Collins welcomed her friend with the
+LINE 17: liveliest pleasure, and Elizabeth was more and more satisfied with
+LINE 18: coming, when she found herself so affectionately received. She saw
+LINE 19: instantly that her cousin's manners were not altered by his marriage:
+LINE 20: his formal civility was just what it had been; and he detained her some
+LINE 21: minutes at the gate to hear and satisfy his inquiries after all her
+LINE 22: family. They were then, with no other delay than his pointing out the
+LINE 23: neatness of the entrance, taken into the house; and as soon as they were
+LINE 24: in the parlour, he welcomed them a second time, with ostentatious
+LINE 25: formality, to his humble abode, and punctually repeated all his wife's
+LINE 26: offers of refreshment.
+LINE 27: Elizabeth was prepared to see him in his glory; and she could not help
+LINE 28: fancying that in displaying the good proportion of the room, its aspect,
+LINE 29: and its furniture, he addressed himself particularly to her, as if
+LINE 30: wishing to make her feel what she had lost in refusing him. But though
+LINE 31: everything seemed neat and comfortable, she was not able to gratify him
+LINE 32: by any sigh of repentance; and rather looked with wonder at her friend,
+LINE 33: that she could have so cheerful an air with such a companion. When Mr.
+LINE 34: Collins said anything of which his wife might reasonably be ashamed,
+LINE 35: which certainly was not seldom, she involuntarily turned her eye on
+LINE 36: Charlotte. Once or twice she could discern a faint blush; but in general
+LINE 37: Charlotte wisely did not hear. After sitting long enough to admire
+LINE 38: every article of furniture in the room, from the sideboard to the
+LINE 39: fender, to give an account of their journey, and of all that had
+LINE 40: happened in London, Mr. Collins invited them to take a stroll in the
+LINE 41: garden, which was large and well laid out, and to the cultivation of
+LINE 42: which he attended himself. To work in his garden was one of his most
+LINE 43: respectable pleasures; and Elizabeth admired the command of countenance
+LINE 44: with which Charlotte talked of the healthfulness of the exercise, and
+LINE 45: owned she encouraged it as much as possible. Here, leading the way
+LINE 46: through every walk and cross walk, and scarcely allowing them an
+LINE 47: interval to utter the praises he asked for, every view was pointed out
+LINE 48: with a minuteness which left beauty entirely behind. He could number the
+LINE 49: fields in every direction, and could tell how many trees there were in
+LINE 50: the most distant clump. But of all the views which his garden, or which
+LINE 51: the country or the kingdom could boast, none were to be compared with
+LINE 52: the prospect of Rosings, afforded by an opening in the trees that
+LINE 53: bordered the park nearly opposite the front of his house. It was a
+LINE 54: handsome modern building, well situated on rising ground.
+LINE 55: From his garden, Mr. Collins would have led them round his two meadows;
+LINE 56: but the ladies, not having shoes to encounter the remains of a white
+LINE 57: frost, turned back; and while Sir William accompanied him, Charlotte
+LINE 58: took her sister and friend over the house, extremely well pleased,
+LINE 59: probably, to have the opportunity of showing it without her husband's
+LINE 60: help. It was rather small, but well built and convenient; and everything
+LINE 61: was fitted up and arranged with a neatness and consistency, of which
+LINE 62: Elizabeth gave Charlotte all the credit. When Mr. Collins could be
+LINE 63: forgotten, there was really a great air of comfort throughout, and by
+LINE 64: Charlotte's evident enjoyment of it, Elizabeth supposed he must be often
+LINE 65: forgotten.
+LINE 66: She had already learnt that Lady Catherine was still in the country. It
+LINE 67: was spoken of again while they were at dinner, when Mr. Collins joining
+LINE 68: in, observed,--
+LINE 69: "Yes, Miss Elizabeth, you will have the honour of seeing Lady Catherine
+LINE 70: de Bourgh on the ensuing Sunday at church, and I need not say you will
+LINE 71: be delighted with her. She is all affability and condescension, and I
+LINE 72: doubt not but you will be honoured with some portion of her notice when
+LINE 73: service is over. I have scarcely any hesitation in saying that she will
+LINE 74: include you and my sister Maria in every invitation with which she
+LINE 75: honours us during your stay here. Her behaviour to my dear Charlotte is
+LINE 76: charming. We dine at Rosings twice every week, and are never allowed to
+LINE 77: walk home. Her Ladyship's carriage is regularly ordered for us. I
+LINE 78: _should_ say, one of her Ladyship's carriages, for she has several."
+LINE 79: "Lady Catherine is a very respectable, sensible woman, indeed," added
+LINE 80: Charlotte, "and a most attentive neighbour."
+LINE 81: "Very true, my dear, that is exactly what I say. She is the sort of
+LINE 82: woman whom one cannot regard with too much deference."
+LINE 83: The evening was spent chiefly in talking over Hertfordshire news, and
+LINE 84: telling again what had been already written; and when it closed,
+LINE 85: Elizabeth, in the solitude of her chamber, had to meditate upon
+LINE 86: Charlotte's degree of contentment, to understand her address in guiding,
+LINE 87: and composure in bearing with, her husband, and to acknowledge that it
+LINE 88: was all done very well. She had also to anticipate how her visit would
+LINE 89: pass, the quiet tenour of their usual employments, the vexatious
+LINE 90: interruptions of Mr. Collins, and the gaieties of their intercourse
+LINE 91: with Rosings. A lively imagination soon settled it all.
+LINE 92: About the middle of the next day, as she was in her room getting ready
+LINE 93: for a walk, a sudden noise below seemed to speak the whole house in
+LINE 94: confusion; and, after listening a moment, she heard somebody running
+LINE 95: upstairs in a violent hurry, and calling loudly after her. She opened
+LINE 96: the door, and met Maria in the landing-place, who, breathless with
+LINE 97: agitation, cried out,--
+LINE 98: [Illustration:
+LINE 99: "In Conversation with the ladies"
+LINE 100: [Copyright 1894 by George Allen.]]
+LINE 101: "Oh, my dear Eliza! pray make haste and come into the dining-room, for
+LINE 102: there is such a sight to be seen! I will not tell you what it is. Make
+LINE 103: haste, and come down this moment."
+LINE 104: Elizabeth asked questions in vain; Maria would tell her nothing more;
+LINE 105: and down they ran into the dining-room which fronted the lane, in quest
+LINE 106: of this wonder; it was two ladies, stopping in a low phaeton at the
+LINE 107: garden gate.
+LINE 108: "And is this all?" cried Elizabeth. "I expected at least that the pigs
+LINE 109: were got into the garden, and here is nothing but Lady Catherine and her
+LINE 110: daughter!"
+LINE 111: "La! my dear," said Maria, quite shocked at the mistake, "it is not Lady
+LINE 112: Catherine. The old lady is Mrs. Jenkinson, who lives with them. The
+LINE 113: other is Miss De Bourgh. Only look at her. She is quite a little
+LINE 114: creature. Who would have thought she could be so thin and small!"
+LINE 115: "She is abominably rude to keep Charlotte out of doors in all this wind.
+LINE 116: Why does she not come in?"
+LINE 117: "Oh, Charlotte says she hardly ever does. It is the greatest of favours
+LINE 118: when Miss De Bourgh comes in."
+LINE 119: "I like her appearance," said Elizabeth, struck with other ideas. "She
+LINE 120: looks sickly and cross. Yes, she will do for him very well. She will
+LINE 121: make him a very proper wife."
+LINE 122: Mr. Collins and Charlotte were both standing at the gate in conversation
+LINE 123: with the ladies; and Sir William, to Elizabeth's high diversion, was
+LINE 124: stationed in the doorway, in earnest contemplation of the greatness
+LINE 125: before him, and constantly bowing whenever Miss De Bourgh looked that
+LINE 126: way.
+LINE 127: At length there was nothing more to be said; the ladies drove on, and
+LINE 128: the others returned into the house. Mr. Collins no sooner saw the two
+LINE 129: girls than he began to congratulate them on their good fortune, which
+LINE 130: Charlotte explained by letting them know that the whole party was asked
+LINE 131: to dine at Rosings the next day.
+LINE 132: [Illustration:
+LINE 133: 'Lady Catherine, said she, you have given me a treasure.'
+LINE 134: [_Copyright 1894 by George Allen._]]

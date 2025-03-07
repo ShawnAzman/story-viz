@@ -1,0 +1,248 @@
+LINE 1: [Illustration]
+LINE 2: Elizabeth awoke the next morning to the same thoughts and meditations
+LINE 3: which had at length closed her eyes. She could not yet recover from the
+LINE 4: surprise of what had happened: it was impossible to think of anything
+LINE 5: else; and, totally indisposed for employment, she resolved soon after
+LINE 6: breakfast to indulge herself in air and exercise. She was proceeding
+LINE 7: directly to her favourite walk, when the recollection of Mr. Darcy's
+LINE 8: sometimes coming there stopped her, and instead of entering the park,
+LINE 9: she turned up the lane which led her farther from the turnpike road. The
+LINE 10: park paling was still the boundary on one side, and she soon passed one
+LINE 11: of the gates into the ground.
+LINE 12: After walking two or three times along that part of the lane, she was
+LINE 13: tempted, by the pleasantness of the morning, to stop at the gates and
+LINE 14: look into the park. The five weeks which she had now passed in Kent had
+LINE 15: made a great difference in the country, and every day was adding to the
+LINE 16: verdure of the early trees. She was on the point of continuing her
+LINE 17: walk, when she caught a glimpse of a gentleman within the sort of grove
+LINE 18: which edged the park: he was moving that way; and fearful of its being
+LINE 19: Mr. Darcy, she was directly retreating. But the person who advanced was
+LINE 20: now near enough to see her, and stepping forward with eagerness,
+LINE 21: pronounced her name. She had turned away; but on hearing herself called,
+LINE 22: though in a voice which proved it to be Mr. Darcy, she moved again
+LINE 23: towards the gate. He had by that time reached it also; and, holding out
+LINE 24: a letter, which she instinctively took, said, with a look of haughty
+LINE 25: composure, "I have been walking in the grove some time, in the hope of
+LINE 26: meeting you. Will you do me the honour of reading that letter?" and
+LINE 27: then, with a slight bow, turned again into the plantation, and was soon
+LINE 28: out of sight.
+LINE 29: With no expectation of pleasure, but with the strongest curiosity,
+LINE 30: Elizabeth opened the letter, and to her still increasing wonder,
+LINE 31: perceived an envelope containing two sheets of letter paper, written
+LINE 32: quite through, in a very close hand. The envelope itself was likewise
+LINE 33: full. Pursuing her way along the lane, she then began it. It was dated
+LINE 34: from Rosings, at eight o'clock in the morning, and was as follows:--
+LINE 35: "Be not alarmed, madam, on receiving this letter, by the apprehension of
+LINE 36: its containing any repetition of those sentiments, or renewal of those
+LINE 37: offers, which were last night so disgusting to you. I write without any
+LINE 38: intention of paining you, or humbling myself, by dwelling on wishes,
+LINE 39: which, for the happiness of both, cannot be too soon forgotten; and the
+LINE 40: effort which the formation and the perusal of this letter must occasion,
+LINE 41: should have been spared, had not my character required it to be written
+LINE 42: and read. You must, therefore, pardon the freedom with which I demand
+LINE 43: your attention; your feelings, I know, will bestow it unwillingly, but I
+LINE 44: demand it of your justice.
+LINE 45: "Two offences of a very different nature, and by no means of equal
+LINE 46: magnitude, you last night laid to my charge. The first mentioned was,
+LINE 47: that, regardless of the sentiments of either, I had detached Mr. Bingley
+LINE 48: from your sister,--and the other, that I had, in defiance of various
+LINE 49: claims, in defiance of honour and humanity, ruined the immediate
+LINE 50: prosperity and blasted the prospects of Mr. Wickham. Wilfully and
+LINE 51: wantonly to have thrown off the companion of my youth, the acknowledged
+LINE 52: favourite of my father, a young man who had scarcely any other
+LINE 53: dependence than on our patronage, and who had been brought up to expect
+LINE 54: its exertion, would be a depravity, to which the separation of two young
+LINE 55: persons whose affection could be the growth of only a few weeks, could
+LINE 56: bear no comparison. But from the severity of that blame which was last
+LINE 57: night so liberally bestowed, respecting each circumstance, I shall hope
+LINE 58: to be in future secured, when the following account of my actions and
+LINE 59: their motives has been read. If, in the explanation of them which is due
+LINE 60: to myself, I am under the necessity of relating feelings which may be
+LINE 61: offensive to yours, I can only say that I am sorry. The necessity must
+LINE 62: be obeyed, and further apology would be absurd. I had not been long in
+LINE 63: Hertfordshire before I saw, in common with others, that Bingley
+LINE 64: preferred your elder sister to any other young woman in the country. But
+LINE 65: it was not till the evening of the dance at Netherfield that I had any
+LINE 66: apprehension of his feeling a serious attachment. I had often seen him
+LINE 67: in love before. At that ball, while I had the honour of dancing with
+LINE 68: you, I was first made acquainted, by Sir William Lucas's accidental
+LINE 69: information, that Bingley's attentions to your sister had given rise to
+LINE 70: a general expectation of their marriage. He spoke of it as a certain
+LINE 71: event, of which the time alone could be undecided. From that moment I
+LINE 72: observed my friend's behaviour attentively; and I could then perceive
+LINE 73: that his partiality for Miss Bennet was beyond what I had ever witnessed
+LINE 74: in him. Your sister I also watched. Her look and manners were open,
+LINE 75: cheerful, and engaging as ever, but without any symptom of peculiar
+LINE 76: regard; and I remained convinced, from the evening's scrutiny, that
+LINE 77: though she received his attentions with pleasure, she did not invite
+LINE 78: them by any participation of sentiment. If _you_ have not been mistaken
+LINE 79: here, _I_ must have been in an error. Your superior knowledge of your
+LINE 80: sister must make the latter probable. If it be so, if I have been misled
+LINE 81: by such error to inflict pain on her, your resentment has not been
+LINE 82: unreasonable. But I shall not scruple to assert, that the serenity of
+LINE 83: your sister's countenance and air was such as might have given the most
+LINE 84: acute observer a conviction that, however amiable her temper, her heart
+LINE 85: was not likely to be easily touched. That I was desirous of believing
+LINE 86: her indifferent is certain; but I will venture to say that my
+LINE 87: investigations and decisions are not usually influenced by my hopes or
+LINE 88: fears. I did not believe her to be indifferent because I wished it; I
+LINE 89: believed it on impartial conviction, as truly as I wished it in reason.
+LINE 90: My objections to the marriage were not merely those which I last night
+LINE 91: acknowledged to have required the utmost force of passion to put aside
+LINE 92: in my own case; the want of connection could not be so great an evil to
+LINE 93: my friend as to me. But there were other causes of repugnance; causes
+LINE 94: which, though still existing, and existing to an equal degree in both
+LINE 95: instances, I had myself endeavoured to forget, because they were not
+LINE 96: immediately before me. These causes must be stated, though briefly. The
+LINE 97: situation of your mother's family, though objectionable, was nothing in
+LINE 98: comparison of that total want of propriety so frequently, so almost
+LINE 99: uniformly betrayed by herself, by your three younger sisters, and
+LINE 100: occasionally even by your father:--pardon me,--it pains me to offend
+LINE 101: you. But amidst your concern for the defects of your nearest relations,
+LINE 102: and your displeasure at this representation of them, let it give you
+LINE 103: consolation to consider that to have conducted yourselves so as to avoid
+LINE 104: any share of the like censure is praise no less generally bestowed on
+LINE 105: you and your eldest sister than it is honourable to the sense and
+LINE 106: disposition of both. I will only say, farther, that from what passed
+LINE 107: that evening my opinion of all parties was confirmed, and every
+LINE 108: inducement heightened, which could have led me before to preserve my
+LINE 109: friend from what I esteemed a most unhappy connection. He left
+LINE 110: Netherfield for London on the day following, as you, I am certain,
+LINE 111: remember, with the design of soon returning. The part which I acted is
+LINE 112: now to be explained. His sisters' uneasiness had been equally excited
+LINE 113: with my own: our coincidence of feeling was soon discovered; and, alike
+LINE 114: sensible that no time was to be lost in detaching their brother, we
+LINE 115: shortly resolved on joining him directly in London. We accordingly
+LINE 116: went--and there I readily engaged in the office of pointing out to my
+LINE 117: friend the certain evils of such a choice. I described and enforced them
+LINE 118: earnestly. But however this remonstrance might have staggered or delayed
+LINE 119: his determination, I do not suppose that it would ultimately have
+LINE 120: prevented the marriage, had it not been seconded by the assurance, which
+LINE 121: I hesitated not in giving, of your sister's indifference. He had before
+LINE 122: believed her to return his affection with sincere, if not with equal,
+LINE 123: regard. But Bingley has great natural modesty, with a stronger
+LINE 124: dependence on my judgment than on his own. To convince him, therefore,
+LINE 125: that he had deceived himself was no very difficult point. To persuade
+LINE 126: him against returning into Hertfordshire, when that conviction had been
+LINE 127: given, was scarcely the work of a moment. I cannot blame myself for
+LINE 128: having done thus much. There is but one part of my conduct, in the whole
+LINE 129: affair, on which I do not reflect with satisfaction; it is that I
+LINE 130: condescended to adopt the measures of art so far as to conceal from him
+LINE 131: your sister's being in town. I knew it myself, as it was known to Miss
+LINE 132: Bingley; but her brother is even yet ignorant of it. That they might
+LINE 133: have met without ill consequence is, perhaps, probable; but his regard
+LINE 134: did not appear to me enough extinguished for him to see her without some
+LINE 135: danger. Perhaps this concealment, this disguise, was beneath me. It is
+LINE 136: done, however, and it was done for the best. On this subject I have
+LINE 137: nothing more to say, no other apology to offer. If I have wounded your
+LINE 138: sister's feelings, it was unknowingly done; and though the motives which
+LINE 139: governed me may to you very naturally appear insufficient, I have not
+LINE 140: yet learnt to condemn them.--With respect to that other, more weighty
+LINE 141: accusation, of having injured Mr. Wickham, I can only refute it by
+LINE 142: laying before you the whole of his connection with my family. Of what he
+LINE 143: has _particularly_ accused me I am ignorant; but of the truth of what I
+LINE 144: shall relate I can summon more than one witness of undoubted veracity.
+LINE 145: Mr. Wickham is the son of a very respectable man, who had for many years
+LINE 146: the management of all the Pemberley estates, and whose good conduct in
+LINE 147: the discharge of his trust naturally inclined my father to be of service
+LINE 148: to him; and on George Wickham, who was his godson, his kindness was
+LINE 149: therefore liberally bestowed. My father supported him at school, and
+LINE 150: afterwards at Cambridge; most important assistance, as his own father,
+LINE 151: always poor from the extravagance of his wife, would have been unable to
+LINE 152: give him a gentleman's education. My father was not only fond of this
+LINE 153: young man's society, whose manners were always engaging, he had also the
+LINE 154: highest opinion of him, and hoping the church would be his profession,
+LINE 155: intended to provide for him in it. As for myself, it is many, many years
+LINE 156: since I first began to think of him in a very different manner. The
+LINE 157: vicious propensities, the want of principle, which he was careful to
+LINE 158: guard from the knowledge of his best friend, could not escape the
+LINE 159: observation of a young man of nearly the same age with himself, and who
+LINE 160: had opportunities of seeing him in unguarded moments, which Mr. Darcy
+LINE 161: could not have. Here again I shall give you pain--to what degree you
+LINE 162: only can tell. But whatever may be the sentiments which Mr. Wickham has
+LINE 163: created, a suspicion of their nature shall not prevent me from unfolding
+LINE 164: his real character. It adds even another motive. My excellent father
+LINE 165: died about five years ago; and his attachment to Mr. Wickham was to the
+LINE 166: last so steady, that in his will he particularly recommended it to me to
+LINE 167: promote his advancement in the best manner that his profession might
+LINE 168: allow, and if he took orders, desired that a valuable family living
+LINE 169: might be his as soon as it became vacant. There was also a legacy of
+LINE 170: one thousand pounds. His own father did not long survive mine; and
+LINE 171: within half a year from these events Mr. Wickham wrote to inform me
+LINE 172: that, having finally resolved against taking orders, he hoped I should
+LINE 173: not think it unreasonable for him to expect some more immediate
+LINE 174: pecuniary advantage, in lieu of the preferment, by which he could not be
+LINE 175: benefited. He had some intention, he added, of studying the law, and I
+LINE 176: must be aware that the interest of one thousand pounds would be a very
+LINE 177: insufficient support therein. I rather wished than believed him to be
+LINE 178: sincere; but, at any rate, was perfectly ready to accede to his
+LINE 179: proposal. I knew that Mr. Wickham ought not to be a clergyman. The
+LINE 180: business was therefore soon settled. He resigned all claim to assistance
+LINE 181: in the church, were it possible that he could ever be in a situation to
+LINE 182: receive it, and accepted in return three thousand pounds. All connection
+LINE 183: between us seemed now dissolved. I thought too ill of him to invite him
+LINE 184: to Pemberley, or admit his society in town. In town, I believe, he
+LINE 185: chiefly lived, but his studying the law was a mere pretence; and being
+LINE 186: now free from all restraint, his life was a life of idleness and
+LINE 187: dissipation. For about three years I heard little of him; but on the
+LINE 188: decease of the incumbent of the living which had been designed for him,
+LINE 189: he applied to me again by letter for the presentation. His
+LINE 190: circumstances, he assured me, and I had no difficulty in believing it,
+LINE 191: were exceedingly bad. He had found the law a most unprofitable study,
+LINE 192: and was now absolutely resolved on being ordained, if I would present
+LINE 193: him to the living in question--of which he trusted there could be little
+LINE 194: doubt, as he was well assured that I had no other person to provide for,
+LINE 195: and I could not have forgotten my revered father's intentions. You will
+LINE 196: hardly blame me for refusing to comply with this entreaty, or for
+LINE 197: resisting every repetition of it. His resentment was in proportion to
+LINE 198: the distress of his circumstances--and he was doubtless as violent in
+LINE 199: his abuse of me to others as in his reproaches to myself. After this
+LINE 200: period, every appearance of acquaintance was dropped. How he lived, I
+LINE 201: know not. But last summer he was again most painfully obtruded on my
+LINE 202: notice. I must now mention a circumstance which I would wish to forget
+LINE 203: myself, and which no obligation less than the present should induce me
+LINE 204: to unfold to any human being. Having said thus much, I feel no doubt of
+LINE 205: your secrecy. My sister, who is more than ten years my junior, was left
+LINE 206: to the guardianship of my mother's nephew, Colonel Fitzwilliam, and
+LINE 207: myself. About a year ago, she was taken from school, and an
+LINE 208: establishment formed for her in London; and last summer she went with
+LINE 209: the lady who presided over it to Ramsgate; and thither also went Mr.
+LINE 210: Wickham, undoubtedly by design; for there proved to have been a prior
+LINE 211: acquaintance between him and Mrs. Younge, in whose character we were
+LINE 212: most unhappily deceived; and by her connivance and aid he so far
+LINE 213: recommended himself to Georgiana, whose affectionate heart retained a
+LINE 214: strong impression of his kindness to her as a child, that she was
+LINE 215: persuaded to believe herself in love and to consent to an elopement. She
+LINE 216: was then but fifteen, which must be her excuse; and after stating her
+LINE 217: imprudence, I am happy to add, that I owed the knowledge of it to
+LINE 218: herself. I joined them unexpectedly a day or two before the intended
+LINE 219: elopement; and then Georgiana, unable to support the idea of grieving
+LINE 220: and offending a brother whom she almost looked up to as a father,
+LINE 221: acknowledged the whole to me. You may imagine what I felt and how I
+LINE 222: acted. Regard for my sister's credit and feelings prevented any public
+LINE 223: exposure; but I wrote to Mr. Wickham, who left the place immediately,
+LINE 224: and Mrs. Younge was of course removed from her charge. Mr. Wickham's
+LINE 225: chief object was unquestionably my sister's fortune, which is thirty
+LINE 226: thousand pounds; but I cannot help supposing that the hope of revenging
+LINE 227: himself on me was a strong inducement. His revenge would have been
+LINE 228: complete indeed. This, madam, is a faithful narrative of every event in
+LINE 229: which we have been concerned together; and if you do not absolutely
+LINE 230: reject it as false, you will, I hope, acquit me henceforth of cruelty
+LINE 231: towards Mr. Wickham. I know not in what manner, under what form of
+LINE 232: falsehood, he has imposed on you; but his success is not perhaps to be
+LINE 233: wondered at, ignorant as you previously were of everything concerning
+LINE 234: either. Detection could not be in your power, and suspicion certainly
+LINE 235: not in your inclination. You may possibly wonder why all this was not
+LINE 236: told you last night. But I was not then master enough of myself to know
+LINE 237: what could or ought to be revealed. For the truth of everything here
+LINE 238: related, I can appeal more particularly to the testimony of Colonel
+LINE 239: Fitzwilliam, who, from our near relationship and constant intimacy, and
+LINE 240: still more as one of the executors of my father's will, has been
+LINE 241: unavoidably acquainted with every particular of these transactions. If
+LINE 242: your abhorrence of _me_ should make _my_ assertions valueless, you
+LINE 243: cannot be prevented by the same cause from confiding in my cousin; and
+LINE 244: that there may be the possibility of consulting him, I shall endeavour
+LINE 245: to find some opportunity of putting this letter in your hands in the
+LINE 246: course of the morning. I will only add, God bless you.
+LINE 247: "FITZWILLIAM DARCY."
+LINE 248: [Illustration]

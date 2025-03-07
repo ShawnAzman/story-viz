@@ -1,0 +1,139 @@
+LINE 1: [Illustration]
+LINE 2: Elizabeth was sitting by herself the next morning, and writing to Jane,
+LINE 3: while Mrs. Collins and Maria were gone on business into the village,
+LINE 4: when she was startled by a ring at the door, the certain signal of a
+LINE 5: visitor. As she had heard no carriage, she thought it not unlikely to be
+LINE 6: Lady Catherine; and under that apprehension was putting away her
+LINE 7: half-finished letter, that she might escape all impertinent questions,
+LINE 8: when the door opened, and to her very great surprise Mr. Darcy, and Mr.
+LINE 9: Darcy only, entered the room.
+LINE 10: He seemed astonished too on finding her alone, and apologized for his
+LINE 11: intrusion, by letting her know that he had understood all the ladies to
+LINE 12: be within.
+LINE 13: They then sat down, and when her inquiries after Rosings were made,
+LINE 14: seemed in danger of sinking into total silence. It was absolutely
+LINE 15: necessary, therefore, to think of something; and in this emergency
+LINE 16: recollecting _when_ she had seen him last in Hertfordshire, and feeling
+LINE 17: curious to know what he would say on the subject of their hasty
+LINE 18: departure, she observed,--
+LINE 19: "How very suddenly you all quitted Netherfield last November, Mr. Darcy!
+LINE 20: It must have been a most agreeable surprise to Mr. Bingley to see you
+LINE 21: all after him so soon; for, if I recollect right, he went but the day
+LINE 22: before. He and his sisters were well, I hope, when you left London?"
+LINE 23: "Perfectly so, I thank you."
+LINE 24: She found that she was to receive no other answer; and, after a short
+LINE 25: pause, added,--
+LINE 26: "I think I have understood that Mr. Bingley has not much idea of ever
+LINE 27: returning to Netherfield again?"
+LINE 28: "I have never heard him say so; but it is probable that he may spend
+LINE 29: very little of his time there in future. He has many friends, and he is
+LINE 30: at a time of life when friends and engagements are continually
+LINE 31: increasing."
+LINE 32: "If he means to be but little at Netherfield, it would be better for the
+LINE 33: neighbourhood that he should give up the place entirely, for then we
+LINE 34: might possibly get a settled family there. But, perhaps, Mr. Bingley did
+LINE 35: not take the house so much for the convenience of the neighbourhood as
+LINE 36: for his own, and we must expect him to keep or quit it on the same
+LINE 37: principle."
+LINE 38: "I should not be surprised," said Darcy, "if he were to give it up as
+LINE 39: soon as any eligible purchase offers."
+LINE 40: Elizabeth made no answer. She was afraid of talking longer of his
+LINE 41: friend; and, having nothing else to say, was now determined to leave the
+LINE 42: trouble of finding a subject to him.
+LINE 43: He took the hint and soon began with, "This seems a very comfortable
+LINE 44: house. Lady Catherine, I believe, did a great deal to it when Mr.
+LINE 45: Collins first came to Hunsford."
+LINE 46: "I believe she did--and I am sure she could not have bestowed her
+LINE 47: kindness on a more grateful object."
+LINE 48: "Mr. Collins appears very fortunate in his choice of a wife."
+LINE 49: "Yes, indeed; his friends may well rejoice in his having met with one of
+LINE 50: the very few sensible women who would have accepted him, or have made
+LINE 51: him happy if they had. My friend has an excellent understanding--though
+LINE 52: I am not certain that I consider her marrying Mr. Collins as the wisest
+LINE 53: thing she ever did. She seems perfectly happy, however; and, in a
+LINE 54: prudential light, it is certainly a very good match for her."
+LINE 55: "It must be very agreeable to her to be settled within so easy a
+LINE 56: distance of her own family and friends."
+LINE 57: "An easy distance do you call it? It is nearly fifty miles."
+LINE 58: "And what is fifty miles of good road? Little more than half a day's
+LINE 59: journey. Yes, I call it a very easy distance."
+LINE 60: "I should never have considered the distance as one of the _advantages_
+LINE 61: of the match," cried Elizabeth. "I should never have said Mrs. Collins
+LINE 62: was settled _near_ her family."
+LINE 63: "It is a proof of your own attachment to Hertfordshire. Anything beyond
+LINE 64: the very neighbourhood of Longbourn, I suppose, would appear far."
+LINE 65: As he spoke there was a sort of smile, which Elizabeth fancied she
+LINE 66: understood; he must be supposing her to be thinking of Jane and
+LINE 67: Netherfield, and she blushed as she answered,--
+LINE 68: "I do not mean to say that a woman may not be settled too near her
+LINE 69: family. The far and the near must be relative, and depend on many
+LINE 70: varying circumstances. Where there is fortune to make the expense of
+LINE 71: travelling unimportant, distance becomes no evil. But that is not the
+LINE 72: case _here_. Mr. and Mrs. Collins have a comfortable income, but not
+LINE 73: such a one as will allow of frequent journeys--and I am persuaded my
+LINE 74: friend would not call herself _near_ her family under less than _half_
+LINE 75: the present distance."
+LINE 76: Mr. Darcy drew his chair a little towards her, and said, "_You_ cannot
+LINE 77: have a right to such very strong local attachment. _You_ cannot have
+LINE 78: been always at Longbourn."
+LINE 79: Elizabeth looked surprised. The gentleman experienced some change of
+LINE 80: feeling; he drew back his chair, took a newspaper from the table, and,
+LINE 81: glancing over it, said, in a colder voice,--
+LINE 82: "Are you pleased with Kent?"
+LINE 83: A short dialogue on the subject of the country ensued, on either side
+LINE 84: calm and concise--and soon put an end to by the entrance of Charlotte
+LINE 85: and her sister, just returned from their walk. The _tête-à-tête_
+LINE 86: surprised them. Mr. Darcy related the mistake which had occasioned his
+LINE 87: intruding on Miss Bennet, and, after sitting a few minutes longer,
+LINE 88: without saying much to anybody, went away.
+LINE 89: [Illustration: "Accompanied by their aunt"
+LINE 90: [_Copyright 1894 by George Allen._]]
+LINE 91: "What can be the meaning of this?" said Charlotte, as soon as he was
+LINE 92: gone. "My dear Eliza, he must be in love with you, or he would never
+LINE 93: have called on us in this familiar way."
+LINE 94: But when Elizabeth told of his silence, it did not seem very likely,
+LINE 95: even to Charlotte's wishes, to be the case; and, after various
+LINE 96: conjectures, they could at last only suppose his visit to proceed from
+LINE 97: the difficulty of finding anything to do, which was the more probable
+LINE 98: from the time of year. All field sports were over. Within doors there
+LINE 99: was Lady Catherine, books, and a billiard table, but gentlemen cannot be
+LINE 100: always within doors; and in the nearness of the Parsonage, or the
+LINE 101: pleasantness of the walk to it, or of the people who lived in it, the
+LINE 102: two cousins found a temptation from this period of walking thither
+LINE 103: almost every day. They called at various times of the morning, sometimes
+LINE 104: separately, sometimes together, and now and then accompanied by their
+LINE 105: aunt. It was plain to them all that Colonel Fitzwilliam came because he
+LINE 106: had pleasure in their society, a persuasion which of course recommended
+LINE 107: him still more; and Elizabeth was reminded by her own satisfaction in
+LINE 108: being with him, as well as by his evident admiration, of her former
+LINE 109: favourite, George Wickham; and though, in comparing them, she saw there
+LINE 110: was less captivating softness in Colonel Fitzwilliam's manners, she
+LINE 111: believed he might have the best informed mind.
+LINE 112: But why Mr. Darcy came so often to the Parsonage it was more difficult
+LINE 113: to understand. It could not be for society, as he frequently sat there
+LINE 114: ten minutes together without opening his lips; and when he did speak, it
+LINE 115: seemed the effect of necessity rather than of choice--a sacrifice to
+LINE 116: propriety, not a pleasure to himself. He seldom appeared really
+LINE 117: animated. Mrs. Collins knew not what to make of him. Colonel
+LINE 118: Fitzwilliam's occasionally laughing at his stupidity proved that he was
+LINE 119: generally different, which her own knowledge of him could not have told
+LINE 120: her; and as she would have liked to believe this change the effect of
+LINE 121: love, and the object of that love her friend Eliza, she set herself
+LINE 122: seriously to work to find it out: she watched him whenever they were at
+LINE 123: Rosings, and whenever he came to Hunsford; but without much success. He
+LINE 124: certainly looked at her friend a great deal, but the expression of that
+LINE 125: look was disputable. It was an earnest, steadfast gaze, but she often
+LINE 126: doubted whether there were much admiration in it, and sometimes it
+LINE 127: seemed nothing but absence of mind.
+LINE 128: She had once or twice suggested to Elizabeth the possibility of his
+LINE 129: being partial to her, but Elizabeth always laughed at the idea; and Mrs.
+LINE 130: Collins did not think it right to press the subject, from the danger of
+LINE 131: raising expectations which might only end in disappointment; for in her
+LINE 132: opinion it admitted not of a doubt, that all her friend's dislike would
+LINE 133: vanish, if she could suppose him to be in her power.
+LINE 134: In her kind schemes for Elizabeth, she sometimes planned her marrying
+LINE 135: Colonel Fitzwilliam. He was, beyond comparison, the pleasantest man: he
+LINE 136: certainly admired her, and his situation in life was most eligible; but,
+LINE 137: to counterbalance these advantages, Mr. Darcy had considerable patronage
+LINE 138: in the church, and his cousin could have none at all.
+LINE 139: [Illustration: "On looking up"]

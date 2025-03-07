@@ -1,0 +1,205 @@
+LINE 1: [Illustration]
+LINE 2: Two days after Mr. Bennet's return, as Jane and Elizabeth were walking
+LINE 3: together in the shrubbery behind the house, they saw the housekeeper
+LINE 4: coming towards them, and concluding that she came to call them to their
+LINE 5: mother, went forward to meet her; but instead of the expected summons,
+LINE 6: when they approached her, she said to Miss Bennet, "I beg your pardon,
+LINE 7: madam, for interrupting you, but I was in hopes you might have got some
+LINE 8: good news from town, so I took the liberty of coming to ask."
+LINE 9: "What do you mean, Hill? We have heard nothing from town."
+LINE 10: "Dear madam," cried Mrs. Hill, in great astonishment, "don't you know
+LINE 11: there is an express come for master from Mr. Gardiner? He has been here
+LINE 12: this half hour, and master has had a letter."
+LINE 13: Away ran the girls, too eager to get in to have time for speech. They
+LINE 14: ran through the vestibule into the breakfast-room; from thence to the
+LINE 15: library;--their father was in neither; and they were on the point of
+LINE 16: seeking him upstairs with their mother, when they were met by the
+LINE 17: butler, who said,--
+LINE 18: "If you are looking for my master, ma'am, he is walking towards the
+LINE 19: little copse."
+LINE 20: Upon this information, they instantly passed through the hall once more,
+LINE 21: and ran across the lawn after their father, who was deliberately
+LINE 22: pursuing his way towards a small wood on one side of the paddock.
+LINE 23: Jane, who was not so light, nor so much in the habit of running as
+LINE 24: Elizabeth, soon lagged behind, while her sister, panting for breath,
+LINE 25: came up with him, and eagerly cried out,--
+LINE 26: "Oh, papa, what news? what news? have you heard from my uncle?"
+LINE 27: "Yes, I have had a letter from him by express."
+LINE 28: "Well, and what news does it bring--good or bad?"
+LINE 29: "What is there of good to be expected?" said he, taking the letter from
+LINE 30: his pocket; "but perhaps you would like to read it."
+LINE 31: Elizabeth impatiently caught it from his hand. Jane now came up.
+LINE 32: "Read it aloud," said their father, "for I hardly know myself what it is
+LINE 33: about."
+LINE 34: /* RIGHT "Gracechurch Street, _Monday, August 2_. */
+LINE 35: "My dear Brother,
+LINE 36: "At last I am able to send you some tidings of my niece, and such
+LINE 37: as, upon the whole, I hope will give you satisfaction. Soon after
+LINE 38: you left me on Saturday, I was fortunate enough to find out in what
+LINE 39: part of London they were. The particulars I reserve till we meet.
+LINE 40: It is enough to know they are discovered: I have seen them
+LINE 41: both----"
+LINE 42: [Illustration:
+LINE 43: "But perhaps you would like to read it"
+LINE 44: [_Copyright 1894 by George Allen._]]
+LINE 45: "Then it is as I always hoped," cried Jane: "they are married!"
+LINE 46: Elizabeth read on: "I have seen them both. They are not married,
+LINE 47: nor can I find there was any intention of being so; but if you are
+LINE 48: willing to perform the engagements which I have ventured to make on
+LINE 49: your side, I hope it will not be long before they are. All that is
+LINE 50: required of you is, to assure to your daughter, by settlement, her
+LINE 51: equal share of the five thousand pounds, secured among your
+LINE 52: children after the decease of yourself and my sister; and,
+LINE 53: moreover, to enter into an engagement of allowing her, during your
+LINE 54: life, one hundred pounds per annum. These are conditions which,
+LINE 55: considering everything, I had no hesitation in complying with, as
+LINE 56: far as I thought myself privileged, for you. I shall send this by
+LINE 57: express, that no time may be lost in bringing me your answer. You
+LINE 58: will easily comprehend, from these particulars, that Mr. Wickham's
+LINE 59: circumstances are not so hopeless as they are generally believed to
+LINE 60: be. The world has been deceived in that respect; and I am happy to
+LINE 61: say, there will be some little money, even when all his debts are
+LINE 62: discharged, to settle on my niece, in addition to her own fortune.
+LINE 63: If, as I conclude will be the case, you send me full powers to act
+LINE 64: in your name throughout the whole of this business, I will
+LINE 65: immediately give directions to Haggerston for preparing a proper
+LINE 66: settlement. There will not be the smallest occasion for your coming
+LINE 67: to town again; therefore stay quietly at Longbourn, and depend on
+LINE 68: my diligence and care. Send back your answer as soon as you can,
+LINE 69: and be careful to write explicitly. We have judged it best that my
+LINE 70: niece should be married from this house, of which I hope you will
+LINE 71: approve. She comes to us to-day. I shall write again as soon as
+LINE 72: anything more is determined on. Yours, etc.
+LINE 73: "EDW. GARDINER."
+LINE 74: "Is it possible?" cried Elizabeth, when she had finished. "Can it be
+LINE 75: possible that he will marry her?"
+LINE 76: "Wickham is not so undeserving, then, as we have thought him," said her
+LINE 77: sister. "My dear father, I congratulate you."
+LINE 78: "And have you answered the letter?" said Elizabeth.
+LINE 79: "No; but it must be done soon."
+LINE 80: Most earnestly did she then entreat him to lose no more time before he
+LINE 81: wrote.
+LINE 82: "Oh! my dear father," she cried, "come back and write immediately.
+LINE 83: Consider how important every moment is in such a case."
+LINE 84: "Let me write for you," said Jane, "if you dislike the trouble
+LINE 85: yourself."
+LINE 86: "I dislike it very much," he replied; "but it must be done."
+LINE 87: And so saying, he turned back with them, and walked towards the house.
+LINE 88: "And--may I ask?" said Elizabeth; "but the terms, I suppose, must be
+LINE 89: complied with."
+LINE 90: "Complied with! I am only ashamed of his asking so little."
+LINE 91: "And they _must_ marry! Yet he is _such_ a man."
+LINE 92: "Yes, yes, they must marry. There is nothing else to be done. But there
+LINE 93: are two things that I want very much to know:--one is, how much money
+LINE 94: your uncle has laid down to bring it about; and the other, how I am ever
+LINE 95: to pay him."
+LINE 96: "Money! my uncle!" cried Jane, "what do you mean, sir?"
+LINE 97: "I mean that no man in his proper senses would marry Lydia on so slight
+LINE 98: a temptation as one hundred a year during my life, and fifty after I am
+LINE 99: gone."
+LINE 100: "That is very true," said Elizabeth; "though it had not occurred to me
+LINE 101: before. His debts to be discharged, and something still to remain! Oh,
+LINE 102: it must be my uncle's doings! Generous, good man, I am afraid he has
+LINE 103: distressed himself. A small sum could not do all this."
+LINE 104: "No," said her father. "Wickham's a fool if he takes her with a farthing
+LINE 105: less than ten thousand pounds: I should be sorry to think so ill of him,
+LINE 106: in the very beginning of our relationship."
+LINE 107: "Ten thousand pounds! Heaven forbid! How is half such a sum to be
+LINE 108: repaid?"
+LINE 109: Mr. Bennet made no answer; and each of them, deep in thought, continued
+LINE 110: silent till they reached the house. Their father then went to the
+LINE 111: library to write, and the girls walked into the breakfast-room.
+LINE 112: "And they are really to be married!" cried Elizabeth, as soon as they
+LINE 113: were by themselves. "How strange this is! and for _this_ we are to be
+LINE 114: thankful. That they should marry, small as is their chance of happiness,
+LINE 115: and wretched as is his character, we are forced to rejoice! Oh, Lydia!"
+LINE 116: "I comfort myself with thinking," replied Jane, "that he certainly would
+LINE 117: not marry Lydia, if he had not a real regard for her. Though our kind
+LINE 118: uncle has done something towards clearing him, I cannot believe that ten
+LINE 119: thousand pounds, or anything like it, has been advanced. He has children
+LINE 120: of his own, and may have more. How could he spare half ten thousand
+LINE 121: pounds?"
+LINE 122: "If we are ever able to learn what Wickham's debts have been," said
+LINE 123: Elizabeth, "and how much is settled on his side on our sister, we shall
+LINE 124: exactly know what Mr. Gardiner has done for them, because Wickham has
+LINE 125: not sixpence of his own. The kindness of my uncle and aunt can never be
+LINE 126: requited. Their taking her home, and affording her their personal
+LINE 127: protection and countenance, is such a sacrifice to her advantage as
+LINE 128: years of gratitude cannot enough acknowledge. By this time she is
+LINE 129: actually with them! If such goodness does not make her miserable now,
+LINE 130: she will never deserve to be happy! What a meeting for her, when she
+LINE 131: first sees my aunt!"
+LINE 132: "We must endeavour to forget all that has passed on either side," said
+LINE 133: Jane: "I hope and trust they will yet be happy. His consenting to marry
+LINE 134: her is a proof, I will believe, that he is come to a right way of
+LINE 135: thinking. Their mutual affection will steady them; and I flatter myself
+LINE 136: they will settle so quietly, and live in so rational a manner, as may in
+LINE 137: time make their past imprudence forgotten."
+LINE 138: "Their conduct has been such," replied Elizabeth, "as neither you, nor
+LINE 139: I, nor anybody, can ever forget. It is useless to talk of it."
+LINE 140: It now occurred to the girls that their mother was in all likelihood
+LINE 141: perfectly ignorant of what had happened. They went to the library,
+LINE 142: therefore, and asked their father whether he would not wish them to make
+LINE 143: it known to her. He was writing, and, without raising his head, coolly
+LINE 144: replied,--
+LINE 145: "Just as you please."
+LINE 146: "May we take my uncle's letter to read to her?"
+LINE 147: "Take whatever you like, and get away."
+LINE 148: Elizabeth took the letter from his writing-table, and they went upstairs
+LINE 149: together. Mary and Kitty were both with Mrs. Bennet: one communication
+LINE 150: would, therefore, do for all. After a slight preparation for good news,
+LINE 151: the letter was read aloud. Mrs. Bennet could hardly contain herself. As
+LINE 152: soon as Jane had read Mr. Gardiner's hope of Lydia's being soon married,
+LINE 153: her joy burst forth, and every following sentence added to its
+LINE 154: exuberance. She was now in an irritation as violent from delight as she
+LINE 155: had ever been fidgety from alarm and vexation. To know that her daughter
+LINE 156: would be married was enough. She was disturbed by no fear for her
+LINE 157: felicity, nor humbled by any remembrance of her misconduct.
+LINE 158: "My dear, dear Lydia!" she cried: "this is delightful indeed! She will
+LINE 159: be married! I shall see her again! She will be married at sixteen! My
+LINE 160: good, kind brother! I knew how it would be--I knew he would manage
+LINE 161: everything. How I long to see her! and to see dear Wickham too! But the
+LINE 162: clothes, the wedding clothes! I will write to my sister Gardiner about
+LINE 163: them directly. Lizzy, my dear, run down to your father, and ask him how
+LINE 164: much he will give her. Stay, stay, I will go myself. Ring the bell,
+LINE 165: Kitty, for Hill. I will put on my things in a moment. My dear, dear
+LINE 166: Lydia! How merry we shall be together when we meet!"
+LINE 167: Her eldest daughter endeavoured to give some relief to the violence of
+LINE 168: these transports, by leading her thoughts to the obligations which Mr.
+LINE 169: Gardiner's behaviour laid them all under.
+LINE 170: "For we must attribute this happy conclusion," she added, "in a great
+LINE 171: measure to his kindness. We are persuaded that he has pledged himself to
+LINE 172: assist Mr. Wickham with money."
+LINE 173: "Well," cried her mother, "it is all very right; who should do it but
+LINE 174: her own uncle? If he had not had a family of his own, I and my children
+LINE 175: must have had all his money, you know; and it is the first time we have
+LINE 176: ever had anything from him except a few presents. Well! I am so happy.
+LINE 177: In a short time, I shall have a daughter married. Mrs. Wickham! How well
+LINE 178: it sounds! And she was only sixteen last June. My dear Jane, I am in
+LINE 179: such a flutter, that I am sure I can't write; so I will dictate, and you
+LINE 180: write for me. We will settle with your father about the money
+LINE 181: afterwards; but the things should be ordered immediately."
+LINE 182: She was then proceeding to all the particulars of calico, muslin, and
+LINE 183: cambric, and would shortly have dictated some very plentiful orders, had
+LINE 184: not Jane, though with some difficulty, persuaded her to wait till her
+LINE 185: father was at leisure to be consulted. One day's delay, she observed,
+LINE 186: would be of small importance; and her mother was too happy to be quite
+LINE 187: so obstinate as usual. Other schemes, too, came into her head.
+LINE 188: "I will go to Meryton," said she, "as soon as I am dressed, and tell the
+LINE 189: good, good news to my sister Philips. And as I come back, I can call on
+LINE 190: Lady Lucas and Mrs. Long. Kitty, run down and order the carriage. An
+LINE 191: airing would do me a great deal of good, I am sure. Girls, can I do
+LINE 192: anything for you in Meryton? Oh! here comes Hill. My dear Hill, have you
+LINE 193: heard the good news? Miss Lydia is going to be married; and you shall
+LINE 194: all have a bowl of punch to make merry at her wedding."
+LINE 195: Mrs. Hill began instantly to express her joy. Elizabeth received her
+LINE 196: congratulations amongst the rest, and then, sick of this folly, took
+LINE 197: refuge in her own room, that she might think with freedom. Poor Lydia's
+LINE 198: situation must, at best, be bad enough; but that it was no worse, she
+LINE 199: had need to be thankful. She felt it so; and though, in looking forward,
+LINE 200: neither rational happiness, nor worldly prosperity could be justly
+LINE 201: expected for her sister, in looking back to what they had feared, only
+LINE 202: two hours ago, she felt all the advantages of what they had gained.
+LINE 203: [Illustration:
+LINE 204: "The spiteful old ladies"
+LINE 205: [_Copyright 1894 by George Allen._]]

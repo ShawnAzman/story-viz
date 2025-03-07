@@ -1,0 +1,220 @@
+LINE 1: [Illustration]
+LINE 2: Mr. Collins's triumph, in consequence of this invitation, was complete.
+LINE 3: The power of displaying the grandeur of his patroness to his wondering
+LINE 4: visitors, and of letting them see her civility towards himself and his
+LINE 5: wife, was exactly what he had wished for; and that an opportunity of
+LINE 6: doing it should be given so soon was such an instance of Lady
+LINE 7: Catherine's condescension as he knew not how to admire enough.
+LINE 8: "I confess," said he, "that I should not have been at all surprised by
+LINE 9: her Ladyship's asking us on Sunday to drink tea and spend the evening
+LINE 10: at Rosings. I rather expected, from my knowledge of her affability, that
+LINE 11: it would happen. But who could have foreseen such an attention as this?
+LINE 12: Who could have imagined that we should receive an invitation to dine
+LINE 13: there (an invitation, moreover, including the whole party) so
+LINE 14: immediately after your arrival?"
+LINE 15: "I am the less surprised at what has happened," replied Sir William,
+LINE 16: "from that knowledge of what the manners of the great really are, which
+LINE 17: my situation in life has allowed me to acquire. About the court, such
+LINE 18: instances of elegant breeding are not uncommon."
+LINE 19: Scarcely anything was talked of the whole day or next morning but their
+LINE 20: visit to Rosings. Mr. Collins was carefully instructing them in what
+LINE 21: they were to expect, that the sight of such rooms, so many servants, and
+LINE 22: so splendid a dinner, might not wholly overpower them.
+LINE 23: When the ladies were separating for the toilette, he said to
+LINE 24: Elizabeth,--
+LINE 25: "Do not make yourself uneasy, my dear cousin, about your apparel. Lady
+LINE 26: Catherine is far from requiring that elegance of dress in us which
+LINE 27: becomes herself and daughter. I would advise you merely to put on
+LINE 28: whatever of your clothes is superior to the rest--there is no occasion
+LINE 29: for anything more. Lady Catherine will not think the worse of you for
+LINE 30: being simply dressed. She likes to have the distinction of rank
+LINE 31: preserved."
+LINE 32: While they were dressing, he came two or three times to their different
+LINE 33: doors, to recommend their being quick, as Lady Catherine very much
+LINE 34: objected to be kept waiting for her dinner. Such formidable accounts of
+LINE 35: her Ladyship, and her manner of living, quite frightened Maria Lucas,
+LINE 36: who had been little used to company; and she looked forward to her
+LINE 37: introduction at Rosings with as much apprehension as her father had done
+LINE 38: to his presentation at St. James's.
+LINE 39: As the weather was fine, they had a pleasant walk of about half a mile
+LINE 40: across the park. Every park has its beauty and its prospects; and
+LINE 41: Elizabeth saw much to be pleased with, though she could not be in such
+LINE 42: raptures as Mr. Collins expected the scene to inspire, and was but
+LINE 43: slightly affected by his enumeration of the windows in front of the
+LINE 44: house, and his relation of what the glazing altogether had originally
+LINE 45: cost Sir Lewis de Bourgh.
+LINE 46: When they ascended the steps to the hall, Maria's alarm was every moment
+LINE 47: increasing, and even Sir William did not look perfectly calm.
+LINE 48: Elizabeth's courage did not fail her. She had heard nothing of Lady
+LINE 49: Catherine that spoke her awful from any extraordinary talents or
+LINE 50: miraculous virtue, and the mere stateliness of money and rank she
+LINE 51: thought she could witness without trepidation.
+LINE 52: From the entrance hall, of which Mr. Collins pointed out, with a
+LINE 53: rapturous air, the fine proportion and finished ornaments, they followed
+LINE 54: the servants through an antechamber to the room where Lady Catherine,
+LINE 55: her daughter, and Mrs. Jenkinson were sitting. Her Ladyship, with great
+LINE 56: condescension, arose to receive them; and as Mrs. Collins had settled it
+LINE 57: with her husband that the office of introduction should be hers, it was
+LINE 58: performed in a proper manner, without any of those apologies and thanks
+LINE 59: which he would have thought necessary.
+LINE 60: In spite of having been at St. James's, Sir William was so completely
+LINE 61: awed by the grandeur surrounding him, that he had but just courage
+LINE 62: enough to make a very low bow, and take his seat without saying a word;
+LINE 63: and his daughter, frightened almost out of her senses, sat on the edge
+LINE 64: of her chair, not knowing which way to look. Elizabeth found herself
+LINE 65: quite equal to the scene, and could observe the three ladies before her
+LINE 66: composedly. Lady Catherine was a tall, large woman, with strongly-marked
+LINE 67: features, which might once have been handsome. Her air was not
+LINE 68: conciliating, nor was her manner of receiving them such as to make her
+LINE 69: visitors forget their inferior rank. She was not rendered formidable by
+LINE 70: silence: but whatever she said was spoken in so authoritative a tone as
+LINE 71: marked her self-importance, and brought Mr. Wickham immediately to
+LINE 72: Elizabeth's mind; and, from the observation of the day altogether, she
+LINE 73: believed Lady Catherine to be exactly what he had represented.
+LINE 74: When, after examining the mother, in whose countenance and deportment
+LINE 75: she soon found some resemblance of Mr. Darcy, she turned her eyes on the
+LINE 76: daughter, she could almost have joined in Maria's astonishment at her
+LINE 77: being so thin and so small. There was neither in figure nor face any
+LINE 78: likeness between the ladies. Miss de Bourgh was pale and sickly: her
+LINE 79: features, though not plain, were insignificant; and she spoke very
+LINE 80: little, except in a low voice, to Mrs. Jenkinson, in whose appearance
+LINE 81: there was nothing remarkable, and who was entirely engaged in listening
+LINE 82: to what she said, and placing a screen in the proper direction before
+LINE 83: her eyes.
+LINE 84: After sitting a few minutes, they were all sent to one of the windows to
+LINE 85: admire the view, Mr. Collins attending them to point out its beauties,
+LINE 86: and Lady Catherine kindly informing them that it was much better worth
+LINE 87: looking at in the summer.
+LINE 88: The dinner was exceedingly handsome, and there were all the servants,
+LINE 89: and all the articles of plate which Mr. Collins had promised; and, as he
+LINE 90: had likewise foretold, he took his seat at the bottom of the table, by
+LINE 91: her Ladyship's desire, and looked as if he felt that life could furnish
+LINE 92: nothing greater. He carved and ate and praised with delighted alacrity;
+LINE 93: and every dish was commended first by him, and then by Sir William, who
+LINE 94: was now enough recovered to echo whatever his son-in-law said, in a
+LINE 95: manner which Elizabeth wondered Lady Catherine could bear. But Lady
+LINE 96: Catherine seemed gratified by their excessive admiration, and gave most
+LINE 97: gracious smiles, especially when any dish on the table proved a novelty
+LINE 98: to them. The party did not supply much conversation. Elizabeth was ready
+LINE 99: to speak whenever there was an opening, but she was seated between
+LINE 100: Charlotte and Miss de Bourgh--the former of whom was engaged in
+LINE 101: listening to Lady Catherine, and the latter said not a word to her all
+LINE 102: the dinnertime. Mrs. Jenkinson was chiefly employed in watching how
+LINE 103: little Miss de Bourgh ate, pressing her to try some other dish and
+LINE 104: fearing she was indisposed. Maria thought speaking out of the question,
+LINE 105: and the gentlemen did nothing but eat and admire.
+LINE 106: When the ladies returned to the drawing-room, there was little to be
+LINE 107: done but to hear Lady Catherine talk, which she did without any
+LINE 108: intermission till coffee came in, delivering her opinion on every
+LINE 109: subject in so decisive a manner as proved that she was not used to have
+LINE 110: her judgment controverted. She inquired into Charlotte's domestic
+LINE 111: concerns familiarly and minutely, and gave her a great deal of advice as
+LINE 112: to the management of them all; told her how everything ought to be
+LINE 113: regulated in so small a family as hers, and instructed her as to the
+LINE 114: care of her cows and her poultry. Elizabeth found that nothing was
+LINE 115: beneath this great lady's attention which could furnish her with an
+LINE 116: occasion for dictating to others. In the intervals of her discourse with
+LINE 117: Mrs. Collins, she addressed a variety of questions to Maria and
+LINE 118: Elizabeth, but especially to the latter, of whose connections she knew
+LINE 119: the least, and who, she observed to Mrs. Collins, was a very genteel,
+LINE 120: pretty kind of girl. She asked her at different times how many sisters
+LINE 121: she had, whether they were older or younger than herself, whether any of
+LINE 122: them were likely to be married, whether they were handsome, where they
+LINE 123: had been educated, what carriage her father kept, and what had been her
+LINE 124: mother's maiden name? Elizabeth felt all the impertinence of her
+LINE 125: questions, but answered them very composedly. Lady Catherine then
+LINE 126: observed,--
+LINE 127: "Your father's estate is entailed on Mr. Collins, I think? For your
+LINE 128: sake," turning to Charlotte, "I am glad of it; but otherwise I see no
+LINE 129: occasion for entailing estates from the female line. It was not thought
+LINE 130: necessary in Sir Lewis de Bourgh's family. Do you play and sing, Miss
+LINE 131: Bennet?"
+LINE 132: "A little."
+LINE 133: "Oh then--some time or other we shall be happy to hear you. Our
+LINE 134: instrument is a capital one, probably superior to ---- you shall try it
+LINE 135: some day. Do your sisters play and sing?"
+LINE 136: "One of them does."
+LINE 137: "Why did not you all learn? You ought all to have learned. The Miss
+LINE 138: Webbs all play, and their father has not so good an income as yours. Do
+LINE 139: you draw?"
+LINE 140: "No, not at all."
+LINE 141: "What, none of you?"
+LINE 142: "Not one."
+LINE 143: "That is very strange. But I suppose you had no opportunity. Your mother
+LINE 144: should have taken you to town every spring for the benefit of masters."
+LINE 145: "My mother would have no objection, but my father hates London."
+LINE 146: "Has your governess left you?"
+LINE 147: "We never had any governess."
+LINE 148: "No governess! How was that possible? Five daughters brought up at home
+LINE 149: without a governess! I never heard of such a thing. Your mother must
+LINE 150: have been quite a slave to your education."
+LINE 151: Elizabeth could hardly help smiling, as she assured her that had not
+LINE 152: been the case.
+LINE 153: "Then who taught you? who attended to you? Without a governess, you must
+LINE 154: have been neglected."
+LINE 155: "Compared with some families, I believe we were; but such of us as
+LINE 156: wished to learn never wanted the means. We were always encouraged to
+LINE 157: read, and had all the masters that were necessary. Those who chose to be
+LINE 158: idle certainly might."
+LINE 159: "Ay, no doubt: but that is what a governess will prevent; and if I had
+LINE 160: known your mother, I should have advised her most strenuously to engage
+LINE 161: one. I always say that nothing is to be done in education without steady
+LINE 162: and regular instruction, and nobody but a governess can give it. It is
+LINE 163: wonderful how many families I have been the means of supplying in that
+LINE 164: way. I am always glad to get a young person well placed out. Four nieces
+LINE 165: of Mrs. Jenkinson are most delightfully situated through my means; and
+LINE 166: it was but the other day that I recommended another young person, who
+LINE 167: was merely accidentally mentioned to me, and the family are quite
+LINE 168: delighted with her. Mrs. Collins, did I tell you of Lady Metcalfe's
+LINE 169: calling yesterday to thank me? She finds Miss Pope a treasure. 'Lady
+LINE 170: Catherine,' said she, 'you have given me a treasure.' Are any of your
+LINE 171: younger sisters out, Miss Bennet?"
+LINE 172: "Yes, ma'am, all."
+LINE 173: "All! What, all five out at once? Very odd! And you only the second. The
+LINE 174: younger ones out before the elder are married! Your younger sisters must
+LINE 175: be very young?"
+LINE 176: "Yes, my youngest is not sixteen. Perhaps _she_ is full young to be much
+LINE 177: in company. But really, ma'am, I think it would be very hard upon
+LINE 178: younger sisters that they should not have their share of society and
+LINE 179: amusement, because the elder may not have the means or inclination to
+LINE 180: marry early. The last born has as good a right to the pleasures of youth
+LINE 181: as the first. And to be kept back on _such_ a motive! I think it would
+LINE 182: not be very likely to promote sisterly affection or delicacy of mind."
+LINE 183: "Upon my word," said her Ladyship, "you give your opinion very decidedly
+LINE 184: for so young a person. Pray, what is your age?"
+LINE 185: "With three younger sisters grown up," replied Elizabeth, smiling, "your
+LINE 186: Ladyship can hardly expect me to own it."
+LINE 187: Lady Catherine seemed quite astonished at not receiving a direct answer;
+LINE 188: and Elizabeth suspected herself to be the first creature who had ever
+LINE 189: dared to trifle with so much dignified impertinence.
+LINE 190: "You cannot be more than twenty, I am sure,--therefore you need not
+LINE 191: conceal your age."
+LINE 192: "I am not one-and-twenty."
+LINE 193: When the gentlemen had joined them, and tea was over, the card tables
+LINE 194: were placed. Lady Catherine, Sir William, and Mr. and Mrs. Collins sat
+LINE 195: down to quadrille; and as Miss De Bourgh chose to play at cassino, the
+LINE 196: two girls had the honour of assisting Mrs. Jenkinson to make up her
+LINE 197: party. Their table was superlatively stupid. Scarcely a syllable was
+LINE 198: uttered that did not relate to the game, except when Mrs. Jenkinson
+LINE 199: expressed her fears of Miss De Bourgh's being too hot or too cold, or
+LINE 200: having too much or too little light. A great deal more passed at the
+LINE 201: other table. Lady Catherine was generally speaking--stating the mistakes
+LINE 202: of the three others, or relating some anecdote of herself. Mr. Collins
+LINE 203: was employed in agreeing to everything her Ladyship said, thanking her
+LINE 204: for every fish he won, and apologizing if he thought he won too many.
+LINE 205: Sir William did not say much. He was storing his memory with anecdotes
+LINE 206: and noble names.
+LINE 207: When Lady Catherine and her daughter had played as long as they chose,
+LINE 208: the tables were broken up, the carriage was offered to Mrs. Collins,
+LINE 209: gratefully accepted, and immediately ordered. The party then gathered
+LINE 210: round the fire to hear Lady Catherine determine what weather they were
+LINE 211: to have on the morrow. From these instructions they were summoned by the
+LINE 212: arrival of the coach; and with many speeches of thankfulness on Mr.
+LINE 213: Collins's side, and as many bows on Sir William's, they departed. As
+LINE 214: soon as they had driven from the door, Elizabeth was called on by her
+LINE 215: cousin to give her opinion of all that she had seen at Rosings, which,
+LINE 216: for Charlotte's sake, she made more favourable than it really was. But
+LINE 217: her commendation, though costing her some trouble, could by no means
+LINE 218: satisfy Mr. Collins, and he was very soon obliged to take her Ladyship's
+LINE 219: praise into his own hands.
+LINE 220: [Illustration]

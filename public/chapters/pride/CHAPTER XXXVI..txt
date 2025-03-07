@@ -1,0 +1,182 @@
+LINE 1: [Illustration]
+LINE 2: Elizabeth, when Mr. Darcy gave her the letter, did not expect it to
+LINE 3: contain a renewal of his offers, she had formed no expectation at all of
+LINE 4: its contents. But such as they were, it may be well supposed how eagerly
+LINE 5: she went through them, and what a contrariety of emotion they excited.
+LINE 6: Her feelings as she read were scarcely to be defined. With amazement did
+LINE 7: she first understand that he believed any apology to be in his power;
+LINE 8: and steadfastly was she persuaded, that he could have no explanation to
+LINE 9: give, which a just sense of shame would not conceal. With a strong
+LINE 10: prejudice against everything he might say, she began his account of
+LINE 11: what had happened at Netherfield. She read with an eagerness which
+LINE 12: hardly left her power of comprehension; and from impatience of knowing
+LINE 13: what the next sentence might bring, was incapable of attending to the
+LINE 14: sense of the one before her eyes. His belief of her sister's
+LINE 15: insensibility she instantly resolved to be false; and his account of the
+LINE 16: real, the worst objections to the match, made her too angry to have any
+LINE 17: wish of doing him justice. He expressed no regret for what he had done
+LINE 18: which satisfied her; his style was not penitent, but haughty. It was all
+LINE 19: pride and insolence.
+LINE 20: But when this subject was succeeded by his account of Mr. Wickham--when
+LINE 21: she read, with somewhat clearer attention, a relation of events which,
+LINE 22: if true, must overthrow every cherished opinion of his worth, and which
+LINE 23: bore so alarming an affinity to his own history of himself--her feelings
+LINE 24: were yet more acutely painful and more difficult of definition.
+LINE 25: Astonishment, apprehension, and even horror, oppressed her. She wished
+LINE 26: to discredit it entirely, repeatedly exclaiming, "This must be false!
+LINE 27: This cannot be! This must be the grossest falsehood!"--and when she had
+LINE 28: gone through the whole letter, though scarcely knowing anything of the
+LINE 29: last page or two, put it hastily away, protesting that she would not
+LINE 30: regard it, that she would never look in it again.
+LINE 31: In this perturbed state of mind, with thoughts that could rest on
+LINE 32: nothing, she walked on; but it would not do: in half a minute the letter
+LINE 33: was unfolded again; and collecting herself as well as she could, she
+LINE 34: again began the mortifying perusal of all that related to Wickham, and
+LINE 35: commanded herself so far as to examine the meaning of every sentence.
+LINE 36: The account of his connection with the Pemberley family was exactly
+LINE 37: what he had related himself; and the kindness of the late Mr. Darcy,
+LINE 38: though she had not before known its extent, agreed equally well with his
+LINE 39: own words. So far each recital confirmed the other; but when she came to
+LINE 40: the will, the difference was great. What Wickham had said of the living
+LINE 41: was fresh in her memory; and as she recalled his very words, it was
+LINE 42: impossible not to feel that there was gross duplicity on one side or the
+LINE 43: other, and, for a few moments, she flattered herself that her wishes did
+LINE 44: not err. But when she read and re-read, with the closest attention, the
+LINE 45: particulars immediately following of Wickham's resigning all pretensions
+LINE 46: to the living, of his receiving in lieu so considerable a sum as three
+LINE 47: thousand pounds, again was she forced to hesitate. She put down the
+LINE 48: letter, weighed every circumstance with what she meant to be
+LINE 49: impartiality--deliberated on the probability of each statement--but with
+LINE 50: little success. On both sides it was only assertion. Again she read on.
+LINE 51: But every line proved more clearly that the affair, which she had
+LINE 52: believed it impossible that any contrivance could so represent as to
+LINE 53: render Mr. Darcy's conduct in it less than infamous, was capable of a
+LINE 54: turn which must make him entirely blameless throughout the whole.
+LINE 55: The extravagance and general profligacy which he scrupled not to lay to
+LINE 56: Mr. Wickham's charge exceedingly shocked her; the more so, as she could
+LINE 57: bring no proof of its injustice. She had never heard of him before his
+LINE 58: entrance into the ----shire militia, in which he had engaged at the
+LINE 59: persuasion of the young man, who, on meeting him accidentally in town,
+LINE 60: had there renewed a slight acquaintance. Of his former way of life,
+LINE 61: nothing had been known in Hertfordshire but what he told
+LINE 62: [Illustration:
+LINE 63: "Meeting accidentally in Town"
+LINE 64: [_Copyright 1894 by George Allen._]]
+LINE 65: himself. As to his real character, had information been in her power,
+LINE 66: she had never felt a wish of inquiring. His countenance, voice, and
+LINE 67: manner, had established him at once in the possession of every virtue.
+LINE 68: She tried to recollect some instance of goodness, some distinguished
+LINE 69: trait of integrity or benevolence, that might rescue him from the
+LINE 70: attacks of Mr. Darcy; or at least, by the predominance of virtue, atone
+LINE 71: for those casual errors, under which she would endeavour to class what
+LINE 72: Mr. Darcy had described as the idleness and vice of many years'
+LINE 73: continuance. But no such recollection befriended her. She could see him
+LINE 74: instantly before her, in every charm of air and address, but she could
+LINE 75: remember no more substantial good than the general approbation of the
+LINE 76: neighbourhood, and the regard which his social powers had gained him in
+LINE 77: the mess. After pausing on this point a considerable while, she once
+LINE 78: more continued to read. But, alas! the story which followed, of his
+LINE 79: designs on Miss Darcy, received some confirmation from what had passed
+LINE 80: between Colonel Fitzwilliam and herself only the morning before; and at
+LINE 81: last she was referred for the truth of every particular to Colonel
+LINE 82: Fitzwilliam himself--from whom she had previously received the
+LINE 83: information of his near concern in all his cousin's affairs and whose
+LINE 84: character she had no reason to question. At one time she had almost
+LINE 85: resolved on applying to him, but the idea was checked by the awkwardness
+LINE 86: of the application, and at length wholly banished by the conviction that
+LINE 87: Mr. Darcy would never have hazarded such a proposal, if he had not been
+LINE 88: well assured of his cousin's corroboration.
+LINE 89: She perfectly remembered everything that had passed in conversation
+LINE 90: between Wickham and herself in their first evening at Mr. Philips's.
+LINE 91: Many of his expressions were still fresh in her memory. She was _now_
+LINE 92: struck with the impropriety of such communications to a stranger, and
+LINE 93: wondered it had escaped her before. She saw the indelicacy of putting
+LINE 94: himself forward as he had done, and the inconsistency of his professions
+LINE 95: with his conduct. She remembered that he had boasted of having no fear
+LINE 96: of seeing Mr. Darcy--that Mr. Darcy might leave the country, but that
+LINE 97: _he_ should stand his ground; yet he had avoided the Netherfield ball
+LINE 98: the very next week. She remembered, also, that till the Netherfield
+LINE 99: family had quitted the country, he had told his story to no one but
+LINE 100: herself; but that after their removal, it had been everywhere discussed;
+LINE 101: that he had then no reserves, no scruples in sinking Mr. Darcy's
+LINE 102: character, though he had assured her that respect for the father would
+LINE 103: always prevent his exposing the son.
+LINE 104: How differently did everything now appear in which he was concerned! His
+LINE 105: attentions to Miss King were now the consequence of views solely and
+LINE 106: hatefully mercenary; and the mediocrity of her fortune proved no longer
+LINE 107: the moderation of his wishes, but his eagerness to grasp at anything.
+LINE 108: His behaviour to herself could now have had no tolerable motive: he had
+LINE 109: either been deceived with regard to her fortune, or had been gratifying
+LINE 110: his vanity by encouraging the preference which she believed she had most
+LINE 111: incautiously shown. Every lingering struggle in his favour grew fainter
+LINE 112: and fainter; and in further justification of Mr. Darcy, she could not
+LINE 113: but allow that Mr. Bingley, when questioned by Jane, had long ago
+LINE 114: asserted his blamelessness in the affair;--that, proud and repulsive as
+LINE 115: were his manners, she had never, in the whole course of their
+LINE 116: acquaintance--an acquaintance which had latterly brought them much
+LINE 117: together, and given her a sort of intimacy with his ways--seen anything
+LINE 118: that betrayed him to be unprincipled or unjust--anything that spoke him
+LINE 119: of irreligious or immoral habits;--that among his own connections he was
+LINE 120: esteemed and valued;--that even Wickham had allowed him merit as a
+LINE 121: brother, and that she had often heard him speak so affectionately of his
+LINE 122: sister as to prove him capable of some amiable feeling;--that had his
+LINE 123: actions been what Wickham represented them, so gross a violation of
+LINE 124: everything right could hardly have been concealed from the world; and
+LINE 125: that friendship between a person capable of it and such an amiable man
+LINE 126: as Mr. Bingley was incomprehensible.
+LINE 127: She grew absolutely ashamed of herself. Of neither Darcy nor Wickham
+LINE 128: could she think, without feeling that she had been blind, partial,
+LINE 129: prejudiced, absurd.
+LINE 130: "How despicably have I acted!" she cried. "I, who have prided myself on
+LINE 131: my discernment! I, who have valued myself on my abilities! who have
+LINE 132: often disdained the generous candour of my sister, and gratified my
+LINE 133: vanity in useless or blameless distrust. How humiliating is this
+LINE 134: discovery! Yet, how just a humiliation! Had I been in love, I could not
+LINE 135: have been more wretchedly blind. But vanity, not love, has been my
+LINE 136: folly. Pleased with the preference of one, and offended by the neglect
+LINE 137: of the other, on the very beginning of our acquaintance, I have courted
+LINE 138: prepossession and ignorance, and driven reason away where either were
+LINE 139: concerned. Till this moment, I never knew myself."
+LINE 140: From herself to Jane, from Jane to Bingley, her thoughts were in a line
+LINE 141: which soon brought to her recollection that Mr. Darcy's explanation
+LINE 142: _there_ had appeared very insufficient; and she read it again. Widely
+LINE 143: different was the effect of a second perusal. How could she deny that
+LINE 144: credit to his assertions, in one instance, which she had been obliged to
+LINE 145: give in the other? He declared himself to have been totally unsuspicious
+LINE 146: of her sister's attachment; and she could not help remembering what
+LINE 147: Charlotte's opinion had always been. Neither could she deny the justice
+LINE 148: of his description of Jane. She felt that Jane's feelings, though
+LINE 149: fervent, were little displayed, and that there was a constant
+LINE 150: complacency in her air and manner, not often united with great
+LINE 151: sensibility.
+LINE 152: When she came to that part of the letter in which her family were
+LINE 153: mentioned, in tones of such mortifying, yet merited, reproach, her sense
+LINE 154: of shame was severe. The justice of the charge struck her too forcibly
+LINE 155: for denial; and the circumstances to which he particularly alluded, as
+LINE 156: having passed at the Netherfield ball, and as confirming all his first
+LINE 157: disapprobation, could not have made a stronger impression on his mind
+LINE 158: than on hers.
+LINE 159: The compliment to herself and her sister was not unfelt. It soothed, but
+LINE 160: it could not console her for the contempt which had been thus
+LINE 161: self-attracted by the rest of her family; and as she considered that
+LINE 162: Jane's disappointment had, in fact, been the work of her nearest
+LINE 163: relations, and reflected how materially the credit of both must be hurt
+LINE 164: by such impropriety of conduct, she felt depressed beyond anything she
+LINE 165: had ever known before.
+LINE 166: After wandering along the lane for two hours, giving way to every
+LINE 167: variety of thought, reconsidering events, determining probabilities, and
+LINE 168: reconciling herself, as well as she could, to a change so sudden and so
+LINE 169: important, fatigue, and a recollection of her long absence, made her at
+LINE 170: length return home; and she entered the house with the wish of appearing
+LINE 171: cheerful as usual, and the resolution of repressing such reflections as
+LINE 172: must make her unfit for conversation.
+LINE 173: She was immediately told, that the two gentlemen from Rosings had each
+LINE 174: called during her absence; Mr. Darcy, only for a few minutes, to take
+LINE 175: leave, but that Colonel Fitzwilliam had been sitting with them at least
+LINE 176: an hour, hoping for her return, and almost resolving to walk after her
+LINE 177: till she could be found. Elizabeth could but just _affect_ concern in
+LINE 178: missing him; she really rejoiced at it. Colonel Fitzwilliam was no
+LINE 179: longer an object. She could think only of her letter.
+LINE 180: [Illustration:
+LINE 181: "His parting obeisance"
+LINE 182: ]

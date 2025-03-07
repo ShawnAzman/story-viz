@@ -1,0 +1,428 @@
+LINE 1: [Illustration]
+LINE 2: Elizabeth, as they drove along, watched for the first appearance of
+LINE 3: Pemberley Woods with some perturbation; and when at length they turned
+LINE 4: in at the lodge, her spirits were in a high flutter.
+LINE 5: The park was very large, and contained great variety of ground. They
+LINE 6: entered it in one of its lowest points, and drove for some time through
+LINE 7: a beautiful wood stretching over a wide extent.
+LINE 8: Elizabeth's mind was too full for conversation, but she saw and admired
+LINE 9: every remarkable spot and point of view. They gradually ascended for
+LINE 10: half a mile, and then found themselves at the top of a considerable
+LINE 11: eminence, where the wood ceased, and the eye was instantly caught by
+LINE 12: Pemberley House, situated on the opposite side of the valley, into which
+LINE 13: the road with some abruptness wound. It was a large, handsome stone
+LINE 14: building, standing well on rising ground, and backed by a ridge of high
+LINE 15: woody hills; and in front a stream of some natural importance was
+LINE 16: swelled into greater, but without any artificial appearance. Its banks
+LINE 17: were neither formal nor falsely adorned. Elizabeth was delighted. She
+LINE 18: had never seen a place for which nature had done more, or where natural
+LINE 19: beauty had been so little counteracted by an awkward taste. They were
+LINE 20: all of them warm in their admiration; and at that moment she felt that
+LINE 21: to be mistress of Pemberley might be something!
+LINE 22: They descended the hill, crossed the bridge, and drove to the door; and,
+LINE 23: while examining the nearer aspect of the house, all her apprehension of
+LINE 24: meeting its owner returned. She dreaded lest the chambermaid had been
+LINE 25: mistaken. On applying to see the place, they were admitted into the
+LINE 26: hall; and Elizabeth, as they waited for the housekeeper, had leisure to
+LINE 27: wonder at her being where she was.
+LINE 28: The housekeeper came; a respectable looking elderly woman, much less
+LINE 29: fine, and more civil, than she had any notion of finding her. They
+LINE 30: followed her into the dining-parlour. It was a large, well-proportioned
+LINE 31: room, handsomely fitted up. Elizabeth, after slightly surveying it, went
+LINE 32: to a window to enjoy its prospect. The hill, crowned with wood, from
+LINE 33: which they had descended, receiving increased abruptness from the
+LINE 34: distance, was a beautiful object. Every disposition of the ground was
+LINE 35: good; and she looked on the whole scene, the river, the trees scattered
+LINE 36: on its banks, and the winding of the valley, as far as she could trace
+LINE 37: it, with delight. As they passed into other rooms, these objects were
+LINE 38: taking different positions; but from every window there were beauties
+LINE 39: to be seen. The rooms were lofty and handsome, and their furniture
+LINE 40: suitable to the fortune of their proprietor; but Elizabeth saw, with
+LINE 41: admiration of his taste, that it was neither gaudy nor uselessly
+LINE 42: fine,--with less of splendour, and more real elegance, than the
+LINE 43: furniture of Rosings.
+LINE 44: "And of this place," thought she, "I might have been mistress! With
+LINE 45: these rooms I might have now been familiarly acquainted! Instead of
+LINE 46: viewing them as a stranger, I might have rejoiced in them as my own, and
+LINE 47: welcomed to them as visitors my uncle and aunt. But, no," recollecting
+LINE 48: herself, "that could never be; my uncle and aunt would have been lost to
+LINE 49: me; I should not have been allowed to invite them."
+LINE 50: This was a lucky recollection--it saved her from something like regret.
+LINE 51: She longed to inquire of the housekeeper whether her master were really
+LINE 52: absent, but had not courage for it. At length, however, the question was
+LINE 53: asked by her uncle; and she turned away with alarm, while Mrs. Reynolds
+LINE 54: replied, that he was; adding, "But we expect him to-morrow, with a large
+LINE 55: party of friends." How rejoiced was Elizabeth that their own journey had
+LINE 56: not by any circumstance been delayed a day!
+LINE 57: Her aunt now called her to look at a picture. She approached, and saw
+LINE 58: the likeness of Mr. Wickham, suspended, amongst several other
+LINE 59: miniatures, over the mantel-piece. Her aunt asked her, smilingly, how
+LINE 60: she liked it. The housekeeper came forward, and told them it was the
+LINE 61: picture of a young gentleman, the son of her late master's steward, who
+LINE 62: had been brought up by him at his own expense. "He is now gone into the
+LINE 63: army," she added; "but I am afraid he has turned out very wild."
+LINE 64: Mrs. Gardiner looked at her niece with a smile, but Elizabeth could not
+LINE 65: return it.
+LINE 66: "And that," said Mrs. Reynolds, pointing to another of the miniatures,
+LINE 67: "is my master--and very like him. It was drawn at the same time as the
+LINE 68: other--about eight years ago."
+LINE 69: "I have heard much of your master's fine person," said Mrs. Gardiner,
+LINE 70: looking at the picture; "it is a handsome face. But, Lizzy, you can tell
+LINE 71: us whether it is like or not."
+LINE 72: Mrs. Reynolds' respect for Elizabeth seemed to increase on this
+LINE 73: intimation of her knowing her master.
+LINE 74: "Does that young lady know Mr. Darcy?"
+LINE 75: Elizabeth coloured, and said, "A little."
+LINE 76: "And do not you think him a very handsome gentleman, ma'am?"
+LINE 77: "Yes, very handsome."
+LINE 78: "I am sure _I_ know none so handsome; but in the gallery upstairs you
+LINE 79: will see a finer, larger picture of him than this. This room was my late
+LINE 80: master's favourite room, and these miniatures are just as they used to
+LINE 81: be then. He was very fond of them."
+LINE 82: This accounted to Elizabeth for Mr. Wickham's being among them.
+LINE 83: Mrs. Reynolds then directed their attention to one of Miss Darcy, drawn
+LINE 84: when she was only eight years old.
+LINE 85: "And is Miss Darcy as handsome as her brother?" said Mr. Gardiner.
+LINE 86: "Oh, yes--the handsomest young lady that ever was seen; and so
+LINE 87: accomplished! She plays and sings all day long. In the next room is a
+LINE 88: new instrument just come down for her--a present from my master: she
+LINE 89: comes here to-morrow with him."
+LINE 90: Mr. Gardiner, whose manners were easy and pleasant, encouraged her
+LINE 91: communicativeness by his questions and remarks: Mrs. Reynolds, either
+LINE 92: from pride or attachment, had evidently great pleasure in talking of her
+LINE 93: master and his sister.
+LINE 94: "Is your master much at Pemberley in the course of the year?"
+LINE 95: "Not so much as I could wish, sir: but I dare say he may spend half his
+LINE 96: time here; and Miss Darcy is always down for the summer months."
+LINE 97: "Except," thought Elizabeth, "when she goes to Ramsgate."
+LINE 98: "If your master would marry, you might see more of him."
+LINE 99: "Yes, sir; but I do not know when _that_ will be. I do not know who is
+LINE 100: good enough for him."
+LINE 101: Mr. and Mrs. Gardiner smiled. Elizabeth could not help saying, "It is
+LINE 102: very much to his credit, I am sure, that you should think so."
+LINE 103: "I say no more than the truth, and what everybody will say that knows
+LINE 104: him," replied the other. Elizabeth thought this was going pretty far;
+LINE 105: and she listened with increasing astonishment as the housekeeper added,
+LINE 106: "I have never had a cross word from him in my life, and I have known him
+LINE 107: ever since he was four years old."
+LINE 108: This was praise of all others most extraordinary, most opposite to her
+LINE 109: ideas. That he was not a good-tempered man had been her firmest opinion.
+LINE 110: Her keenest attention was awakened: she longed to hear more; and was
+LINE 111: grateful to her uncle for saying,--
+LINE 112: "There are very few people of whom so much can be said. You are lucky in
+LINE 113: having such a master."
+LINE 114: "Yes, sir, I know I am. If I were to go through the world, I could not
+LINE 115: meet with a better. But I have always observed, that they who are
+LINE 116: good-natured when children, are good-natured when they grow up; and he
+LINE 117: was always the sweetest tempered, most generous-hearted boy in the
+LINE 118: world."
+LINE 119: Elizabeth almost stared at her. "Can this be Mr. Darcy?" thought she.
+LINE 120: "His father was an excellent man," said Mrs. Gardiner.
+LINE 121: "Yes, ma'am, that he was indeed; and his son will be just like him--just
+LINE 122: as affable to the poor."
+LINE 123: Elizabeth listened, wondered, doubted, and was impatient for more. Mrs.
+LINE 124: Reynolds could interest her on no other point. She related the subjects
+LINE 125: of the pictures, the dimensions of the rooms, and the price of the
+LINE 126: furniture in vain. Mr. Gardiner, highly amused by the kind of family
+LINE 127: prejudice, to which he attributed her excessive commendation of her
+LINE 128: master, soon led again to the subject; and she dwelt with energy on his
+LINE 129: many merits, as they proceeded together up the great staircase.
+LINE 130: "He is the best landlord, and the best master," said she, "that ever
+LINE 131: lived. Not like the wild young men now-a-days, who think of nothing but
+LINE 132: themselves. There is not one of his tenants or servants but what will
+LINE 133: give him a good name. Some people call him proud; but I am sure I never
+LINE 134: saw anything of it. To my fancy, it is only because he does not rattle
+LINE 135: away like other young men."
+LINE 136: "In what an amiable light does this place him!" thought Elizabeth.
+LINE 137: "This fine account of him," whispered her aunt as they walked, "is not
+LINE 138: quite consistent with his behaviour to our poor friend."
+LINE 139: "Perhaps we might be deceived."
+LINE 140: "That is not very likely; our authority was too good."
+LINE 141: On reaching the spacious lobby above, they were shown into a very pretty
+LINE 142: sitting-room, lately fitted up with greater elegance and lightness than
+LINE 143: the apartments below; and were informed that it was but just done to
+LINE 144: give pleasure to Miss Darcy, who had taken a liking to the room, when
+LINE 145: last at Pemberley.
+LINE 146: "He is certainly a good brother," said Elizabeth, as she walked towards
+LINE 147: one of the windows.
+LINE 148: Mrs. Reynolds anticipated Miss Darcy's delight, when she should enter
+LINE 149: the room. "And this is always the way with him," she added. "Whatever
+LINE 150: can give his sister any pleasure, is sure to be done in a moment. There
+LINE 151: is nothing he would not do for her."
+LINE 152: The picture gallery, and two or three of the principal bed-rooms, were
+LINE 153: all that remained to be shown. In the former were many good paintings:
+LINE 154: but Elizabeth knew nothing of the art; and from such as had been already
+LINE 155: visible below, she had willingly turned to look at some drawings of Miss
+LINE 156: Darcy's, in crayons, whose subjects were usually more interesting, and
+LINE 157: also more intelligible.
+LINE 158: In the gallery there were many family portraits, but they could have
+LINE 159: little to fix the attention of a stranger. Elizabeth walked on in quest
+LINE 160: of the only face whose features would be known to her. At last it
+LINE 161: arrested her--and she beheld a striking resemblance of Mr. Darcy, with
+LINE 162: such a smile over the face, as she remembered to have sometimes seen,
+LINE 163: when he looked at her. She stood several minutes before the picture, in
+LINE 164: earnest contemplation, and returned to it again before they quitted the
+LINE 165: gallery. Mrs. Reynolds informed them, that it had been taken in his
+LINE 166: father's lifetime.
+LINE 167: There was certainly at this moment, in Elizabeth's mind, a more gentle
+LINE 168: sensation towards the original than she had ever felt in the height of
+LINE 169: their acquaintance. The commendation bestowed on him by Mrs. Reynolds
+LINE 170: was of no trifling nature. What praise is more valuable than the praise
+LINE 171: of an intelligent servant? As a brother, a landlord, a master, she
+LINE 172: considered how many people's happiness were in his guardianship! How
+LINE 173: much of pleasure or pain it was in his power to bestow! How much of good
+LINE 174: or evil must be done by him! Every idea that had been brought forward by
+LINE 175: the housekeeper was favourable to his character; and as she stood before
+LINE 176: the canvas, on which he was represented, and fixed his eyes upon
+LINE 177: herself, she thought of his regard with a deeper sentiment of gratitude
+LINE 178: than it had ever raised before: she remembered its warmth, and softened
+LINE 179: its impropriety of expression.
+LINE 180: When all of the house that was open to general inspection had been seen,
+LINE 181: they returned down stairs; and, taking leave of the housekeeper, were
+LINE 182: consigned over to the gardener, who met them at the hall door.
+LINE 183: As they walked across the lawn towards the river, Elizabeth turned back
+LINE 184: to look again; her uncle and aunt stopped also; and while the former was
+LINE 185: conjecturing as to the date of the building, the owner of it himself
+LINE 186: suddenly came forward from the road which led behind it to the stables.
+LINE 187: They were within twenty yards of each other; and so abrupt was his
+LINE 188: appearance, that it was impossible to avoid his sight. Their eyes
+LINE 189: instantly met, and the cheeks of each were overspread with the deepest
+LINE 190: blush. He absolutely started, and for a moment seemed immovable from
+LINE 191: surprise; but shortly recovering himself, advanced towards the party,
+LINE 192: and spoke to Elizabeth, if not in terms of perfect composure, at least
+LINE 193: of perfect civility.
+LINE 194: She had instinctively turned away; but stopping on his approach,
+LINE 195: received his compliments with an embarrassment impossible to be
+LINE 196: overcome. Had his first appearance, or his resemblance to the picture
+LINE 197: they had just been examining, been insufficient to assure the other two
+LINE 198: that they now saw Mr. Darcy, the gardener's expression of surprise, on
+LINE 199: beholding his master, must immediately have told it. They stood a little
+LINE 200: aloof while he was talking to their niece, who, astonished and confused,
+LINE 201: scarcely dared lift her eyes to his face, and knew not what answer she
+LINE 202: returned to his civil inquiries after her family. Amazed at the
+LINE 203: alteration of his manner since they last parted, every sentence that he
+LINE 204: uttered was increasing her embarrassment; and every idea of the
+LINE 205: impropriety of her being found there recurring to her mind, the few
+LINE 206: minutes in which they continued together were some of the most
+LINE 207: uncomfortable of her life. Nor did he seem much more at ease; when he
+LINE 208: spoke, his accent had none of its usual sedateness; and he repeated his
+LINE 209: inquiries as to the time of her having left Longbourn, and of her stay
+LINE 210: in Derbyshire, so often, and in so hurried a way, as plainly spoke the
+LINE 211: distraction of his thoughts.
+LINE 212: At length, every idea seemed to fail him; and after standing a few
+LINE 213: moments without saying a word, he suddenly recollected himself, and took
+LINE 214: leave.
+LINE 215: The others then joined her, and expressed their admiration of his
+LINE 216: figure; but Elizabeth heard not a word, and, wholly engrossed by her own
+LINE 217: feelings, followed them in silence. She was overpowered by shame and
+LINE 218: vexation. Her coming there was the most unfortunate, the most ill-judged
+LINE 219: thing in the world! How strange must it appear to him! In what a
+LINE 220: disgraceful light might it not strike so vain a man! It might seem as if
+LINE 221: she had purposely thrown herself in his way again! Oh! why did she come?
+LINE 222: or, why did he thus come a day before he was expected? Had they been
+LINE 223: only ten minutes sooner, they should have been beyond the reach of his
+LINE 224: discrimination; for it was plain that he was that moment arrived, that
+LINE 225: moment alighted from his horse or his carriage. She blushed again and
+LINE 226: again over the perverseness of the meeting. And his behaviour, so
+LINE 227: strikingly altered,--what could it mean? That he should even speak to
+LINE 228: her was amazing!--but to speak with such civility, to inquire after her
+LINE 229: family! Never in her life had she seen his manners so little dignified,
+LINE 230: never had he spoken with such gentleness as on this unexpected meeting.
+LINE 231: What a contrast did it offer to his last address in Rosings Park, when
+LINE 232: he put his letter into her hand! She knew not what to think, or how to
+LINE 233: account for it.
+LINE 234: They had now entered a beautiful walk by the side of the water, and
+LINE 235: every step was bringing forward a nobler fall of ground, or a finer
+LINE 236: reach of the woods to which they were approaching: but it was some time
+LINE 237: before Elizabeth was sensible of any of it; and, though she answered
+LINE 238: mechanically to the repeated appeals of her uncle and aunt, and seemed
+LINE 239: to direct her eyes to such objects as they pointed out, she
+LINE 240: distinguished no part of the scene. Her thoughts were all fixed on that
+LINE 241: one spot of Pemberley House, whichever it might be, where Mr. Darcy then
+LINE 242: was. She longed to know what at that moment was passing in his mind; in
+LINE 243: what manner he thought of her, and whether, in defiance of everything,
+LINE 244: she was still dear to him. Perhaps he had been civil only because he
+LINE 245: felt himself at ease; yet there had been _that_ in his voice, which was
+LINE 246: not like ease. Whether he had felt more of pain or of pleasure in seeing
+LINE 247: her, she could not tell, but he certainly had not seen her with
+LINE 248: composure.
+LINE 249: At length, however, the remarks of her companions on her absence of mind
+LINE 250: roused her, and she felt the necessity of appearing more like herself.
+LINE 251: They entered the woods, and, bidding adieu to the river for a while,
+LINE 252: ascended some of the higher grounds; whence, in spots where the opening
+LINE 253: of the trees gave the eye power to wander, were many charming views of
+LINE 254: the valley, the opposite hills, with the long range of woods
+LINE 255: overspreading many, and occasionally part of the stream. Mr. Gardiner
+LINE 256: expressed a wish of going round the whole park, but feared it might be
+LINE 257: beyond a walk. With a triumphant smile, they were told, that it was ten
+LINE 258: miles round. It settled the matter; and they pursued the accustomed
+LINE 259: circuit; which brought them again, after some time, in a descent among
+LINE 260: hanging woods, to the edge of the water, and one of its narrowest parts.
+LINE 261: They crossed it by a simple bridge, in character with the general air of
+LINE 262: the scene: it was a spot less adorned than any they had yet visited; and
+LINE 263: the valley, here contracted into a glen, allowed room only for the
+LINE 264: stream, and a narrow walk amidst the rough coppice-wood which bordered
+LINE 265: it. Elizabeth longed to explore its windings; but when they had crossed
+LINE 266: the bridge, and perceived their distance from the house, Mrs. Gardiner,
+LINE 267: who was not a great walker, could go no farther, and thought only of
+LINE 268: returning to the carriage as quickly as possible. Her niece was,
+LINE 269: therefore, obliged to submit, and they took their way towards the house
+LINE 270: on the opposite side of the river, in the nearest direction; but their
+LINE 271: progress was slow, for Mr. Gardiner, though seldom able to indulge the
+LINE 272: taste, was very fond of fishing, and was so much engaged in watching the
+LINE 273: occasional appearance of some trout in the water, and talking to the man
+LINE 274: about them, that he advanced but little. Whilst wandering on in this
+LINE 275: slow manner, they were again surprised, and Elizabeth's astonishment was
+LINE 276: quite equal to what it had been at first, by the sight of Mr. Darcy
+LINE 277: approaching them, and at no great distance. The walk being here less
+LINE 278: sheltered than on the other side, allowed them to see him before they
+LINE 279: met. Elizabeth, however astonished, was at least more prepared for an
+LINE 280: interview than before, and resolved to appear and to speak with
+LINE 281: calmness, if he really intended to meet them. For a few moments, indeed,
+LINE 282: she felt that he would probably strike into some other path. The idea
+LINE 283: lasted while a turning in the walk concealed him from their view; the
+LINE 284: turning past, he was immediately before them. With a glance she saw that
+LINE 285: he had lost none of his recent civility; and, to imitate his politeness,
+LINE 286: she began as they met to admire the beauty of the place; but she had not
+LINE 287: got beyond the words "delightful," and "charming," when some unlucky
+LINE 288: recollections obtruded, and she fancied that praise of Pemberley from
+LINE 289: her might be mischievously construed. Her colour changed, and she said
+LINE 290: no more.
+LINE 291: Mrs. Gardiner was standing a little behind; and on her pausing, he asked
+LINE 292: her if she would do him the honour of introducing him to her friends.
+LINE 293: This was a stroke of civility for which she was quite unprepared; and
+LINE 294: she could hardly suppress a smile at his being now seeking the
+LINE 295: acquaintance of some of those very people, against whom his pride had
+LINE 296: revolted, in his offer to herself. "What will be his surprise," thought
+LINE 297: she, "when he knows who they are! He takes them now for people of
+LINE 298: fashion."
+LINE 299: The introduction, however, was immediately made; and as she named their
+LINE 300: relationship to herself, she stole a sly look at him, to see how he bore
+LINE 301: it; and was not without the expectation of his decamping as fast as he
+LINE 302: could from such disgraceful companions. That he was _surprised_ by the
+LINE 303: connection was evident: he sustained it, however, with fortitude: and,
+LINE 304: so far from going away, turned back with them, and entered into
+LINE 305: conversation with Mr. Gardiner. Elizabeth could not but be pleased,
+LINE 306: could not but triumph. It was consoling that he should know she had some
+LINE 307: relations for whom there was no need to blush. She listened most
+LINE 308: attentively to all that passed between them, and gloried in every
+LINE 309: expression, every sentence of her uncle, which marked his intelligence,
+LINE 310: his taste, or his good manners.
+LINE 311: The conversation soon turned upon fishing; and she heard Mr. Darcy
+LINE 312: invite him, with the greatest civility, to fish there as often as he
+LINE 313: chose, while he continued in the neighbourhood, offering at the same
+LINE 314: time to supply him with fishing tackle, and pointing out those parts of
+LINE 315: the stream where there was usually most sport. Mrs. Gardiner, who was
+LINE 316: walking arm in arm with Elizabeth, gave her a look expressive of her
+LINE 317: wonder. Elizabeth said nothing, but it gratified her exceedingly; the
+LINE 318: compliment must be all for herself. Her astonishment, however, was
+LINE 319: extreme; and continually was she repeating, "Why is he so altered? From
+LINE 320: what can it proceed? It cannot be for _me_, it cannot be for _my_ sake
+LINE 321: that his manners are thus softened. My reproofs at Hunsford could not
+LINE 322: work such a change as this. It is impossible that he should still love
+LINE 323: me."
+LINE 324: After walking some time in this way, the two ladies in front, the two
+LINE 325: gentlemen behind, on resuming their places, after descending to the
+LINE 326: brink of the river for the better inspection of some curious
+LINE 327: water-plant, there chanced to be a little alteration. It originated in
+LINE 328: Mrs. Gardiner, who, fatigued by the exercise of the morning, found
+LINE 329: Elizabeth's arm inadequate to her support, and consequently preferred
+LINE 330: her husband's. Mr. Darcy took her place by her niece, and they walked on
+LINE 331: together. After a short silence the lady first spoke. She wished him to
+LINE 332: know that she had been assured of his absence before she came to the
+LINE 333: place, and accordingly began by observing, that his arrival had been
+LINE 334: very unexpected--"for your housekeeper," she added, "informed us that
+LINE 335: you would certainly not be here till to-morrow; and, indeed, before we
+LINE 336: left Bakewell, we understood that you were not immediately expected in
+LINE 337: the country." He acknowledged the truth of it all; and said that
+LINE 338: business with his steward had occasioned his coming forward a few hours
+LINE 339: before the rest of the party with whom he had been travelling. "They
+LINE 340: will join me early to-morrow," he continued, "and among them are some
+LINE 341: who will claim an acquaintance with you,--Mr. Bingley and his sisters."
+LINE 342: Elizabeth answered only by a slight bow. Her thoughts were instantly
+LINE 343: driven back to the time when Mr. Bingley's name had been last mentioned
+LINE 344: between them; and if she might judge from his complexion, _his_ mind was
+LINE 345: not very differently engaged.
+LINE 346: "There is also one other person in the party," he continued after a
+LINE 347: pause, "who more particularly wishes to be known to you. Will you allow
+LINE 348: me, or do I ask too much, to introduce my sister to your acquaintance
+LINE 349: during your stay at Lambton?"
+LINE 350: The surprise of such an application was great indeed; it was too great
+LINE 351: for her to know in what manner she acceded to it. She immediately felt
+LINE 352: that whatever desire Miss Darcy might have of being acquainted with her,
+LINE 353: must be the work of her brother, and without looking farther, it was
+LINE 354: satisfactory; it was gratifying to know that his resentment had not made
+LINE 355: him think really ill of her.
+LINE 356: They now walked on in silence; each of them deep in thought. Elizabeth
+LINE 357: was not comfortable; that was impossible; but she was flattered and
+LINE 358: pleased. His wish of introducing his sister to her was a compliment of
+LINE 359: the highest kind. They soon outstripped the others; and when they had
+LINE 360: reached the carriage, Mr. and Mrs. Gardiner were half a quarter of a
+LINE 361: mile behind.
+LINE 362: He then asked her to walk into the house--but she declared herself not
+LINE 363: tired, and they stood together on the lawn. At such a time much might
+LINE 364: have been said, and silence was very awkward. She wanted to talk, but
+LINE 365: there seemed an embargo on every subject. At last she recollected that
+LINE 366: she had been travelling, and they talked of Matlock and Dovedale with
+LINE 367: great perseverance. Yet time and her aunt moved slowly--and her patience
+LINE 368: and her ideas were nearly worn out before the _tête-à-tête_ was over.
+LINE 369: On Mr. and Mrs. Gardiner's coming up they were all pressed to go into
+LINE 370: the house and take some refreshment; but this was declined, and they
+LINE 371: parted on each side with the utmost politeness. Mr. Darcy handed the
+LINE 372: ladies into the carriage; and when it drove off, Elizabeth saw him
+LINE 373: walking slowly towards the house.
+LINE 374: The observations of her uncle and aunt now began; and each of them
+LINE 375: pronounced him to be infinitely superior to anything they had expected.
+LINE 376: "He is perfectly well-behaved, polite, and unassuming," said her uncle.
+LINE 377: "There _is_ something a little stately in him, to be sure," replied her
+LINE 378: aunt; "but it is confined to his air, and is not unbecoming. I can now
+LINE 379: say with the housekeeper, that though some people may call him proud,
+LINE 380: _I_ have seen nothing of it."
+LINE 381: "I was never more surprised than by his behaviour to us. It was more
+LINE 382: than civil; it was really attentive; and there was no necessity for such
+LINE 383: attention. His acquaintance with Elizabeth was very trifling."
+LINE 384: "To be sure, Lizzy," said her aunt, "he is not so handsome as Wickham;
+LINE 385: or rather he has not Wickham's countenance, for his features are
+LINE 386: perfectly good. But how came you to tell us that he was so
+LINE 387: disagreeable?"
+LINE 388: Elizabeth excused herself as well as she could: said that she had liked
+LINE 389: him better when they met in Kent than before, and that she had never
+LINE 390: seen him so pleasant as this morning.
+LINE 391: "But perhaps he may be a little whimsical in his civilities," replied
+LINE 392: her uncle. "Your great men often are; and therefore I shall not take him
+LINE 393: at his word about fishing, as he might change his mind another day, and
+LINE 394: warn me off his grounds."
+LINE 395: Elizabeth felt that they had entirely mistaken his character, but said
+LINE 396: nothing.
+LINE 397: "From what we have seen of him," continued Mrs. Gardiner, "I really
+LINE 398: should not have thought that he could have behaved in so cruel a way by
+LINE 399: anybody as he has done by poor Wickham. He has not an ill-natured look.
+LINE 400: On the contrary, there is something pleasing about his mouth when he
+LINE 401: speaks. And there is something of dignity in his countenance, that would
+LINE 402: not give one an unfavourable idea of his heart. But, to be sure, the
+LINE 403: good lady who showed us the house did give him a most flaming character!
+LINE 404: I could hardly help laughing aloud sometimes. But he is a liberal
+LINE 405: master, I suppose, and _that_, in the eye of a servant, comprehends
+LINE 406: every virtue."
+LINE 407: Elizabeth here felt herself called on to say something in vindication of
+LINE 408: his behaviour to Wickham; and, therefore, gave them to understand, in as
+LINE 409: guarded a manner as she could, that by what she had heard from his
+LINE 410: relations in Kent, his actions were capable of a very different
+LINE 411: construction; and that his character was by no means so faulty, nor
+LINE 412: Wickham's so amiable, as they had been considered in Hertfordshire. In
+LINE 413: confirmation of this, she related the particulars of all the pecuniary
+LINE 414: transactions in which they had been connected, without actually naming
+LINE 415: her authority, but stating it to be such as might be relied on.
+LINE 416: Mrs. Gardiner was surprised and concerned: but as they were now
+LINE 417: approaching the scene of her former pleasures, every idea gave way to
+LINE 418: the charm of recollection; and she was too much engaged in pointing out
+LINE 419: to her husband all the interesting spots in its environs, to think of
+LINE 420: anything else. Fatigued as she had been by the morning's walk, they had
+LINE 421: no sooner dined than she set off again in quest of her former
+LINE 422: acquaintance, and the evening was spent in the satisfactions of an
+LINE 423: intercourse renewed after many years' discontinuance.
+LINE 424: The occurrences of the day were too full of interest to leave Elizabeth
+LINE 425: much attention for any of these new friends; and she could do nothing
+LINE 426: but think, and think with wonder, of Mr. Darcy's civility, and, above
+LINE 427: all, of his wishing her to be acquainted with his sister.
+LINE 428: [Illustration]

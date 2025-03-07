@@ -1,0 +1,169 @@
+LINE 1: [Illustration]
+LINE 2: More than once did Elizabeth, in her ramble within the park,
+LINE 3: unexpectedly meet Mr. Darcy. She felt all the perverseness of the
+LINE 4: mischance that should bring him where no one else was brought; and, to
+LINE 5: prevent its ever happening again, took care to inform him, at first,
+LINE 6: that it was a favourite haunt of hers. How it could occur a second time,
+LINE 7: therefore, was very odd! Yet it did, and even the third. It seemed like
+LINE 8: wilful ill-nature, or a voluntary penance; for on these occasions it was
+LINE 9: not merely a few formal inquiries and an awkward pause and then away,
+LINE 10: but he actually thought it necessary to turn back and walk with her. He
+LINE 11: never said a great deal, nor did she give herself the trouble of talking
+LINE 12: or of listening much; but it struck her in the course of their third
+LINE 13: encounter that he was asking some odd unconnected questions--about her
+LINE 14: pleasure in being at Hunsford, her love of solitary walks, and her
+LINE 15: opinion of Mr. and Mrs. Collins's happiness; and that in speaking of
+LINE 16: Rosings, and her not perfectly understanding the house, he seemed to
+LINE 17: expect that whenever she came into Kent again she would be staying
+LINE 18: _there_ too. His words seemed to imply it. Could he have Colonel
+LINE 19: Fitzwilliam in his thoughts? She supposed, if he meant anything, he must
+LINE 20: mean an allusion to what might arise in that quarter. It distressed her
+LINE 21: a little, and she was quite glad to find herself at the gate in the
+LINE 22: pales opposite the Parsonage.
+LINE 23: She was engaged one day, as she walked, in re-perusing Jane's last
+LINE 24: letter, and dwelling on some passages which proved that Jane had not
+LINE 25: written in spirits, when, instead of being again surprised by Mr. Darcy,
+LINE 26: she saw, on looking up, that Colonel Fitzwilliam was meeting her.
+LINE 27: Putting away the letter immediately, and forcing a smile, she said,--
+LINE 28: "I did not know before that you ever walked this way."
+LINE 29: "I have been making the tour of the park," he replied, "as I generally
+LINE 30: do every year, and intended to close it with a call at the Parsonage.
+LINE 31: Are you going much farther?"
+LINE 32: "No, I should have turned in a moment."
+LINE 33: And accordingly she did turn, and they walked towards the Parsonage
+LINE 34: together.
+LINE 35: "Do you certainly leave Kent on Saturday?" said she.
+LINE 36: "Yes--if Darcy does not put it off again. But I am at his disposal. He
+LINE 37: arranges the business just as he pleases."
+LINE 38: "And if not able to please himself in the arrangement, he has at least
+LINE 39: great pleasure in the power of choice. I do not know anybody who seems
+LINE 40: more to enjoy the power of doing what he likes than Mr. Darcy."
+LINE 41: "He likes to have his own way very well," replied Colonel Fitzwilliam.
+LINE 42: "But so we all do. It is only that he has better means of having it than
+LINE 43: many others, because he is rich, and many others are poor. I speak
+LINE 44: feelingly. A younger son, you know, must be inured to self-denial and
+LINE 45: dependence."
+LINE 46: "In my opinion, the younger son of an earl can know very little of
+LINE 47: either. Now, seriously, what have you ever known of self-denial and
+LINE 48: dependence? When have you been prevented by want of money from going
+LINE 49: wherever you chose or procuring anything you had a fancy for?"
+LINE 50: "These are home questions--and perhaps I cannot say that I have
+LINE 51: experienced many hardships of that nature. But in matters of greater
+LINE 52: weight, I may suffer from the want of money. Younger sons cannot marry
+LINE 53: where they like."
+LINE 54: "Unless where they like women of fortune, which I think they very often
+LINE 55: do."
+LINE 56: "Our habits of expense make us too dependent, and there are not many in
+LINE 57: my rank of life who can afford to marry without some attention to
+LINE 58: money."
+LINE 59: "Is this," thought Elizabeth, "meant for me?" and she coloured at the
+LINE 60: idea; but, recovering herself, said in a lively tone, "And pray, what is
+LINE 61: the usual price of an earl's younger son? Unless the elder brother is
+LINE 62: very sickly, I suppose you would not ask above fifty thousand pounds."
+LINE 63: He answered her in the same style, and the subject dropped. To interrupt
+LINE 64: a silence which might make him fancy her affected with what had passed,
+LINE 65: she soon afterwards said,--
+LINE 66: "I imagine your cousin brought you down with him chiefly for the sake of
+LINE 67: having somebody at his disposal. I wonder he does not marry, to secure a
+LINE 68: lasting convenience of that kind. But, perhaps, his sister does as well
+LINE 69: for the present; and, as she is under his sole care, he may do what he
+LINE 70: likes with her."
+LINE 71: "No," said Colonel Fitzwilliam, "that is an advantage which he must
+LINE 72: divide with me. I am joined with him in the guardianship of Miss Darcy."
+LINE 73: "Are you, indeed? And pray what sort of a guardian do you make? Does
+LINE 74: your charge give you much trouble? Young ladies of her age are sometimes
+LINE 75: a little difficult to manage; and if she has the true Darcy spirit, she
+LINE 76: may like to have her own way."
+LINE 77: As she spoke, she observed him looking at her earnestly; and the manner
+LINE 78: in which he immediately asked her why she supposed Miss Darcy likely to
+LINE 79: give them any uneasiness, convinced her that she had somehow or other
+LINE 80: got pretty near the truth. She directly replied,--
+LINE 81: "You need not be frightened. I never heard any harm of her; and I dare
+LINE 82: say she is one of the most tractable creatures in the world. She is a
+LINE 83: very great favourite with some ladies of my acquaintance, Mrs. Hurst and
+LINE 84: Miss Bingley. I think I have heard you say that you know them."
+LINE 85: "I know them a little. Their brother is a pleasant, gentlemanlike
+LINE 86: man--he is a great friend of Darcy's."
+LINE 87: "Oh yes," said Elizabeth drily--"Mr. Darcy is uncommonly kind to Mr.
+LINE 88: Bingley, and takes a prodigious deal of care of him."
+LINE 89: "Care of him! Yes, I really believe Darcy _does_ take care of him in
+LINE 90: those points where he most wants care. From something that he told me
+LINE 91: in our journey hither, I have reason to think Bingley very much indebted
+LINE 92: to him. But I ought to beg his pardon, for I have no right to suppose
+LINE 93: that Bingley was the person meant. It was all conjecture."
+LINE 94: "What is it you mean?"
+LINE 95: "It is a circumstance which Darcy of course could not wish to be
+LINE 96: generally known, because if it were to get round to the lady's family it
+LINE 97: would be an unpleasant thing."
+LINE 98: "You may depend upon my not mentioning it."
+LINE 99: "And remember that I have not much reason for supposing it to be
+LINE 100: Bingley. What he told me was merely this: that he congratulated himself
+LINE 101: on having lately saved a friend from the inconveniences of a most
+LINE 102: imprudent marriage, but without mentioning names or any other
+LINE 103: particulars; and I only suspected it to be Bingley from believing him
+LINE 104: the kind of young man to get into a scrape of that sort, and from
+LINE 105: knowing them to have been together the whole of last summer."
+LINE 106: "Did Mr. Darcy give you his reasons for this interference?"
+LINE 107: "I understood that there were some very strong objections against the
+LINE 108: lady."
+LINE 109: "And what arts did he use to separate them?"
+LINE 110: "He did not talk to me of his own arts," said Fitzwilliam, smiling. "He
+LINE 111: only told me what I have now told you."
+LINE 112: Elizabeth made no answer, and walked on, her heart swelling with
+LINE 113: indignation. After watching her a little, Fitzwilliam asked her why she
+LINE 114: was so thoughtful.
+LINE 115: "I am thinking of what you have been telling me," said she. "Your
+LINE 116: cousin's conduct does not suit my feelings. Why was he to be the
+LINE 117: judge?"
+LINE 118: "You are rather disposed to call his interference officious?"
+LINE 119: "I do not see what right Mr. Darcy had to decide on the propriety of his
+LINE 120: friend's inclination; or why, upon his own judgment alone, he was to
+LINE 121: determine and direct in what manner that friend was to be happy. But,"
+LINE 122: she continued, recollecting herself, "as we know none of the
+LINE 123: particulars, it is not fair to condemn him. It is not to be supposed
+LINE 124: that there was much affection in the case."
+LINE 125: "That is not an unnatural surmise," said Fitzwilliam; "but it is
+LINE 126: lessening the honour of my cousin's triumph very sadly."
+LINE 127: This was spoken jestingly, but it appeared to her so just a picture of
+LINE 128: Mr. Darcy, that she would not trust herself with an answer; and,
+LINE 129: therefore, abruptly changing the conversation, talked on indifferent
+LINE 130: matters till they reached the Parsonage. There, shut into her own room,
+LINE 131: as soon as their visitor left them, she could think without interruption
+LINE 132: of all that she had heard. It was not to be supposed that any other
+LINE 133: people could be meant than those with whom she was connected. There
+LINE 134: could not exist in the world _two_ men over whom Mr. Darcy could have
+LINE 135: such boundless influence. That he had been concerned in the measures
+LINE 136: taken to separate Mr. Bingley and Jane, she had never doubted; but she
+LINE 137: had always attributed to Miss Bingley the principal design and
+LINE 138: arrangement of them. If his own vanity, however, did not mislead him,
+LINE 139: _he_ was the cause--his pride and caprice were the cause--of all that
+LINE 140: Jane had suffered, and still continued to suffer. He had ruined for a
+LINE 141: while every hope of happiness for the most affectionate, generous heart
+LINE 142: in the world; and no one could say how lasting an evil he might have
+LINE 143: inflicted.
+LINE 144: "There were some very strong objections against the lady," were Colonel
+LINE 145: Fitzwilliam's words; and these strong objections probably were, her
+LINE 146: having one uncle who was a country attorney, and another who was in
+LINE 147: business in London.
+LINE 148: "To Jane herself," she exclaimed, "there could be no possibility of
+LINE 149: objection,--all loveliness and goodness as she is! Her understanding
+LINE 150: excellent, her mind improved, and her manners captivating. Neither could
+LINE 151: anything be urged against my father, who, though with some
+LINE 152: peculiarities, has abilities which Mr. Darcy himself need not disdain,
+LINE 153: and respectability which he will probably never reach." When she thought
+LINE 154: of her mother, indeed, her confidence gave way a little; but she would
+LINE 155: not allow that any objections _there_ had material weight with Mr.
+LINE 156: Darcy, whose pride, she was convinced, would receive a deeper wound from
+LINE 157: the want of importance in his friend's connections than from their want
+LINE 158: of sense; and she was quite decided, at last, that he had been partly
+LINE 159: governed by this worst kind of pride, and partly by the wish of
+LINE 160: retaining Mr. Bingley for his sister.
+LINE 161: The agitation and tears which the subject occasioned brought on a
+LINE 162: headache; and it grew so much worse towards the evening that, added to
+LINE 163: her unwillingness to see Mr. Darcy, it determined her not to attend her
+LINE 164: cousins to Rosings, where they were engaged to drink tea. Mrs. Collins,
+LINE 165: seeing that she was really unwell, did not press her to go, and as much
+LINE 166: as possible prevented her husband from pressing her; but Mr. Collins
+LINE 167: could not conceal his apprehension of Lady Catherine's being rather
+LINE 168: displeased by her staying at home.
+LINE 169: [Illustration]

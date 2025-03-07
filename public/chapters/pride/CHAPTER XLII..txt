@@ -1,0 +1,164 @@
+LINE 1: [Illustration]
+LINE 2: Had Elizabeth's opinion been all drawn from her own family, she could
+LINE 3: not have formed a very pleasing picture of conjugal felicity or domestic
+LINE 4: comfort. Her father, captivated by youth and beauty, and that appearance
+LINE 5: of good-humour which youth and beauty generally give, had married a
+LINE 6: woman whose weak understanding and illiberal mind had very early in
+LINE 7: their marriage put an end to all real affection for her. Respect,
+LINE 8: esteem, and confidence had vanished for ever; and all his views of
+LINE 9: domestic happiness were overthrown. But Mr. Bennet was not of a
+LINE 10: disposition to seek comfort for the disappointment which his own
+LINE 11: imprudence had brought on in any of those pleasures which too often
+LINE 12: console the unfortunate for their folly or their vice. He was fond of
+LINE 13: the country and of books; and from these tastes had arisen his principal
+LINE 14: enjoyments. To his wife he was very little otherwise indebted than as
+LINE 15: her ignorance and folly had contributed to his amusement. This is not
+LINE 16: the sort of happiness which a man would in general wish to owe to his
+LINE 17: wife; but where other powers of entertainment are wanting, the true
+LINE 18: philosopher will derive benefit from such as are given.
+LINE 19: Elizabeth, however, had never been blind to the impropriety of her
+LINE 20: father's behaviour as a husband. She had always seen it with pain; but
+LINE 21: respecting his abilities, and grateful for his affectionate treatment of
+LINE 22: herself, she endeavoured to forget what she could not overlook, and to
+LINE 23: banish from her thoughts that continual breach of conjugal obligation
+LINE 24: and decorum which, in exposing his wife to the contempt of her own
+LINE 25: children, was so highly reprehensible. But she had never felt so
+LINE 26: strongly as now the disadvantages which must attend the children of so
+LINE 27: unsuitable a marriage, nor ever been so fully aware of the evils arising
+LINE 28: from so ill-judged a direction of talents--talents which, rightly used,
+LINE 29: might at least have preserved the respectability of his daughters, even
+LINE 30: if incapable of enlarging the mind of his wife.
+LINE 31: When Elizabeth had rejoiced over Wickham's departure, she found little
+LINE 32: other cause for satisfaction in the loss of the regiment. Their parties
+LINE 33: abroad were less varied than before; and at home she had a mother and
+LINE 34: sister, whose constant repinings at the dulness of everything around
+LINE 35: them threw a real gloom over their domestic circle; and, though Kitty
+LINE 36: might in time regain her natural degree of sense, since the disturbers
+LINE 37: of her brain were removed, her other sister, from whose disposition
+LINE 38: greater evil might be apprehended, was likely to be hardened in all her
+LINE 39: folly and assurance, by a situation of such double danger as a
+LINE 40: watering-place and a camp. Upon the whole, therefore, she found, what
+LINE 41: has been sometimes found before, that an event to which she had looked
+LINE 42: forward with impatient desire, did not, in taking place, bring all the
+LINE 43: satisfaction she had promised herself. It was consequently necessary to
+LINE 44: name some other period for the commencement of actual felicity; to have
+LINE 45: some other point on which her wishes and hopes might be fixed, and by
+LINE 46: again enjoying the pleasure of anticipation, console herself for the
+LINE 47: present, and prepare for another disappointment. Her tour to the Lakes
+LINE 48: was now the object of her happiest thoughts: it was her best consolation
+LINE 49: for all the uncomfortable hours which the discontentedness of her mother
+LINE 50: and Kitty made inevitable; and could she have included Jane in the
+LINE 51: scheme, every part of it would have been perfect.
+LINE 52: "But it is fortunate," thought she, "that I have something to wish for.
+LINE 53: Were the whole arrangement complete, my disappointment would be certain.
+LINE 54: But here, by carrying with me one ceaseless source of regret in my
+LINE 55: sister's absence, I may reasonably hope to have all my expectations of
+LINE 56: pleasure realized. A scheme of which every part promises delight can
+LINE 57: never be successful; and general disappointment is only warded off by
+LINE 58: the defence of some little peculiar vexation."
+LINE 59: When Lydia went away she promised to write very often and very minutely
+LINE 60: to her mother and Kitty; but her letters were always long expected, and
+LINE 61: always very short. Those to her mother contained little else than that
+LINE 62: they were just returned from the library, where such and such officers
+LINE 63: had attended them, and where she had seen such beautiful ornaments as
+LINE 64: made her quite wild; that she had a new gown, or a new parasol, which
+LINE 65: she would have described more fully, but was obliged to leave off in a
+LINE 66: violent hurry, as Mrs. Forster called her, and they were going to the
+LINE 67: camp; and from her correspondence with her sister there was still less
+LINE 68: to be learnt, for her letters to Kitty, though rather longer, were much
+LINE 69: too full of lines under the words to be made public.
+LINE 70: After the first fortnight or three weeks of her absence, health,
+LINE 71: good-humour, and cheerfulness began to reappear at Longbourn. Everything
+LINE 72: wore a happier aspect. The families who had been in town for the winter
+LINE 73: came back again, and summer finery and summer engagements arose. Mrs.
+LINE 74: Bennet was restored to her usual querulous serenity; and by the middle
+LINE 75: of June Kitty was so much recovered as to be able to enter Meryton
+LINE 76: without tears,--an event of such happy promise as to make Elizabeth
+LINE 77: hope, that by the following Christmas she might be so tolerably
+LINE 78: reasonable as not to mention an officer above once a day, unless, by
+LINE 79: some cruel and malicious arrangement at the War Office, another regiment
+LINE 80: should be quartered in Meryton.
+LINE 81: The time fixed for the beginning of their northern tour was now fast
+LINE 82: approaching; and a fortnight only was wanting of it, when a letter
+LINE 83: arrived from Mrs. Gardiner, which at once delayed its commencement and
+LINE 84: curtailed its extent. Mr. Gardiner would be prevented by business from
+LINE 85: setting out till a fortnight later in July, and must be in London again
+LINE 86: within a month; and as that left too short a period for them to go so
+LINE 87: far, and see so much as they had proposed, or at least to see it with
+LINE 88: the leisure and comfort they had built on, they were obliged to give up
+LINE 89: the Lakes, and substitute a more contracted tour; and, according to the
+LINE 90: present plan, were to go no farther northward than Derbyshire. In that
+LINE 91: county there was enough to be seen to occupy the chief of their three
+LINE 92: weeks; and to Mrs. Gardiner it had a peculiarly strong attraction. The
+LINE 93: town where she had formerly passed some years of her life, and where
+LINE 94: they were now to spend a few days, was probably as great an object of
+LINE 95: her curiosity as all the celebrated beauties of Matlock, Chatsworth,
+LINE 96: Dovedale, or the Peak.
+LINE 97: Elizabeth was excessively disappointed: she had set her heart on seeing
+LINE 98: the Lakes; and still thought there might have been time enough. But it
+LINE 99: was her business to be satisfied--and certainly her temper to be happy;
+LINE 100: and all was soon right again.
+LINE 101: With the mention of Derbyshire, there were many ideas connected. It was
+LINE 102: impossible for her to see the word without thinking of Pemberley and its
+LINE 103: owner. "But surely," said she, "I may enter his county with impunity,
+LINE 104: and rob it of a few petrified spars, without his perceiving me."
+LINE 105: The period of expectation was now doubled. Four weeks were to pass away
+LINE 106: before her uncle and aunt's arrival. But they did pass away, and Mr. and
+LINE 107: Mrs. Gardiner, with their four children, did at length appear at
+LINE 108: Longbourn. The children, two girls of six and eight years old, and two
+LINE 109: younger boys, were to be left under the particular care of their cousin
+LINE 110: Jane, who was the general favourite, and whose steady sense and
+LINE 111: sweetness of temper exactly adapted her for attending to them in every
+LINE 112: way--teaching them, playing with them, and loving them.
+LINE 113: The Gardiners stayed only one night at Longbourn, and set off the next
+LINE 114: morning with Elizabeth in pursuit of novelty and amusement. One
+LINE 115: enjoyment was certain--that of suitableness as companions; a
+LINE 116: suitableness which comprehended health and temper to bear
+LINE 117: inconveniences--cheerfulness to enhance every pleasure--and affection
+LINE 118: and intelligence, which might supply it among themselves if there were
+LINE 119: disappointments abroad.
+LINE 120: It is not the object of this work to give a description of Derbyshire,
+LINE 121: nor of any of the remarkable places through which their route thither
+LINE 122: lay--Oxford, Blenheim, Warwick, Kenilworth, Birmingham, etc., are
+LINE 123: sufficiently known. A small part of Derbyshire is all the present
+LINE 124: concern. To the little town of Lambton, the scene of Mrs. Gardiner's
+LINE 125: former residence, and where she had lately learned that some
+LINE 126: acquaintance still remained, they bent their steps, after having seen
+LINE 127: all the principal wonders of the country; and within five miles of
+LINE 128: Lambton, Elizabeth found, from her aunt, that Pemberley was situated. It
+LINE 129: was not in their direct road; nor more than a mile or two out of it. In
+LINE 130: talking over their route the evening before, Mrs. Gardiner expressed an
+LINE 131: inclination to see the place again. Mr. Gardiner declared his
+LINE 132: willingness, and Elizabeth was applied to for her approbation.
+LINE 133: "My love, should not you like to see a place of which you have heard so
+LINE 134: much?" said her aunt. "A place, too, with which so many of your
+LINE 135: acquaintance are connected. Wickham passed all his youth there, you
+LINE 136: know."
+LINE 137: Elizabeth was distressed. She felt that she had no business at
+LINE 138: Pemberley, and was obliged to assume a disinclination for seeing it. She
+LINE 139: must own that she was tired of great houses: after going over so many,
+LINE 140: she really had no pleasure in fine carpets or satin curtains.
+LINE 141: Mrs. Gardiner abused her stupidity. "If it were merely a fine house
+LINE 142: richly furnished," said she, "I should not care about it myself; but the
+LINE 143: grounds are delightful. They have some of the finest woods in the
+LINE 144: country."
+LINE 145: Elizabeth said no more; but her mind could not acquiesce. The
+LINE 146: possibility of meeting Mr. Darcy, while viewing the place, instantly
+LINE 147: occurred. It would be dreadful! She blushed at the very idea; and
+LINE 148: thought it would be better to speak openly to her aunt, than to run such
+LINE 149: a risk. But against this there were objections; and she finally resolved
+LINE 150: that it could be the last resource, if her private inquiries as to the
+LINE 151: absence of the family were unfavourably answered.
+LINE 152: Accordingly, when she retired at night, she asked the chambermaid
+LINE 153: whether Pemberley were not a very fine place, what was the name of its
+LINE 154: proprietor, and, with no little alarm, whether the family were down for
+LINE 155: the summer? A most welcome negative followed the last question; and her
+LINE 156: alarms being now removed, she was at leisure to feel a great deal of
+LINE 157: curiosity to see the house herself; and when the subject was revived the
+LINE 158: next morning, and she was again applied to, could readily answer, and
+LINE 159: with a proper air of indifference, that she had not really any dislike
+LINE 160: to the scheme.
+LINE 161: To Pemberley, therefore, they were to go.
+LINE 162: [Illustration:
+LINE 163: "Conjecturing as to the date"
+LINE 164: ]

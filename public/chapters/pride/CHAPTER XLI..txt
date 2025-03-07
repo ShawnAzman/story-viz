@@ -1,0 +1,210 @@
+LINE 1: [Illustration]
+LINE 2: The first week of their return was soon gone. The second began. It was
+LINE 3: the last of the regiment's stay in Meryton, and all the young ladies in
+LINE 4: the neighbourhood were drooping apace. The dejection was almost
+LINE 5: universal. The elder Miss Bennets alone were still able to eat, drink,
+LINE 6: and sleep, and pursue the usual course of their employments. Very
+LINE 7: frequently were they reproached for this insensibility by Kitty and
+LINE 8: Lydia, whose own misery was extreme, and who could not comprehend such
+LINE 9: hard-heartedness in any of the family.
+LINE 10: "Good Heaven! What is to become of us? What are we to do?" would they
+LINE 11: often exclaim in the bitterness of woe. "How can you be smiling so,
+LINE 12: Lizzy?"
+LINE 13: Their affectionate mother shared all their grief; she remembered what
+LINE 14: she had herself endured on a similar occasion five-and-twenty years ago.
+LINE 15: "I am sure," said she, "I cried for two days together when Colonel
+LINE 16: Miller's regiment went away. I thought I should have broke my heart."
+LINE 17: "I am sure I shall break _mine_," said Lydia.
+LINE 18: "If one could but go to Brighton!" observed Mrs. Bennet.
+LINE 19: "Oh yes!--if one could but go to Brighton! But papa is so disagreeable."
+LINE 20: "A little sea-bathing would set me up for ever."
+LINE 21: "And my aunt Philips is sure it would do _me_ a great deal of good,"
+LINE 22: added Kitty.
+LINE 23: Such were the kind of lamentations resounding perpetually through
+LINE 24: Longbourn House. Elizabeth tried to be diverted by them; but all sense
+LINE 25: of pleasure was lost in shame. She felt anew the justice of Mr. Darcy's
+LINE 26: objections; and never had she before been so much disposed to pardon his
+LINE 27: interference in the views of his friend.
+LINE 28: But the gloom of Lydia's prospect was shortly cleared away; for she
+LINE 29: received an invitation from Mrs. Forster, the wife of the colonel of the
+LINE 30: regiment, to accompany her to Brighton. This invaluable friend was a
+LINE 31: very young woman, and very lately married. A resemblance in good-humour
+LINE 32: and good spirits had recommended her and Lydia to each other, and out of
+LINE 33: their _three_ months' acquaintance they had been intimate _two_.
+LINE 34: The rapture of Lydia on this occasion, her adoration of Mrs. Forster,
+LINE 35: the delight of Mrs. Bennet, and the mortification of Kitty, are scarcely
+LINE 36: to be described. Wholly inattentive to her sister's feelings, Lydia flew
+LINE 37: about the house in restless ecstasy, calling for everyone's
+LINE 38: congratulations, and laughing and talking with more violence than ever;
+LINE 39: whilst the luckless Kitty continued in the parlour repining at her fate
+LINE 40: in terms as unreasonable as her accent was peevish.
+LINE 41: "I cannot see why Mrs. Forster should not ask _me_ as well as Lydia,"
+LINE 42: said she, "though I am _not_ her particular friend. I have just as much
+LINE 43: right to be asked as she has, and more too, for I am two years older."
+LINE 44: In vain did Elizabeth attempt to make her reasonable, and Jane to make
+LINE 45: her resigned. As for Elizabeth herself, this invitation was so far from
+LINE 46: exciting in her the same feelings as in her mother and Lydia, that she
+LINE 47: considered it as the death-warrant of all possibility of common sense
+LINE 48: for the latter; and detestable as such a step must make her, were it
+LINE 49: known, she could not help secretly advising her father not to let her
+LINE 50: go. She represented to him all the improprieties of Lydia's general
+LINE 51: behaviour, the little advantage she could derive from the friendship of
+LINE 52: such a woman as Mrs. Forster, and the probability of her being yet more
+LINE 53: imprudent with such a companion at Brighton, where the temptations must
+LINE 54: be greater than at home. He heard her attentively, and then said,--
+LINE 55: "Lydia will never be easy till she has exposed herself in some public
+LINE 56: place or other, and we can never expect her to do it with so little
+LINE 57: expense or inconvenience to her family as under the present
+LINE 58: circumstances."
+LINE 59: "If you were aware," said Elizabeth, "of the very great disadvantage to
+LINE 60: us all, which must arise from the public notice of Lydia's unguarded and
+LINE 61: imprudent manner, nay, which has already arisen from it, I am sure you
+LINE 62: would judge differently in the affair."
+LINE 63: "Already arisen!" repeated Mr. Bennet. "What! has she frightened away
+LINE 64: some of your lovers? Poor little Lizzy! But do not be cast down. Such
+LINE 65: squeamish youths as cannot bear to be connected with a little absurdity
+LINE 66: are not worth a regret. Come, let me see the list of the pitiful fellows
+LINE 67: who have been kept aloof by Lydia's folly."
+LINE 68: "Indeed, you are mistaken. I have no such injuries to resent. It is not
+LINE 69: of peculiar, but of general evils, which I am now complaining. Our
+LINE 70: importance, our respectability in the world, must be affected by the
+LINE 71: wild volatility, the assurance and disdain of all restraint which mark
+LINE 72: Lydia's character. Excuse me,--for I must speak plainly. If you, my dear
+LINE 73: father, will not take the trouble of checking her exuberant spirits, and
+LINE 74: of teaching her that her present pursuits are not to be the business of
+LINE 75: her life, she will soon be beyond the reach of amendment. Her character
+LINE 76: will be fixed; and she will, at sixteen, be the most determined flirt
+LINE 77: that ever made herself and her family ridiculous;--a flirt, too, in the
+LINE 78: worst and meanest degree of flirtation; without any attraction beyond
+LINE 79: youth and a tolerable person; and, from the ignorance and emptiness of
+LINE 80: her mind, wholly unable to ward off any portion of that universal
+LINE 81: contempt which her rage for admiration will excite. In this danger Kitty
+LINE 82: is also comprehended. She will follow wherever Lydia leads. Vain,
+LINE 83: ignorant, idle, and absolutely uncontrolled! Oh, my dear father, can you
+LINE 84: suppose it possible that they will not be censured and despised wherever
+LINE 85: they are known, and that their sisters will not be often involved in the
+LINE 86: disgrace?"
+LINE 87: Mr. Bennet saw that her whole heart was in the subject; and,
+LINE 88: affectionately taking her hand, said, in reply,--
+LINE 89: "Do not make yourself uneasy, my love. Wherever you and Jane are known,
+LINE 90: you must be respected and valued; and you will not appear to less
+LINE 91: advantage for having a couple of--or I may say, three--very silly
+LINE 92: sisters. We shall have no peace at Longbourn if Lydia does not go to
+LINE 93: Brighton. Let her go, then. Colonel Forster is a sensible man, and will
+LINE 94: keep her out of any real mischief; and she is luckily too poor to be an
+LINE 95: object of prey to anybody. At Brighton she will be of less importance
+LINE 96: even as a common flirt than she has been here. The officers will find
+LINE 97: women better worth their notice. Let us hope, therefore, that her being
+LINE 98: there may teach her her own insignificance. At any rate, she cannot grow
+LINE 99: many degrees worse, without authorizing us to lock her up for the rest
+LINE 100: of her life."
+LINE 101: With this answer Elizabeth was forced to be content; but her own opinion
+LINE 102: continued the same, and she left him disappointed and sorry. It was not
+LINE 103: in her nature, however, to increase her vexations by dwelling on them.
+LINE 104: She was confident of having performed her duty; and to fret over
+LINE 105: unavoidable evils, or augment them by anxiety, was no part of her
+LINE 106: disposition.
+LINE 107: Had Lydia and her mother known the substance of her conference with her
+LINE 108: father, their indignation would hardly have found expression in their
+LINE 109: united volubility. In Lydia's imagination, a visit to Brighton comprised
+LINE 110: every possibility of earthly happiness. She saw, with the creative eye
+LINE 111: of fancy, the streets of that gay bathing-place covered with officers.
+LINE 112: She saw herself the object of attention to tens and to scores of them at
+LINE 113: present unknown. She saw all the glories of the camp: its tents
+LINE 114: stretched forth in beauteous uniformity of lines, crowded with the young
+LINE 115: and the gay, and dazzling with scarlet; and, to complete the view, she
+LINE 116: saw herself seated beneath a tent, tenderly flirting with at least six
+LINE 117: officers at once.
+LINE 118: [Illustration:
+LINE 119: "Tenderly flirting"
+LINE 120: [_Copyright 1894 by George Allen._]]
+LINE 121: Had she known that her sister sought to tear her from such prospects and
+LINE 122: such realities as these, what would have been her sensations? They could
+LINE 123: have been understood only by her mother, who might have felt nearly the
+LINE 124: same. Lydia's going to Brighton was all that consoled her for the
+LINE 125: melancholy conviction of her husband's never intending to go there
+LINE 126: himself.
+LINE 127: But they were entirely ignorant of what had passed; and their raptures
+LINE 128: continued, with little intermission, to the very day of Lydia's leaving
+LINE 129: home.
+LINE 130: Elizabeth was now to see Mr. Wickham for the last time. Having been
+LINE 131: frequently in company with him since her return, agitation was pretty
+LINE 132: well over; the agitations of former partiality entirely so. She had even
+LINE 133: learnt to detect, in the very gentleness which had first delighted her,
+LINE 134: an affectation and a sameness to disgust and weary. In his present
+LINE 135: behaviour to herself, moreover, she had a fresh source of displeasure;
+LINE 136: for the inclination he soon testified of renewing those attentions which
+LINE 137: had marked the early part of their acquaintance could only serve, after
+LINE 138: what had since passed, to provoke her. She lost all concern for him in
+LINE 139: finding herself thus selected as the object of such idle and frivolous
+LINE 140: gallantry; and while she steadily repressed it, could not but feel the
+LINE 141: reproof contained in his believing, that however long, and for whatever
+LINE 142: cause, his attentions had been withdrawn, her vanity would be gratified,
+LINE 143: and her preference secured, at any time, by their renewal.
+LINE 144: On the very last day of the regiment's remaining in Meryton, he dined,
+LINE 145: with others of the officers, at Longbourn; and so little was Elizabeth
+LINE 146: disposed to part from him in good-humour, that, on his making some
+LINE 147: inquiry as to the manner in which her time had passed at Hunsford, she
+LINE 148: mentioned Colonel Fitzwilliam's and Mr. Darcy's having both spent three
+LINE 149: weeks at Rosings, and asked him if he were acquainted with the former.
+LINE 150: He looked surprised, displeased, alarmed; but, with a moment's
+LINE 151: recollection, and a returning smile, replied, that he had formerly seen
+LINE 152: him often; and, after observing that he was a very gentlemanlike man,
+LINE 153: asked her how she had liked him. Her answer was warmly in his favour.
+LINE 154: With an air of indifference, he soon afterwards added, "How long did you
+LINE 155: say that he was at Rosings?"
+LINE 156: "Nearly three weeks."
+LINE 157: "And you saw him frequently?"
+LINE 158: "Yes, almost every day."
+LINE 159: "His manners are very different from his cousin's."
+LINE 160: "Yes, very different; but I think Mr. Darcy improves on acquaintance."
+LINE 161: "Indeed!" cried Wickham, with a look which did not escape her. "And pray
+LINE 162: may I ask--" but checking himself, he added, in a gayer tone, "Is it in
+LINE 163: address that he improves? Has he deigned to add aught of civility to his
+LINE 164: ordinary style? for I dare not hope," he continued, in a lower and more
+LINE 165: serious tone, "that he is improved in essentials."
+LINE 166: "Oh, no!" said Elizabeth. "In essentials, I believe, he is very much
+LINE 167: what he ever was."
+LINE 168: While she spoke, Wickham looked as if scarcely knowing whether to
+LINE 169: rejoice over her words or to distrust their meaning. There was a
+LINE 170: something in her countenance which made him listen with an apprehensive
+LINE 171: and anxious attention, while she added,--
+LINE 172: "When I said that he improved on acquaintance, I did not mean that
+LINE 173: either his mind or manners were in a state of improvement; but that,
+LINE 174: from knowing him better, his disposition was better understood."
+LINE 175: Wickham's alarm now appeared in a heightened complexion and agitated
+LINE 176: look; for a few minutes he was silent; till, shaking off his
+LINE 177: embarrassment, he turned to her again, and said in the gentlest of
+LINE 178: accents,--
+LINE 179: "You, who so well know my feelings towards Mr. Darcy, will readily
+LINE 180: comprehend how sincerely I must rejoice that he is wise enough to assume
+LINE 181: even the _appearance_ of what is right. His pride, in that direction,
+LINE 182: may be of service, if not to himself, to many others, for it must deter
+LINE 183: him from such foul misconduct as I have suffered by. I only fear that
+LINE 184: the sort of cautiousness to which you, I imagine, have been alluding, is
+LINE 185: merely adopted on his visits to his aunt, of whose good opinion and
+LINE 186: judgment he stands much in awe. His fear of her has always operated, I
+LINE 187: know, when they were together; and a good deal is to be imputed to his
+LINE 188: wish of forwarding the match with Miss de Bourgh, which I am certain he
+LINE 189: has very much at heart."
+LINE 190: Elizabeth could not repress a smile at this, but she answered only by a
+LINE 191: slight inclination of the head. She saw that he wanted to engage her on
+LINE 192: the old subject of his grievances, and she was in no humour to indulge
+LINE 193: him. The rest of the evening passed with the _appearance_, on his side,
+LINE 194: of usual cheerfulness, but with no further attempt to distinguish
+LINE 195: Elizabeth; and they parted at last with mutual civility, and possibly a
+LINE 196: mutual desire of never meeting again.
+LINE 197: When the party broke up, Lydia returned with Mrs. Forster to Meryton,
+LINE 198: from whence they were to set out early the next morning. The separation
+LINE 199: between her and her family was rather noisy than pathetic. Kitty was the
+LINE 200: only one who shed tears; but she did weep from vexation and envy. Mrs.
+LINE 201: Bennet was diffuse in her good wishes for the felicity of her daughter,
+LINE 202: and impressive in her injunctions that she would not miss the
+LINE 203: opportunity of enjoying herself as much as possible,--advice which there
+LINE 204: was every reason to believe would be attended to; and, in the clamorous
+LINE 205: happiness of Lydia herself in bidding farewell, the more gentle adieus
+LINE 206: of her sisters were uttered without being heard.
+LINE 207: [Illustration:
+LINE 208: The arrival of the
+LINE 209: Gardiners
+LINE 210: ]

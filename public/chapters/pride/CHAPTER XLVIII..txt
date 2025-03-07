@@ -1,0 +1,202 @@
+LINE 1: [Illustration]
+LINE 2: The whole party were in hopes of a letter from Mr. Bennet the next
+LINE 3: morning, but the post came in without bringing a single line from him.
+LINE 4: His family knew him to be, on all common occasions, a most negligent and
+LINE 5: dilatory correspondent; but at such a time they had hoped for exertion.
+LINE 6: They were forced to conclude, that he had no pleasing intelligence to
+LINE 7: send; but even of _that_ they would have been glad to be certain. Mr.
+LINE 8: Gardiner had waited only for the letters before he set off.
+LINE 9: When he was gone, they were certain at least of receiving constant
+LINE 10: information of what was going on; and their uncle promised, at parting,
+LINE 11: to prevail on Mr. Bennet to return to Longbourn as soon as he could, to
+LINE 12: the great consolation of his sister, who considered it as the only
+LINE 13: security for her husband's not being killed in a duel.
+LINE 14: Mrs. Gardiner and the children were to remain in Hertfordshire a few
+LINE 15: days longer, as the former thought her presence might be serviceable to
+LINE 16: her nieces. She shared in their attendance on Mrs. Bennet, and was a
+LINE 17: great comfort to them in their hours of freedom. Their other aunt also
+LINE 18: visited them frequently, and always, as she said, with the design of
+LINE 19: cheering and heartening them up--though, as she never came without
+LINE 20: reporting some fresh instance of Wickham's extravagance or irregularity,
+LINE 21: she seldom went away without leaving them more dispirited than she found
+LINE 22: them.
+LINE 23: All Meryton seemed striving to blacken the man who, but three months
+LINE 24: before, had been almost an angel of light. He was declared to be in debt
+LINE 25: to every tradesman in the place, and his intrigues, all honoured with
+LINE 26: the title of seduction, had been extended into every tradesman's family.
+LINE 27: Everybody declared that he was the wickedest young man in the world; and
+LINE 28: everybody began to find out that they had always distrusted the
+LINE 29: appearance of his goodness. Elizabeth, though she did not credit above
+LINE 30: half of what was said, believed enough to make her former assurance of
+LINE 31: her sister's ruin still more certain; and even Jane, who believed still
+LINE 32: less of it, became almost hopeless, more especially as the time was now
+LINE 33: come, when, if they had gone to Scotland, which she had never before
+LINE 34: entirely despaired of, they must in all probability have gained some
+LINE 35: news of them.
+LINE 36: Mr. Gardiner left Longbourn on Sunday; on Tuesday, his wife received a
+LINE 37: letter from him: it told them, that on his arrival he had immediately
+LINE 38: found out his brother, and persuaded him to come to Gracechurch Street.
+LINE 39: That Mr. Bennet had been to Epsom and Clapham, before his arrival, but
+LINE 40: without gaining any satisfactory information; and that he was now
+LINE 41: determined to inquire at all the principal hotels in town, as Mr. Bennet
+LINE 42: thought it possible they might have gone to one of them, on their first
+LINE 43: coming to London, before they procured lodgings. Mr. Gardiner himself
+LINE 44: did not expect any success from this measure; but as his brother was
+LINE 45: eager in it, he meant to assist him in pursuing it. He added, that Mr.
+LINE 46: Bennet seemed wholly disinclined at present to leave London, and
+LINE 47: promised to write again very soon. There was also a postscript to this
+LINE 48: effect:--
+LINE 49: "I have written to Colonel Forster to desire him to find out, if
+LINE 50: possible, from some of the young man's intimates in the regiment,
+LINE 51: whether Wickham has any relations or connections who would be likely to
+LINE 52: know in what part of the town he has now concealed himself. If there
+LINE 53: were anyone that one could apply to, with a probability of gaining such
+LINE 54: a clue as that, it might be of essential consequence. At present we have
+LINE 55: nothing to guide us. Colonel Forster will, I dare say, do everything in
+LINE 56: his power to satisfy us on this head. But, on second thoughts, perhaps
+LINE 57: Lizzy could tell us what relations he has now living better than any
+LINE 58: other person."
+LINE 59: Elizabeth was at no loss to understand from whence this deference for
+LINE 60: her authority proceeded; but it was not in her power to give any
+LINE 61: information of so satisfactory a nature as the compliment deserved.
+LINE 62: She had never heard of his having had any relations, except a father
+LINE 63: and mother, both of whom had been dead many years. It was possible,
+LINE 64: however, that some of his companions in the ----shire might be able to
+LINE 65: give more information; and though she was not very sanguine in expecting
+LINE 66: it, the application was a something to look forward to.
+LINE 67: Every day at Longbourn was now a day of anxiety; but the most anxious
+LINE 68: part of each was when the post was expected. The arrival of letters was
+LINE 69: the first grand object of every morning's impatience. Through letters,
+LINE 70: whatever of good or bad was to be told would be communicated; and every
+LINE 71: succeeding day was expected to bring some news of importance.
+LINE 72: But before they heard again from Mr. Gardiner, a letter arrived for
+LINE 73: their father, from a different quarter, from Mr. Collins; which, as Jane
+LINE 74: had received directions to open all that came for him in his absence,
+LINE 75: she accordingly read; and Elizabeth, who knew what curiosities his
+LINE 76: letters always were, looked over her, and read it likewise. It was as
+LINE 77: follows:--
+LINE 78: /* "My dear Sir, */
+LINE 79: "I feel myself called upon, by our relationship, and my situation
+LINE 80: in life, to condole with you on the grievous affliction you are now
+LINE 81: suffering under, of which we were yesterday informed by a letter
+LINE 82: from Hertfordshire. Be assured, my dear sir, that Mrs. Collins and
+LINE 83: myself sincerely sympathize with you, and all your respectable
+LINE 84: family, in your present distress, which must be of the bitterest
+LINE 85: kind, because proceeding from a cause which no time can remove. No
+LINE 86: arguments shall be wanting on my part, that can alleviate so severe
+LINE 87: a misfortune; or that may comfort you, under a circumstance that
+LINE 88: must be, of all others, most afflicting to a parent's mind. The
+LINE 89: death of your daughter would have been a blessing in comparison of
+LINE 90: this. And it is the more to be lamented, because there is reason to
+LINE 91: suppose, as my dear Charlotte informs me, that this licentiousness
+LINE 92: of behaviour in your
+LINE 93: [Illustration:
+LINE 94: "To whom I have related the affair"
+LINE 95: [_Copyright 1894 by George Allen._]]
+LINE 96: daughter has proceeded from a faulty degree of indulgence; though,
+LINE 97: at the same time, for the consolation of yourself and Mrs. Bennet,
+LINE 98: I am inclined to think that her own disposition must be naturally
+LINE 99: bad, or she could not be guilty of such an enormity, at so early an
+LINE 100: age. Howsoever that may be, you are grievously to be pitied; in
+LINE 101: which opinion I am not only joined by Mrs. Collins, but likewise by
+LINE 102: Lady Catherine and her daughter, to whom I have related the affair.
+LINE 103: They agree with me in apprehending that this false step in one
+LINE 104: daughter will be injurious to the fortunes of all the others: for
+LINE 105: who, as Lady Catherine herself condescendingly says, will connect
+LINE 106: themselves with such a family? And this consideration leads me,
+LINE 107: moreover, to reflect, with augmented satisfaction, on a certain
+LINE 108: event of last November; for had it been otherwise, I must have been
+LINE 109: involved in all your sorrow and disgrace. Let me advise you, then,
+LINE 110: my dear sir, to console yourself as much as possible, to throw off
+LINE 111: your unworthy child from your affection for ever, and leave her to
+LINE 112: reap the fruits of her own heinous offence.
+LINE 113: "I am, dear sir," etc., etc.
+LINE 114: Mr. Gardiner did not write again, till he had received an answer from
+LINE 115: Colonel Forster; and then he had nothing of a pleasant nature to send.
+LINE 116: It was not known that Wickham had a single relation with whom he kept up
+LINE 117: any connection, and it was certain that he had no near one living. His
+LINE 118: former acquaintance had been numerous; but since he had been in the
+LINE 119: militia, it did not appear that he was on terms of particular friendship
+LINE 120: with any of them. There was no one, therefore, who could be pointed out
+LINE 121: as likely to give any news of him. And in the wretched state of his own
+LINE 122: finances, there was a very powerful motive for secrecy, in addition to
+LINE 123: his fear of discovery by Lydia's relations; for it had just transpired
+LINE 124: that he had left gaming debts behind him to a very considerable amount.
+LINE 125: Colonel Forster believed that more than a thousand pounds would be
+LINE 126: necessary to clear his expenses at Brighton. He owed a good deal in the
+LINE 127: town, but his debts of honour were still more formidable. Mr. Gardiner
+LINE 128: did not attempt to conceal these particulars from the Longbourn family;
+LINE 129: Jane heard them with horror. "A gamester!" she cried. "This is wholly
+LINE 130: unexpected; I had not an idea of it."
+LINE 131: Mr. Gardiner added, in his letter, that they might expect to see their
+LINE 132: father at home on the following day, which was Saturday. Rendered
+LINE 133: spiritless by the ill success of all their endeavours, he had yielded to
+LINE 134: his brother-in-law's entreaty that he would return to his family and
+LINE 135: leave it to him to do whatever occasion might suggest to be advisable
+LINE 136: for continuing their pursuit. When Mrs. Bennet was told of this, she did
+LINE 137: not express so much satisfaction as her children expected, considering
+LINE 138: what her anxiety for his life had been before.
+LINE 139: "What! is he coming home, and without poor Lydia?" she cried. "Sure he
+LINE 140: will not leave London before he has found them. Who is to fight Wickham,
+LINE 141: and make him marry her, if he comes away?"
+LINE 142: As Mrs. Gardiner began to wish to be at home, it was settled that she
+LINE 143: and her children should go to London at the same time that Mr. Bennet
+LINE 144: came from it. The coach, therefore, took them the first stage of their
+LINE 145: journey, and brought its master back to Longbourn.
+LINE 146: Mrs. Gardiner went away in all the perplexity about Elizabeth and her
+LINE 147: Derbyshire friend, that had attended her from that part of the world.
+LINE 148: His name had never been voluntarily mentioned before them by her niece;
+LINE 149: and the kind of half-expectation which Mrs. Gardiner had formed, of
+LINE 150: their being followed by a letter from him, had ended in nothing.
+LINE 151: Elizabeth had received none since her return, that could come from
+LINE 152: Pemberley.
+LINE 153: The present unhappy state of the family rendered any other excuse for
+LINE 154: the lowness of her spirits unnecessary; nothing, therefore, could be
+LINE 155: fairly conjectured from _that_,--though Elizabeth, who was by this time
+LINE 156: tolerably well acquainted with her own feelings, was perfectly aware
+LINE 157: that, had she known nothing of Darcy, she could have borne the dread of
+LINE 158: Lydia's infamy somewhat better. It would have spared her, she thought,
+LINE 159: one sleepless night out of two.
+LINE 160: When Mr. Bennet arrived, he had all the appearance of his usual
+LINE 161: philosophic composure. He said as little as he had ever been in the
+LINE 162: habit of saying; made no mention of the business that had taken him
+LINE 163: away; and it was some time before his daughters had courage to speak of
+LINE 164: it.
+LINE 165: It was not till the afternoon, when he joined them at tea, that
+LINE 166: Elizabeth ventured to introduce the subject; and then, on her briefly
+LINE 167: expressing her sorrow for what he must have endured, he replied, "Say
+LINE 168: nothing of that. Who should suffer but myself? It has been my own doing,
+LINE 169: and I ought to feel it."
+LINE 170: "You must not be too severe upon yourself," replied Elizabeth.
+LINE 171: "You may well warn me against such an evil. Human nature is so prone to
+LINE 172: fall into it! No, Lizzy, let me once in my life feel how much I have
+LINE 173: been to blame. I am not afraid of being overpowered by the impression.
+LINE 174: It will pass away soon enough."
+LINE 175: "Do you suppose them to be in London?"
+LINE 176: "Yes; where else can they be so well concealed?"
+LINE 177: "And Lydia used to want to go to London," added Kitty.
+LINE 178: "She is happy, then," said her father, drily; "and her residence there
+LINE 179: will probably be of some duration."
+LINE 180: Then, after a short silence, he continued, "Lizzy, I bear you no
+LINE 181: ill-will for being justified in your advice to me last May, which,
+LINE 182: considering the event, shows some greatness of mind."
+LINE 183: They were interrupted by Miss Bennet, who came to fetch her mother's
+LINE 184: tea.
+LINE 185: "This is a parade," cried he, "which does one good; it gives such an
+LINE 186: elegance to misfortune! Another day I will do the same; I will sit in my
+LINE 187: library, in my nightcap and powdering gown, and give as much trouble as
+LINE 188: I can,--or perhaps I may defer it till Kitty runs away."
+LINE 189: "I am not going to run away, papa," said Kitty, fretfully. "If _I_
+LINE 190: should ever go to Brighton, I would behave better than Lydia."
+LINE 191: "_You_ go to Brighton! I would not trust you so near it as Eastbourne,
+LINE 192: for fifty pounds! No, Kitty, I have at least learnt to be cautious, and
+LINE 193: you will feel the effects of it. No officer is ever to enter my house
+LINE 194: again, nor even to pass through the village. Balls will be absolutely
+LINE 195: prohibited, unless you stand up with one of your sisters. And you are
+LINE 196: never to stir out of doors, till you can prove that you have spent ten
+LINE 197: minutes of every day in a rational manner."
+LINE 198: Kitty, who took all these threats in a serious light, began to cry.
+LINE 199: "Well, well," said he, "do not make yourself unhappy. If you are a good
+LINE 200: girl for the next ten years, I will take you to a review at the end of
+LINE 201: them."
+LINE 202: [Illustration]

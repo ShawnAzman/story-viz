@@ -1,0 +1,221 @@
+LINE 1: [Illustration]
+LINE 2: Instead of receiving any such letter of excuse from his friend, as
+LINE 3: Elizabeth half expected Mr. Bingley to do, he was able to bring Darcy
+LINE 4: with him to Longbourn before many days had passed after Lady Catherine's
+LINE 5: visit. The gentlemen arrived early; and, before Mrs. Bennet had time to
+LINE 6: tell him of their having seen his aunt, of which her daughter sat in
+LINE 7: momentary dread, Bingley, who wanted to be alone with Jane, proposed
+LINE 8: their all walking out. It was agreed to. Mrs. Bennet was not in the
+LINE 9: habit of walking, Mary could never spare time, but the remaining five
+LINE 10: set off together. Bingley and Jane, however, soon allowed the others to
+LINE 11: outstrip them. They lagged behind, while Elizabeth, Kitty, and Darcy
+LINE 12: were to entertain each other. Very little was said by either; Kitty was
+LINE 13: too much afraid of him to talk; Elizabeth was secretly forming a
+LINE 14: desperate resolution; and, perhaps, he might be doing the same.
+LINE 15: They walked towards the Lucases', because Kitty wished to call upon
+LINE 16: Maria; and as Elizabeth saw no occasion for making it a general concern,
+LINE 17: when Kitty left them she went boldly on with him alone. Now was the
+LINE 18: moment for her resolution to be executed; and while her courage was
+LINE 19: high, she immediately said,--
+LINE 20: "Mr. Darcy, I am a very selfish creature, and for the sake of giving
+LINE 21: relief to my own feelings care not how much I may be wounding yours. I
+LINE 22: can no longer help thanking you for your unexampled kindness to my poor
+LINE 23: sister. Ever since I have known it I have been most anxious to
+LINE 24: acknowledge to you how gratefully I feel it. Were it known to the rest
+LINE 25: of my family I should not have merely my own gratitude to express."
+LINE 26: "I am sorry, exceedingly sorry," replied Darcy, in a tone of surprise
+LINE 27: and emotion, "that you have ever been informed of what may, in a
+LINE 28: mistaken light, have given you uneasiness. I did not think Mrs. Gardiner
+LINE 29: was so little to be trusted."
+LINE 30: "You must not blame my aunt. Lydia's thoughtlessness first betrayed to
+LINE 31: me that you had been concerned in the matter; and, of course, I could
+LINE 32: not rest till I knew the particulars. Let me thank you again and again,
+LINE 33: in the name of all my family, for that generous compassion which induced
+LINE 34: you to take so much trouble, and bear so many mortifications, for the
+LINE 35: sake of discovering them."
+LINE 36: "If you _will_ thank me," he replied, "let it be for yourself alone.
+LINE 37: That the wish of giving happiness to you might add force to the other
+LINE 38: inducements which led me on, I shall not attempt to deny. But your
+LINE 39: _family_ owe me nothing. Much as I respect them, I believe I thought
+LINE 40: only of _you_."
+LINE 41: Elizabeth was too much embarrassed to say a word. After a short pause,
+LINE 42: her companion added, "You are too generous to trifle with me. If your
+LINE 43: feelings are still what they were last April, tell me so at once. _My_
+LINE 44: affections and wishes are unchanged; but one word from you will silence
+LINE 45: me on this subject for ever."
+LINE 46: Elizabeth, feeling all the more than common awkwardness and anxiety of
+LINE 47: his situation, now forced herself to speak; and immediately, though not
+LINE 48: very fluently, gave him to understand that her sentiments had undergone
+LINE 49: so material a change since the period to which he alluded, as to make
+LINE 50: her receive with gratitude and pleasure his present assurances. The
+LINE 51: happiness which this reply produced was such as he had probably never
+LINE 52: felt before; and he expressed himself on the occasion as sensibly and as
+LINE 53: warmly as a man violently in love can be supposed to do. Had Elizabeth
+LINE 54: been able to encounter his eyes, she might have seen how well the
+LINE 55: expression of heartfelt delight diffused over his face became him: but
+LINE 56: though she could not look she could listen; and he told her of feelings
+LINE 57: which, in proving of what importance she was to him, made his affection
+LINE 58: every moment more valuable.
+LINE 59: They walked on without knowing in what direction. There was too much to
+LINE 60: be thought, and felt, and said, for attention to any other objects. She
+LINE 61: soon learnt that they were indebted for their present good understanding
+LINE 62: to the efforts of his aunt, who _did_ call on him in her return through
+LINE 63: London, and there relate her journey to Longbourn, its motive, and the
+LINE 64: substance of her conversation with Elizabeth; dwelling emphatically on
+LINE 65: every expression of the latter, which, in her Ladyship's apprehension,
+LINE 66: peculiarly denoted her perverseness and assurance, in the belief that
+LINE 67: such a relation must assist her endeavours to obtain that promise from
+LINE 68: her nephew which _she_ had refused to give. But, unluckily for her
+LINE 69: Ladyship, its effect had been exactly contrariwise.
+LINE 70: "It taught me to hope," said he, "as I had scarcely ever allowed myself
+LINE 71: to hope before. I knew enough of your disposition to be certain, that
+LINE 72: had you been absolutely, irrevocably decided against me, you would have
+LINE 73: acknowledged it to Lady Catherine frankly and openly."
+LINE 74: Elizabeth coloured and laughed as she replied, "Yes, you know enough of
+LINE 75: my _frankness_ to believe me capable of _that_. After abusing you so
+LINE 76: abominably to your face, I could have no scruple in abusing you to all
+LINE 77: your relations."
+LINE 78: "What did you say of me that I did not deserve? For though your
+LINE 79: accusations were ill-founded, formed on mistaken premises, my behaviour
+LINE 80: to you at the time had merited the severest reproof. It was
+LINE 81: unpardonable. I cannot think of it without abhorrence."
+LINE 82: "We will not quarrel for the greater share of blame annexed to that
+LINE 83: evening," said Elizabeth. "The conduct of neither, if strictly
+LINE 84: examined, will be irreproachable; but since then we have both, I hope,
+LINE 85: improved in civility."
+LINE 86: "I cannot be so easily reconciled to myself. The recollection of what I
+LINE 87: then said, of my conduct, my manners, my expressions during the whole of
+LINE 88: it, is now, and has been many months, inexpressibly painful to me. Your
+LINE 89: reproof, so well applied, I shall never forget: 'Had you behaved in a
+LINE 90: more gentlemanlike manner.' Those were your words. You know not, you can
+LINE 91: scarcely conceive, how they have tortured me; though it was some time, I
+LINE 92: confess, before I was reasonable enough to allow their justice."
+LINE 93: "I was certainly very far from expecting them to make so strong an
+LINE 94: impression. I had not the smallest idea of their being ever felt in such
+LINE 95: a way."
+LINE 96: "I can easily believe it. You thought me then devoid of every proper
+LINE 97: feeling, I am sure you did. The turn of your countenance I shall never
+LINE 98: forget, as you said that I could not have addressed you in any possible
+LINE 99: way that would induce you to accept me."
+LINE 100: "Oh, do not repeat what I then said. These recollections will not do at
+LINE 101: all. I assure you that I have long been most heartily ashamed of it."
+LINE 102: Darcy mentioned his letter. "Did it," said he,--"did it _soon_ make you
+LINE 103: think better of me? Did you, on reading it, give any credit to its
+LINE 104: contents?"
+LINE 105: She explained what its effects on her had been, and how gradually all
+LINE 106: her former prejudices had been removed.
+LINE 107: "I knew," said he, "that what I wrote must give you pain, but it was
+LINE 108: necessary. I hope you have destroyed the letter. There was one part,
+LINE 109: especially the opening of it, which I should dread your having the power
+LINE 110: of reading again. I can remember some expressions which might justly
+LINE 111: make you hate me."
+LINE 112: "The letter shall certainly be burnt, if you believe it essential to the
+LINE 113: preservation of my regard; but, though we have both reason to think my
+LINE 114: opinions not entirely unalterable, they are not, I hope, quite so easily
+LINE 115: changed as that implies."
+LINE 116: "When I wrote that letter," replied Darcy, "I believed myself perfectly
+LINE 117: calm and cool; but I am since convinced that it was written in a
+LINE 118: dreadful bitterness of spirit."
+LINE 119: "The letter, perhaps, began in bitterness, but it did not end so. The
+LINE 120: adieu is charity itself. But think no more of the letter. The feelings
+LINE 121: of the person who wrote and the person who received it are now so widely
+LINE 122: different from what they were then, that every unpleasant circumstance
+LINE 123: attending it ought to be forgotten. You must learn some of my
+LINE 124: philosophy. Think only of the past as its remembrance gives you
+LINE 125: pleasure."
+LINE 126: "I cannot give you credit for any philosophy of the kind. _Your_
+LINE 127: retrospections must be so totally void of reproach, that the contentment
+LINE 128: arising from them is not of philosophy, but, what is much better, of
+LINE 129: ignorance. But with _me_, it is not so. Painful recollections will
+LINE 130: intrude, which cannot, which ought not to be repelled. I have been a
+LINE 131: selfish being all my life, in practice, though not in principle. As a
+LINE 132: child I was taught what was _right_, but I was not taught to correct my
+LINE 133: temper. I was given good principles, but left to follow them in pride
+LINE 134: and conceit. Unfortunately an only son (for many years an only _child_),
+LINE 135: I was spoiled by my parents, who, though good themselves, (my father
+LINE 136: particularly, all that was benevolent and amiable,) allowed, encouraged,
+LINE 137: almost taught me to be selfish and overbearing, to care for none beyond
+LINE 138: my own family circle, to think meanly of all the rest of the world, to
+LINE 139: _wish_ at least to think meanly of their sense and worth compared with
+LINE 140: my own. Such I was, from eight to eight-and-twenty; and such I might
+LINE 141: still have been but for you, dearest, loveliest Elizabeth! What do I not
+LINE 142: owe you! You taught me a lesson, hard indeed at first, but most
+LINE 143: advantageous. By you, I was properly humbled. I came to you without a
+LINE 144: doubt of my reception. You showed me how insufficient were all my
+LINE 145: pretensions to please a woman worthy of being pleased."
+LINE 146: "Had you then persuaded yourself that I should?"
+LINE 147: "Indeed I had. What will you think of my vanity? I believed you to be
+LINE 148: wishing, expecting my addresses."
+LINE 149: "My manners must have been in fault, but not intentionally, I assure
+LINE 150: you. I never meant to deceive you, but my spirits might often lead me
+LINE 151: wrong. How you must have hated me after _that_ evening!"
+LINE 152: "Hate you! I was angry, perhaps, at first, but my anger soon began to
+LINE 153: take a proper direction."
+LINE 154: "I am almost afraid of asking what you thought of me when we met at
+LINE 155: Pemberley. You blamed me for coming?"
+LINE 156: "No, indeed, I felt nothing but surprise."
+LINE 157: "Your surprise could not be greater than _mine_ in being noticed by you.
+LINE 158: My conscience told me that I deserved no extraordinary politeness, and I
+LINE 159: confess that I did not expect to receive _more_ than my due."
+LINE 160: "My object _then_," replied Darcy, "was to show you, by every civility
+LINE 161: in my power, that I was not so mean as to resent the past; and I hoped
+LINE 162: to obtain your forgiveness, to lessen your ill opinion, by letting you
+LINE 163: see that your reproofs had been attended to. How soon any other wishes
+LINE 164: introduced themselves, I can hardly tell, but I believe in about half
+LINE 165: an hour after I had seen you."
+LINE 166: He then told her of Georgiana's delight in her acquaintance, and of her
+LINE 167: disappointment at its sudden interruption; which naturally leading to
+LINE 168: the cause of that interruption, she soon learnt that his resolution of
+LINE 169: following her from Derbyshire in quest of her sister had been formed
+LINE 170: before he quitted the inn, and that his gravity and thoughtfulness there
+LINE 171: had arisen from no other struggles than what such a purpose must
+LINE 172: comprehend.
+LINE 173: She expressed her gratitude again, but it was too painful a subject to
+LINE 174: each to be dwelt on farther.
+LINE 175: After walking several miles in a leisurely manner, and too busy to know
+LINE 176: anything about it, they found at last, on examining their watches, that
+LINE 177: it was time to be at home.
+LINE 178: "What could have become of Mr. Bingley and Jane?" was a wonder which
+LINE 179: introduced the discussion of _their_ affairs. Darcy was delighted with
+LINE 180: their engagement; his friend had given him the earliest information of
+LINE 181: it.
+LINE 182: "I must ask whether you were surprised?" said Elizabeth.
+LINE 183: "Not at all. When I went away, I felt that it would soon happen."
+LINE 184: "That is to say, you had given your permission. I guessed as much." And
+LINE 185: though he exclaimed at the term, she found that it had been pretty much
+LINE 186: the case.
+LINE 187: "On the evening before my going to London," said he, "I made a
+LINE 188: confession to him, which I believe I ought to have made long ago. I told
+LINE 189: him of all that had occurred to make my former interference in his
+LINE 190: affairs absurd and impertinent. His surprise was great. He had never had
+LINE 191: the slightest suspicion. I told him, moreover, that I believed myself
+LINE 192: mistaken in supposing, as I had done, that your sister was indifferent
+LINE 193: to him; and as I could easily perceive that his attachment to her was
+LINE 194: unabated, I felt no doubt of their happiness together."
+LINE 195: Elizabeth could not help smiling at his easy manner of directing his
+LINE 196: friend.
+LINE 197: "Did you speak from your own observation," said she, "when you told him
+LINE 198: that my sister loved him, or merely from my information last spring?"
+LINE 199: "From the former. I had narrowly observed her, during the two visits
+LINE 200: which I had lately made her here; and I was convinced of her affection."
+LINE 201: "And your assurance of it, I suppose, carried immediate conviction to
+LINE 202: him."
+LINE 203: "It did. Bingley is most unaffectedly modest. His diffidence had
+LINE 204: prevented his depending on his own judgment in so anxious a case, but
+LINE 205: his reliance on mine made everything easy. I was obliged to confess one
+LINE 206: thing, which for a time, and not unjustly, offended him. I could not
+LINE 207: allow myself to conceal that your sister had been in town three months
+LINE 208: last winter, that I had known it, and purposely kept it from him. He was
+LINE 209: angry. But his anger, I am persuaded, lasted no longer than he remained
+LINE 210: in any doubt of your sister's sentiments. He has heartily forgiven me
+LINE 211: now."
+LINE 212: Elizabeth longed to observe that Mr. Bingley had been a most delightful
+LINE 213: friend; so easily guided that his worth was invaluable; but she checked
+LINE 214: herself. She remembered that he had yet to learn to be laughed at, and
+LINE 215: it was rather too early to begin. In anticipating the happiness of
+LINE 216: Bingley, which of course was to be inferior only to his own, he
+LINE 217: continued the conversation till they reached the house. In the hall they
+LINE 218: parted.
+LINE 219: [Illustration:
+LINE 220: "Unable to utter a syllable"
+LINE 221: [_Copyright 1894 by George Allen._]]

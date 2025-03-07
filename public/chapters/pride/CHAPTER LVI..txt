@@ -1,0 +1,258 @@
+LINE 1: [Illustration]
+LINE 2: One morning, about a week after Bingley's engagement with Jane had been
+LINE 3: formed, as he and the females of the family were sitting together in the
+LINE 4: dining-room, their attention was suddenly drawn to the window by the
+LINE 5: sound of a carriage; and they perceived a chaise and four driving up the
+LINE 6: lawn. It was too early in the morning for visitors; and besides, the
+LINE 7: equipage did not answer to that of any of their neighbours. The horses
+LINE 8: were post; and neither the carriage, nor the livery of the servant who
+LINE 9: preceded it, were familiar to them. As it was certain, however, that
+LINE 10: somebody was coming, Bingley instantly prevailed on Miss Bennet to avoid
+LINE 11: the confinement of such an intrusion, and walk away with him into the
+LINE 12: shrubbery. They both set off; and the conjectures of the remaining three
+LINE 13: continued, though with little satisfaction, till the door was thrown
+LINE 14: open, and their visitor entered. It was Lady Catherine de Bourgh.
+LINE 15: They were of course all intending to be surprised: but their
+LINE 16: astonishment was beyond their expectation; and on the part of Mrs.
+LINE 17: Bennet and Kitty, though she was perfectly unknown to them, even
+LINE 18: inferior to what Elizabeth felt.
+LINE 19: She entered the room with an air more than usually ungracious, made no
+LINE 20: other reply to Elizabeth's salutation than a slight inclination of the
+LINE 21: head, and sat down without saying a word. Elizabeth had mentioned her
+LINE 22: name to her mother on her Ladyship's entrance, though no request of
+LINE 23: introduction had been made.
+LINE 24: Mrs. Bennet, all amazement, though flattered by having a guest of such
+LINE 25: high importance, received her with the utmost politeness. After sitting
+LINE 26: for a moment in silence, she said, very stiffly, to Elizabeth,--
+LINE 27: "I hope you are well, Miss Bennet. That lady, I suppose, is your
+LINE 28: mother?"
+LINE 29: Elizabeth replied very concisely that she was.
+LINE 30: "And _that_, I suppose, is one of your sisters?"
+LINE 31: "Yes, madam," said Mrs. Bennet, delighted to speak to a Lady Catherine.
+LINE 32: "She is my youngest girl but one. My youngest of all is lately married,
+LINE 33: and my eldest is somewhere about the ground, walking with a young man,
+LINE 34: who, I believe, will soon become a part of the family."
+LINE 35: "You have a very small park here," returned Lady Catherine, after a
+LINE 36: short silence.
+LINE 37: "It is nothing in comparison of Rosings, my Lady, I dare say; but, I
+LINE 38: assure you, it is much larger than Sir William Lucas's."
+LINE 39: "This must be a most inconvenient sitting-room for the evening in
+LINE 40: summer: the windows are full west."
+LINE 41: Mrs. Bennet assured her that they never sat there after dinner; and then
+LINE 42: added,--
+LINE 43: "May I take the liberty of asking your Ladyship whether you left Mr. and
+LINE 44: Mrs. Collins well?"
+LINE 45: "Yes, very well. I saw them the night before last."
+LINE 46: Elizabeth now expected that she would produce a letter for her from
+LINE 47: Charlotte, as it seemed the only probable motive for her calling. But no
+LINE 48: letter appeared, and she was completely puzzled.
+LINE 49: Mrs. Bennet, with great civility, begged her Ladyship to take some
+LINE 50: refreshment: but Lady Catherine very resolutely, and not very politely,
+LINE 51: declined eating anything; and then, rising up, said to Elizabeth,--
+LINE 52: "Miss Bennet, there seemed to be a prettyish kind of a little wilderness
+LINE 53: on one side of your lawn. I should be glad to take a turn in it, if you
+LINE 54: will favour me with your company."
+LINE 55: "Go, my dear," cried her mother, "and show her Ladyship about the
+LINE 56: different walks. I think she will be pleased with the hermitage."
+LINE 57: Elizabeth obeyed; and, running into her own room for her parasol,
+LINE 58: attended her noble guest downstairs. As they passed through the hall,
+LINE 59: Lady Catherine opened the doors into the dining-parlour and
+LINE 60: drawing-room, and pronouncing them, after a short survey, to be
+LINE 61: decent-looking rooms, walked on.
+LINE 62: Her carriage remained at the door, and Elizabeth saw that her
+LINE 63: waiting-woman was in it. They proceeded in silence along the gravel walk
+LINE 64: that led to the copse; Elizabeth was determined to make no effort for
+LINE 65: conversation with a woman who was now more than usually insolent and
+LINE 66: disagreeable.
+LINE 67: [Illustration:
+LINE 68: "After a short survey"
+LINE 69: [_Copyright 1894 by George Allen._]]
+LINE 70: "How could I ever think her like her nephew?" said she, as she looked in
+LINE 71: her face.
+LINE 72: As soon as they entered the copse, Lady Catherine began in the following
+LINE 73: manner:--
+LINE 74: "You can be at no loss, Miss Bennet, to understand the reason of my
+LINE 75: journey hither. Your own heart, your own conscience, must tell you why I
+LINE 76: come."
+LINE 77: Elizabeth looked with unaffected astonishment.
+LINE 78: "Indeed, you are mistaken, madam; I have not been at all able to account
+LINE 79: for the honour of seeing you here."
+LINE 80: "Miss Bennet," replied her Ladyship, in an angry tone, "you ought to
+LINE 81: know that I am not to be trifled with. But however insincere _you_ may
+LINE 82: choose to be, you shall not find _me_ so. My character has ever been
+LINE 83: celebrated for its sincerity and frankness; and in a cause of such
+LINE 84: moment as this, I shall certainly not depart from it. A report of a most
+LINE 85: alarming nature reached me two days ago. I was told, that not only your
+LINE 86: sister was on the point of being most advantageously married, but that
+LINE 87: _you_--that Miss Elizabeth Bennet would, in all likelihood, be soon
+LINE 88: afterwards united to my nephew--my own nephew, Mr. Darcy. Though I
+LINE 89: _know_ it must be a scandalous falsehood, though I would not injure him
+LINE 90: so much as to suppose the truth of it possible, I instantly resolved on
+LINE 91: setting off for this place, that I might make my sentiments known to
+LINE 92: you."
+LINE 93: "If you believed it impossible to be true," said Elizabeth, colouring
+LINE 94: with astonishment and disdain, "I wonder you took the trouble of coming
+LINE 95: so far. What could your Ladyship propose by it?"
+LINE 96: "At once to insist upon having such a report universally contradicted."
+LINE 97: "Your coming to Longbourn, to see me and my family," said Elizabeth
+LINE 98: coolly, "will be rather a confirmation of it--if, indeed, such a report
+LINE 99: is in existence."
+LINE 100: "If! do you then pretend to be ignorant of it? Has it not been
+LINE 101: industriously circulated by yourselves? Do you not know that such a
+LINE 102: report is spread abroad?"
+LINE 103: "I never heard that it was."
+LINE 104: "And can you likewise declare, that there is no _foundation_ for it?"
+LINE 105: "I do not pretend to possess equal frankness with your Ladyship. _You_
+LINE 106: may ask questions which _I_ shall not choose to answer."
+LINE 107: "This is not to be borne. Miss Bennet, I insist on being satisfied. Has
+LINE 108: he, has my nephew, made you an offer of marriage?"
+LINE 109: "Your Ladyship has declared it to be impossible."
+LINE 110: "It ought to be so; it must be so, while he retains the use of his
+LINE 111: reason. But _your_ arts and allurements may, in a moment of infatuation,
+LINE 112: have made him forget what he owes to himself and to all his family. You
+LINE 113: may have drawn him in."
+LINE 114: "If I have, I shall be the last person to confess it."
+LINE 115: "Miss Bennet, do you know who I am? I have not been accustomed to such
+LINE 116: language as this. I am almost the nearest relation he has in the world,
+LINE 117: and am entitled to know all his dearest concerns."
+LINE 118: "But you are not entitled to know _mine_; nor will such behaviour as
+LINE 119: this ever induce me to be explicit."
+LINE 120: "Let me be rightly understood. This match, to which you have the
+LINE 121: presumption to aspire, can never take place. No, never. Mr. Darcy is
+LINE 122: engaged to _my daughter_. Now, what have you to say?"
+LINE 123: "Only this,--that if he is so, you can have no reason to suppose he will
+LINE 124: make an offer to me."
+LINE 125: Lady Catherine hesitated for a moment, and then replied,--
+LINE 126: "The engagement between them is of a peculiar kind. From their infancy,
+LINE 127: they have been intended for each other. It was the favourite wish of
+LINE 128: _his_ mother, as well as of hers. While in their cradles we planned the
+LINE 129: union; and now, at the moment when the wishes of both sisters would be
+LINE 130: accomplished, is their marriage to be prevented by a young woman of
+LINE 131: inferior birth, of no importance in the world, and wholly unallied to
+LINE 132: the family? Do you pay no regard to the wishes of his friends--to his
+LINE 133: tacit engagement with Miss de Bourgh? Are you lost to every feeling of
+LINE 134: propriety and delicacy? Have you not heard me say, that from his
+LINE 135: earliest hours he was destined for his cousin?"
+LINE 136: "Yes; and I had heard it before. But what is that to me? If there is no
+LINE 137: other objection to my marrying your nephew, I shall certainly not be
+LINE 138: kept from it by knowing that his mother and aunt wished him to marry
+LINE 139: Miss de Bourgh. You both did as much as you could in planning the
+LINE 140: marriage. Its completion depended on others. If Mr. Darcy is neither by
+LINE 141: honour nor inclination confined to his cousin, why is not he to make
+LINE 142: another choice? And if I am that choice, why may not I accept him?"
+LINE 143: "Because honour, decorum, prudence--nay, interest--forbid it. Yes, Miss
+LINE 144: Bennet, interest; for do not expect to be noticed by his family or
+LINE 145: friends, if you wilfully act against the inclinations of all. You will
+LINE 146: be censured, slighted, and despised, by everyone connected with him.
+LINE 147: Your alliance will be a disgrace; your name will never even be mentioned
+LINE 148: by any of us."
+LINE 149: "These are heavy misfortunes," replied Elizabeth. "But the wife of Mr.
+LINE 150: Darcy must have such extraordinary sources of happiness necessarily
+LINE 151: attached to her situation, that she could, upon the whole, have no cause
+LINE 152: to repine."
+LINE 153: "Obstinate, headstrong girl! I am ashamed of you! Is this your gratitude
+LINE 154: for my attentions to you last spring? Is nothing due to me on that
+LINE 155: score? Let us sit down. You are to understand, Miss Bennet, that I came
+LINE 156: here with the determined resolution of carrying my purpose; nor will I
+LINE 157: be dissuaded from it. I have not been used to submit to any person's
+LINE 158: whims. I have not been in the habit of brooking disappointment."
+LINE 159: "_That_ will make your Ladyship's situation at present more pitiable;
+LINE 160: but it will have no effect on _me_."
+LINE 161: "I will not be interrupted! Hear me in silence. My daughter and my
+LINE 162: nephew are formed for each other. They are descended, on the maternal
+LINE 163: side, from the same noble line; and, on the father's, from respectable,
+LINE 164: honourable, and ancient, though untitled, families. Their fortune on
+LINE 165: both sides is splendid. They are destined for each other by the voice of
+LINE 166: every member of their respective houses; and what is to divide
+LINE 167: them?--the upstart pretensions of a young woman without family,
+LINE 168: connections, or fortune! Is this to be endured? But it must not, shall
+LINE 169: not be! If you were sensible of your own good, you would not wish to
+LINE 170: quit the sphere in which you have been brought up."
+LINE 171: "In marrying your nephew, I should not consider myself as quitting that
+LINE 172: sphere. He is a gentleman; I am a gentleman's daughter; so far we are
+LINE 173: equal."
+LINE 174: "True. You _are_ a gentleman's daughter. But what was your mother? Who
+LINE 175: are your uncles and aunts? Do not imagine me ignorant of their
+LINE 176: condition."
+LINE 177: "Whatever my connections may be," said Elizabeth, "if your nephew does
+LINE 178: not object to them, they can be nothing to _you_."
+LINE 179: "Tell me, once for all, are you engaged to him?"
+LINE 180: Though Elizabeth would not, for the mere purpose of obliging Lady
+LINE 181: Catherine, have answered this question, she could not but say, after a
+LINE 182: moment's deliberation,--
+LINE 183: "I am not."
+LINE 184: Lady Catherine seemed pleased.
+LINE 185: "And will you promise me never to enter into such an engagement?"
+LINE 186: "I will make no promise of the kind."
+LINE 187: "Miss Bennet, I am shocked and astonished. I expected to find a more
+LINE 188: reasonable young woman. But do not deceive yourself into a belief that I
+LINE 189: will ever recede. I shall not go away till you have given me the
+LINE 190: assurance I require."
+LINE 191: "And I certainly _never_ shall give it. I am not to be intimidated into
+LINE 192: anything so wholly unreasonable. Your Ladyship wants Mr. Darcy to marry
+LINE 193: your daughter; but would my giving you the wished-for promise make
+LINE 194: _their_ marriage at all more probable? Supposing him to be attached to
+LINE 195: me, would _my_ refusing to accept his hand make him wish to bestow it on
+LINE 196: his cousin? Allow me to say, Lady Catherine, that the arguments with
+LINE 197: which you have supported this extraordinary application have been as
+LINE 198: frivolous as the application was ill-judged. You have widely mistaken my
+LINE 199: character, if you think I can be worked on by such persuasions as these.
+LINE 200: How far your nephew might approve of your interference in _his_ affairs,
+LINE 201: I cannot tell; but you have certainly no right to concern yourself in
+LINE 202: mine. I must beg, therefore, to be importuned no further on the
+LINE 203: subject."
+LINE 204: "Not so hasty, if you please. I have by no means done. To all the
+LINE 205: objections I have already urged I have still another to add. I am no
+LINE 206: stranger to the particulars of your youngest sister's infamous
+LINE 207: elopement. I know it all; that the young man's marrying her was a
+LINE 208: patched-up business, at the expense of your father and uncle. And is
+LINE 209: _such_ a girl to be my nephew's sister? Is _her_ husband, who is the son
+LINE 210: of his late father's steward, to be his brother? Heaven and earth!--of
+LINE 211: what are you thinking? Are the shades of Pemberley to be thus polluted?"
+LINE 212: "You can _now_ have nothing further to say," she resentfully answered.
+LINE 213: "You have insulted me, in every possible method. I must beg to return to
+LINE 214: the house."
+LINE 215: And she rose as she spoke. Lady Catherine rose also, and they turned
+LINE 216: back. Her Ladyship was highly incensed.
+LINE 217: "You have no regard, then, for the honour and credit of my nephew!
+LINE 218: Unfeeling, selfish girl! Do you not consider that a connection with you
+LINE 219: must disgrace him in the eyes of everybody?"
+LINE 220: "Lady Catherine, I have nothing further to say. You know my sentiments."
+LINE 221: "You are then resolved to have him?"
+LINE 222: "I have said no such thing. I am only resolved to act in that manner,
+LINE 223: which will, in my own opinion, constitute my happiness, without
+LINE 224: reference to _you_, or to any person so wholly unconnected with me."
+LINE 225: "It is well. You refuse, then, to oblige me. You refuse to obey the
+LINE 226: claims of duty, honour, and gratitude. You are determined to ruin him in
+LINE 227: the opinion of all his friends, and make him the contempt of the world."
+LINE 228: "Neither duty, nor honour, nor gratitude," replied Elizabeth, "has any
+LINE 229: possible claim on me, in the present instance. No principle of either
+LINE 230: would be violated by my marriage with Mr. Darcy. And with regard to the
+LINE 231: resentment of his family, or the indignation of the world, if the former
+LINE 232: _were_ excited by his marrying me, it would not give me one moment's
+LINE 233: concern--and the world in general would have too much sense to join in
+LINE 234: the scorn."
+LINE 235: "And this is your real opinion! This is your final resolve! Very well. I
+LINE 236: shall now know how to act. Do not imagine, Miss Bennet, that your
+LINE 237: ambition will ever be gratified. I came to try you. I hoped to find you
+LINE 238: reasonable; but depend upon it I will carry my point."
+LINE 239: In this manner Lady Catherine talked on till they were at the door of
+LINE 240: the carriage, when, turning hastily round, she added,--
+LINE 241: "I take no leave of you, Miss Bennet. I send no compliments to your
+LINE 242: mother. You deserve no such attention. I am most seriously displeased."
+LINE 243: Elizabeth made no answer; and without attempting to persuade her
+LINE 244: Ladyship to return into the house, walked quietly into it herself. She
+LINE 245: heard the carriage drive away as she proceeded upstairs. Her mother
+LINE 246: impatiently met her at the door of her dressing-room, to ask why Lady
+LINE 247: Catherine would not come in again and rest herself.
+LINE 248: "She did not choose it," said her daughter; "she would go."
+LINE 249: "She is a very fine-looking woman! and her calling here was prodigiously
+LINE 250: civil! for she only came, I suppose, to tell us the Collinses were well.
+LINE 251: She is on her road somewhere, I dare say; and so, passing through
+LINE 252: Meryton, thought she might as well call on you. I suppose she had
+LINE 253: nothing particular to say to you, Lizzy?"
+LINE 254: Elizabeth was forced to give in to a little falsehood here; for to
+LINE 255: acknowledge the substance of their conversation was impossible.
+LINE 256: [Illustration:
+LINE 257: "But now it comes out"
+LINE 258: ]

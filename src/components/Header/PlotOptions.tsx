@@ -57,41 +57,41 @@ function PlotOptions() {
   } = dataStore();
   const { plotHeight } = positionStore();
   const storyOptions = [
-    "gatsby",
+    // "gatsby",
     "gatsby-new",
     "gatsby-new-themes",
 
-    "alice",
+    // "alice",
     "alice-new",
     "alice-new-themes",
 
-    "wizard",
+    // "wizard",
     "wizard-new",
     "wizard-new-themes",
 
-    "aladdin",
+    // "aladdin",
 
-    "pride",
+    // "pride",
     "pride-new",
     "pride-new-themes",
 
-    "romeo",
+    // "romeo",
     "romeo-new",
     "romeo-new-themes",
 
-    "yourname",
-    "yourname-new",
-    "yourname-new-themes",
+    // "yourname",
+    // "yourname-new",
+    // "yourname-new-themes",
 
-    "sound",
+    // "sound",
 
-    "anne",
+    // "anne",
     "anne-new",
     "anne-new-themes",
 
-    "coco",
+    // "coco",
 
-    "mendips",
+    // "mendips",
     "mendips-new",
     "mendips-new-themes",
 

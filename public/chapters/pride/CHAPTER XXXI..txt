@@ -1,0 +1,138 @@
+LINE 1: [Illustration]
+LINE 2: Colonel Fitzwilliam's manners were very much admired at the Parsonage,
+LINE 3: and the ladies all felt that he must add considerably to the pleasure of
+LINE 4: their engagements at Rosings. It was some days, however, before they
+LINE 5: received any invitation thither, for while there were visitors in the
+LINE 6: house they could not be necessary; and it was not till Easter-day,
+LINE 7: almost a week after the gentlemen's arrival, that they were honoured by
+LINE 8: such an attention, and then they were merely asked on leaving church to
+LINE 9: come there in the evening. For the last week they had seen very little
+LINE 10: of either Lady Catherine or her daughter. Colonel Fitzwilliam had called
+LINE 11: at the Parsonage more than once during the time, but Mr. Darcy they had
+LINE 12: only seen at church.
+LINE 13: The invitation was accepted, of course, and at a proper hour they joined
+LINE 14: the party in Lady Catherine's drawing-room. Her Ladyship received them
+LINE 15: civilly, but it was plain that their company was by no means so
+LINE 16: acceptable as when she could get nobody else; and she was, in fact,
+LINE 17: almost engrossed by her nephews, speaking to them, especially to Darcy,
+LINE 18: much more than to any other person in the room.
+LINE 19: Colonel Fitzwilliam seemed really glad to see them: anything was a
+LINE 20: welcome relief to him at Rosings; and Mrs. Collins's pretty friend had,
+LINE 21: moreover, caught his fancy very much. He now seated himself by her, and
+LINE 22: talked so agreeably of Kent and Hertfordshire, of travelling and staying
+LINE 23: at home, of new books and music, that Elizabeth had never been half so
+LINE 24: well entertained in that room before; and they conversed with so much
+LINE 25: spirit and flow as to draw the attention of Lady Catherine herself, as
+LINE 26: well as of Mr. Darcy. _His_ eyes had been soon and repeatedly turned
+LINE 27: towards them with a look of curiosity; and that her Ladyship, after a
+LINE 28: while, shared the feeling, was more openly acknowledged, for she did not
+LINE 29: scruple to call out,--
+LINE 30: "What is that you are saying, Fitzwilliam? What is it you are talking
+LINE 31: of? What are you telling Miss Bennet? Let me hear what it is."
+LINE 32: "We were talking of music, madam," said he, when no longer able to avoid
+LINE 33: a reply.
+LINE 34: "Of music! Then pray speak aloud. It is of all subjects my delight. I
+LINE 35: must have my share in the conversation, if you are speaking of music.
+LINE 36: There are few people in England, I suppose, who have more true
+LINE 37: enjoyment of music than myself, or a better natural taste. If I had ever
+LINE 38: learnt, I should have been a great proficient. And so would Anne, if her
+LINE 39: health had allowed her to apply. I am confident that she would have
+LINE 40: performed delightfully. How does Georgiana get on, Darcy?"
+LINE 41: Mr. Darcy spoke with affectionate praise of his sister's proficiency.
+LINE 42: "I am very glad to hear such a good account of her," said Lady
+LINE 43: Catherine; "and pray tell her from me, that she cannot expect to excel,
+LINE 44: if she does not practise a great deal."
+LINE 45: "I assure you, madam," he replied, "that she does not need such advice.
+LINE 46: She practises very constantly."
+LINE 47: "So much the better. It cannot be done too much; and when I next write
+LINE 48: to her, I shall charge her not to neglect it on any account. I often
+LINE 49: tell young ladies, that no excellence in music is to be acquired without
+LINE 50: constant practice. I have told Miss Bennet several times, that she will
+LINE 51: never play really well, unless she practises more; and though Mrs.
+LINE 52: Collins has no instrument, she is very welcome, as I have often told
+LINE 53: her, to come to Rosings every day, and play on the pianoforte in Mrs.
+LINE 54: Jenkinson's room. She would be in nobody's way, you know, in that part
+LINE 55: of the house."
+LINE 56: Mr. Darcy looked a little ashamed of his aunt's ill-breeding, and made
+LINE 57: no answer.
+LINE 58: When coffee was over, Colonel Fitzwilliam reminded Elizabeth of having
+LINE 59: promised to play to him; and she sat down directly to the instrument. He
+LINE 60: drew a chair near her. Lady Catherine listened to half a song, and then
+LINE 61: talked, as before, to her other nephew; till the latter walked away from
+LINE 62: her, and moving with his usual deliberation towards the pianoforte,
+LINE 63: stationed himself so as to command a full view of the fair performer's
+LINE 64: countenance. Elizabeth saw what he was doing, and at the first
+LINE 65: convenient pause turned to him with an arch smile, and said,--
+LINE 66: "You mean to frighten me, Mr. Darcy, by coming in all this state to hear
+LINE 67: me. But I will not be alarmed, though your sister _does_ play so well.
+LINE 68: There is a stubbornness about me that never can bear to be frightened at
+LINE 69: the will of others. My courage always rises with every attempt to
+LINE 70: intimidate me."
+LINE 71: "I shall not say that you are mistaken," he replied, "because you could
+LINE 72: not really believe me to entertain any design of alarming you; and I
+LINE 73: have had the pleasure of your acquaintance long enough to know, that you
+LINE 74: find great enjoyment in occasionally professing opinions which, in fact,
+LINE 75: are not your own."
+LINE 76: Elizabeth laughed heartily at this picture of herself, and said to
+LINE 77: Colonel Fitzwilliam, "Your cousin will give you a very pretty notion of
+LINE 78: me, and teach you not to believe a word I say. I am particularly unlucky
+LINE 79: in meeting with a person so well able to expose my real character, in a
+LINE 80: part of the world where I had hoped to pass myself off with some degree
+LINE 81: of credit. Indeed, Mr. Darcy, it is very ungenerous in you to mention
+LINE 82: all that you knew to my disadvantage in Hertfordshire--and, give me
+LINE 83: leave to say, very impolitic too--for it is provoking me to retaliate,
+LINE 84: and such things may come out as will shock your relations to hear."
+LINE 85: "I am not afraid of you," said he, smilingly.
+LINE 86: "Pray let me hear what you have to accuse him of," cried Colonel
+LINE 87: Fitzwilliam. "I should like to know how he behaves among strangers."
+LINE 88: "You shall hear, then--but prepare for something very dreadful. The
+LINE 89: first time of my ever seeing him in Hertfordshire, you must know, was at
+LINE 90: a ball--and at this ball, what do you think he did? He danced only four
+LINE 91: dances! I am sorry to pain you, but so it was. He danced only four
+LINE 92: dances, though gentlemen were scarce; and, to my certain knowledge, more
+LINE 93: than one young lady was sitting down in want of a partner. Mr. Darcy,
+LINE 94: you cannot deny the fact."
+LINE 95: "I had not at that time the honour of knowing any lady in the assembly
+LINE 96: beyond my own party."
+LINE 97: "True; and nobody can ever be introduced in a ball-room. Well, Colonel
+LINE 98: Fitzwilliam, what do I play next? My fingers wait your orders."
+LINE 99: "Perhaps," said Darcy, "I should have judged better had I sought an
+LINE 100: introduction, but I am ill-qualified to recommend myself to strangers."
+LINE 101: "Shall we ask your cousin the reason of this?" said Elizabeth, still
+LINE 102: addressing Colonel Fitzwilliam. "Shall we ask him why a man of sense and
+LINE 103: education, and who has lived in the world, is ill-qualified to recommend
+LINE 104: himself to strangers?"
+LINE 105: "I can answer your question," said Fitzwilliam, "without applying to
+LINE 106: him. It is because he will not give himself the trouble."
+LINE 107: "I certainly have not the talent which some people possess," said Darcy,
+LINE 108: "of conversing easily with those I have never seen before. I cannot
+LINE 109: catch their tone of conversation, or appear interested in their
+LINE 110: concerns, as I often see done."
+LINE 111: "My fingers," said Elizabeth, "do not move over this instrument in the
+LINE 112: masterly manner which I see so many women's do. They have not the same
+LINE 113: force or rapidity, and do not produce the same expression. But then I
+LINE 114: have always supposed it to be my own fault--because I would not take
+LINE 115: the trouble of practising. It is not that I do not believe _my_ fingers
+LINE 116: as capable as any other woman's of superior execution."
+LINE 117: Darcy smiled and said, "You are perfectly right. You have employed your
+LINE 118: time much better. No one admitted to the privilege of hearing you can
+LINE 119: think anything wanting. We neither of us perform to strangers."
+LINE 120: Here they were interrupted by Lady Catherine, who called out to know
+LINE 121: what they were talking of. Elizabeth immediately began playing again.
+LINE 122: Lady Catherine approached, and, after listening for a few minutes, said
+LINE 123: to Darcy,--
+LINE 124: "Miss Bennet would not play at all amiss if she practised more, and
+LINE 125: could have the advantage of a London master. She has a very good notion
+LINE 126: of fingering, though her taste is not equal to Anne's. Anne would have
+LINE 127: been a delightful performer, had her health allowed her to learn."
+LINE 128: Elizabeth looked at Darcy, to see how cordially he assented to his
+LINE 129: cousin's praise: but neither at that moment nor at any other could she
+LINE 130: discern any symptom of love; and from the whole of his behaviour to Miss
+LINE 131: De Bourgh she derived this comfort for Miss Bingley, that he might have
+LINE 132: been just as likely to marry _her_, had she been his relation.
+LINE 133: Lady Catherine continued her remarks on Elizabeth's performance, mixing
+LINE 134: with them many instructions on execution and taste. Elizabeth received
+LINE 135: them with all the forbearance of civility; and at the request of the
+LINE 136: gentlemen remained at the instrument till her Ladyship's carriage was
+LINE 137: ready to take them all home.
+LINE 138: [Illustration]

@@ -1,0 +1,262 @@
+LINE 1: [Illustration]
+LINE 2: Elizabeth had been a good deal disappointed in not finding a letter from
+LINE 3: Jane on their first arrival at Lambton; and this disappointment had been
+LINE 4: renewed on each of the mornings that had now been spent there; but on
+LINE 5: the third her repining was over, and her sister justified, by the
+LINE 6: receipt of two letters from her at once, on one of which was marked that
+LINE 7: it had been mis-sent elsewhere. Elizabeth was not surprised at it, as
+LINE 8: Jane had written the direction remarkably ill.
+LINE 9: They had just been preparing to walk as the letters came in; and her
+LINE 10: uncle and aunt, leaving her to enjoy them in quiet, set off by
+LINE 11: themselves. The one mis-sent must be first attended to; it had been
+LINE 12: written five days ago. The beginning contained an account of all their
+LINE 13: little parties and engagements, with such news as the country afforded;
+LINE 14: but the latter half, which was dated a day later, and written in evident
+LINE 15: agitation, gave more important intelligence. It was to this effect:--
+LINE 16: "Since writing the above, dearest Lizzy, something has occurred of a
+LINE 17: most unexpected and serious nature; but I am afraid of alarming you--be
+LINE 18: assured that we are all well. What I have to say relates to poor Lydia.
+LINE 19: An express came at twelve last night, just as we were all gone to bed,
+LINE 20: from Colonel Forster, to inform us that she was gone off to Scotland
+LINE 21: with one of his officers; to own the truth, with Wickham! Imagine our
+LINE 22: surprise. To Kitty, however, it does not seem so wholly unexpected. I am
+LINE 23: very, very sorry. So imprudent a match on both sides! But I am willing
+LINE 24: to hope the best, and that his character has been misunderstood.
+LINE 25: Thoughtless and indiscreet I can easily believe him, but this step (and
+LINE 26: let us rejoice over it) marks nothing bad at heart. His choice is
+LINE 27: disinterested at least, for he must know my father can give her nothing.
+LINE 28: Our poor mother is sadly grieved. My father bears it better. How
+LINE 29: thankful am I, that we never let them know what has been said against
+LINE 30: him; we must forget it ourselves. They were off Saturday night about
+LINE 31: twelve, as is conjectured, but were not missed till yesterday morning at
+LINE 32: eight. The express was sent off directly. My dear Lizzy, they must have
+LINE 33: passed within ten miles of us. Colonel Forster gives us reason to expect
+LINE 34: him here soon. Lydia left a few lines for his wife, informing her of
+LINE 35: their intention. I must conclude, for I cannot be long from my poor
+LINE 36: mother. I am afraid you will not be able to make it out, but I hardly
+LINE 37: know what I have written."
+LINE 38: Without allowing herself time for consideration, and scarcely knowing
+LINE 39: what she felt, Elizabeth, on finishing this letter, instantly seized the
+LINE 40: other, and opening it with the utmost impatience, read as follows: it
+LINE 41: had been written a day later than the conclusion of the first.
+LINE 42: "By this time, my dearest sister, you have received my hurried letter; I
+LINE 43: wish this may be more intelligible, but though not confined for time, my
+LINE 44: head is so bewildered that I cannot answer for being coherent. Dearest
+LINE 45: Lizzy, I hardly know what I would write, but I have bad news for you,
+LINE 46: and it cannot be delayed. Imprudent as a marriage between Mr. Wickham
+LINE 47: and our poor Lydia would be, we are now anxious to be assured it has
+LINE 48: taken place, for there is but too much reason to fear they are not gone
+LINE 49: to Scotland. Colonel Forster came yesterday, having left Brighton the
+LINE 50: day before, not many hours after the express. Though Lydia's short
+LINE 51: letter to Mrs. F. gave them to understand that they were going to Gretna
+LINE 52: Green, something was dropped by Denny expressing his belief that W.
+LINE 53: never intended to go there, or to marry Lydia at all, which was repeated
+LINE 54: to Colonel F., who, instantly taking the alarm, set off from B.,
+LINE 55: intending to trace their route. He did trace them easily to Clapham, but
+LINE 56: no farther; for on entering that place, they removed into a
+LINE 57: hackney-coach, and dismissed the chaise that brought them from Epsom.
+LINE 58: All that is known after this is, that they were seen to continue the
+LINE 59: London road. I know not what to think. After making every possible
+LINE 60: inquiry on that side of London, Colonel F. came on into Hertfordshire,
+LINE 61: anxiously renewing them at all the turnpikes, and at the inns in Barnet
+LINE 62: and Hatfield, but without any success,--no such people had been seen to
+LINE 63: pass through. With the kindest concern he came on to Longbourn, and
+LINE 64: broke his apprehensions to us in a manner most creditable to his heart.
+LINE 65: I am sincerely grieved for him and Mrs. F.; but no one can throw any
+LINE 66: blame on them. Our distress, my dear Lizzy, is very great. My father and
+LINE 67: mother believe the worst, but I cannot think so ill of him. Many
+LINE 68: circumstances might make it more eligible for them to be married
+LINE 69: privately in town than to pursue their first plan; and even if _he_
+LINE 70: could form such a design against a young woman of Lydia's connections,
+LINE 71: which is not likely, can I suppose her so lost to everything?
+LINE 72: Impossible! I grieve to find, however, that Colonel F. is not disposed
+LINE 73: to depend upon their marriage: he shook his head when I expressed my
+LINE 74: hopes, and said he feared W. was not a man to be trusted. My poor mother
+LINE 75: is really ill, and keeps her room. Could she exert herself, it would be
+LINE 76: better, but this is not to be expected; and as to my father, I never in
+LINE 77: my life saw him so affected. Poor Kitty has anger for having concealed
+LINE 78: their attachment; but as it was a matter of confidence, one cannot
+LINE 79: wonder. I am truly glad, dearest Lizzy, that you have been spared
+LINE 80: something of these distressing scenes; but now, as the first shock is
+LINE 81: over, shall I own that I long for your return? I am not so selfish,
+LINE 82: however, as to press for it, if inconvenient. Adieu! I take up my pen
+LINE 83: again to do, what I have just told you I would not; but circumstances
+LINE 84: are such, that I cannot help earnestly begging you all to come here as
+LINE 85: soon as possible. I know my dear uncle and aunt so well, that I am not
+LINE 86: afraid of requesting it, though I have still something more to ask of
+LINE 87: the former. My father is going to London with Colonel Forster instantly,
+LINE 88: to try to discover her. What he means to do, I am sure I know not; but
+LINE 89: his excessive distress will not allow him to pursue any measure in the
+LINE 90: best and safest way, and Colonel Forster is obliged to be at Brighton
+LINE 91: again to-morrow evening. In such an exigence my uncle's advice and
+LINE 92: assistance would be everything in the world; he will immediately
+LINE 93: comprehend what I must feel, and I rely upon his goodness."
+LINE 94: "Oh! where, where is my uncle?" cried Elizabeth, darting from her seat
+LINE 95: as she finished the letter, in eagerness to follow him, without losing a
+LINE 96: moment of the time so precious; but as she reached the door, it was
+LINE 97: opened by a servant, and Mr. Darcy appeared. Her pale face and
+LINE 98: impetuous manner made him start, and before he could recover himself
+LINE 99: enough to speak, she, in whose mind every idea was superseded by Lydia's
+LINE 100: situation, hastily exclaimed, "I beg your pardon, but I must leave you.
+LINE 101: I must find Mr. Gardiner this moment on business that cannot be delayed;
+LINE 102: I have not an instant to lose."
+LINE 103: "Good God! what is the matter?" cried he, with more feeling than
+LINE 104: politeness; then recollecting himself, "I will not detain you a minute;
+LINE 105: but let me, or let the servant, go after Mr. and Mrs. Gardiner. You are
+LINE 106: not well enough; you cannot go yourself."
+LINE 107: Elizabeth hesitated; but her knees trembled under her, and she felt how
+LINE 108: little would be gained by her attempting to pursue them. Calling back
+LINE 109: the servant, therefore, she commissioned him, though in so breathless an
+LINE 110: accent as made her almost unintelligible, to fetch his master and
+LINE 111: mistress home instantly.
+LINE 112: On his quitting the room, she sat down, unable to support herself, and
+LINE 113: looking so miserably ill, that it was impossible for Darcy to leave her,
+LINE 114: or to refrain from saying, in a tone of gentleness and commiseration,
+LINE 115: "Let me call your maid. Is there nothing you could take to give you
+LINE 116: present relief? A glass of wine; shall I get you one? You are very ill."
+LINE 117: "No, I thank you," she replied, endeavouring to recover herself. "There
+LINE 118: is nothing the matter with me. I am quite well, I am only distressed by
+LINE 119: some dreadful news which I have just received from Longbourn."
+LINE 120: She burst into tears as she alluded to it, and for a few minutes could
+LINE 121: not speak another word. Darcy, in wretched suspense, could only say
+LINE 122: something indistinctly of his
+LINE 123: [Illustration:
+LINE 124: "I have not an instant to lose"
+LINE 125: ]
+LINE 126: concern, and observe her in compassionate silence. At length she spoke
+LINE 127: again. "I have just had a letter from Jane, with such dreadful news. It
+LINE 128: cannot be concealed from anyone. My youngest sister has left all her
+LINE 129: friends--has eloped; has thrown herself into the power of--of Mr.
+LINE 130: Wickham. They are gone off together from Brighton. _You_ know him too
+LINE 131: well to doubt the rest. She has no money, no connections, nothing that
+LINE 132: can tempt him to--she is lost for ever."
+LINE 133: Darcy was fixed in astonishment.
+LINE 134: "When I consider," she added, in a yet more agitated voice, "that _I_
+LINE 135: might have prevented it! _I_ who knew what he was. Had I but explained
+LINE 136: some part of it only--some part of what I learnt, to my own family! Had
+LINE 137: his character been known, this could not have happened. But it is all,
+LINE 138: all too late now."
+LINE 139: "I am grieved, indeed," cried Darcy: "grieved--shocked. But is it
+LINE 140: certain, absolutely certain?"
+LINE 141: "Oh, yes! They left Brighton together on Sunday night, and were traced
+LINE 142: almost to London, but not beyond: they are certainly not gone to
+LINE 143: Scotland."
+LINE 144: "And what has been done, what has been attempted, to recover her?"
+LINE 145: "My father has gone to London, and Jane has written to beg my uncle's
+LINE 146: immediate assistance, and we shall be off, I hope, in half an hour. But
+LINE 147: nothing can be done; I know very well that nothing can be done. How is
+LINE 148: such a man to be worked on? How are they even to be discovered? I have
+LINE 149: not the smallest hope. It is every way horrible!"
+LINE 150: Darcy shook his head in silent acquiescence.
+LINE 151: "When _my_ eyes were opened to his real character, oh! had I known what
+LINE 152: I ought, what I dared to do! But I knew not--I was afraid of doing too
+LINE 153: much. Wretched, wretched mistake!"
+LINE 154: Darcy made no answer. He seemed scarcely to hear her, and was walking up
+LINE 155: and down the room in earnest meditation; his brow contracted, his air
+LINE 156: gloomy. Elizabeth soon observed, and instantly understood it. Her power
+LINE 157: was sinking; everything _must_ sink under such a proof of family
+LINE 158: weakness, such an assurance of the deepest disgrace. She could neither
+LINE 159: wonder nor condemn; but the belief of his self-conquest brought nothing
+LINE 160: consolatory to her bosom, afforded no palliation of her distress. It
+LINE 161: was, on the contrary, exactly calculated to make her understand her own
+LINE 162: wishes; and never had she so honestly felt that she could have loved
+LINE 163: him, as now, when all love must be vain.
+LINE 164: But self, though it would intrude, could not engross her. Lydia--the
+LINE 165: humiliation, the misery she was bringing on them all--soon swallowed up
+LINE 166: every private care; and covering her face with her handkerchief,
+LINE 167: Elizabeth was soon lost to everything else; and, after a pause of
+LINE 168: several minutes, was only recalled to a sense of her situation by the
+LINE 169: voice of her companion, who, in a manner which, though it spoke
+LINE 170: compassion, spoke likewise restraint, said,--
+LINE 171: "I am afraid you have been long desiring my absence, nor have I anything
+LINE 172: to plead in excuse of my stay, but real, though unavailing concern.
+LINE 173: Would to Heaven that anything could be either said or done on my part,
+LINE 174: that might offer consolation to such distress! But I will not torment
+LINE 175: you with vain wishes, which may seem purposely to ask for your thanks.
+LINE 176: This unfortunate affair will, I fear, prevent my sister's having the
+LINE 177: pleasure of seeing you at Pemberley to-day."
+LINE 178: "Oh, yes! Be so kind as to apologize for us to Miss Darcy. Say that
+LINE 179: urgent business calls us home immediately. Conceal the unhappy truth as
+LINE 180: long as it is possible. I know it cannot be long."
+LINE 181: He readily assured her of his secrecy, again expressed his sorrow for
+LINE 182: her distress, wished it a happier conclusion than there was at present
+LINE 183: reason to hope, and, leaving his compliments for her relations, with
+LINE 184: only one serious parting look, went away.
+LINE 185: As he quitted the room, Elizabeth felt how improbable it was that they
+LINE 186: should ever see each other again on such terms of cordiality as had
+LINE 187: marked their several meetings in Derbyshire; and as she threw a
+LINE 188: retrospective glance over the whole of their acquaintance, so full of
+LINE 189: contradictions and varieties, sighed at the perverseness of those
+LINE 190: feelings which would now have promoted its continuance, and would
+LINE 191: formerly have rejoiced in its termination.
+LINE 192: If gratitude and esteem are good foundations of affection, Elizabeth's
+LINE 193: change of sentiment will be neither improbable nor faulty. But if
+LINE 194: otherwise, if the regard springing from such sources is unreasonable or
+LINE 195: unnatural, in comparison of what is so often described as arising on a
+LINE 196: first interview with its object, and even before two words have been
+LINE 197: exchanged, nothing can be said in her defence, except that she had given
+LINE 198: somewhat of a trial to the latter method, in her partiality for Wickham,
+LINE 199: and that its ill success might, perhaps, authorize her to seek the other
+LINE 200: less interesting mode of attachment. Be that as it may, she saw him go
+LINE 201: with regret; and in this early example of what Lydia's infamy must
+LINE 202: produce, found additional anguish as she reflected on that wretched
+LINE 203: business. Never since reading Jane's second letter had she entertained a
+LINE 204: hope of Wickham's meaning to marry her. No one but Jane, she thought,
+LINE 205: could flatter herself with such an expectation. Surprise was the least
+LINE 206: of all her feelings on this development. While the contents of the first
+LINE 207: letter remained on her mind, she was all surprise, all astonishment,
+LINE 208: that Wickham should marry a girl whom it was impossible he could marry
+LINE 209: for money; and how Lydia could ever have attached him had appeared
+LINE 210: incomprehensible. But now it was all too natural. For such an attachment
+LINE 211: as this, she might have sufficient charms; and though she did not
+LINE 212: suppose Lydia to be deliberately engaging in an elopement, without the
+LINE 213: intention of marriage, she had no difficulty in believing that neither
+LINE 214: her virtue nor her understanding would preserve her from falling an easy
+LINE 215: prey.
+LINE 216: She had never perceived, while the regiment was in Hertfordshire, that
+LINE 217: Lydia had any partiality for him; but she was convinced that Lydia had
+LINE 218: wanted only encouragement to attach herself to anybody. Sometimes one
+LINE 219: officer, sometimes another, had been her favourite, as their attentions
+LINE 220: raised them in her opinion. Her affections had been continually
+LINE 221: fluctuating, but never without an object. The mischief of neglect and
+LINE 222: mistaken indulgence towards such a girl--oh! how acutely did she now
+LINE 223: feel it!
+LINE 224: She was wild to be at home--to hear, to see, to be upon the spot to
+LINE 225: share with Jane in the cares that must now fall wholly upon her, in a
+LINE 226: family so deranged; a father absent, a mother incapable of exertion, and
+LINE 227: requiring constant attendance; and though almost persuaded that nothing
+LINE 228: could be done for Lydia, her uncle's interference seemed of the utmost
+LINE 229: importance, and till he entered the room the misery of her impatience
+LINE 230: was severe. Mr. and Mrs. Gardiner had hurried back in alarm, supposing,
+LINE 231: by the servant's account, that their niece was taken suddenly ill; but
+LINE 232: satisfying them instantly on that head, she eagerly communicated the
+LINE 233: cause of their summons, reading the two letters aloud, and dwelling on
+LINE 234: the postscript of the last with trembling energy. Though Lydia had never
+LINE 235: been a favourite with them, Mr. and Mrs. Gardiner could not but be
+LINE 236: deeply affected. Not Lydia only, but all were concerned in it; and after
+LINE 237: the first exclamations of surprise and horror, Mr. Gardiner readily
+LINE 238: promised every assistance in his power. Elizabeth, though expecting no
+LINE 239: less, thanked him with tears of gratitude; and all three being actuated
+LINE 240: by one spirit, everything relating to their journey was speedily
+LINE 241: settled. They were to be off as soon as possible. "But what is to be
+LINE 242: done about Pemberley?" cried Mrs. Gardiner. "John told us Mr. Darcy was
+LINE 243: here when you sent for us;--was it so?"
+LINE 244: "Yes; and I told him we should not be able to keep our engagement.
+LINE 245: _That_ is all settled."
+LINE 246: "What is all settled?" repeated the other, as she ran into her room to
+LINE 247: prepare. "And are they upon such terms as for her to disclose the real
+LINE 248: truth? Oh, that I knew how it was!"
+LINE 249: But wishes were vain; or, at best, could serve only to amuse her in the
+LINE 250: hurry and confusion of the following hour. Had Elizabeth been at leisure
+LINE 251: to be idle, she would have remained certain that all employment was
+LINE 252: impossible to one so wretched as herself; but she had her share of
+LINE 253: business as well as her aunt, and amongst the rest there were notes to
+LINE 254: be written to all their friends at Lambton, with false excuses for their
+LINE 255: sudden departure. An hour, however, saw the whole completed; and Mr.
+LINE 256: Gardiner, meanwhile, having settled his account at the inn, nothing
+LINE 257: remained to be done but to go; and Elizabeth, after all the misery of
+LINE 258: the morning, found herself, in a shorter space of time than she could
+LINE 259: have supposed, seated in the carriage, and on the road to Longbourn.
+LINE 260: [Illustration:
+LINE 261: "The first pleasing earnest of their welcome"
+LINE 262: ]

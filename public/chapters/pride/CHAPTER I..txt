@@ -1,5 +1,5 @@
 LINE 1: It is a truth universally acknowledged, that a single man in possession
-LINE 2: of a good fortune, must be in want of a wife.
+LINE 2: of a good fortune must be in want of a wife.
 LINE 3: However little known the feelings or views of such a man may be on his
 LINE 4: first entering a neighbourhood, this truth is so well fixed in the minds
 LINE 5: of the surrounding families, that he is considered as the rightful
@@ -10,71 +10,77 @@ LINE 9: Mr. Bennet replied that he had not.
 LINE 10: "But it is," returned she; "for Mrs. Long has just been here, and she
 LINE 11: told me all about it."
 LINE 12: Mr. Bennet made no answer.
-LINE 13: "Do not you want to know who has taken it?" cried his wife impatiently.
+LINE 13: "Do not you want to know who has taken it?" cried his wife, impatiently.
 LINE 14: "_You_ want to tell me, and I have no objection to hearing it."
-LINE 15: This was invitation enough.
-LINE 16: "Why, my dear, you must know, Mrs. Long says that Netherfield is taken
-LINE 17: by a young man of large fortune from the north of England; that he came
-LINE 18: down on Monday in a chaise and four to see the place, and was so much
-LINE 19: delighted with it that he agreed with Mr. Morris immediately; that he is
-LINE 20: to take possession before Michaelmas, and some of his servants are to be
-LINE 21: in the house by the end of next week."
-LINE 22: "What is his name?"
-LINE 23: "Bingley."
-LINE 24: "Is he married or single?"
-LINE 25: "Oh! single, my dear, to be sure! A single man of large fortune; four
-LINE 26: or five thousand a year. What a fine thing for our girls!"
-LINE 27: "How so? how can it affect them?"
-LINE 28: "My dear Mr. Bennet," replied his wife, "how can you be so tiresome! You
-LINE 29: must know that I am thinking of his marrying one of them."
-LINE 30: "Is that his design in settling here?"
-LINE 31: "Design! nonsense, how can you talk so! But it is very likely that he
-LINE 32: _may_ fall in love with one of them, and therefore you must visit him as
-LINE 33: soon as he comes."
-LINE 34: "I see no occasion for that. You and the girls may go, or you may send
-LINE 35: them by themselves, which perhaps will be still better, for as you are
-LINE 36: as handsome as any of them, Mr. Bingley might like you the best of the
-LINE 37: party."
-LINE 38: "My dear, you flatter me. I certainly _have_ had my share of beauty, but
-LINE 39: I do not pretend to be any thing extraordinary now. When a woman has
-LINE 40: five grown up daughters, she ought to give over thinking of her own
-LINE 41: beauty."
-LINE 42: "In such cases, a woman has not often much beauty to think of."
-LINE 43: "But, my dear, you must indeed go and see Mr. Bingley when he comes into
-LINE 44: the neighbourhood."
-LINE 45: "It is more than I engage for, I assure you."
-LINE 46: "But consider your daughters. Only think what an establishment it would
-LINE 47: be for one of them. Sir William and Lady Lucas are determined to go,
-LINE 48: merely on that account, for in general you know they visit no new
-LINE 49: comers. Indeed you must go, for it will be impossible for _us_ to visit
-LINE 50: him, if you do not."
-LINE 51: "You are over scrupulous surely. I dare say Mr. Bingley will be very
-LINE 52: glad to see you; and I will send a few lines by you to assure him of my
-LINE 53: hearty consent to his marrying which ever he chuses of the girls; though
-LINE 54: I must throw in a good word for my little Lizzy."
-LINE 55: "I desire you will do no such thing. Lizzy is not a bit better than the
-LINE 56: others; and I am sure she is not half so handsome as Jane, nor half so
-LINE 57: good humoured as Lydia. But you are always giving _her_ the
-LINE 58: preference."
-LINE 59: "They have none of them much to recommend them," replied he; "they are
-LINE 60: all silly and ignorant like other girls; but Lizzy has something more of
-LINE 61: quickness than her sisters."
-LINE 62: "Mr. Bennet, how can you abuse your own children in such a way? You take
-LINE 63: delight in vexing me. You have no compassion on my poor nerves."
-LINE 64: "You mistake me, my dear. I have a high respect for your nerves. They
-LINE 65: are my old friends. I have heard you mention them with consideration
-LINE 66: these twenty years at least."
-LINE 67: "Ah! you do not know what I suffer."
-LINE 68: "But I hope you will get over it, and live to see many young men of four
-LINE 69: thousand a year come into the neighbourhood."
-LINE 70: "It will be no use to us, if twenty such should come since you will not
-LINE 71: visit them."
-LINE 72: "Depend upon it, my dear, that when there are twenty, I will visit them
-LINE 73: all."
-LINE 74: Mr. Bennet was so odd a mixture of quick parts, sarcastic humour,
-LINE 75: reserve, and caprice, that the experience of three and twenty years had
-LINE 76: been insufficient to make his wife understand his character. _Her_ mind
-LINE 77: was less difficult to develope. She was a woman of mean understanding,
-LINE 78: little information, and uncertain temper. When she was discontented she
-LINE 79: fancied herself nervous. The business of her life was to get her
-LINE 80: daughters married; its solace was visiting and news.
+LINE 15: [Illustration:
+LINE 16: "He came down to see the place"
+LINE 17: [_Copyright 1894 by George Allen._]]
+LINE 18: This was invitation enough.
+LINE 19: "Why, my dear, you must know, Mrs. Long says that Netherfield is taken
+LINE 20: by a young man of large fortune from the north of England; that he came
+LINE 21: down on Monday in a chaise and four to see the place, and was so much
+LINE 22: delighted with it that he agreed with Mr. Morris immediately; that he is
+LINE 23: to take possession before Michaelmas, and some of his servants are to be
+LINE 24: in the house by the end of next week."
+LINE 25: "What is his name?"
+LINE 26: "Bingley."
+LINE 27: "Is he married or single?"
+LINE 28: "Oh, single, my dear, to be sure! A single man of large fortune; four or
+LINE 29: five thousand a year. What a fine thing for our girls!"
+LINE 30: "How so? how can it affect them?"
+LINE 31: "My dear Mr. Bennet," replied his wife, "how can you be so tiresome? You
+LINE 32: must know that I am thinking of his marrying one of them."
+LINE 33: "Is that his design in settling here?"
+LINE 34: "Design? Nonsense, how can you talk so! But it is very likely that he
+LINE 35: _may_ fall in love with one of them, and therefore you must visit him as
+LINE 36: soon as he comes."
+LINE 37: "I see no occasion for that. You and the girls may go--or you may send
+LINE 38: them by themselves, which perhaps will be still better; for as you are
+LINE 39: as handsome as any of them, Mr. Bingley might like you the best of the
+LINE 40: party."
+LINE 41: "My dear, you flatter me. I certainly _have_ had my share of beauty, but
+LINE 42: I do not pretend to be anything extraordinary now. When a woman has five
+LINE 43: grown-up daughters, she ought to give over thinking of her own beauty."
+LINE 44: "In such cases, a woman has not often much beauty to think of."
+LINE 45: "But, my dear, you must indeed go and see Mr. Bingley when he comes into
+LINE 46: the neighbourhood."
+LINE 47: "It is more than I engage for, I assure you."
+LINE 48: "But consider your daughters. Only think what an establishment it would
+LINE 49: be for one of them. Sir William and Lady Lucas are determined to go,
+LINE 50: merely on that account; for in general, you know, they visit no new
+LINE 51: comers. Indeed you must go, for it will be impossible for _us_ to visit
+LINE 52: him, if you do not."
+LINE 53: "You are over scrupulous, surely. I dare say Mr. Bingley will be very
+LINE 54: glad to see you; and I will send a few lines by you to assure him of my
+LINE 55: hearty consent to his marrying whichever he chooses of the girls--though
+LINE 56: I must throw in a good word for my little Lizzy."
+LINE 57: "I desire you will do no such thing. Lizzy is not a bit better than the
+LINE 58: others: and I am sure she is not half so handsome as Jane, nor half so
+LINE 59: good-humoured as Lydia. But you are always giving _her_ the preference."
+LINE 60: "They have none of them much to recommend them," replied he: "they are
+LINE 61: all silly and ignorant like other girls; but Lizzy has something more of
+LINE 62: quickness than her sisters."
+LINE 63: "Mr. Bennet, how can you abuse your own children in such a way? You take
+LINE 64: delight in vexing me. You have no compassion on my poor nerves."
+LINE 65: "You mistake me, my dear. I have a high respect for your nerves. They
+LINE 66: are my old friends. I have heard you mention them with consideration
+LINE 67: these twenty years at least."
+LINE 68: "Ah, you do not know what I suffer."
+LINE 69: "But I hope you will get over it, and live to see many young men of four
+LINE 70: thousand a year come into the neighbourhood."
+LINE 71: "It will be no use to us, if twenty such should come, since you will not
+LINE 72: visit them."
+LINE 73: "Depend upon it, my dear, that when there are twenty, I will visit them
+LINE 74: all."
+LINE 75: Mr. Bennet was so odd a mixture of quick parts, sarcastic humour,
+LINE 76: reserve, and caprice, that the experience of three-and-twenty years had
+LINE 77: been insufficient to make his wife understand his character. _Her_ mind
+LINE 78: was less difficult to develope. She was a woman of mean understanding,
+LINE 79: little information, and uncertain temper. When she was discontented, she
+LINE 80: fancied herself nervous. The business of her life was to get her
+LINE 81: daughters married: its solace was visiting and news.
+LINE 82: [Illustration: M^{r.} & M^{rs.} Bennet
+LINE 83: [_Copyright 1894 by George Allen._]]
+LINE 84: [Illustration:
+LINE 85: "I hope Mr. Bingley will like it"
+LINE 86: [_Copyright 1894 by George Allen._]]

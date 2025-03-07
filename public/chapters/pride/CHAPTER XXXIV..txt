@@ -1,0 +1,189 @@
+LINE 1: [Illustration]
+LINE 2: When they were gone, Elizabeth, as if intending to exasperate herself as
+LINE 3: much as possible against Mr. Darcy, chose for her employment the
+LINE 4: examination of all the letters which Jane had written to her since her
+LINE 5: being in Kent. They contained no actual complaint, nor was there any
+LINE 6: revival of past occurrences, or any communication of present suffering.
+LINE 7: But in all, and in almost every line of each, there was a want of that
+LINE 8: cheerfulness which had been used to characterize her style, and which,
+LINE 9: proceeding from the serenity of a mind at ease with itself, and kindly
+LINE 10: disposed towards everyone, had been scarcely ever clouded. Elizabeth
+LINE 11: noticed every sentence conveying the idea of uneasiness, with an
+LINE 12: attention which it had hardly received on the first perusal. Mr. Darcy's
+LINE 13: shameful boast of what misery he had been able to inflict gave her a
+LINE 14: keener sense of her sister's sufferings. It was some consolation to
+LINE 15: think that his visit to Rosings was to end on the day after the next,
+LINE 16: and a still greater that in less than a fortnight she should herself be
+LINE 17: with Jane again, and enabled to contribute to the recovery of her
+LINE 18: spirits, by all that affection could do.
+LINE 19: She could not think of Darcy's leaving Kent without remembering that his
+LINE 20: cousin was to go with him; but Colonel Fitzwilliam had made it clear
+LINE 21: that he had no intentions at all, and, agreeable as he was, she did not
+LINE 22: mean to be unhappy about him.
+LINE 23: While settling this point, she was suddenly roused by the sound of the
+LINE 24: door-bell; and her spirits were a little fluttered by the idea of its
+LINE 25: being Colonel Fitzwilliam himself, who had once before called late in
+LINE 26: the evening, and might now come to inquire particularly after her. But
+LINE 27: this idea was soon banished, and her spirits were very differently
+LINE 28: affected, when, to her utter amazement, she saw Mr. Darcy walk into the
+LINE 29: room. In a hurried manner he immediately began an inquiry after her
+LINE 30: health, imputing his visit to a wish of hearing that she were better.
+LINE 31: She answered him with cold civility. He sat down for a few moments, and
+LINE 32: then getting up walked about the room. Elizabeth was surprised, but
+LINE 33: said not a word. After a silence of several minutes, he came towards her
+LINE 34: in an agitated manner, and thus began:--
+LINE 35: "In vain have I struggled. It will not do. My feelings will not be
+LINE 36: repressed. You must allow me to tell you how ardently I admire and love
+LINE 37: you."
+LINE 38: Elizabeth's astonishment was beyond expression. She stared, coloured,
+LINE 39: doubted, and was silent. This he considered sufficient encouragement,
+LINE 40: and the avowal of all that he felt and had long felt for her immediately
+LINE 41: followed. He spoke well; but there were feelings besides those of the
+LINE 42: heart to be detailed, and he was not more eloquent on the subject of
+LINE 43: tenderness than of pride. His sense of her inferiority, of its being a
+LINE 44: degradation, of the family obstacles which judgment had always opposed
+LINE 45: to inclination, were dwelt on with a warmth which seemed due to the
+LINE 46: consequence he was wounding, but was very unlikely to recommend his
+LINE 47: suit.
+LINE 48: In spite of her deeply-rooted dislike, she could not be insensible to
+LINE 49: the compliment of such a man's affection, and though her intentions did
+LINE 50: not vary for an instant, she was at first sorry for the pain he was to
+LINE 51: receive; till roused to resentment by his subsequent language, she lost
+LINE 52: all compassion in anger. She tried, however, to compose herself to
+LINE 53: answer him with patience, when he should have done. He concluded with
+LINE 54: representing to her the strength of that attachment which in spite of
+LINE 55: all his endeavours he had found impossible to conquer; and with
+LINE 56: expressing his hope that it would now be rewarded by her acceptance of
+LINE 57: his hand. As he said this she could easily see that he had no doubt of a
+LINE 58: favourable answer. He _spoke_ of apprehension and anxiety, but his
+LINE 59: countenance expressed real security. Such a circumstance could only
+LINE 60: exasperate farther; and when he ceased the colour rose into her cheeks
+LINE 61: and she said,--
+LINE 62: "In such cases as this, it is, I believe, the established mode to
+LINE 63: express a sense of obligation for the sentiments avowed, however
+LINE 64: unequally they may be returned. It is natural that obligation should be
+LINE 65: felt, and if I could _feel_ gratitude, I would now thank you. But I
+LINE 66: cannot--I have never desired your good opinion, and you have certainly
+LINE 67: bestowed it most unwillingly. I am sorry to have occasioned pain to
+LINE 68: anyone. It has been most unconsciously done, however, and I hope will be
+LINE 69: of short duration. The feelings which you tell me have long prevented
+LINE 70: the acknowledgment of your regard can have little difficulty in
+LINE 71: overcoming it after this explanation."
+LINE 72: Mr. Darcy, who was leaning against the mantel-piece with his eyes fixed
+LINE 73: on her face, seemed to catch her words with no less resentment than
+LINE 74: surprise. His complexion became pale with anger, and the disturbance of
+LINE 75: his mind was visible in every feature. He was struggling for the
+LINE 76: appearance of composure, and would not open his lips till he believed
+LINE 77: himself to have attained it. The pause was to Elizabeth's feelings
+LINE 78: dreadful. At length, in a voice of forced calmness, he said,--
+LINE 79: "And this is all the reply which I am to have the honour of expecting! I
+LINE 80: might, perhaps, wish to be informed why, with so little _endeavour_ at
+LINE 81: civility, I am thus rejected. But it is of small importance."
+LINE 82: "I might as well inquire," replied she, "why, with so evident a design
+LINE 83: of offending and insulting me, you chose to tell me that you liked me
+LINE 84: against your will, against your reason, and even against your character?
+LINE 85: Was not this some excuse for incivility, if I _was_ uncivil? But I have
+LINE 86: other provocations. You know I have. Had not my own feelings decided
+LINE 87: against you, had they been indifferent, or had they even been
+LINE 88: favourable, do you think that any consideration would tempt me to accept
+LINE 89: the man who has been the means of ruining, perhaps for ever, the
+LINE 90: happiness of a most beloved sister?"
+LINE 91: As she pronounced these words, Mr. Darcy changed colour; but the emotion
+LINE 92: was short, and he listened without attempting to interrupt her while she
+LINE 93: continued,--
+LINE 94: "I have every reason in the world to think ill of you. No motive can
+LINE 95: excuse the unjust and ungenerous part you acted _there_. You dare not,
+LINE 96: you cannot deny that you have been the principal, if not the only means
+LINE 97: of dividing them from each other, of exposing one to the censure of the
+LINE 98: world for caprice and instability, the other to its derision for
+LINE 99: disappointed hopes, and involving them both in misery of the acutest
+LINE 100: kind."
+LINE 101: She paused, and saw with no slight indignation that he was listening
+LINE 102: with an air which proved him wholly unmoved by any feeling of remorse.
+LINE 103: He even looked at her with a smile of affected incredulity.
+LINE 104: "Can you deny that you have done it?" she repeated.
+LINE 105: With assumed tranquillity he then replied, "I have no wish of denying
+LINE 106: that I did everything in my power to separate my friend from your
+LINE 107: sister, or that I rejoice in my success. Towards _him_ I have been
+LINE 108: kinder than towards myself."
+LINE 109: Elizabeth disdained the appearance of noticing this civil reflection,
+LINE 110: but its meaning did not escape, nor was it likely to conciliate her.
+LINE 111: "But it is not merely this affair," she continued, "on which my dislike
+LINE 112: is founded. Long before it had taken place, my opinion of you was
+LINE 113: decided. Your character was unfolded in the recital which I received
+LINE 114: many months ago from Mr. Wickham. On this subject, what can you have to
+LINE 115: say? In what imaginary act of friendship can you here defend yourself?
+LINE 116: or under what misrepresentation can you here impose upon others?"
+LINE 117: "You take an eager interest in that gentleman's concerns," said Darcy,
+LINE 118: in a less tranquil tone, and with a heightened colour.
+LINE 119: "Who that knows what his misfortunes have been can help feeling an
+LINE 120: interest in him?"
+LINE 121: "His misfortunes!" repeated Darcy, contemptuously,--"yes, his
+LINE 122: misfortunes have been great indeed."
+LINE 123: "And of your infliction," cried Elizabeth, with energy; "You have
+LINE 124: reduced him to his present state of poverty--comparative poverty. You
+LINE 125: have withheld the advantages which you must know to have been designed
+LINE 126: for him. You have deprived the best years of his life of that
+LINE 127: independence which was no less his due than his desert. You have done
+LINE 128: all this! and yet you can treat the mention of his misfortunes with
+LINE 129: contempt and ridicule."
+LINE 130: "And this," cried Darcy, as he walked with quick steps across the room,
+LINE 131: "is your opinion of me! This is the estimation in which you hold me! I
+LINE 132: thank you for explaining it so fully. My faults, according to this
+LINE 133: calculation, are heavy indeed! But, perhaps," added he, stopping in his
+LINE 134: walk, and turning towards her, "these offences might have been
+LINE 135: overlooked, had not your pride been hurt by my honest confession of the
+LINE 136: scruples that had long prevented my forming any serious design. These
+LINE 137: bitter accusations might have been suppressed, had I, with greater
+LINE 138: policy, concealed my struggles, and flattered you into the belief of my
+LINE 139: being impelled by unqualified, unalloyed inclination; by reason, by
+LINE 140: reflection, by everything. But disguise of every sort is my abhorrence.
+LINE 141: Nor am I ashamed of the feelings I related. They were natural and just.
+LINE 142: Could you expect me to rejoice in the inferiority of your
+LINE 143: connections?--to congratulate myself on the hope of relations whose
+LINE 144: condition in life is so decidedly beneath my own?"
+LINE 145: Elizabeth felt herself growing more angry every moment; yet she tried to
+LINE 146: the utmost to speak with composure when she said,--
+LINE 147: "You are mistaken, Mr. Darcy, if you suppose that the mode of your
+LINE 148: declaration affected me in any other way than as it spared me the
+LINE 149: concern which I might have felt in refusing you, had you behaved in a
+LINE 150: more gentlemanlike manner."
+LINE 151: She saw him start at this; but he said nothing, and she continued,--
+LINE 152: "You could not have made me the offer of your hand in any possible way
+LINE 153: that would have tempted me to accept it."
+LINE 154: Again his astonishment was obvious; and he looked at her with an
+LINE 155: expression of mingled incredulity and mortification. She went on,--
+LINE 156: "From the very beginning, from the first moment, I may almost say, of my
+LINE 157: acquaintance with you, your manners impressing me with the fullest
+LINE 158: belief of your arrogance, your conceit, and your selfish disdain of the
+LINE 159: feelings of others, were such as to form that groundwork of
+LINE 160: disapprobation, on which succeeding events have built so immovable a
+LINE 161: dislike; and I had not known you a month before I felt that you were the
+LINE 162: last man in the world whom I could ever be prevailed on to marry."
+LINE 163: "You have said quite enough, madam. I perfectly comprehend your
+LINE 164: feelings, and have now only to be ashamed of what my own have been.
+LINE 165: Forgive me for having taken up so much of your time, and accept my best
+LINE 166: wishes for your health and happiness."
+LINE 167: And with these words he hastily left the room, and Elizabeth heard him
+LINE 168: the next moment open the front door and quit the house. The tumult of
+LINE 169: her mind was now painfully great. She knew not how to support herself,
+LINE 170: and, from actual weakness, sat down and cried for half an hour. Her
+LINE 171: astonishment, as she reflected on what had passed, was increased by
+LINE 172: every review of it. That she should receive an offer of marriage from
+LINE 173: Mr. Darcy! that he should have been in love with her for so many months!
+LINE 174: so much in love as to wish to marry her in spite of all the objections
+LINE 175: which had made him prevent his friend's marrying her sister, and which
+LINE 176: must appear at least with equal force in his own case, was almost
+LINE 177: incredible! it was gratifying to have inspired unconsciously so strong
+LINE 178: an affection. But his pride, his abominable pride, his shameless avowal
+LINE 179: of what he had done with respect to Jane, his unpardonable assurance in
+LINE 180: acknowledging, though he could not justify it, and the unfeeling manner
+LINE 181: which he had mentioned Mr. Wickham, his cruelty towards whom he had not
+LINE 182: attempted to deny, soon overcame the pity which the consideration of his
+LINE 183: attachment had for a moment excited.
+LINE 184: She continued in very agitating reflections till the sound of Lady
+LINE 185: Catherine's carriage made her feel how unequal she was to encounter
+LINE 186: Charlotte's observation, and hurried her away to her room.
+LINE 187: [Illustration:
+LINE 188: "Hearing herself called"
+LINE 189: ]

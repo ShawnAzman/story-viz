@@ -1,0 +1,354 @@
+LINE 1: [Illustration]
+LINE 2: "I have been thinking it over again, Elizabeth," said her uncle, as they
+LINE 3: drove from the town; "and really, upon serious consideration, I am much
+LINE 4: more inclined than I was to judge as your eldest sister does of the
+LINE 5: matter. It appears to me so very unlikely that any young man should form
+LINE 6: such a design against a girl who is by no means unprotected or
+LINE 7: friendless, and who was actually staying in his Colonel's family, that I
+LINE 8: am strongly inclined to hope the best. Could he expect that her friends
+LINE 9: would not step forward? Could he expect to be noticed again by the
+LINE 10: regiment, after such an affront to Colonel Forster? His temptation is
+LINE 11: not adequate to the risk."
+LINE 12: "Do you really think so?" cried Elizabeth, brightening up for a moment.
+LINE 13: "Upon my word," said Mrs. Gardiner, "I begin to be of your uncle's
+LINE 14: opinion. It is really too great a violation of decency, honour, and
+LINE 15: interest, for him to be guilty of it. I cannot think so very ill of
+LINE 16: Wickham. Can you, yourself, Lizzie, so wholly give him up, as to believe
+LINE 17: him capable of it?"
+LINE 18: "Not perhaps of neglecting his own interest. But of every other neglect
+LINE 19: I can believe him capable. If, indeed, it should be so! But I dare not
+LINE 20: hope it. Why should they not go on to Scotland, if that had been the
+LINE 21: case?"
+LINE 22: "In the first place," replied Mr. Gardiner, "there is no absolute proof
+LINE 23: that they are not gone to Scotland."
+LINE 24: "Oh, but their removing from the chaise into a hackney coach is such a
+LINE 25: presumption! And, besides, no traces of them were to be found on the
+LINE 26: Barnet road."
+LINE 27: "Well, then,--supposing them to be in London--they may be there, though
+LINE 28: for the purpose of concealment, for no more exceptionable purpose. It is
+LINE 29: not likely that money should be very abundant on either side; and it
+LINE 30: might strike them that they could be more economically, though less
+LINE 31: expeditiously, married in London, than in Scotland."
+LINE 32: "But why all this secrecy? Why any fear of detection? Why must their
+LINE 33: marriage be private? Oh, no, no--this is not likely. His most particular
+LINE 34: friend, you see by Jane's account, was persuaded of his never intending
+LINE 35: to marry her. Wickham will never marry a woman without some money. He
+LINE 36: cannot afford it. And what claims has Lydia, what attractions has she
+LINE 37: beyond youth, health, and good humour, that could make him for her sake
+LINE 38: forego every chance of benefiting himself by marrying well? As to what
+LINE 39: restraint the apprehensions of disgrace in the corps might throw on a
+LINE 40: dishonourable elopement with her, I am not able to judge; for I know
+LINE 41: nothing of the effects that such a step might produce. But as to your
+LINE 42: other objection, I am afraid it will hardly hold good. Lydia has no
+LINE 43: brothers to step forward; and he might imagine, from my father's
+LINE 44: behaviour, from his indolence and the little attention he has ever
+LINE 45: seemed to give to what was going forward in his family, that _he_ would
+LINE 46: do as little and think as little about it, as any father could do, in
+LINE 47: such a matter."
+LINE 48: "But can you think that Lydia is so lost to everything but love of him,
+LINE 49: as to consent to live with him on any other terms than marriage?"
+LINE 50: "It does seem, and it is most shocking, indeed," replied Elizabeth, with
+LINE 51: tears in her eyes, "that a sister's sense of decency and virtue in such
+LINE 52: a point should admit of doubt. But, really, I know not what to say.
+LINE 53: Perhaps I am not doing her justice. But she is very young: she has never
+LINE 54: been taught to think on serious subjects; and for the last half year,
+LINE 55: nay, for a twelvemonth, she has been given up to nothing but amusement
+LINE 56: and vanity. She has been allowed to dispose of her time in the most idle
+LINE 57: and frivolous manner, and to adopt any opinions that came in her way.
+LINE 58: Since the ----shire were first quartered in Meryton, nothing but love,
+LINE 59: flirtation, and officers, have been in her head. She has been doing
+LINE 60: everything in her power, by thinking and talking on the subject, to give
+LINE 61: greater--what shall I call it?--susceptibility to her feelings; which
+LINE 62: are naturally lively enough. And we all know that Wickham has every
+LINE 63: charm of person and address that can captivate a woman."
+LINE 64: "But you see that Jane," said her aunt, "does not think so ill of
+LINE 65: Wickham, as to believe him capable of the attempt."
+LINE 66: "Of whom does Jane ever think ill? And who is there, whatever might be
+LINE 67: their former conduct, that she would believe capable of such an attempt,
+LINE 68: till it were proved against them? But Jane knows, as well as I do, what
+LINE 69: Wickham really is. We both know that he has been profligate in every
+LINE 70: sense of the word; that he has neither integrity nor honour; that he is
+LINE 71: as false and deceitful as he is insinuating."
+LINE 72: "And do you really know all this?" cried Mrs. Gardiner, whose curiosity
+LINE 73: as to the mode of her intelligence was all alive.
+LINE 74: "I do, indeed," replied Elizabeth, colouring. "I told you the other day
+LINE 75: of his infamous behaviour to Mr. Darcy; and you, yourself, when last at
+LINE 76: Longbourn, heard in what manner he spoke of the man who had behaved with
+LINE 77: such forbearance and liberality towards him. And there are other
+LINE 78: circumstances which I am not at liberty--which it is not worth while to
+LINE 79: relate; but his lies about the whole Pemberley family are endless. From
+LINE 80: what he said of Miss Darcy, I was thoroughly prepared to see a proud,
+LINE 81: reserved, disagreeable girl. Yet he knew to the contrary himself. He
+LINE 82: must know that she was as amiable and unpretending as we have found
+LINE 83: her."
+LINE 84: "But does Lydia know nothing of this? can she be ignorant of what you
+LINE 85: and Jane seem so well to understand?"
+LINE 86: "Oh, yes!--that, that is the worst of all. Till I was in Kent, and saw
+LINE 87: so much both of Mr. Darcy and his relation Colonel Fitzwilliam, I was
+LINE 88: ignorant of the truth myself. And when I returned home the ----shire
+LINE 89: was to leave Meryton in a week or fortnight's time. As that was the
+LINE 90: case, neither Jane, to whom I related the whole, nor I, thought it
+LINE 91: necessary to make our knowledge public; for of what use could it
+LINE 92: apparently be to anyone, that the good opinion, which all the
+LINE 93: neighbourhood had of him, should then be overthrown? And even when it
+LINE 94: was settled that Lydia should go with Mrs. Forster, the necessity of
+LINE 95: opening her eyes to his character never occurred to me. That _she_ could
+LINE 96: be in any danger from the deception never entered my head. That such a
+LINE 97: consequence as _this_ should ensue, you may easily believe was far
+LINE 98: enough from my thoughts."
+LINE 99: "When they all removed to Brighton, therefore, you had no reason, I
+LINE 100: suppose, to believe them fond of each other?"
+LINE 101: "Not the slightest. I can remember no symptom of affection on either
+LINE 102: side; and had anything of the kind been perceptible, you must be aware
+LINE 103: that ours is not a family on which it could be thrown away. When first
+LINE 104: he entered the corps, she was ready enough to admire him; but so we all
+LINE 105: were. Every girl in or near Meryton was out of her senses about him for
+LINE 106: the first two months: but he never distinguished _her_ by any particular
+LINE 107: attention; and, consequently, after a moderate period of extravagant and
+LINE 108: wild admiration, her fancy for him gave way, and others of the regiment,
+LINE 109: who treated her with more distinction, again became her favourites."
+LINE 110: It may be easily believed, that however little of novelty could be added
+LINE 111: to their fears, hopes, and conjectures, on this interesting subject by
+LINE 112: its repeated discussion, no other could detain them from it long, during
+LINE 113: the whole of the journey. From Elizabeth's thoughts it was never absent.
+LINE 114: Fixed there by the keenest of all anguish, self-reproach, she could
+LINE 115: find no interval of ease or forgetfulness.
+LINE 116: They travelled as expeditiously as possible; and sleeping one night on
+LINE 117: the road, reached Longbourn by dinnertime the next day. It was a comfort
+LINE 118: to Elizabeth to consider that Jane could not have been wearied by long
+LINE 119: expectations.
+LINE 120: The little Gardiners, attracted by the sight of a chaise, were standing
+LINE 121: on the steps of the house, as they entered the paddock; and when the
+LINE 122: carriage drove up to the door, the joyful surprise that lighted up their
+LINE 123: faces and displayed itself over their whole bodies, in a variety of
+LINE 124: capers and frisks, was the first pleasing earnest of their welcome.
+LINE 125: Elizabeth jumped out; and after giving each of them a hasty kiss,
+LINE 126: hurried into the vestibule, where Jane, who came running downstairs from
+LINE 127: her mother's apartment, immediately met her.
+LINE 128: Elizabeth, as she affectionately embraced her, whilst tears filled the
+LINE 129: eyes of both, lost not a moment in asking whether anything had been
+LINE 130: heard of the fugitives.
+LINE 131: "Not yet," replied Jane. "But now that my dear uncle is come, I hope
+LINE 132: everything will be well."
+LINE 133: "Is my father in town?"
+LINE 134: "Yes, he went on Tuesday, as I wrote you word."
+LINE 135: "And have you heard from him often?"
+LINE 136: "We have heard only once. He wrote me a few lines on Wednesday, to say
+LINE 137: that he had arrived in safety, and to give me his directions, which I
+LINE 138: particularly begged him to do. He merely added, that he should not write
+LINE 139: again, till he had something of importance to mention."
+LINE 140: "And my mother--how is she? How are you all?"
+LINE 141: "My mother is tolerably well, I trust; though her spirits are greatly
+LINE 142: shaken. She is upstairs, and will have great satisfaction in seeing you
+LINE 143: all. She does not yet leave her dressing-room. Mary and Kitty, thank
+LINE 144: Heaven! are quite well."
+LINE 145: "But you--how are you?" cried Elizabeth. "You look pale. How much you
+LINE 146: must have gone through!"
+LINE 147: Her sister, however, assured her of her being perfectly well; and their
+LINE 148: conversation, which had been passing while Mr. and Mrs. Gardiner were
+LINE 149: engaged with their children, was now put an end to by the approach of
+LINE 150: the whole party. Jane ran to her uncle and aunt, and welcomed and
+LINE 151: thanked them both, with alternate smiles and tears.
+LINE 152: When they were all in the drawing-room, the questions which Elizabeth
+LINE 153: had already asked were of course repeated by the others, and they soon
+LINE 154: found that Jane had no intelligence to give. The sanguine hope of good,
+LINE 155: however, which the benevolence of her heart suggested, had not yet
+LINE 156: deserted her; she still expected that it would all end well, and that
+LINE 157: every morning would bring some letter, either from Lydia or her father,
+LINE 158: to explain their proceedings, and, perhaps, announce the marriage.
+LINE 159: Mrs. Bennet, to whose apartment they all repaired, after a few minutes'
+LINE 160: conversation together, received them exactly as might be expected; with
+LINE 161: tears and lamentations of regret, invectives against the villainous
+LINE 162: conduct of Wickham, and complaints of her own sufferings and ill-usage;
+LINE 163: blaming everybody but the person to whose ill-judging indulgence the
+LINE 164: errors of her daughter must be principally owing.
+LINE 165: "If I had been able," said she, "to carry my point in going to Brighton
+LINE 166: with all my family, _this_ would not have happened: but poor dear Lydia
+LINE 167: had nobody to take care of her. Why did the Forsters ever let her go out
+LINE 168: of their sight? I am sure there was some great neglect or other on their
+LINE 169: side, for she is not the kind of girl to do such a thing, if she had
+LINE 170: been well looked after. I always thought they were very unfit to have
+LINE 171: the charge of her; but I was over-ruled, as I always am. Poor, dear
+LINE 172: child! And now here's Mr. Bennet gone away, and I know he will fight
+LINE 173: Wickham, wherever he meets him, and then he will be killed, and what is
+LINE 174: to become of us all? The Collinses will turn us out, before he is cold
+LINE 175: in his grave; and if you are not kind to us, brother, I do not know what
+LINE 176: we shall do."
+LINE 177: They all exclaimed against such terrific ideas; and Mr. Gardiner, after
+LINE 178: general assurances of his affection for her and all her family, told her
+LINE 179: that he meant to be in London the very next day, and would assist Mr.
+LINE 180: Bennet in every endeavour for recovering Lydia.
+LINE 181: "Do not give way to useless alarm," added he: "though it is right to be
+LINE 182: prepared for the worst, there is no occasion to look on it as certain.
+LINE 183: It is not quite a week since they left Brighton. In a few days more, we
+LINE 184: may gain some news of them; and till we know that they are not married,
+LINE 185: and have no design of marrying, do not let us give the matter over as
+LINE 186: lost. As soon as I get to town, I shall go to my brother, and make him
+LINE 187: come home with me to Gracechurch Street, and then we may consult
+LINE 188: together as to what is to be done."
+LINE 189: "Oh, my dear brother," replied Mrs. Bennet, "that is exactly what I
+LINE 190: could most wish for. And now do, when you get to town, find them out,
+LINE 191: wherever they may be; and if they are not married already, _make_ them
+LINE 192: marry. And as for wedding clothes, do not let them wait for that, but
+LINE 193: tell Lydia she shall have as much money as she chooses to buy them,
+LINE 194: after they are married. And, above all things, keep Mr. Bennet from
+LINE 195: fighting. Tell him what a dreadful state I am in--that I am frightened
+LINE 196: out of my wits; and have such tremblings, such flutterings all over me,
+LINE 197: such spasms in my side, and pains in my head, and such beatings at my
+LINE 198: heart, that I can get no rest by night nor by day. And tell my dear
+LINE 199: Lydia not to give any directions about her clothes till she has seen me,
+LINE 200: for she does not know which are the best warehouses. Oh, brother, how
+LINE 201: kind you are! I know you will contrive it all."
+LINE 202: But Mr. Gardiner, though he assured her again of his earnest endeavours
+LINE 203: in the cause, could not avoid recommending moderation to her, as well in
+LINE 204: her hopes as her fears; and after talking with her in this manner till
+LINE 205: dinner was on table, they left her to vent all her feelings on the
+LINE 206: housekeeper, who attended in the absence of her daughters.
+LINE 207: Though her brother and sister were persuaded that there was no real
+LINE 208: occasion for such a seclusion from the family, they did not attempt to
+LINE 209: oppose it; for they knew that she had not prudence enough to hold her
+LINE 210: tongue before the servants, while they waited at table, and judged it
+LINE 211: better that _one_ only of the household, and the one whom they could
+LINE 212: most trust, should comprehend all her fears and solicitude on the
+LINE 213: subject.
+LINE 214: In the dining-room they were soon joined by Mary and Kitty, who had been
+LINE 215: too busily engaged in their separate apartments to make their appearance
+LINE 216: before. One came from her books, and the other from her toilette. The
+LINE 217: faces of both, however, were tolerably calm; and no change was visible
+LINE 218: in either, except that the loss of her favourite sister, or the anger
+LINE 219: which she had herself incurred in the business, had given something more
+LINE 220: of fretfulness than usual to the accents of Kitty. As for Mary, she was
+LINE 221: mistress enough of herself to whisper to Elizabeth, with a countenance
+LINE 222: of grave reflection, soon after they were seated at table,--
+LINE 223: "This is a most unfortunate affair, and will probably be much talked of.
+LINE 224: But we must stem the tide of malice, and pour into the wounded bosoms of
+LINE 225: each other the balm of sisterly consolation."
+LINE 226: Then perceiving in Elizabeth no inclination of replying, she added,
+LINE 227: "Unhappy as the event must be for Lydia, we may draw from it this useful
+LINE 228: lesson:--that loss of virtue in a female is irretrievable, that one
+LINE 229: false step involves her in endless ruin, that her reputation is no less
+LINE 230: brittle than it is beautiful, and that she cannot be too much guarded in
+LINE 231: her behaviour towards the undeserving of the other sex."
+LINE 232: Elizabeth lifted up her eyes in amazement, but was too much oppressed to
+LINE 233: make any reply. Mary, however, continued to console herself with such
+LINE 234: kind of moral extractions from the evil before them.
+LINE 235: In the afternoon, the two elder Miss Bennets were able to be for half an
+LINE 236: hour by themselves; and Elizabeth instantly availed herself of the
+LINE 237: opportunity of making any inquiries which Jane was equally eager to
+LINE 238: satisfy. After joining in general lamentations over the dreadful sequel
+LINE 239: of this event, which Elizabeth considered as all but certain, and Miss
+LINE 240: Bennet could not assert to be wholly impossible, the former continued
+LINE 241: the subject by saying, "But tell me all and everything about it which I
+LINE 242: have not already heard. Give me further particulars. What did Colonel
+LINE 243: Forster say? Had they no apprehension of anything before the elopement
+LINE 244: took place? They must have seen them together for ever."
+LINE 245: "Colonel Forster did own that he had often suspected some partiality,
+LINE 246: especially on Lydia's side, but nothing to give him any alarm. I am so
+LINE 247: grieved for him. His behaviour was attentive and kind to the utmost. He
+LINE 248: _was_ coming to us, in order to assure us of his concern, before he had
+LINE 249: any idea of their not being gone to Scotland: when that apprehension
+LINE 250: first got abroad, it hastened his journey."
+LINE 251: "And was Denny convinced that Wickham would not marry? Did he know of
+LINE 252: their intending to go off? Had Colonel Forster seen Denny himself?"
+LINE 253: "Yes; but when questioned by _him_, Denny denied knowing anything of
+LINE 254: their plan, and would not give his real opinion about it. He did not
+LINE 255: repeat his persuasion of their not marrying, and from _that_ I am
+LINE 256: inclined to hope he might have been misunderstood before."
+LINE 257: "And till Colonel Forster came himself, not one of you entertained a
+LINE 258: doubt, I suppose, of their being really married?"
+LINE 259: "How was it possible that such an idea should enter our brains? I felt a
+LINE 260: little uneasy--a little fearful of my sister's happiness with him in
+LINE 261: marriage, because I knew that his conduct had not been always quite
+LINE 262: right. My father and mother knew nothing of that; they only felt how
+LINE 263: imprudent a match it must be. Kitty then owned, with a very natural
+LINE 264: triumph on knowing more than the rest of us, that in Lydia's last letter
+LINE 265: she had prepared her for such a step. She had known, it seems, of their
+LINE 266: being in love with each other many weeks."
+LINE 267: "But not before they went to Brighton?"
+LINE 268: "No, I believe not."
+LINE 269: "And did Colonel Forster appear to think ill of Wickham himself? Does he
+LINE 270: know his real character?"
+LINE 271: "I must confess that he did not speak so well of Wickham as he formerly
+LINE 272: did. He believed him to be imprudent and extravagant; and since this sad
+LINE 273: affair has taken place, it is said that he left Meryton greatly in debt:
+LINE 274: but I hope this may be false."
+LINE 275: "Oh, Jane, had we been less secret, had we told what we knew of him,
+LINE 276: this could not have happened!"
+LINE 277: "Perhaps it would have been better," replied her sister.
+LINE 278: "But to expose the former faults of any person, without knowing what
+LINE 279: their present feelings were, seemed unjustifiable."
+LINE 280: "We acted with the best intentions."
+LINE 281: "Could Colonel Forster repeat the particulars of Lydia's note to his
+LINE 282: wife?"
+LINE 283: "He brought it with him for us to see."
+LINE 284: Jane then took it from her pocket-book, and gave it to Elizabeth. These
+LINE 285: were the contents:--
+LINE 286: /* NIND "My dear Harriet, */
+LINE 287: "You will laugh when you know where I am gone, and I cannot help
+LINE 288: laughing myself at your surprise to-morrow morning, as soon as I am
+LINE 289: missed. I am going to Gretna Green, and if you cannot guess with
+LINE 290: who, I shall think you a simpleton, for there is but one man in the
+LINE 291: world I love, and he is an angel. I should never be happy without
+LINE 292: him, so think it no harm to be off. You need not send them word at
+LINE 293: Longbourn of my going, if you do not like it, for it will make the
+LINE 294: surprise the greater when I write to them, and sign my name Lydia
+LINE 295: Wickham. What a good joke it will be! I can hardly write for
+LINE 296: laughing. Pray make my excuses to Pratt for not keeping my
+LINE 297: engagement, and dancing with him to-night. Tell him I hope he will
+LINE 298: excuse me when he knows all, and tell him I will dance with him at
+LINE 299: the next ball we meet with great pleasure. I shall send for my
+LINE 300: clothes when I get to Longbourn; but I wish you would tell Sally to
+LINE 301: mend a great slit in my worked muslin gown before they are packed
+LINE 302: up. Good-bye. Give my love to Colonel Forster. I hope you will
+LINE 303: drink to our good journey.
+LINE 304: "Your affectionate friend,
+LINE 305: "LYDIA BENNET."
+LINE 306: "Oh, thoughtless, thoughtless Lydia!" cried Elizabeth when she had
+LINE 307: finished it. "What a letter is this, to be written at such a moment! But
+LINE 308: at least it shows that _she_ was serious in the object of her journey.
+LINE 309: Whatever he might afterwards persuade her to, it was not on her side a
+LINE 310: _scheme_ of infamy. My poor father! how he must have felt it!"
+LINE 311: "I never saw anyone so shocked. He could not speak a word for full ten
+LINE 312: minutes. My mother was taken ill immediately, and the whole house in
+LINE 313: such confusion!"
+LINE 314: "Oh, Jane," cried Elizabeth, "was there a servant belonging to it who
+LINE 315: did not know the whole story before the end of the day?"
+LINE 316: "I do not know: I hope there was. But to be guarded at such a time is
+LINE 317: very difficult. My mother was in hysterics; and though I endeavoured to
+LINE 318: give her every assistance in my power, I am afraid I did not do so much
+LINE 319: as I might have done. But the horror of what might possibly happen
+LINE 320: almost took from me my faculties."
+LINE 321: "Your attendance upon her has been too much for you. You do not look
+LINE 322: well. Oh that I had been with you! you have had every care and anxiety
+LINE 323: upon yourself alone."
+LINE 324: "Mary and Kitty have been very kind, and would have shared in every
+LINE 325: fatigue, I am sure, but I did not think it right for either of them.
+LINE 326: Kitty is slight and delicate, and Mary studies so much that her hours of
+LINE 327: repose should not be broken in on. My aunt Philips came to Longbourn on
+LINE 328: Tuesday, after my father went away; and was so good as to stay till
+LINE 329: Thursday with me. She was of great use and comfort to us all, and Lady
+LINE 330: Lucas has been very kind: she walked here on Wednesday morning to
+LINE 331: condole with us, and offered her services, or any of her daughters, if
+LINE 332: they could be of use to us."
+LINE 333: "She had better have stayed at home," cried Elizabeth: "perhaps she
+LINE 334: _meant_ well, but, under such a misfortune as this, one cannot see too
+LINE 335: little of one's neighbours. Assistance is impossible; condolence,
+LINE 336: insufferable. Let them triumph over us at a distance, and be satisfied."
+LINE 337: She then proceeded to inquire into the measures which her father had
+LINE 338: intended to pursue, while in town, for the recovery of his daughter.
+LINE 339: "He meant, I believe," replied Jane, "to go to Epsom, the place where
+LINE 340: they last changed horses, see the postilions, and try if anything could
+LINE 341: be made out from them. His principal object must be to discover the
+LINE 342: number of the hackney coach which took them from Clapham. It had come
+LINE 343: with a fare from London; and as he thought the circumstance of a
+LINE 344: gentleman and lady's removing from one carriage into another might be
+LINE 345: remarked, he meant to make inquiries at Clapham. If he could anyhow
+LINE 346: discover at what house the coachman had before set down his fare, he
+LINE 347: determined to make inquiries there, and hoped it might not be impossible
+LINE 348: to find out the stand and number of the coach. I do not know of any
+LINE 349: other designs that he had formed; but he was in such a hurry to be gone,
+LINE 350: and his spirits so greatly discomposed, that I had difficulty in finding
+LINE 351: out even so much as this."
+LINE 352: [Illustration:
+LINE 353: The Post
+LINE 354: ]

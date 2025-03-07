@@ -1,0 +1,222 @@
+LINE 1: [Illustration]
+LINE 2: "My dear Lizzy, where can you have been walking to?" was a question
+LINE 3: which Elizabeth received from Jane as soon as she entered the room, and
+LINE 4: from all the others when they sat down to table. She had only to say in
+LINE 5: reply, that they had wandered about till she was beyond her own
+LINE 6: knowledge. She coloured as she spoke; but neither that, nor anything
+LINE 7: else, awakened a suspicion of the truth.
+LINE 8: The evening passed quietly, unmarked by anything extraordinary. The
+LINE 9: acknowledged lovers talked and laughed; the unacknowledged were silent.
+LINE 10: Darcy was not of a disposition in which happiness overflows in mirth;
+LINE 11: and Elizabeth, agitated and confused, rather _knew_ that she was happy
+LINE 12: than _felt_ herself to be so; for, besides the immediate embarrassment,
+LINE 13: there were other evils before her. She anticipated what would be felt in
+LINE 14: the family when her situation became known: she was aware that no one
+LINE 15: liked him but Jane; and even feared that with the others it was a
+LINE 16: _dislike_ which not all his fortune and consequence might do away.
+LINE 17: At night she opened her heart to Jane. Though suspicion was very far
+LINE 18: from Miss Bennet's general habits, she was absolutely incredulous here.
+LINE 19: "You are joking, Lizzy. This cannot be! Engaged to Mr. Darcy! No, no,
+LINE 20: you shall not deceive me: I know it to be impossible."
+LINE 21: "This is a wretched beginning, indeed! My sole dependence was on you;
+LINE 22: and I am sure nobody else will believe me, if you do not. Yet, indeed, I
+LINE 23: am in earnest. I speak nothing but the truth. He still loves me, and we
+LINE 24: are engaged."
+LINE 25: Jane looked at her doubtingly. "Oh, Lizzy! it cannot be. I know how much
+LINE 26: you dislike him."
+LINE 27: "You know nothing of the matter. _That_ is all to be forgot. Perhaps I
+LINE 28: did not always love him so well as I do now; but in such cases as these
+LINE 29: a good memory is unpardonable. This is the last time I shall ever
+LINE 30: remember it myself."
+LINE 31: Miss Bennet still looked all amazement. Elizabeth again, and more
+LINE 32: seriously, assured her of its truth.
+LINE 33: "Good heaven! can it be really so? Yet now I must believe you," cried
+LINE 34: Jane. "My dear, dear Lizzy, I would, I do congratulate you; but are you
+LINE 35: certain--forgive the question--are you quite certain that you can be
+LINE 36: happy with him?"
+LINE 37: "There can be no doubt of that. It is settled between us already that we
+LINE 38: are to be the happiest couple in the world. But are you pleased, Jane?
+LINE 39: Shall you like to have such a brother?"
+LINE 40: "Very, very much. Nothing could give either Bingley or myself more
+LINE 41: delight. But we considered it, we talked of it as impossible. And do you
+LINE 42: really love him quite well enough? Oh, Lizzy! do anything rather than
+LINE 43: marry without affection. Are you quite sure that you feel what you ought
+LINE 44: to do?"
+LINE 45: "Oh, yes! You will only think I feel _more_ than I ought to do when I
+LINE 46: tell you all."
+LINE 47: "What do you mean?"
+LINE 48: "Why, I must confess that I love him better than I do Bingley. I am
+LINE 49: afraid you will be angry."
+LINE 50: "My dearest sister, now be, _be_ serious. I want to talk very seriously.
+LINE 51: Let me know everything that I am to know without delay. Will you tell me
+LINE 52: how long you have loved him?"
+LINE 53: "It has been coming on so gradually, that I hardly know when it began;
+LINE 54: but I believe I must date it from my first seeing his beautiful grounds
+LINE 55: at Pemberley."
+LINE 56: Another entreaty that she would be serious, however, produced the
+LINE 57: desired effect; and she soon satisfied Jane by her solemn assurances of
+LINE 58: attachment. When convinced on that article, Miss Bennet had nothing
+LINE 59: further to wish.
+LINE 60: "Now I am quite happy," said she, "for you will be as happy as myself. I
+LINE 61: always had a value for him. Were it for nothing but his love of you, I
+LINE 62: must always have esteemed him; but now, as Bingley's friend and your
+LINE 63: husband, there can be only Bingley and yourself more dear to me. But,
+LINE 64: Lizzy, you have been very sly, very reserved with me. How little did you
+LINE 65: tell me of what passed at Pemberley and Lambton! I owe all that I know
+LINE 66: of it to another, not to you."
+LINE 67: Elizabeth told her the motives of her secrecy. She had been unwilling to
+LINE 68: mention Bingley; and the unsettled state of her own feelings had made
+LINE 69: her equally avoid the name of his friend: but now she would no longer
+LINE 70: conceal from her his share in Lydia's marriage. All was acknowledged,
+LINE 71: and half the night spent in conversation.
+LINE 72: "Good gracious!" cried Mrs. Bennet, as she stood at a window the next
+LINE 73: morning, "if that disagreeable Mr. Darcy is not coming here again with
+LINE 74: our dear Bingley! What can he mean by being so tiresome as to be always
+LINE 75: coming here? I had no notion but he would go a-shooting, or something or
+LINE 76: other, and not disturb us with his company. What shall we do with him?
+LINE 77: Lizzy, you must walk out with him again, that he may not be in Bingley's
+LINE 78: way."
+LINE 79: Elizabeth could hardly help laughing at so convenient a proposal; yet
+LINE 80: was really vexed that her mother should be always giving him such an
+LINE 81: epithet.
+LINE 82: As soon as they entered, Bingley looked at her so expressively, and
+LINE 83: shook hands with such warmth, as left no doubt of his good information;
+LINE 84: and he soon afterwards said aloud, "Mrs. Bennet, have you no more lanes
+LINE 85: hereabouts in which Lizzy may lose her way again to-day?"
+LINE 86: "I advise Mr. Darcy, and Lizzy, and Kitty," said Mrs. Bennet, "to walk
+LINE 87: to Oakham Mount this morning. It is a nice long walk, and Mr. Darcy has
+LINE 88: never seen the view."
+LINE 89: "It may do very well for the others," replied Mr. Bingley; "but I am
+LINE 90: sure it will be too much for Kitty. Won't it, Kitty?"
+LINE 91: Kitty owned that she had rather stay at home. Darcy professed a great
+LINE 92: curiosity to see the view from the Mount, and Elizabeth silently
+LINE 93: consented. As she went upstairs to get ready, Mrs. Bennet followed her,
+LINE 94: saying,--
+LINE 95: "I am quite sorry, Lizzy, that you should be forced to have that
+LINE 96: disagreeable man all to yourself; but I hope you will not mind it. It is
+LINE 97: all for Jane's sake, you know; and there is no occasion for talking to
+LINE 98: him except just now and then; so do not put yourself to inconvenience."
+LINE 99: During their walk, it was resolved that Mr. Bennet's consent should be
+LINE 100: asked in the course of the evening: Elizabeth reserved to herself the
+LINE 101: application for her mother's. She could not determine how her mother
+LINE 102: would take it; sometimes doubting whether all his wealth and grandeur
+LINE 103: would be enough to overcome her abhorrence of the man; but whether she
+LINE 104: were violently set against the match, or violently delighted with it, it
+LINE 105: was certain that her manner would be equally ill adapted to do credit to
+LINE 106: her sense; and she could no more bear that Mr. Darcy should hear the
+LINE 107: first raptures of her joy, than the first vehemence of her
+LINE 108: disapprobation.
+LINE 109: In the evening, soon after Mr. Bennet withdrew to the library, she saw
+LINE 110: Mr. Darcy rise also and follow him, and her agitation on seeing it was
+LINE 111: extreme. She did not fear her father's opposition, but he was going to
+LINE 112: be made unhappy, and that it should be through her means; that _she_,
+LINE 113: his favourite child, should be distressing him by her choice, should be
+LINE 114: filling him with fears and regrets in disposing of her, was a wretched
+LINE 115: reflection, and she sat in misery till Mr. Darcy appeared again, when,
+LINE 116: looking at him, she was a little relieved by his smile. In a few minutes
+LINE 117: he approached the table where she was sitting with Kitty; and, while
+LINE 118: pretending to admire her work, said in a whisper, "Go to your father; he
+LINE 119: wants you in the library." She was gone directly.
+LINE 120: Her father was walking about the room, looking grave and anxious.
+LINE 121: "Lizzy," said he, "what are you doing? Are you out of your senses to be
+LINE 122: accepting this man? Have not you always hated him?"
+LINE 123: How earnestly did she then wish that her former opinions had been more
+LINE 124: reasonable, her expressions more moderate! It would have spared her from
+LINE 125: explanations and professions which it was exceedingly awkward to give;
+LINE 126: but they were now necessary, and she assured him, with some confusion,
+LINE 127: of her attachment to Mr. Darcy.
+LINE 128: "Or, in other words, you are determined to have him. He is rich, to be
+LINE 129: sure, and you may have more fine clothes and fine carriages than Jane.
+LINE 130: But will they make you happy?"
+LINE 131: "Have you any other objection," said Elizabeth, "than your belief of my
+LINE 132: indifference?"
+LINE 133: "None at all. We all know him to be a proud, unpleasant sort of man; but
+LINE 134: this would be nothing if you really liked him."
+LINE 135: "I do, I do like him," she replied, with tears in her eyes; "I love him.
+LINE 136: Indeed he has no improper pride. He is perfectly amiable. You do not
+LINE 137: know what he really is; then pray do not pain me by speaking of him in
+LINE 138: such terms."
+LINE 139: "Lizzy," said her father, "I have given him my consent. He is the kind
+LINE 140: of man, indeed, to whom I should never dare refuse anything, which he
+LINE 141: condescended to ask. I now give it to _you_, if you are resolved on
+LINE 142: having him. But let me advise you to think better of it. I know your
+LINE 143: disposition, Lizzy. I know that you could be neither happy nor
+LINE 144: respectable, unless you truly esteemed your husband, unless you looked
+LINE 145: up to him as a superior. Your lively talents would place you in the
+LINE 146: greatest danger in an unequal marriage. You could scarcely escape
+LINE 147: discredit and misery. My child, let me not have the grief of seeing
+LINE 148: _you_ unable to respect your partner in life. You know not what you are
+LINE 149: about."
+LINE 150: Elizabeth, still more affected, was earnest and solemn in her reply;
+LINE 151: and, at length, by repeated assurances that Mr. Darcy was really the
+LINE 152: object of her choice, by explaining the gradual change which her
+LINE 153: estimation of him had undergone, relating her absolute certainty that
+LINE 154: his affection was not the work of a day, but had stood the test of many
+LINE 155: months' suspense, and enumerating with energy all his good qualities,
+LINE 156: she did conquer her father's incredulity, and reconcile him to the
+LINE 157: match.
+LINE 158: "Well, my dear," said he, when she ceased speaking, "I have no more to
+LINE 159: say. If this be the case, he deserves you. I could not have parted with
+LINE 160: you, my Lizzy, to anyone less worthy."
+LINE 161: To complete the favourable impression, she then told him what Mr. Darcy
+LINE 162: had voluntarily done for Lydia. He heard her with astonishment.
+LINE 163: "This is an evening of wonders, indeed! And so, Darcy did everything;
+LINE 164: made up the match, gave the money, paid the fellow's debts, and got him
+LINE 165: his commission! So much the better. It will save me a world of trouble
+LINE 166: and economy. Had it been your uncle's doing, I must and _would_ have
+LINE 167: paid him; but these violent young lovers carry everything their own
+LINE 168: way. I shall offer to pay him to-morrow, he will rant and storm about
+LINE 169: his love for you, and there will be an end of the matter."
+LINE 170: He then recollected her embarrassment a few days before on his reading
+LINE 171: Mr. Collins's letter; and after laughing at her some time, allowed her
+LINE 172: at last to go, saying, as she quitted the room, "If any young men come
+LINE 173: for Mary or Kitty, send them in, for I am quite at leisure."
+LINE 174: Elizabeth's mind was now relieved from a very heavy weight; and, after
+LINE 175: half an hour's quiet reflection in her own room, she was able to join
+LINE 176: the others with tolerable composure. Everything was too recent for
+LINE 177: gaiety, but the evening passed tranquilly away; there was no longer
+LINE 178: anything material to be dreaded, and the comfort of ease and familiarity
+LINE 179: would come in time.
+LINE 180: When her mother went up to her dressing-room at night, she followed her,
+LINE 181: and made the important communication. Its effect was most extraordinary;
+LINE 182: for, on first hearing it, Mrs. Bennet sat quite still, and unable to
+LINE 183: utter a syllable. Nor was it under many, many minutes, that she could
+LINE 184: comprehend what she heard, though not in general backward to credit what
+LINE 185: was for the advantage of her family, or that came in the shape of a
+LINE 186: lover to any of them. She began at length to recover, to fidget about in
+LINE 187: her chair, get up, sit down again, wonder, and bless herself.
+LINE 188: "Good gracious! Lord bless me! only think! dear me! Mr. Darcy! Who would
+LINE 189: have thought it? And is it really true? Oh, my sweetest Lizzy! how rich
+LINE 190: and how great you will be! What pin-money, what jewels, what carriages
+LINE 191: you will have! Jane's is nothing to it--nothing at all. I am so
+LINE 192: pleased--so happy. Such a charming man! so handsome! so tall! Oh, my
+LINE 193: dear Lizzy! pray apologize for my having disliked him so much before. I
+LINE 194: hope he will overlook it. Dear, dear Lizzy. A house in town! Everything
+LINE 195: that is charming! Three daughters married! Ten thousand a year! Oh,
+LINE 196: Lord! what will become of me? I shall go distracted."
+LINE 197: This was enough to prove that her approbation need not be doubted; and
+LINE 198: Elizabeth, rejoicing that such an effusion was heard only by herself,
+LINE 199: soon went away. But before she had been three minutes in her own room,
+LINE 200: her mother followed her.
+LINE 201: "My dearest child," she cried, "I can think of nothing else. Ten
+LINE 202: thousand a year, and very likely more! 'Tis as good as a lord! And a
+LINE 203: special licence--you must and shall be married by a special licence.
+LINE 204: But, my dearest love, tell me what dish Mr. Darcy is particularly fond
+LINE 205: of, that I may have it to-morrow."
+LINE 206: This was a sad omen of what her mother's behaviour to the gentleman
+LINE 207: himself might be; and Elizabeth found that, though in the certain
+LINE 208: possession of his warmest affection, and secure of her relations'
+LINE 209: consent, there was still something to be wished for. But the morrow
+LINE 210: passed off much better than she expected; for Mrs. Bennet luckily stood
+LINE 211: in such awe of her intended son-in-law, that she ventured not to speak
+LINE 212: to him, unless it was in her power to offer him any attention, or mark
+LINE 213: her deference for his opinion.
+LINE 214: Elizabeth had the satisfaction of seeing her father taking pains to get
+LINE 215: acquainted with him; and Mr. Bennet soon assured her that he was rising
+LINE 216: every hour in his esteem.
+LINE 217: "I admire all my three sons-in-law highly," said he. "Wickham, perhaps,
+LINE 218: is my favourite; but I think I shall like _your_ husband quite as well
+LINE 219: as Jane's."
+LINE 220: [Illustration:
+LINE 221: "The obsequious civility."
+LINE 222: [_Copyright 1894 by George Allen._]]

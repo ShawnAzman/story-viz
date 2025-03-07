@@ -1,0 +1,270 @@
+LINE 1: [Illustration]
+LINE 2: Elizabeth had the satisfaction of receiving an answer to her letter as
+LINE 3: soon as she possibly could. She was no sooner in possession of it, than
+LINE 4: hurrying into the little copse, where she was least likely to be
+LINE 5: interrupted, she sat down on one of the benches, and prepared to be
+LINE 6: happy; for the length of the letter convinced her that it did not
+LINE 7: contain a denial.
+LINE 8: /* RIGHT "Gracechurch Street, _Sept. 6_. */
+LINE 9: "My dear Niece,
+LINE 10: "I have just received your letter, and shall devote this whole
+LINE 11: morning to answering it, as I foresee that a _little_ writing will
+LINE 12: not comprise what I have to tell you. I must confess myself
+LINE 13: surprised by your application; I did not expect it from _you_.
+LINE 14: Don't think me angry, however, for I only mean to let you know,
+LINE 15: that I had not imagined such inquiries to be necessary on _your_
+LINE 16: side. If you do not choose to understand me, forgive my
+LINE 17: impertinence. Your uncle is as much surprised as I am; and nothing
+LINE 18: but the belief of your being a party concerned would have allowed
+LINE 19: him to act as he has done. But if you are really innocent and
+LINE 20: ignorant, I must be more explicit. On the very day of my coming
+LINE 21: home from Longbourn, your uncle had a most unexpected visitor. Mr.
+LINE 22: Darcy called, and was shut up with him several hours. It was all
+LINE 23: over before I arrived; so my curiosity was not so dreadfully racked
+LINE 24: as _yours_ seems to have been. He came to tell Mr. Gardiner that he
+LINE 25: had found out where your sister and Mr. Wickham were, and that he
+LINE 26: had seen and talked with them both--Wickham repeatedly, Lydia once.
+LINE 27: From what I can collect, he left Derbyshire only one day after
+LINE 28: ourselves, and came to town with the resolution of hunting for
+LINE 29: them. The motive professed was his conviction of its being owing to
+LINE 30: himself that Wickham's worthlessness had not been so well known as
+LINE 31: to make it impossible for any young woman of character to love or
+LINE 32: confide in him. He generously imputed the whole to his mistaken
+LINE 33: pride, and confessed that he had before thought it beneath him to
+LINE 34: lay his private actions open to the world. His character was to
+LINE 35: speak for itself. He called it, therefore, his duty to step
+LINE 36: forward, and endeavour to remedy an evil which had been brought on
+LINE 37: by himself. If he _had another_ motive, I am sure it would never
+LINE 38: disgrace him. He had been some days in town before he was able to
+LINE 39: discover them; but he had something to direct his search, which was
+LINE 40: more than _we_ had; and the consciousness of this was another
+LINE 41: reason for his resolving to follow us. There is a lady, it seems, a
+LINE 42: Mrs. Younge, who was some time ago governess to Miss Darcy, and was
+LINE 43: dismissed from her charge on some cause of disapprobation, though
+LINE 44: he did not say what. She then took a large house in Edward Street,
+LINE 45: and has since maintained herself by letting lodgings. This Mrs.
+LINE 46: Younge was, he knew, intimately acquainted with Wickham; and he
+LINE 47: went to her for intelligence of him, as soon as he got to town. But
+LINE 48: it was two or three days before he could get from her what he
+LINE 49: wanted. She would not betray her trust, I suppose, without bribery
+LINE 50: and corruption, for she really did know where her friend was to be
+LINE 51: found. Wickham, indeed, had gone to her on their first arrival in
+LINE 52: London; and had she been able to receive them into her house, they
+LINE 53: would have taken up their abode with her. At length, however, our
+LINE 54: kind friend procured the wished-for direction. They were in ----
+LINE 55: Street. He saw Wickham, and afterwards insisted on seeing Lydia.
+LINE 56: His first object with her, he acknowledged, had been to persuade
+LINE 57: her to quit her present disgraceful situation, and return to her
+LINE 58: friends as soon as they could be prevailed on to receive her,
+LINE 59: offering his assistance as far as it would go. But he found Lydia
+LINE 60: absolutely resolved on remaining where she was. She cared for none
+LINE 61: of her friends; she wanted no help of his; she would not hear of
+LINE 62: leaving Wickham. She was sure they should be married some time or
+LINE 63: other, and it did not much signify when. Since such were her
+LINE 64: feelings, it only remained, he thought, to secure and expedite a
+LINE 65: marriage, which, in his very first conversation with Wickham, he
+LINE 66: easily learnt had never been _his_ design. He confessed himself
+LINE 67: obliged to leave the regiment on account of some debts of honour
+LINE 68: which were very pressing; and scrupled not to lay all the ill
+LINE 69: consequences of Lydia's flight on her own folly alone. He meant to
+LINE 70: resign his commission immediately; and as to his future situation,
+LINE 71: he could conjecture very little about it. He must go somewhere, but
+LINE 72: he did not know where, and he knew he should have nothing to live
+LINE 73: on. Mr. Darcy asked why he did not marry your sister at once.
+LINE 74: Though Mr. Bennet was not imagined to be very rich, he would have
+LINE 75: been able to do something for him, and his situation must have been
+LINE 76: benefited by marriage. But he found, in reply to this question,
+LINE 77: that Wickham still cherished the hope of more effectually making
+LINE 78: his fortune by marriage, in some other country. Under such
+LINE 79: circumstances, however, he was not likely to be proof against the
+LINE 80: temptation of immediate relief. They met several times, for there
+LINE 81: was much to be discussed. Wickham, of course, wanted more than he
+LINE 82: could get; but at length was reduced to be reasonable. Everything
+LINE 83: being settled between _them_, Mr. Darcy's next step was to make
+LINE 84: your uncle acquainted with it, and he first called in Gracechurch
+LINE 85: Street the evening before I came home. But Mr. Gardiner could not
+LINE 86: be seen; and Mr. Darcy found, on further inquiry, that your father
+LINE 87: was still with him, but would quit town the next morning. He did
+LINE 88: not judge your father to be a person whom he could so properly
+LINE 89: consult as your uncle, and therefore readily postponed seeing him
+LINE 90: till after the departure of the former. He did not leave his name,
+LINE 91: and till the next day it was only known that a gentleman had called
+LINE 92: on business. On Saturday he came again. Your father was gone, your
+LINE 93: uncle at home, and, as I said before, they had a great deal of talk
+LINE 94: together. They met again on Sunday, and then _I_ saw him too. It
+LINE 95: was not all settled before Monday: as soon as it was, the express
+LINE 96: was sent off to Longbourn. But our visitor was very obstinate. I
+LINE 97: fancy, Lizzy, that obstinacy is the real defect of his character,
+LINE 98: after all. He has been accused of many faults at different times;
+LINE 99: but _this_ is the true one. Nothing was to be done that he did not
+LINE 100: do himself; though I am sure (and I do not speak it to be thanked,
+LINE 101: therefore say nothing about it) your uncle would most readily have
+LINE 102: settled the whole. They battled it together for a long time, which
+LINE 103: was more than either the gentleman or lady concerned in it
+LINE 104: deserved. But at last your uncle was forced to yield, and instead
+LINE 105: of being allowed to be of use to his niece, was forced to put up
+LINE 106: with only having the probable credit of it, which went sorely
+LINE 107: against the grain; and I really believe your letter this morning
+LINE 108: gave him great pleasure, because it required an explanation that
+LINE 109: would rob him of his borrowed feathers, and give the praise where
+LINE 110: it was due. But, Lizzy, this must go no further than yourself, or
+LINE 111: Jane at most. You know pretty well, I suppose, what has been done
+LINE 112: for the young people. His debts are to be paid, amounting, I
+LINE 113: believe, to considerably more than a thousand pounds, another
+LINE 114: thousand in addition to her own settled upon _her_, and his
+LINE 115: commission purchased. The reason why all this was to be done by him
+LINE 116: alone, was such as I have given above. It was owing to him, to his
+LINE 117: reserve and want of proper consideration, that Wickham's character
+LINE 118: had been so misunderstood, and consequently that he had been
+LINE 119: received and noticed as he was. Perhaps there was some truth in
+LINE 120: _this_; though I doubt whether _his_ reserve, or _anybody's_
+LINE 121: reserve can be answerable for the event. But in spite of all this
+LINE 122: fine talking, my dear Lizzy, you may rest perfectly assured that
+LINE 123: your uncle would never have yielded, if we had not given him credit
+LINE 124: for _another interest_ in the affair. When all this was resolved
+LINE 125: on, he returned again to his friends, who were still staying at
+LINE 126: Pemberley; but it was agreed that he should be in London once more
+LINE 127: when the wedding took place, and all money matters were then to
+LINE 128: receive the last finish. I believe I have now told you everything.
+LINE 129: It is a relation which you tell me is to give you great surprise; I
+LINE 130: hope at least it will not afford you any displeasure. Lydia came to
+LINE 131: us, and Wickham had constant admission to the house. _He_ was
+LINE 132: exactly what he had been when I knew him in Hertfordshire; but I
+LINE 133: would not tell you how little I was satisfied with _her_ behaviour
+LINE 134: while she stayed with us, if I had not perceived, by Jane's letter
+LINE 135: last Wednesday, that her conduct on coming home was exactly of a
+LINE 136: piece with it, and therefore what I now tell you can give you no
+LINE 137: fresh pain. I talked to her repeatedly in the most serious manner,
+LINE 138: representing to her the wickedness of what she had done, and all
+LINE 139: the unhappiness she had brought on her family. If she heard me, it
+LINE 140: was by good luck, for I am sure she did not listen. I was sometimes
+LINE 141: quite provoked; but then I recollected my dear Elizabeth and Jane,
+LINE 142: and for their sakes had patience with her. Mr. Darcy was punctual
+LINE 143: in his return, and, as Lydia informed you, attended the wedding. He
+LINE 144: dined with us the next day, and was to leave town again on
+LINE 145: Wednesday or Thursday. Will you be very angry with me, my dear
+LINE 146: Lizzy, if I take this opportunity of saying (what I was never bold
+LINE 147: enough to say before) how much I like him? His behaviour to us has,
+LINE 148: in every respect, been as pleasing as when we were in Derbyshire.
+LINE 149: His understanding and opinions all please me; he wants nothing but
+LINE 150: a little more liveliness, and _that_, if he marry _prudently_, his
+LINE 151: wife may teach him. I thought him very sly; he hardly ever
+LINE 152: mentioned your name. But slyness seems the fashion. Pray forgive
+LINE 153: me, if I have been very presuming, or at least do not punish me so
+LINE 154: far as to exclude me from P. I shall never be quite happy till I
+LINE 155: have been all round the park. A low phaeton with a nice little pair
+LINE 156: of ponies would be the very thing. But I must write no more. The
+LINE 157: children have been wanting me this half hour.
+LINE 158: "Yours, very sincerely,
+LINE 159: "M. GARDINER."
+LINE 160: The contents of this letter threw Elizabeth into a flutter of spirits,
+LINE 161: in which it was difficult to determine whether pleasure or pain bore the
+LINE 162: greatest share. The vague and unsettled suspicions which uncertainty had
+LINE 163: produced, of what Mr. Darcy might have been doing to forward her
+LINE 164: sister's match--which she had feared to encourage, as an exertion of
+LINE 165: goodness too great to be probable, and at the same time dreaded to be
+LINE 166: just, from the pain of obligation--were proved beyond their greatest
+LINE 167: extent to be true! He had followed them purposely to town, he had taken
+LINE 168: on himself all the trouble and mortification attendant on such a
+LINE 169: research; in which supplication had been necessary to a woman whom he
+LINE 170: must abominate and despise, and where he was reduced to meet, frequently
+LINE 171: meet, reason with, persuade, and finally bribe the man whom he always
+LINE 172: most wished to avoid, and whose very name it was punishment to him to
+LINE 173: pronounce. He had done all this for a girl whom he could neither regard
+LINE 174: nor esteem. Her heart did whisper that he had done it for her. But it
+LINE 175: was a hope shortly checked by other considerations; and she soon felt
+LINE 176: that even her vanity was insufficient, when required to depend on his
+LINE 177: affection for her, for a woman who had already refused him, as able to
+LINE 178: overcome a sentiment so natural as abhorrence against relationship with
+LINE 179: Wickham. Brother-in-law of Wickham! Every kind of pride must revolt from
+LINE 180: the connection. He had, to be sure, done much. She was ashamed to think
+LINE 181: how much. But he had given a reason for his interference, which asked no
+LINE 182: extraordinary stretch of belief. It was reasonable that he should feel
+LINE 183: he had been wrong; he had liberality, and he had the means of exercising
+LINE 184: it; and though she would not place herself as his principal inducement,
+LINE 185: she could perhaps believe, that remaining partiality for her might
+LINE 186: assist his endeavours in a cause where her peace of mind must be
+LINE 187: materially concerned. It was painful, exceedingly painful, to know that
+LINE 188: they were under obligations to a person who could never receive a
+LINE 189: return. They owed the restoration of Lydia, her character, everything to
+LINE 190: him. Oh, how heartily did she grieve over every ungracious sensation she
+LINE 191: had ever encouraged, every saucy speech she had ever directed towards
+LINE 192: him! For herself she was humbled; but she was proud of him,--proud that
+LINE 193: in a cause of compassion and honour he had been able to get the better
+LINE 194: of himself. She read over her aunt's commendation of him again and
+LINE 195: again. It was hardly enough; but it pleased her. She was even sensible
+LINE 196: of some pleasure, though mixed with regret, on finding how steadfastly
+LINE 197: both she and her uncle had been persuaded that affection and confidence
+LINE 198: subsisted between Mr. Darcy and herself.
+LINE 199: She was roused from her seat and her reflections, by someone's approach;
+LINE 200: and, before she could strike into another path, she was overtaken by
+LINE 201: Wickham.
+LINE 202: "I am afraid I interrupt your solitary ramble, my dear sister?" said he,
+LINE 203: as he joined her.
+LINE 204: "You certainly do," she replied with a smile; "but it does not follow
+LINE 205: that the interruption must be unwelcome."
+LINE 206: "I should be sorry, indeed, if it were. _We_ were always good friends,
+LINE 207: and now we are better."
+LINE 208: "True. Are the others coming out?"
+LINE 209: "I do not know. Mrs. Bennet and Lydia are going in the carriage to
+LINE 210: Meryton. And so, my dear sister, I find, from our uncle and aunt, that
+LINE 211: you have actually seen Pemberley."
+LINE 212: She replied in the affirmative.
+LINE 213: "I almost envy you the pleasure, and yet I believe it would be too much
+LINE 214: for me, or else I could take it in my way to Newcastle. And you saw the
+LINE 215: old housekeeper, I suppose? Poor Reynolds, she was always very fond of
+LINE 216: me. But of course she did not mention my name to you."
+LINE 217: "Yes, she did."
+LINE 218: "And what did she say?"
+LINE 219: "That you were gone into the army, and she was afraid had--not turned
+LINE 220: out well. At such a distance as _that_, you know, things are strangely
+LINE 221: misrepresented."
+LINE 222: "Certainly," he replied, biting his lips. Elizabeth hoped she had
+LINE 223: silenced him; but he soon afterwards said,--
+LINE 224: "I was surprised to see Darcy in town last month. We passed each other
+LINE 225: several times. I wonder what he can be doing there."
+LINE 226: "Perhaps preparing for his marriage with Miss de Bourgh," said
+LINE 227: Elizabeth. "It must be something particular to take him there at this
+LINE 228: time of year."
+LINE 229: "Undoubtedly. Did you see him while you were at Lambton? I thought I
+LINE 230: understood from the Gardiners that you had."
+LINE 231: "Yes; he introduced us to his sister."
+LINE 232: "And do you like her?"
+LINE 233: "Very much."
+LINE 234: "I have heard, indeed, that she is uncommonly improved within this year
+LINE 235: or two. When I last saw her, she was not very promising. I am very glad
+LINE 236: you liked her. I hope she will turn out well."
+LINE 237: "I dare say she will; she has got over the most trying age."
+LINE 238: "Did you go by the village of Kympton?"
+LINE 239: "I do not recollect that we did."
+LINE 240: "I mention it because it is the living which I ought to have had. A most
+LINE 241: delightful place! Excellent parsonage-house! It would have suited me in
+LINE 242: every respect."
+LINE 243: "How should you have liked making sermons?"
+LINE 244: "Exceedingly well. I should have considered it as part of my duty, and
+LINE 245: the exertion would soon have been nothing. One ought not to repine; but,
+LINE 246: to be sure, it would have been such a thing for me! The quiet, the
+LINE 247: retirement of such a life, would have answered all my ideas of
+LINE 248: happiness! But it was not to be. Did you ever hear Darcy mention the
+LINE 249: circumstance when you were in Kent?"
+LINE 250: "I _have_ heard from authority, which I thought _as good_, that it was
+LINE 251: left you conditionally only, and at the will of the present patron."
+LINE 252: "You have! Yes, there was something in _that_; I told you so from the
+LINE 253: first, you may remember."
+LINE 254: "I _did_ hear, too, that there was a time when sermon-making was not so
+LINE 255: palatable to you as it seems to be at present; that you actually
+LINE 256: declared your resolution of never taking orders, and that the business
+LINE 257: had been compromised accordingly."
+LINE 258: "You did! and it was not wholly without foundation. You may remember
+LINE 259: what I told you on that point, when first we talked of it."
+LINE 260: They were now almost at the door of the house, for she had walked fast
+LINE 261: to get rid of him; and unwilling, for her sister's sake, to provoke him,
+LINE 262: she only said in reply, with a good-humoured smile,--
+LINE 263: "Come, Mr. Wickham, we are brother and sister, you know. Do not let us
+LINE 264: quarrel about the past. In future, I hope we shall be always of one
+LINE 265: mind."
+LINE 266: She held out her hand: he kissed it with affectionate gallantry, though
+LINE 267: he hardly knew how to look, and they entered the house.
+LINE 268: [Illustration:
+LINE 269: "Mr. Darcy with him."
+LINE 270: ]

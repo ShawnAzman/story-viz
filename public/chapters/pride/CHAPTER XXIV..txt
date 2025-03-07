@@ -1,0 +1,170 @@
+LINE 1: [Illustration]
+LINE 2: Miss Bingley's letter arrived, and put an end to doubt. The very first
+LINE 3: sentence conveyed the assurance of their being all settled in London for
+LINE 4: the winter, and concluded with her brother's regret at not having had
+LINE 5: time to pay his respects to his friends in Hertfordshire before he left
+LINE 6: the country.
+LINE 7: Hope was over, entirely over; and when Jane could attend to the rest of
+LINE 8: the letter, she found little, except the professed affection of the
+LINE 9: writer, that could give her any comfort. Miss Darcy's praise occupied
+LINE 10: the chief of it. Her many attractions were again dwelt on; and Caroline
+LINE 11: boasted joyfully of their increasing intimacy, and ventured to predict
+LINE 12: the accomplishment of the wishes which had been unfolded in her former
+LINE 13: letter. She wrote also with great pleasure of her brother's being an
+LINE 14: inmate of Mr. Darcy's house, and mentioned with raptures some plans of
+LINE 15: the latter with regard to new furniture.
+LINE 16: Elizabeth, to whom Jane very soon communicated the chief of all this,
+LINE 17: heard it in silent indignation. Her heart was divided between concern
+LINE 18: for her sister and resentment against all others. To Caroline's
+LINE 19: assertion of her brother's being partial to Miss Darcy, she paid no
+LINE 20: credit. That he was really fond of Jane, she doubted no more than she
+LINE 21: had ever done; and much as she had always been disposed to like him, she
+LINE 22: could not think without anger, hardly without contempt, on that easiness
+LINE 23: of temper, that want of proper resolution, which now made him the slave
+LINE 24: of his designing friends, and led him to sacrifice his own happiness to
+LINE 25: the caprice of their inclinations. Had his own happiness, however, been
+LINE 26: the only sacrifice, he might have been allowed to sport with it in
+LINE 27: whatever manner he thought best; but her sister's was involved in it, as
+LINE 28: she thought he must be sensible himself. It was a subject, in short, on
+LINE 29: which reflection would be long indulged, and must be unavailing. She
+LINE 30: could think of nothing else; and yet, whether Bingley's regard had
+LINE 31: really died away, or were suppressed by his friends' interference;
+LINE 32: whether he had been aware of Jane's attachment, or whether it had
+LINE 33: escaped his observation; whichever were the case, though her opinion of
+LINE 34: him must be materially affected by the difference, her sister's
+LINE 35: situation remained the same, her peace equally wounded.
+LINE 36: A day or two passed before Jane had courage to speak of her feelings to
+LINE 37: Elizabeth; but at last, on Mrs. Bennet's leaving them together, after a
+LINE 38: longer irritation than usual about Netherfield and its master, she could
+LINE 39: not help saying,--
+LINE 40: "O that my dear mother had more command over herself! she can have no
+LINE 41: idea of the pain she gives me by her continual reflections on him. But I
+LINE 42: will not repine. It cannot last long. He will be forgot, and we shall
+LINE 43: all be as we were before."
+LINE 44: Elizabeth looked at her sister with incredulous solicitude, but said
+LINE 45: nothing.
+LINE 46: "You doubt me," cried Jane, slightly colouring; "indeed, you have no
+LINE 47: reason. He may live in my memory as the most amiable man of my
+LINE 48: acquaintance but that is all. I have nothing either to hope or fear, and
+LINE 49: nothing to reproach him with. Thank God I have not _that_ pain. A little
+LINE 50: time, therefore--I shall certainly try to get the better----"
+LINE 51: With a stronger voice she soon added, "I have this comfort immediately,
+LINE 52: that it has not been more than an error of fancy on my side, and that it
+LINE 53: has done no harm to anyone but myself."
+LINE 54: "My dear Jane," exclaimed Elizabeth, "you are too good. Your sweetness
+LINE 55: and disinterestedness are really angelic; I do not know what to say to
+LINE 56: you. I feel as if I had never done you justice, or loved you as you
+LINE 57: deserve."
+LINE 58: Miss Bennet eagerly disclaimed all extraordinary merit, and threw back
+LINE 59: the praise on her sister's warm affection.
+LINE 60: "Nay," said Elizabeth, "this is not fair. _You_ wish to think all the
+LINE 61: world respectable, and are hurt if I speak ill of anybody. _I_ only want
+LINE 62: to think _you_ perfect, and you set yourself against it. Do not be
+LINE 63: afraid of my running into any excess, of my encroaching on your
+LINE 64: privilege of universal good-will. You need not. There are few people
+LINE 65: whom I really love, and still fewer of whom I think well. The more I see
+LINE 66: of the world the more am I dissatisfied with it; and every day confirms
+LINE 67: my belief of the inconsistency of all human characters, and of the
+LINE 68: little dependence that can be placed on the appearance of either merit
+LINE 69: or sense. I have met with two instances lately: one I will not mention,
+LINE 70: the other is Charlotte's marriage. It is unaccountable! in every view it
+LINE 71: is unaccountable!"
+LINE 72: "My dear Lizzy, do not give way to such feelings as these. They will
+LINE 73: ruin your happiness. You do not make allowance enough for difference of
+LINE 74: situation and temper. Consider Mr. Collins's respectability, and
+LINE 75: Charlotte's prudent, steady character. Remember that she is one of a
+LINE 76: large family; that as to fortune it is a most eligible match; and be
+LINE 77: ready to believe, for everybody's sake, that she may feel something like
+LINE 78: regard and esteem for our cousin."
+LINE 79: "To oblige you, I would try to believe almost anything, but no one else
+LINE 80: could be benefited by such a belief as this; for were I persuaded that
+LINE 81: Charlotte had any regard for him, I should only think worse of her
+LINE 82: understanding than I now do of her heart. My dear Jane, Mr. Collins is a
+LINE 83: conceited, pompous, narrow-minded, silly man: you know he is, as well as
+LINE 84: I do; and you must feel, as well as I do, that the woman who marries him
+LINE 85: cannot have a proper way of thinking. You shall not defend her, though
+LINE 86: it is Charlotte Lucas. You shall not, for the sake of one individual,
+LINE 87: change the meaning of principle and integrity, nor endeavour to persuade
+LINE 88: yourself or me, that selfishness is prudence, and insensibility of
+LINE 89: danger security for happiness."
+LINE 90: "I must think your language too strong in speaking of both," replied
+LINE 91: Jane; "and I hope you will be convinced of it, by seeing them happy
+LINE 92: together. But enough of this. You alluded to something else. You
+LINE 93: mentioned _two_ instances. I cannot misunderstand you, but I entreat
+LINE 94: you, dear Lizzy, not to pain me by thinking _that person_ to blame, and
+LINE 95: saying your opinion of him is sunk. We must not be so ready to fancy
+LINE 96: ourselves intentionally injured. We must not expect a lively young man
+LINE 97: to be always so guarded and circumspect. It is very often nothing but
+LINE 98: our own vanity that deceives us. Women fancy admiration means more than
+LINE 99: it does."
+LINE 100: "And men take care that they should."
+LINE 101: "If it is designedly done, they cannot be justified; but I have no idea
+LINE 102: of there being so much design in the world as some persons imagine."
+LINE 103: "I am far from attributing any part of Mr. Bingley's conduct to design,"
+LINE 104: said Elizabeth; "but, without scheming to do wrong, or to make others
+LINE 105: unhappy, there may be error and there may be misery. Thoughtlessness,
+LINE 106: want of attention to other people's feelings, and want of resolution,
+LINE 107: will do the business."
+LINE 108: "And do you impute it to either of those?"
+LINE 109: "Yes; to the last. But if I go on I shall displease you by saying what I
+LINE 110: think of persons you esteem. Stop me, whilst you can."
+LINE 111: "You persist, then, in supposing his sisters influence him?"
+LINE 112: "Yes, in conjunction with his friend."
+LINE 113: "I cannot believe it. Why should they try to influence him? They can
+LINE 114: only wish his happiness; and if he is attached to me no other woman can
+LINE 115: secure it."
+LINE 116: "Your first position is false. They may wish many things besides his
+LINE 117: happiness: they may wish his increase of wealth and consequence; they
+LINE 118: may wish him to marry a girl who has all the importance of money, great
+LINE 119: connections, and pride."
+LINE 120: "Beyond a doubt they do wish him to choose Miss Darcy," replied Jane;
+LINE 121: "but this may be from better feelings than you are supposing. They have
+LINE 122: known her much longer than they have known me; no wonder if they love
+LINE 123: her better. But, whatever may be their own wishes, it is very unlikely
+LINE 124: they should have opposed their brother's. What sister would think
+LINE 125: herself at liberty to do it, unless there were something very
+LINE 126: objectionable? If they believed him attached to me they would not try to
+LINE 127: part us; if he were so, they could not succeed. By supposing such an
+LINE 128: affection, you make everybody acting unnaturally and wrong, and me most
+LINE 129: unhappy. Do not distress me by the idea. I am not ashamed of having been
+LINE 130: mistaken--or, at least, it is slight, it is nothing in comparison of
+LINE 131: what I should feel in thinking ill of him or his sisters. Let me take it
+LINE 132: in the best light, in the light in which it may be understood."
+LINE 133: Elizabeth could not oppose such a wish; and from this time Mr. Bingley's
+LINE 134: name was scarcely ever mentioned between them.
+LINE 135: Mrs. Bennet still continued to wonder and repine at his returning no
+LINE 136: more; and though a day seldom passed in which Elizabeth did not account
+LINE 137: for it clearly, there seemed little chance of her ever considering it
+LINE 138: with less perplexity. Her daughter endeavoured to convince her of what
+LINE 139: she did not believe herself, that his attentions to Jane had been merely
+LINE 140: the effect of a common and transient liking, which ceased when he saw
+LINE 141: her no more; but though the probability of the statement was admitted at
+LINE 142: the time, she had the same story to repeat every day. Mrs. Bennet's best
+LINE 143: comfort was, that Mr. Bingley must be down again in the summer.
+LINE 144: Mr. Bennet treated the matter differently. "So, Lizzy," said he, one
+LINE 145: day, "your sister is crossed in love, I find. I congratulate her. Next
+LINE 146: to being married, a girl likes to be crossed in love a little now and
+LINE 147: then. It is something to think of, and gives her a sort of distinction
+LINE 148: among her companions. When is your turn to come? You will hardly bear to
+LINE 149: be long outdone by Jane. Now is your time. Here are officers enough at
+LINE 150: Meryton to disappoint all the young ladies in the country. Let Wickham
+LINE 151: be your man. He is a pleasant fellow, and would jilt you creditably."
+LINE 152: "Thank you, sir, but a less agreeable man would satisfy me. We must not
+LINE 153: all expect Jane's good fortune."
+LINE 154: "True," said Mr. Bennet; "but it is a comfort to think that, whatever of
+LINE 155: that kind may befall you, you have an affectionate mother who will
+LINE 156: always make the most of it."
+LINE 157: Mr. Wickham's society was of material service in dispelling the gloom
+LINE 158: which the late perverse occurrences had thrown on many of the Longbourn
+LINE 159: family. They saw him often, and to his other recommendations was now
+LINE 160: added that of general unreserve. The whole of what Elizabeth had already
+LINE 161: heard, his claims on Mr. Darcy, and all that he had suffered from him,
+LINE 162: was now openly acknowledged and publicly canvassed; and everybody was
+LINE 163: pleased to think how much they had always disliked Mr. Darcy before they
+LINE 164: had known anything of the matter.
+LINE 165: Miss Bennet was the only creature who could suppose there might be any
+LINE 166: extenuating circumstances in the case unknown to the society of
+LINE 167: Hertfordshire: her mild and steady candour always pleaded for
+LINE 168: allowances, and urged the possibility of mistakes; but by everybody else
+LINE 169: Mr. Darcy was condemned as the worst of men.
+LINE 170: [Illustration]

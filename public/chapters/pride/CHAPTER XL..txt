@@ -1,0 +1,154 @@
+LINE 1: [Illustration]
+LINE 2: Elizabeth's impatience to acquaint Jane with what had happened could no
+LINE 3: longer be overcome; and at length resolving to suppress every particular
+LINE 4: in which her sister was concerned, and preparing her to be surprised,
+LINE 5: she related to her the next morning the chief of the scene between Mr.
+LINE 6: Darcy and herself.
+LINE 7: Miss Bennet's astonishment was soon lessened by the strong sisterly
+LINE 8: partiality which made any admiration of Elizabeth appear perfectly
+LINE 9: natural; and all surprise was shortly lost in other feelings. She was
+LINE 10: sorry that Mr. Darcy should have delivered his sentiments in a manner so
+LINE 11: little suited to recommend them; but still more was she grieved for the
+LINE 12: unhappiness which her sister's refusal must have given him.
+LINE 13: "His being so sure of succeeding was wrong," said she, "and certainly
+LINE 14: ought not to have appeared; but consider how much it must increase his
+LINE 15: disappointment."
+LINE 16: "Indeed," replied Elizabeth, "I am heartily sorry for him; but he has
+LINE 17: other feelings which will probably soon drive away his regard for me.
+LINE 18: You do not blame me, however, for refusing him?"
+LINE 19: "Blame you! Oh, no."
+LINE 20: "But you blame me for having spoken so warmly of Wickham?"
+LINE 21: "No--I do not know that you were wrong in saying what you did."
+LINE 22: "But you _will_ know it, when I have told you what happened the very
+LINE 23: next day."
+LINE 24: She then spoke of the letter, repeating the whole of its contents as far
+LINE 25: as they concerned George Wickham. What a stroke was this for poor Jane,
+LINE 26: who would willingly have gone through the world without believing that
+LINE 27: so much wickedness existed in the whole race of mankind as was here
+LINE 28: collected in one individual! Nor was Darcy's vindication, though
+LINE 29: grateful to her feelings, capable of consoling her for such discovery.
+LINE 30: Most earnestly did she labour to prove the probability of error, and
+LINE 31: seek to clear one, without involving the other.
+LINE 32: "This will not do," said Elizabeth; "you never will be able to make both
+LINE 33: of them good for anything. Take your choice, but you must be satisfied
+LINE 34: with only one. There is but such a quantity of merit between them; just
+LINE 35: enough to make one good sort of man; and of late it has been shifting
+LINE 36: about pretty much. For my part, I am inclined to believe it all Mr.
+LINE 37: Darcy's, but you shall do as you choose."
+LINE 38: It was some time, however, before a smile could be extorted from Jane.
+LINE 39: "I do not know when I have been more shocked," said she. "Wickham so
+LINE 40: very bad! It is almost past belief. And poor Mr. Darcy! dear Lizzy,
+LINE 41: only consider what he must have suffered. Such a disappointment! and
+LINE 42: with the knowledge of your ill opinion too! and having to relate such a
+LINE 43: thing of his sister! It is really too distressing, I am sure you must
+LINE 44: feel it so."
+LINE 45: "Oh no, my regret and compassion are all done away by seeing you so full
+LINE 46: of both. I know you will do him such ample justice, that I am growing
+LINE 47: every moment more unconcerned and indifferent. Your profusion makes me
+LINE 48: saving; and if you lament over him much longer, my heart will be as
+LINE 49: light as a feather."
+LINE 50: "Poor Wickham! there is such an expression of goodness in his
+LINE 51: countenance! such an openness and gentleness in his manner."
+LINE 52: "There certainly was some great mismanagement in the education of those
+LINE 53: two young men. One has got all the goodness, and the other all the
+LINE 54: appearance of it."
+LINE 55: "I never thought Mr. Darcy so deficient in the _appearance_ of it as you
+LINE 56: used to do."
+LINE 57: "And yet I meant to be uncommonly clever in taking so decided a dislike
+LINE 58: to him, without any reason. It is such a spur to one's genius, such an
+LINE 59: opening for wit, to have a dislike of that kind. One may be continually
+LINE 60: abusive without saying anything just; but one cannot be always laughing
+LINE 61: at a man without now and then stumbling on something witty."
+LINE 62: "Lizzy, when you first read that letter, I am sure you could not treat
+LINE 63: the matter as you do now."
+LINE 64: "Indeed, I could not. I was uncomfortable enough, I was very
+LINE 65: uncomfortable--I may say unhappy. And with no one to speak to of what I
+LINE 66: felt, no Jane to comfort me, and say that I had not been so very weak,
+LINE 67: and vain, and nonsensical, as I knew I had! Oh, how I wanted you!"
+LINE 68: "How unfortunate that you should have used such very strong expressions
+LINE 69: in speaking of Wickham to Mr. Darcy, for now they _do_ appear wholly
+LINE 70: undeserved."
+LINE 71: "Certainly. But the misfortune of speaking with bitterness is a most
+LINE 72: natural consequence of the prejudices I had been encouraging. There is
+LINE 73: one point on which I want your advice. I want to be told whether I
+LINE 74: ought, or ought not, to make our acquaintance in general understand
+LINE 75: Wickham's character."
+LINE 76: Miss Bennet paused a little, and then replied, "Surely there can be no
+LINE 77: occasion for exposing him so dreadfully. What is your own opinion?"
+LINE 78: "That it ought not to be attempted. Mr. Darcy has not authorized me to
+LINE 79: make his communication public. On the contrary, every particular
+LINE 80: relative to his sister was meant to be kept as much as possible to
+LINE 81: myself; and if I endeavour to undeceive people as to the rest of his
+LINE 82: conduct, who will believe me? The general prejudice against Mr. Darcy is
+LINE 83: so violent, that it would be the death of half the good people in
+LINE 84: Meryton, to attempt to place him in an amiable light. I am not equal to
+LINE 85: it. Wickham will soon be gone; and, therefore, it will not signify to
+LINE 86: anybody here what he really is. Some time hence it will be all found
+LINE 87: out, and then we may laugh at their stupidity in not knowing it before.
+LINE 88: At present I will say nothing about it."
+LINE 89: "You are quite right. To have his errors made public might ruin him for
+LINE 90: ever. He is now, perhaps, sorry for what he has done, and anxious to
+LINE 91: re-establish a character. We must not make him desperate."
+LINE 92: The tumult of Elizabeth's mind was allayed by this conversation. She
+LINE 93: had got rid of two of the secrets which had weighed on her for a
+LINE 94: fortnight, and was certain of a willing listener in Jane, whenever she
+LINE 95: might wish to talk again of either. But there was still something
+LINE 96: lurking behind, of which prudence forbade the disclosure. She dared not
+LINE 97: relate the other half of Mr. Darcy's letter, nor explain to her sister
+LINE 98: how sincerely she had been valued by his friend. Here was knowledge in
+LINE 99: which no one could partake; and she was sensible that nothing less than
+LINE 100: a perfect understanding between the parties could justify her in
+LINE 101: throwing off this last encumbrance of mystery. "And then," said she, "if
+LINE 102: that very improbable event should ever take place, I shall merely be
+LINE 103: able to tell what Bingley may tell in a much more agreeable manner
+LINE 104: himself. The liberty of communication cannot be mine till it has lost
+LINE 105: all its value!"
+LINE 106: She was now, on being settled at home, at leisure to observe the real
+LINE 107: state of her sister's spirits. Jane was not happy. She still cherished a
+LINE 108: very tender affection for Bingley. Having never even fancied herself in
+LINE 109: love before, her regard had all the warmth of first attachment, and from
+LINE 110: her age and disposition, greater steadiness than first attachments often
+LINE 111: boast; and so fervently did she value his remembrance, and prefer him to
+LINE 112: every other man, that all her good sense, and all her attention to the
+LINE 113: feelings of her friends, were requisite to check the indulgence of those
+LINE 114: regrets which must have been injurious to her own health and their
+LINE 115: tranquillity.
+LINE 116: "Well, Lizzy," said Mrs. Bennet, one day, "what is your opinion _now_ of
+LINE 117: this sad business of Jane's? For my part, I am determined never to speak
+LINE 118: of it again to anybody. I told my sister Philips so the other day. But I
+LINE 119: cannot find out that Jane saw anything of him in London. Well, he is a
+LINE 120: very undeserving young man--and I do not suppose there is the least
+LINE 121: chance in the world of her ever getting him now. There is no talk of his
+LINE 122: coming to Netherfield again in the summer; and I have inquired of
+LINE 123: everybody, too, who is likely to know."
+LINE 124: [Illustration:
+LINE 125: "I am determined never to speak of it again"
+LINE 126: ]
+LINE 127: "I do not believe that he will ever live at Netherfield any more."
+LINE 128: "Oh, well! it is just as he chooses. Nobody wants him to come; though I
+LINE 129: shall always say that he used my daughter extremely ill; and, if I was
+LINE 130: her, I would not have put up with it. Well, my comfort is, I am sure
+LINE 131: Jane will die of a broken heart, and then he will be sorry for what he
+LINE 132: has done."
+LINE 133: But as Elizabeth could not receive comfort from any such expectation she
+LINE 134: made no answer.
+LINE 135: "Well, Lizzy," continued her mother, soon afterwards, "and so the
+LINE 136: Collinses live very comfortable, do they? Well, well, I only hope it
+LINE 137: will last. And what sort of table do they keep? Charlotte is an
+LINE 138: excellent manager, I dare say. If she is half as sharp as her mother,
+LINE 139: she is saving enough. There is nothing extravagant in _their_
+LINE 140: housekeeping, I dare say."
+LINE 141: "No, nothing at all."
+LINE 142: "A great deal of good management, depend upon it. Yes, yes. _They_ will
+LINE 143: take care not to outrun their income. _They_ will never be distressed
+LINE 144: for money. Well, much good may it do them! And so, I suppose, they often
+LINE 145: talk of having Longbourn when your father is dead. They look upon it
+LINE 146: quite as their own, I dare say, whenever that happens."
+LINE 147: "It was a subject which they could not mention before me."
+LINE 148: "No; it would have been strange if they had. But I make no doubt they
+LINE 149: often talk of it between themselves. Well, if they can be easy with an
+LINE 150: estate that is not lawfully their own, so much the better. _I_ should be
+LINE 151: ashamed of having one that was only entailed on me."
+LINE 152: [Illustration:
+LINE 153: "When Colonel Miller's regiment went away"
+LINE 154: [_Copyright 1894 by George Allen._]]

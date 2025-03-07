@@ -1,0 +1,147 @@
+LINE 1: [Illustration]
+LINE 2: The discomposure of spirits which this extraordinary visit threw
+LINE 3: Elizabeth into could not be easily overcome; nor could she for many
+LINE 4: hours learn to think of it less than incessantly. Lady Catherine, it
+LINE 5: appeared, had actually taken the trouble of this journey from Rosings
+LINE 6: for the sole purpose of breaking off her supposed engagement with Mr.
+LINE 7: Darcy. It was a rational scheme, to be sure! but from what the report of
+LINE 8: their engagement could originate, Elizabeth was at a loss to imagine;
+LINE 9: till she recollected that _his_ being the intimate friend of Bingley,
+LINE 10: and _her_ being the sister of Jane, was enough, at a time when the
+LINE 11: expectation of one wedding made everybody eager for another, to supply
+LINE 12: the idea. She had not herself forgotten to feel that the marriage of her
+LINE 13: sister must bring them more frequently together. And her neighbours at
+LINE 14: Lucas Lodge, therefore, (for through their communication with the
+LINE 15: Collinses, the report, she concluded, had reached Lady Catherine,) had
+LINE 16: only set _that_ down as almost certain and immediate which _she_ had
+LINE 17: looked forward to as possible at some future time.
+LINE 18: In revolving Lady Catherine's expressions, however, she could not help
+LINE 19: feeling some uneasiness as to the possible consequence of her persisting
+LINE 20: in this interference. From what she had said of her resolution to
+LINE 21: prevent the marriage, it occurred to Elizabeth that she must meditate an
+LINE 22: application to her nephew; and how he might take a similar
+LINE 23: representation of the evils attached to a connection with her she dared
+LINE 24: not pronounce. She knew not the exact degree of his affection for his
+LINE 25: aunt, or his dependence on her judgment, but it was natural to suppose
+LINE 26: that he thought much higher of her Ladyship than _she_ could do; and it
+LINE 27: was certain, that in enumerating the miseries of a marriage with _one_
+LINE 28: whose immediate connections were so unequal to his own, his aunt would
+LINE 29: address him on his weakest side. With his notions of dignity, he would
+LINE 30: probably feel that the arguments, which to Elizabeth had appeared weak
+LINE 31: and ridiculous, contained much good sense and solid reasoning.
+LINE 32: If he had been wavering before, as to what he should do, which had often
+LINE 33: seemed likely, the advice and entreaty of so near a relation might
+LINE 34: settle every doubt, and determine him at once to be as happy as dignity
+LINE 35: unblemished could make him. In that case he would return no more. Lady
+LINE 36: Catherine might see him in her way through town; and his engagement to
+LINE 37: Bingley of coming again to Netherfield must give way.
+LINE 38: "If, therefore, an excuse for not keeping his promise should come to his
+LINE 39: friend within a few days," she added, "I shall know how to understand
+LINE 40: it. I shall then give over every expectation, every wish of his
+LINE 41: constancy. If he is satisfied with only regretting me, when he might
+LINE 42: have obtained my affections and hand, I shall soon cease to regret him
+LINE 43: at all."
+LINE 44: The surprise of the rest of the family, on hearing who their visitor had
+LINE 45: been, was very great: but they obligingly satisfied it with the same
+LINE 46: kind of supposition which had appeased Mrs. Bennet's curiosity; and
+LINE 47: Elizabeth was spared from much teasing on the subject.
+LINE 48: The next morning, as she was going down stairs, she was met by her
+LINE 49: father, who came out of his library with a letter in his hand.
+LINE 50: "Lizzy," said he, "I was going to look for you: come into my room."
+LINE 51: She followed him thither; and her curiosity to know what he had to tell
+LINE 52: her was heightened by the supposition of its being in some manner
+LINE 53: connected with the letter he held. It suddenly struck her that it might
+LINE 54: be from Lady Catherine, and she anticipated with dismay all the
+LINE 55: consequent explanations.
+LINE 56: She followed her father to the fireplace, and they both sat down. He
+LINE 57: then said,--
+LINE 58: "I have received a letter this morning that has astonished me
+LINE 59: exceedingly. As it principally concerns yourself, you ought to know its
+LINE 60: contents. I did not know before that I had _two_ daughters on the brink
+LINE 61: of matrimony. Let me congratulate you on a very important conquest."
+LINE 62: The colour now rushed into Elizabeth's cheeks in the instantaneous
+LINE 63: conviction of its being a letter from the nephew, instead of the aunt;
+LINE 64: and she was undetermined whether most to be pleased that he explained
+LINE 65: himself at all, or offended that his letter was not rather addressed to
+LINE 66: herself, when her father continued,--
+LINE 67: "You look conscious. Young ladies have great penetration in such matters
+LINE 68: as these; but I think I may defy even _your_ sagacity to discover the
+LINE 69: name of your admirer. This letter is from Mr. Collins."
+LINE 70: "From Mr. Collins! and what can _he_ have to say?"
+LINE 71: "Something very much to the purpose, of course. He begins with
+LINE 72: congratulations on the approaching nuptials of my eldest daughter, of
+LINE 73: which, it seems, he has been told by some of the good-natured, gossiping
+LINE 74: Lucases. I shall not sport with your impatience by reading what he says
+LINE 75: on that point. What relates to yourself is as follows:--'Having thus
+LINE 76: offered you the sincere congratulations of Mrs. Collins and myself on
+LINE 77: this happy event, let me now add a short hint on the subject of another,
+LINE 78: of which we have been advertised by the same authority. Your daughter
+LINE 79: Elizabeth, it is presumed, will not long bear the name of Bennet, after
+LINE 80: her eldest sister has resigned it; and the chosen partner of her fate
+LINE 81: may be reasonably looked up to as one of the most illustrious personages
+LINE 82: in this land.' Can you possibly guess, Lizzy, who is meant by this?
+LINE 83: 'This young gentleman is blessed, in a peculiar way, with everything the
+LINE 84: heart of mortal can most desire,--splendid property, noble kindred, and
+LINE 85: extensive patronage. Yet, in spite of all these temptations, let me warn
+LINE 86: my cousin Elizabeth, and yourself, of what evils you may incur by a
+LINE 87: precipitate closure with this gentleman's proposals, which, of course,
+LINE 88: you will be inclined to take immediate advantage of.' Have you any idea,
+LINE 89: Lizzy, who this gentleman is? But now it comes out. 'My motive for
+LINE 90: cautioning you is as follows:--We have reason to imagine that his aunt,
+LINE 91: Lady Catherine de Bourgh, does not look on the match with a friendly
+LINE 92: eye.' _Mr. Darcy_, you see, is the man! Now, Lizzy, I think I _have_
+LINE 93: surprised you. Could he, or the Lucases, have pitched on any man, within
+LINE 94: the circle of our acquaintance, whose name would have given the lie more
+LINE 95: effectually to what they related? Mr. Darcy, who never looks at any
+LINE 96: woman but to see a blemish, and who probably never looked at _you_ in
+LINE 97: his life! It is admirable!"
+LINE 98: Elizabeth tried to join in her father's pleasantry, but could only force
+LINE 99: one most reluctant smile. Never had his wit been directed in a manner so
+LINE 100: little agreeable to her.
+LINE 101: "Are you not diverted?"
+LINE 102: "Oh, yes. Pray read on."
+LINE 103: "'After mentioning the likelihood of this marriage to her Ladyship last
+LINE 104: night, she immediately, with her usual condescension, expressed what she
+LINE 105: felt on the occasion; when it became apparent, that, on the score of
+LINE 106: some family objections on the part of my cousin, she would never give
+LINE 107: her consent to what she termed so disgraceful a match. I thought it my
+LINE 108: duty to give the speediest intelligence of this to my cousin, that she
+LINE 109: and her noble admirer may be aware of what they are about, and not run
+LINE 110: hastily into a marriage which has not been properly sanctioned.' Mr.
+LINE 111: Collins, moreover, adds, 'I am truly rejoiced that my cousin Lydia's sad
+LINE 112: business has been so well hushed up, and am only concerned that their
+LINE 113: living together before the marriage took place should be so generally
+LINE 114: known. I must not, however, neglect the duties of my station, or refrain
+LINE 115: from declaring my amazement, at hearing that you received the young
+LINE 116: couple into your house as soon as they were married. It was an
+LINE 117: encouragement of vice; and had I been the rector of Longbourn, I should
+LINE 118: very strenuously have opposed it. You ought certainly to forgive them as
+LINE 119: a Christian, but never to admit them in your sight, or allow their
+LINE 120: names to be mentioned in your hearing.' _That_ is his notion of
+LINE 121: Christian forgiveness! The rest of his letter is only about his dear
+LINE 122: Charlotte's situation, and his expectation of a young olive-branch. But,
+LINE 123: Lizzy, you look as if you did not enjoy it. You are not going to be
+LINE 124: _missish_, I hope, and pretend to be affronted at an idle report. For
+LINE 125: what do we live, but to make sport for our neighbours, and laugh at them
+LINE 126: in our turn?"
+LINE 127: "Oh," cried Elizabeth, "I am exceedingly diverted. But it is so
+LINE 128: strange!"
+LINE 129: "Yes, _that_ is what makes it amusing. Had they fixed on any other man
+LINE 130: it would have been nothing; but _his_ perfect indifference and _your_
+LINE 131: pointed dislike make it so delightfully absurd! Much as I abominate
+LINE 132: writing, I would not give up Mr. Collins's correspondence for any
+LINE 133: consideration. Nay, when I read a letter of his, I cannot help giving
+LINE 134: him the preference even over Wickham, much as I value the impudence and
+LINE 135: hypocrisy of my son-in-law. And pray, Lizzy, what said Lady Catherine
+LINE 136: about this report? Did she call to refuse her consent?"
+LINE 137: To this question his daughter replied only with a laugh; and as it had
+LINE 138: been asked without the least suspicion, she was not distressed by his
+LINE 139: repeating it. Elizabeth had never been more at a loss to make her
+LINE 140: feelings appear what they were not. It was necessary to laugh when she
+LINE 141: would rather have cried. Her father had most cruelly mortified her by
+LINE 142: what he said of Mr. Darcy's indifference; and she could do nothing but
+LINE 143: wonder at such a want of penetration, or fear that, perhaps, instead of
+LINE 144: his seeing too _little_, she might have fancied too _much_.
+LINE 145: [Illustration:
+LINE 146: "The efforts of his aunt"
+LINE 147: [_Copyright 1894 by George Allen._]]

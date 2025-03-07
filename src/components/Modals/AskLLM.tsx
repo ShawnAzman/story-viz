@@ -7,7 +7,8 @@ import { onlyLetters } from "../../utils/helpers";
 import { dataStore } from "../../stores/dataStore";
 
 function AskLLM(props: any) {
-  const { chapterView, modalLoading, setModalLoading, story } = storyStore();
+  const { chapterView, modalLoading, setModalLoading, story, isBackendActive } =
+    storyStore();
   const { scene_data } = dataStore();
   const [question, setQuestion] = useState("");
   const [answer, setAnswer] = useState("");
@@ -100,6 +101,8 @@ function AskLLM(props: any) {
           variant="gradient"
           gradient={{ from: "#9c85c0", to: "#dd8047", deg: 0 }}
           leftSection={<IoChatboxEllipses />}
+          disabled={!isBackendActive}
+          title={isBackendActive ? "Ask LLM" : "Backend is not connected"}
         >
           ask llm about this {!chapterView ? "scene" : "chapter"}
         </Button>
