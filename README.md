@@ -89,7 +89,7 @@ the server should now be running at [`127.0.0.1:5000`](http://127.0.0.1:5000)
 
 4. in the first cell under the **split text into chapters** section in [notebooks/parsing_data.ipynb](notebooks/parsing-data.ipynb), set `og_story_name` to your filename without the ".txt" (e.g., "gatsby").
 
-- you can also change the `analysis_type` here (e.g., "character" or "theme").
+- you can also change the `analysis_type` here (e.g., "character" or "theme"). we recommend trying "character" first.
 
 - the cell should look something like this:
 
