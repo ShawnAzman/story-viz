@@ -114,7 +114,11 @@ analysis_type = "character"
 
 - **if you do not see this file**, take your `final_data.json` file and copy and paste it into the [src/data/](src/data/) folder. rename the file accordingly following the instructions above.
 
-9. in [src/components/Header/PlotOptions.tsx](src/components/Header/PlotOptions.tsx), add your file name to the `storyOptions` list. it should look something like this:
+9. also check if you see a corresponding folder for your story in the [public/chapters/](public/chapters/) folder (e.g., `public/chapters/gatsby/`) with the chapter `.txt` files.
+
+- **if you do not see this folder or it is empty**, copy your story's full chapter folder in [notebooks/chapters/](notebooks/chapters/) (e.g., `notebooks/chapters/gatsby/`) and paste it inside the [public/chapters/](public/chapters/) folder.
+
+10. in [src/components/Header/PlotOptions.tsx](src/components/Header/PlotOptions.tsx), add your file name to the `storyOptions` list. it should look something like this:
 
 ```
 const storyOptions = [
@@ -123,7 +127,5 @@ const storyOptions = [
     ...
 ];
 ```
-
-10. copy your story's full chapter folder in [notebooks/chapters/](notebooks/chapters/) (e.g., `notebooks/chapters/gatsby/`) and paste it inside the [public/chapters/](public/chapters/) folder (e.g., `public/chapters/gatsby/`).
 
 11. save your changes and run the frontend again at [`localhost:5200`](http://localhost:5200) (see more detailed instructions above). you should be able to select your story from the dropdown menu and see your visualization results!
