@@ -163,6 +163,9 @@ function PlotOptions() {
 
     "marrow-new",
     "marrow-new-themes",
+
+    "littlewomen-new",
+    "littlewomen-new-themes",
   ].sort();
 
   const storyOptionsDisplay = storyOptions.filter(

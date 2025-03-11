@@ -101,7 +101,9 @@ analysis_type = "character"
 
 5. run the rest of the code in this section, stopping at **analyze scene**. double check the generated chapter txt files which should be located in the [notebooks/chapters/](notebooks/chapters/) folder inside a subfolder corresponding to your story name (e.g., `notebooks/chapters/gatsby/`).
 
-- if something went wrong, you may have to adjust the code in this section to parse the chapters correctly.
+- if something went wrong, you may have to adjust the extracted first line, last line, and/or markers manually in the created `summary.json` file in the [notebooks/json/](notebooks/json/) folder (e.g., `notebooks/json/gatsby/summary.json`).
+- or you can try modifying the code in this section to parse the chapters correctly.
+- in either case, after making your changes, rerun this block of code until the chapter txt files look correct.
 
 6. run the rest of the code in this notebook, starting from the **analyze scene** section.
 
