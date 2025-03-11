@@ -332,11 +332,13 @@ function PromptModal() {
       title={
         modalType === "deleteColor"
           ? "🗑️ Delete custom color scheme"
+          : modalType === "deleteYAxis"
+          ? "🗑️ Delete custom y-axis"
           : modalType === "addColor"
           ? "✨ Add custom color scheme"
           : modalType === "addY"
           ? "✨ Add custom y-axis"
-          : "🗑️ Delete custom y-axis"
+          : "🗑️ Clear local storage"
       }
       centered
       size={"lg"}
@@ -349,10 +351,12 @@ function PromptModal() {
               Are you sure you want to delete the color: <b>{characterColor}</b>
               ?
             </p>
-          ) : (
+          ) : modalType === "deleteYAxis" ? (
             <p>
               Are you sure you want to delete the y-axis: <b>{yAxis}</b>?
             </p>
+          ) : (
+            <p>Are you sure you want to clear your local storage?</p>
           )}
           <div
             style={{
@@ -374,8 +378,16 @@ function PromptModal() {
               onClick={() => {
                 if (modalType === "deleteColor") {
                   removeColor();
-                } else {
+                } else if (modalType === "deleteYAxis") {
                   removeYAxis();
+                } else {
+                  if (modalLoading) return;
+                  setModalLoading(true);
+                  localforage.clear().then(() => {
+                    setModalLoading(false);
+                    closeModal();
+                    window.location.reload();
+                  });
                 }
               }}
               disabled={modalLoading}

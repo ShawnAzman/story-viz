@@ -343,6 +343,14 @@ function Sidebar() {
         >
           Reset All
         </Button>
+        <Button
+          size="xs"
+          fullWidth
+          onClick={() => openModal("deleteStorage")}
+          style={{ marginTop: "0.5rem" }}
+        >
+          Admin: Clear Local Storage
+        </Button>
       </Drawer>
 
       <Button
