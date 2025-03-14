@@ -173,6 +173,7 @@ function Sidebar() {
                           onChange={(value) => {
                             if (value) setCharacterColor(value);
                           }}
+                          searchable
                         />
                       </div>
                       <Button

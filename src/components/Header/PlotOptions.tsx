@@ -507,6 +507,7 @@ function PlotOptions() {
             onChange={(value) => {
               if (value) setStory(value);
             }}
+            searchable
           />
 
           <div style={{ position: "relative" }}>
@@ -539,6 +540,7 @@ function PlotOptions() {
               onChange={(value) => {
                 if (value) setYAxis(value);
               }}
+              searchable
             />
           </div>
 
