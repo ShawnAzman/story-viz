@@ -98,7 +98,7 @@ class ChapterAnswer(BaseModel):
 # Assign values to characters for the given attribute
 
 
-async def assign_character_attributes_async(llm, charData, attr, story_type):
+async def assign_character_attributes_async(llm, charData, attr, palette_info, story_type):
     char_llm = llm.with_structured_output(
         CharacterAttributes if story_type == "character" else ThemeAttributes)
 
@@ -164,8 +164,10 @@ async def assign_character_attributes_async(llm, charData, attr, story_type):
 
     # generate colors for each unique attribute value
     color_llm = llm.with_structured_output(ColorAssignments)
+    palette_prompt = f"""Choose colors based on this palette: {palette_info}."""
     color_prompt = f"""
             Assign a color for each unique value of the attribute: "{attr}".
+            {palette_prompt if palette_info else ""}
 
             Unique attribute values:
             {unique_attrs}
@@ -192,8 +194,8 @@ async def assign_character_attributes_async(llm, charData, attr, story_type):
 # Wrapper function for async character attribute function
 
 
-def assign_character_attributes(llm, charData, attr, story_type):
-    return asyncio.run(assign_character_attributes_async(llm, charData, attr, story_type))
+def assign_character_attributes(llm, charData, attr, palette_info, story_type):
+    return asyncio.run(assign_character_attributes_async(llm, charData, attr, palette_info, story_type))
 
 
 async def add_yaxis_data_async(llm, sceneData, y_axis, story_type):

@@ -37,11 +37,13 @@ function post(field: string, payload: any): Promise<any> {
 export async function getNewColors(
   data: any,
   color_desc: string,
+  palette_info: string,
   type: string
 ) {
   const payload = {
     data: data,
     color_desc: color_desc,
+    palette_info: palette_info,
     story_type: type,
   };
 

@@ -28,6 +28,7 @@ def main():
 
     # color
     color = "gender"
+    palette_info = "purples"
 
     # y-axis
     y_axis = "happiness"
@@ -42,13 +43,13 @@ def main():
     sceneData = json.dumps(sceneData)
 
     # TEST ONE: test assinging character attributes + colors
-    # char_attrs, color_assignments = assign_character_attributes(
-    #     llm, charData, color, "character")
+    char_attrs, color_assignments = assign_character_attributes(
+        llm, charData, color, palette_info, "character")
 
-    # print("Character attributes:")
-    # print(char_attrs)
-    # print("\nColor assignments:")
-    # print(color_assignments)
+    print("Character attributes:")
+    print(char_attrs)
+    print("\nColor assignments:")
+    print(color_assignments)
 
     # TEST TWO: test adding y-axis data
     # new_data = add_yaxis_data(llm, sceneData, y_axis, "character")
@@ -63,11 +64,11 @@ def main():
     # print(f"Answer: {answer}")
 
     # TEST FOUR: test finding chapter to answer question
-    question = "When does Nick fist meet Jordan?"
-    chapter, explanation = find_chapter(llm, chapterData, question)
-    print(f"Question: {question}")
-    print(f"Chapter: {chapter}")
-    print(f"Explanation: {explanation}")
+    # question = "When does Nick fist meet Jordan?"
+    # chapter, explanation = find_chapter(llm, chapterData, question)
+    # print(f"Question: {question}")
+    # print(f"Chapter: {chapter}")
+    # print(f"Explanation: {explanation}")
 
 
 if __name__ == "__main__":
