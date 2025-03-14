@@ -166,6 +166,9 @@ function PlotOptions() {
 
     "littlewomen-new",
     "littlewomen-new-themes",
+
+    "janeeyre-new",
+    "janeeyre-new-themes",
   ].sort();
 
   const storyOptionsDisplay = storyOptions.filter(
