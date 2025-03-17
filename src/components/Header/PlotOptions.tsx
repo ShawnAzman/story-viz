@@ -178,6 +178,9 @@ function PlotOptions() {
 
     "tenant-new",
     "tenant-new-themes",
+
+    "candide-new",
+    "candide-new-themes",
   ].sort();
 
   const storyOptionsDisplay = storyOptions.filter(
