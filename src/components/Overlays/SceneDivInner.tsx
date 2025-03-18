@@ -192,66 +192,68 @@ function SceneDivInner(props: any) {
             )}
             {scene &&
               scene.ratings &&
-              Object.keys(scene.ratings).map((rating) => {
-                const rating_val = (scene.ratings as Record<string, number>)[
-                  rating
-                ];
-                // convert to normalized percent
-                const rating_val_norm =
-                  rating === "sentiment"
-                    ? normalize(rating_val, -1, 1, 0, 1)
-                    : rating_val;
+              Object.keys(scene.ratings)
+                .sort()
+                .map((rating) => {
+                  const rating_val = (scene.ratings as Record<string, number>)[
+                    rating
+                  ];
+                  // convert to normalized percent
+                  const rating_val_norm =
+                    rating === "sentiment"
+                      ? normalize(rating_val, -1, 1, 0, 1)
+                      : rating_val;
 
-                return (
-                  <div key={rating} className="rating-outer">
-                    <div className={"rating-colorbar "}>
-                      <span className="min">
-                        {rating === "sentiment" ? -1 : 0}
-                      </span>
-                      <div className={"bar " + rating}>
-                        <div
-                          className="tip"
-                          style={{ left: `${rating_val_norm * 100}%` }}
-                        />
+                  return (
+                    <div key={rating} className="rating-outer">
+                      <div className={"rating-colorbar "}>
+                        <span className="min">
+                          {rating === "sentiment" ? -1 : 0}
+                        </span>
+                        <div className={"bar " + rating}>
+                          <div
+                            className="tip"
+                            style={{ left: `${rating_val_norm * 100}%` }}
+                          />
+                        </div>
+                        <span className="max">{1}</span>
                       </div>
-                      <span className="max">{1}</span>
-                    </div>
-                    <div
-                      className="rating-box"
-                      style={
-                        {
-                          // backgroundColor:
-                          //   rating === "sentiment"
-                          //     ? emotionColor(rating_val)
-                          //     : rating === "conflict"
-                          //     ? conflictColor(rating_val)
-                          //     : importanceColor(rating_val),
-                          // color:
-                          //   rating === "sentiment"
-                          //     ? textColor(rating_val, true)
-                          //     : textColor(rating_val, false),
+                      <div
+                        className="rating-box"
+                        style={
+                          {
+                            // backgroundColor:
+                            //   rating === "sentiment"
+                            //     ? emotionColor(rating_val)
+                            //     : rating === "conflict"
+                            //     ? conflictColor(rating_val)
+                            //     : importanceColor(rating_val),
+                            // color:
+                            //   rating === "sentiment"
+                            //     ? textColor(rating_val, true)
+                            //     : textColor(rating_val, false),
+                          }
                         }
-                      }
-                    >
-                      <b>{rating}:</b>{" "}
-                      {rating === "sentiment"
-                        ? rating_val < -0.2
-                          ? "neg"
-                          : rating_val > 0.2
-                          ? "pos"
-                          : "neutral"
-                        : rating_val < 0.4
-                        ? "low"
-                        : rating_val > 0.6
-                        ? "high"
-                        : "med"}{" "}
-                      <span style={{ opacity: 0.7 }}>
-                        ({rating_val !== undefined && rating_val.toFixed(2)})
-                      </span>
+                      >
+                        <b>{rating}:</b>{" "}
+                        {rating === "sentiment"
+                          ? rating_val < -0.2
+                            ? "neg"
+                            : rating_val > 0.2
+                            ? "pos"
+                            : "neutral"
+                          : rating_val < 0.4
+                          ? "low"
+                          : rating_val > 0.6
+                          ? "high"
+                          : "med"}{" "}
+                        <span style={{ opacity: 0.7 }}>
+                          ({rating_val !== undefined && rating_val.toFixed(2)})
+                        </span>
+                      </div>
                     </div>
-                  </div>
-                );
-              })}
+                  );
+                })}
           </div>
         </div>
       )}
