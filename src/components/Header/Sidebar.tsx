@@ -182,14 +182,14 @@ function Sidebar() {
                         gradient={{ from: "#9c85c0", to: "#dd8047", deg: 0 }}
                         title={
                           isBackendActive
-                            ? "Add custom color scheme"
+                            ? "Categorize by color"
                             : "Backend is not connected"
                         }
                         disabled={!isBackendActive}
                         fullWidth
                         onClick={() => openModal()}
                       >
-                        Add custom color scheme
+                        Categorize by color
                       </Button>
                     </div>
                     <Colorbar

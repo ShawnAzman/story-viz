@@ -343,9 +343,9 @@ function PromptModal() {
           : modalType === "deleteYAxis"
           ? "🗑️ Delete custom y-axis"
           : modalType === "addColor"
-          ? "✨ Add custom color scheme"
+          ? "✨ Categorize by color (add custom color scheme)"
           : modalType === "addY"
-          ? "✨ Add custom y-axis"
+          ? "✨ Rank by trait (add custom y-axis)"
           : "🗑️ Clear local storage"
       }
       centered

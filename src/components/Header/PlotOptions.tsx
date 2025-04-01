@@ -555,12 +555,12 @@ function PlotOptions() {
             variant="gradient"
             gradient={{ from: "#9c85c0", to: "#dd8047", deg: 0 }}
             title={
-              isBackendActive ? "Add custom y-axis" : "Backend is not connected"
+              isBackendActive ? "Rank by trait" : "Backend is not connected"
             }
             disabled={!isBackendActive}
             onClick={() => openModal()}
           >
-            Add custom y-axis
+            Rank by trait
           </Button>
 
           <Divider orientation="vertical" />
