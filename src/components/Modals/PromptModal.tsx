@@ -417,6 +417,7 @@ function PromptModal() {
             value={colorDesc}
             onChange={(e) => setColorDesc(e.currentTarget.value)}
             placeholder="Enter description here (e.g., gender, age, etc.)"
+            spellCheck={false}
           />
 
           <Textarea
@@ -427,6 +428,7 @@ function PromptModal() {
             onChange={(e) => setPaletteInfo(e.currentTarget.value)}
             placeholder="Enter preferences here (e.g., pastels, green for low / purple for high, etc.)"
             style={{ marginTop: "0.25rem" }}
+            spellCheck={false}
           />
 
           <Button
@@ -457,6 +459,7 @@ function PromptModal() {
             value={colorDesc}
             onChange={(e) => setColorDesc(e.currentTarget.value)}
             placeholder="Enter description here (e.g., conflict level, presence, etc.)"
+            spellCheck={false}
           />
 
           <Button

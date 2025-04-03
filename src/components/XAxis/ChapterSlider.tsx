@@ -3,6 +3,7 @@ import { dataStore } from "../../stores/dataStore";
 import { extractChapterName } from "../../utils/helpers";
 import InfoTooltip from "../Misc/InfoTooltip";
 import FindChapterPopover from "../Modals/FindChapterPopover";
+import { storyStore } from "../../stores/storyStore";
 
 function ChapterSlider() {
   const {
@@ -12,6 +13,7 @@ function ChapterSlider() {
     resetActiveChapters,
     chapterDivisions,
   } = dataStore();
+  const { demoMode } = storyStore();
 
   let first_chapter =
     chapterDivisions && chapterDivisions[0] ? chapterDivisions[0].chapter : "";
@@ -43,7 +45,7 @@ function ChapterSlider() {
       <FindChapterPopover />
       <div
         id="chapter-slider"
-        className={first_chapter && last_chapter ? "" : "hidden"}
+        className={!demoMode && first_chapter && last_chapter ? "" : "hidden"}
       >
         <span className="label">
           Filter by chapter

@@ -15,6 +15,7 @@ function FindChapterPopover() {
     setDetailView,
     setChapterHover,
     story,
+    demoMode,
   } = storyStore();
   const { chapter_data } = dataStore();
   const [question, setQuestion] = useState("");
@@ -76,6 +77,7 @@ function FindChapterPopover() {
       <Popover.Target>
         <Button
           className="find-chapter"
+          style={{ marginBottom: demoMode ? "1rem" : "" }}
           size="xs"
           variant="gradient"
           gradient={{ from: "#9c85c0", to: "#dd8047", deg: 0 }}
@@ -95,6 +97,7 @@ function FindChapterPopover() {
             setQuestion(e.currentTarget.value);
           }}
           placeholder={`Enter your question here (e.g., When does Nick first meet Jordan?)`}
+          spellCheck={false}
         />
         <Button
           fullWidth

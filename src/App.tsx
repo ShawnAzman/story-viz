@@ -37,6 +37,7 @@ function App() {
     chapterView,
     detailView,
     isUpdatingData,
+    demoMode,
   } = storyStore();
   const headerRef = useRef<HTMLDivElement>(null);
 
@@ -89,7 +90,7 @@ function App() {
     <AuthWrapper>
       <div id="app">
         <div id="header-container" ref={headerRef}>
-          <header>
+          <header style={{ alignItems: demoMode ? "center" : "" }}>
             <StoryInfo />
             <PlotOptions />
           </header>

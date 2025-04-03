@@ -44,6 +44,7 @@ function PlotOptions() {
     setAboutModalOpened,
     setLinkHover,
     setNetworkHover,
+    demoMode,
   } = storyStore();
 
   const {
@@ -183,9 +184,17 @@ function PlotOptions() {
     "candide-new-themes",
   ].sort();
 
-  const storyOptionsDisplay = storyOptions.filter(
+  const storyOptionsNoTheme = storyOptions.filter(
     (s) => !s.includes("-themes")
   );
+
+  // map storyOptionsDisplay to not include -new in the label
+  const storyOptionsDisplay = storyOptionsNoTheme.map((s) => {
+    return {
+      label: s.replace("-new", ""),
+      value: s,
+    };
+  });
 
   const myYAxisOptions = yAxisOptions.map((y) => {
     if (y === "character") {
@@ -423,7 +432,12 @@ function PlotOptions() {
   return (
     <div id="options">
       <div className="options-contain">
-        <div style={{ display: "flex", justifyContent: "space-between" }}>
+        <div
+          style={{
+            display: demoMode ? "none" : "flex",
+            justifyContent: "space-between",
+          }}
+        >
           <b>Visualization Settings</b>
           <b>
             <span

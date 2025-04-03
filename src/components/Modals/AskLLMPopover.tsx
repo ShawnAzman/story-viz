@@ -119,6 +119,7 @@ function AskLLMPopover(props: any) {
           placeholder={`Enter your question here (e.g., why is Nick the most important character in this ${
             chapterView ? "chapter" : "scene"
           }?)`}
+          spellCheck={false}
         />
         <Button
           fullWidth

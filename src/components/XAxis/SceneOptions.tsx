@@ -18,6 +18,7 @@ function SceneOptions() {
     scaleByLength,
     isUpdatingData,
     modalLoading,
+    demoMode,
   } = storyStore();
 
   const {
@@ -89,7 +90,7 @@ function SceneOptions() {
         className={first_chapter && last_chapter ? "slider" : ""}
       >
         <div className={"options-contain"}>
-          <span>
+          <span style={{ display: demoMode ? "none" : "" }}>
             <b>Chapters</b>
           </span>
           <div
@@ -109,7 +110,9 @@ function SceneOptions() {
               checked={showChapters}
               disabled={chapterView}
               onChange={(event) => setShowChapters(event.currentTarget.checked)}
-              className={first_chapter && last_chapter ? "" : "hidden"}
+              className={
+                !demoMode && first_chapter && last_chapter ? "" : "hidden"
+              }
             />
 
             <ChapterSlider />

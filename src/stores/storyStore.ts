@@ -2,6 +2,8 @@ import { create } from "zustand";
 
 // values that don't need to persist across sessions
 interface IStore {
+  demoMode: boolean;
+
   story: string;
   setStory: (val: string) => void;
   yAxis: string;
@@ -127,6 +129,7 @@ const initialState = {
 };
 
 export const storyStore = create<IStore>()((set) => ({
+  demoMode: false,
   story: "gatsby-new",
   chapterView: true,
   themeView: false,
