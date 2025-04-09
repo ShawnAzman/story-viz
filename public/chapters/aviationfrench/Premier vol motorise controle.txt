@@ -1,0 +1,30 @@
+LINE 1: Après la mise au point en vol de leur planeur entre 1900 et 1903, avec plus de
+LINE 2: 700 vols en 1902, les frères Wright ont expérimenté leur premier avion, le
+LINE 3: Flyer à moteur quatre cylindres Wright de 12 ch, dans les dunes de Kitty Hawk
+LINE 4: le 17 décembre 1903. Les deux frères pilotent à leur tour ; ils effectuent
+LINE 5: quatre vols, le dernier étant le plus long : Orville vole sur 284 mètres
+LINE 6: pendant 59 secondes.
+LINE 7: Ces vols sont généralement considérés comme les premiers vols motorisés et
+LINE 8: contrôlés d'un plus lourd que l'air. Leurs détracteurs, notamment les partisans
+LINE 9: d'Alberto Santos-Dumont et de Gabriel Voisin, leur reprochent d'avoir eu besoin
+LINE 10: d'un rail fixé au sol et d'une catapulte à contre poids pour le décollage, le
+LINE 11: Flyer étant dépourvu de roues ; la faible puissance du moteur ne permettait pas
+LINE 12: non plus le décollage par vent faible. Le souhait des inventeurs de protéger
+LINE 13: leur invention à partir des vols du Wright Flyer III en 1905, l'absence de
+LINE 14: démonstrations publiques et le faible nombre de témoins de leurs vols jouèrent
+LINE 15: un rôle négatif pour leur publicité. La maîtrise de la technique de vol des
+LINE 16: Wright a été reconnue plus tard lors des différentes démonstrations que les
+LINE 17: Wright effectuèrent en France, notamment à Auvours dans la Sarthe en 1908.
+LINE 18: Selon des recherches historiques, le premier vol motorisé aurait été réalisé
+LINE 19: par l'ingénieur américain d'origine allemande Gustav Weißkopf (ou Gustave
+LINE 20: Whitehead) en 1901. La journaliste américaine Stella Randolph a publié un
+LINE 21: ouvrage sur cet ingénieur en 1930 : Before the Wrights flew.
+LINE 22: Ferdinand Ferber effectue à Chalais-Meudon le 27 mai 1905 le premier vol d'un
+LINE 23: avion à moteur en Europe. Le capitaine Ferber, polytechnicien et officier
+LINE 24: d'artillerie, était en contact avec les frères Wright. Comme eux il avait
+LINE 25: commencé par apprendre à piloter les planeurs qu'il construisait, puis en 1903
+LINE 26: il avait motorisé et testé sous un portique son avion no 6 avant d'effectuer le
+LINE 27: premier vol libre. Comme le premier Flyer des frères Wright, son moteur n'était
+LINE 28: pas assez puissant pour assurer un décollage sans l'aide d'un dispositif de
+LINE 29: lancement. Pionnier oublié de l'histoire de l'aviation, il meurt en septembre
+LINE 30: 1909.

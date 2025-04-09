@@ -185,6 +185,9 @@ function PlotOptions() {
 
     "aviation-new",
     "aviation-new-themes",
+
+    "aviationfrench-new",
+    "aviationfrench-new-themes",
   ].sort();
 
   const storyOptionsNoTheme = storyOptions.filter(

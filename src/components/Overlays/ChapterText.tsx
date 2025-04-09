@@ -51,12 +51,21 @@ function ChapterText() {
   const loadChapterText = async (chapter: string) => {
     try {
       const story_formatted = onlyLetters(story.split("-")[0]);
-      let chapter_formatted = chapter.replace("?", "");
-      // also replace all '#'s with empty string and trim
-      chapter_formatted = chapter_formatted.replace(/#/g, "").trim();
+      let chapter_formatted = chapter;
+
+      // Normalize accents (e.g., é → e)
+      const normalized = chapter_formatted
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "");
+
+      // Remove problematic characters
+      const cleaned = normalized.replace(/[?#]/g, "").trim();
+
+      console.log("cleaned", cleaned);
+      console.log("fetching", `chapters/${story_formatted}/${cleaned}.txt`);
 
       const response = await fetch(
-        `chapters/${story_formatted}/${chapter_formatted}.txt`
+        `chapters/${story_formatted}/${cleaned}.txt`
       );
 
       if (!response.ok) {

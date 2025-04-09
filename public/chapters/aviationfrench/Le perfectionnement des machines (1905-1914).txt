@@ -1,0 +1,54 @@
+LINE 1: En 1905, Robert Esnault-Pelterie invente l'aileron en modifiant un avion de sa
+LINE 2: construction conçu d'après le Flyer des frères Wright. En 1906, il invente le
+LINE 3: moteur en étoile. En décembre, il dépose le brevet du manche à balai. En 1907,
+LINE 4: il est le premier à faire voler un avion monoplan à structure métallique, le
+LINE 5: Esnault-Pelterie REP1 dont il a assuré entièrement la conception et
+LINE 6: l'assemblage, y compris ceux du moteur.
+LINE 7: Entraînée au pilotage par Léon Delagrange sur son biplan Voisin frères, Thérèse
+LINE 8: Peltier effectue son premier vol solo en septembre 1908, devenant de ce fait la
+LINE 9: première femme pilote.
+LINE 10: Le 30 octobre 1908, au Camp de Mourmelon décolle Henri Farman au volant de son
+LINE 11: Voisin pour la réalisation du premier vol inter-villes, il parcourt 27 km et
+LINE 12: atteint à Reims après un vol de 17 min.
+LINE 13: Le 3 juillet 1909, au champ d'aviation de la Brayelle près de Douai, durant
+LINE 14: l'un des premiers meetings aériens Louis Blériot avec son monoplan vole 47 km
+LINE 15: en 1 h 7 ; et Louis Paulhan avec son biplan, bat le record de hauteur avec
+LINE 16: 150 mètres.
+LINE 17: Le 25 juillet 1909, Louis Blériot traverse la Manche aux commandes de son
+LINE 18: Blériot XI. L'évènement a un retentissement international historique. Le Daily
+LINE 19: Mail, organisateur du concours, titre : « L'Angleterre n'est plus une île ».
+LINE 20: Du 22 au 29 août 1909, est organisé le premier meeting aérien international :
+LINE 21: la prestigieuse « Grande Semaine d'aviation de la Champagne » de Reims – sur la
+LINE 22: commune de Bétheny, à l'emplacement de l'ancienne base aérienne 112
+LINE 23: Reims-Champagne – à laquelle participent tous les pilotes pionniers les plus
+LINE 24: célèbres de l'époque, dont Louis Blériot, Henri Farman, René Moineau, Louis
+LINE 25: Paulhan, Hubert Latham, Glenn Curtiss, Roger Sommer… Près d'un million de
+LINE 26: spectateurs y assistent.
+LINE 27: En 1909, est établie à Pau la première école d'aviation organisée au monde par
+LINE 28: les frères Wright, école suivie peu après par celle créée par Louis Blériot
+LINE 29: qu'il peut ouvrir grâce à sa traversée réussie de la Manche et dont il confia
+LINE 30: la direction à Henri Sallenave.
+LINE 31: En 1909, le 23 mai, Port-Aviation présente un aérodrome complet doté de toutes
+LINE 32: les installations et infrastructures nécessaires aux activités aériennes.
+LINE 33: Le 8 mars 1910, Élisa Deroche (1882-1919) devient la première femme brevetée au
+LINE 34: monde, avec le brevet de pilote no 36 décerné par l'Aéro-Club de France.
+LINE 35: Quelques mois plus tard, la Britannique Lilian Bland devient la première femme
+LINE 36: à concevoir et construire un avion.
+LINE 37: Le premier vol autonome d'un hydravion est réalisé par Henri Fabre qui décolle
+LINE 38: le 28 mars 1910 de l'étang de Berre, à Martigues en Provence, avec son
+LINE 39: hydro-aéroplane « Canard ». L'exploit est constaté par huissier.
+LINE 40: En Suisse, le premier avion décolle à Avenches le 10 mai 1910. Le monoplan,
+LINE 41: construit localement par René Grandjean, est piloté par Ernest Failloubaz.
+LINE 42: Le Coandă-1910 (en), premier vol autonome d'avion à réaction, conçu et piloté
+LINE 43: par l'ingénieur roumain Henri Coandă, et construit dans l'atelier de
+LINE 44: carrosserie de Joachim Caproni, a lieu en octobre 1910, au 2e salon
+LINE 45: international de l'aéronautique et de l'espace de Paris-Le Bourget : l'air est
+LINE 46: aspiré à l'avant par un compresseur, puis dirigé vers une chambre de combustion
+LINE 47: (une de chaque côté, à l'avant de l'appareil) qui fournit la poussée. Le
+LINE 48: compresseur est mis en mouvement par un moteur à piston classique et non par
+LINE 49: une turbine comme dans les réacteurs modernes.
+LINE 50: En 1911, le pilote Robert Grandseigne effectue le premier vol de nuit au-dessus
+LINE 51: de Paris.
+LINE 52: En 1912, Aurel Vlaicu vole à mille mètres avec le premier avion à carlingue
+LINE 53: métallique, le A Vlaicu III (en).
+LINE 54: En 1913, Adolphe Pégoud effectue les premiers loopings.

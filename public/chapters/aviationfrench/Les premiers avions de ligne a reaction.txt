@@ -1,0 +1,3 @@
+LINE 1: Le premier avion de ligne à réaction est le De Havilland Comet, mis en service
+LINE 2: en 1952. Le coût de la place au kilomètre chute de 30 %, ce qui permet de
+LINE 3: démocratiser le voyage en avion. Les vitesses de vols passent de 450 à 800 km/h.

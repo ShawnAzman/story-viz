@@ -1,0 +1,38 @@
+LINE 1: Dans les années précédant la Seconde Guerre mondiale, les recherches militaires
+LINE 2: s'intensifient et de nouvelles inventions révolutionnaires sont ébauchées,
+LINE 3: telles la turbine (au Royaume-Uni et surtout en Allemagne), la fusée (en
+LINE 4: Allemagne) ou le radar (au Royaume-Uni). La guerre d'Espagne sert de terrain
+LINE 5: d'expérimentation aux forces naissantes de la Luftwaffe. Un épisode connu de
+LINE 6: cette guerre est le bombardement de la ville de Guernica par les avions de la
+LINE 7: légion Condor, massacre figé par l'œuvre Guernica de Pablo Picasso.
+LINE 8: Seul un bombardier lourd manque à la panoplie de la Luftwaffe, qui possède par
+LINE 9: contre le meilleur chasseur du moment : le Messerschmitt Bf 109.
+LINE 10: Le Japon, quant à lui, aligne à partir de 1939 ses célèbres Mitsubishi A6M
+LINE 11: « Zero », aux performances remarquables, qui domineront les combats de la
+LINE 12: guerre du Pacifique pendant la première moitié de la guerre. Elle utilisera son
+LINE 13: aviation embarquée pour détruire la flotte américaine basée à Pearl Harbor
+LINE 14: (attaque de Pearl Harbor du 7 décembre 1941), ce qui déclenche l'entrée en
+LINE 15: guerre des États-Unis, et de ses North American P-51 Mustang ou Chance Vought
+LINE 16: F4U Corsair .
+LINE 17: En Allemagne, en 1938, l'hélicoptère Focke-Wulf Fw 61 du Pr Henrich Focke,
+LINE 18: piloté par l'aviatrice Hanna Reitsch, évolue à l'intérieur de la
+LINE 19: Deutschlandhalle (palais des fêtes) de Berlin. Dans cet appareil qui n'avait
+LINE 20: qu'un poste de pilotage ouvert, la motorisation consistait en un moteur 160 ch
+LINE 21: en étoile à sept cylindres Bramo 314 E non caréné, fixé dans la pointe avant du
+LINE 22: fuselage entraînant deux rotors tripales contrarotatifs disposés à l'extrémité
+LINE 23: de poutres latérales en tubes d'acier soudés, disposés symétriquement par
+LINE 24: rapport à l'axe longitudinal. L'arrière de l'appareil conservait une dérive
+LINE 25: classique au-dessus de laquelle était fixé un plan horizontal en T faisant
+LINE 26: office de gouverne de profondeur. À l'avant, une petite hélice sert uniquement
+LINE 27: au refroidissement du moteur et non pas à la propulsion. Construit en secret,
+LINE 28: cet appareil a été connu par ses records : montée à 2 439 mètres, vitesse
+LINE 29: dépassant 120 km/h, 230 km en ligne droite, vol vers l'arrière à 30 km/h,
+LINE 30: descente en Autorotation sous le seul freinage des hélices sustentatrices
+LINE 31: débrayées.
+LINE 32: Le Royaume-Uni possède des Hawker Hurricane lents mais bien armés, puis des
+LINE 33: Supermarine Spitfire plus rapides, capables de résister aux Messerschmitt Bf
+LINE 34: 109. Elle peut compter sur ses radars côtiers et sur son statut d'île, à
+LINE 35: distance respectable du continent.
+LINE 36: Quant à la France, son plus remarquable chasseur est sans nul doute le
+LINE 37: Dewoitine D.520 à moteur V12 Hispano-Suiza.
+LINE 38: ## La Seconde Guerre mondiale (1939-1945)

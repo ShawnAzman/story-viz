@@ -1,0 +1,15 @@
+LINE 1: La fin de la Deuxième Guerre mondiale a été l'occasion pour les constructeurs,
+LINE 2: en particulier américains, de recycler dans le domaine de l'aviation
+LINE 3: commerciale les avancées techniques réalisées au titre de l'effort de guerre.
+LINE 4: Des avions de transport militaires, comme les Douglas C-47 ou C-54, ont
+LINE 5: rapidement trouvé des débouchés civils. Parallèlement, un constructeur comme
+LINE 6: Boeing a pu mettre à profit les chaines de production de ses bombardiers lourds
+LINE 7: B-29 pour lancer des appareils commerciaux aux dimensions et aux performances
+LINE 8: alors inédites.
+LINE 9: Cette disponibilité d'avions en grand nombre et de pilotes démobilisés
+LINE 10: accompagna le renouveau économique de l'après-guerre par la création et la
+LINE 11: remise en fonctionnement de nombreuses lignes aériennes.
+LINE 12: Cette période marqua l'apogée de l'aviation commerciale à pistons, des
+LINE 13: appareils aussi prestigieux que le Lockheed Constellation voyant leur carrière
+LINE 14: abrégée dès la fin des années 1950 avec l'arrivée des premiers avions de ligne
+LINE 15: à turbopropulseurs puis à réaction.

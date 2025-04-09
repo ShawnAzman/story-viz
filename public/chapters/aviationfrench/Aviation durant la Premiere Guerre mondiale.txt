@@ -1,0 +1,81 @@
+LINE 1: Dans les années qui précèdent la Première Guerre mondiale, les tensions
+LINE 2: grandissantes en Europe incitent les gouvernements à s'intéresser à l'aviation
+LINE 3: en tant qu'arme de guerre d'où l'organisation par la France du fameux concours
+LINE 4: d'aéroplanes militaires de Reims (octobre et novembre 1911), premier concours
+LINE 5: de ce type de l'histoire mondiale de l'aviation. Les différents constructeurs
+LINE 6: français et britanniques notamment, se livrent à une course contre la montre
+LINE 7: pour tenter d'obtenir des commandes à l'export.
+LINE 8: Léopold Trescartes, titulaire du brevet civil de l'Aéroclub de France no 842
+LINE 9: délivré le 16 avril 1912, effectue le 7 septembre 1912 le premier vol au-dessus
+LINE 10: de Porto (Portugal) à bord d'un biplan de type MF-4 fabriqué par Maurice
+LINE 11: Farman. Cet avion, officiellement acheté par un journal de Porto et dont les
+LINE 12: exhibitions servent, pour le grand public, à financer la construction d'une
+LINE 13: crèche, est en réalité un modèle destiné à convaincre le gouvernement portugais
+LINE 14: d'acheter des avions français dans le cadre de la création d'une force
+LINE 15: aérienne. Après de nombreuses démonstrations, en présence notamment du ministre
+LINE 16: de la guerre portugais, le choix des autorités portugaises se portera
+LINE 17: finalement sur un appareil britannique de marque Avro, type Avro 500. Le MF-4
+LINE 18: de démonstration sera ultérieurement offert au gouvernement portugais et sera
+LINE 19: utilisé au sein du bataillon Aerosteiros puis à l'école militaire
+LINE 20: d'aéronautique de Vila Nova da Rainha.
+LINE 21: Avions et pilotes pionniers (volontaires détachés d'autres unités qui gardaient
+LINE 22: leur uniforme d'origine, surtout recrutés dans la cavalerie) sont
+LINE 23: réquisitionnés pour des missions de reconnaissance. Cibles des deux camps au
+LINE 24: sol, ils sont décimés. Les grandes nations se dotent très vite d'une aviation
+LINE 25: militaire où les avions se spécialisent : reconnaissance, chasseurs,
+LINE 26: bombardiers.
+LINE 27: Une course aux records est engagée pour prendre l'avantage sur l'ennemi,
+LINE 28: l'armement étant amélioré avec l'apparition des premières mitrailleuses
+LINE 29: synchronisées. Le parachute fait son apparition, mais est seulement utilisé par
+LINE 30: les pilotes de dirigeables, les avions volant trop bas pour qu'il soit
+LINE 31: efficace. Au sol, on construit des aérodromes, et l'avion est fabriqué en
+LINE 32: séries.
+LINE 33: Le 5 octobre 1914, tout près de Reims, se déroule au-dessus du point de
+LINE 34: jonction des communes de Jonchery-sur-Vesle, de Prouilly et de Muizon, le
+LINE 35: premier combat aérien de l'histoire mondiale de l'aviation militaire, avec un
+LINE 36: avion abattu. Le combat est remporté par le pilote Joseph Frantz et le
+LINE 37: mécanicien Louis Quenault de l'escadrille V 24 sur un Voisin III, contre le
+LINE 38: sergent Wilhelm Schlichting (pilote) et l'oberleutnant Fritz von Zagen
+LINE 39: (observateur) sur un Aviatik allemand. À la suite, les duels aériens se
+LINE 40: multiplient. Si les premiers combats sont très rares et dangereux (fusils
+LINE 41: embarqués, qui nécessitent une dextérité extrême), le développement des
+LINE 42: mitrailleuses synchronisées (faisant suite aux hélices blindées sur le passage
+LINE 43: des balles, invention de l'aviateur français Roland Garros) améliore
+LINE 44: l'efficacité des batailles, notamment parce que ce dispositif permettait de
+LINE 45: tirer les balles d'une mitraillette à travers les hélices des avions.
+LINE 46: Contrairement à l'horreur des tranchées (boue, bombardements constants…) la
+LINE 47: guerre aérienne est vue comme une guerre propre (si tant est que cela soit
+LINE 48: possible). Dans les représentations des pilotes comme des civils et de
+LINE 49: l'infanterie, qui suivent avec assiduité la guerre du ciel, l'aviation possède
+LINE 50: un côté noble, chevaleresque ; Guynemer refusera d'abattre Ernst Udet car sa
+LINE 51: mitrailleuse s'était enrayée. Il y a une grande compétition entre les « As »,
+LINE 52: tant entre ennemis qu'au sein d'un même camp.
+LINE 53: Les grandes figures de cette époque sont les Français Guynemer et René Fonck
+LINE 54: (plus grand As français et de la guerre selon la méthode de calcul), ainsi que
+LINE 55: les Allemands Manfred von Richthofen (surnommé Le Baron Rouge), et Ernst Udet.
+LINE 56: Le soir du 10 juin 1916 a lieu le premier combat aéronaval de l'Histoire, en
+LINE 57: Afrique équatoriale. Un hydravion de fabrication britannique de type Short 184,
+LINE 58: piloté par les lieutenants belges Behaeghe et Collignon, bombarde avec succès
+LINE 59: la canonnière allemande Graf von Götzen dans le port de Kigoma (actuelle
+LINE 60: Tanzanie) sur le lac Tanganyika à l'aide d'une de ses deux bombes de 65 livres
+LINE 61: qui l'atteint au gaillard d'arrière mettant hors d'état sa gouverne. Le navire
+LINE 62: est ainsi neutralisé ce qui brise le verrou allemand sur le lac, entre le Congo
+LINE 63: belge et l'Est Africain allemand qui avait été mis en place deux ans plus tôt.
+LINE 64: Les canonniers allemands n'ont pu riposter contre cette attaque aérienne car
+LINE 65: leurs pièces d'artillerie, prévues pour des cibles côtières ou navales (nous
+LINE 66: n'étions qu'au début de l'aviation), ne s'élevaient pas selon un angle
+LINE 67: suffisant pour menacer des avions (considérés par les Allemands comme
+LINE 68: inexistants en Afrique équatoriale). L'hydravion rejoignit sa base néanmoins
+LINE 69: avec 20 atteintes de balles de mitrailleuses tirées de Kigoma et un flotteur
+LINE 70: percé.
+LINE 71: À la fin de la guerre, il y a :
+LINE 72: Marie Marvingt invente en 1914 l'aviation sanitaire.
+LINE 73: ## L'entre-deux-guerres (1918-1939)
+LINE 74: L'aviation doit trouver d'autres voies que l'utilisation militaire. De nombreux
+LINE 75: pilotes se tournent vers les exhibitions, l'acrobatie, les tentatives de
+LINE 76: records. Les constructeurs cherchent à trouver de nouvelles exploitations
+LINE 77: commerciales : premières lignes de passagers, transport du courrier, comme en
+LINE 78: France les usines Latécoère qui créent un service postal en direction du
+LINE 79: Sénégal, via l'Espagne et le Maroc, utilisant d'abord les anciens appareils
+LINE 80: militaires, puis les nouveaux modèles construits par l'entreprise.
+LINE 81: ### L'époque des « grandes premières »

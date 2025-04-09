@@ -1,0 +1,8 @@
+LINE 1: Le premier être humain ayant volé en contrôlant la trajectoire de sa machine
+LINE 2: est l'inventeur allemand Otto Lilienthal, qui a effectué entre 1891 et 1896
+LINE 3: deux mille vols planés depuis une colline artificielle à proximité de Berlin
+LINE 4: (invention à l'origine des planeur, deltaplane, parapente, et planeur
+LINE 5: ultra-léger motorisé modernes).
+LINE 6: Les premiers vols sur une machine volante pilotée par gouvernes agissant sur
+LINE 7: les trois axes (tangage, roulis, lacet) ont été réalisés par les frères Wright
+LINE 8: sur leur planeur Wright de 1902.

@@ -1,0 +1,97 @@
+LINE 1: L'être humain a probablement très tôt rêvé de voler en imitant entre autres le
+LINE 2: vol des oiseaux. Des légendes de la mythologie grecque, dont celles de Dédale
+LINE 3: et Icare, ou du dieu Zeus (métamorphosé en cygne ou en aigle), ou de Pégase, ou
+LINE 4: de nombreux récits apocryphes revendiquent des tentatives de vol
+LINE 5: d'ornithoptères bioniques harnachés d'ailes, ou de celles des tapis volant de
+LINE 6: la mythologie perse. Le cerf-volant chinois remonte au IVe siècle av. J.-C., et
+LINE 7: les égyptiens de l'antiquité égyptienne ont fabriqué des jouets ou maquettes en
+LINE 8: bois léger de balsa ayant la capacité de s'élever et de planer dans les airs.
+LINE 9: On attribue à Archytas de Tarente l'invention d'une colombe en bois capable de
+LINE 10: voler,.
+LINE 11: Le jeu-jouet bambou-coptère, des années 320, de la dynastie Jin chinoise, est
+LINE 12: une des plus anciennes formes connues de rotor-pale-hélice-aile d'aéronef de
+LINE 13: l'histoire de l'aviation (arrivé en Europe au XVe siècle) et la lanterne
+LINE 14: céleste, du IIIe siècle, une des plus anciennes formes d'aéronef. Au IXe siècle
+LINE 15: en Andalousie, le savant ingénieur berbère Abbas ibn Firnas aurait fabriqué
+LINE 16: deux ailes garnies de plumes qu'il aurait attachées à son corps et, se lançant
+LINE 17: d'une hauteur, aurait plané sur une distance notable avant d'atterrir
+LINE 18: brutalement et de se casser le dos. Trois siècles plus tard, le moine
+LINE 19: bénédictin anglais Eilmer de Malmesbury, sans doute inspiré par la légende
+LINE 20: d'Icare et peut-être par un récit sur Abbas ibn Firnas, aurait tenté de voler
+LINE 21: au moyen d'ailes mécaniques.
+LINE 22: Vers les années 1480, Léonard de Vinci étudie sans succès de nombreuses
+LINE 23: premières formes de « machines volantes visionnaires » (ornithoptères de
+LINE 24: Léonard de Vinci, parachute, et vis aérienne, inspirés de son Codex sur le vol
+LINE 25: des oiseaux). En 1655, Robert Hooke, mathématicien, physicien et inventeur
+LINE 26: anglais, conclut à l'impossibilité du vol humain sans l'assistance de la
+LINE 27: puissance d'un « moteur artificiel ». Hezârfen Ahmed Çelebi (1609-1640) est un
+LINE 28: inventeur ottoman considéré comme l'un des pionniers de l'aviation pour avoir
+LINE 29: plané depuis la Tour de Galata à Istanbul.
+LINE 30: Dans un de ses premiers ouvrages, très certainement inspiré par le vol du
+LINE 31: marquis de Bacqueville en 1742 à Paris, au-dessus de la Seine, le philosophe
+LINE 32: Jean-Jacques Rousseau exprime clairement la possibilité du voyage aérien
+LINE 33: En 1783, les frères Montgolfier grâce à leur montgolfière (ballon à air chaud)
+LINE 34: et Jacques Charles grâce au ballon à gaz permettent à l'être humain de s'élever
+LINE 35: dans l'atmosphère, sans contrôle de la trajectoire, suivit par l'invention des
+LINE 36: ballons dirigeables. La solution de viendra de l'étude d'un jouet, le
+LINE 37: cerf-volant, connu en Orient depuis l'Antiquité mais qui ne sera introduit en
+LINE 38: Europe qu'au XIIIe siècle. A l'opposé de leurs travaux, en 1781, Karl Friedrich
+LINE 39: Meerwein avait expérimenté à Giessen un ornithoptère,.
+LINE 40: En 1801, l'officier et inventeur français André Guillaume Resnier de Goué
+LINE 41: confectionna des ailes en fil de fer recouvert de taffetas ciré, avec
+LINE 42: lesquelles il effectua une série de tentatives à Angoulême. Son premier essai
+LINE 43: de « vol ramé » n'aboutit qu'à dévaler une pente rocheuse. Mais à sa deuxième
+LINE 44: tentative, sautant d'un pont haut de 5 mètres, il plana sur 50 mètres avant de
+LINE 45: plonger dans la Charente. Son troisième et dernier essai réussit. Sautant des
+LINE 46: remparts de la ville, il parcourut 300 mètres, survola la Charente et ne se
+LINE 47: cassa qu'une jambe à l'arrivée. Il avait 72 ans. Guillaume Resnier est sans
+LINE 48: doute un des premiers hommes, après le Turc Hezârfen Ahmed Çelebi, qui aient
+LINE 49: réellement « volé », au sens de « planer ».
+LINE 50: Le Britannique George Cayley (1773-1857) met en évidence quatre forces
+LINE 51: aérodynamiques du vol, la poussée, la traînée, le poids et la
+LINE 52: portance-décrochage. Il comprit également qu'il était inutile de reproduire le
+LINE 53: vol battu des oiseaux et que les ailes devaient être fixes ; il prévit la
+LINE 54: nécessité d'un empennage pour stabiliser le vol. S'inspirant des travaux des
+LINE 55: Français Claude Launoy, il construit un hélicoptère en 1796 puis, en 1808, un
+LINE 56: « ornithoptère » à l'échelle humaine et, en 1809, un planeur qui volera sans
+LINE 57: passager.
+LINE 58: William Samuel Henson et John Stringfellow, reprenant les travaux de Cayley,
+LINE 59: font voler un modèle réduit d'aéroplane à vapeur. Néanmoins, les moteurs
+LINE 60: puissants pour les appareils à taille réelle sont beaucoup trop lourds pour
+LINE 61: leur permettre de décoller. En 1837, Isidore Didion en conclusion d'une étude
+LINE 62: théorique fine affirma que « La navigation aérienne n'aura de succès que si
+LINE 63: l'on trouve un moteur capable de produire une force motrice dont le rapport
+LINE 64: avec le poids de la machine qu'elle exigerait pour être soutenue, soit plus
+LINE 65: grand que les machines à vapeur actuelles, ou que chez l'humain ou la plupart
+LINE 66: des animaux ». Les progrès vont donc d'abord passer par les planeurs et par
+LINE 67: l'étude de l'aérodynamique.
+LINE 68: Entre 1857 et 1868, le Français Jean-Marie Le Bris essaie successivement deux
+LINE 69: planeurs de son invention, d'abord depuis les collines de la baie de Douarnenez
+LINE 70: (Finistère), puis sur la hauteur du Polygone de la Marine, près de Brest
+LINE 71: (Finistère), reprenant ainsi en France les travaux des pionniers britanniques
+LINE 72: de la décennie précédente. En 1863, le terme « aviation » est inventé par
+LINE 73: Gabriel de La Landelle. La même année Charles de Louvrié dépose le premier
+LINE 74: brevet pour un appareil volant à moteur à réaction,.
+LINE 75: Le Britannique Francis Herbert Wenham (en), en 1871, construit ce qui est
+LINE 76: probablement la première soufflerie, qui va permettre d'expérimenter des
+LINE 77: maquettes.
+LINE 78: Le français Louis Mouillard s'inspire de l'aile d'oiseau pour concevoir des
+LINE 79: planeurs dont la voilure est courbée. Il propose le gauchissement des ailes.
+LINE 80: Entre 1857 et 1877, les Français Félix et Louis du Temple essaient des modèles
+LINE 81: réduits à moteur à ressort, en les aidant d'un plan incliné, puis peut-être un
+LINE 82: engin, muni d'un moteur à vapeur, monté par un matelot.
+LINE 83: En 1871, Alphonse Pénaud fait voler avec succès son modèle réduit « aéroplane
+LINE 84: automoteur », un monoplan à empennage, configuration devenue maintenant la plus
+LINE 85: répandue. La même année, durant le siège de Paris, un réseau de communication
+LINE 86: par ballon monté est organisé. Associés à Nadar, deux ateliers sont fondés :
+LINE 87: celui des frères Louis et Eugène Godard à la gare d'Austerlitz, et celui de
+LINE 88: Camille Dartois et Gabriel Yon à la gare du Nord. Cette première fabrication en
+LINE 89: série d'aéronefs, marque la naissance officielle de l'industrie aéronautique.
+LINE 90: Quelques années plus tard, Eugène Godard, Louis II Godard et Gabriel Yon
+LINE 91: fondent les Grands Ateliers Aérostatiques du Champ-de-Mars, la plus importante
+LINE 92: manufacture aéronautique, rue Desaix à Paris.
+LINE 93: Les essais de planeurs se succèdent, et s'y prêtent tour à tour l'Allemand Otto
+LINE 94: Lilienthal, le Britannique Percy Pilcher, les Américains John Joseph Montgomery
+LINE 95: et Maloney, et les Français Ferdinand Ferber, Maurice Colliex ainsi que les
+LINE 96: frères Voisin.
+LINE 97: ## Les pionniers du « plus lourd que l'air »
