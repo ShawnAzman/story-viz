@@ -12,7 +12,7 @@
 
 ## setup instructions
 
-### env/secrets file
+### secrets file
 
 - duplicate `secrets_example.json` and rename to `secrets.json`
   - fill in api keys
