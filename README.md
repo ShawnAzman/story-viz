@@ -2,19 +2,18 @@
 
 <img width="2960" height="1064" alt="image" src="https://github.com/user-attachments/assets/faea75e3-5fed-4749-ac58-9841599afcc0" />
 
-* Paper: [https://arxiv.org/abs/2508.06772](https://arxiv.org/abs/2508.06772)
-* Demo: [https://catherinesyeh.github.io/story-demo/](https://catherinesyeh.github.io/story-demo/)
-* Docs: [https://catherinesyeh.github.io/story-docs/](https://catherinesyeh.github.io/story-docs/)
+- Paper: [https://arxiv.org/abs/2508.06772](https://arxiv.org/abs/2508.06772)
+- Demo: [https://catherinesyeh.github.io/story-demo/](https://catherinesyeh.github.io/story-demo/)
+- Docs: [https://catherinesyeh.github.io/story-docs/](https://catherinesyeh.github.io/story-docs/)
 
 ## abstract
+
 > Analyzing literature involves tracking interactions between characters, locations, and themes. Visualization has the potential to facilitate the mapping and analysis of these complex relationships, but capturing structured information from unstructured story data remains a challenge. As large language models (LLMs) continue to advance, we see an opportunity to use their text processing and analysis capabilities to augment and reimagine existing storyline visualization techniques. Toward this goal, we introduce an LLM-driven data parsing pipeline that automatically extracts relevant narrative information from novels and scripts. We then apply this pipeline to create Story Ribbons, an interactive visualization system that helps novice and expert literary analysts explore detailed character and theme trajectories at multiple narrative levels. Through pipeline evaluations and user studies with Story Ribbons on 36 literary works, we demonstrate the potential of LLMs to streamline narrative visualization creation and reveal new insights about familiar stories. We also describe current limitations of AI-based systems, and interaction motifs designed to address these issues.
 
 ## setup instructions
 
 ### env/secrets file
 
-- duplicate `.env_example` and rename to `.env`
-  - fill in env variables
 - duplicate `secrets_example.json` and rename to `secrets.json`
   - fill in api keys
 
@@ -140,7 +139,9 @@ const storyOptions = [
 11. save your changes and run the frontend again at [`localhost:5200`](http://localhost:5200) (see more detailed instructions above). you should be able to select your story from the dropdown menu and see your visualization results!
 
 ## citation
+
 If you find this work helpful, please consider citing our paper:
+
 ```
 @article{yeh2025story,
   title={Story Ribbons: Reimagining Storyline Visualizations with Large Language Models},
@@ -150,4 +151,5 @@ If you find this work helpful, please consider citing our paper:
   publisher={IEEE}
 }
 ```
+
 Thank you for checking out Story Ribbons!

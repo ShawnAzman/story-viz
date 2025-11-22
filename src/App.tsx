@@ -9,7 +9,6 @@ import { positionStore } from "./stores/positionStore";
 import { location_height, scene_overlay_width } from "./utils/consts";
 import SceneDiv from "./components/Overlays/SceneDiv";
 import SceneOptions from "./components/XAxis/SceneOptions";
-import AuthWrapper from "./components/Misc/AuthWrapper";
 import ChapterSidebar from "./components/Overlays/ChapterSidebar";
 import StoryInfo from "./components/Header/StoryInfo";
 import ClickMsg from "./components/Overlays/ClickMsg";
@@ -87,7 +86,7 @@ function App() {
     if (scene_data) handleResize();
   }, [scene_data, showLegend, headerRef.current]);
   return (
-    <AuthWrapper>
+    <>
       <div id="app">
         <div id="header-container" ref={headerRef}>
           <header style={{ alignItems: demoMode ? "center" : "" }}>
@@ -141,7 +140,7 @@ function App() {
 
       <PromptModal />
       <AboutModal />
-    </AuthWrapper>
+    </>
   );
 }
 

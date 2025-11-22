@@ -1,6 +1,0 @@
-LINE 1: Le premier essai d'un monoplan à réacteur, conçu et piloté par Henri Coandă,
-LINE 2: eut lieu en octobre 1910, au Bourget, en France, mais resta sans lendemain et,
-LINE 3: après trois décennies, de nouveaux moteurs à réactions furent mis au point
-LINE 4: indépendamment par deux autres ingénieurs : l'anglais Frank Whittle et
-LINE 5: l'allemand Hans von Ohain.
-LINE 6: ## L'aviation moderne - seconde moitié du XXe siècle

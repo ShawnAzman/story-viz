@@ -58,43 +58,23 @@ function PlotOptions() {
   } = dataStore();
   const { plotHeight } = positionStore();
   const storyOptions = [
-    // "gatsby",
     "gatsby-new",
     "gatsby-new-themes",
 
-    // "alice",
     "alice-new",
     "alice-new-themes",
 
-    // "wizard",
     "wizard-new",
     "wizard-new-themes",
 
-    // "aladdin",
-
-    // "pride",
     "pride-new",
     "pride-new-themes",
 
-    // "romeo",
     "romeo-new",
     "romeo-new-themes",
 
-    // "yourname",
-    // "yourname-new",
-    // "yourname-new-themes",
-
-    // "sound",
-
-    // "anne",
     "anne-new",
     "anne-new-themes",
-
-    // "coco",
-
-    // "mendips",
-    "mendips-new",
-    "mendips-new-themes",
 
     "frankenstein-new",
     "frankenstein-new-themes",
@@ -107,9 +87,6 @@ function PlotOptions() {
 
     "whispers-new",
     "whispers-new-themes",
-
-    "victoria-new",
-    "victoria-new-themes",
 
     "starlight-new",
     "starlight-new-themes",
@@ -129,41 +106,14 @@ function PlotOptions() {
     "hamlet-new",
     "hamlet-new-themes",
 
-    "odyssey-new",
-    "odyssey-new-themes",
-
-    "donquixote-new",
-    "donquixote-new-themes",
-
-    "faust-new",
-    "faust-new-themes",
-
     "war-new",
     "war-new-themes",
-
-    "ulysses-new",
-    "ulysses-new-themes",
 
     "trial-new",
     "trial-new-themes",
 
     "metamorphosis-new",
     "metamorphosis-new-themes",
-
-    "iliad-new",
-    "iliad-new-themes",
-
-    "redchamber-new",
-    "redchamber-new-themes",
-
-    "artofwar-new",
-    "artofwar-new-themes",
-
-    "genji-new",
-    "genji-new-themes",
-
-    "marrow-new",
-    "marrow-new-themes",
 
     "littlewomen-new",
     "littlewomen-new-themes",
@@ -173,21 +123,6 @@ function PlotOptions() {
 
     "pygmalion-new",
     "pygmalion-new-themes",
-
-    "school-new",
-    "school-new-themes",
-
-    "tenant-new",
-    "tenant-new-themes",
-
-    "candide-new",
-    "candide-new-themes",
-
-    "aviation-new",
-    "aviation-new-themes",
-
-    "aviationfrench-new",
-    "aviationfrench-new-themes",
   ].sort();
 
   const storyOptionsNoTheme = storyOptions.filter(
