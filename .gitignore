@@ -13,4 +13,5 @@ scripts/
 json/
 csv/
 notebooks/chapters/
-notebooks/quotes/.envrc
+notebooks/quotes/
+.envrc
