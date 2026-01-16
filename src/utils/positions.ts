@@ -158,7 +158,7 @@ const characterPos = (
     let foundLine = false;
 
     // Iterate over each existing y-line
-    for (let line of yLines) {
+    for (const line of yLines) {
       const canShareLine = line.characters.every(
         (placedCharacter: CharacterScene) => {
           const firstSceneOfCharacter = Math.min(...character.scenes);
@@ -336,7 +336,7 @@ const characterPos = (
       return character.scenes.map((scene) => {
         const cur_scene = scene_data[scene];
         // console.log("cur_scene", cur_scene);
-        let char_rating = cur_scene.characters.find(
+        const char_rating = cur_scene.characters.find(
           (c) => c.name === character.character
         )?.[axis] as number;
         // if char_rating is NaN, set to 0
@@ -413,7 +413,7 @@ const characterSquares = (
 
 // track max_y at each x value corresponding to a scene using characterPos
 // get max y value for each scene by using characterScenes to filter characterPos
-let max_y_per_scene = (
+const max_y_per_scene = (
   scenes: string[],
   characterPos: Position[][],
   initialScenePos: Position[]
@@ -485,7 +485,7 @@ const findAdjustments = (
 ) => {
   // console.log(character);
   // remove first and last points from coords, save as new array
-  let adjustments = [] as number[];
+  const adjustments = [] as number[];
   scenes.map((scene, i) => {
     const sceneChar = sceneCharacters[scene].characters;
     const charCoords = sceneChar.map((char) => {

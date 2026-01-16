@@ -130,7 +130,7 @@ function CharacterNetwork(props: any) {
       // get all characters in the story up to this point
       // const prevScenes = chapter_data.slice(0, chapter_data.indexOf(cur_scene));
 
-      let prevChars = [
+      const prevChars = [
         ...prevScenes.flatMap((s) => s.characters.map((c) => ({ ...c }))),
       ];
 
@@ -433,7 +433,7 @@ function CharacterNetwork(props: any) {
     const svg = d3.select(svgRef.current);
 
     // find all nodes connected to the hovered character
-    let connectedNodes = new Set();
+    const connectedNodes = new Set();
     if (characterHover !== "") {
       const links = svg.selectAll("line").data();
       links.forEach((link: any) => {

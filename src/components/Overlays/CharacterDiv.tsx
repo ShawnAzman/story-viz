@@ -41,8 +41,8 @@ function CharacterDiv() {
       }
       event.preventDefault();
       event.stopPropagation();
-      let curX = event.clientX;
-      let curY = event.clientY;
+      const curX = event.clientX;
+      const curY = event.clientY;
       const overlay = document.getElementById("character-info") as HTMLElement;
       const coords = overlay.getBoundingClientRect();
 

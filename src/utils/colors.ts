@@ -96,7 +96,7 @@ export const getColor = (
   const characters = sortedCharacters.map((d) => d.character);
   const charIndex = characters.indexOf(character);
   const colorIndex = charIndex / (sortedCharacters.length - 1);
-  let finalColor = chroma(allColors(colorIndex)).css();
+  const finalColor = chroma(allColors(colorIndex)).css();
 
   return finalColor;
 };

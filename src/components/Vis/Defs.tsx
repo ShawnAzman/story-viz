@@ -304,7 +304,7 @@ function Defs() {
             );
           });
         })}
-        {Object.keys(color_dict).map((scale, _) => {
+        {Object.keys(color_dict).map((scale) => {
           const color_incs = (color_dict as Record<string, number[]>)[scale];
           const d3scale =
             scale === "sentiment"

@@ -158,7 +158,7 @@ function PlotOptions() {
     const sceneStorageKey = `sceneData-${story}`;
 
     // Retrieve character data
-    let characterData = await localforage
+    const characterData = await localforage
       .getItem(localStorageKey)
       .catch((error) => {
         console.error("Error loading character data", error);
@@ -171,7 +171,7 @@ function PlotOptions() {
     }
 
     // Retrieve scene data
-    let sceneData = await localforage
+    const sceneData = await localforage
       .getItem(sceneStorageKey)
       .catch((error) => {
         console.error("Error loading scene data", error);
@@ -267,7 +267,7 @@ function PlotOptions() {
 
       // Reset characterColor if it's not a valid option
       const localStorageKey = `colorDict-${story}`;
-      let stored_colors = await localforage
+      const stored_colors = await localforage
         .getItem(localStorageKey)
         .catch((error) => {
           console.error("Error loading colors", error);
@@ -288,7 +288,7 @@ function PlotOptions() {
 
       // Reset y-axis if it's not a valid option
       const yAxisKey = `yAxis-${story}`;
-      let stored_yAxis = await localforage.getItem(yAxisKey).catch((error) => {
+      const stored_yAxis = await localforage.getItem(yAxisKey).catch((error) => {
         console.error("Error loading y-axis", error);
         return null;
       });

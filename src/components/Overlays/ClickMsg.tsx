@@ -31,7 +31,7 @@ function ClickMsg() {
 
       // get max x position
       //   const max_x = window.innerWidth;
-      let curX = event.clientX;
+      const curX = event.clientX;
 
       //   let overlay = document.getElementById("click-msg");
       //   let overlayHeight = overlay ? overlay.clientHeight : 0;
@@ -44,7 +44,7 @@ function ClickMsg() {
 
       // get window height
       //   const max_y = window.innerHeight;
-      let curY = event.clientY;
+      const curY = event.clientY;
 
       //   if (curY + overlayHeight + buffer > max_y) {
       //     curY = max_y - overlayHeight - buffer;

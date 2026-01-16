@@ -174,8 +174,8 @@ export const dataStore = create<IStore>((set) => ({
     // Use Promise.all to wait for both fetch operations to complete
     Promise.all([colorDictPromise, yAxisOptionsPromise])
       .then(([storedDict, storedYAxis]) => {
-        let colorDict = storedDict || ({} as CustomColorDict);
-        let colorKeys = [...defaultCharacterColors];
+        const colorDict = storedDict || ({} as CustomColorDict);
+        const colorKeys = [...defaultCharacterColors];
 
         // Update colorKeys if storedDict exists
         if (storedDict) {
@@ -186,8 +186,8 @@ export const dataStore = create<IStore>((set) => ({
           console.log("No custom color dict found");
         }
 
-        let customAxisOptions = storedYAxis || ([] as string[]);
-        let yAxisOptions = [...defaultYAxisOptions];
+        const customAxisOptions = storedYAxis || ([] as string[]);
+        const yAxisOptions = [...defaultYAxisOptions];
 
         // Update yAxisOptions if storedYAxis exists
         if (storedYAxis) {

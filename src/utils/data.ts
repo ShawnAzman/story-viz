@@ -10,7 +10,7 @@ import { extractChapterName } from "./helpers";
 const chunkQuote = (quote: string, chunk_size: number) => {
   const quoteChunks = [] as string[];
   let chunk = "";
-  let words = quote.split(" ");
+  const words = quote.split(" ");
   for (let i = 0; i < words.length; i++) {
     if (chunk.length + words[i].length < chunk_size) {
       chunk += words[i] + " ";
@@ -178,7 +178,7 @@ const chapter_data = (all_data: any): Chapter[] => {
 };
 
 const scene_data = (all_data: any, chapter_data: Chapter[]): Scene[] => {
-  let data = all_data["scenes"];
+  const data = all_data["scenes"];
 
   // const max_characters_per_scene = Math.max(
   //   ...data.map((scene: any) => scene.characters.length)

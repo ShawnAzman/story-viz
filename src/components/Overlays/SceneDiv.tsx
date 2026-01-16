@@ -26,8 +26,8 @@ function SceneDiv() {
       const max_x = window.innerWidth;
       let curX = event.clientX;
 
-      let overlay = document.getElementById("scene-overlay");
-      let overlayHeight = overlay ? overlay.clientHeight : 0;
+      const overlay = document.getElementById("scene-overlay");
+      const overlayHeight = overlay ? overlay.clientHeight : 0;
 
       const overlayWidth =
         scene && scene.characters && scene.characters.length > 8 && !chapterView

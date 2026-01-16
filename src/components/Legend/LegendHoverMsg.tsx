@@ -14,9 +14,9 @@ function LegendHoverMsg() {
       event.stopPropagation();
 
       let curX = event.clientX;
-      let curY = event.clientY;
+      const curY = event.clientY;
 
-      let maxX = window.innerWidth - 80;
+      const maxX = window.innerWidth - 80;
 
       if (curX > maxX) {
         curX = maxX;

@@ -13,8 +13,8 @@ function NetworkHoverMsg() {
       event.preventDefault();
       event.stopPropagation();
 
-      let curX = event.clientX;
-      let curY = event.clientY;
+      const curX = event.clientX;
+      const curY = event.clientY;
 
       setMousePosition({ x: curX, y: curY });
     };

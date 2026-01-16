@@ -58,7 +58,7 @@ const controlPoint = (
   }
   // The control point position is relative to the current point
   let x = current[0] + Math.cos(angle) * length;
-  let y = current[1] + Math.sin(angle) * 0;
+  const y = current[1] + Math.sin(angle) * 0;
 
   // second point adjustment
   if (
